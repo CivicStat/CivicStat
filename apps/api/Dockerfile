@@ -7,6 +7,9 @@ RUN corepack enable
 COPY . .
 
 RUN pnpm install --no-frozen-lockfile --prod=false
+RUN pnpm --filter @ntp/db prisma:generate
+RUN pnpm --filter @ntp/shared build
+RUN pnpm --filter @ntp/db build
 RUN pnpm --filter @ntp/api build
 
 ENV NODE_ENV=production
