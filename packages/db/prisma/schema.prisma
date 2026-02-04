@@ -1,0 +1,305 @@
+generator client {
+  provider = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
+}
+
+datasource db {
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  extensions = ["pgvector"]
+}
+
+enum VoteValue {
+  FOR
+  AGAINST
+  ABSTAIN
+  ABSENT
+}
+
+enum EntityType {
+  PARTY
+  MP
+}
+
+enum ConsultationStatus {
+  DRAFT
+  OPEN
+  CLOSED
+  ARCHIVED
+}
+
+enum ConsultationQuestionType {
+  POLL
+  TEXT
+}
+
+enum UserRole {
+  public
+  citizen
+  verified_mp
+  admin
+  auditor
+}
+
+enum MpVerifiedStatus {
+  UNVERIFIED
+  PENDING
+  VERIFIED
+}
+
+enum SourceType {
+  OFFICIAL_DOC
+  DEBATE
+  PRESS
+  STATEMENT
+}
+
+model Party {
+  id           String               @id @default(uuid()) @db.Uuid
+  name         String
+  abbreviation String
+  colorNeutral String?              @map("color_neutral")
+  website      String?
+  createdAt    DateTime             @default(now()) @map("created_at")
+  mps          Mp[]
+  programs     Program[]
+  motionMatches MotionProgramMatch[]
+  voteRecords  VoteRecord[]
+
+  @@map("parties")
+}
+
+model Mp {
+  id             String            @id @default(uuid()) @db.Uuid
+  name           String
+  partyId        String            @map("party_id") @db.Uuid
+  constituency   String?
+  startDate      DateTime          @map("start_date")
+  endDate        DateTime?         @map("end_date")
+  verifiedStatus MpVerifiedStatus  @default(UNVERIFIED) @map("verified_status")
+  createdAt      DateTime          @default(now()) @map("created_at")
+
+  party          Party             @relation(fields: [partyId], references: [id])
+  sponsors       MotionSponsor[]
+  voteRecords    VoteRecord[]
+  consultations  Consultation[]    @relation("ConsultationAuthor")
+
+  @@map("mps")
+}
+
+model Motion {
+  id            String                @id @default(uuid()) @db.Uuid
+  tkId          String                @unique @map("tk_id")
+  title         String
+  text          String
+  dateIntroduced DateTime             @map("date_introduced")
+  status        String
+  sourceUrl     String               @map("source_url")
+  createdAt     DateTime             @default(now()) @map("created_at")
+
+  sponsors      MotionSponsor[]
+  matches       MotionProgramMatch[]
+
+  @@map("motions")
+}
+
+model MotionSponsor {
+  motionId String @map("motion_id") @db.Uuid
+  mpId     String @map("mp_id") @db.Uuid
+  role     String
+
+  motion   Motion @relation(fields: [motionId], references: [id])
+  mp       Mp     @relation(fields: [mpId], references: [id])
+
+  @@id([motionId, mpId])
+  @@map("motion_sponsors")
+}
+
+model Vote {
+  id        String       @id @default(uuid()) @db.Uuid
+  tkId      String       @unique @map("tk_id")
+  date      DateTime
+  title     String
+  result    String
+  sourceUrl String       @map("source_url")
+  createdAt DateTime     @default(now()) @map("created_at")
+
+  records   VoteRecord[]
+
+  @@map("votes")
+}
+
+model VoteRecord {
+  id              String     @id @default(uuid()) @db.Uuid
+  voteId          String     @map("vote_id") @db.Uuid
+  mpId            String     @map("mp_id") @db.Uuid
+  voteValue       VoteValue  @map("vote_value")
+  partyIdSnapshot String     @map("party_id_snapshot") @db.Uuid
+  createdAt       DateTime   @default(now()) @map("created_at")
+
+  vote   Vote @relation(fields: [voteId], references: [id])
+  mp     Mp   @relation(fields: [mpId], references: [id])
+  party  Party @relation(fields: [partyIdSnapshot], references: [id])
+
+  @@unique([voteId, mpId])
+  @@map("vote_records")
+}
+
+model Program {
+  id           String           @id @default(uuid()) @db.Uuid
+  partyId      String           @map("party_id") @db.Uuid
+  electionYear Int              @map("election_year")
+  sourceUrl    String           @map("source_url")
+  rawText      String           @map("raw_text")
+  createdAt    DateTime         @default(now()) @map("created_at")
+
+  party        Party            @relation(fields: [partyId], references: [id])
+  passages     ProgramPassage[]
+
+  @@map("programs")
+}
+
+model ProgramPassage {
+  id          String   @id @default(uuid()) @db.Uuid
+  programId   String   @map("program_id") @db.Uuid
+  chapter     String?
+  heading     String?
+  passageText String   @map("passage_text")
+  startOffset Int      @map("start_offset")
+  endOffset   Int      @map("end_offset")
+  embedding   Unsupported("vector")?
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  program     Program  @relation(fields: [programId], references: [id])
+  matches     MotionProgramMatch[]
+
+  @@map("program_passages")
+}
+
+model Position {
+  id         String     @id @default(uuid()) @db.Uuid
+  entityType EntityType @map("entity_type")
+  entityId   String     @map("entity_id")
+  claimText  String     @map("claim_text")
+  sourceType SourceType @map("source_type")
+  sourceUrl  String     @map("source_url")
+  sourceDate DateTime   @map("source_date")
+  excerpt    String?
+  createdAt  DateTime   @default(now()) @map("created_at")
+
+  @@map("positions")
+}
+
+model Consultation {
+  id             String             @id @default(uuid()) @db.Uuid
+  createdByMpId  String             @map("created_by_mp_id") @db.Uuid
+  title          String
+  draftText      String             @map("draft_text")
+  explanation    String
+  status         ConsultationStatus @default(DRAFT)
+  opensAt        DateTime?          @map("opens_at")
+  closesAt       DateTime?          @map("closes_at")
+  createdAt      DateTime           @default(now()) @map("created_at")
+
+  createdBy      Mp                 @relation("ConsultationAuthor", fields: [createdByMpId], references: [id])
+  questions      ConsultationQuestion[]
+  responses      ConsultationResponse[]
+
+  @@map("consultations")
+}
+
+model ConsultationQuestion {
+  id             String                   @id @default(uuid()) @db.Uuid
+  consultationId String                   @map("consultation_id") @db.Uuid
+  questionText   String                   @map("question_text")
+  type           ConsultationQuestionType
+  optionsJson    Json?                    @map("options_json")
+  createdAt      DateTime                 @default(now()) @map("created_at")
+
+  consultation   Consultation             @relation(fields: [consultationId], references: [id])
+
+  @@map("consultation_questions")
+}
+
+model ConsultationResponse {
+  id             String         @id @default(uuid()) @db.Uuid
+  consultationId String         @map("consultation_id") @db.Uuid
+  userId         String?        @map("user_id") @db.Uuid
+  verifiedLevel  String         @map("verified_level")
+  answersJson    Json           @map("answers_json")
+  createdAt      DateTime       @default(now()) @map("created_at")
+
+  consultation   Consultation   @relation(fields: [consultationId], references: [id])
+  user           User?          @relation(fields: [userId], references: [id])
+
+  @@map("consultation_responses")
+}
+
+model User {
+  id            String     @id @default(uuid()) @db.Uuid
+  email         String     @unique
+  hashedPassword String?   @map("hashed_password")
+  authProvider  String     @map("auth_provider")
+  role          UserRole   @default(public)
+  verifiedLevel String     @map("verified_level")
+  createdAt     DateTime   @default(now()) @map("created_at")
+
+  responses     ConsultationResponse[]
+  auditLogs     AuditLog[]
+
+  @@map("users")
+}
+
+model AuditLog {
+  id          String   @id @default(uuid()) @db.Uuid
+  actorUserId String?  @map("actor_user_id") @db.Uuid
+  action      String
+  entityType  String   @map("entity_type")
+  entityId    String   @map("entity_id")
+  beforeJson  Json?    @map("before_json")
+  afterJson   Json?    @map("after_json")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  actor       User?    @relation(fields: [actorUserId], references: [id])
+
+  @@map("audit_logs")
+}
+
+model AlgorithmVersion {
+  id          String   @id @default(uuid()) @db.Uuid
+  name        String
+  version     String
+  description String
+  createdAt   DateTime @default(now()) @map("created_at")
+  active      Boolean  @default(false)
+
+  @@map("algorithm_versions")
+}
+
+model MotionProgramMatch {
+  id          String   @id @default(uuid()) @db.Uuid
+  motionId    String   @map("motion_id") @db.Uuid
+  partyId     String   @map("party_id") @db.Uuid
+  passageId   String   @map("passage_id") @db.Uuid
+  score       Float
+  rationaleJson Json   @map("rationale_json")
+  createdAt   DateTime @default(now()) @map("created_at")
+
+  motion      Motion         @relation(fields: [motionId], references: [id])
+  party       Party          @relation(fields: [partyId], references: [id])
+  passage     ProgramPassage @relation(fields: [passageId], references: [id])
+
+  @@unique([motionId, partyId, passageId])
+  @@map("motion_program_matches")
+}
+
+model RawIngest {
+  id          String   @id @default(uuid()) @db.Uuid
+  source      String
+  resourceType String  @map("resource_type")
+  sourceUrl   String?  @map("source_url")
+  payload     Json
+  fetchedAt   DateTime @default(now()) @map("fetched_at")
+
+  @@map("raw_ingest")
+}

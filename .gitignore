@@ -1,0 +1,12 @@
+node_modules
+.next
+.dist
+build
+coverage
+.env
+.env.*
+.DS_Store
+pnpm-lock.yaml
+
+# Prisma
+packages/db/prisma/migrations/**/migration_lock.toml
