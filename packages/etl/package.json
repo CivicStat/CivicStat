@@ -4,10 +4,10 @@
   "type": "module",
   "scripts": {
     "dev": "node --loader ts-node/esm src/index.ts",
+    "ingest": "node --loader ts-node/esm src/index.ts",
     "lint": "echo 'No lint yet'",
     "typecheck": "tsc -p tsconfig.json --noEmit",
-    "test": "echo 'No tests yet'",
-    "ingest:mock": "node --loader ts-node/esm src/index.ts --mock"
+    "test": "echo 'No tests yet'"
   },
   "dependencies": {
     "@ntp/db": "workspace:*"

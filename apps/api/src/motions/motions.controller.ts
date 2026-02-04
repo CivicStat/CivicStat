@@ -8,6 +8,8 @@ export class MotionsController {
   @Get()
   async list(
     @Query("q") q?: string,
+    @Query("party") party?: string,
+    @Query("status") status?: string,
     @Query("limit") limit?: string,
     @Query("offset") offset?: string
   ) {
@@ -16,8 +18,10 @@ export class MotionsController {
 
     return this.motionsService.list({
       query: q,
+      party,
+      status,
       limit: Number.isNaN(parsedLimit) ? 20 : parsedLimit,
-      offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset
+      offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset,
     });
   }
 

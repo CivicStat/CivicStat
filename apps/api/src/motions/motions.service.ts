@@ -3,47 +3,206 @@ import { prisma } from "@ntp/db";
 
 interface MotionListParams {
   query?: string;
+  party?: string;
+  status?: string;
   limit: number;
   offset: number;
 }
 
 @Injectable()
 export class MotionsService {
-  async list({ query, limit, offset }: MotionListParams) {
-    const where = query
-      ? {
-          OR: [
-            { title: { contains: query, mode: "insensitive" } },
-            { text: { contains: query, mode: "insensitive" } }
-          ]
-        }
-      : undefined;
+  async list({ query, party, status, limit, offset }: MotionListParams) {
+    const where: any = {};
+
+    if (query) {
+      where.OR = [
+        { title: { contains: query, mode: "insensitive" } },
+        { text: { contains: query, mode: "insensitive" } },
+      ];
+    }
+
+    if (status) {
+      where.status = status;
+    }
+
+    // If filtering by party, join through sponsors
+    if (party) {
+      where.sponsors = {
+        some: {
+          mp: {
+            party: {
+              OR: [
+                { abbreviation: { equals: party, mode: "insensitive" } },
+                { name: { equals: party, mode: "insensitive" } },
+              ],
+            },
+          },
+        },
+      };
+    }
 
     const [items, total] = await Promise.all([
       prisma.motion.findMany({
         where,
         orderBy: { dateIntroduced: "desc" },
         skip: offset,
-        take: limit
+        take: limit,
+        include: {
+          sponsors: {
+            include: {
+              mp: {
+                select: {
+                  id: true,
+                  name: true,
+                  surname: true,
+                  party: {
+                    select: {
+                      id: true,
+                      name: true,
+                      abbreviation: true,
+                    },
+                  },
+                },
+              },
+            },
+          },
+          vote: {
+            select: {
+              id: true,
+              tkId: true,
+              result: true,
+              totalFor: true,
+              totalAgainst: true,
+              totalAbstain: true,
+            },
+          },
+        },
       }),
-      prisma.motion.count({ where })
+      prisma.motion.count({ where }),
     ]);
 
     return {
       items,
       total,
       limit,
-      offset
+      offset,
     };
   }
 
   async get(idOrTkId: string) {
-    const byId = await prisma.motion.findUnique({ where: { id: idOrTkId } });
-    if (byId) {
-      return byId;
-    }
+    const motion = await this.findMotion(idOrTkId);
 
-    const byTkId = await prisma.motion.findUnique({ where: { tkId: idOrTkId } });
+    // Get full vote details if exists
+    const vote = motion.vote
+      ? await prisma.vote.findUnique({
+          where: { id: motion.vote.id },
+          include: {
+            records: {
+              include: {
+                mp: {
+                  select: {
+                    id: true,
+                    name: true,
+                    surname: true,
+                  },
+                },
+                party: {
+                  select: {
+                    id: true,
+                    name: true,
+                    abbreviation: true,
+                    colorNeutral: true,
+                  },
+                },
+              },
+            },
+          },
+        })
+      : null;
+
+    return {
+      ...motion,
+      vote,
+    };
+  }
+
+  private async findMotion(idOrTkId: string) {
+    const byId = await prisma.motion.findUnique({
+      where: { id: idOrTkId },
+      include: {
+        sponsors: {
+          include: {
+            mp: {
+              select: {
+                id: true,
+                tkId: true,
+                name: true,
+                surname: true,
+                party: {
+                  select: {
+                    id: true,
+                    name: true,
+                    abbreviation: true,
+                    colorNeutral: true,
+                  },
+                },
+              },
+            },
+          },
+        },
+        vote: {
+          select: {
+            id: true,
+            tkId: true,
+            date: true,
+            result: true,
+            totalFor: true,
+            totalAgainst: true,
+            totalAbstain: true,
+          },
+        },
+      },
+    });
+
+    if (byId) return byId;
+
+    const byTkId = await prisma.motion.findUnique({
+      where: { tkId: idOrTkId },
+      include: {
+        sponsors: {
+          include: {
+            mp: {
+              select: {
+                id: true,
+                tkId: true,
+                name: true,
+                surname: true,
+                party: {
+                  select: {
+                    id: true,
+                    name: true,
+                    abbreviation: true,
+                    colorNeutral: true,
+                  },
+                },
+              },
+            },
+          },
+        },
+        vote: {
+          select: {
+            id: true,
+            tkId: true,
+            date: true,
+            result: true,
+            totalFor: true,
+            totalAgainst: true,
+            totalAbstain: true,
+          },
+        },
+      },
+    });
+
     if (!byTkId) {
       throw new NotFoundException("Motion not found");
     }

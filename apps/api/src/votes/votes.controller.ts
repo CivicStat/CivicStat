@@ -8,6 +8,8 @@ export class VotesController {
   @Get()
   async list(
     @Query("q") q?: string,
+    @Query("party") party?: string,
+    @Query("result") result?: string,
     @Query("limit") limit?: string,
     @Query("offset") offset?: string
   ) {
@@ -16,8 +18,10 @@ export class VotesController {
 
     return this.votesService.list({
       query: q,
+      party,
+      result,
       limit: Number.isNaN(parsedLimit) ? 20 : parsedLimit,
-      offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset
+      offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset,
     });
   }
 

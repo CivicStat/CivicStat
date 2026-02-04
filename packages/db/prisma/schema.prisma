@@ -57,11 +57,16 @@ enum SourceType {
 
 model Party {
   id           String               @id @default(uuid()) @db.Uuid
+  tkId         String?              @unique @map("tk_id") // Tweede Kamer Fractie ID
   name         String
   abbreviation String
   colorNeutral String?              @map("color_neutral")
   website      String?
+  startDate    DateTime?            @map("start_date")
+  endDate      DateTime?            @map("end_date")
   createdAt    DateTime             @default(now()) @map("created_at")
+  updatedAt    DateTime             @updatedAt @map("updated_at")
+  
   mps          Mp[]
   programs     Program[]
   motionMatches MotionProgramMatch[]
@@ -72,13 +77,19 @@ model Party {
 
 model Mp {
   id             String            @id @default(uuid()) @db.Uuid
+  tkId           String            @unique @map("tk_id") // Tweede Kamer Persoon ID
   name           String
+  initials       String?
+  prefix         String? // tussenvoegsel (van, de, etc.)
+  surname        String            @map("surname")
   partyId        String            @map("party_id") @db.Uuid
   constituency   String?
+  gender         String?
   startDate      DateTime          @map("start_date")
   endDate        DateTime?         @map("end_date")
   verifiedStatus MpVerifiedStatus  @default(UNVERIFIED) @map("verified_status")
   createdAt      DateTime          @default(now()) @map("created_at")
+  updatedAt      DateTime          @updatedAt @map("updated_at")
 
   party          Party             @relation(fields: [partyId], references: [id])
   sponsors       MotionSponsor[]
@@ -90,16 +101,22 @@ model Mp {
 
 model Motion {
   id            String                @id @default(uuid()) @db.Uuid
-  tkId          String                @unique @map("tk_id")
+  tkId          String                @unique @map("tk_id") // Tweede Kamer Besluit ID
+  tkNumber      String?               @map("tk_number") // Kamerstukdossier nummer
   title         String
-  text          String
+  text          String                @db.Text
   dateIntroduced DateTime             @map("date_introduced")
   status        String
+  statusDetail  String?               @map("status_detail")
+  soort         String? // Type besluit (motie, amendement, etc.)
   sourceUrl     String               @map("source_url")
+  rawData       Json?                @map("raw_data") // Originele TK data
   createdAt     DateTime             @default(now()) @map("created_at")
+  updatedAt     DateTime             @updatedAt @map("updated_at")
 
   sponsors      MotionSponsor[]
   matches       MotionProgramMatch[]
+  vote          Vote?
 
   @@map("motions")
 }
@@ -107,9 +124,9 @@ model Motion {
 model MotionSponsor {
   motionId String @map("motion_id") @db.Uuid
   mpId     String @map("mp_id") @db.Uuid
-  role     String
+  role     String // "indiener" or "mede-indiener"
 
-  motion   Motion @relation(fields: [motionId], references: [id])
+  motion   Motion @relation(fields: [motionId], references: [id], onDelete: Cascade)
   mp       Mp     @relation(fields: [mpId], references: [id])
 
   @@id([motionId, mpId])
@@ -118,13 +135,20 @@ model MotionSponsor {
 
 model Vote {
   id        String       @id @default(uuid()) @db.Uuid
-  tkId      String       @unique @map("tk_id")
+  tkId      String       @unique @map("tk_id") // Tweede Kamer Stemming ID
+  motionId  String?      @unique @map("motion_id") @db.Uuid
   date      DateTime
   title     String
-  result    String
+  result    String // "Aangenomen" or "Verworpen"
+  totalFor  Int          @default(0) @map("total_for")
+  totalAgainst Int       @default(0) @map("total_against")
+  totalAbstain Int       @default(0) @map("total_abstain")
   sourceUrl String       @map("source_url")
+  rawData   Json?        @map("raw_data")
   createdAt DateTime     @default(now()) @map("created_at")
+  updatedAt DateTime     @updatedAt @map("updated_at")
 
+  motion    Motion?      @relation(fields: [motionId], references: [id])
   records   VoteRecord[]
 
   @@map("votes")
@@ -138,7 +162,7 @@ model VoteRecord {
   partyIdSnapshot String     @map("party_id_snapshot") @db.Uuid
   createdAt       DateTime   @default(now()) @map("created_at")
 
-  vote   Vote @relation(fields: [voteId], references: [id])
+  vote   Vote @relation(fields: [voteId], references: [id], onDelete: Cascade)
   mp     Mp   @relation(fields: [mpId], references: [id])
   party  Party @relation(fields: [partyIdSnapshot], references: [id])
 
@@ -151,8 +175,9 @@ model Program {
   partyId      String           @map("party_id") @db.Uuid
   electionYear Int              @map("election_year")
   sourceUrl    String           @map("source_url")
-  rawText      String           @map("raw_text")
+  rawText      String           @db.Text @map("raw_text")
   createdAt    DateTime         @default(now()) @map("created_at")
+  updatedAt    DateTime         @updatedAt @map("updated_at")
 
   party        Party            @relation(fields: [partyId], references: [id])
   passages     ProgramPassage[]
@@ -165,13 +190,13 @@ model ProgramPassage {
   programId   String   @map("program_id") @db.Uuid
   chapter     String?
   heading     String?
-  passageText String   @map("passage_text")
+  passageText String   @db.Text @map("passage_text")
   startOffset Int      @map("start_offset")
   endOffset   Int      @map("end_offset")
   embedding   Unsupported("vector")?
   createdAt   DateTime @default(now()) @map("created_at")
 
-  program     Program  @relation(fields: [programId], references: [id])
+  program     Program  @relation(fields: [programId], references: [id], onDelete: Cascade)
   matches     MotionProgramMatch[]
 
   @@map("program_passages")
@@ -181,11 +206,11 @@ model Position {
   id         String     @id @default(uuid()) @db.Uuid
   entityType EntityType @map("entity_type")
   entityId   String     @map("entity_id")
-  claimText  String     @map("claim_text")
+  claimText  String     @db.Text @map("claim_text")
   sourceType SourceType @map("source_type")
   sourceUrl  String     @map("source_url")
   sourceDate DateTime   @map("source_date")
-  excerpt    String?
+  excerpt    String?    @db.Text
   createdAt  DateTime   @default(now()) @map("created_at")
 
   @@map("positions")
@@ -195,12 +220,13 @@ model Consultation {
   id             String             @id @default(uuid()) @db.Uuid
   createdByMpId  String             @map("created_by_mp_id") @db.Uuid
   title          String
-  draftText      String             @map("draft_text")
-  explanation    String
+  draftText      String             @db.Text @map("draft_text")
+  explanation    String             @db.Text
   status         ConsultationStatus @default(DRAFT)
   opensAt        DateTime?          @map("opens_at")
   closesAt       DateTime?          @map("closes_at")
   createdAt      DateTime           @default(now()) @map("created_at")
+  updatedAt      DateTime           @updatedAt @map("updated_at")
 
   createdBy      Mp                 @relation("ConsultationAuthor", fields: [createdByMpId], references: [id])
   questions      ConsultationQuestion[]
@@ -212,12 +238,12 @@ model Consultation {
 model ConsultationQuestion {
   id             String                   @id @default(uuid()) @db.Uuid
   consultationId String                   @map("consultation_id") @db.Uuid
-  questionText   String                   @map("question_text")
+  questionText   String                   @db.Text @map("question_text")
   type           ConsultationQuestionType
   optionsJson    Json?                    @map("options_json")
   createdAt      DateTime                 @default(now()) @map("created_at")
 
-  consultation   Consultation             @relation(fields: [consultationId], references: [id])
+  consultation   Consultation             @relation(fields: [consultationId], references: [id], onDelete: Cascade)
 
   @@map("consultation_questions")
 }
@@ -230,7 +256,7 @@ model ConsultationResponse {
   answersJson    Json           @map("answers_json")
   createdAt      DateTime       @default(now()) @map("created_at")
 
-  consultation   Consultation   @relation(fields: [consultationId], references: [id])
+  consultation   Consultation   @relation(fields: [consultationId], references: [id], onDelete: Cascade)
   user           User?          @relation(fields: [userId], references: [id])
 
   @@map("consultation_responses")
@@ -244,6 +270,7 @@ model User {
   role          UserRole   @default(public)
   verifiedLevel String     @map("verified_level")
   createdAt     DateTime   @default(now()) @map("created_at")
+  updatedAt     DateTime   @updatedAt @map("updated_at")
 
   responses     ConsultationResponse[]
   auditLogs     AuditLog[]
@@ -270,7 +297,7 @@ model AlgorithmVersion {
   id          String   @id @default(uuid()) @db.Uuid
   name        String
   version     String
-  description String
+  description String   @db.Text
   createdAt   DateTime @default(now()) @map("created_at")
   active      Boolean  @default(false)
 
@@ -286,9 +313,9 @@ model MotionProgramMatch {
   rationaleJson Json   @map("rationale_json")
   createdAt   DateTime @default(now()) @map("created_at")
 
-  motion      Motion         @relation(fields: [motionId], references: [id])
+  motion      Motion         @relation(fields: [motionId], references: [id], onDelete: Cascade)
   party       Party          @relation(fields: [partyId], references: [id])
-  passage     ProgramPassage @relation(fields: [passageId], references: [id])
+  passage     ProgramPassage @relation(fields: [passageId], references: [id], onDelete: Cascade)
 
   @@unique([motionId, partyId, passageId])
   @@map("motion_program_matches")
@@ -296,11 +323,25 @@ model MotionProgramMatch {
 
 model RawIngest {
   id          String   @id @default(uuid()) @db.Uuid
-  source      String
-  resourceType String  @map("resource_type")
+  source      String   // "TK_ODATA", "TK_SYNCFEED"
+  resourceType String  @map("resource_type") // "Besluit", "Stemming", "Persoon", "Fractie"
+  resourceId  String   @map("resource_id") // TK ID
   sourceUrl   String?  @map("source_url")
   payload     Json
   fetchedAt   DateTime @default(now()) @map("fetched_at")
 
+  @@index([source, resourceType, resourceId])
   @@map("raw_ingest")
+}
+
+model SyncState {
+  id           String   @id @default(uuid()) @db.Uuid
+  source       String   @unique // "TK_BESLUITEN", "TK_STEMMINGEN", etc.
+  lastSyncedAt DateTime @map("last_synced_at")
+  lastSyncedId String?  @map("last_synced_id") // Voor pagination/cursor
+  metadata     Json?    // Extra sync state info
+  createdAt    DateTime @default(now()) @map("created_at")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+
+  @@map("sync_state")
 }
