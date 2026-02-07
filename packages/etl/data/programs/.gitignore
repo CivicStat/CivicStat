@@ -1,0 +1,5 @@
+# Downloaded PDFs (large binary files, not for git)
+*.pdf
+
+# Keep the manifest
+!manifest.json

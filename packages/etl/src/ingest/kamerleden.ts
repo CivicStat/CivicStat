@@ -2,7 +2,7 @@
  * Ingest Personen (Kamerleden) from Tweede Kamer OData API
  */
 
-import { PrismaClient } from '@ntp/db';
+import { PrismaClient } from '@prisma/client';
 import { tkClient, type TKPersoon, type TKFractieZetelPersoon } from '../clients/tk-odata.js';
 
 const prisma = new PrismaClient();
@@ -16,16 +16,30 @@ export async function ingestKamerleden(): Promise<void> {
     console.log(`[INGEST] Found ${personen.length} personen`);
 
     // 2. Fetch all fractie-zetel assignments
-    const zetels = await tkClient.getFractieZetels();
-    console.log(`[INGEST] Found ${zetels.length} fractie assignments`);
+    const zetelPersonen = await tkClient.getFractieZetelPersonen();
+    console.log(`[INGEST] Found ${zetelPersonen.length} fractie assignments`);
+
+    const fractieZetels = await tkClient.getFractieZetels();
+    console.log(`[INGEST] Found ${fractieZetels.length} fractie seats`);
+
+    const fractieByZetelId = new Map<string, string>();
+    for (const zetel of fractieZetels) {
+      const fractieId =
+        (zetel as any).Fractie_Id ||
+        (zetel as any).FractieId ||
+        (zetel as any).Fractie?.Id;
+      if (fractieId) {
+        fractieByZetelId.set(zetel.Id, fractieId);
+      }
+    }
 
     // 3. Create a map of current fractie per persoon
     const currentFractieMap = new Map<string, TKFractieZetelPersoon>();
 
-    for (const zetel of zetels) {
+    for (const zetel of zetelPersonen) {
       // Only active assignments (no TotEnMet or TotEnMet in future)
       if (!zetel.TotEnMet || new Date(zetel.TotEnMet) > new Date()) {
-        currentFractieMap.set(zetel.PersoonId, zetel);
+        currentFractieMap.set(zetel.Persoon_Id, zetel);
       }
     }
 
@@ -39,24 +53,25 @@ export async function ingestKamerleden(): Promise<void> {
       }
 
       // Get party from database
-      const party = await prisma.party.findUnique({
-        where: { tkId: zetel.FractieId },
-      });
+      const fractieId = fractieByZetelId.get(zetel.FractieZetel_Id);
 
-      if (!party) {
-        console.log(`[INGEST] ⚠️  Skipping ${persoon.Achternaam} (fractie not found: ${zetel.FractieId})`);
+      if (!fractieId) {
+        console.log(
+          `[INGEST] ⚠️  Skipping ${persoon.Achternaam} (fractie seat not found: ${zetel.FractieZetel_Id})`
+        );
         continue;
       }
 
-      // Save raw data
-      await prisma.rawIngest.create({
-        data: {
-          source: 'TK_ODATA',
-          resourceType: 'Persoon',
-          resourceId: persoon.Id,
-          payload: persoon as any,
-        },
+      const party = await prisma.party.findUnique({
+        where: { tkId: fractieId },
       });
+
+      if (!party) {
+        console.log(`[INGEST] ⚠️  Skipping ${persoon.Achternaam} (fractie not found: ${fractieId})`);
+        continue;
+      }
+
+      // Raw ingest disabled to save storage
 
       // Upsert MP
       const fullName = [
@@ -99,7 +114,5 @@ export async function ingestKamerleden(): Promise<void> {
   } catch (error) {
     console.error('[INGEST] ❌ Kamerleden ingest failed:', error);
     throw error;
-  } finally {
-    await prisma.$disconnect();
   }
 }

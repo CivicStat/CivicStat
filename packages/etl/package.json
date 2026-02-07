@@ -3,18 +3,20 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "node --loader ts-node/esm src/index.ts",
-    "ingest": "node --loader ts-node/esm src/index.ts",
+    "dev": "tsx src/index.ts",
+    "ingest": "tsx src/index.ts",
     "lint": "echo 'No lint yet'",
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test": "echo 'No tests yet'"
   },
   "dependencies": {
-    "@ntp/db": "workspace:*"
+    "@prisma/client": "^5.19.1",
+    "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
     "@types/node": "^20.14.9",
-    "ts-node": "^10.9.2",
+    "@types/pdf-parse": "^1.1.5",
+    "tsx": "^4.7.0",
     "typescript": "^5.4.5"
   }
 }

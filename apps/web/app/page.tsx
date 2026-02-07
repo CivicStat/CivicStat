@@ -51,6 +51,7 @@ export default function HomePage() {
       <section className="container-card space-y-3">
         <h2 className="text-2xl font-semibold">Navigatie (MVP)</h2>
         <div className="grid gap-2 text-sm text-slate sm:grid-cols-2">
+          <a className="underline" href="/travel-planner">/travel-planner</a>
           <a className="underline" href="/moties">/moties</a>
           <a className="underline" href="/kamerleden">/kamerleden</a>
           <a className="underline" href="/partijen">/partijen</a>
