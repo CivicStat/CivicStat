@@ -66,7 +66,7 @@ export class MotionsService {
               },
             },
           },
-          vote: {
+          votes: {
             select: {
               id: true,
               tkId: true,
@@ -75,6 +75,7 @@ export class MotionsService {
               totalAgainst: true,
               totalAbstain: true,
             },
+            take: 1,
           },
         },
       }),
@@ -82,7 +83,7 @@ export class MotionsService {
     ]);
 
     return {
-      items,
+      items: items.map(m => ({ ...m, vote: m.votes[0] ?? null, votes: undefined })),
       total,
       limit,
       offset,
@@ -93,9 +94,10 @@ export class MotionsService {
     const motion = await this.findMotion(idOrTkId);
 
     // Get full vote details if exists
-    const vote = motion.vote
+    const firstVote = motion.votes?.[0] ?? null;
+    const vote = firstVote
       ? await prisma.vote.findUnique({
-          where: { id: motion.vote.id },
+          where: { id: firstVote.id },
           include: {
             records: {
               include: {
@@ -150,7 +152,7 @@ export class MotionsService {
             },
           },
         },
-        vote: {
+        votes: {
           select: {
             id: true,
             tkId: true,
@@ -160,6 +162,7 @@ export class MotionsService {
             totalAgainst: true,
             totalAbstain: true,
           },
+          take: 1,
         },
       },
     });
@@ -189,7 +192,7 @@ export class MotionsService {
             },
           },
         },
-        vote: {
+        votes: {
           select: {
             id: true,
             tkId: true,
@@ -199,6 +202,7 @@ export class MotionsService {
             totalAgainst: true,
             totalAbstain: true,
           },
+          take: 1,
         },
       },
     });

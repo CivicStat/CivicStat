@@ -71,12 +71,13 @@ export class MembersService {
             role: true,
           },
         },
-        vote: {
+        votes: {
           select: {
             result: true,
             totalFor: true,
             totalAgainst: true,
           },
+          take: 1,
         },
       },
     });
