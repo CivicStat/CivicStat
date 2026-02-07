@@ -11,3 +11,8 @@ pnpm-lock.yaml
 
 # Prisma
 packages/db/prisma/migrations/**/migration_lock.toml
+.turbo/
+dist/
+apps/api/dist/
+packages/db/dist/
+packages/shared/dist/
