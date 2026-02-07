@@ -1,41 +1,69 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Fraunces, IBM_Plex_Sans } from "next/font/google";
+import { Instrument_Serif, Plus_Jakarta_Sans } from "next/font/google";
+import Nav from "../components/Nav";
 
-const fraunces = Fraunces({
+const serif = Instrument_Serif({
   subsets: ["latin"],
-  variable: "--font-fraunces",
-  display: "swap"
+  weight: "400",
+  style: ["normal", "italic"],
+  variable: "--font-serif",
+  display: "swap",
 });
 
-const plex = IBM_Plex_Sans({
+const sans = Plus_Jakarta_Sans({
   subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
-  variable: "--font-plex",
-  display: "swap"
+  variable: "--font-sans",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "Neutrale Transparantie-Platform",
+  title: "CivicStat — Neutraal Transparantie-Platform",
   description:
-    "Feitelijke, traceerbare ontsluiting van moties, stemgedrag en programmapassages."
+    "Parlementaire data, neutraal ontsloten. Moties, stemgedrag en verkiezingsprogramma's — traceerbaar, zonder politieke duiding.",
 };
 
+// Script to set dark class before first paint (prevents flash)
+const themeScript = `
+(function(){
+  try {
+    var t = localStorage.getItem('theme');
+    if (t === 'dark' || (!t && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      document.documentElement.classList.add('dark');
+    }
+  } catch(e) {}
+})();
+`;
+
 export default function RootLayout({
-  children
+  children,
 }: {
   children: React.ReactNode;
 }) {
   return (
-    <html lang="nl" className={`${fraunces.variable} ${plex.variable}`}>
-      <body className="min-h-screen bg-mist text-ink antialiased">
-        <div className="relative min-h-screen overflow-hidden">
-          <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,_rgba(15,91,77,0.15),_transparent_65%)]" />
-          <div className="pointer-events-none absolute -right-32 top-32 h-80 w-80 rounded-full bg-clay/40 blur-3xl" />
-          <div className="relative mx-auto flex min-h-screen w-full max-w-6xl flex-col px-6 py-8">
-            {children}
-          </div>
+    <html lang="nl" className={`${serif.variable} ${sans.variable}`} suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
+      </head>
+      <body className="min-h-screen antialiased font-sans">
+        <Nav />
+        <div className="min-h-[calc(100vh-56px)]">
+          {children}
         </div>
+        <footer className="border-t border-border px-5 py-6 mt-12">
+          <div className="mx-auto flex max-w-[1200px] items-center justify-between flex-wrap gap-3">
+            <span className="text-xs text-text-tertiary">
+              CivicStat — Democratie, controleerbaar gemaakt.
+            </span>
+            <div className="flex gap-4 text-xs text-text-tertiary">
+              {["Over", "Methodologie", "Open API", "Governance"].map((l) => (
+                <span key={l} className="cursor-pointer hover:text-text-secondary transition-colors">
+                  {l}
+                </span>
+              ))}
+            </div>
+          </div>
+        </footer>
       </body>
     </html>
   );

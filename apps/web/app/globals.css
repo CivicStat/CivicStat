@@ -2,23 +2,99 @@
 @tailwind components;
 @tailwind utilities;
 
+/* ─── Light theme (default) ─── */
 :root {
-  --font-fraunces: "Fraunces", serif;
-  --font-plex: "IBM Plex Sans", sans-serif;
+  --font-serif: "Instrument Serif", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --color-ink: #0E1116;
+  --color-mist: #F7F8FA;
+  --color-moss: #0F5B4D;
+  --color-moss-hover: #0D4F43;
+  --color-surface: #FFFFFF;
+  --color-surface-sub: #EEF1F5;
+  --color-surface-sub2: #E4E8EE;
+  --color-border: #DDE1E8;
+  --color-border-subtle: #EEF1F5;
+  --color-text-secondary: #4A5468;
+  --color-text-tertiary: #8B95A8;
+  --color-bar-voor: #2D3648;
+  --color-bar-tegen: #C5CBD6;
+  --color-bar-afwezig: #EEF1F5;
+  --color-accent-subtle: #E8F5F0;
+
+  --shadow-card: 0 1px 3px rgba(14,17,22,0.06);
+  --shadow-card-md: 0 4px 12px rgba(14,17,22,0.06);
+
+  --nav-bg: rgba(255,255,255,0.78);
+}
+
+/* ─── Dark theme ─── */
+.dark {
+  --color-ink: #E4E9F2;
+  --color-mist: #0E1623;
+  --color-moss: #4ADE9A;
+  --color-moss-hover: #6EE7B0;
+  --color-surface: #16202F;
+  --color-surface-sub: #1C2840;
+  --color-surface-sub2: #243252;
+  --color-border: #283550;
+  --color-border-subtle: #1C2840;
+  --color-text-secondary: #96A3BC;
+  --color-text-tertiary: #566883;
+  --color-bar-voor: #C5CBD6;
+  --color-bar-tegen: #283550;
+  --color-bar-afwezig: #1C2840;
+  --color-accent-subtle: #0F2A1F;
+
+  --shadow-card: 0 1px 3px rgba(0,0,0,0.3);
+  --shadow-card-md: 0 4px 12px rgba(0,0,0,0.25);
+
+  --nav-bg: rgba(14,22,35,0.78);
 }
 
 body {
-  font-family: var(--font-plex);
+  font-family: var(--font-sans);
+  background: var(--color-mist);
+  color: var(--color-ink);
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.card, header, footer, nav {
+  transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
 }
 
 h1, h2, h3, h4 {
-  font-family: var(--font-fraunces);
+  font-family: var(--font-serif);
 }
 
-.container-card {
-  @apply rounded-2xl border border-black/10 bg-white/80 p-6 shadow-sm backdrop-blur;
+/* ─── Shared card style ─── */
+.card {
+  @apply rounded-card border border-border bg-surface shadow-card;
 }
 
 .badge {
-  @apply inline-flex items-center rounded-full border border-black/10 bg-white px-3 py-1 text-xs font-medium text-slate;
+  @apply inline-flex items-center gap-1.5 rounded-full border border-border bg-surface-sub px-2.5 py-0.5 text-xs font-semibold text-ink whitespace-nowrap;
+}
+
+/* ─── Section label (uppercase small) ─── */
+.section-label {
+  @apply text-[11px] font-semibold uppercase tracking-wider text-text-tertiary mb-2;
+}
+
+/* ─── Smooth transitions ─── */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Focus ring ─── */
+button:focus-visible, a:focus-visible {
+  outline: 2px solid var(--color-moss);
+  outline-offset: 2px;
+}
+
+/* ─── Table row hover ─── */
+.table-row-hover {
+  @apply transition-colors hover:bg-surface-sub;
 }
