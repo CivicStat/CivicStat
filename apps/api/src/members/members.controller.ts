@@ -7,10 +7,12 @@ export class MembersController {
 
   @Get()
   async list(
+    @Query("q") q?: string,
     @Query("party") party?: string,
     @Query("active") active?: string
   ) {
     return this.membersService.list({
+      q,
       party,
       active: active !== "false", // Default true
     });

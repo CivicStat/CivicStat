@@ -2,17 +2,33 @@ import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
 interface MembersListParams {
+  q?: string;
   party?: string;
   active?: boolean;
 }
 
 @Injectable()
 export class MembersService {
-  async list({ party, active = true }: MembersListParams) {
+  async list({ q, party, active = true }: MembersListParams) {
     const where: any = {};
 
     if (active) {
-      where.OR = [{ endDate: null }, { endDate: { gte: new Date() } }];
+      where.AND = where.AND || [];
+      where.AND.push({
+        OR: [{ endDate: null }, { endDate: { gte: new Date() } }],
+      });
+    }
+
+    if (q) {
+      where.AND = where.AND || [];
+      where.AND.push({
+        OR: [
+          { name: { contains: q, mode: "insensitive" } },
+          { surname: { contains: q, mode: "insensitive" } },
+          { party: { abbreviation: { contains: q, mode: "insensitive" } } },
+          { party: { name: { contains: q, mode: "insensitive" } } },
+        ],
+      });
     }
 
     if (party) {

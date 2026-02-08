@@ -12,6 +12,7 @@ export class PromisesController {
 
   @Get()
   async list(
+    @Query("q") q?: string,
     @Query("party") party?: string,
     @Query("year") year?: string,
     @Query("theme") theme?: string,
@@ -22,6 +23,7 @@ export class PromisesController {
     const parsedOffset = Math.max(Number(offset ?? 0), 0);
 
     return this.promisesService.list({
+      q,
       party,
       year: year ? Number(year) : undefined,
       theme,

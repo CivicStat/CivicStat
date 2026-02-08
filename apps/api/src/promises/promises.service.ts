@@ -2,6 +2,7 @@ import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
 interface ListOptions {
+  q?: string;
   party?: string;
   year?: number;
   theme?: string;
@@ -12,9 +13,17 @@ interface ListOptions {
 @Injectable()
 export class PromisesService {
   async list(options: ListOptions = {}) {
-    const { party, year, theme, limit = 50, offset = 0 } = options;
+    const { q, party, year, theme, limit = 50, offset = 0 } = options;
 
     const where: any = {};
+
+    if (q) {
+      where.OR = [
+        { summary: { contains: q, mode: "insensitive" } },
+        { text: { contains: q, mode: "insensitive" } },
+        { promiseCode: { contains: q, mode: "insensitive" } },
+      ];
+    }
 
     if (party) {
       where.program = {
