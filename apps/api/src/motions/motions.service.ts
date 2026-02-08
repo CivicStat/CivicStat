@@ -129,82 +129,77 @@ export class MotionsService {
   }
 
   private async findMotion(idOrTkId: string) {
-    const byId = await prisma.motion.findUnique({
-      where: { id: idOrTkId },
-      include: {
-        sponsors: {
-          include: {
-            mp: {
-              select: {
-                id: true,
-                tkId: true,
-                name: true,
-                surname: true,
-                party: {
-                  select: {
-                    id: true,
-                    name: true,
-                    abbreviation: true,
-                    colorNeutral: true,
+    const motionInclude = {
+      sponsors: {
+        include: {
+          mp: {
+            select: {
+              id: true,
+              tkId: true,
+              name: true,
+              surname: true,
+              party: {
+                select: {
+                  id: true,
+                  name: true,
+                  abbreviation: true,
+                  colorNeutral: true,
+                },
+              },
+            },
+          },
+        },
+      },
+      votes: {
+        select: {
+          id: true,
+          tkId: true,
+          date: true,
+          result: true,
+          totalFor: true,
+          totalAgainst: true,
+          totalAbstain: true,
+        },
+        take: 1,
+      },
+      promiseMatches: {
+        include: {
+          promise: {
+            select: {
+              id: true,
+              promiseCode: true,
+              summary: true,
+              theme: true,
+              expectedVoteDirection: true,
+              program: {
+                select: {
+                  electionYear: true,
+                  party: {
+                    select: {
+                      id: true,
+                      abbreviation: true,
+                      colorNeutral: true,
+                    },
                   },
                 },
               },
             },
           },
         },
-        votes: {
-          select: {
-            id: true,
-            tkId: true,
-            date: true,
-            result: true,
-            totalFor: true,
-            totalAgainst: true,
-            totalAbstain: true,
-          },
-          take: 1,
-        },
+        orderBy: { confidence: "desc" as const },
       },
+    };
+
+    const byId = await prisma.motion.findUnique({
+      where: { id: idOrTkId },
+      include: motionInclude,
     });
 
     if (byId) return byId;
 
     const byTkId = await prisma.motion.findUnique({
       where: { tkId: idOrTkId },
-      include: {
-        sponsors: {
-          include: {
-            mp: {
-              select: {
-                id: true,
-                tkId: true,
-                name: true,
-                surname: true,
-                party: {
-                  select: {
-                    id: true,
-                    name: true,
-                    abbreviation: true,
-                    colorNeutral: true,
-                  },
-                },
-              },
-            },
-          },
-        },
-        votes: {
-          select: {
-            id: true,
-            tkId: true,
-            date: true,
-            result: true,
-            totalFor: true,
-            totalAgainst: true,
-            totalAbstain: true,
-          },
-          take: 1,
-        },
-      },
+      include: motionInclude,
     });
 
     if (!byTkId) {
