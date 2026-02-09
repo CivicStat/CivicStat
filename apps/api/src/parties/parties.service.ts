@@ -6,8 +6,13 @@ export class PartiesService {
   async list() {
     const parties = await prisma.party.findMany({
       where: {
-        // Only active parties (no end date or end date in future)
-        OR: [{ endDate: null }, { endDate: { gte: new Date() } }],
+        OR: [
+          // Active parties (no end date or end date in future)
+          { endDate: null },
+          { endDate: { gte: new Date() } },
+          // Parties with a 2023 program (current parliamentary term)
+          { programs: { some: { electionYear: 2023 } } },
+        ],
       },
       orderBy: { abbreviation: "asc" },
       include: {
@@ -104,16 +109,19 @@ export class PartiesService {
   }
 
   private async findParty(idOrAbbr: string) {
-    const byId = await prisma.party.findUnique({
-      where: { id: idOrAbbr },
-    });
+    // UUID format check — only query by id if it looks like a UUID
+    const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(idOrAbbr);
 
-    if (byId) return byId;
+    if (isUuid) {
+      const byId = await prisma.party.findUnique({
+        where: { id: idOrAbbr },
+      });
+      if (byId) return byId;
+    }
 
     const byTkId = await prisma.party.findUnique({
       where: { tkId: idOrAbbr },
     });
-
     if (byTkId) return byTkId;
 
     const byAbbr = await prisma.party.findFirst({
