@@ -21,6 +21,11 @@ import { seedCdaPromises } from './seeds/cda-promises-tk2023.js';
 import { seedSpPromises } from './seeds/sp-promises-tk2023.js';
 import { seedPvddPromises } from './seeds/pvdd-promises-tk2023.js';
 import { seedCuPromises } from './seeds/cu-promises-tk2023.js';
+import { seedFvdPromises } from './seeds/fvd-promises-tk2023.js';
+import { seedSgpPromises } from './seeds/sgp-promises-tk2023.js';
+import { seedDenkPromises } from './seeds/denk-promises-tk2023.js';
+import { seedVoltPromises } from './seeds/volt-promises-tk2023.js';
+import { seedJa21Promises } from './seeds/ja21-promises-tk2023.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -146,6 +151,26 @@ async function main() {
         await seedCuPromises();
         break;
 
+      case 'seed-promises-fvd':
+        await seedFvdPromises();
+        break;
+
+      case 'seed-promises-sgp':
+        await seedSgpPromises();
+        break;
+
+      case 'seed-promises-denk':
+        await seedDenkPromises();
+        break;
+
+      case 'seed-promises-volt':
+        await seedVoltPromises();
+        break;
+
+      case 'seed-promises-ja21':
+        await seedJa21Promises();
+        break;
+
       case 'seed-promises-all':
         console.log('🌱 Seeding all TK2023 promises...\n');
         await seedVvdPromises();
@@ -158,6 +183,11 @@ async function main() {
         await seedSpPromises();
         await seedPvddPromises();
         await seedCuPromises();
+        await seedFvdPromises();
+        await seedSgpPromises();
+        await seedDenkPromises();
+        await seedVoltPromises();
+        await seedJa21Promises();
         console.log('\n✅ All TK2023 promises seeded!');
         break;
 
@@ -213,6 +243,11 @@ async function main() {
         console.log('  npm run ingest seed-promises-sp            - Seed SP TK2023 promises');
         console.log('  npm run ingest seed-promises-pvdd          - Seed PvdD TK2023 promises');
         console.log('  npm run ingest seed-promises-cu            - Seed CU TK2023 promises');
+        console.log('  npm run ingest seed-promises-fvd           - Seed FvD TK2023 promises');
+        console.log('  npm run ingest seed-promises-sgp           - Seed SGP TK2023 promises');
+        console.log('  npm run ingest seed-promises-denk          - Seed DENK TK2023 promises');
+        console.log('  npm run ingest seed-promises-volt          - Seed Volt TK2023 promises');
+        console.log('  npm run ingest seed-promises-ja21          - Seed JA21 TK2023 promises');
         console.log('  npm run ingest seed-promises-all           - Seed ALL party TK2023 promises');
         console.log('  npm run ingest match-promises               - Match all promises to motions');
         console.log('  npm run ingest match-promises --party VVD   - Match VVD promises only');
