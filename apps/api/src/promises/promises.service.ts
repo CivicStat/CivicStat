@@ -101,8 +101,10 @@ export class PromisesService {
   }
 
   async get(id: string) {
-    // Try UUID first, then fall back to promiseCode
-    let promise = await prisma.promise.findUnique({
+    // Check if id looks like a UUID
+    const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(id);
+
+    let promise = isUuid ? await prisma.promise.findUnique({
       where: { id },
       include: {
         program: {
@@ -156,7 +158,7 @@ export class PromisesService {
           orderBy: { confidence: "desc" },
         },
       },
-    });
+    }) : null;
 
     // Fall back to promiseCode lookup
     if (!promise) {
