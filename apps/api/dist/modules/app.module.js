@@ -13,6 +13,7 @@ const motions_module_1 = require("../motions/motions.module");
 const votes_module_1 = require("../votes/votes.module");
 const parties_module_1 = require("../parties/parties.module");
 const members_module_1 = require("../members/members.module");
+const promises_module_1 = require("../promises/promises.module");
 let AppModule = class AppModule {
 };
 exports.AppModule = AppModule;
@@ -24,6 +25,7 @@ exports.AppModule = AppModule = __decorate([
             votes_module_1.VotesModule,
             parties_module_1.PartiesModule,
             members_module_1.MembersModule,
+            promises_module_1.PromisesModule,
         ],
     })
 ], AppModule);

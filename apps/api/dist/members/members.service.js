@@ -10,10 +10,24 @@ exports.MembersService = void 0;
 const common_1 = require("@nestjs/common");
 const db_1 = require("@ntp/db");
 let MembersService = class MembersService {
-    async list({ party, active = true }) {
+    async list({ q, party, active = true }) {
         const where = {};
         if (active) {
-            where.OR = [{ endDate: null }, { endDate: { gte: new Date() } }];
+            where.AND = where.AND || [];
+            where.AND.push({
+                OR: [{ endDate: null }, { endDate: { gte: new Date() } }],
+            });
+        }
+        if (q) {
+            where.AND = where.AND || [];
+            where.AND.push({
+                OR: [
+                    { name: { contains: q, mode: "insensitive" } },
+                    { surname: { contains: q, mode: "insensitive" } },
+                    { party: { abbreviation: { contains: q, mode: "insensitive" } } },
+                    { party: { name: { contains: q, mode: "insensitive" } } },
+                ],
+            });
         }
         if (party) {
             where.party = {
@@ -67,12 +81,13 @@ let MembersService = class MembersService {
                         role: true,
                     },
                 },
-                vote: {
+                votes: {
                     select: {
                         result: true,
                         totalFor: true,
                         totalAgainst: true,
                     },
+                    take: 1,
                 },
             },
         });

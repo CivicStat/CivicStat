@@ -101,7 +101,8 @@ export class PromisesService {
   }
 
   async get(id: string) {
-    const promise = await prisma.promise.findUnique({
+    // Try UUID first, then fall back to promiseCode
+    let promise = await prisma.promise.findUnique({
       where: { id },
       include: {
         program: {
@@ -156,6 +157,65 @@ export class PromisesService {
         },
       },
     });
+
+    // Fall back to promiseCode lookup
+    if (!promise) {
+      promise = await prisma.promise.findFirst({
+        where: { promiseCode: { equals: id, mode: "insensitive" } },
+        include: {
+          program: {
+            select: {
+              id: true,
+              electionYear: true,
+              title: true,
+              sourceUrl: true,
+              party: {
+                select: {
+                  id: true,
+                  name: true,
+                  abbreviation: true,
+                  colorNeutral: true,
+                },
+              },
+            },
+          },
+          passage: {
+            select: {
+              id: true,
+              chapter: true,
+              heading: true,
+              passageText: true,
+            },
+          },
+          motionMatches: {
+            include: {
+              motion: {
+                select: {
+                  id: true,
+                  tkId: true,
+                  tkNumber: true,
+                  title: true,
+                  text: true,
+                  dateIntroduced: true,
+                  status: true,
+                  votes: {
+                    select: {
+                      id: true,
+                      result: true,
+                      totalFor: true,
+                      totalAgainst: true,
+                      totalAbstain: true,
+                    },
+                    take: 1,
+                  },
+                },
+              },
+            },
+            orderBy: { confidence: "desc" },
+          },
+        },
+      });
+    }
 
     if (!promise) {
       throw new NotFoundException("Promise not found");

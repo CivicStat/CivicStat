@@ -61,7 +61,7 @@ let MotionsService = class MotionsService {
                             },
                         },
                     },
-                    vote: {
+                    votes: {
                         select: {
                             id: true,
                             tkId: true,
@@ -70,13 +70,14 @@ let MotionsService = class MotionsService {
                             totalAgainst: true,
                             totalAbstain: true,
                         },
+                        take: 1,
                     },
                 },
             }),
             db_1.prisma.motion.count({ where }),
         ]);
         return {
-            items,
+            items: items.map(m => ({ ...m, vote: m.votes[0] ?? null, votes: undefined })),
             total,
             limit,
             offset,
@@ -85,9 +86,10 @@ let MotionsService = class MotionsService {
     async get(idOrTkId) {
         const motion = await this.findMotion(idOrTkId);
         // Get full vote details if exists
-        const vote = motion.vote
+        const firstVote = motion.votes?.[0] ?? null;
+        const vote = firstVote
             ? await db_1.prisma.vote.findUnique({
-                where: { id: motion.vote.id },
+                where: { id: firstVote.id },
                 include: {
                     records: {
                         include: {
@@ -117,79 +119,75 @@ let MotionsService = class MotionsService {
         };
     }
     async findMotion(idOrTkId) {
-        const byId = await db_1.prisma.motion.findUnique({
-            where: { id: idOrTkId },
-            include: {
-                sponsors: {
-                    include: {
-                        mp: {
-                            select: {
-                                id: true,
-                                tkId: true,
-                                name: true,
-                                surname: true,
-                                party: {
-                                    select: {
-                                        id: true,
-                                        name: true,
-                                        abbreviation: true,
-                                        colorNeutral: true,
+        const motionInclude = {
+            sponsors: {
+                include: {
+                    mp: {
+                        select: {
+                            id: true,
+                            tkId: true,
+                            name: true,
+                            surname: true,
+                            party: {
+                                select: {
+                                    id: true,
+                                    name: true,
+                                    abbreviation: true,
+                                    colorNeutral: true,
+                                },
+                            },
+                        },
+                    },
+                },
+            },
+            votes: {
+                select: {
+                    id: true,
+                    tkId: true,
+                    date: true,
+                    result: true,
+                    totalFor: true,
+                    totalAgainst: true,
+                    totalAbstain: true,
+                },
+                take: 1,
+            },
+            promiseMatches: {
+                include: {
+                    promise: {
+                        select: {
+                            id: true,
+                            promiseCode: true,
+                            summary: true,
+                            theme: true,
+                            expectedVoteDirection: true,
+                            program: {
+                                select: {
+                                    electionYear: true,
+                                    party: {
+                                        select: {
+                                            id: true,
+                                            abbreviation: true,
+                                            colorNeutral: true,
+                                        },
                                     },
                                 },
                             },
                         },
                     },
                 },
-                vote: {
-                    select: {
-                        id: true,
-                        tkId: true,
-                        date: true,
-                        result: true,
-                        totalFor: true,
-                        totalAgainst: true,
-                        totalAbstain: true,
-                    },
-                },
+                orderBy: { confidence: "desc" },
             },
+        };
+        const byId = await db_1.prisma.motion.findUnique({
+            where: { id: idOrTkId },
+            include: motionInclude,
         });
         if (byId)
             return byId;
         const byTkId = await db_1.prisma.motion.findUnique({
             where: { tkId: idOrTkId },
-            include: {
-                sponsors: {
-                    include: {
-                        mp: {
-                            select: {
-                                id: true,
-                                tkId: true,
-                                name: true,
-                                surname: true,
-                                party: {
-                                    select: {
-                                        id: true,
-                                        name: true,
-                                        abbreviation: true,
-                                        colorNeutral: true,
-                                    },
-                                },
-                            },
-                        },
-                    },
-                },
-                vote: {
-                    select: {
-                        id: true,
-                        tkId: true,
-                        date: true,
-                        result: true,
-                        totalFor: true,
-                        totalAgainst: true,
-                        totalAbstain: true,
-                    },
-                },
-            },
+            include: motionInclude,
         });
         if (!byTkId) {
             throw new common_1.NotFoundException("Motion not found");

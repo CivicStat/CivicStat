@@ -20,8 +20,9 @@ let MembersController = class MembersController {
     constructor(membersService) {
         this.membersService = membersService;
     }
-    async list(party, active) {
+    async list(q, party, active) {
         return this.membersService.list({
+            q,
             party,
             active: active !== "false", // Default true
         });
@@ -33,10 +34,11 @@ let MembersController = class MembersController {
 exports.MembersController = MembersController;
 __decorate([
     (0, common_1.Get)(),
-    __param(0, (0, common_1.Query)("party")),
-    __param(1, (0, common_1.Query)("active")),
+    __param(0, (0, common_1.Query)("q")),
+    __param(1, (0, common_1.Query)("party")),
+    __param(2, (0, common_1.Query)("active")),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", [String, String]),
+    __metadata("design:paramtypes", [String, String, String]),
     __metadata("design:returntype", Promise)
 ], MembersController.prototype, "list", null);
 __decorate([
