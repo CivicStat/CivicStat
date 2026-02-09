@@ -92,10 +92,11 @@ model Party {
   createdAt    DateTime  @default(now()) @map("created_at")
   updatedAt    DateTime  @updatedAt @map("updated_at")
 
-  mps           Mp[]
-  programs      Program[]
-  motionMatches MotionProgramMatch[]
-  voteRecords   VoteRecord[]
+  mps              Mp[]
+  programs         Program[]
+  motionMatches    MotionProgramMatch[]
+  voteRecords      VoteRecord[]
+  partyPredictions PartyPrediction[]
 
   @@map("parties")
 }
@@ -143,6 +144,7 @@ model Motion {
   matches        MotionProgramMatch[]
   promiseMatches PromiseMotionMatch[]
   votes          Vote[]
+  predictions    VotePrediction[]
 
   @@map("motions")
 }
@@ -396,6 +398,37 @@ model MotionProgramMatch {
 
   @@unique([motionId, partyId, passageId])
   @@map("motion_program_matches")
+}
+
+// ── Vote Predictions ──────────────────────────────────────────
+
+model VotePrediction {
+  id               String            @id @default(uuid()) @db.Uuid
+  motionId         String            @map("motion_id") @db.Uuid
+  algorithmVersion String            @map("algorithm_version") // e.g. "keyword-v1"
+  createdAt        DateTime          @default(now()) @map("created_at")
+
+  motion           Motion            @relation(fields: [motionId], references: [id], onDelete: Cascade)
+  partyPredictions PartyPrediction[]
+
+  @@unique([motionId, algorithmVersion])
+  @@map("vote_predictions")
+}
+
+model PartyPrediction {
+  id               String         @id @default(uuid()) @db.Uuid
+  votePredictionId String         @map("vote_prediction_id") @db.Uuid
+  partyId          String         @map("party_id") @db.Uuid
+  predictedVote    String         @map("predicted_vote") // "FOR", "AGAINST", "UNKNOWN"
+  confidence       Float          @default(0)
+  rationale        String?        @db.Text
+  createdAt        DateTime       @default(now()) @map("created_at")
+
+  votePrediction   VotePrediction @relation(fields: [votePredictionId], references: [id], onDelete: Cascade)
+  party            Party          @relation(fields: [partyId], references: [id])
+
+  @@unique([votePredictionId, partyId])
+  @@map("party_predictions")
 }
 
 model RawIngest {

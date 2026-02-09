@@ -122,9 +122,13 @@ export class MotionsService {
         })
       : null;
 
+    // Extract the latest prediction
+    const prediction = motion.predictions?.[0] ?? null;
+
     return {
       ...motion,
       vote,
+      prediction,
     };
   }
 
@@ -187,6 +191,24 @@ export class MotionsService {
           },
         },
         orderBy: { confidence: "desc" as const },
+      },
+      predictions: {
+        take: 1,
+        orderBy: { createdAt: "desc" as const },
+        include: {
+          partyPredictions: {
+            include: {
+              party: {
+                select: {
+                  id: true,
+                  abbreviation: true,
+                  colorNeutral: true,
+                },
+              },
+            },
+            orderBy: { confidence: "desc" as const },
+          },
+        },
       },
     };
 

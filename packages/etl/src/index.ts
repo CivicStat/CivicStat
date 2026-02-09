@@ -26,6 +26,7 @@ import { seedSgpPromises } from './seeds/sgp-promises-tk2023.js';
 import { seedDenkPromises } from './seeds/denk-promises-tk2023.js';
 import { seedVoltPromises } from './seeds/volt-promises-tk2023.js';
 import { seedJa21Promises } from './seeds/ja21-promises-tk2023.js';
+import { predictVotes } from './prediction/predict-vote.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -198,6 +199,15 @@ async function main() {
         break;
       }
 
+      case 'predict':
+      case 'predict-votes': {
+        const pvParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const pvDryRun = args.includes('--dry-run');
+        const pvLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
+        await predictVotes({ party: pvParty, dryRun: pvDryRun, limit: pvLimit ? parseInt(pvLimit) : undefined });
+        break;
+      }
+
       case 'hoofdelijk': {
         console.log('🗳️  Ingesting Hoofdelijk (roll-call) votes specifically...\n');
         const hoofdelijkLimit = args[1] ? parseInt(args[1]) : 500;
@@ -252,6 +262,9 @@ async function main() {
         console.log('  npm run ingest match-promises               - Match all promises to motions');
         console.log('  npm run ingest match-promises --party VVD   - Match VVD promises only');
         console.log('  npm run ingest match-promises --dry-run     - Preview matches without storing');
+        console.log('  npm run ingest predict                       - Run vote prediction engine');
+        console.log('  npm run ingest predict --party VVD            - Predict for VVD only');
+        console.log('  npm run ingest predict --dry-run              - Preview predictions');
         console.log('\nExamples:');
         console.log('  npm run ingest moties 50          - Ingest 50 most recent moties');
         console.log('  npm run ingest quick              - Quick test with minimal data');
