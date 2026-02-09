@@ -13,6 +13,14 @@ import { runKeywordMatching } from './matching/keyword-match.js';
 import { matchPromisesToMotions } from './matching/promise-motion-matcher.js';
 import { seedVvdPromises } from './seeds/vvd-promises-tk2023.js';
 import { seedGlpvdaPromises } from './seeds/glpvda-promises-tk2023.js';
+import { seedPvvPromises } from './seeds/pvv-promises-tk2023.js';
+import { seedNscPromises } from './seeds/nsc-promises-tk2023.js';
+import { seedBbbPromises } from './seeds/bbb-promises-tk2023.js';
+import { seedD66Promises } from './seeds/d66-promises-tk2023.js';
+import { seedCdaPromises } from './seeds/cda-promises-tk2023.js';
+import { seedSpPromises } from './seeds/sp-promises-tk2023.js';
+import { seedPvddPromises } from './seeds/pvdd-promises-tk2023.js';
+import { seedCuPromises } from './seeds/cu-promises-tk2023.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -106,6 +114,53 @@ async function main() {
         await seedGlpvdaPromises();
         break;
 
+      case 'seed-promises-pvv':
+        await seedPvvPromises();
+        break;
+
+      case 'seed-promises-nsc':
+        await seedNscPromises();
+        break;
+
+      case 'seed-promises-bbb':
+        await seedBbbPromises();
+        break;
+
+      case 'seed-promises-d66':
+        await seedD66Promises();
+        break;
+
+      case 'seed-promises-cda':
+        await seedCdaPromises();
+        break;
+
+      case 'seed-promises-sp':
+        await seedSpPromises();
+        break;
+
+      case 'seed-promises-pvdd':
+        await seedPvddPromises();
+        break;
+
+      case 'seed-promises-cu':
+        await seedCuPromises();
+        break;
+
+      case 'seed-promises-all':
+        console.log('🌱 Seeding all TK2023 promises...\n');
+        await seedVvdPromises();
+        await seedGlpvdaPromises();
+        await seedPvvPromises();
+        await seedNscPromises();
+        await seedBbbPromises();
+        await seedD66Promises();
+        await seedCdaPromises();
+        await seedSpPromises();
+        await seedPvddPromises();
+        await seedCuPromises();
+        console.log('\n✅ All TK2023 promises seeded!');
+        break;
+
       case 'match-promises': {
         const pmParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : args[1];
         const pmDryRun = args.includes('--dry-run');
@@ -150,6 +205,15 @@ async function main() {
         console.log('  npm run ingest match --party VVD           - Match only VVD');
         console.log('  npm run ingest seed-promises-vvd           - Seed VVD TK2023 promises');
         console.log('  npm run ingest seed-promises-glpvda        - Seed GL-PvdA TK2023 promises');
+        console.log('  npm run ingest seed-promises-pvv           - Seed PVV TK2023 promises');
+        console.log('  npm run ingest seed-promises-nsc           - Seed NSC TK2023 promises');
+        console.log('  npm run ingest seed-promises-bbb           - Seed BBB TK2023 promises');
+        console.log('  npm run ingest seed-promises-d66           - Seed D66 TK2023 promises');
+        console.log('  npm run ingest seed-promises-cda           - Seed CDA TK2023 promises');
+        console.log('  npm run ingest seed-promises-sp            - Seed SP TK2023 promises');
+        console.log('  npm run ingest seed-promises-pvdd          - Seed PvdD TK2023 promises');
+        console.log('  npm run ingest seed-promises-cu            - Seed CU TK2023 promises');
+        console.log('  npm run ingest seed-promises-all           - Seed ALL party TK2023 promises');
         console.log('  npm run ingest match-promises               - Match all promises to motions');
         console.log('  npm run ingest match-promises --party VVD   - Match VVD promises only');
         console.log('  npm run ingest match-promises --dry-run     - Preview matches without storing');

@@ -195,7 +195,13 @@ export async function seedCuPromises(): Promise<void> {
   try {
     const program = await prisma.program.findFirst({
       where: {
-        party: { abbreviation: 'ChristenUnie' },
+        party: {
+          OR: [
+            { abbreviation: 'CU' },
+            { abbreviation: 'ChristenUnie' },
+            { name: { contains: 'ChristenUnie', mode: 'insensitive' } },
+          ],
+        },
         electionYear: 2023,
       },
     });

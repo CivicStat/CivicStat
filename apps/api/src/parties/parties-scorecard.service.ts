@@ -10,6 +10,8 @@ export interface PromiseScore {
   totalMotionsWithVotes: number;
   alignedVotes: number;    // Party voted in expected direction
   opposedVotes: number;    // Party voted against expected direction
+  weightedAligned: number; // Sum of confidence weights for aligned votes
+  weightedOpposed: number; // Sum of confidence weights for opposed votes
   noVoteData: number;      // No party-level vote data available
   status: "consistent" | "inconsistent" | "mixed" | "insufficient_data";
 }
@@ -71,9 +73,15 @@ export class PartiesScorecardService {
 
       let aligned = 0;
       let opposed = 0;
+      let weightedAligned = 0;
+      let weightedOpposed = 0;
       let noData = 0;
 
       for (const match of promise.motionMatches) {
+        // Skip weak matches (confidence < 30%)
+        if (match.confidence < 0.3) continue;
+
+        const weight = match.confidence;
         const vote = match.motion.votes?.[0];
         if (!vote) { noData++; continue; }
 
@@ -89,23 +97,34 @@ export class PartiesScorecardService {
 
           const votedFor = partyVote.Soort?.toLowerCase() === "voor";
           const expectedFor = expectedDir === "VOOR";
-          if (votedFor === expectedFor) aligned++;
-          else opposed++;
+          if (votedFor === expectedFor) {
+            aligned++;
+            weightedAligned += weight;
+          } else {
+            opposed++;
+            weightedOpposed += weight;
+          }
         } else {
           // Count individual MP votes for this party
           const forCount = partyRecords.filter((r: any) => r.voteValue === "FOR").length;
           const againstCount = partyRecords.filter((r: any) => r.voteValue === "AGAINST").length;
           const majorityFor = forCount > againstCount;
           const expectedFor = expectedDir === "VOOR";
-          if (majorityFor === expectedFor) aligned++;
-          else opposed++;
+          if (majorityFor === expectedFor) {
+            aligned++;
+            weightedAligned += weight;
+          } else {
+            opposed++;
+            weightedOpposed += weight;
+          }
         }
       }
 
       const totalWithVotes = aligned + opposed;
+      const totalWeighted = weightedAligned + weightedOpposed;
       let status: PromiseScore["status"] = "insufficient_data";
-      if (totalWithVotes >= 1) {
-        const ratio = aligned / totalWithVotes;
+      if (totalWeighted > 0) {
+        const ratio = weightedAligned / totalWeighted;
         if (ratio >= 0.6) status = "consistent";
         else if (ratio <= 0.4) status = "inconsistent";
         else status = "mixed";
@@ -133,6 +152,8 @@ export class PartiesScorecardService {
         totalMotionsWithVotes: totalWithVotes,
         alignedVotes: aligned,
         opposedVotes: opposed,
+        weightedAligned: Math.round(weightedAligned * 100) / 100,
+        weightedOpposed: Math.round(weightedOpposed * 100) / 100,
         noVoteData: noData,
         status,
       });
@@ -181,8 +202,13 @@ export class PartiesScorecardService {
   }
 
   private async findParty(idOrAbbr: string) {
-    const byId = await prisma.party.findUnique({ where: { id: idOrAbbr } });
-    if (byId) return byId;
+    // UUID format check — only query by id if it looks like a UUID
+    const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(idOrAbbr);
+
+    if (isUuid) {
+      const byId = await prisma.party.findUnique({ where: { id: idOrAbbr } });
+      if (byId) return byId;
+    }
 
     const byTkId = await prisma.party.findUnique({ where: { tkId: idOrAbbr } });
     if (byTkId) return byTkId;

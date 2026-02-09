@@ -191,7 +191,13 @@ export async function seedNscPromises(): Promise<void> {
   try {
     const program = await prisma.program.findFirst({
       where: {
-        party: { abbreviation: 'Nieuw Sociaal Contract' },
+        party: {
+          OR: [
+            { abbreviation: 'NSC' },
+            { abbreviation: 'Nieuw Sociaal Contract' },
+            { name: { contains: 'Sociaal Contract', mode: 'insensitive' } },
+          ],
+        },
         electionYear: 2023,
       },
     });

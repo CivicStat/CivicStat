@@ -1,4 +1,10 @@
-import { Controller, Get, Param } from "@nestjs/common";
+import {
+  Controller,
+  Get,
+  Param,
+  NotFoundException,
+  InternalServerErrorException,
+} from "@nestjs/common";
 import { PartiesService } from "./parties.service";
 import { PartiesScorecardService } from "./parties-scorecard.service";
 
@@ -21,7 +27,13 @@ export class PartiesController {
 
   @Get(":id/scorecard")
   async scorecard(@Param("id") id: string) {
-    return this.scorecardService.getScorecard(id);
+    try {
+      return await this.scorecardService.getScorecard(id);
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Scorecard computation failed for ${id}:`, err);
+      throw new InternalServerErrorException("Scorecard computation failed");
+    }
   }
 
   @Get(":id")

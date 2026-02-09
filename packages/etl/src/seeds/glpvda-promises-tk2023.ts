@@ -203,7 +203,13 @@ export async function seedGlpvdaPromises(): Promise<void> {
     // Look up the GL-PvdA 2023 program
     const program = await prisma.program.findFirst({
       where: {
-        party: { abbreviation: 'GroenLinks-PvdA' },
+        party: {
+          OR: [
+            { abbreviation: 'GL-PvdA' },
+            { abbreviation: 'GroenLinks-PvdA' },
+            { name: { contains: 'GroenLinks', mode: 'insensitive' } },
+          ],
+        },
         electionYear: 2023,
       },
     });
