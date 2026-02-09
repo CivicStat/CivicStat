@@ -90,8 +90,9 @@ export class PartiesScorecardService {
         if (partyRecords.length === 0) {
           // Fall back to raw stemming data (party-level "met handopsteken" votes)
           const rawStemmingen = (vote as any).rawData?.Stemming || [];
+          const partyNames = [party.abbreviation, party.name].filter(Boolean);
           const partyVote = rawStemmingen.find(
-            (s: any) => s.ActorNaam === party.abbreviation
+            (s: any) => partyNames.some(n => s.ActorNaam === n)
           );
           if (!partyVote) { noData++; continue; }
 

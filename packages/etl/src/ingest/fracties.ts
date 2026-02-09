@@ -7,6 +7,18 @@ import { tkClient, type TKFractie } from '../clients/tk-odata.js';
 
 const prisma = new PrismaClient();
 
+// TK OData sometimes uses full names as Afkorting.
+// This map overrides those to match the short names used in Stemming data.
+const ABBREVIATION_OVERRIDES: Record<string, string> = {
+  'Nieuw Sociaal Contract': 'NSC',
+  'BoerBurgerBeweging': 'BBB',
+};
+
+// Manually set brand colours for parties that don't have them in the API
+const COLOR_OVERRIDES: Record<string, string> = {
+  'NSC': '#005CA9',
+};
+
 export async function ingestFracties(): Promise<void> {
   console.log('[INGEST] Starting Fracties ingest...');
 
@@ -21,7 +33,9 @@ export async function ingestFracties(): Promise<void> {
 
       // Use Naam if available, otherwise fall back to Afkorting or NaamKort
       const partyName = fractie.Naam || fractie.Afkorting || fractie.NaamKort || 'Onbekend';
-      const abbreviation = fractie.Afkorting || fractie.NaamKort || fractie.Naam || 'ONB';
+      const rawAbbr = fractie.Afkorting || fractie.NaamKort || fractie.Naam || 'ONB';
+      const abbreviation = ABBREVIATION_OVERRIDES[rawAbbr] || rawAbbr;
+      const colorOverride = COLOR_OVERRIDES[abbreviation];
 
       // Upsert party
       await prisma.party.upsert({
@@ -31,6 +45,7 @@ export async function ingestFracties(): Promise<void> {
           abbreviation: abbreviation,
           startDate: new Date(fractie.DatumActief),
           endDate: fractie.DatumInactief ? new Date(fractie.DatumInactief) : null,
+          ...(colorOverride ? { colorNeutral: colorOverride } : {}),
         },
         create: {
           tkId: fractie.Id,
@@ -38,7 +53,7 @@ export async function ingestFracties(): Promise<void> {
           abbreviation: abbreviation,
           startDate: new Date(fractie.DatumActief),
           endDate: fractie.DatumInactief ? new Date(fractie.DatumInactief) : null,
-          colorNeutral: null, // We'll set this manually later
+          colorNeutral: colorOverride || null,
         },
       });
 
