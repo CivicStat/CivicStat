@@ -1,9 +1,15 @@
-import { Controller, Get, Param, Query } from "@nestjs/common";
+import { Controller, Get, Header, Param, Query } from "@nestjs/common";
 import { VotesService } from "./votes.service";
 
 @Controller("votes")
 export class VotesController {
   constructor(private readonly votesService: VotesService) {}
+
+  @Get("consensus")
+  @Header("Cache-Control", "public, max-age=3600")
+  async consensus() {
+    return this.votesService.getConsensus();
+  }
 
   @Get()
   async list(
