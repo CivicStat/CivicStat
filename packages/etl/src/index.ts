@@ -215,6 +215,15 @@ async function main() {
         break;
       }
 
+      case 'sync':
+      case 'incremental':
+        console.log('🔄 Running incremental sync...\n');
+        await ingestMoties();
+        await ingestStemmingen();
+        await ingestSponsors();
+        console.log('\n✅ Incremental sync complete!');
+        break;
+
       case 'quick':
         console.log('⚡ Running quick ingest (limited data)...\n');
         await ingestFracties();
@@ -232,6 +241,7 @@ async function main() {
         console.log('  npm run ingest stemmingen [limit] - Ingest stemmingen (votes)');
         console.log('  npm run ingest all                - Run full pipeline (2025+)');
         console.log('  npm run ingest 2025               - Run 2025+ pipeline');
+        console.log('  npm run ingest sync               - Incremental sync (moties + stemmingen + sponsors)');
         console.log('  npm run ingest quick              - Quick test ingest');
         console.log('  npm run ingest sponsors            - Ingest motion sponsors (ZaakActor)');
         console.log('  npm run ingest hoofdelijk [limit]   - Ingest roll-call votes (individual MP data)');
