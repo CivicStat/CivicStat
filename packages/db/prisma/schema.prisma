@@ -353,6 +353,8 @@ model Promise {
   passageId             String?            @map("passage_id") @db.Uuid // Link to source passage
   expectedVoteDirection String?            @map("expected_vote_direction") // "FOR" or "AGAINST" when consistent
   extractedBy           String             @map("extracted_by") // "manual" or "llm-assisted"
+  keywords              String[]           @default([]) // Thematic keywords for matching
+  sourceRef             String?            @map("source_ref") // Page/chapter reference in PDF
   reviewedBy            String?            @map("reviewed_by")
   createdAt             DateTime           @default(now()) @map("created_at")
   updatedAt             DateTime           @updatedAt @map("updated_at")
@@ -374,6 +376,8 @@ model PromiseMotionMatch {
   rationale        String?          @db.Text // Why this match was made
   matchMethod      String           @map("match_method") // "manual", "keyword", "semantic"
   algorithmVersion String?          @map("algorithm_version")
+  reviewedBy       String?          @map("reviewed_by")
+  reviewedAt       DateTime?        @map("reviewed_at")
   createdAt        DateTime         @default(now()) @map("created_at")
 
   promise Promise @relation(fields: [promiseId], references: [id], onDelete: Cascade)
