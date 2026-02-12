@@ -1,0 +1,4 @@
+# Keep JSON promise files in git for traceability
+# Only ignore temp/draft files
+*-draft.json
+*.tmp

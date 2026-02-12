@@ -27,6 +27,12 @@ import { seedDenkPromises } from './seeds/denk-promises-tk2023.js';
 import { seedVoltPromises } from './seeds/volt-promises-tk2023.js';
 import { seedJa21Promises } from './seeds/ja21-promises-tk2023.js';
 import { predictVotes } from './prediction/predict-vote.js';
+import { purgeMatches } from './scripts/purge-matches.js';
+import { generateReviewReport, applyReviewResults } from './scripts/review-matches.js';
+import { parseAllPrograms } from './scripts/parse-program-pdf.js';
+import { extractPromisesFromPrograms } from './scripts/extract-promises-from-program.js';
+import { seedPromisesFromJson } from './scripts/seed-promises-json.js';
+import { reviewPromises } from './scripts/review-promises.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -233,6 +239,54 @@ async function main() {
         console.log('\n✅ Quick ingest complete!');
         break;
 
+      case 'purge-matches':
+        await purgeMatches({
+          confirm: args.includes('--confirm'),
+          predictions: args.includes('--predictions'),
+        });
+        break;
+
+      case 'review-matches':
+        if (args[1] === 'apply') {
+          await applyReviewResults(args[2]);
+        } else {
+          await generateReviewReport();
+        }
+        break;
+
+      case 'parse-program':
+      case 'parse-programs': {
+        const ppParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const ppYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
+        await parseAllPrograms({ party: ppParty, year: ppYear ? parseInt(ppYear) : undefined });
+        break;
+      }
+
+      case 'extract-promises': {
+        const epParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const epYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
+        const epDryRun = args.includes('--dry-run');
+        await extractPromisesFromPrograms({ party: epParty, year: epYear ? parseInt(epYear) : undefined, dryRun: epDryRun });
+        break;
+      }
+
+      case 'seed-promises-json': {
+        const sjParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const sjYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
+        const sjDryRun = args.includes('--dry-run');
+        const sjReplace = args.includes('--replace');
+        await seedPromisesFromJson({ party: sjParty, year: sjYear ? parseInt(sjYear) : undefined, dryRun: sjDryRun, replace: sjReplace });
+        break;
+      }
+
+      case 'review-promises': {
+        const rpParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const rpYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
+        const rpVerbose = args.includes('--verbose');
+        await reviewPromises({ party: rpParty, year: rpYear ? parseInt(rpYear) : undefined, verbose: rpVerbose });
+        break;
+      }
+
       default:
         console.log('Usage:');
         console.log('  npm run ingest fracties          - Ingest all fracties (parties)');
@@ -275,6 +329,25 @@ async function main() {
         console.log('  npm run ingest predict                       - Run vote prediction engine');
         console.log('  npm run ingest predict --party VVD            - Predict for VVD only');
         console.log('  npm run ingest predict --dry-run              - Preview predictions');
+        console.log('  npm run ingest purge-matches                  - Preview match purge');
+        console.log('  npm run ingest purge-matches --confirm        - Delete all matches');
+        console.log('  npm run ingest purge-matches --confirm --predictions - Delete matches + predictions');
+        console.log('  npm run ingest review-matches                 - Generate match review report');
+        console.log('  npm run ingest review-matches apply           - Apply reviewed corrections');
+        console.log('');
+        console.log('  --- Promise Expansion Pipeline (Batch A+) ---');
+        console.log('  npm run ingest parse-program                   - Parse all TK2023 PDFs to JSON');
+        console.log('  npm run ingest parse-program --party VVD        - Parse only VVD PDF');
+        console.log('  npm run ingest parse-program --year 2025        - Parse TK2025 PDFs');
+        console.log('  npm run ingest extract-promises                 - Extract promises from all programs (LLM)');
+        console.log('  npm run ingest extract-promises --party VVD     - Extract only VVD promises');
+        console.log('  npm run ingest extract-promises --dry-run       - Preview extraction (no API calls)');
+        console.log('  npm run ingest seed-promises-json               - Seed promises from JSON files');
+        console.log('  npm run ingest seed-promises-json --party VVD   - Seed only VVD promises');
+        console.log('  npm run ingest seed-promises-json --replace     - Delete existing before seeding');
+        console.log('  npm run ingest seed-promises-json --dry-run     - Preview seeding');
+        console.log('  npm run ingest review-promises                  - Quality review of extracted promises');
+        console.log('  npm run ingest review-promises --verbose        - Show individual issues');
         console.log('\nExamples:');
         console.log('  npm run ingest moties 50          - Ingest 50 most recent moties');
         console.log('  npm run ingest quick              - Quick test with minimal data');

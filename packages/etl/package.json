@@ -10,6 +10,7 @@
     "test": "echo 'No tests yet'"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.74.0",
     "@prisma/client": "^5.19.1",
     "pdf-parse": "^1.1.1"
   },

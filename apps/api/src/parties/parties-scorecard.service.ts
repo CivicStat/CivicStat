@@ -1,18 +1,28 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
+// ─── B2: Match type weights ────────────────────────────────
+const MATCH_TYPE_WEIGHTS: Record<string, number> = {
+  EXPLICIT_MATCH: 1.0,
+  IMPLICIT_MATCH: 0.5,
+  CONTRADICTS: 1.0,
+};
+
+// ─── B3: Minimum threshold ─────────────────────────────────
+const MIN_MOTIONS_THRESHOLD = 3;
+
 export interface PromiseScore {
   promiseId: string;
   promiseCode: string;
   summary: string;
   theme: string;
-  expectedDirection: string; // "VOOR" or "TEGEN"
+  expectedDirection: string;
   totalMotionsWithVotes: number;
-  alignedVotes: number;    // Party voted in expected direction
-  opposedVotes: number;    // Party voted against expected direction
-  weightedAligned: number; // Sum of confidence weights for aligned votes
-  weightedOpposed: number; // Sum of confidence weights for opposed votes
-  noVoteData: number;      // No party-level vote data available
+  alignedVotes: number;
+  opposedVotes: number;
+  weightedAligned: number;
+  weightedOpposed: number;
+  noVoteData: number;
   status: "consistent" | "inconsistent" | "mixed" | "insufficient_data";
 }
 
@@ -20,11 +30,14 @@ export interface PartyScorecard {
   partyId: string;
   abbreviation: string;
   totalPromises: number;
-  scoredPromises: number;  // promises with enough vote data
+  scoredPromises: number;
+  insufficientDataPromises: number;
   consistentCount: number;
   inconsistentCount: number;
   mixedCount: number;
-  mandateConsistencyScore: number; // 0-100
+  mandateConsistencyScore: number;
+  matchingAlgorithm: string;
+  note?: string;
   byTheme: Record<string, { consistent: number; inconsistent: number; mixed: number; total: number }>;
   promises: PromiseScore[];
 }
@@ -65,10 +78,11 @@ export class PartiesScorecardService {
     let consistentCount = 0;
     let inconsistentCount = 0;
     let mixedCount = 0;
+    let insufficientDataCount = 0;
     const byTheme: Record<string, { consistent: number; inconsistent: number; mixed: number; total: number }> = {};
 
     for (const promise of promises) {
-      const expectedDir = promise.expectedVoteDirection; // "VOOR" or "TEGEN"
+      const expectedDir = promise.expectedVoteDirection;
       if (!expectedDir) continue;
 
       let aligned = 0;
@@ -81,12 +95,17 @@ export class PartiesScorecardService {
         // Skip weak matches (confidence < 30%)
         if (match.confidence < 0.3) continue;
 
-        const weight = match.confidence;
+        // B2: Confidence-weighted scoring
+        const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;
+        const effectiveWeight = matchTypeWeight * match.confidence;
+
         const vote = match.motion.votes?.[0];
         if (!vote) { noData++; continue; }
 
         // Check party-level vote from individual records
         const partyRecords = vote.records || [];
+        let votedFor: boolean | null = null;
+
         if (partyRecords.length === 0) {
           // Fall back to raw stemming data (party-level "met handopsteken" votes)
           const rawStemmingen = (vote as any).rawData?.Stemming || [];
@@ -95,39 +114,33 @@ export class PartiesScorecardService {
             (s: any) => partyNames.some(n => s.ActorNaam === n)
           );
           if (!partyVote) { noData++; continue; }
-
-          const votedFor = partyVote.Soort?.toLowerCase() === "voor";
-          const expectedFor = expectedDir === "VOOR";
-          if (votedFor === expectedFor) {
-            aligned++;
-            weightedAligned += weight;
-          } else {
-            opposed++;
-            weightedOpposed += weight;
-          }
+          votedFor = partyVote.Soort?.toLowerCase() === "voor";
         } else {
-          // Count individual MP votes for this party
           const forCount = partyRecords.filter((r: any) => r.voteValue === "FOR").length;
           const againstCount = partyRecords.filter((r: any) => r.voteValue === "AGAINST").length;
-          const majorityFor = forCount > againstCount;
-          const expectedFor = expectedDir === "VOOR";
-          if (majorityFor === expectedFor) {
-            aligned++;
-            weightedAligned += weight;
-          } else {
-            opposed++;
-            weightedOpposed += weight;
-          }
+          votedFor = forCount > againstCount;
+        }
+
+        const expectedFor = expectedDir === "VOOR";
+        if (votedFor === expectedFor) {
+          aligned++;
+          weightedAligned += effectiveWeight;
+        } else {
+          opposed++;
+          weightedOpposed += effectiveWeight;
         }
       }
 
       const totalWithVotes = aligned + opposed;
       const totalWeighted = weightedAligned + weightedOpposed;
+
+      // B3: Minimum threshold — need ≥3 scored motions
       let status: PromiseScore["status"] = "insufficient_data";
-      if (totalWeighted > 0) {
+      if (totalWithVotes >= MIN_MOTIONS_THRESHOLD && totalWeighted > 0) {
         const ratio = weightedAligned / totalWeighted;
-        if (ratio >= 0.6) status = "consistent";
-        else if (ratio <= 0.4) status = "inconsistent";
+        // B2: Updated thresholds (70/30 instead of 60/40)
+        if (ratio >= 0.70) status = "consistent";
+        else if (ratio <= 0.30) status = "inconsistent";
         else status = "mixed";
       }
 
@@ -143,6 +156,7 @@ export class PartiesScorecardService {
       if (status === "consistent") consistentCount++;
       else if (status === "inconsistent") inconsistentCount++;
       else if (status === "mixed") mixedCount++;
+      else insufficientDataCount++;
 
       scoredPromises.push({
         promiseId: promise.id,
@@ -160,27 +174,43 @@ export class PartiesScorecardService {
       });
     }
 
-    const scoredCount = consistentCount + inconsistentCount + mixedCount;
-    const mandateConsistencyScore = scoredCount > 0
-      ? Math.round(((consistentCount + mixedCount * 0.5) / scoredCount) * 100)
+    // B4: Sample-size weighted aggregate MCS
+    const scored = scoredPromises.filter(p => p.status !== "insufficient_data");
+    let weightedConsistencySum = 0;
+    let totalMotionWeight = 0;
+
+    for (const p of scored) {
+      const weight = p.totalMotionsWithVotes; // more matches = more influence
+      const totalW = p.weightedAligned + p.weightedOpposed;
+      const ratio = totalW > 0 ? p.weightedAligned / totalW : 0;
+      weightedConsistencySum += ratio * weight;
+      totalMotionWeight += weight;
+    }
+
+    const mandateConsistencyScore = totalMotionWeight > 0
+      ? Math.round((weightedConsistencySum / totalMotionWeight) * 100)
       : 0;
 
     return {
       partyId: party.id,
       abbreviation: party.abbreviation,
       totalPromises: promises.length,
-      scoredPromises: scoredCount,
+      scoredPromises: scored.length,
+      insufficientDataPromises: insufficientDataCount,
       consistentCount,
       inconsistentCount,
       mixedCount,
       mandateConsistencyScore,
+      matchingAlgorithm: 'keyword-overlap-v2',
+      note: scored.length < promises.length
+        ? `${insufficientDataCount} belofte(n) hebben onvoldoende data (< ${MIN_MOTIONS_THRESHOLD} moties)`
+        : undefined,
       byTheme,
       promises: scoredPromises,
     };
   }
 
   async getAllScorecards(): Promise<Omit<PartyScorecard, "promises">[]> {
-    // Get all parties that have promises
     const partiesWithPromises = await prisma.$queryRaw<{ party_id: string }[]>`
       SELECT DISTINCT prog.party_id
       FROM promises p
@@ -203,7 +233,6 @@ export class PartiesScorecardService {
   }
 
   private async findParty(idOrAbbr: string) {
-    // UUID format check — only query by id if it looks like a UUID
     const isUuid = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(idOrAbbr);
 
     if (isUuid) {

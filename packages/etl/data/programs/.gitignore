@@ -1,5 +1,8 @@
 # Downloaded PDFs (large binary files, not for git)
 *.pdf
 
+# Parsed JSON files (generated from PDFs, can be regenerated)
+*-parsed.json
+
 # Keep the manifest
 !manifest.json

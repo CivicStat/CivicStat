@@ -1,14 +1,13 @@
 /**
- * Promise ↔ Motion Keyword Matcher
+ * Promise ↔ Motion Keyword Matcher (v2)
  *
  * Matches promises to motions by extracting keywords from both the
  * promise text/summary and the motion title/text, then scoring overlap.
  *
- * Algorithm (keyword-overlap-v1):
- * 1. Extract meaningful keywords from promise text + summary
- * 2. For each motion, extract keywords from title + text
- * 3. Score by weighted keyword overlap (exact > stem > partial)
- * 4. Store matches above threshold with rationale
+ * v2 improvements over v1:
+ * - Procedural motion filtering (B1): no-confidence, order motions excluded
+ * - Uses pre-defined promise keywords when available, falls back to TF-IDF
+ * - Algorithm version: keyword-overlap-v2
  *
  * Usage:
  *   npx tsx src/matching/promise-motion-matcher.ts                     # All promises
@@ -18,13 +17,14 @@
  */
 
 import { PrismaClient } from '@prisma/client';
+import { shouldMatchMotion } from './motion-filter.js';
 
 const prisma = new PrismaClient();
 
 // ─── Configuration ──────────────────────────────────────────
 const MATCH_THRESHOLD = 0.15;  // Minimum score to create a match
 const MAX_MATCHES_PER_PROMISE = 15;  // Cap matches per promise
-const ALGORITHM_VERSION = 'keyword-overlap-v1';
+const ALGORITHM_VERSION = 'keyword-overlap-v2';
 
 // ─── Dutch Stop Words ───────────────────────────────────────
 const STOP_WORDS = new Set([
@@ -76,6 +76,17 @@ function extractKeywords(text: string): string[] {
     .replace(/[^\w\sàáâãäéèêëíìîïóòôõöúùûüñç€%-]/g, ' ')
     .split(/\s+/)
     .filter(w => w.length >= 3 && !STOP_WORDS.has(w));
+}
+
+/**
+ * Get keywords for a promise — prefer pre-defined keywords from extraction,
+ * fall back to TF-IDF extraction from text.
+ */
+function getPromiseKeywords(promise: { text: string; summary: string; keywords: string[] }): string[] {
+  if (promise.keywords && promise.keywords.length > 0) {
+    return promise.keywords.map(k => k.toLowerCase());
+  }
+  return extractKeywords(`${promise.text} ${promise.summary}`);
 }
 
 function extractBigrams(words: string[]): string[] {
@@ -138,7 +149,7 @@ interface MatchOptions {
 
 export async function matchPromisesToMotions(options: MatchOptions = {}): Promise<void> {
   const { party, dryRun = false, limit } = options;
-  console.log(`[MATCH] Starting promise-motion matching (party=${party || 'all'}, dryRun=${dryRun})...`);
+  console.log(`[MATCH] Starting promise-motion matching v2 (party=${party || 'all'}, dryRun=${dryRun})...`);
 
   // 1. Fetch promises with their party info
   const partyAliases: Record<string, string[]> = {
@@ -174,9 +185,11 @@ export async function matchPromisesToMotions(options: MatchOptions = {}): Promis
   const BATCH_SIZE = 1000;
   let totalCreated = 0;
   let totalSkipped = 0;
+  let totalFiltered = 0;
 
   for (const promise of promises) {
-    const promiseWords = extractKeywords(`${promise.text} ${promise.summary}`);
+    // v2: Use pre-defined keywords if available
+    const promiseWords = getPromiseKeywords(promise);
     const promiseKeywordSet = new Set(promiseWords);
     const promiseBigramSet = new Set(extractBigrams(promiseWords));
 
@@ -188,11 +201,23 @@ export async function matchPromisesToMotions(options: MatchOptions = {}): Promis
       const motions = await prisma.motion.findMany({
         skip: offset,
         take: BATCH_SIZE,
-        select: { id: true, title: true, text: true },
+        select: { id: true, title: true, text: true, soort: true },
       });
       if (motions.length === 0) break;
 
       for (const motion of motions) {
+        // B1: Skip procedural motions
+        const filterResult = shouldMatchMotion({
+          title: motion.title,
+          description: motion.text || undefined,
+          soort: motion.soort,
+        });
+
+        if (filterResult.excluded) {
+          totalFiltered++;
+          continue;
+        }
+
         const motionText = `${motion.title || ''} ${motion.text || ''}`;
         const motionWords = extractKeywords(motionText);
         const motionKeywordSet = new Set(motionWords);
@@ -225,11 +250,11 @@ export async function matchPromisesToMotions(options: MatchOptions = {}): Promis
         console.log(`  → score=${m.score.toFixed(2)} terms=[${m.matchedTerms.slice(0, 5).join(', ')}]`);
       }
     } else {
-      // Delete existing matches for this promise with same algorithm version
+      // Delete existing matches for this promise with v1 or v2 algorithm version
       await prisma.promiseMotionMatch.deleteMany({
         where: {
           promiseId: promise.id,
-          matchMethod: ALGORITHM_VERSION,
+          matchMethod: { in: ['keyword-overlap-v1', ALGORITHM_VERSION] },
         },
       });
 
@@ -255,7 +280,12 @@ export async function matchPromisesToMotions(options: MatchOptions = {}): Promis
   }
 
   if (!dryRun) {
-    console.log(`\n[MATCH] ✅ Complete: ${totalCreated} matches created, ${totalSkipped} skipped`);
+    console.log(`\n[MATCH] ✅ Complete:`);
+    console.log(`  Matches created: ${totalCreated}`);
+    console.log(`  Motions filtered (procedural): ${totalFiltered}`);
+    console.log(`  Skipped: ${totalSkipped}`);
+  } else {
+    console.log(`\n[MATCH] Procedural motions filtered: ${totalFiltered}`);
   }
 
   await prisma.$disconnect();
