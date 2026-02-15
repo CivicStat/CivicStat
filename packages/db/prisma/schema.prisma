@@ -86,16 +86,18 @@ enum ProgramType {
 }
 
 model Party {
-  id           String    @id @default(uuid()) @db.Uuid
-  tkId         String?   @unique @map("tk_id") // Tweede Kamer Fractie ID
-  name         String
-  abbreviation String
-  colorNeutral String?   @map("color_neutral")
-  website      String?
-  startDate    DateTime? @map("start_date")
-  endDate      DateTime? @map("end_date")
-  createdAt    DateTime  @default(now()) @map("created_at")
-  updatedAt    DateTime  @updatedAt @map("updated_at")
+  id              String    @id @default(uuid()) @db.Uuid
+  tkId            String?   @unique @map("tk_id") // Tweede Kamer Fractie ID
+  name            String
+  abbreviation    String
+  colorNeutral    String?   @map("color_neutral")
+  website         String?
+  seats           Int?      // Current number of seats (fractiegrootte)
+  seatsUpdatedAt  DateTime? @map("seats_updated_at") // When seat count was last synced
+  startDate       DateTime? @map("start_date")
+  endDate         DateTime? @map("end_date")
+  createdAt       DateTime  @default(now()) @map("created_at")
+  updatedAt       DateTime  @updatedAt @map("updated_at")
 
   mps              Mp[]
   programs         Program[]
