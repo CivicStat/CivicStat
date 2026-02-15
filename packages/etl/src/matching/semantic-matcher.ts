@@ -1,12 +1,16 @@
 /**
- * Semantic Promise ↔ Motion Matcher using Claude API
+ * Semantic Promise ↔ Motion Matcher
  *
  * Replaces pure keyword matching with LLM-based semantic evaluation.
  * For each promise, finds candidate motions via keyword pre-filter,
- * then asks Claude to evaluate relevance, match type, and predicted
+ * then asks the AI model to evaluate relevance, match type, and predicted
  * voting direction.
  *
+ * Supports multiple AI providers via OpenRouter (Claude, GPT-4o, Gemini, etc.)
+ * or direct Anthropic API as fallback.
+ *
  * Features:
+ *   - Multi-provider AI via OpenRouter or direct Anthropic
  *   - File-based checkpoint for crash recovery (--resume)
  *   - Exponential backoff on rate-limit / overloaded / timeout errors
  *   - Detailed progress logging with ETA
@@ -21,13 +25,16 @@
  *   npx tsx src/index.ts semantic-match --resume            # Resume from checkpoint
  *
  * Environment:
- *   ANTHROPIC_API_KEY — Required for Claude API access
- *   DATABASE_URL     — Postgres connection string
+ *   OPENROUTER_API_KEY — Preferred: OpenRouter key (access to all models)
+ *   ANTHROPIC_API_KEY  — Fallback: direct Anthropic API
+ *   AI_MODEL_SEMANTIC_MATCH — Override model (e.g. google/gemini-2.5-pro)
+ *   DATABASE_URL       — Postgres connection string
  */
 
 import { PrismaClient, PromiseMatchType } from '@prisma/client';
-import Anthropic from '@anthropic-ai/sdk';
 import { shouldMatchMotion } from './motion-filter.js';
+import { createAIClient, chatWithRetry, getModel, modelShortName, AIError } from '../lib/ai-client.js';
+import type { AIClient } from '../lib/ai-client.js';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
@@ -37,14 +44,13 @@ const prisma = new PrismaClient();
 // ─── Configuration ──────────────────────────────────────────────
 
 const MAX_CANDIDATES = 80;
-const BATCH_SIZE = 8;
+const BATCH_SIZE = 16; // 16 motions per API call (Opus handles large context well)
 const MIN_CONFIDENCE = 0.4;
-const RATE_LIMIT_MS = 300;
+const RATE_LIMIT_MS = 100; // minimal delay between batches (OpenRouter handles rate limiting)
 const MATCH_METHOD = 'semantic-claude';
 const ALGORITHM_VERSION = 'semantic-claude-v1';
-const MODEL = 'claude-sonnet-4-20250514';
-const PROGRESS_SAVE_INTERVAL = 25; // save checkpoint every N promises
-const CONCURRENCY = 5; // process N promises in parallel
+const PROGRESS_SAVE_INTERVAL = 50; // save checkpoint every N promises
+const CONCURRENCY = 10; // process N promises in parallel (default, overridable via --concurrency)
 
 // ─── Progress Tracking ─────────────────────────────────────────
 
@@ -325,40 +331,7 @@ function parseClaudeResponse(responseText: string): ClaudeMatchResult[] {
 }
 
 // ─── API Call with Exponential Backoff ───────────────────────────
-
-async function callClaudeWithRetry(
-  anthropic: Anthropic,
-  prompt: string,
-  maxRetries = 3,
-): Promise<Anthropic.Messages.Message> {
-  for (let attempt = 1; attempt <= maxRetries; attempt++) {
-    try {
-      const response = await anthropic.messages.create({
-        model: MODEL,
-        max_tokens: 4096,
-        messages: [{ role: 'user', content: prompt }],
-      });
-      return response;
-    } catch (error: any) {
-      const status = error?.status || error?.statusCode;
-      const isRateLimit = status === 429;
-      const isOverloaded = status === 529;
-      const isTimeout = error?.message?.includes('timeout') || error?.code === 'ETIMEDOUT';
-      const isServerError = status >= 500 && status < 600;
-
-      if ((isRateLimit || isOverloaded || isTimeout || isServerError) && attempt < maxRetries) {
-        const delay = isRateLimit
-          ? Math.min(60000, 2000 * Math.pow(2, attempt)) // rate limit: longer waits (4s, 8s, 16s...)
-          : 2000 * Math.pow(2, attempt);                   // other: standard backoff
-        console.warn(`    [RETRY] API ${status || 'error'} (${error?.message?.slice(0, 80)}), attempt ${attempt}/${maxRetries}, waiting ${delay}ms...`);
-        await sleep(delay);
-        continue;
-      }
-      throw error;
-    }
-  }
-  throw new Error('Unreachable');
-}
+// Now uses the unified AI client (OpenRouter or direct Anthropic)
 
 // ─── Main Matching Logic ────────────────────────────────────────
 
@@ -373,12 +346,12 @@ interface SemanticMatchOptions {
 export async function runSemanticMatching(options: SemanticMatchOptions = {}): Promise<void> {
   const { party, dryRun = false, limit, resume = false, concurrency: concurrencyOpt } = options;
 
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey && !dryRun) {
-    throw new Error('ANTHROPIC_API_KEY environment variable is required.');
+  // Initialize AI client (OpenRouter or direct Anthropic)
+  const model = getModel('semantic-match');
+  let ai: AIClient | null = null;
+  if (!dryRun) {
+    ai = createAIClient();
   }
-
-  const anthropic = dryRun ? null : new Anthropic({ apiKey });
 
   // Load or initialize progress
   const progress = resume ? loadProgress() : {
@@ -399,7 +372,8 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
   console.log(`\n═══════════════════════════════════════════════════════`);
   console.log(`  SEMANTIC MATCHING — CivicStat`);
   console.log(`═══════════════════════════════════════════════════════`);
-  console.log(`  Model:    ${MODEL}`);
+  console.log(`  Provider: ${ai?.provider || 'dry-run'} (${ai?.baseUrl || 'n/a'})`);
+  console.log(`  Model:    ${modelShortName(model)}`);
   console.log(`  Method:   ${MATCH_METHOD} (${ALGORITHM_VERSION})`);
   console.log(`  Party:    ${party || 'all'}`);
   console.log(`  Limit:    ${limit || 'all'}`);
@@ -529,12 +503,16 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       );
 
       try {
-        const response = await callClaudeWithRetry(anthropic!, prompt);
+        const response = await chatWithRetry(ai!, model, prompt, { maxTokens: 8192 }, {
+          onRetry: (attempt, delay, error) => {
+            console.warn(`    [RETRY] API ${error.status} (${error.message.slice(0, 80)}), attempt ${attempt}/3, waiting ${delay}ms...`);
+          },
+        });
 
         sessionApiCalls++;
         progress.totalApiCalls++;
 
-        const responseText = response.content[0].type === 'text' ? response.content[0].text : '';
+        const responseText = response.text;
         const parsed = parseClaudeResponse(responseText);
 
         // Process results
@@ -575,7 +553,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
         }
       } catch (err) {
         const errMsg = (err as Error).message || String(err);
-        console.error(`    [ERROR] Claude API call failed for ${promise.promiseCode} batch ${batchStart}: ${errMsg}`);
+        console.error(`    [ERROR] AI API call failed for ${promise.promiseCode} batch ${batchStart}: ${errMsg}`);
         progress.errors.push({
           promiseId: promise.id,
           error: `batch ${batchStart}: ${errMsg.slice(0, 200)}`,
@@ -699,6 +677,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
     const avgMatches = progress.totalProcessed > 0 ? (progress.totalMatches / progress.totalProcessed).toFixed(1) : '0';
     console.log(`  Average matches/promise:   ${avgMatches}`);
   }
+  console.log(`  Model:                     ${modelShortName(model)} via ${ai?.provider || 'dry-run'}`);
   console.log(`  API calls made:            ${progress.totalApiCalls.toLocaleString()}`);
   console.log(`  Errors (logged):           ${progress.errors.length}`);
   console.log(`  Session duration:          ${totalDuration}`);

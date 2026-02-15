@@ -421,6 +421,14 @@ async function main() {
         console.log('  npm run ingest semantic-match --dry-run               - Preview candidates (no API calls)');
         console.log('  npm run ingest semantic-match --resume                - Resume from checkpoint');
         console.log('  npm run ingest semantic-match --concurrency 10        - Process N promises in parallel (default: 5)');
+        console.log('');
+        console.log('  --- AI Provider (applies to all AI tasks) ---');
+        console.log('  Set OPENROUTER_API_KEY in .env to use OpenRouter (recommended)');
+        console.log('  Falls back to ANTHROPIC_API_KEY for direct Anthropic API');
+        console.log('  Override model per task via environment variables:');
+        console.log('    AI_MODEL_SEMANTIC_MATCH=anthropic/claude-sonnet-4-20250514');
+        console.log('    AI_MODEL_EXTRACT=google/gemini-2.5-pro');
+        console.log('    AI_MODEL=<model>  (override all tasks)');
         console.log('\nExamples:');
         console.log('  npm run ingest moties 50          - Ingest 50 most recent moties');
         console.log('  npm run ingest quick              - Quick test with minimal data');

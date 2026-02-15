@@ -1,8 +1,11 @@
 /**
  * LLM-Assisted Promise Extraction from Parsed Programs.
  *
- * Reads parsed JSON from data/programs/ and uses Claude API to extract
+ * Reads parsed JSON from data/programs/ and uses an AI model to extract
  * 50-100 concrete, testable promises per party program.
+ *
+ * Supports multiple AI providers via OpenRouter (Claude, GPT-4o, Gemini, etc.)
+ * or direct Anthropic API as fallback.
  *
  * Output: JSON files in data/promises/{slug}-tk{year}.json
  *
@@ -12,12 +15,16 @@
  *   npx tsx src/scripts/extract-promises-from-program.ts --dry-run          # Preview only
  *
  * Environment:
- *   ANTHROPIC_API_KEY — Required for Claude API access
+ *   OPENROUTER_API_KEY — Preferred: OpenRouter key (access to all models)
+ *   ANTHROPIC_API_KEY  — Fallback: direct Anthropic API
+ *   AI_MODEL_EXTRACT   — Override model for extraction
  */
 
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { createAIClient, chatWithRetry, getModel, modelShortName } from '../lib/ai-client.js';
+import type { AIClient } from '../lib/ai-client.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -84,8 +91,8 @@ const VALID_SPECIFICITIES = ['SPECIFIEK', 'GEMIDDELD', 'VAAG'] as const;
 
 // ─── Prompt Template (Dutch) ────────────────────────────────────
 
-function buildExtractionPrompt(party: string, chunkText: string): string {
-  return `Je bent een neutrale data-extractie-assistent voor CivicStat, een transparantieplatform voor de Nederlandse politiek. Extraheer concrete verkiezingsbeloften uit het onderstaande gedeelte van het ${party} verkiezingsprogramma (TK2023).
+function buildExtractionPrompt(party: string, chunkText: string, year: number): string {
+  return `Je bent een neutrale data-extractie-assistent voor CivicStat, een transparantieplatform voor de Nederlandse politiek. Extraheer concrete verkiezingsbeloften uit het onderstaande gedeelte van het ${party} verkiezingsprogramma (TK${year}).
 
 REGELS:
 - Extraheer ALLEEN concrete toezeggingen, maatregelen, of meetbare doelstellingen
@@ -119,35 +126,8 @@ ${chunkText}
 ---`;
 }
 
-// ─── Claude API Call ────────────────────────────────────────────
-
-async function callClaude(prompt: string, apiKey: string): Promise<string> {
-  const response = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-    },
-    body: JSON.stringify({
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 8192,
-      messages: [
-        { role: 'user', content: prompt },
-      ],
-    }),
-  });
-
-  if (!response.ok) {
-    const errorBody = await response.text();
-    throw new Error(`Claude API error ${response.status}: ${errorBody}`);
-  }
-
-  const data = await response.json() as any;
-  const text = data.content?.[0]?.text;
-  if (!text) throw new Error('No text in Claude response');
-  return text;
-}
+// ─── AI API Call (via unified client) ────────────────────────────
+// Now routes through OpenRouter or direct Anthropic automatically
 
 // ─── Validation ─────────────────────────────────────────────────
 
@@ -271,13 +251,19 @@ interface ExtractOptions {
 
 export async function extractPromisesFromPrograms(options: ExtractOptions = {}): Promise<void> {
   const year = options.year ?? 2023;
-  const apiKey = process.env.ANTHROPIC_API_KEY;
 
-  if (!apiKey && !options.dryRun) {
-    throw new Error('ANTHROPIC_API_KEY environment variable is required. Set it before running extraction.');
+  // Initialize AI client
+  const model = getModel('extract');
+  let ai: AIClient | null = null;
+  if (!options.dryRun) {
+    ai = createAIClient();
   }
 
-  console.log(`\n[EXTRACT] Promise extraction (year=${year}, party=${options.party || 'all'}, dryRun=${options.dryRun || false})...\n`);
+  console.log(`\n[EXTRACT] Promise extraction (year=${year}, party=${options.party || 'all'}, dryRun=${options.dryRun || false})`);
+  if (ai) {
+    console.log(`[EXTRACT] Provider: ${ai.provider} | Model: ${modelShortName(model)}`);
+  }
+  console.log();
 
   if (!existsSync(MANIFEST_PATH)) {
     throw new Error(`Manifest not found: ${MANIFEST_PATH}`);
@@ -326,7 +312,7 @@ export async function extractPromisesFromPrograms(options: ExtractOptions = {}):
       }
       // Show first prompt
       if (chunks.length > 0) {
-        const firstPrompt = buildExtractionPrompt(abbr, chunks[0].text.slice(0, 500) + '...');
+        const firstPrompt = buildExtractionPrompt(abbr, chunks[0].text.slice(0, 500) + '...', year);
         console.log(`    [DRY RUN] First prompt preview (truncated):\n${firstPrompt.slice(0, 300)}...`);
       }
       continue;
@@ -350,8 +336,9 @@ export async function extractPromisesFromPrograms(options: ExtractOptions = {}):
       console.log(`    📄 Chunk ${chunkIdx}/${chunks.length}: "${chunk.title}" (${words} words)`);
 
       try {
-        const prompt = buildExtractionPrompt(abbr, chunk.text);
-        const response = await callClaude(prompt, apiKey!);
+        const prompt = buildExtractionPrompt(abbr, chunk.text, year);
+        const aiResponse = await chatWithRetry(ai!, model, prompt, { maxTokens: 8192 });
+        const response = aiResponse.text;
 
         // Parse JSON from response — handle potential markdown wrapping
         let jsonStr = response.trim();
@@ -389,7 +376,7 @@ export async function extractPromisesFromPrograms(options: ExtractOptions = {}):
 
     // Assign sequential promise codes
     for (let i = 0; i < allPromises.length; i++) {
-      allPromises[i].promiseCode = `${abbr}-2023-${String(i + 1).padStart(3, '0')}`;
+      allPromises[i].promiseCode = `${abbr}-${year}-${String(i + 1).padStart(3, '0')}`;
     }
 
     // Build output
@@ -400,7 +387,7 @@ export async function extractPromisesFromPrograms(options: ExtractOptions = {}):
       program: parsed.chapters.length > 0 ? '' : '', // Will be enriched later
       electionYear: year,
       extractionDate: new Date().toISOString().split('T')[0],
-      extractionMethod: 'llm-claude-sonnet-v1',
+      extractionMethod: `llm-${modelShortName(model)}-v1`,
       sourceUrl,
       pdfHash: parsed.pdfHash || '',
       totalPromises: allPromises.length,
@@ -411,7 +398,7 @@ export async function extractPromisesFromPrograms(options: ExtractOptions = {}):
         theme: p.theme,
         specificity: p.specificity,
         keywords: p.keywords,
-        sourceRef: `Verkiezingsprogramma ${abbr} 2023, ${p.sourcePages}`,
+        sourceRef: `Verkiezingsprogramma ${abbr} ${year}, ${p.sourcePages}`,
         originalQuote: p.originalQuote,
       })),
     };
