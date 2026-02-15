@@ -325,10 +325,12 @@ async function main() {
         const smParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
         const smLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
         const smDryRun = args.includes('--dry-run');
+        const smResume = args.includes('--resume');
         await runSemanticMatching({
           party: smParty,
           limit: smLimit ? parseInt(smLimit) : undefined,
           dryRun: smDryRun,
+          resume: smResume,
         });
         break;
       }
@@ -409,6 +411,13 @@ async function main() {
         console.log('  npm run ingest compute-scorecards                    - Compute all party scorecards');
         console.log('  npm run ingest compute-scorecards --party VVD        - Compute for one party');
         console.log('  npm run ingest compute-scorecards --year 2023        - Compute for one year');
+        console.log('');
+        console.log('  --- Semantic Matching (Batch C) ---');
+        console.log('  npm run ingest semantic-match                         - Run semantic matching (all promises)');
+        console.log('  npm run ingest semantic-match --party VVD             - Match only VVD promises');
+        console.log('  npm run ingest semantic-match --limit 20              - Process first 20 promises');
+        console.log('  npm run ingest semantic-match --dry-run               - Preview candidates (no API calls)');
+        console.log('  npm run ingest semantic-match --resume                - Resume from checkpoint');
         console.log('\nExamples:');
         console.log('  npm run ingest moties 50          - Ingest 50 most recent moties');
         console.log('  npm run ingest quick              - Quick test with minimal data');

@@ -16,3 +16,7 @@ dist/
 apps/api/dist/
 packages/db/dist/
 packages/shared/dist/
+
+# ETL runtime artifacts
+packages/etl/data/semantic-progress.json
+packages/etl/semantic-match.log

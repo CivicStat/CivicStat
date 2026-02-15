@@ -6,11 +6,19 @@
  * then asks Claude to evaluate relevance, match type, and predicted
  * voting direction.
  *
+ * Features:
+ *   - File-based checkpoint for crash recovery (--resume)
+ *   - Exponential backoff on rate-limit / overloaded / timeout errors
+ *   - Detailed progress logging with ETA
+ *   - Match type breakdown tracking
+ *   - Dry-run and limit modes
+ *
  * Usage:
- *   npx tsx src/matching/semantic-matcher.ts                     # All promises
- *   npx tsx src/matching/semantic-matcher.ts --party VVD         # Only VVD
- *   npx tsx src/matching/semantic-matcher.ts --limit 10          # First 10 promises
- *   npx tsx src/matching/semantic-matcher.ts --dry-run           # Preview only
+ *   npx tsx src/index.ts semantic-match                     # All promises
+ *   npx tsx src/index.ts semantic-match --party VVD         # Only VVD
+ *   npx tsx src/index.ts semantic-match --limit 20          # First 20 promises
+ *   npx tsx src/index.ts semantic-match --dry-run           # Preview only
+ *   npx tsx src/index.ts semantic-match --resume            # Resume from checkpoint
  *
  * Environment:
  *   ANTHROPIC_API_KEY — Required for Claude API access
@@ -20,6 +28,9 @@
 import { PrismaClient, PromiseMatchType } from '@prisma/client';
 import Anthropic from '@anthropic-ai/sdk';
 import { shouldMatchMotion } from './motion-filter.js';
+import * as fs from 'fs';
+import * as path from 'path';
+import { fileURLToPath } from 'url';
 
 const prisma = new PrismaClient();
 
@@ -32,6 +43,82 @@ const RATE_LIMIT_MS = 500;
 const MATCH_METHOD = 'semantic-claude';
 const ALGORITHM_VERSION = 'semantic-claude-v1';
 const MODEL = 'claude-sonnet-4-20250514';
+const PROGRESS_SAVE_INTERVAL = 25; // save checkpoint every N promises
+
+// ─── Progress Tracking ─────────────────────────────────────────
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const PROGRESS_FILE = path.join(__dirname, '../../data/semantic-progress.json');
+
+interface ProgressState {
+  processedPromiseIds: string[];
+  totalProcessed: number;
+  totalMatches: number;
+  totalSkipped: number;
+  matchBreakdown: {
+    explicit: number;
+    implicit: number;
+    contradicts: number;
+  };
+  totalApiCalls: number;
+  totalCandidates: number;
+  startedAt: string;
+  lastUpdatedAt: string;
+  errors: Array<{ promiseId: string; error: string; timestamp: string }>;
+}
+
+function loadProgress(): ProgressState {
+  try {
+    const data = fs.readFileSync(PROGRESS_FILE, 'utf-8');
+    const state = JSON.parse(data) as ProgressState;
+    // Ensure matchBreakdown exists (backward compat)
+    if (!state.matchBreakdown) {
+      state.matchBreakdown = { explicit: 0, implicit: 0, contradicts: 0 };
+    }
+    return state;
+  } catch {
+    return {
+      processedPromiseIds: [],
+      totalProcessed: 0,
+      totalMatches: 0,
+      totalSkipped: 0,
+      matchBreakdown: { explicit: 0, implicit: 0, contradicts: 0 },
+      totalApiCalls: 0,
+      totalCandidates: 0,
+      startedAt: new Date().toISOString(),
+      lastUpdatedAt: new Date().toISOString(),
+      errors: [],
+    };
+  }
+}
+
+function saveProgress(state: ProgressState): void {
+  state.lastUpdatedAt = new Date().toISOString();
+  // Ensure the directory exists
+  const dir = path.dirname(PROGRESS_FILE);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+  fs.writeFileSync(PROGRESS_FILE, JSON.stringify(state, null, 2));
+}
+
+// ─── Utilities ──────────────────────────────────────────────────
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function formatTime(seconds: number): string {
+  const h = Math.floor(seconds / 3600);
+  const m = Math.floor((seconds % 3600) / 60);
+  if (h > 0) return `${h}h ${m}m`;
+  return `${m}m`;
+}
+
+function timestamp(): string {
+  return new Date().toLocaleTimeString('nl-NL', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+}
 
 // ─── Theme Keywords for Broad Pre-filter ────────────────────────
 
@@ -206,16 +293,53 @@ function parseClaudeResponse(responseText: string): ClaudeMatchResult[] {
   }
 }
 
+// ─── API Call with Exponential Backoff ───────────────────────────
+
+async function callClaudeWithRetry(
+  anthropic: Anthropic,
+  prompt: string,
+  maxRetries = 3,
+): Promise<Anthropic.Messages.Message> {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await anthropic.messages.create({
+        model: MODEL,
+        max_tokens: 4096,
+        messages: [{ role: 'user', content: prompt }],
+      });
+      return response;
+    } catch (error: any) {
+      const status = error?.status || error?.statusCode;
+      const isRateLimit = status === 429;
+      const isOverloaded = status === 529;
+      const isTimeout = error?.message?.includes('timeout') || error?.code === 'ETIMEDOUT';
+      const isServerError = status >= 500 && status < 600;
+
+      if ((isRateLimit || isOverloaded || isTimeout || isServerError) && attempt < maxRetries) {
+        const delay = isRateLimit
+          ? Math.min(60000, 2000 * Math.pow(2, attempt)) // rate limit: longer waits (4s, 8s, 16s...)
+          : 2000 * Math.pow(2, attempt);                   // other: standard backoff
+        console.warn(`    [RETRY] API ${status || 'error'} (${error?.message?.slice(0, 80)}), attempt ${attempt}/${maxRetries}, waiting ${delay}ms...`);
+        await sleep(delay);
+        continue;
+      }
+      throw error;
+    }
+  }
+  throw new Error('Unreachable');
+}
+
 // ─── Main Matching Logic ────────────────────────────────────────
 
 interface SemanticMatchOptions {
   limit?: number;
   party?: string;
   dryRun?: boolean;
+  resume?: boolean;
 }
 
 export async function runSemanticMatching(options: SemanticMatchOptions = {}): Promise<void> {
-  const { party, dryRun = false, limit } = options;
+  const { party, dryRun = false, limit, resume = false } = options;
 
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey && !dryRun) {
@@ -224,13 +348,37 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
 
   const anthropic = dryRun ? null : new Anthropic({ apiKey });
 
-  console.log(`[SEMANTIC] Starting semantic matching (party=${party || 'all'}, limit=${limit || 'all'}, dryRun=${dryRun})`);
-  console.log(`[SEMANTIC] Model: ${MODEL}, method: ${MATCH_METHOD}, version: ${ALGORITHM_VERSION}`);
+  // Load or initialize progress
+  const progress = resume ? loadProgress() : {
+    processedPromiseIds: [] as string[],
+    totalProcessed: 0,
+    totalMatches: 0,
+    totalSkipped: 0,
+    matchBreakdown: { explicit: 0, implicit: 0, contradicts: 0 },
+    totalApiCalls: 0,
+    totalCandidates: 0,
+    startedAt: new Date().toISOString(),
+    lastUpdatedAt: new Date().toISOString(),
+    errors: [] as Array<{ promiseId: string; error: string; timestamp: string }>,
+  };
+
+  const processedSet = new Set(progress.processedPromiseIds);
+
+  console.log(`\n═══════════════════════════════════════════════════════`);
+  console.log(`  SEMANTIC MATCHING — CivicStat`);
+  console.log(`═══════════════════════════════════════════════════════`);
+  console.log(`  Model:    ${MODEL}`);
+  console.log(`  Method:   ${MATCH_METHOD} (${ALGORITHM_VERSION})`);
+  console.log(`  Party:    ${party || 'all'}`);
+  console.log(`  Limit:    ${limit || 'all'}`);
+  console.log(`  Dry run:  ${dryRun}`);
+  console.log(`  Resume:   ${resume} (${processedSet.size} already processed)`);
+  console.log(`═══════════════════════════════════════════════════════\n`);
 
   // 1. Load promises
   const partyNames = party ? (PARTY_ALIASES[party] || [party]) : undefined;
 
-  const promises = await prisma.promise.findMany({
+  const allPromises = await prisma.promise.findMany({
     where: partyNames
       ? {
           program: {
@@ -244,6 +392,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       program: {
         select: {
           id: true,
+          electionYear: true,
           party: {
             select: {
               abbreviation: true,
@@ -259,23 +408,35 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
         take: 1,
       },
     },
+    orderBy: { id: 'asc' },
     ...(limit ? { take: limit } : {}),
   });
 
-  console.log(`[SEMANTIC] Found ${promises.length} promises to process`);
+  // Filter out already-processed promises (resume mode)
+  const promises = resume
+    ? allPromises.filter((p) => !processedSet.has(p.id))
+    : allPromises;
 
-  let totalCreated = 0;
-  let totalSkipped = 0;
-  let totalApiCalls = 0;
-  let totalCandidates = 0;
+  const totalToProcess = promises.length;
+  const totalOverall = allPromises.length;
+
+  console.log(`[${timestamp()}] Found ${totalOverall} total promises, ${totalToProcess} to process${resume ? ` (${processedSet.size} already done)` : ''}\n`);
+
+  const startTime = Date.now();
+  let sessionCreated = 0;
+  let sessionApiCalls = 0;
+  let sessionBreakdown = { explicit: 0, implicit: 0, contradicts: 0 };
   let promisesProcessed = 0;
+  let promisesWithZeroMatches = 0;
 
   for (const promise of promises) {
     promisesProcessed++;
 
-    // 2. Skip if already has semantic matches
-    if (promise.motionMatches.length > 0) {
-      totalSkipped++;
+    // Skip if already has semantic matches (not resume — just already in DB from prior run)
+    if (promise.motionMatches.length > 0 && !resume) {
+      progress.totalSkipped++;
+      processedSet.add(promise.id);
+      progress.processedPromiseIds.push(promise.id);
       continue;
     }
 
@@ -289,17 +450,21 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       theme: promise.theme,
     });
 
-    totalCandidates += candidates.length;
+    progress.totalCandidates += candidates.length;
 
     if (candidates.length === 0) {
-      if (promisesProcessed % 25 === 0 || dryRun) {
-        console.log(`  [${promise.promiseCode}] No candidates found, skipping`);
-      }
+      promisesWithZeroMatches++;
+      processedSet.add(promise.id);
+      progress.processedPromiseIds.push(promise.id);
+      progress.totalProcessed++;
       continue;
     }
 
     if (dryRun) {
       console.log(`  [${promise.promiseCode}] (${promise.theme}) ${candidates.length} candidates — "${promise.summary.slice(0, 60)}..."`);
+      processedSet.add(promise.id);
+      progress.processedPromiseIds.push(promise.id);
+      progress.totalProcessed++;
       continue;
     }
 
@@ -307,6 +472,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
     const matchResults: Array<{
       motionId: string;
       matchType: PromiseMatchType;
+      matchTypeRaw: string;
       confidence: number;
       predictedDirection: string | null;
       rationale: string;
@@ -331,18 +497,15 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       );
 
       try {
-        const response = await anthropic!.messages.create({
-          model: MODEL,
-          max_tokens: 4096,
-          messages: [{ role: 'user', content: prompt }],
-        });
+        const response = await callClaudeWithRetry(anthropic!, prompt);
 
-        totalApiCalls++;
+        sessionApiCalls++;
+        progress.totalApiCalls++;
 
         const responseText = response.content[0].type === 'text' ? response.content[0].text : '';
         const parsed = parseClaudeResponse(responseText);
 
-        // 6. Process results
+        // Process results
         for (const result of parsed) {
           const { motionIndex, matchType, confidence, predictedDirection, matchReason } = result;
 
@@ -372,20 +535,27 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
           matchResults.push({
             motionId: batch[motionIndex].id,
             matchType: dbMatchType,
+            matchTypeRaw: matchType,
             confidence: Math.min(Math.max(confidence, 0), 1),
             predictedDirection: direction,
             rationale: matchReason || '',
           });
         }
       } catch (err) {
-        console.error(`    [ERROR] Claude API call failed for ${promise.promiseCode} batch ${batchStart}: ${(err as Error).message}`);
+        const errMsg = (err as Error).message || String(err);
+        console.error(`    [ERROR] Claude API call failed for ${promise.promiseCode} batch ${batchStart}: ${errMsg}`);
+        progress.errors.push({
+          promiseId: promise.id,
+          error: `batch ${batchStart}: ${errMsg.slice(0, 200)}`,
+          timestamp: new Date().toISOString(),
+        });
       }
 
       // Rate limiting
-      await new Promise((resolve) => setTimeout(resolve, RATE_LIMIT_MS));
+      await sleep(RATE_LIMIT_MS);
     }
 
-    // 8. Upsert matches to DB
+    // Upsert matches to DB
     for (const match of matchResults) {
       try {
         await prisma.promiseMotionMatch.upsert({
@@ -414,24 +584,86 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
             predictedDirection: match.predictedDirection,
           },
         });
-        totalCreated++;
+
+        sessionCreated++;
+        progress.totalMatches++;
+
+        // Track breakdown
+        if (match.matchTypeRaw === 'EXPLICIT') {
+          sessionBreakdown.explicit++;
+          progress.matchBreakdown.explicit++;
+        } else if (match.matchTypeRaw === 'IMPLICIT') {
+          sessionBreakdown.implicit++;
+          progress.matchBreakdown.implicit++;
+        } else if (match.matchTypeRaw === 'CONTRADICTS') {
+          sessionBreakdown.contradicts++;
+          progress.matchBreakdown.contradicts++;
+        }
       } catch (err) {
         console.error(`    [ERROR] Upsert failed for promise=${promise.id} motion=${match.motionId}: ${(err as Error).message}`);
       }
     }
 
-    // 9. Log progress
-    if (promisesProcessed % 25 === 0) {
-      console.log(`[SEMANTIC] Progress: ${promisesProcessed}/${promises.length} promises, ${totalCreated} matches created, ${totalApiCalls} API calls`);
+    if (matchResults.length === 0) {
+      promisesWithZeroMatches++;
+    }
+
+    // Mark as processed
+    processedSet.add(promise.id);
+    progress.processedPromiseIds.push(promise.id);
+    progress.totalProcessed++;
+
+    // Save progress periodically
+    if (promisesProcessed % PROGRESS_SAVE_INTERVAL === 0) {
+      saveProgress(progress);
+
+      // Calculate ETA
+      const elapsedMs = Date.now() - startTime;
+      const avgMs = elapsedMs / promisesProcessed;
+      const remainingMs = avgMs * (totalToProcess - promisesProcessed);
+      const eta = formatTime(Math.round(remainingMs / 1000));
+
+      const overallProgress = processedSet.size;
+      const overallPct = totalOverall > 0 ? ((overallProgress / totalOverall) * 100).toFixed(1) : '0.0';
+
+      console.log(
+        `[${timestamp()}] Progress: ${overallProgress}/${totalOverall} (${overallPct}%) | ` +
+        `Matches: ${progress.totalMatches} | ` +
+        `Explicit: ${progress.matchBreakdown.explicit} | ` +
+        `Implicit: ${progress.matchBreakdown.implicit} | ` +
+        `Contradicts: ${progress.matchBreakdown.contradicts} | ` +
+        `Errors: ${progress.errors.length} | ` +
+        `ETA: ~${eta}`
+      );
     }
   }
 
-  console.log(`\n[SEMANTIC] Complete:`);
-  console.log(`  Promises processed: ${promisesProcessed}`);
-  console.log(`  Promises skipped (already matched): ${totalSkipped}`);
-  console.log(`  Total candidates evaluated: ${totalCandidates}`);
-  console.log(`  API calls made: ${totalApiCalls}`);
-  console.log(`  Matches created: ${totalCreated}`);
+  // Final save
+  saveProgress(progress);
+
+  // Calculate duration
+  const totalDurationMs = Date.now() - startTime;
+  const totalDuration = formatTime(Math.round(totalDurationMs / 1000));
+
+  // Summary
+  console.log(`\n═══ Semantic Matching Complete ═══`);
+  console.log(`  Total promises processed:  ${progress.totalProcessed.toLocaleString()}`);
+  console.log(`  Promises skipped (already): ${progress.totalSkipped.toLocaleString()}`);
+  console.log(`  Promises with 0 matches:   ${promisesWithZeroMatches.toLocaleString()}`);
+  console.log(`  Total candidates evaluated: ${progress.totalCandidates.toLocaleString()}`);
+  console.log(`  Total new matches created:  ${progress.totalMatches.toLocaleString()}`);
+  if (progress.totalMatches > 0) {
+    console.log(`    EXPLICIT:    ${progress.matchBreakdown.explicit.toLocaleString()} (${((progress.matchBreakdown.explicit / progress.totalMatches) * 100).toFixed(1)}%)`);
+    console.log(`    IMPLICIT:    ${progress.matchBreakdown.implicit.toLocaleString()} (${((progress.matchBreakdown.implicit / progress.totalMatches) * 100).toFixed(1)}%)`);
+    console.log(`    CONTRADICTS: ${progress.matchBreakdown.contradicts.toLocaleString()} (${((progress.matchBreakdown.contradicts / progress.totalMatches) * 100).toFixed(1)}%)`);
+    const avgMatches = progress.totalProcessed > 0 ? (progress.totalMatches / progress.totalProcessed).toFixed(1) : '0';
+    console.log(`  Average matches/promise:   ${avgMatches}`);
+  }
+  console.log(`  API calls made:            ${progress.totalApiCalls.toLocaleString()}`);
+  console.log(`  Errors (logged):           ${progress.errors.length}`);
+  console.log(`  Session duration:          ${totalDuration}`);
+  console.log(`  Checkpoint file:           ${PROGRESS_FILE}`);
+  console.log(`═════════════════════════════════\n`);
 
   await prisma.$disconnect();
 }
@@ -452,6 +684,7 @@ if (
     party: getArg('--party'),
     limit: getArg('--limit') ? parseInt(getArg('--limit')!) : undefined,
     dryRun: args.includes('--dry-run'),
+    resume: args.includes('--resume'),
   }).catch((err) => {
     console.error('[SEMANTIC] Fatal error:', err);
     process.exit(1);
