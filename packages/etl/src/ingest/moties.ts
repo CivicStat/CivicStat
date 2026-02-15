@@ -1,5 +1,9 @@
 /**
  * Ingest Besluiten (Moties) from Tweede Kamer OData API
+ *
+ * Supports incremental mode: when no limit is specified, only fetches
+ * motions newer than the most recent one in the database.
+ * This reduces hourly sync from ~40min (12K upserts) to ~30s (new only).
  */
 
 import { PrismaClient } from '@prisma/client';
@@ -11,30 +15,68 @@ export async function ingestMoties(limit?: number): Promise<void> {
   console.log('[INGEST] Starting Moties ingest...');
 
   try {
-    // Fetch moties - use broader date range to ensure vote-to-motion linking works
-    // Votes from 2025 may relate to motions filed in 2024 or earlier
-    const startYear = 2023; // Cover current parliament (since TK2023 elections)
+    // Determine start date: if no limit, use incremental mode
+    let startDate = '2023-01-01T00:00:00Z';
+
+    if (!limit) {
+      // Find the most recent motion in the DB
+      const latest = await prisma.motion.findFirst({
+        orderBy: { dateIntroduced: 'desc' },
+        select: { dateIntroduced: true },
+      });
+
+      if (latest?.dateIntroduced) {
+        // Go back 7 days from latest to catch any late-arriving motions
+        const lookback = new Date(latest.dateIntroduced);
+        lookback.setDate(lookback.getDate() - 7);
+        startDate = lookback.toISOString();
+        console.log(`[INGEST] Incremental mode: fetching motions since ${lookback.toISOString().split('T')[0]}`);
+      } else {
+        console.log(`[INGEST] No existing motions found, full ingest from 2023`);
+      }
+    }
+
     const filter =
-      `Verwijderd eq false and Soort eq 'Motie' and GestartOp ge ${startYear}-01-01T00:00:00Z`;
+      `Verwijderd eq false and Soort eq 'Motie' and GestartOp ge ${startDate}`;
     const besluiten = await tkClient.getBesluiten(filter, limit);
 
-    console.log(`[INGEST] Found ${besluiten.length} moties`);
+    console.log(`[INGEST] Found ${besluiten.length} moties to process`);
+
+    // Pre-load existing tkIds to skip unnecessary upserts
+    const existingMotions = await prisma.motion.findMany({
+      where: {
+        tkId: { in: besluiten.map(b => b.Id) },
+      },
+      select: { tkId: true, dateIntroduced: true, status: true },
+    });
+    const existingMap = new Map(existingMotions.map(m => [m.tkId, m]));
+
+    let created = 0;
+    let updated = 0;
+    let skipped = 0;
 
     for (const besluit of besluiten) {
       if (!besluit.GestartOp) {
         console.log(`[INGEST] ⚠️  Skipping motie ${besluit.Id} (no date)`);
+        skipped++;
         continue;
       }
 
-      // Raw ingest disabled to save storage (rawData is stored on Motion)
+      const existing = existingMap.get(besluit.Id);
 
-      // Upsert motion
+      // Skip if motion exists and status hasn't changed
+      if (existing && existing.status === besluit.Status) {
+        skipped++;
+        continue;
+      }
+
+      // Upsert motion (new or status changed)
       await prisma.motion.upsert({
         where: { tkId: besluit.Id },
         update: {
           tkNumber: besluit.Nummer || null,
           title: besluit.Titel,
-          text: besluit.Onderwerp || besluit.Titel, // Use Onderwerp as text, fallback to Titel
+          text: besluit.Onderwerp || besluit.Titel,
           dateIntroduced: new Date(besluit.GestartOp),
           status: besluit.Status,
           soort: besluit.Soort,
@@ -45,7 +87,7 @@ export async function ingestMoties(limit?: number): Promise<void> {
           tkId: besluit.Id,
           tkNumber: besluit.Nummer || null,
           title: besluit.Titel,
-          text: besluit.Onderwerp || besluit.Titel, // Use Onderwerp as text, fallback to Titel
+          text: besluit.Onderwerp || besluit.Titel,
           dateIntroduced: new Date(besluit.GestartOp),
           status: besluit.Status,
           soort: besluit.Soort,
@@ -54,10 +96,15 @@ export async function ingestMoties(limit?: number): Promise<void> {
         },
       });
 
-      console.log(`[INGEST] ✅ ${besluit.Nummer || besluit.Id.substring(0, 8)} - ${besluit.Titel.substring(0, 60)}...`);
+      if (existing) {
+        updated++;
+      } else {
+        created++;
+        console.log(`[INGEST] ✅ ${besluit.Nummer || besluit.Id.substring(0, 8)} - ${besluit.Titel.substring(0, 60)}...`);
+      }
     }
 
-    console.log('[INGEST] ✅ Moties ingest complete');
+    console.log(`[INGEST] ✅ Moties ingest complete: ${created} new, ${updated} updated, ${skipped} skipped`);
   } catch (error) {
     console.error('[INGEST] ❌ Moties ingest failed:', error);
     throw error;
