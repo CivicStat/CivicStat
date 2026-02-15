@@ -39,11 +39,12 @@ const prisma = new PrismaClient();
 const MAX_CANDIDATES = 80;
 const BATCH_SIZE = 8;
 const MIN_CONFIDENCE = 0.4;
-const RATE_LIMIT_MS = 500;
+const RATE_LIMIT_MS = 300;
 const MATCH_METHOD = 'semantic-claude';
 const ALGORITHM_VERSION = 'semantic-claude-v1';
 const MODEL = 'claude-sonnet-4-20250514';
 const PROGRESS_SAVE_INTERVAL = 25; // save checkpoint every N promises
+const CONCURRENCY = 5; // process N promises in parallel
 
 // ─── Progress Tracking ─────────────────────────────────────────
 
@@ -107,6 +108,36 @@ function saveProgress(state: ProgressState): void {
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/** Simple concurrency limiter (like p-limit) */
+function createPool(concurrency: number) {
+  let active = 0;
+  const queue: Array<() => void> = [];
+
+  function next() {
+    if (queue.length > 0 && active < concurrency) {
+      active++;
+      queue.shift()!();
+    }
+  }
+
+  return async function run<T>(fn: () => Promise<T>): Promise<T> {
+    return new Promise<T>((resolve, reject) => {
+      const execute = async () => {
+        try {
+          resolve(await fn());
+        } catch (err) {
+          reject(err);
+        } finally {
+          active--;
+          next();
+        }
+      };
+      queue.push(execute);
+      next();
+    });
+  };
 }
 
 function formatTime(seconds: number): string {
@@ -336,10 +367,11 @@ interface SemanticMatchOptions {
   party?: string;
   dryRun?: boolean;
   resume?: boolean;
+  concurrency?: number;
 }
 
 export async function runSemanticMatching(options: SemanticMatchOptions = {}): Promise<void> {
-  const { party, dryRun = false, limit, resume = false } = options;
+  const { party, dryRun = false, limit, resume = false, concurrency: concurrencyOpt } = options;
 
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey && !dryRun) {
@@ -371,6 +403,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
   console.log(`  Method:   ${MATCH_METHOD} (${ALGORITHM_VERSION})`);
   console.log(`  Party:    ${party || 'all'}`);
   console.log(`  Limit:    ${limit || 'all'}`);
+  console.log(`  Parallel: ${concurrencyOpt || CONCURRENCY} promises concurrently`);
   console.log(`  Dry run:  ${dryRun}`);
   console.log(`  Resume:   ${resume} (${processedSet.size} already processed)`);
   console.log(`═══════════════════════════════════════════════════════\n`);
@@ -429,20 +462,19 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
   let promisesProcessed = 0;
   let promisesWithZeroMatches = 0;
 
-  for (const promise of promises) {
-    promisesProcessed++;
-
+  // ── Per-promise processing function ──
+  async function processPromise(promise: typeof promises[0]): Promise<void> {
     // Skip if already has semantic matches (not resume — just already in DB from prior run)
     if (promise.motionMatches.length > 0 && !resume) {
       progress.totalSkipped++;
       processedSet.add(promise.id);
       progress.processedPromiseIds.push(promise.id);
-      continue;
+      return;
     }
 
     const partyAbbr = promise.program.party.abbreviation;
 
-    // 3. Find candidate motions via keyword pre-filter
+    // Find candidate motions via keyword pre-filter
     const candidates = await findCandidateMotions({
       text: promise.text,
       summary: promise.summary,
@@ -457,7 +489,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       processedSet.add(promise.id);
       progress.processedPromiseIds.push(promise.id);
       progress.totalProcessed++;
-      continue;
+      return;
     }
 
     if (dryRun) {
@@ -465,10 +497,10 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       processedSet.add(promise.id);
       progress.processedPromiseIds.push(promise.id);
       progress.totalProcessed++;
-      continue;
+      return;
     }
 
-    // 4. Batch candidates into groups and call Claude
+    // Batch candidates into groups and call Claude
     const matchResults: Array<{
       motionId: string;
       matchType: PromiseMatchType;
@@ -551,7 +583,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
         });
       }
 
-      // Rate limiting
+      // Rate limiting between batches within a single promise
       await sleep(RATE_LIMIT_MS);
     }
 
@@ -612,8 +644,9 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
     processedSet.add(promise.id);
     progress.processedPromiseIds.push(promise.id);
     progress.totalProcessed++;
+    promisesProcessed++;
 
-    // Save progress periodically
+    // Save progress & log periodically
     if (promisesProcessed % PROGRESS_SAVE_INTERVAL === 0) {
       saveProgress(progress);
 
@@ -629,14 +662,21 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
       console.log(
         `[${timestamp()}] Progress: ${overallProgress}/${totalOverall} (${overallPct}%) | ` +
         `Matches: ${progress.totalMatches} | ` +
-        `Explicit: ${progress.matchBreakdown.explicit} | ` +
-        `Implicit: ${progress.matchBreakdown.implicit} | ` +
-        `Contradicts: ${progress.matchBreakdown.contradicts} | ` +
+        `E:${progress.matchBreakdown.explicit} I:${progress.matchBreakdown.implicit} C:${progress.matchBreakdown.contradicts} | ` +
         `Errors: ${progress.errors.length} | ` +
+        `API: ${progress.totalApiCalls} | ` +
         `ETA: ~${eta}`
       );
     }
   }
+
+  // ── Run with concurrency pool ──
+  const concurrency = dryRun ? 1 : (concurrencyOpt || CONCURRENCY);
+  console.log(`[${timestamp()}] Processing with concurrency=${concurrency}\n`);
+
+  const pool = createPool(concurrency);
+  const tasks = promises.map((promise) => pool(() => processPromise(promise)));
+  await Promise.all(tasks);
 
   // Final save
   saveProgress(progress);
@@ -685,6 +725,7 @@ if (
     limit: getArg('--limit') ? parseInt(getArg('--limit')!) : undefined,
     dryRun: args.includes('--dry-run'),
     resume: args.includes('--resume'),
+    concurrency: getArg('--concurrency') ? parseInt(getArg('--concurrency')!) : undefined,
   }).catch((err) => {
     console.error('[SEMANTIC] Fatal error:', err);
     process.exit(1);

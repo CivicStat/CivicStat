@@ -324,6 +324,7 @@ async function main() {
       case 'semantic': {
         const smParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
         const smLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
+        const smConcurrency = args.find(a => a === '--concurrency') ? args[args.indexOf('--concurrency') + 1] : undefined;
         const smDryRun = args.includes('--dry-run');
         const smResume = args.includes('--resume');
         await runSemanticMatching({
@@ -331,6 +332,7 @@ async function main() {
           limit: smLimit ? parseInt(smLimit) : undefined,
           dryRun: smDryRun,
           resume: smResume,
+          concurrency: smConcurrency ? parseInt(smConcurrency) : undefined,
         });
         break;
       }
@@ -418,6 +420,7 @@ async function main() {
         console.log('  npm run ingest semantic-match --limit 20              - Process first 20 promises');
         console.log('  npm run ingest semantic-match --dry-run               - Preview candidates (no API calls)');
         console.log('  npm run ingest semantic-match --resume                - Resume from checkpoint');
+        console.log('  npm run ingest semantic-match --concurrency 10        - Process N promises in parallel (default: 5)');
         console.log('\nExamples:');
         console.log('  npm run ingest moties 50          - Ingest 50 most recent moties');
         console.log('  npm run ingest quick              - Quick test with minimal data');
