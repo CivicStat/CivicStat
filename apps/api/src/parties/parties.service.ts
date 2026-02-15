@@ -1,27 +1,6 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
-/** Canonical seat counts for the current Tweede Kamer (2023 election). */
-const TK_SEATS: Record<string, number> = {
-  PVV: 37,
-  "GroenLinks-PvdA": 25,
-  "GL-PvdA": 25,
-  VVD: 24,
-  NSC: 20,
-  D66: 9,
-  BBB: 7,
-  CDA: 5,
-  SP: 5,
-  PvdD: 3,
-  ChristenUnie: 3,
-  CU: 3,
-  FVD: 3,
-  SGP: 3,
-  DENK: 3,
-  Volt: 2,
-  JA21: 1,
-};
-
 @Injectable()
 export class PartiesService {
   async list() {
@@ -47,7 +26,7 @@ export class PartiesService {
 
     return parties.map((p) => ({
       ...p,
-      seats: TK_SEATS[p.abbreviation] || 0,
+      seats: p.seats ?? 0,
     }));
   }
 
@@ -76,7 +55,7 @@ export class PartiesService {
 
     return {
       ...party,
-      seats: TK_SEATS[party.abbreviation] || 0,
+      seats: party.seats ?? 0,
       mps,
       voteStats,
     };

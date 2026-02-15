@@ -33,6 +33,7 @@ import { parseAllPrograms } from './scripts/parse-program-pdf.js';
 import { extractPromisesFromPrograms } from './scripts/extract-promises-from-program.js';
 import { seedPromisesFromJson } from './scripts/seed-promises-json.js';
 import { reviewPromises } from './scripts/review-promises.js';
+import { syncSeats } from './scripts/sync-seats.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -68,6 +69,7 @@ async function main() {
       case 'all':
         console.log('🔄 Running full ingest pipeline (2025+)...\n');
         await ingestFracties();
+        await syncSeats();
         await ingestKamerleden();
         await ingestMoties();
         await ingestStemmingen();
@@ -224,6 +226,7 @@ async function main() {
       case 'sync':
       case 'incremental':
         console.log('🔄 Running incremental sync...\n');
+        await syncSeats();
         await ingestMoties();
         await ingestStemmingen();
         await ingestSponsors();
@@ -287,6 +290,10 @@ async function main() {
         break;
       }
 
+      case 'sync-seats':
+        await syncSeats();
+        break;
+
       default:
         console.log('Usage:');
         console.log('  npm run ingest fracties          - Ingest all fracties (parties)');
@@ -298,6 +305,7 @@ async function main() {
         console.log('  npm run ingest sync               - Incremental sync (moties + stemmingen + sponsors)');
         console.log('  npm run ingest quick              - Quick test ingest');
         console.log('  npm run ingest sponsors            - Ingest motion sponsors (ZaakActor)');
+        console.log('  npm run ingest sync-seats           - Sync party seat counts from TK API');
         console.log('  npm run ingest hoofdelijk [limit]   - Ingest roll-call votes (individual MP data)');
         console.log('  npm run ingest programs            - Ingest verkiezingsprogrammas');
         console.log('  npm run ingest programs download   - Download PDFs only');
