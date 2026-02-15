@@ -159,7 +159,7 @@ function timestamp(): string {
 
 // ─── Theme Keywords for Broad Pre-filter ────────────────────────
 
-const THEME_KEYWORDS: Record<string, string[]> = {
+export const THEME_KEYWORDS: Record<string, string[]> = {
   DEFENSIE: ['defensie', 'navo', 'krijgsmacht', 'militair', 'leger', 'wapen', 'veteranen', 'defensiebudget', 'defensie-uitgaven'],
   MIGRATIE: ['migratie', 'asiel', 'vluchteling', 'verblijfsvergunning', 'naturalisatie', 'arbeidsmigrant', 'inburgering', 'opvang', 'asielzoekers', 'immigratie'],
   KLIMAAT: ['klimaat', 'co2', 'emissie', 'duurzaam', 'fossiel', 'energie', 'windenergie', 'zonnepanelen', 'kernenergie', 'gas', 'klimaatneutraal', 'energietransitie', 'uitstoot'],

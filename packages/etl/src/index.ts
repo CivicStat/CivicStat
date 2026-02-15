@@ -37,6 +37,7 @@ import { ingestRegeerakkoord } from './scripts/ingest-regeerakkoord.js';
 import { computeScorecards } from './scripts/compute-scorecards.js';
 import { syncSeats } from './scripts/sync-seats.js';
 import { runSemanticMatching } from './matching/semantic-matcher.js';
+import { runIncrementalMatch } from './matching/incremental-match.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -233,6 +234,16 @@ async function main() {
         await ingestMoties();
         await ingestStemmingen();
         await ingestSponsors();
+        // Incremental AI matching: match new motions against promises
+        if (process.env.OPENROUTER_API_KEY || process.env.ANTHROPIC_API_KEY) {
+          console.log('\n🧠 Running incremental matching...');
+          await runIncrementalMatch({ maxCostCents: 500 });
+        } else {
+          console.log('\n⏭️  Skipping incremental matching (no AI API key configured)');
+        }
+        // Recompute scorecards to reflect new matches + votes
+        console.log('\n📊 Recomputing scorecards...');
+        await computeScorecards();
         console.log('\n✅ Incremental sync complete!');
         break;
 
@@ -319,6 +330,18 @@ async function main() {
       case 'sync-seats':
         await syncSeats();
         break;
+
+      case 'incremental-match': {
+        const imLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
+        const imDryRun = args.includes('--dry-run');
+        const imMaxCost = args.find(a => a === '--max-cost') ? args[args.indexOf('--max-cost') + 1] : undefined;
+        await runIncrementalMatch({
+          limit: imLimit ? parseInt(imLimit) : undefined,
+          dryRun: imDryRun,
+          maxCostCents: imMaxCost ? Math.round(parseFloat(imMaxCost) * 100) : undefined,
+        });
+        break;
+      }
 
       case 'semantic-match':
       case 'semantic': {
@@ -421,6 +444,12 @@ async function main() {
         console.log('  npm run ingest semantic-match --dry-run               - Preview candidates (no API calls)');
         console.log('  npm run ingest semantic-match --resume                - Resume from checkpoint');
         console.log('  npm run ingest semantic-match --concurrency 10        - Process N promises in parallel (default: 5)');
+        console.log('');
+        console.log('  --- Incremental Matching (auto-runs in sync) ---');
+        console.log('  npm run ingest incremental-match                      - Match new motions against promises');
+        console.log('  npm run ingest incremental-match --dry-run             - Preview candidates (no API calls)');
+        console.log('  npm run ingest incremental-match --limit 10            - Process first 10 unmatched motions');
+        console.log('  npm run ingest incremental-match --max-cost 5.00       - Set max cost in dollars (default: $5)');
         console.log('');
         console.log('  --- AI Provider (applies to all AI tasks) ---');
         console.log('  Set OPENROUTER_API_KEY in .env to use OpenRouter (recommended)');
