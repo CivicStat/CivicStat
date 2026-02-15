@@ -5,6 +5,8 @@ import { VotesModule } from "../votes/votes.module";
 import { PartiesModule } from "../parties/parties.module";
 import { MembersModule } from "../members/members.module";
 import { PromisesModule } from "../promises/promises.module";
+import { AdminModule } from "../admin/admin.module";
+import { StatsModule } from "../stats/stats.module";
 
 @Module({
   imports: [
@@ -14,6 +16,8 @@ import { PromisesModule } from "../promises/promises.module";
     PartiesModule,
     MembersModule,
     PromisesModule,
+    AdminModule,
+    StatsModule,
   ],
 })
 export class AppModule {}

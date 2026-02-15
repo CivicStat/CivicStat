@@ -36,6 +36,7 @@ import { reviewPromises } from './scripts/review-promises.js';
 import { ingestRegeerakkoord } from './scripts/ingest-regeerakkoord.js';
 import { computeScorecards } from './scripts/compute-scorecards.js';
 import { syncSeats } from './scripts/sync-seats.js';
+import { runSemanticMatching } from './matching/semantic-matcher.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -318,6 +319,19 @@ async function main() {
       case 'sync-seats':
         await syncSeats();
         break;
+
+      case 'semantic-match':
+      case 'semantic': {
+        const smParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const smLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
+        const smDryRun = args.includes('--dry-run');
+        await runSemanticMatching({
+          party: smParty,
+          limit: smLimit ? parseInt(smLimit) : undefined,
+          dryRun: smDryRun,
+        });
+        break;
+      }
 
       default:
         console.log('Usage:');
