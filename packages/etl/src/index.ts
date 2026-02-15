@@ -33,6 +33,8 @@ import { parseAllPrograms } from './scripts/parse-program-pdf.js';
 import { extractPromisesFromPrograms } from './scripts/extract-promises-from-program.js';
 import { seedPromisesFromJson } from './scripts/seed-promises-json.js';
 import { reviewPromises } from './scripts/review-promises.js';
+import { ingestRegeerakkoord } from './scripts/ingest-regeerakkoord.js';
+import { computeScorecards } from './scripts/compute-scorecards.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -287,6 +289,29 @@ async function main() {
         break;
       }
 
+      case 'regeerakkoord':
+      case 'ingest-regeerakkoord': {
+        const raAkkoord = args.find(a => a === '--akkoord') ? args[args.indexOf('--akkoord') + 1] : args[1];
+        if (!raAkkoord || !['schoof', 'jetten'].includes(raAkkoord)) {
+          console.log('Usage: npm run ingest regeerakkoord --akkoord schoof|jetten');
+          console.log('       npm run ingest regeerakkoord --akkoord schoof --step parse|extract|seed|all');
+          console.log('       npm run ingest regeerakkoord --akkoord jetten --dry-run');
+          process.exit(1);
+        }
+        const raStep = args.find(a => a === '--step') ? args[args.indexOf('--step') + 1] as any : 'all';
+        const raDryRun = args.includes('--dry-run');
+        const raReplace = args.includes('--replace');
+        await ingestRegeerakkoord({ akkoord: raAkkoord as 'schoof' | 'jetten', step: raStep, dryRun: raDryRun, replace: raReplace });
+        break;
+      }
+
+      case 'compute-scorecards': {
+        const csParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const csYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
+        await computeScorecards({ party: csParty, year: csYear ? parseInt(csYear) : undefined });
+        break;
+      }
+
       default:
         console.log('Usage:');
         console.log('  npm run ingest fracties          - Ingest all fracties (parties)');
@@ -348,6 +373,20 @@ async function main() {
         console.log('  npm run ingest seed-promises-json --dry-run     - Preview seeding');
         console.log('  npm run ingest review-promises                  - Quality review of extracted promises');
         console.log('  npm run ingest review-promises --verbose        - Show individual issues');
+        console.log('');
+        console.log('  --- Regeerakkoord Pipeline (Batch G1) ---');
+        console.log('  npm run ingest regeerakkoord --akkoord schoof            - Full pipeline Kabinet-Schoof');
+        console.log('  npm run ingest regeerakkoord --akkoord jetten            - Full pipeline Kabinet-Jetten');
+        console.log('  npm run ingest regeerakkoord --akkoord schoof --step parse    - Parse PDF only');
+        console.log('  npm run ingest regeerakkoord --akkoord schoof --step extract  - Extract promises (Claude API)');
+        console.log('  npm run ingest regeerakkoord --akkoord schoof --step seed     - Seed to database only');
+        console.log('  npm run ingest regeerakkoord --akkoord jetten --dry-run       - Preview without changes');
+        console.log('  npm run ingest regeerakkoord --akkoord jetten --replace       - Replace existing promises');
+        console.log('');
+        console.log('  --- Pre-computed Scorecards ---');
+        console.log('  npm run ingest compute-scorecards                    - Compute all party scorecards');
+        console.log('  npm run ingest compute-scorecards --party VVD        - Compute for one party');
+        console.log('  npm run ingest compute-scorecards --year 2023        - Compute for one year');
         console.log('\nExamples:');
         console.log('  npm run ingest moties 50          - Ingest 50 most recent moties');
         console.log('  npm run ingest quick              - Quick test with minimal data');

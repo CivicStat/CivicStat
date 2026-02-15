@@ -80,6 +80,11 @@ enum PromiseMatchType {
   CONTRADICTS // Motion goes against the promise
 }
 
+enum ProgramType {
+  VERKIEZINGSPROGRAMMA
+  REGEERAKKOORD
+}
+
 model Party {
   id           String    @id @default(uuid()) @db.Uuid
   tkId         String?   @unique @map("tk_id") // Tweede Kamer Fractie ID
@@ -97,6 +102,7 @@ model Party {
   motionMatches    MotionProgramMatch[]
   voteRecords      VoteRecord[]
   partyPredictions PartyPrediction[]
+  scorecards       PrecomputedScorecard[]
 
   @@map("parties")
 }
@@ -199,25 +205,27 @@ model VoteRecord {
 }
 
 model Program {
-  id                 String    @id @default(uuid()) @db.Uuid
-  partyId            String    @map("party_id") @db.Uuid
-  electionYear       Int       @map("election_year")
-  title              String    @default("")
-  sourceUrl          String    @map("source_url")
-  secondarySourceUrl String?   @map("secondary_source_url")
-  pdfHash            String?   @map("pdf_hash")
-  pdfSizeBytes       Int?      @map("pdf_size_bytes")
-  downloadedAt       DateTime? @map("downloaded_at")
-  rawText            String    @map("raw_text") @db.Text
-  pageCount          Int?      @map("page_count")
-  createdAt          DateTime  @default(now()) @map("created_at")
-  updatedAt          DateTime  @updatedAt @map("updated_at")
+  id                 String      @id @default(uuid()) @db.Uuid
+  partyId            String      @map("party_id") @db.Uuid
+  electionYear       Int         @map("election_year")
+  programType        ProgramType @default(VERKIEZINGSPROGRAMMA) @map("program_type")
+  coalitionPartyIds  String[]    @default([]) @map("coalition_party_ids")
+  title              String      @default("")
+  sourceUrl          String      @map("source_url")
+  secondarySourceUrl String?     @map("secondary_source_url")
+  pdfHash            String?     @map("pdf_hash")
+  pdfSizeBytes       Int?        @map("pdf_size_bytes")
+  downloadedAt       DateTime?   @map("downloaded_at")
+  rawText            String      @map("raw_text") @db.Text
+  pageCount          Int?        @map("page_count")
+  createdAt          DateTime    @default(now()) @map("created_at")
+  updatedAt          DateTime    @updatedAt @map("updated_at")
 
   party    Party            @relation(fields: [partyId], references: [id])
   passages ProgramPassage[]
   promises Promise[]
 
-  @@unique([partyId, electionYear])
+  @@unique([partyId, electionYear, programType])
   @@map("programs")
 }
 
@@ -458,4 +466,64 @@ model SyncState {
   updatedAt    DateTime @updatedAt @map("updated_at")
 
   @@map("sync_state")
+}
+
+// ── Pre-computed Scorecards ──────────────────────────────────
+
+model PrecomputedScorecard {
+  id               String      @id @default(uuid()) @db.Uuid
+  partyId          String      @map("party_id") @db.Uuid
+  electionYear     Int         @map("election_year")
+  programType      ProgramType @default(VERKIEZINGSPROGRAMMA) @map("program_type")
+
+  // Core scorecard data
+  mcs              Float                    // Motion Consistency Score (0-100)
+  totalPromises    Int         @map("total_promises")
+  scoredPromises   Int         @map("scored_promises")
+  consistentCount  Int         @map("consistent_count")
+  inconsistentCount Int        @map("inconsistent_count")
+  mixedCount       Int         @map("mixed_count")
+
+  // Full scorecard JSON blob for the detail view
+  detailJson       Json        @map("detail_json")
+
+  // Metadata
+  computedAt       DateTime    @default(now()) @map("computed_at")
+  algorithmVersion String      @default("keyword-v2") @map("algorithm_version")
+
+  party            Party       @relation(fields: [partyId], references: [id])
+
+  @@unique([partyId, electionYear, programType])
+  @@index([electionYear])
+  @@map("precomputed_scorecards")
+}
+
+// ── Pipeline Runs ────────────────────────────────────────────
+
+enum PipelineStatus {
+  RUNNING
+  COMPLETED
+  FAILED
+  PARTIAL
+}
+
+model PipelineRun {
+  id                 String         @id @default(uuid()) @db.Uuid
+  status             PipelineStatus @default(RUNNING)
+  trigger            String         @default("scheduled")
+  startedAt          DateTime       @default(now()) @map("started_at")
+  completedAt        DateTime?      @map("completed_at")
+  durationMs         Int?           @map("duration_ms")
+  steps              Json           @default("[]")
+  motionsSynced      Int            @default(0) @map("motions_synced")
+  votesSynced        Int            @default(0) @map("votes_synced")
+  sponsorsSynced     Int            @default(0) @map("sponsors_synced")
+  matchesCreated     Int            @default(0) @map("matches_created")
+  scorecardsComputed Int            @default(0) @map("scorecards_computed")
+  errorMessage       String?        @map("error_message") @db.Text
+  errorStep          String?        @map("error_step")
+
+  @@index([startedAt(sort: Desc)])
+  @@index([status])
+  @@map("pipeline_runs")
 }
