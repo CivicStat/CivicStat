@@ -84,9 +84,24 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
     console.log(`[INGEST] Cached ${mpByTkId.size} MPs, ${partyByTkId.size} Parties, ${motionByTkId.size} Motions`);
 
     // Fetch vote decisions (Besluiten) with expanded relations
+    // Use incremental mode: only fetch votes newer than the latest in DB
+    let startDate = '2023-01-01T00:00:00Z';
+    if (!limit) {
+      const latestVote = await prisma.vote.findFirst({
+        orderBy: { date: 'desc' },
+        select: { date: true },
+      });
+      if (latestVote?.date) {
+        const lookback = new Date(latestVote.date);
+        lookback.setDate(lookback.getDate() - 7);
+        startDate = lookback.toISOString();
+        console.log(`[INGEST] Incremental mode: fetching votes since ${lookback.toISOString().split('T')[0]}`);
+      }
+    }
+
     console.log('[INGEST] Fetching Besluiten with StemmingsSoort...');
     const filter =
-      "Verwijderd eq false and StemmingsSoort ne null and GewijzigdOp ge 2023-01-01T00:00:00Z";
+      `Verwijderd eq false and StemmingsSoort ne null and GewijzigdOp ge ${startDate}`;
     const besluiten = await tkClient.getVoteBesluiten(filter, limit);
 
     console.log(`[INGEST] Found ${besluiten.length} vote decisions (Besluiten)`);

@@ -183,14 +183,28 @@ export class TKODataClient {
 
     console.log(`[TK API] Fetching: ${url}`);
 
-    const response = await fetch(url);
+    const MAX_RETRIES = 3;
+    for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+      const response = await fetch(url);
 
-    if (!response.ok) {
+      if (response.ok) {
+        return response.json();
+      }
+
       const body = await response.text().catch(() => '');
+
+      // Retry on 503 Service Unavailable and 429 Too Many Requests
+      if ((response.status === 503 || response.status === 429) && attempt < MAX_RETRIES) {
+        const delay = attempt * 5000; // 5s, 10s
+        console.warn(`[TK API] ${response.status} on attempt ${attempt}/${MAX_RETRIES}, retrying in ${delay / 1000}s...`);
+        await new Promise(r => setTimeout(r, delay));
+        continue;
+      }
+
       throw new Error(`TK API error: ${response.status} ${response.statusText} - ${body}`);
     }
 
-    return response.json();
+    throw new Error('TK API: max retries exceeded');
   }
 
   /**
