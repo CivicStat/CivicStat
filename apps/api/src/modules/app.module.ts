@@ -7,6 +7,7 @@ import { MembersModule } from "../members/members.module";
 import { PromisesModule } from "../promises/promises.module";
 import { AdminModule } from "../admin/admin.module";
 import { StatsModule } from "../stats/stats.module";
+import { LangfuseModule } from "../langfuse/langfuse.module";
 
 @Module({
   imports: [
@@ -18,6 +19,7 @@ import { StatsModule } from "../stats/stats.module";
     PromisesModule,
     AdminModule,
     StatsModule,
+    LangfuseModule,
   ],
 })
 export class AppModule {}

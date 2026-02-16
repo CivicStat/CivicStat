@@ -507,6 +507,8 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
           onRetry: (attempt, delay, error) => {
             console.warn(`    [RETRY] API ${error.status} (${error.message.slice(0, 80)}), attempt ${attempt}/3, waiting ${delay}ms...`);
           },
+          traceName: 'semantic-match',
+          traceTags: ['etl', 'semantic-match'],
         });
 
         sessionApiCalls++;

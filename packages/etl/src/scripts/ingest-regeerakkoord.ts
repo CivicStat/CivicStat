@@ -462,7 +462,10 @@ export async function ingestRegeerakkoord(options: RegeerakkoordOptions): Promis
                 chunk.text,
                 config.electionYear,
               );
-              const aiResponse = await chatWithRetry(ai!, model, prompt, { maxTokens: 8192 });
+              const aiResponse = await chatWithRetry(ai!, model, prompt, { maxTokens: 8192 }, {
+                traceName: 'extract-regeerakkoord',
+                traceTags: ['etl', 'regeerakkoord'],
+              });
               const response = aiResponse.text;
 
               let jsonStr = response.trim();

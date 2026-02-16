@@ -295,11 +295,18 @@ export function resetAIClient(): void {
 export interface RetryOptions {
   maxRetries?: number;
   onRetry?: (attempt: number, delay: number, error: AIError) => void;
+  /** Langfuse trace name (e.g. 'semantic-match', 'incremental-match', 'extract-promises') */
+  traceName?: string;
+  /** Optional tags for Langfuse trace (e.g. ['sync', 'VVD']) */
+  traceTags?: string[];
 }
 
 /**
  * Call AI with automatic retry on rate-limit / server errors.
  * Uses exponential backoff with longer delays for rate limits.
+ *
+ * When Langfuse is initialized, automatically logs each call as a
+ * public trace with generation details (model, tokens, cost).
  */
 export async function chatWithRetry(
   client: AIClient,
@@ -308,12 +315,46 @@ export async function chatWithRetry(
   chatOptions?: ChatOptions,
   retryOptions?: RetryOptions,
 ): Promise<ChatResponse> {
-  const { maxRetries = 3, onRetry } = retryOptions || {};
+  const { maxRetries = 3, onRetry, traceName, traceTags } = retryOptions || {};
+
+  // Langfuse tracing — create trace + generation if enabled
+  const { getLangfuse } = await import('./langfuse.js');
+  const langfuse = getLangfuse();
+  const trace = langfuse?.trace({
+    name: traceName || 'ai-call',
+    tags: traceTags || ['etl'],
+    metadata: { provider: client.provider, model },
+    public: true, // every trace is publicly inspectable for transparency
+  });
+  const generation = trace?.generation({
+    name: traceName || 'ai-call',
+    model,
+    input: { prompt: prompt.slice(0, 2000), system: chatOptions?.system?.slice(0, 500) },
+    modelParameters: {
+      ...(chatOptions?.maxTokens != null ? { maxTokens: chatOptions.maxTokens } : {}),
+      ...(chatOptions?.temperature != null ? { temperature: chatOptions.temperature } : {}),
+    },
+  });
+
+  let lastError: any;
 
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
-      return await client.chat(model, prompt, chatOptions);
+      const response = await client.chat(model, prompt, chatOptions);
+
+      // Log success to Langfuse
+      generation?.update({
+        output: response.text.slice(0, 2000),
+        usage: response.usage ? {
+          input: response.usage.inputTokens,
+          output: response.usage.outputTokens,
+        } : undefined,
+      });
+      generation?.end();
+
+      return response;
     } catch (error: any) {
+      lastError = error;
       const aiError = error instanceof AIError
         ? error
         : new AIError(error?.status || 0, error?.message || String(error));
@@ -328,9 +369,25 @@ export async function chatWithRetry(
         await new Promise((r) => setTimeout(r, delay));
         continue;
       }
+
+      // Log error to Langfuse
+      generation?.update({
+        statusMessage: aiError.message.slice(0, 500),
+        level: 'ERROR' as any,
+      });
+      generation?.end();
+
       throw error;
     }
   }
+
+  // Log final failure to Langfuse
+  generation?.update({
+    statusMessage: lastError?.message?.slice(0, 500) || 'Max retries exceeded',
+    level: 'ERROR' as any,
+  });
+  generation?.end();
+
   throw new Error('Unreachable');
 }
 

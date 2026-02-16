@@ -420,6 +420,8 @@ export async function runIncrementalMatch(
           onRetry: (attempt, delay, error) => {
             console.warn(`    [RETRY] API ${error.status}, attempt ${attempt}/3, waiting ${delay}ms...`);
           },
+          traceName: 'incremental-match',
+          traceTags: ['etl', 'incremental-match'],
         });
 
         result.apiCallsMade++;

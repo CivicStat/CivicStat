@@ -337,7 +337,10 @@ export async function extractPromisesFromPrograms(options: ExtractOptions = {}):
 
       try {
         const prompt = buildExtractionPrompt(abbr, chunk.text, year);
-        const aiResponse = await chatWithRetry(ai!, model, prompt, { maxTokens: 8192 });
+        const aiResponse = await chatWithRetry(ai!, model, prompt, { maxTokens: 8192 }, {
+          traceName: 'extract-promises',
+          traceTags: ['etl', 'extract-promises', abbr],
+        });
         const response = aiResponse.text;
 
         // Parse JSON from response — handle potential markdown wrapping

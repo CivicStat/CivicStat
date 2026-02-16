@@ -38,6 +38,7 @@ import { computeScorecards } from './scripts/compute-scorecards.js';
 import { syncSeats } from './scripts/sync-seats.js';
 import { runSemanticMatching } from './matching/semantic-matcher.js';
 import { runIncrementalMatch } from './matching/incremental-match.js';
+import { initLangfuse, shutdownLangfuse } from './lib/langfuse.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -230,21 +231,26 @@ async function main() {
       case 'sync':
       case 'incremental':
         console.log('🔄 Running incremental sync...\n');
-        await syncSeats();
-        await ingestMoties();
-        await ingestStemmingen();
-        await ingestSponsors();
-        // Incremental AI matching: match new motions against promises
-        if (process.env.OPENROUTER_API_KEY || process.env.ANTHROPIC_API_KEY) {
-          console.log('\n🧠 Running incremental matching...');
-          await runIncrementalMatch({ maxCostCents: 500 });
-        } else {
-          console.log('\n⏭️  Skipping incremental matching (no AI API key configured)');
+        initLangfuse(); // Enable AI call tracing
+        try {
+          await syncSeats();
+          await ingestMoties();
+          await ingestStemmingen();
+          await ingestSponsors();
+          // Incremental AI matching: match new motions against promises
+          if (process.env.OPENROUTER_API_KEY || process.env.ANTHROPIC_API_KEY) {
+            console.log('\n🧠 Running incremental matching...');
+            await runIncrementalMatch({ maxCostCents: 500 });
+          } else {
+            console.log('\n⏭️  Skipping incremental matching (no AI API key configured)');
+          }
+          // Recompute scorecards to reflect new matches + votes
+          console.log('\n📊 Recomputing scorecards...');
+          await computeScorecards();
+          console.log('\n✅ Incremental sync complete!');
+        } finally {
+          await shutdownLangfuse(); // Flush traces before exit
         }
-        // Recompute scorecards to reflect new matches + votes
-        console.log('\n📊 Recomputing scorecards...');
-        await computeScorecards();
-        console.log('\n✅ Incremental sync complete!');
         break;
 
       case 'quick':
@@ -335,11 +341,16 @@ async function main() {
         const imLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
         const imDryRun = args.includes('--dry-run');
         const imMaxCost = args.find(a => a === '--max-cost') ? args[args.indexOf('--max-cost') + 1] : undefined;
-        await runIncrementalMatch({
-          limit: imLimit ? parseInt(imLimit) : undefined,
-          dryRun: imDryRun,
-          maxCostCents: imMaxCost ? Math.round(parseFloat(imMaxCost) * 100) : undefined,
-        });
+        initLangfuse();
+        try {
+          await runIncrementalMatch({
+            limit: imLimit ? parseInt(imLimit) : undefined,
+            dryRun: imDryRun,
+            maxCostCents: imMaxCost ? Math.round(parseFloat(imMaxCost) * 100) : undefined,
+          });
+        } finally {
+          await shutdownLangfuse();
+        }
         break;
       }
 
@@ -350,13 +361,18 @@ async function main() {
         const smConcurrency = args.find(a => a === '--concurrency') ? args[args.indexOf('--concurrency') + 1] : undefined;
         const smDryRun = args.includes('--dry-run');
         const smResume = args.includes('--resume');
-        await runSemanticMatching({
-          party: smParty,
-          limit: smLimit ? parseInt(smLimit) : undefined,
-          dryRun: smDryRun,
-          resume: smResume,
-          concurrency: smConcurrency ? parseInt(smConcurrency) : undefined,
-        });
+        initLangfuse();
+        try {
+          await runSemanticMatching({
+            party: smParty,
+            limit: smLimit ? parseInt(smLimit) : undefined,
+            dryRun: smDryRun,
+            resume: smResume,
+            concurrency: smConcurrency ? parseInt(smConcurrency) : undefined,
+          });
+        } finally {
+          await shutdownLangfuse();
+        }
         break;
       }
 
