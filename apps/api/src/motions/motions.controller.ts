@@ -10,6 +10,8 @@ export class MotionsController {
     @Query("q") q?: string,
     @Query("party") party?: string,
     @Query("status") status?: string,
+    @Query("result") result?: string,
+    @Query("hasVotes") hasVotes?: string,
     @Query("limit") limit?: string,
     @Query("offset") offset?: string
   ) {
@@ -20,6 +22,8 @@ export class MotionsController {
       query: q,
       party,
       status,
+      result,
+      hasVotes: hasVotes === "true",
       limit: Number.isNaN(parsedLimit) ? 20 : parsedLimit,
       offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset,
     });

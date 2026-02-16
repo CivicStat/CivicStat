@@ -95,6 +95,44 @@ export class PartiesController {
     }
   }
 
+  /** GET /parties/:id/regeerakkoord?year=2024&periodStart=...&periodEnd=... */
+  @Get(":id/regeerakkoord")
+  async regeerakkoord(
+    @Param("id") id: string,
+    @Query("year") year?: string,
+    @Query("periodStart") periodStart?: string,
+    @Query("periodEnd") periodEnd?: string,
+  ) {
+    try {
+      return await this.scorecardService.getRegeerakkoordScorecard(id, {
+        electionYear: year ? parseInt(year) : undefined,
+        periodStart,
+        periodEnd,
+      });
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Regeerakkoord scorecard failed for ${id}:`, err);
+      throw new InternalServerErrorException("Regeerakkoord scorecard computation failed");
+    }
+  }
+
+  /** GET /parties/:id/coalitieverwatering?year=2026 */
+  @Get(":id/coalitieverwatering")
+  async coalitieverwatering(
+    @Param("id") id: string,
+    @Query("year") year?: string,
+  ) {
+    try {
+      return await this.scorecardService.getCoalitieverwatering(id, {
+        electionYear: year ? parseInt(year) : undefined,
+      });
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Coalitieverwatering computation failed for ${id}:`, err);
+      throw new InternalServerErrorException("Coalitieverwatering computation failed");
+    }
+  }
+
   // ─── Party detail ─────────────────────────────────────────
 
   @Get(":id")

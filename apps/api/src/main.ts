@@ -12,7 +12,9 @@ async function bootstrap() {
     credentials: true
   });
 
-  await app.listen(process.env.PORT ? Number(process.env.PORT) : 4000);
+  const port = process.env.PORT ? Number(process.env.PORT) : 4000;
+  await app.listen(port);
+  console.log(`API listening on port ${port}`);
 }
 
 bootstrap();

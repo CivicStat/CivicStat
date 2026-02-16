@@ -174,6 +174,14 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
           },
         });
 
+        // Backfill Motion.result from the vote outcome
+        if (motionId && result) {
+          await prisma.motion.update({
+            where: { id: motionId },
+            data: { result },
+          });
+        }
+
         let totalFor = 0;
         let totalAgainst = 0;
         let totalAbstain = 0;

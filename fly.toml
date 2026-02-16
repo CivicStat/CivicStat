@@ -24,3 +24,6 @@ primary_region = "ams"
     type = "connections"
     hard_limit = 25
     soft_limit = 20
+
+  [services.http_options]
+    response_header_timeout = 30

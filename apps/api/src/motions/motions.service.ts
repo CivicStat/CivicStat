@@ -5,13 +5,15 @@ interface MotionListParams {
   query?: string;
   party?: string;
   status?: string;
+  result?: string;
+  hasVotes?: boolean;
   limit: number;
   offset: number;
 }
 
 @Injectable()
 export class MotionsService {
-  async list({ query, party, status, limit, offset }: MotionListParams) {
+  async list({ query, party, status, result, hasVotes, limit, offset }: MotionListParams) {
     const where: any = {};
 
     if (query) {
@@ -23,6 +25,14 @@ export class MotionsService {
 
     if (status) {
       where.status = status;
+    }
+
+    if (result) {
+      where.result = result;
+    }
+
+    if (hasVotes) {
+      where.result = { not: null };
     }
 
     // If filtering by party, join through sponsors

@@ -141,6 +141,7 @@ model Motion {
   text           String   @db.Text
   dateIntroduced DateTime @map("date_introduced")
   status         String
+  result         String?  // "Aangenomen" | "Verworpen" — backfilled from Vote.result
   statusDetail   String?  @map("status_detail")
   soort          String? // Type besluit (motie, amendement, etc.)
   sourceUrl      String   @map("source_url")

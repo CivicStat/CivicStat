@@ -1,4 +1,4 @@
-import { Injectable, NotFoundException } from "@nestjs/common";
+import { Injectable, Logger, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
 // ─── B2: Match type weights ────────────────────────────────
@@ -79,6 +79,7 @@ export interface ScorecardComparison {
 
 @Injectable()
 export class PartiesScorecardService {
+  private readonly logger = new Logger(PartiesScorecardService.name);
 
   // ─── P2.1 + P2.2: Period-aware scorecard ─────────────────
   async getScorecard(
@@ -93,6 +94,27 @@ export class PartiesScorecardService {
     // 1. Find the party
     const party = await this.findParty(partyIdOrAbbr);
 
+    // Try pre-computed scorecard first (only when using default period boundaries)
+    const isDefaultPeriod = periodStart === periodDefaults.start && periodEnd === periodDefaults.end;
+    if (isDefaultPeriod) {
+      const cached = await prisma.precomputedScorecard.findUnique({
+        where: {
+          partyId_electionYear_programType: {
+            partyId: party.id,
+            electionYear,
+            programType: "VERKIEZINGSPROGRAMMA",
+          },
+        },
+      });
+
+      if (cached) {
+        return cached.detailJson as unknown as PartyScorecard;
+      }
+
+      this.logger.warn(`No pre-computed scorecard for ${party.abbreviation}/${electionYear}, computing on the fly`);
+    }
+
+    // Fall back to on-the-fly computation
     // 2. Get all promises for this party's program in the given year
     const promises = await prisma.promise.findMany({
       where: {
@@ -271,7 +293,32 @@ export class PartiesScorecardService {
     options: ScorecardOptions = {},
   ): Promise<Omit<PartyScorecard, "promises">[]> {
     const electionYear = options.electionYear ?? 2023;
+    const periodDefaults = PERIOD_DEFAULTS[electionYear] ?? PERIOD_DEFAULTS[2023];
+    const isDefaultPeriod = !options.periodStart && !options.periodEnd;
 
+    // Try pre-computed scorecards first
+    if (isDefaultPeriod) {
+      const precomputed = await prisma.precomputedScorecard.findMany({
+        where: {
+          electionYear,
+          programType: "VERKIEZINGSPROGRAMMA",
+        },
+      });
+
+      if (precomputed.length > 0) {
+        return precomputed
+          .map((row) => {
+            const detail = row.detailJson as any;
+            const { promises, ...summary } = detail;
+            return summary as Omit<PartyScorecard, "promises">;
+          })
+          .sort((a, b) => b.mandateConsistencyScore - a.mandateConsistencyScore);
+      }
+
+      this.logger.warn(`No pre-computed scorecards for year ${electionYear}, computing on the fly`);
+    }
+
+    // Fall back to on-the-fly computation
     const partiesWithPromises = await prisma.$queryRaw<{ party_id: string }[]>`
       SELECT DISTINCT prog.party_id
       FROM promises p
@@ -298,79 +345,153 @@ export class PartiesScorecardService {
     years: number[] = [2023, 2025],
     options: { periodStart?: string; periodEnd?: string } = {},
   ): Promise<ScorecardComparison[]> {
-    // Collect all party IDs that have promises in any of the years
-    const allPartyIds = new Set<string>();
+    const isDefaultPeriod = !options.periodStart && !options.periodEnd;
 
-    for (const year of years) {
-      const parties = await prisma.$queryRaw<{ party_id: string }[]>`
-        SELECT DISTINCT prog.party_id
-        FROM promises p
-        JOIN programs prog ON p.program_id = prog.id
-        WHERE prog.election_year = ${year}
-      `;
-      for (const { party_id } of parties) {
-        allPartyIds.add(party_id);
+    // Try pre-computed scorecards first (single DB query instead of 30 scorecard computations)
+    if (isDefaultPeriod) {
+      const precomputed = await prisma.precomputedScorecard.findMany({
+        where: {
+          electionYear: { in: years },
+          programType: "VERKIEZINGSPROGRAMMA",
+        },
+        include: {
+          party: { select: { id: true, abbreviation: true } },
+        },
+      });
+
+      if (precomputed.length > 0) {
+        // Group by party
+        const byParty = new Map<string, typeof precomputed>();
+        for (const row of precomputed) {
+          if (!byParty.has(row.partyId)) byParty.set(row.partyId, []);
+          byParty.get(row.partyId)!.push(row);
+        }
+
+        const comparisons: ScorecardComparison[] = [];
+        for (const [partyId, rows] of byParty) {
+          const party = rows[0].party;
+          const periods = rows.map((row) => {
+            const detail = row.detailJson as any;
+            return {
+              electionYear: row.electionYear,
+              periodStart: detail.periodStart,
+              periodEnd: detail.periodEnd,
+              mandateConsistencyScore: row.mcs,
+              totalPromises: row.totalPromises,
+              scoredPromises: row.scoredPromises,
+              consistentCount: row.consistentCount,
+              inconsistentCount: row.inconsistentCount,
+              mixedCount: row.mixedCount,
+            };
+          });
+
+          let koersvastheid: number | null = null;
+          if (periods.length >= 2) {
+            const scores = periods.map(p => p.mandateConsistencyScore);
+            if (scores.every(s => s > 0)) {
+              const maxDiff = Math.max(...scores) - Math.min(...scores);
+              koersvastheid = Math.round(100 - maxDiff);
+            }
+          }
+
+          comparisons.push({
+            partyId,
+            abbreviation: party.abbreviation,
+            periods,
+            koersvastheid,
+          });
+        }
+
+        return comparisons.sort((a, b) => {
+          if (a.koersvastheid !== null && b.koersvastheid !== null) return b.koersvastheid - a.koersvastheid;
+          if (a.koersvastheid !== null) return -1;
+          if (b.koersvastheid !== null) return 1;
+          return a.abbreviation.localeCompare(b.abbreviation);
+        });
       }
+
+      this.logger.warn("No pre-computed scorecards found, falling back to on-the-fly computation");
     }
 
-    const comparisons: ScorecardComparison[] = [];
+    // Fall back to on-the-fly computation
+    const partyRows = await prisma.$queryRaw<{ party_id: string; election_year: number }[]>`
+      SELECT DISTINCT prog.party_id, prog.election_year
+      FROM promises p
+      JOIN programs prog ON p.program_id = prog.id
+      WHERE prog.election_year = ANY(${years})
+        AND prog.program_type = 'VERKIEZINGSPROGRAMMA'
+    `;
 
-    for (const partyId of allPartyIds) {
-      const party = await prisma.party.findUnique({ where: { id: partyId } });
-      if (!party) continue;
+    const allPartyIds = [...new Set(partyRows.map(r => r.party_id))];
+    const parties = await prisma.party.findMany({
+      where: { id: { in: allPartyIds } },
+      select: { id: true, abbreviation: true },
+    });
+    const partyMap = new Map(parties.map(p => [p.id, p]));
 
-      const periods = [];
-      for (const year of years) {
-        try {
+    const scorecardJobs = allPartyIds.flatMap(partyId =>
+      years.map(year => ({ partyId, year }))
+    );
+
+    const BATCH_SIZE = 6;
+    const results: { partyId: string; year: number; scorecard: any }[] = [];
+    for (let i = 0; i < scorecardJobs.length; i += BATCH_SIZE) {
+      const batch = scorecardJobs.slice(i, i + BATCH_SIZE);
+      const batchResults = await Promise.allSettled(
+        batch.map(async ({ partyId, year }) => {
           const scorecard = await this.getScorecard(partyId, {
             electionYear: year,
             periodStart: options.periodStart,
             periodEnd: options.periodEnd,
           });
-          periods.push({
-            electionYear: year,
-            periodStart: scorecard.periodStart,
-            periodEnd: scorecard.periodEnd,
-            mandateConsistencyScore: scorecard.mandateConsistencyScore,
-            totalPromises: scorecard.totalPromises,
-            scoredPromises: scorecard.scoredPromises,
-            consistentCount: scorecard.consistentCount,
-            inconsistentCount: scorecard.inconsistentCount,
-            mixedCount: scorecard.mixedCount,
-          });
-        } catch {
-          // Party may not have promises for this year
+          return { partyId, year, scorecard };
+        })
+      );
+      for (const result of batchResults) {
+        if (result.status === "fulfilled") {
+          results.push(result.value);
         }
       }
+    }
 
-      // Only include parties with data in at least one period
-      if (periods.length === 0) continue;
+    const byParty = new Map<string, { year: number; scorecard: any }[]>();
+    for (const { partyId, year, scorecard } of results) {
+      if (!scorecard) continue;
+      if (!byParty.has(partyId)) byParty.set(partyId, []);
+      byParty.get(partyId)!.push({ year, scorecard });
+    }
 
-      // P2.4: Koersvastheid = stability of MCS across periods
-      // Formula: 100 - |MCS_2023 - MCS_2025| (higher = more stable)
+    const comparisons: ScorecardComparison[] = [];
+    for (const [partyId, periodResults] of byParty) {
+      const party = partyMap.get(partyId);
+      if (!party || periodResults.length === 0) continue;
+
+      const periods = periodResults.map(({ year, scorecard: sc }) => ({
+        electionYear: year,
+        periodStart: sc.periodStart,
+        periodEnd: sc.periodEnd,
+        mandateConsistencyScore: sc.mandateConsistencyScore,
+        totalPromises: sc.totalPromises,
+        scoredPromises: sc.scoredPromises,
+        consistentCount: sc.consistentCount,
+        inconsistentCount: sc.inconsistentCount,
+        mixedCount: sc.mixedCount,
+      }));
+
       let koersvastheid: number | null = null;
       if (periods.length >= 2) {
         const scores = periods.map(p => p.mandateConsistencyScore);
-        // Only compute if both have scored promises
         if (scores.every(s => s > 0)) {
           const maxDiff = Math.max(...scores) - Math.min(...scores);
           koersvastheid = Math.round(100 - maxDiff);
         }
       }
 
-      comparisons.push({
-        partyId,
-        abbreviation: party.abbreviation,
-        periods,
-        koersvastheid,
-      });
+      comparisons.push({ partyId, abbreviation: party.abbreviation, periods, koersvastheid });
     }
 
-    // Sort by koersvastheid (most stable first), then by name
     return comparisons.sort((a, b) => {
-      if (a.koersvastheid !== null && b.koersvastheid !== null) {
-        return b.koersvastheid - a.koersvastheid;
-      }
+      if (a.koersvastheid !== null && b.koersvastheid !== null) return b.koersvastheid - a.koersvastheid;
       if (a.koersvastheid !== null) return -1;
       if (b.koersvastheid !== null) return 1;
       return a.abbreviation.localeCompare(b.abbreviation);
@@ -460,6 +581,319 @@ export class PartiesScorecardService {
         byTheme: byThemeComparison,
       })),
       themeStability,
+    };
+  }
+
+  // ─── G1: Regeerakkoord scorecard ─────────────────────────
+  async getRegeerakkoordScorecard(
+    partyIdOrAbbr: string,
+    options: ScorecardOptions = {},
+  ): Promise<PartyScorecard> {
+    const electionYear = options.electionYear ?? 2024;
+
+    // Regeerakkoord period defaults
+    const REGEERAKKOORD_PERIODS: Record<number, { start: string; end: string }> = {
+      2024: { start: "2024-07-02", end: "2025-10-29" },   // Schoof-I kabinetsperiode
+      2026: { start: "2026-02-23", end: "2099-12-31" },   // Jetten kabinetsperiode (ongoing)
+    };
+
+    const periodDefaults = REGEERAKKOORD_PERIODS[electionYear] ?? { start: "2024-01-01", end: "2099-12-31" };
+    const periodStart = options.periodStart ?? periodDefaults.start;
+    const periodEnd = options.periodEnd ?? periodDefaults.end;
+
+    // 1. Find the party
+    const party = await this.findParty(partyIdOrAbbr);
+
+    // 2. Find regeerakkoord program where this party is in the coalition
+    const program = await prisma.program.findFirst({
+      where: {
+        programType: "REGEERAKKOORD",
+        electionYear,
+        coalitionPartyIds: { has: party.id },
+      },
+    });
+
+    if (!program) {
+      throw new NotFoundException(
+        `Geen regeerakkoord gevonden voor ${party.abbreviation} in ${electionYear}`
+      );
+    }
+
+    // 3. Get all promises for this program
+    const promises = await prisma.promise.findMany({
+      where: { programId: program.id },
+      include: {
+        motionMatches: {
+          include: {
+            motion: {
+              include: {
+                votes: {
+                  take: 1,
+                  where: {
+                    date: {
+                      gte: new Date(periodStart),
+                      lte: new Date(periodEnd),
+                    },
+                  },
+                  include: {
+                    records: {
+                      where: { partyIdSnapshot: party.id },
+                    },
+                  },
+                },
+              },
+            },
+          },
+        },
+      },
+    });
+
+    // 4. Score each promise (same logic as getScorecard)
+    const scoredPromises: PromiseScore[] = [];
+    let consistentCount = 0;
+    let inconsistentCount = 0;
+    let mixedCount = 0;
+    let insufficientDataCount = 0;
+    const byTheme: Record<string, { consistent: number; inconsistent: number; mixed: number; total: number; insufficientData: number }> = {};
+
+    for (const promise of promises) {
+      const expectedDir = promise.expectedVoteDirection || "VOOR";
+
+      let aligned = 0;
+      let opposed = 0;
+      let weightedAligned = 0;
+      let weightedOpposed = 0;
+      let noData = 0;
+
+      for (const match of promise.motionMatches) {
+        if (match.confidence < 0.3) continue;
+
+        const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;
+        const effectiveWeight = matchTypeWeight * match.confidence;
+
+        const vote = match.motion.votes?.[0];
+        if (!vote) { noData++; continue; }
+
+        const partyRecords = vote.records || [];
+        let votedFor: boolean | null = null;
+
+        if (partyRecords.length === 0) {
+          const rawStemmingen = (vote as any).rawData?.Stemming || [];
+          const partyNames = [party.abbreviation, party.name].filter(Boolean);
+          const partyVote = rawStemmingen.find(
+            (s: any) => partyNames.some(n => s.ActorNaam === n)
+          );
+          if (!partyVote) { noData++; continue; }
+          votedFor = partyVote.Soort?.toLowerCase() === "voor";
+        } else {
+          const forCount = partyRecords.filter((r: any) => r.voteValue === "FOR").length;
+          const againstCount = partyRecords.filter((r: any) => r.voteValue === "AGAINST").length;
+          votedFor = forCount > againstCount;
+        }
+
+        const expectedFor = expectedDir === "VOOR";
+        if (votedFor === expectedFor) {
+          aligned++;
+          weightedAligned += effectiveWeight;
+        } else {
+          opposed++;
+          weightedOpposed += effectiveWeight;
+        }
+      }
+
+      const totalWithVotes = aligned + opposed;
+      const totalWeighted = weightedAligned + weightedOpposed;
+
+      let status: PromiseScore["status"] = "insufficient_data";
+      if (totalWithVotes >= MIN_MOTIONS_THRESHOLD && totalWeighted > 0) {
+        const ratio = weightedAligned / totalWeighted;
+        if (ratio >= 0.70) status = "consistent";
+        else if (ratio <= 0.30) status = "inconsistent";
+        else status = "mixed";
+      }
+
+      if (!byTheme[promise.theme]) {
+        byTheme[promise.theme] = { consistent: 0, inconsistent: 0, mixed: 0, total: 0, insufficientData: 0 };
+      }
+      if (status !== "insufficient_data") {
+        byTheme[promise.theme].total++;
+        byTheme[promise.theme][status]++;
+      } else {
+        byTheme[promise.theme].insufficientData++;
+      }
+
+      if (status === "consistent") consistentCount++;
+      else if (status === "inconsistent") inconsistentCount++;
+      else if (status === "mixed") mixedCount++;
+      else insufficientDataCount++;
+
+      scoredPromises.push({
+        promiseId: promise.id,
+        promiseCode: promise.promiseCode,
+        summary: promise.summary,
+        theme: promise.theme,
+        expectedDirection: expectedDir,
+        totalMotionsWithVotes: totalWithVotes,
+        alignedVotes: aligned,
+        opposedVotes: opposed,
+        weightedAligned: Math.round(weightedAligned * 100) / 100,
+        weightedOpposed: Math.round(weightedOpposed * 100) / 100,
+        noVoteData: noData,
+        status,
+      });
+    }
+
+    // Weighted aggregate MCS
+    const scored = scoredPromises.filter(p => p.status !== "insufficient_data");
+    let weightedConsistencySum = 0;
+    let totalMotionWeight = 0;
+
+    for (const p of scored) {
+      const weight = p.totalMotionsWithVotes;
+      const totalW = p.weightedAligned + p.weightedOpposed;
+      const ratio = totalW > 0 ? p.weightedAligned / totalW : 0;
+      weightedConsistencySum += ratio * weight;
+      totalMotionWeight += weight;
+    }
+
+    const mandateConsistencyScore = totalMotionWeight > 0
+      ? Math.round((weightedConsistencySum / totalMotionWeight) * 100)
+      : 0;
+
+    return {
+      partyId: party.id,
+      abbreviation: party.abbreviation,
+      electionYear,
+      periodStart,
+      periodEnd,
+      totalPromises: promises.length,
+      scoredPromises: scored.length,
+      insufficientDataPromises: insufficientDataCount,
+      consistentCount,
+      inconsistentCount,
+      mixedCount,
+      mandateConsistencyScore,
+      matchingAlgorithm: "keyword-overlap-v2",
+      note: `Regeerakkoord ${program.title} — coalitieafspraken getoetst aan stemgedrag van ${party.abbreviation}`,
+      byTheme,
+      promises: scoredPromises,
+    };
+  }
+
+  // ─── G1: Coalitieverwatering ────────────────────────────
+  async getCoalitieverwatering(
+    partyIdOrAbbr: string,
+    options: { electionYear?: number } = {},
+  ): Promise<{
+    partyId: string;
+    abbreviation: string;
+    electionYear: number;
+    regeerakkoordTitle: string;
+    totalPartyPromises: number;
+    survivedCount: number;
+    dilutedCount: number;
+    dilutionRate: number;
+    matches: Array<{
+      partyPromise: { code: string; summary: string; keywords: string[] };
+      regeerakkoordPromise: { code: string; summary: string; keywords: string[] } | null;
+      sharedKeywords: string[];
+      survived: boolean;
+    }>;
+  }> {
+    const electionYear = options.electionYear ?? 2026;
+    const party = await this.findParty(partyIdOrAbbr);
+
+    // 1. Get the party's verkiezingsbeloften from the latest election BEFORE the regeerakkoord year
+    // For 2026 regeerakkoord → TK2025 promises; for 2024 → TK2023 promises
+    const partyElectionYear = electionYear <= 2024 ? 2023 : 2025;
+
+    const partyProgram = await prisma.program.findFirst({
+      where: {
+        partyId: party.id,
+        electionYear: partyElectionYear,
+        programType: "VERKIEZINGSPROGRAMMA",
+      },
+    });
+
+    if (!partyProgram) {
+      throw new NotFoundException(
+        `Geen verkiezingsprogramma gevonden voor ${party.abbreviation} (${partyElectionYear})`
+      );
+    }
+
+    const partyPromises = await prisma.promise.findMany({
+      where: { programId: partyProgram.id },
+    });
+
+    // 2. Get regeerakkoord promises where this party is in coalition
+    const regeerakkoordProgram = await prisma.program.findFirst({
+      where: {
+        programType: "REGEERAKKOORD",
+        electionYear,
+        coalitionPartyIds: { has: party.id },
+      },
+    });
+
+    if (!regeerakkoordProgram) {
+      throw new NotFoundException(
+        `Geen regeerakkoord gevonden voor coalitie met ${party.abbreviation} in ${electionYear}`
+      );
+    }
+
+    const regeerakkoordPromises = await prisma.promise.findMany({
+      where: { programId: regeerakkoordProgram.id },
+    });
+
+    // 3. Match via keyword overlap (≥3 shared keywords = "survived" coalition negotiations)
+    const matches = partyPromises.map(pp => {
+      const ppKeywords = new Set((pp.keywords as string[] || []).map(k => k.toLowerCase()));
+
+      let bestMatch: typeof regeerakkoordPromises[0] | null = null;
+      let bestShared: string[] = [];
+
+      for (const rp of regeerakkoordPromises) {
+        const rpKeywords = (rp.keywords as string[] || []).map(k => k.toLowerCase());
+        const shared = rpKeywords.filter(k => ppKeywords.has(k));
+        if (shared.length > bestShared.length) {
+          bestShared = shared;
+          bestMatch = rp;
+        }
+      }
+
+      const survived = bestShared.length >= 3;
+
+      return {
+        partyPromise: {
+          code: pp.promiseCode,
+          summary: pp.summary,
+          keywords: pp.keywords as string[] || [],
+        },
+        regeerakkoordPromise: survived && bestMatch ? {
+          code: bestMatch.promiseCode,
+          summary: bestMatch.summary,
+          keywords: bestMatch.keywords as string[] || [],
+        } : null,
+        sharedKeywords: bestShared,
+        survived,
+      };
+    });
+
+    const survivedCount = matches.filter(m => m.survived).length;
+    const dilutedCount = partyPromises.length - survivedCount;
+    const dilutionRate = partyPromises.length > 0
+      ? Math.round((dilutedCount / partyPromises.length) * 100)
+      : 0;
+
+    return {
+      partyId: party.id,
+      abbreviation: party.abbreviation,
+      electionYear,
+      regeerakkoordTitle: regeerakkoordProgram.title,
+      totalPartyPromises: partyPromises.length,
+      survivedCount,
+      dilutedCount,
+      dilutionRate,
+      matches,
     };
   }
 

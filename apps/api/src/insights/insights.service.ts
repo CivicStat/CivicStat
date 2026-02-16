@@ -41,7 +41,7 @@ interface StilleConsensusMotion {
   note: string;
 }
 
-// Coalition definitions (mirrored from frontend)
+// Coalition definitions
 const COALITIONS = [
   {
     name: "Kabinet-Schoof",
@@ -63,6 +63,65 @@ const UNLIKELY_PAIRS = [
   ["PvdD", "BBB"],
   ["FVD", "GL-PvdA"],
 ];
+
+// Map TK ActorNaam to normalized abbreviation
+// (mirrors votes.service.ts consensus endpoint)
+const ABBR_MAP: Record<string, string> = {
+  "GroenLinks-PvdA": "GL-PvdA",
+  ChristenUnie: "CU",
+  "Nieuw Sociaal Contract": "NSC",
+  "Partij voor de Vrijheid (PVV)": "PVV",
+  "Partij voor de Vrijheid": "PVV",
+};
+
+// ─── Helpers ─────────────────────────────────────────────────
+
+/**
+ * Extract party stances from a vote, using rawData.Stemming
+ * (works for both "Met handopsteken" and "Hoofdelijk" votes).
+ * Returns Map<abbreviation, "FOR"|"AGAINST">
+ */
+function extractPartyStances(vote: {
+  rawData: any;
+  records?: { voteValue: string; party: { abbreviation: string } }[];
+}): Map<string, string> {
+  const stances = new Map<string, string>();
+
+  // Primary: rawData.Stemming (works for ALL vote types)
+  const stemmingen: { ActorNaam: string; Soort: string }[] =
+    vote.rawData?.Stemming ?? [];
+
+  if (stemmingen.length > 0) {
+    for (const s of stemmingen) {
+      if (s.Soort === "Niet deelgenomen") continue;
+      const name = ABBR_MAP[s.ActorNaam] ?? s.ActorNaam;
+      const soort = s.Soort?.toLowerCase();
+      if (soort === "voor") stances.set(name, "FOR");
+      else if (soort === "tegen") stances.set(name, "AGAINST");
+    }
+    return stances;
+  }
+
+  // Fallback: VoteRecords (only for Hoofdelijk votes with expanded records)
+  if (vote.records && vote.records.length > 0) {
+    // Group by party (multiple MPs per party in Hoofdelijk)
+    const partyCounts = new Map<string, { for: number; against: number }>();
+    for (const r of vote.records) {
+      const abbr = r.party.abbreviation;
+      if (!partyCounts.has(abbr)) partyCounts.set(abbr, { for: 0, against: 0 });
+      const counts = partyCounts.get(abbr)!;
+      if (r.voteValue === "FOR") counts.for++;
+      else if (r.voteValue === "AGAINST") counts.against++;
+    }
+    for (const [abbr, counts] of partyCounts) {
+      if (counts.for > 0 || counts.against > 0) {
+        stances.set(abbr, counts.for >= counts.against ? "FOR" : "AGAINST");
+      }
+    }
+  }
+
+  return stances;
+}
 
 @Injectable()
 export class InsightsService {
@@ -93,12 +152,7 @@ export class InsightsService {
 
   // ─── 1. Onverwachte Bedgenoten ──────────────────────────────
 
-  /**
-   * Find "unlikely bedfellows" — ideologically distant parties
-   * that vote together surprisingly often.
-   */
   async getOnverwachteBedgenoten(): Promise<BedgenotenPair[]> {
-    // Get all votes with party-level records
     const votes = await prisma.vote.findMany({
       where: {
         result: { in: ["Aangenomen", "Verworpen"] },
@@ -107,36 +161,21 @@ export class InsightsService {
         id: true,
         motionId: true,
         date: true,
+        rawData: true,
         motion: { select: { id: true, title: true, dateIntroduced: true } },
-        records: {
-          select: {
-            voteValue: true,
-            party: { select: { abbreviation: true } },
-          },
-        },
       },
       take: 500,
       orderBy: { date: "desc" },
     });
 
-    // Build per-vote party stance map
     const pairStats = new Map<
       string,
       { agree: number; total: number; lastMotion: any }
     >();
 
     for (const vote of votes) {
-      // Build party → stance map for this vote
-      const partyStance = new Map<string, string>();
-      for (const r of vote.records) {
-        const abbr = r.party.abbreviation;
-        // Only track FOR / AGAINST (ignore ABSTAIN/ABSENT)
-        if (r.voteValue === "FOR" || r.voteValue === "AGAINST") {
-          partyStance.set(abbr, r.voteValue);
-        }
-      }
+      const partyStance = extractPartyStances(vote);
 
-      // Check unlikely pairs
       for (const [a, b] of UNLIKELY_PAIRS) {
         const stanceA = partyStance.get(a);
         const stanceB = partyStance.get(b);
@@ -155,12 +194,11 @@ export class InsightsService {
       }
     }
 
-    // Filter to pairs with high agreement rate
     const results: BedgenotenPair[] = [];
     for (const [key, stat] of pairStats) {
       if (stat.total < 10) continue;
       const pct = Math.round((stat.agree / stat.total) * 100);
-      if (pct < 50) continue; // Only report when >50% agreement
+      if (pct < 50) continue;
 
       const [partyA, partyB] = key.split("|");
       results.push({
@@ -172,7 +210,9 @@ export class InsightsService {
           ? {
               id: stat.lastMotion.id,
               title: stat.lastMotion.title,
-              date: stat.lastMotion.dateIntroduced,
+              date: stat.lastMotion.dateIntroduced
+                ? String(stat.lastMotion.dateIntroduced)
+                : "",
             }
           : null,
         note: `${partyA} en ${partyB} stemden in ${pct}% van ${stat.total} stemmingen hetzelfde.`,
@@ -184,9 +224,6 @@ export class InsightsService {
 
   // ─── 2. Coalitie-Scheuren ───────────────────────────────────
 
-  /**
-   * Find motions where coalition parties voted differently.
-   */
   async getCoalitieScheuren(): Promise<CoalitieScheur[]> {
     const votes = await prisma.vote.findMany({
       where: {
@@ -196,13 +233,8 @@ export class InsightsService {
         id: true,
         motionId: true,
         date: true,
+        rawData: true,
         motion: { select: { id: true, title: true, dateIntroduced: true } },
-        records: {
-          select: {
-            voteValue: true,
-            party: { select: { abbreviation: true } },
-          },
-        },
       },
       take: 500,
       orderBy: { date: "desc" },
@@ -212,13 +244,7 @@ export class InsightsService {
 
     for (const coalition of COALITIONS) {
       for (const vote of votes) {
-        // Build party stance
-        const partyStance = new Map<string, string>();
-        for (const r of vote.records) {
-          if (r.voteValue === "FOR" || r.voteValue === "AGAINST") {
-            partyStance.set(r.party.abbreviation, r.voteValue);
-          }
-        }
+        const partyStance = extractPartyStances(vote);
 
         // Check if all coalition parties voted
         const coalitionVotes: { abbreviation: string; vote: string }[] = [];
@@ -227,19 +253,14 @@ export class InsightsService {
           if (stance) coalitionVotes.push({ abbreviation: party, vote: stance });
         }
 
-        if (coalitionVotes.length < 3) continue; // Need at least 3 coalition parties
+        if (coalitionVotes.length < 3) continue;
 
         // Check for disagreement
-        const majorityVote = coalitionVotes[0].vote;
-        const dissenters = coalitionVotes.filter((v) => v.vote !== majorityVote);
+        const forCount = coalitionVotes.filter((v) => v.vote === "FOR").length;
+        const againstCount = coalitionVotes.filter((v) => v.vote === "AGAINST").length;
 
-        // If there's at least 1 dissenter, it's a crack
-        if (dissenters.length > 0 && dissenters.length < coalitionVotes.length) {
-          // Determine minority vs majority properly
-          const forCount = coalitionVotes.filter((v) => v.vote === "FOR").length;
-          const againstCount = coalitionVotes.filter((v) => v.vote === "AGAINST").length;
+        if (forCount > 0 && againstCount > 0) {
           const majorVote = forCount >= againstCount ? "FOR" : "AGAINST";
-
           const loyalists = coalitionVotes.filter((v) => v.vote === majorVote);
           const rebels = coalitionVotes.filter((v) => v.vote !== majorVote);
 
@@ -260,7 +281,6 @@ export class InsightsService {
       }
     }
 
-    // Sort by date descending, return top 10
     return results
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .slice(0, 10);
@@ -268,9 +288,6 @@ export class InsightsService {
 
   // ─── 3. Stijgers & Dalers ──────────────────────────────────
 
-  /**
-   * Find parties with the biggest MCS change between TK2023 and TK2025.
-   */
   async getStijgersDalers(): Promise<StijgerDaler[]> {
     const scorecards = await prisma.precomputedScorecard.findMany({
       where: {
@@ -286,7 +303,6 @@ export class InsightsService {
       },
     });
 
-    // Group by party
     const byParty = new Map<
       string,
       { partyId: string; abbreviation: string; mcs2023?: number; mcs2025?: number }
@@ -328,10 +344,6 @@ export class InsightsService {
 
   // ─── 4. Stille Consensus ───────────────────────────────────
 
-  /**
-   * Find motions where (almost) all parties voted the same way
-   * — surprising unanimity.
-   */
   async getStilleConsensus(): Promise<StilleConsensusMotion[]> {
     const votes = await prisma.vote.findMany({
       where: {
@@ -342,13 +354,8 @@ export class InsightsService {
         motionId: true,
         result: true,
         date: true,
+        rawData: true,
         motion: { select: { id: true, title: true, dateIntroduced: true } },
-        records: {
-          select: {
-            voteValue: true,
-            party: { select: { abbreviation: true } },
-          },
-        },
       },
       take: 500,
       orderBy: { date: "desc" },
@@ -357,27 +364,10 @@ export class InsightsService {
     const results: StilleConsensusMotion[] = [];
 
     for (const vote of votes) {
-      // Group by party → majority stance
-      const partyStances = new Map<string, string>();
-      const partyCounts = new Map<string, { for: number; against: number }>();
+      const partyStances = extractPartyStances(vote);
 
-      for (const r of vote.records) {
-        const abbr = r.party.abbreviation;
-        if (!partyCounts.has(abbr)) partyCounts.set(abbr, { for: 0, against: 0 });
-        const counts = partyCounts.get(abbr)!;
-        if (r.voteValue === "FOR") counts.for++;
-        else if (r.voteValue === "AGAINST") counts.against++;
-      }
+      if (partyStances.size < 5) continue;
 
-      for (const [abbr, counts] of partyCounts) {
-        if (counts.for > 0 || counts.against > 0) {
-          partyStances.set(abbr, counts.for >= counts.against ? "FOR" : "AGAINST");
-        }
-      }
-
-      if (partyStances.size < 5) continue; // Need at least 5 parties
-
-      // Check unanimity
       const forParties = [...partyStances.values()].filter((v) => v === "FOR").length;
       const againstParties = [...partyStances.values()].filter((v) => v === "AGAINST").length;
       const total = partyStances.size;
