@@ -211,9 +211,11 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
         }
 
         // Batch upsert VoteRecords using a transaction (much faster than sequential)
-        if (recordsToWrite.length > 0) {
+        // Filter out records with no party — partyIdSnapshot is required in the schema
+        const validRecords = recordsToWrite.filter(r => r.partyId != null) as { mpId: string; voteValue: VoteValue; partyId: string }[];
+        if (validRecords.length > 0) {
           await prisma.$transaction(
-            recordsToWrite.map(r =>
+            validRecords.map(r =>
               prisma.voteRecord.upsert({
                 where: { voteId_mpId: { voteId: vote.id, mpId: r.mpId } },
                 update: { voteValue: r.voteValue, partyIdSnapshot: r.partyId },
@@ -221,7 +223,7 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
               })
             )
           );
-          voteRecordsCreated += recordsToWrite.length;
+          voteRecordsCreated += validRecords.length;
         }
 
         // Update vote totals
@@ -349,9 +351,11 @@ async function ingestHoofdelijk(limit?: number): Promise<void> {
         }
 
         // Batch upsert VoteRecords using a transaction (much faster than sequential)
-        if (recordsToWrite.length > 0) {
+        // Filter out records with no party — partyIdSnapshot is required in the schema
+        const validRecords = recordsToWrite.filter(r => r.partyId != null) as { mpId: string; voteValue: VoteValue; partyId: string }[];
+        if (validRecords.length > 0) {
           await prisma.$transaction(
-            recordsToWrite.map(r =>
+            validRecords.map(r =>
               prisma.voteRecord.upsert({
                 where: { voteId_mpId: { voteId: vote.id, mpId: r.mpId } },
                 update: { voteValue: r.voteValue, partyIdSnapshot: r.partyId },
@@ -359,7 +363,7 @@ async function ingestHoofdelijk(limit?: number): Promise<void> {
               })
             )
           );
-          voteRecordsCreated += recordsToWrite.length;
+          voteRecordsCreated += validRecords.length;
         }
 
         await prisma.vote.update({
