@@ -28,11 +28,9 @@ interface LangfuseTrace {
   latency: number | null;
   tags: string[];
   totalCost: number;
-  usage: {
-    input: number;
-    output: number;
-  } | null;
   public: boolean;
+  htmlPath: string | null;
+  observations: string[];
   metadata: Record<string, any> | null;
 }
 
@@ -164,6 +162,23 @@ export class LangfuseService {
   /**
    * Get a paginated list of traces with public URLs.
    */
+  /**
+   * Extract token counts from trace metadata (OpenRouter OTEL attributes).
+   * Tokens are not available at trace level — they're embedded in
+   * metadata.attributes["gen_ai.usage.input_tokens"] etc.
+   */
+  private extractTokensFromMetadata(metadata: Record<string, any> | null): {
+    inputTokens: number;
+    outputTokens: number;
+  } {
+    const attrs = metadata?.attributes;
+    if (!attrs) return { inputTokens: 0, outputTokens: 0 };
+    return {
+      inputTokens: parseInt(attrs["gen_ai.usage.input_tokens"] || "0", 10) || 0,
+      outputTokens: parseInt(attrs["gen_ai.usage.output_tokens"] || "0", 10) || 0,
+    };
+  }
+
   async getTraces(
     limit = 20,
     page = 1,
@@ -177,8 +192,8 @@ export class LangfuseService {
       totalCost: number;
       inputTokens: number;
       outputTokens: number;
+      model: string | null;
       publicUrl: string;
-      metadata: Record<string, any> | null;
     }>;
     totalItems: number;
     page: number;
@@ -190,7 +205,7 @@ export class LangfuseService {
 
     try {
       const response = await fetch(
-        `${this.baseUrl}/api/public/traces?limit=${limit}&page=${page}&orderBy=timestamp&orderDirection=DESC`,
+        `${this.baseUrl}/api/public/traces?limit=${limit}&page=${page}&orderBy=timestamp.DESC`,
         {
           headers: { Authorization: this.authHeader },
         },
@@ -204,18 +219,24 @@ export class LangfuseService {
       const data = await response.json();
       const rawTraces: LangfuseTrace[] = data.data || [];
 
-      const traces = rawTraces.map((t) => ({
-        id: t.id,
-        name: t.name || "unknown",
-        timestamp: t.timestamp,
-        latencyMs: t.latency ? Math.round(t.latency * 1000) : null,
-        tags: t.tags || [],
-        totalCost: t.totalCost || 0,
-        inputTokens: t.usage?.input || 0,
-        outputTokens: t.usage?.output || 0,
-        publicUrl: this.buildPublicUrl(t.id),
-        metadata: t.metadata,
-      }));
+      const traces = rawTraces.map((t) => {
+        const { inputTokens, outputTokens } = this.extractTokensFromMetadata(t.metadata);
+        const model = t.metadata?.attributes?.["gen_ai.response.model"] || null;
+        return {
+          id: t.id,
+          name: t.name || "unknown",
+          timestamp: t.timestamp,
+          latencyMs: t.latency ? Math.round(t.latency * 1000) : null,
+          tags: t.tags || [],
+          totalCost: t.totalCost || 0,
+          inputTokens,
+          outputTokens,
+          model,
+          publicUrl: t.htmlPath
+            ? `${this.baseUrl}${t.htmlPath}`
+            : this.buildPublicUrl(t.id),
+        };
+      });
 
       return {
         traces,
