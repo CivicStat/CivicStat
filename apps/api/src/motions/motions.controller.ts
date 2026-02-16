@@ -1,9 +1,13 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
 import { MotionsService } from "./motions.service";
+import { PredictionsService } from "../predictions/predictions.service";
 
 @Controller("motions")
 export class MotionsController {
-  constructor(private readonly motionsService: MotionsService) {}
+  constructor(
+    private readonly motionsService: MotionsService,
+    private readonly predictionsService: PredictionsService,
+  ) {}
 
   @Get()
   async list(
@@ -32,5 +36,10 @@ export class MotionsController {
   @Get(":id")
   async get(@Param("id") id: string) {
     return this.motionsService.get(id);
+  }
+
+  @Get(":id/prediction")
+  async prediction(@Param("id") id: string) {
+    return this.predictionsService.predictMotion(id);
   }
 }

@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
+import { PredictionsService } from "../predictions/predictions.service";
 
 interface MotionListParams {
   query?: string;
@@ -13,6 +14,8 @@ interface MotionListParams {
 
 @Injectable()
 export class MotionsService {
+  constructor(private readonly predictionsService: PredictionsService) {}
+
   async list({ query, party, status, result, hasVotes, limit, offset }: MotionListParams) {
     const where: any = {};
 
@@ -87,13 +90,22 @@ export class MotionsService {
             },
             take: 1,
           },
+          _count: {
+            select: { promiseMatches: true },
+          },
         },
       }),
       prisma.motion.count({ where }),
     ]);
 
     return {
-      items: items.map(m => ({ ...m, vote: m.votes[0] ?? null, votes: undefined })),
+      items: items.map(m => ({
+        ...m,
+        vote: m.votes[0] ?? null,
+        votes: undefined,
+        hasPromiseMatches: m._count.promiseMatches > 0,
+        _count: undefined,
+      })),
       total,
       limit,
       offset,
@@ -132,8 +144,8 @@ export class MotionsService {
         })
       : null;
 
-    // Extract the latest prediction
-    const prediction = motion.predictions?.[0] ?? null;
+    // Compute prediction on-the-fly from promise matches
+    const prediction = await this.predictionsService.predictMotion(motion.id);
 
     return {
       ...motion,
@@ -201,24 +213,6 @@ export class MotionsService {
           },
         },
         orderBy: { confidence: "desc" as const },
-      },
-      predictions: {
-        take: 1,
-        orderBy: { createdAt: "desc" as const },
-        include: {
-          partyPredictions: {
-            include: {
-              party: {
-                select: {
-                  id: true,
-                  abbreviation: true,
-                  colorNeutral: true,
-                },
-              },
-            },
-            orderBy: { confidence: "desc" as const },
-          },
-        },
       },
     };
 
