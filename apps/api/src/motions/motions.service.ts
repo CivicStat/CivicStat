@@ -8,6 +8,7 @@ interface MotionListParams {
   status?: string;
   result?: string;
   hasVotes?: boolean;
+  hasPromiseMatches?: boolean;
   limit: number;
   offset: number;
 }
@@ -16,7 +17,7 @@ interface MotionListParams {
 export class MotionsService {
   constructor(private readonly predictionsService: PredictionsService) {}
 
-  async list({ query, party, status, result, hasVotes, limit, offset }: MotionListParams) {
+  async list({ query, party, status, result, hasVotes, hasPromiseMatches, limit, offset }: MotionListParams) {
     const where: any = {};
 
     if (query) {
@@ -36,6 +37,13 @@ export class MotionsService {
 
     if (hasVotes) {
       where.result = { not: null };
+    }
+
+    // Filter by whether the motion has promise matches (= has AI prediction)
+    if (hasPromiseMatches === true) {
+      where.promiseMatches = { some: {} };
+    } else if (hasPromiseMatches === false) {
+      where.promiseMatches = { none: {} };
     }
 
     // If filtering by party, join through sponsors
@@ -73,6 +81,7 @@ export class MotionsService {
                       id: true,
                       name: true,
                       abbreviation: true,
+                      colorNeutral: true,
                     },
                   },
                 },

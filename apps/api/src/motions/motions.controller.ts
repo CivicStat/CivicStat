@@ -16,6 +16,7 @@ export class MotionsController {
     @Query("status") status?: string,
     @Query("result") result?: string,
     @Query("hasVotes") hasVotes?: string,
+    @Query("hasPromiseMatches") hasPromiseMatches?: string,
     @Query("limit") limit?: string,
     @Query("offset") offset?: string
   ) {
@@ -28,6 +29,7 @@ export class MotionsController {
       status,
       result,
       hasVotes: hasVotes === "true",
+      hasPromiseMatches: hasPromiseMatches === "true" ? true : hasPromiseMatches === "false" ? false : undefined,
       limit: Number.isNaN(parsedLimit) ? 20 : parsedLimit,
       offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset,
     });
