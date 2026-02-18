@@ -1,0 +1,868 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verkiezingsprogramma VVD Amsterdam 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 57,
+  "promises": [
+    {
+      "promiseCode": "VVD-AMS-2022-001",
+      "text": "Er komt een nieuwe wethouder veiligheid en handhaving om veiligheid en handhaving topprioriteit te maken voor het college.",
+      "summary": "Nieuwe wethouder veiligheid en handhaving",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "veiligheid",
+        "handhaving",
+        "college"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 6, 10",
+      "originalQuote": "Daarom komt er een nieuwe wethouder veiligheid en handhaving. ... Handhaving en veiligheid moeten een topprioriteit zijn voor het college, daarom wil de VVD dat er een wethouder veiligheid en handhaving komt."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-002",
+      "text": "Het aantal handhavers (BOA's) wordt verdubbeld door 450 extra handhavers in dienst te nemen die nauw samenwerken met de politie.",
+      "summary": "Verdubbeling handhavers met 450 extra BOA's",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhavers",
+        "boa",
+        "politie",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 6, 10",
+      "originalQuote": "We zetten in op preventief fouilleren, cameratoezicht en een verdubbeling van het aantal handhavers. ... De VVD trekt extra geld uit om 450 extra handhavers in dienst te kunnen nemen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-003",
+      "text": "Er wordt een Vrijheidsbrigade opgericht bestaande uit professionals die bij daders en bijna-daders op scholen en instellingen voorlichting geven over vrijheidsnormen.",
+      "summary": "Oprichting Vrijheidsbrigade voor voorlichting",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrijheidsbrigade",
+        "voorlichting",
+        "scholen",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 6, 9",
+      "originalQuote": "Daarom richt de gemeente een Vrijheidsbrigade op. Deze brigade bestaat uit professionals die bij daders en bijna daders op scholen en instellingen bezoekt om duidelijk te maken wat de norm van vrijheid betekent."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-004",
+      "text": "Straatintimidatie wordt strafbaar door aanpassing van de APV, waarmee Amsterdam vooruitloopt op landelijke wetgeving.",
+      "summary": "Straatintimidatie strafbaar via APV-aanpassing",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "straatintimidatie",
+        "apv",
+        "strafbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 9",
+      "originalQuote": "Straatintimidatie wordt wat de VVD betreft strafbaar. De gemeente dient hierop de APV opnieuw aan te passen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-005",
+      "text": "Preventief fouilleren wordt elke maand op minimaal drie plekken ingezet waar sprake is van wapenbezit of dealen.",
+      "summary": "Maandelijks preventief fouilleren op minimaal 3 plekken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "preventief fouilleren",
+        "wapenbezit",
+        "dealen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 6, 10",
+      "originalQuote": "De VVD wil dat middel elke maand op minimaal drie plekken wordt ingezet waar sprake is van wapenbezit of dealen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-006",
+      "text": "Er komt een top-10 aanpak van straten waar ondermijning plaatsvindt door gecoördineerde aanpak van politie, FIOD, gemeente en OM.",
+      "summary": "Top-10 aanpak ondermijningsstraten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondermijning",
+        "top-10",
+        "politie",
+        "fiod"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 10",
+      "originalQuote": "De VVD wil dat we de top 10 meest kwetsbare straten schoonvegen door een gecoördineerde aanpak van politie, FIOD, gemeente en het OM."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-007",
+      "text": "Het ingezetenencriterium wordt ingevoerd voor softdrugs: alleen inwoners van Nederland kunnen nog softdrugs kopen in Amsterdam.",
+      "summary": "Ingezetenencriterium voor softdrugs",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ingezetenencriterium",
+        "softdrugs",
+        "drugstoerisme"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 10",
+      "originalQuote": "De VVD zet in op het ingezetenencriterium voor wat betreft softdrugs. Alleen als je in Nederland woont kun je nog softdrugs kopen in Amsterdam."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-008",
+      "text": "Raamprostitutie op de Wallen wordt uitgefaseerd en er wordt gekeken naar een alternatieve plek waar prostitutie veilig plaats kan vinden.",
+      "summary": "Uitfasering raamprostitutie Wallen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raamprostitutie",
+        "wallen",
+        "uitfasering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 7, 10",
+      "originalQuote": "Raamprostitutie op de wallen faseren we uit en er wordt gekeken naar een alternatieve plek waar prostitutie veilig plaats kan vinden."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-009",
+      "text": "Er komt een verbod op vakantieverhuur via platforms als Airbnb, recreatieve overnachtingen kunnen alleen in hotels.",
+      "summary": "Verbod vakantieverhuur platforms",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vakantieverhuur",
+        "airbnb",
+        "verbod",
+        "hotels"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 7",
+      "originalQuote": "We gaan ons inzetten voor een verbod van vakantieverhuur via platforms als Airbnb of andere aanbieder. Recreatieve overnachtingen kunnen in een hotel."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-010",
+      "text": "Het waarderingscijfer van ondernemers voor gemeentelijke dienstverlening moet stijgen van onder de 6,5 naar een 8 in de komende vier jaar.",
+      "summary": "Dienstverlening ondernemers naar cijfer 8",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dienstverlening",
+        "ondernemers",
+        "waarderingscijfer"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 12",
+      "originalQuote": "De komende vier jaar moet dit stijgen naar een 8."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-011",
+      "text": "De VVD pleit voor een Amsterdam Ambassadeur die actief Amsterdam promoot in het buitenland als stad voor hoofdkantoren en grote evenementen en congressen. Er wordt samengewerkt met de MRA.",
+      "summary": "Instellen Amsterdam Ambassadeur voor internationale promotie van stad",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ambassadeur",
+        "promotie",
+        "hoofdkantoren",
+        "evenementen",
+        "congressen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 13",
+      "originalQuote": "De VVD pleit voor een Amsterdam Ambassadeur die actief Amsterdam promoot in het buitenland als stad voor hoofdkantoren en grote evenementen en congressen. We werken hierbij samen met de MRA."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-012",
+      "text": "Er komt een competitie (inclusief locatieonderzoek) voor een hub voor Scale Ups om letterlijk ruimte te geven aan nieuwe ondernemers en Amsterdam de plek te maken waar bedrijven die gaan opschalen naartoe komen.",
+      "summary": "Competitie uitschrijven voor hub voor Scale Ups",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "competitie",
+        "locatieonderzoek",
+        "hub",
+        "scale-ups",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 13",
+      "originalQuote": "Dit doen we door een competitie (inclusief locatieonderzoek) uit te schrijven voor bijvoorbeeld een hub voor Scale Ups. De VVD wil dat Amsterdam de plek wordt waar bedrijven die gaan opschalen naartoe komen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-013",
+      "text": "De gemeente gaat actiever aan de slag met de uitrol van glasvezel door de hele stad om de huidige achterstand in Amsterdam in te halen en de digitale infrastructuur te optimaliseren.",
+      "summary": "Actievere gemeentelijke rol bij uitrol glasvezel door hele stad",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "glasvezel",
+        "digitale",
+        "infrastructuur",
+        "uitrol",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 13",
+      "originalQuote": "Om de huidige achterstand in de uitrol van glasvezel in Amsterdam in te halen wil de VVD dat de gemeente een actiever met de uitrol van glasvezel aan de slag gaat."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-014",
+      "text": "De toeristenbelasting wordt deels gestort in een nieuw bruisfonds. De vaste voet wordt budgetneutraal verhoogd naar nog geen tien euro, en de flexibele poot wordt verlaagd naar 0%.",
+      "summary": "Nieuw bruisfonds uit toeristenbelasting, vaste voet naar bijna 10 euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bruisfonds",
+        "toeristenbelasting",
+        "vaste voet",
+        "tien euro",
+        "flexibele poot"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 13",
+      "originalQuote": "De toeristenbelasting wordt deels gestort in een nieuw bruisfonds. De vaste voet van de toeristenbelasting wordt budgetneutraal verhoogd naar nog geen tien euro, en de flexibele poot wordt verlaagd naar 0%."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-015",
+      "text": "Er komt een verbod van vakantieverhuur via platforms als Airbnb of andere aanbieders. Recreatieve overnachtingen kunnen in een hotel, woningen zijn om in te wonen.",
+      "summary": "Verbod vakantieverhuur via platforms als Airbnb",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "vakantieverhuur",
+        "platforms",
+        "airbnb",
+        "woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 13",
+      "originalQuote": "We gaan ons inzetten voor een verbod van vakantieverhuur via platforms als Airbnb of een andere aanbieder. Recreatieve overnachtingen kunnen in een hotel. Woningen zijn om in te wonen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-016",
+      "text": "De nieuwbouwnorm wordt aangepast naar 20% sociale woningbouw, 50% midden-huur en koop en 30% vrije sector (norm is nu 40-40-20). Komende periode moet minstens 50% van de nieuwbouw een koopwoning zijn.",
+      "summary": "Nieuwe bouwverhouding: 20-50-30, helft nieuwbouw koopwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouwnorm",
+        "sociale woningbouw",
+        "koopwoningen",
+        "middenhuur",
+        "vrije sector"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 16",
+      "originalQuote": "De nieuwbouwnorm wordt aangepast. 20% sociale woningbouw, 50% midden- huur en koop en 30% vrije sector (norm is nu 40-40-20). Daarom moet de komende periode minstens 50% van de nieuwbouw in Amsterdam een koopwoning zijn."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-017",
+      "text": "Er komt een opkoopverbod in de hele stad voor koopwoningen als noodmaatregel gericht op beleggers en grote investeerders. Dit kan worden afgeschaft als de woningmarkt weer normaal functioneert.",
+      "summary": "Opkoopverbod koopwoningen in hele stad tegen beleggers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opkoopverbod",
+        "koopwoningen",
+        "beleggers",
+        "investeerders",
+        "noodmaatregel"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 16",
+      "originalQuote": "Er komt een opkoopverbod in de hele stad voor koopwoningen. Dit is een noodmaatreel die kan worden afgeschaft als de woningmarkt weer normaal functioneert. Deze maatregel richt zich bovenal op beleggers en grote investeerders."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-018",
+      "text": "De woningbouwproductie wordt de komende periode fors verhoogd van ongeveer 5.000 naar ongeveer 10.000 woningen per jaar.",
+      "summary": "Verdubbeling woningbouw van 5.000 naar 10.000 per jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouwproductie",
+        "verhoging",
+        "5000",
+        "10000",
+        "woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 16",
+      "originalQuote": "De woningbouwproductie wordt de komende periode fors verhoogd. Van ongeveer 5.000 naar ongeveer 10.000 woningen per jaar."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-019",
+      "text": "Het verplichte erfpachtsysteem wordt voor koopwoningen afgeschaft. Alle eigenaren krijgen de kans erfpacht eeuwigdurend af te kopen volgens regeling die gold tot januari 2020.",
+      "summary": "Afschaffing verplicht erfpacht koopwoningen, afkoopregeling 2020",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpacht",
+        "afschaffing",
+        "koopwoningen",
+        "afkoop",
+        "eigenaren"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 17",
+      "originalQuote": "Het verplichte erfpachtsysteem moet voor koopwoningen moet daarom worden afgeschaft. Ten minste moeten alle eigenaren de kans krijgen om volgens de regeling die gold tot januari 2020 erfpacht eeuwigdurend af te kopen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-020",
+      "text": "Het aantal P+R plekken wordt verdubbeld door uitbreiding van huidige locaties en toevoeging van nieuwe P+R's in de stad en regio.",
+      "summary": "Verdubbeling aantal P+R parkeerplekken",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "p+r",
+        "verdubbeling",
+        "parkeerplekken",
+        "uitbreiding",
+        "locaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 19",
+      "originalQuote": "Het aantal P+R plekken moet daarvoor worden verdubbeld. Dit gaan we doen door huidige locaties waar mogelijk uit te breiden en nieuwe P+R's toe te voegen aan de stad en in de regio."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-021",
+      "text": "De metro's gaan ook 's nachts rijden voor een bruisende stad waar mensen ook 's nachts werken of uitgaan.",
+      "summary": "Invoering nachtmetro",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metro",
+        "nacht",
+        "nachtmetro",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 20",
+      "originalQuote": "De VVD pleit ervoor om de metro's ook 's nachts te laten rijden. Dat hoort bij een bruisende stad waar mensen ook in de nacht werken of een feestje gaan vieren."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-022",
+      "text": "De Noord/Zuidlijn wordt doorgetrokken naar Schiphol en Hoofddorp. Ook wordt de ringlijn rond gemaakt en komt er onderzoek naar een metro naar Almere.",
+      "summary": "Uitbreiding Noord/Zuidlijn naar Schiphol, ringlijn en onderzoek metro Almere",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "noord/zuidlijn",
+        "schiphol",
+        "hoofddorp",
+        "ringlijn",
+        "metro"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 20",
+      "originalQuote": "De Noord/Zuidlijn wordt wat de VVD betreft doorgetrokken naar Schiphol en Hoofddorp. Daarnaast pleit de VVD voor het rondmaken van de ringlijn en een onderzoek naar de aanleg van een metro naar Almere."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-023",
+      "text": "De VVD steunt maatregelen om lesgeven op Amsterdamse scholen aantrekkelijker te maken, zoals een toelage op het salaris, extra parkeervergunningen en maatwerk in de opleiding van leraren en zij-instromers of het reserveren van woningen voor leraren.",
+      "summary": "Maatregelen om lesgeven in Amsterdam aantrekkelijker te maken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leraren",
+        "toelage",
+        "parkeervergunningen",
+        "woningen",
+        "maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 22",
+      "originalQuote": "De VVD steunt de maatregelen om lesgeven op Amsterdamse scholen aantrekkelijker te maken, zoals een toelage op het salaris, extra parkeervergunningen en maatwerk in de opleiding van leraren en zij-instromers of het reserveren van woningen voor leraren."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-024",
+      "text": "Leerlingen hoeven nog maar vijf in plaats van twaalf voorkeursscholen op te geven en worden dan ook daadwerkelijk in een top vijf school geplaatst.",
+      "summary": "Vijf in plaats van twaalf voorkeursscholen bij schoolkeuze",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorkeursscholen",
+        "schoolplaatsing",
+        "matching",
+        "keuze"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 22",
+      "originalQuote": "De VVD wil dan ook dat leerlingen nog maar vijf in plaats van twaalf voorkeursscholen op hoeven te geven en dan ook daadwerkelijk in een top vijf school worden geplaatst."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-025",
+      "text": "In kwetsbare wijken komt er schoolfruit en ontbijt zodat niemand met honger op school hoeft te zitten.",
+      "summary": "Schoolfruit en ontbijt in kwetsbare wijken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolfruit",
+        "ontbijt",
+        "kwetsbare wijken",
+        "honger"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 23",
+      "originalQuote": "Niemand mag met honger op school zitten. In kwetsbare wijken pleit de VVD voor schoolfruit en ontbijt."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-026",
+      "text": "De gemeente biedt bijlessen aan die voor iedereen toegankelijk zijn, ook als ouders dat niet kunnen betalen.",
+      "summary": "Toegankelijke bijlessen voor alle leerlingen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijlessen",
+        "toegankelijk",
+        "achterstanden",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 23",
+      "originalQuote": "Daarom pleit de VVD voor bijlessen die voor iedereen toegankelijk zijn. Ook als ouders dat niet kunnen betalen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-027",
+      "text": "Gericht cameratoezicht, preventief fouilleren en kluisjescontroles worden ingezet om crimineel gedrag op school te bestrijden.",
+      "summary": "Cameratoezicht en fouilleren tegen criminaliteit op scholen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cameratoezicht",
+        "fouilleren",
+        "kluisjescontroles",
+        "scholen",
+        "criminaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 23",
+      "originalQuote": "Daarom zetten we gericht cameratoezicht, preventief fouilleren en kluisjescontroles in om crimineel gedrag op school te bestrijden."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-028",
+      "text": "Meer budget wordt ingezet om isolatiemaatregelen richting energielabel B te stimuleren en toegankelijk te maken voor alle inwoners, beginnend bij de laagste energielabels.",
+      "summary": "Extra budget voor isolatie tot energielabel B",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "isolatie",
+        "energielabel",
+        "budget",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 25",
+      "originalQuote": "Daarom wil de VVD meer budget om isolatiemaatregelen richting energielabel B te stimuleren en toegankelijk te maken voor alle inwoners. Deze maatregelen beginnen bij de laagste energielabels."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-029",
+      "text": "Een energietransitie academy wordt opgericht om in samenspraak met Amsterdamse onderwijsinstellingen mensen te helpen met opleiding en omscholing.",
+      "summary": "Oprichting energietransitie academy voor opleiding en omscholing",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energietransitie",
+        "academy",
+        "opleiding",
+        "omscholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 25",
+      "originalQuote": "De VVD wil een energietransitie academy oprichten, om in samenspraak met Amsterdamse onderwijsinstellingen mensen te helpen met opleiding en omscholing."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-030",
+      "text": "Een grootschalig plan wordt gestart om de komende jaren zonnepanelen aan te leggen op zoveel mogelijk daken en gebouwen.",
+      "summary": "Grootschalig plan voor zonnepanelen op daken en gebouwen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zonnepanelen",
+        "daken",
+        "gebouwen",
+        "grootschalig"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 26",
+      "originalQuote": "De VVD pleit voor een grootschalig plan om de komende jaren zonnepanelen aan te leggen op zoveel mogelijk daken en gebouwen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-031",
+      "text": "Er komt een nieuw stadsbos, bijvoorbeeld in Amsterdam Noord, en microparken worden gerealiseerd op het dak van de Piet Hein Tunnel en op het Java-eiland.",
+      "summary": "Nieuw stadsbos in Noord en microparken op tunnel en Java-eiland",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsbos",
+        "microparken",
+        "piet hein tunnel",
+        "java-eiland",
+        "noord"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 27",
+      "originalQuote": "De VVD wil op zoek naar een locatie voor een nieuw stadsbos, bijvoorbeeld in Amsterdam Noord, en microparken realiseren, zoals bijvoorbeeld op het dak van de Piet Hein Tunnel en op het Java-eiland."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-032",
+      "text": "De Noordoevers van het IJ worden ontwikkeld tot wandel- en hardlooppromenade met groen, horeca en ondernemers.",
+      "summary": "Noordoevers IJ als wandel- en hardlooppromenade",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noordoevers",
+        "promenade",
+        "hardlopen",
+        "groen",
+        "horeca"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 27",
+      "originalQuote": "De VVD wil de Noordoevers van het IJ ontwikkelen tot wandel- en hardlooppromenade met groen, horeca en ondernemers."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-033",
+      "text": "Het aantal stadsstranden in Amsterdam wordt verdubbeld, bijvoorbeeld bij Schellingwoude.",
+      "summary": "Verdubbeling aantal stadsstranden, o.a. bij Schellingwoude",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsstranden",
+        "verdubbeling",
+        "schellingwoude"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 27",
+      "originalQuote": "De VVD wil het aantal stadsstranden in Amsterdam verdubbelen, bijvoorbeeld bij Schellingwoude."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-034",
+      "text": "Grotere afvalbakken worden geplaatst waar nodig en ondergrondse containers komen in de binnenstad waar mogelijk.",
+      "summary": "Grotere afvalbakken en ondergrondse containers binnenstad",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalbakken",
+        "ondergrondse containers",
+        "binnenstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 28",
+      "originalQuote": "Waar nodig worden grotere afvalbakken geplaatst. Waar mogelijk plaatsen we in de binnenstad ondergrondse containers."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-035",
+      "text": "De afvalstoffenheffing voor Amsterdammers blijft binnen het gemiddelde van de G4-steden.",
+      "summary": "Afvalstoffenheffing maximaal G4-gemiddelde",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalstoffenheffing",
+        "g4",
+        "gemiddelde"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 28",
+      "originalQuote": "De VVD wil dat Amsterdammers niet méér betalen dan het gemiddelde in de G4."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-036",
+      "text": "Grote festivals krijgen de mogelijkheid om vergunningen aan te vragen voor meerdere jaren in plaats van jaarlijks.",
+      "summary": "Meerjarige vergunningen voor grote festivals",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "festivals",
+        "vergunningen",
+        "meerjarig"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 31",
+      "originalQuote": "Daarom moet het makkelijker worden om een vergunning niet voor één jaar, maar voor een periode van meerdere jaren aan te vragen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-037",
+      "text": "De VVD wil een 1.000-banenplan in Nieuw-West opstarten naar het voorbeeld van Zuidoost, waarbij een alliantie van bedrijven, gemeente en maatschappelijke organisaties zich inzetten om 1.000 mensen uit Nieuw-West aan een baan te helpen. De gemeente stelt hiervoor EUR 500.000 per jaar beschikbaar.",
+      "summary": "1.000-banenplan Nieuw-West met €500.000 per jaar gemeentelijke financiering",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "banenplan",
+        "nieuw-west",
+        "werkgelegenheid",
+        "publiek-private samenwerking",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 33",
+      "originalQuote": "De VVD wil 1.000 mensen in Nieuw-West aan een baan helpen. In navolging van het 1.000 banenplan in Zuidoost waar een alliantie van bedrijven, gemeente en maatschappelijke organisaties zich inzetten om 1.000 mensen uit Zuidoost een baan te bezorgen, starten wij een 1.000-banenplan in Nieuw-West. [...] De VVD wil dat de gemeente hier EUR 500.000 per jaar voor beschikbaar stelt"
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-038",
+      "text": "Amsterdam stelt in samenwerking met onderwijsinstellingen een bonus van totaal 2.500 euro beschikbaar voor werkzoekenden die zich willen omscholen naar werk in onderwijs, zorg of IT. Voorwaarde is dat deze omscholers na afronding van hun studie tenminste drie jaar in Amsterdam werkzaam blijven.",
+      "summary": "Omscholingsbonus van €2.500 voor onderwijs, zorg en IT met 3-jarige werkplicht",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "omscholing",
+        "bonus",
+        "onderwijs",
+        "zorg",
+        "it"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 33",
+      "originalQuote": "Amsterdam stelt in samenwerking met onderwijsinstellingen een bonus van totaal 2.500 euro beschikbaar voor werkzoekenden die zich willen omscholen naar werk in de bovengenoemde sectoren. Voorwaarde is dat deze omscholers na afronding van hun studie tenminste drie jaar in Amsterdam werkzaam blijven."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-039",
+      "text": "Een 'Weesp-lijn' wordt ingericht waar inwoners van Weesp terecht kunnen met vragen en problemen. Dit dient als herkenbaar aanspreekpunt bij de gemeente voor mensen die Weesp kennen en problemen van burgers kunnen oplossen.",
+      "summary": "Speciale 'Weesp-lijn' als aanspreekpunt voor inwoners van Weesp",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "weesp-lijn",
+        "aanspreekpunt",
+        "dienstverlening",
+        "fusie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 38, 41",
+      "originalQuote": "Er komt een 'Weesp-lijn' waar inwoners van Weesp terecht kunnen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-040",
+      "text": "De gemeente Amsterdam verkoopt geleidelijk voor 40 miljoen euro van het gemeentelijk vastgoed. De gemeente bezit circa 2000 vastgoedobjecten in de stad, wat volgens de VVD minder kan.",
+      "summary": "Verkoop van €40 miljoen gemeentelijk vastgoed uit 2000 objecten",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vastgoedverkoop",
+        "gemeentelijk bezit",
+        "privatisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 39",
+      "originalQuote": "De gemeente Amsterdam bezit circa 2000 vastgoedobjecten in de stad. Dat kan best minder. Daarom wordt voor 40 miljoen van het gemeentelijk vastgoed geleidelijk verkocht."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-041",
+      "text": "De VVD buigt structureel 208 miljoen euro om op de reguliere begroting, oplopend naar 319 miljoen euro per jaar in 2026. Daarvan wordt ruim 200 miljoen euro per jaar geïnvesteerd in vrijheid, veiligheid, bereikbaarheid en banen.",
+      "summary": "Structurele ombuiging van 208 miljoen, oplopend naar 319 miljoen in 2026",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ombuiging",
+        "begroting",
+        "investering",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 39",
+      "originalQuote": "De VVD buigt structureel 208 miljoen euro om op de reguliere begroting. [...] In 2026 loopt de structurele ombuiging hiermee om naar 319 miljoen euro per jaar. Daarvan investeert de VVD ruim 200 miljoen euro per jaar in vrijheid, veiligheid, bereikbaarheid en banen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-042",
+      "text": "De VVD investeert jaarlijks 2 miljoen euro in een vrijheidsbrigade die in actie komt als de vrijheid om jezelf te zijn in het gedrang is. Structureel wordt 45 miljoen euro uitgetrokken voor extra handhavers en 2 miljoen voor aanpak van straatintimidatie.",
+      "summary": "€2 miljoen per jaar voor vrijheidsbrigade, €45 miljoen voor handhavers",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrijheidsbrigade",
+        "handhaving",
+        "straatintimidatie",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 39",
+      "originalQuote": "De VVD investeert jaarlijks 2 miljoen euro in een vrijheidsbrigade die in actie komt als de vrijheid om jezelf te zijn in het gedrang is. Structureel trekken we 45 miljoen euro uit voor extra handhavers en 2 miljoen voor de aanpak van straatintimidatie."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-043",
+      "text": "De VVD trekt 20 miljoen euro structureel uit om te investeren in parken, een promenade in Amsterdam Noord en een nieuw stadsbos. Voor het schoonmaken van de stad wordt 15 miljoen structureel uitgetrokken.",
+      "summary": "€20 miljoen voor parken en stadsbos, €15 miljoen voor stadschoonmaak",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parken",
+        "promenade",
+        "stadsbos",
+        "schoonmaak",
+        "noord"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 39",
+      "originalQuote": "De VVD trekt 20 miljoen euro structureel uit om te investeren in parken, een promenade in Amsterdam Noord en een nieuw stadsbos. Om de stad schoon te maken wordt 15 miljoen structureel uitgetrokken."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-044",
+      "text": "De afvalstoffenheffing wordt verlaagd, waarvoor 35 miljoen euro wordt uitgetrokken. Dit is onderdeel van de VVD-investeringsplannen.",
+      "summary": "Verlaging afvalstoffenheffing met €35 miljoen",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalstoffenheffing",
+        "lastenverlaging",
+        "gemeentebelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 39",
+      "originalQuote": "De afvalstoffenheffing wordt juist verlaagd, daar trekken we 35 miljoen euro voor uit."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-045",
+      "text": "Metrohalte Sixhaven wordt aangelegd met een eenmalige investering van 150 miljoen euro. Ook gaat de metro 's nachts rijden en wordt het aantal P+R plekken verdubbeld.",
+      "summary": "Metrohalte Sixhaven voor €150 miljoen, nachtmetro en dubbel aantal P+R",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metrohalte",
+        "sixhaven",
+        "nachtmetro",
+        "p+r",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 39, 41",
+      "originalQuote": "Ook trekt de VVD eenmalig 150 miljoen euro uit om te investeren in metrohalte Sixhaven. [...] Metrohalte Sixhaven wordt aangelegd, de metro gaat 's nachts rijden en we verdubbelen het aantal P+R plekken."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-046",
+      "text": "Een sociaal dashboard wordt ingevoerd om te monitoren welke hulp in het sociaal domein waar in de stad wordt ingezet. Dit moet samenwerking tussen zorgverleners bevorderen en effectieve besteding van middelen mogelijk maken.",
+      "summary": "Sociaal dashboard voor monitoring hulp in sociaal domein",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal dashboard",
+        "monitoring",
+        "zorgverleners",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 36",
+      "originalQuote": "Een sociaal dashboard kan bijdragen aan een efficiënte en doelmatige besteding van de beschikbare middelen. Met dit dashboard kan gemonitord worden op welke plekken in de stad welke inzet van hulp in het sociaal domein plaatsvindt."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-047",
+      "text": "De VVD wil cameratoezicht, preventief fouilleren en handhaving inzetten tegen straatintimidatie in West.",
+      "summary": "Cameratoezicht en preventief fouilleren tegen straatintimidatie in West",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cameratoezicht",
+        "preventief fouilleren",
+        "handhaving",
+        "straatintimidatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 43",
+      "originalQuote": "Straatintimidatie is een groot probleem in West, wat de VVD betreft zetten we in op cameratoezicht, preventief fouilleren en handhaving want iedereen moet gewoon normaal over straat kunnen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-048",
+      "text": "De VVD blijft inzetten op bouwborden voor het bestrijden van illegale bouw.",
+      "summary": "Bouwborden tegen illegale bouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bouwborden",
+        "illegale bouw",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 43",
+      "originalQuote": "Ook bouwborden dragen bij aan het bestrijden van illegale bouw. Hier blijven wij op inzetten."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-049",
+      "text": "De VVD trekt extra geld uit voor afvalophaalpaciteit en handhaving in West.",
+      "summary": "Extra geld voor afvalophaal en handhaving in West",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afval",
+        "afvalophaal",
+        "handhaving",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 43",
+      "originalQuote": "Afval is een groot probleem in West. De VVD trekt extra geld uit voor afvalophaal-capaciteit en handhaving."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-050",
+      "text": "De VVD wil de bereikbaarheid van Nieuw West verbeteren door het doortrekken van bus 21, doorgaande fietspaden en toevoegen van deelmobiliteit.",
+      "summary": "Bereikbaarheid Nieuw West verbeteren met bus 21, fietspaden en deelmobiliteit",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bus 21",
+        "fietspaden",
+        "deelmobiliteit",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 43",
+      "originalQuote": "De bereikbaarheid van Nieuw West willen we verbeteren. Onder andere door in te zetten op het doortrekken van bus 21, doorgaande fietspaden realiseren en toevoegen van deelmobiliteit."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-051",
+      "text": "De VVD kiest voor uitbreiding van blauwe zones boven betaald parkeren in Nieuw West.",
+      "summary": "Uitbreiding blauwe zones in plaats van betaald parkeren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "blauwe zones",
+        "betaald parkeren",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 43",
+      "originalQuote": "We kiezen liever voor het uitbreiden van blauwe zones dan voor betaald parkeren."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-052",
+      "text": "De VVD wil een banenplan voor Nieuw West ontwikkelen, geïnspireerd door het Masterplan Zuidoost.",
+      "summary": "Banenplan voor Nieuw West ontwikkelen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "banenplan",
+        "nieuw west",
+        "ondernemersklimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 43",
+      "originalQuote": "We willen inzetten op een goed en veilig ondernemersklimaat, en geïnspireerd door het Masterplan Zuidoost een banenplan voor Nieuw West ontwikkelen."
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-053",
+      "text": "De VVD investeert 2 miljoen euro per jaar (2023-2026) in cameratoezicht en bodycams.",
+      "summary": "2 miljoen per jaar voor cameratoezicht en bodycams",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cameratoezicht",
+        "bodycams",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 45",
+      "originalQuote": "Cameratoezicht en body cams 2222"
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-054",
+      "text": "De VVD wil 450 extra handhavers aanstellen, oplopend van 12 miljoen in 2023 tot 45 miljoen in 2026.",
+      "summary": "450 extra handhavers aanstellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhavers",
+        "handhaving",
+        "personeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 45",
+      "originalQuote": "450 extra handhavers 12 18 30 45"
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-055",
+      "text": "De VVD investeert 15 miljoen euro per jaar in verdubbeling van P+R en meer ondergrondse garages.",
+      "summary": "15 miljoen per jaar voor P+R verdubbeling en ondergrondse garages",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "p+r",
+        "ondergrondse garages",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 45",
+      "originalQuote": "Verdubbeling P+R en meer ondergrondse garages 15 15 15 15"
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-056",
+      "text": "De VVD investeert 150 miljoen in een metrohalte Sixhaven in 2026.",
+      "summary": "150 miljoen voor metrohalte Sixhaven in 2026",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metrohalte",
+        "sixhaven",
+        "metro"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 45",
+      "originalQuote": "Metrohalte Sixhaven 0 0 0 150"
+    },
+    {
+      "promiseCode": "VVD-AMS-2022-057",
+      "text": "De VVD wil de afvalstoffenheffing verlagen met 35 miljoen euro per jaar.",
+      "summary": "Afvalstoffenheffing verlagen met 35 miljoen per jaar",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalstoffenheffing",
+        "lastenverlaging",
+        "gemeentebelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD amsterdam 2022, p. 45",
+      "originalQuote": "Verlagen afvalstoffenheffing 35 35 35 35"
+    }
+  ]
+}

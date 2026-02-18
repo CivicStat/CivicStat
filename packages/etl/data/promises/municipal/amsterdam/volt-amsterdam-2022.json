@@ -1,0 +1,335 @@
+{
+  "party": "Volt",
+  "partySlug": "volt",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Volt Amsterdam Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 21,
+  "promises": [
+    {
+      "promiseCode": "Volt-AMS-2022-001",
+      "text": "Voor 2030 af van energie uit het verbranden van bomen, tenzij kan worden vastgesteld dat de biomassa uit Europa afkomstig is en daadwerkelijk alleen onbruikbaar restafval betreft.",
+      "summary": "Voor 2030 stoppen met energie uit verbranden van bomen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "biomassa",
+        "energie",
+        "verbranding",
+        "restafval",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 7",
+      "originalQuote": "Volt wil voor 2030 af van energie uit het verbranden van bomen, tenzij kan worden vastgesteld dat de biomassa uit Europa afkomstig is en daadwerkelijk alleen onbruikbaar restafval betreft."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-002",
+      "text": "De Groene Galerij verbindt de woonwijken met het hart van de stad via een groene wandel- en fietsroute langs alle parken en culturele hoogtepunten en verkleint de druk van het massatoerisme in het centrum.",
+      "summary": "Groene Galerij aanleggen: wandel- en fietsroute langs parken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groene galerij",
+        "fietsroute",
+        "parken",
+        "wandelroute",
+        "toerisme"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 7",
+      "originalQuote": "De Groene Galerij verbindt de woonwijken met het hart van de stad via een groene wandel- en fietsroute langs alle parken en culturele hoogtepunten en verkleint de druk van het massatoerisme in het centrum."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-003",
+      "text": "Amsterdam start een pilot om 500 huurwoningen voor mensen met lagere- en middeninkomens te bouwen, waarvan de huren minstens 10 jaar lang hetzelfde blijven.",
+      "summary": "Pilot voor 500 huurwoningen met 10 jaar stabiele huren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pilot",
+        "huurwoningen",
+        "middeninkomens",
+        "huurstabiliteit",
+        "woonfonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 12",
+      "originalQuote": "Woonfonds (Rijswijk-model): Amsterdam start een pilot om 500 huurwoningen voor mensen met lagere- en middeninkomens te bouwen, waarvan de huren minstens 10 jaar lang hetzelfde blijven."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-004",
+      "text": "Een experiment om mensen in de bijstand meer regie te geven over hun leven; deelnemers van het experiment houden 50 procent van hun verdienstes tot een maximum van 200 euro per maand.",
+      "summary": "Bijstandsexperiment: 50% van verdiensten behouden tot max €200",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "experiment",
+        "verdienstenregeling",
+        "regie",
+        "maatwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 16",
+      "originalQuote": "Zo pleiten we voor een experiment om mensen in de bijstand meer de regie te geven over hun leven; minder wantrouwen, meer nadruk op eigen initiatief, begeleiding en maatwerk. Werken moet lonen: deelnemers van het experiment houden 50 procent van hun verdienstes tot een maximum van 200 euro per maand."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-005",
+      "text": "Op alle middelbare scholen in Amsterdam budgetlessen geven om jongeren wegwijs te maken met geld en te voorkomen dat ze in de schulden raken.",
+      "summary": "Budgetlessen op alle middelbare scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "budgetlessen",
+        "middelbare scholen",
+        "financiële educatie",
+        "jongeren",
+        "schuldenpreventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 16",
+      "originalQuote": "Volt wil dat op alle middelbare scholen in Amsterdam budgetlessen gegeven worden om jongeren wegwijs te maken met geld en te voorkomen dat ze in de schulden raken."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-006",
+      "text": "Gratis gezonde lunches op alle Amsterdamse basisscholen en een maximum stellen aan de eigen bijdrage van ouders.",
+      "summary": "Gratis lunches op basisscholen en maximum ouderbijdrage",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis lunch",
+        "basisscholen",
+        "ouderbijdrage",
+        "maximum",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 16",
+      "originalQuote": "We willen werken aan de gezondheid van de jeugd door in te zetten op beweging en gratis gezonde lunches op alle Amsterdamse basisscholen. Daarnaast willen we dat de keuze van ouders voor de school voor hun kinderen nooit meer afhankelijk is van hun financiële middelen, door een maximum te stellen aan de eigen bijdrage van ouders."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-007",
+      "text": "Een laagdrempelig, wijkgericht zorgsysteem, zoals een jeugdzorgcentrum, waar de gehele jeugdzorg, inclusief jeugd-GGZ, jeugdhulp en -bescherming samenkomt.",
+      "summary": "Jeugdzorgcentra per wijk voor alle vormen van jeugdzorg",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdzorgcentrum",
+        "wijkgericht",
+        "jeugd-ggz",
+        "jeugdhulp",
+        "vroegtijdige signalering"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 17",
+      "originalQuote": "Volt pleit voor een laagdrempelig, wijkgericht zorgsysteem, zoals bijvoorbeeld een jeugdzorgcentrum, waar de gehele jeugdzorg, inclusief jeugd-GGZ, jeugdhulp en -bescherming samenkomt."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-008",
+      "text": "Zij-instromers in het onderwijs krijgen begeleiding van ervaren docenten van scholen met weinig tekorten. Een gemeenschappelijke begeleidingstaak wordt opgezet tussen scholen.",
+      "summary": "Zij-instromers onderwijs krijgen begeleiding van ervaren docenten andere scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zij-instromers",
+        "begeleiding",
+        "docenten",
+        "scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 19",
+      "originalQuote": "Het begeleiden van zij-instromers wordt een gemeenschappelijke taak, waarbij ervaren docenten van scholen met weinig tekorten zij-instromers begeleiden van scholen met hoge tekorten."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-009",
+      "text": "Scholen met achterstanden krijgen extra begeleiders, trainingen en gastlessen over maatschappij en cultuur ingezet.",
+      "summary": "Extra begeleiders en trainingen voor scholen met achterstanden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "achterstanden",
+        "begeleiders",
+        "trainingen",
+        "gastlessen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 19",
+      "originalQuote": "Extra aandacht voor scholen met achterstanden door het inzetten van extra begeleiders, trainingen en gastlessen over onder andere maatschappij en cultuur."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-010",
+      "text": "Lesmateriaal op basis-, middelbare scholen en MBO wordt aangevuld met elementen over klimaatverandering uit het Europese project Education for Climate Coalition.",
+      "summary": "Lesmateriaal aanvullen met klimaatverandering uit Europees project",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lesmateriaal",
+        "klimaatverandering",
+        "basis-onderwijs",
+        "middelbaar onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 19",
+      "originalQuote": "Volt wil dat er aandacht komt voor klimaatverandering op basis-, middelbare scholen en het MBO. Het bestaande lesmateriaal wordt aangevuld met nuttige elementen uit het Europese project Education for Climate Coalition."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-011",
+      "text": "Een nieuw lotingssysteem voor middelbare scholen wordt ingevoerd om loting eerlijker, transparanter en meer toegespitst op wensen van ouder en kind te maken.",
+      "summary": "Nieuw lotingssysteem middelbare school eerlijker en transparanter",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lotingssysteem",
+        "middelbare school",
+        "transparant",
+        "maatwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 19",
+      "originalQuote": "Een nieuw lotingssysteem voor de middelbare school om de loting eerlijker en transparanter te maken en beter toegespitst op de wensen van ouder en kind."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-012",
+      "text": "De verplichte ouderbijdrage voor voorschool wordt verlaagd tot 120% van het minimumloon om deelname van kinderen tussen 2-4 jaar aan te moedigen.",
+      "summary": "Ouderbijdrage voorschool verlagen tot 120% minimumloon",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorschool",
+        "ouderbijdrage",
+        "minimumloon",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 19",
+      "originalQuote": "Om deelname aan te moedigen wil Volt de verplichte bijdrage van ouders tot 120% van het minimumloon verlagen."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-013",
+      "text": "De metro wordt doorgetrokken van Isolatorweg naar Noorderpark en aangesloten op de Noord-Zuidlijn om de Ring Rond te maken.",
+      "summary": "Metro doortrekken Isolatorweg-Noorderpark, aansluiten Noord-Zuidlijn",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metro",
+        "isolatorweg",
+        "noorderpark",
+        "noord-zuidlijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 21",
+      "originalQuote": "We maken de Ring Rond: we trekken de metro van Isolatorweg door naar Noorderpark en sluiten die aan op de Noord-Zuidlijn."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-014",
+      "text": "Een A-lijn wordt geïntroduceerd: een eigen trein met korte wachttijden op bestaand spoor voor effectief vervoer tussen stadsdelen, naar voorbeeld van Berlijnse S-Bahn.",
+      "summary": "A-lijn invoeren: eigen trein korte wachttijden tussen stadsdelen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "a-lijn",
+        "trein",
+        "stadsdelen",
+        "wachttijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 21",
+      "originalQuote": "Met de introductie van de A-lijn krijgt Amsterdam naar voorbeeld van veel andere Europese metropolen een effectiever vervoer tussen stadsdelen. Net zoals in Berlijn met de S-Bahn door een eigen trein met korte wachttijden, op het al bestaande spoor."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-015",
+      "text": "Het aantal parkeerplaatsen in Amsterdam wordt teruggedrongen door meer gebruik van parkeeroplossingen buiten de stad.",
+      "summary": "Parkeerplaatsen Amsterdam terugdringen, parkeren buiten stad",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeerplaatsen",
+        "terugdringen",
+        "parkeeroplossingen",
+        "schaarse ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 21",
+      "originalQuote": "De schaarse ruimte in de stad moet benut kunnen worden door iedereen. We zetten daarom in op het terugdringen van het aantal parkeerplaatsen in Amsterdam door meer gebruik te maken van parkeeroplossingen buiten de stad."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-016",
+      "text": "Een vernieuwd OV-combiticket wordt ingevoerd waarbij geen dubbel opstaptarief geldt voor overstappen van trein op ander OV en reizigers verder uit centrum meer korting krijgen.",
+      "summary": "OV-combiticket zonder dubbel opstaptarief, korting voor reizigers buiten centrum",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ov-combiticket",
+        "opstaptarief",
+        "overstappen",
+        "korting"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 21",
+      "originalQuote": "Volt zet in op invoering van een vernieuwd OV combiticket, waarmee voor overstappen van trein op ander OV geen dubbel opstaptarief meer geldt en reizigers die verder uit het centrum wonen meer korting kunnen krijgen."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-017",
+      "text": "De gemeente faciliteert en financiert vier keer per jaar sportdagen waarbij sportverenigingen deuren openen voor scholen.",
+      "summary": "Vier keer per jaar gemeentelijke sportdagen met verenigingen en scholen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sportdagen",
+        "sportverenigingen",
+        "scholen",
+        "financieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 23",
+      "originalQuote": "We vragen de gemeente om vier keer per jaar sportdagen te faciliteren en financieren waarbij sportverenigingen hun deuren openen voor scholen."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-018",
+      "text": "Erfgoed en cultuurhistorische waarden worden verankerd in het nieuwe omgevingsplan om het karakter van de stad te beschermen.",
+      "summary": "Erfgoed en cultuurhistorie verankeren in nieuwe omgevingsplan",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "erfgoed",
+        "cultuurhistorie",
+        "omgevingsplan",
+        "beschermen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 23",
+      "originalQuote": "Zo vragen we de gemeente onder andere om erfgoed en cultuurhistorische waarden te verankeren in het nieuwe omgevingsplan."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-019",
+      "text": "Een constant burgerforum naar voorbeeld van Ostbelgien en Aken wordt opgericht voor democratische inspraak en beslissingsmacht over zaken die leven beïnvloeden.",
+      "summary": "Constant burgerforum naar voorbeeld Ostbelgien en Aken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerforum",
+        "democratische inspraak",
+        "beslissingsmacht",
+        "burgerberaden"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 24",
+      "originalQuote": "We steunen het gebruik van burgerberaden en willen een constant burgerforum naar voorbeeld van Ostbelgien en Aken."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-020",
+      "text": "Inwoners van wijken en buurten bepalen komende vier jaar de besteding van gemeentelijke budgetten voor sociaalmaatschappelijke doelen, gemeente bewaakt rechtmatigheid.",
+      "summary": "Burgerbudgetten: inwoners bepalen besteding wijkbudgetten sociaalmaatschappelijk",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgerbudgetten",
+        "wijken",
+        "buurten",
+        "sociaalmaatschappelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 24",
+      "originalQuote": "Volt wil dat de besteding van de budgetten, die op wijk- en buurtniveau bij de gemeente beschikbaar zijn voor sociaalmaatschappelijke doelen, in de komende vier jaar bepaald kan gaan worden door de inwoners van die wijken en buurten."
+    },
+    {
+      "promiseCode": "Volt-AMS-2022-021",
+      "text": "De gemeenteraad vergadert eens per half jaar op locatie in stadsdelen, nodigt buurtbewoners uit en behandelt specifieke buurtthema's.",
+      "summary": "Gemeenteraad halfjaarlijks op locatie in stadsdelen met buurtbewoners",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeenteraad",
+        "stadsdelen",
+        "buurtbewoners",
+        "halfjaarlijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt amsterdam 2022, p. 24",
+      "originalQuote": "We stellen voor dat de gemeenteraad eens per half jaar op locatie vergadert in een van de stadsdelen, buurtbewoners daarvoor uitnodigt en specifieke thema's behandelt die spelen in die buurt."
+    }
+  ]
+}

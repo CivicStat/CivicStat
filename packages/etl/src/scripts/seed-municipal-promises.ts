@@ -128,8 +128,8 @@ async function findPartyInParliament(abbreviation: string, parliamentId: string)
     where: {
       parliamentId,
       OR: [
-        ...searchTerms.map(term => ({ abbreviation: term })),
-        ...searchTerms.map(term => ({ name: term })),
+        ...searchTerms.map(term => ({ abbreviation: { equals: term, mode: 'insensitive' as const } })),
+        ...searchTerms.map(term => ({ name: { equals: term, mode: 'insensitive' as const } })),
       ],
     },
   });

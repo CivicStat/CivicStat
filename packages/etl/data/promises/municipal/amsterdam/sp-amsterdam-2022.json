@@ -1,0 +1,969 @@
+{
+  "party": "SP",
+  "partySlug": "sp",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "SP Amsterdam Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 62,
+  "promises": [
+    {
+      "promiseCode": "SP-AMS-2022-001",
+      "text": "Er gaat geen enkele sociale huurwoning van woningcorporaties meer naar de markt, verkoop wordt volledig uitgebannen. Zolang corporaties hierdoor in financiële problemen komen door de verhuurderheffing, zal de gemeente deze woningen opkopen.",
+      "summary": "Volledige stop op verkoop sociale huurwoningen, gemeente koopt op indien nodig",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "verkoop",
+        "uitbannen",
+        "corporaties",
+        "gemeente opkopen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 6",
+      "originalQuote": "Er verdwijnt geen sociale huurwoning meer de markt op, verkoop wordt uitgebannen. Zolang de corporaties daarvoor met hun rug tegen de muur staan door de verhuurderheffing, gaat de gemeente corporatiewoningen opkopen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-002",
+      "text": "Woningcorporaties moeten minimaal 2500 sociale huurwoningen per jaar bouwen, en de gemeente zorgt ervoor dat daarvoor voldoende bouwplekken beschikbaar zijn.",
+      "summary": "Minimaal 2500 nieuwe sociale huurwoningen per jaar door corporaties",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "corporaties",
+        "sociale huurwoningen",
+        "nieuwbouw",
+        "bouwplekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 6",
+      "originalQuote": "Daarom moeten corporaties minstens 2500 sociale huurwoningen per jaar bouwen, en we zorgen ervoor dat daarvoor voldoende bouwplekken zijn."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-003",
+      "text": "Beleggers worden verboden om huizen op te kopen voor verhuur, en er komt uitgebreide huurprijsbescherming voor bestaande beleggerswoningen om huurstijgingen bij verhuizing te voorkomen.",
+      "summary": "Verbod op huizenkoop door beleggers voor verhuur, uitbreiding huurprijsbescherming",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beleggers",
+        "verbieden",
+        "opkopen",
+        "huurprijsbescherming",
+        "verhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 6",
+      "originalQuote": "we gaan beleggers op de koopmarkt maximaal tegenwerken, en ze verbieden huizen op te kopen om voor veel geld te verhuren"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-004",
+      "text": "Minimaal een kwart van nieuwe huurwoningen wordt door voorinschrijving toegewezen aan inwoners uit het stadsdeel, dit percentage wordt verhoogd.",
+      "summary": "Minimum 25% nieuwe huurwoningen voor stadsdeel-inwoners, percentage omhoog",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorinschrijving",
+        "stadsdeel",
+        "huurwoningen",
+        "wijkbewoners",
+        "percentage"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 6",
+      "originalQuote": "We zorgen dat op meer plaatsen in de stad tenminste een kwart van de nieuwe huurwoningen door middel van voorinschrijving wordt toegewezen aan inwoners uit het stadsdeel"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-005",
+      "text": "Quota voor verkamering in wijken worden gehalveerd, en in wijken met overlast moet een volledige stop op nieuwe verkamering mogelijk worden.",
+      "summary": "Halvering verkameringquota, mogelijkheid tot volledige stop bij overlast",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkamering",
+        "quota",
+        "halveren",
+        "overlast",
+        "stop"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 7",
+      "originalQuote": "We beschermen de woningvoorraad door de quota voor verkamering in wijken te halveren. In wijken waar bewoners bovendien overlast ervaren moet ook een stop op nieuwe verkamering mogelijk worden."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-006",
+      "text": "Er worden geen woningen groter dan 200m2 meer gebouwd om schaarse ruimte te besparen voor gewone woningzoekenden.",
+      "summary": "Bouwstop voor woningen boven 200m2",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningen",
+        "200m2",
+        "maximum",
+        "woningnood",
+        "schaarse ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 7",
+      "originalQuote": "We bouwen geen huizen die groter zijn dan 200m2."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-007",
+      "text": "Het aantal Amsterdamse gezinnen dat in aanmerking komt voor minimavoorzieningen wordt uitgebreid naar 130% van het sociaal minimum, geldend voor alle toekomstige armoederegelingen.",
+      "summary": "Uitbreiding minimavoorzieningen naar 130% sociaal minimum",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimavoorzieningen",
+        "130%",
+        "sociaal minimum",
+        "armoederegelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 5, 9",
+      "originalQuote": "Het aantal Amsterdamse gezinnen dat in aanmerking komt voor schoollaptops, een vergoeding voor de contributie van de sportclub, dagjes uit en andere minimavoorzieningen wordt daarom uitgebreid naar 130% van het sociaal minimum."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-008",
+      "text": "Amsterdam neemt proactief de publieke én private schulden van gedupeerde toeslagenouders over via inzet van de kredietbanken.",
+      "summary": "Gemeente neemt schulden toeslagenouders over via kredietbanken",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeslagenouders",
+        "schulden",
+        "overnemen",
+        "kredietbanken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 5, 10",
+      "originalQuote": "Amsterdam gaat proactief en eigenhandig de publieke én private schulden van toeslagenouders overnemen door inzet van de kredietbanken."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-009",
+      "text": "Er komt gratis fietsles voor iedereen die nog niet goed kan fietsen, plus een fietsreparatieregeling voor minima tot 100 euro per reparatie.",
+      "summary": "Gratis fietsles en fietsreparaties tot €100 voor minima",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis fietsles",
+        "fietsreparatie",
+        "minima",
+        "100 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 11",
+      "originalQuote": "Daarom bieden we iedereen die het fietsen nog onvoldoende onder de knie heeft gratis fietsles aan. Daarnaast komt er een fietsreparatieregeling waar minima met een kleine beurs gebruik van kunnen maken om hun fiets gratis te laten repareren tot een bedrag van 100 euro."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-010",
+      "text": "In alle stadsdelen, te beginnen in Noord en Zuidoost, komen locaties waar daklozen via de gemeente een briefadres kunnen krijgen, als uitbreiding van de huidige locatie.",
+      "summary": "Uitbreiding briefadreslocaties voor daklozen naar alle stadsdelen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "briefadres",
+        "stadsdelen",
+        "noord",
+        "zuidoost",
+        "daklozen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 10",
+      "originalQuote": "In alle stadsdelen, om te beginnen in Noord en Zuidoost, komen plekken waar daklozen via de gemeente een briefadres kunnen krijgen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-011",
+      "text": "De SP wil alle commerciële thuiszorgaanbieders in Amsterdam vervangen door één stedelijke thuiszorgorganisatie voor hulp bij het huishouden om de marktwerking uit de zorg te halen.",
+      "summary": "Oprichting stedelijke thuiszorgorganisatie ter vervanging van commerciële aanbieders",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "thuiszorg",
+        "marktwerking",
+        "stedelijke organisatie",
+        "hulp bij huishouden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 13",
+      "originalQuote": "De komende jaren schaffen we de marktwerking werkelijk af. We vervangen alle commerciële thuiszorgaanbieders in Amsterdam door één stedelijke thuiszorgorganisatie voor hulp bij het huishouden."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-012",
+      "text": "Amsterdam richt een Amsterdamse hulpmiddelencentrale op om de hulpmiddelenzorg terug te brengen in publieke handen en de marktwerking te stoppen.",
+      "summary": "Oprichting Amsterdamse hulpmiddelencentrale in publieke handen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hulpmiddelencentrale",
+        "publieke handen",
+        "marktwerking",
+        "hulpmiddelenzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 13",
+      "originalQuote": "Daarom gaan we ook de hulpmiddelenzorg terug brengen in publieke handen en richten een Amsterdamse hulpmiddelencentrale op."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-013",
+      "text": "Er komen zorgbuurthuizen als kleinschalige woonvorm voor ouderen die publiek gefinancierd worden, zodat een plek niet afhankelijk is van de dikte van je portemonnee.",
+      "summary": "Publiek gefinancierde zorgbuurthuizen voor betaalbare ouderenzorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgbuurthuizen",
+        "ouderen",
+        "publieke financiering",
+        "betaalbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 13",
+      "originalQuote": "We geven Amsterdamse ouderen daarom weer de mogelijkheid om samen oud te worden in het zorgbuurthuis, een kleinschalige woonvorm waarbij ouderen van hun oude dag kunnen genieten in hun eigen buurt."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-014",
+      "text": "Amsterdam gaat als gemeente de huisvesting van huisartsen actief ter hand nemen en helpt huisartsen bij het vinden van betaalbare praktijkruimten.",
+      "summary": "Gemeente faciliteert huisartsen bij betaalbare praktijkruimten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huisartsen",
+        "praktijkruimten",
+        "gemeente",
+        "faciliteren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 14",
+      "originalQuote": "Daarom gaat Amsterdam als gemeente de huisvesting van huisartsen actief ter hand nemen. We helpen en faciliteren huisartsen bij het vinden van betaalbare praktijkruimten."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-015",
+      "text": "De gemeente blijft gratis schoolzwemmen organiseren voor alle Amsterdamse kinderen.",
+      "summary": "Gratis schoolzwemmen voor alle kinderen blijft georganiseerd",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "gratis",
+        "kinderen",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 14",
+      "originalQuote": "Ieder Amsterdammertje moet veilig leren zwemmen, daarom blijft de gemeente gratis schoolzwemmen organiseren."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-016",
+      "text": "Er wordt flink geld uitgetrokken voor het opknappen en verbeteren van gymzalen bij scholen en investering in vakleerkrachten voor gymles op de basisschool.",
+      "summary": "Investering in gymzalen en vakleerkrachten bewegingsonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gymzalen",
+        "vakleerkrachten",
+        "bewegingsonderwijs",
+        "basisschool"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 14",
+      "originalQuote": "We blijven daarom investeren in vakleerkrachten voor gymles op de basisschool. Daarnaast trekken we flink wat geld uit voor het opknappen en verbeteren van gymzalen bij scholen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-017",
+      "text": "Een grens van 14 miljoen toeristische overnachtingen wordt gesteld, bij overschrijding worden maatregelen genomen zoals verhogen toeristenbelasting en uitbreiden Airbnb-regulering.",
+      "summary": "Grens van 14 miljoen toeristische overnachtingen met handhavingsmaatregelen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeristische overnachtingen",
+        "14 miljoen",
+        "toeristenbelasting",
+        "airbnb"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 15",
+      "originalQuote": "In lijn met het oorspronkelijke volksinitiatief Amsterdam heeft een keuze stellen we een grens aan het aantal toeristische overnachtingen van 14 miljoen. Bij het overschrijden van deze grens ondernemen we actie om de leefbaarheid te bevorderen en het aantal toeristen terug te dringen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-018",
+      "text": "Er komt een nieuw stadsbos bij Amsterdam, bijvoorbeeld op een plek die nu gebruikt wordt voor kolenoverslag in de haven of bio-industrie aan de stadsgrenzen.",
+      "summary": "Nieuw stadsbos op voormalige industriegrond",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsbos",
+        "haven",
+        "kolenoverslag",
+        "bio-industrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 15",
+      "originalQuote": "De SP wil daarom dat er een nieuw stadsbos komt bij Amsterdam, bijvoorbeeld op een plek die nu nog gebruikt wordt voor kolenoverslag in de haven, of voor de bio-industrie aan de stadsgrenzen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-019",
+      "text": "Terrassen worden na corona teruggebracht tot de omvang van vóór de pandemie en er komen geen nieuwe commerciële terrassen in woonbuurten binnen de ring A10.",
+      "summary": "Terugbrengen terrassen naar pre-corona omvang, geen nieuwe terrassen binnen A10",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terrassen",
+        "corona",
+        "woonbuurten",
+        "a10"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 16",
+      "originalQuote": "Als de beperkende corona-maatregelen zijn verdwenen worden de terrassen teruggebracht tot de omvang van vóór de coronapandemie. In woonbuurten binnen de ring A10 komen niet nog meer commerciële terrassen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-020",
+      "text": "Er komen geen nieuwe hotels meer bij en bestaande hotels worden gestimuleerd om om te bouwen naar woonruimte of andere maatschappelijke functie.",
+      "summary": "Stop nieuwe hotels, stimulans ombouw bestaande hotels naar woningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hotels",
+        "woonruimte",
+        "ombouw",
+        "maatschappelijke functie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 16",
+      "originalQuote": "Er komen geen nieuwe hotels meer bij. Bestaande hotels worden gestimuleerd om hun hotel om te bouwen naar woonruimte of andere maatschappelijke functie."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-021",
+      "text": "Het aantal bomen in Amsterdam wordt verder uitgebreid met zo mogelijk bomen in alle Amsterdamse straten.",
+      "summary": "Uitbreiding aantal bomen met ambitie bomen in alle straten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bomen",
+        "straten",
+        "uitbreiding",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 16",
+      "originalQuote": "Het aantal bomen in Amsterdam wordt verder uitgebreid. Er komen zo mogelijk bomen in alle Amsterdamse straten."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-022",
+      "text": "Er komen tientallen nieuwe speeltuinen bij in de stad, toegankelijk voor kinderen met een beperking, waarbij samen met bewoners wordt bekeken waar deze nodig zijn.",
+      "summary": "Tientallen nieuwe toegankelijke speeltuinen in overleg met bewoners",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "speeltuinen",
+        "toegankelijk",
+        "beperking",
+        "bewoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 16",
+      "originalQuote": "Er komen in de stad tientallen nieuwe speeltuinen bij, we bekijken samen met bewoners waar die nodig zijn. Deze worden zo ingericht dat ze ook toegankelijk zijn voor kinderen met een beperking."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-023",
+      "text": "Onbenutte daken worden verplicht gebruikt voor een groen dak of zonnepanelen, waarbij daktuinen op grote gebouwen openbaar toegankelijk worden.",
+      "summary": "Verplichting groene daken of zonnepanelen, openbare daktuinen op grote gebouwen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groene daken",
+        "zonnepanelen",
+        "verplichting",
+        "openbaar toegankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 16",
+      "originalQuote": "we verplichten het gebruik van onbenutte daken voor een groen dak of zonnepanelen. Daktuinen op grote gebouwen worden openbaar toegankelijk."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-024",
+      "text": "De norm van 16 vierkante meter gebruiksgroen per woning plus 6 vierkante meter overig groen moet in alle nieuwbouwplannen worden gehaald.",
+      "summary": "Groennorm 16m² gebruiksgroen + 6m² overig groen verplicht in nieuwbouw",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groennorm",
+        "16 vierkante meter",
+        "nieuwbouw",
+        "gebruiksgroen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 16",
+      "originalQuote": "Er bestaat een norm voor de minimale hoeveelheid 'gebruiksgroen' in nieuwe woonbuurten: 16 vierkante meter per woning, naast 6 vierkante meter overig groen, zoals dak- en binnentuinen. Die norm wordt nog niet in alle nieuwbouwplannen gehaald. Dat moet van nu af aan wel gebeuren."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-025",
+      "text": "Amsterdam verbiedt jacht op dieren zoals ganzen en vossen binnen de gemeentegrenzen.",
+      "summary": "Verbod op jacht binnen Amsterdam",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jacht",
+        "verbod",
+        "ganzen",
+        "vossen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 17",
+      "originalQuote": "In Amsterdam wordt op geen enkele manier jacht op dieren toegestaan, we verbieden dus jacht op bijvoorbeeld ganzen en vossen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-026",
+      "text": "Het meldpunt misstanden arbeidsuitbuiting wordt permanent gemaakt als onderdeel van het speerpunt bestrijden van arbeidsuitbuiting.",
+      "summary": "Permanent meldpunt arbeidsuitbuiting",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meldpunt",
+        "arbeidsuitbuiting",
+        "permanent",
+        "misstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 18",
+      "originalQuote": "Het meldpunt misstanden arbeidsuitbuiting maken we permanent."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-027",
+      "text": "Amsterdam stopt met het gebruik van gezichtsherkenning en gelaatsvergelijkingstechnieken ter bescherming van de privacy van Amsterdammers.",
+      "summary": "Stop gezichtsherkenning en gelaatsvergelijkingstechnologie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezichtsherkenning",
+        "gelaatsvergelijking",
+        "privacy",
+        "technologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 20",
+      "originalQuote": "De privacy van Amsterdammers moet beter worden beschermd. We stoppen daarom met het gebruik van gezichtsherkenning en gelaatsvergelijkingstechnieken."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-028",
+      "text": "Amsterdam gaat collectief energie inkopen, eventueel samen met andere grote steden als Rotterdam en Den Haag, om energie-armoede te bestrijden.",
+      "summary": "Collectieve energie-inkoop met andere grote steden tegen energie-armoede",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "collectieve inkoop",
+        "energie-armoede",
+        "rotterdam",
+        "den haag"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 21",
+      "originalQuote": "Amsterdam gaat daarom (eventueel samen met andere grote steden als Rotterdam en Den Haag) collectief energie inkopen."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-029",
+      "text": "Er wordt een gemeentelijk energiebedrijf opgericht om de energievoorziening terug te brengen in publieke handen.",
+      "summary": "Oprichting gemeentelijk energiebedrijf",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijk energiebedrijf",
+        "publieke handen",
+        "energievoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 21",
+      "originalQuote": "We brengen de energievoorziening daarom terug in publieke handen met de oprichting een gemeentelijk energiebedrijf."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-030",
+      "text": "De gemeente moet in overleg met woningcorporaties alle huurwoningen voor 2030 optimaal isoleren. Prioriteit voor ontwikkelbuurten waar mensen met lage inkomens wonen. Randvoorwaarde is dat bewoners lagere woonlasten krijgen.",
+      "summary": "Alle huurwoningen optimaal isoleren voor 2030 via corporaties",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningisolatie",
+        "woningcorporaties",
+        "ontwikkelbuurten",
+        "woonlasten",
+        "energiebesparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 22",
+      "originalQuote": "De gemeente moet in overleg met de woningcorporaties een bouwstroom op gang brengen om al hun woningen voor 2030 optimaal te isoleren. Met als randvoorwaarde dat het voor de bewoners niet alleen meer woongenot, maar ook lagere woonlasten (huur plus energiekosten) oplevert. De huizen in ontwikkelbuurten worden het eerst verbeterd"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-031",
+      "text": "Amsterdam koppelt investeringen uit Klimaatfonds en Duurzaamheidsfonds aan baangaranties voor mbo-studenten in bouw, elektro- en installatietechniek. Harde afspraken met Alliander en onderwijsinstellingen.",
+      "summary": "Baangaranties mbo-studenten techniek via klimaatinvesteringen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mbo-studenten",
+        "baangarantie",
+        "klimaatfonds",
+        "bouw",
+        "installatietechniek"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 22",
+      "originalQuote": "Amsterdam moet de investering van deze miljoenen gaan koppelen aan een baangarantie voor mbo-studenten die een opleiding volgen in de bouw, elektro- en installatietechniek. Samen met energiebedrijf Alliander, onderwijsinstellingen en andere betrokkenen, maakt de gemeente harde afspraken over baangaranties"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-032",
+      "text": "Vanaf 2025 mogen alleen elektrische brom- en snorfietsen in bebouwde kom. Vracht, bestel, bussen en taxi's alleen uitstootvrij binnen Ring A10. Vanaf 2030 hele bebouwde kom uitstootvrij voor alle verkeer.",
+      "summary": "Uitstootvrij verkeer: 2025 bromfietsen, 2030 alle verkeer bebouwde kom",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitstootvrij",
+        "bromfietsen",
+        "snorfietsen",
+        "elektrisch",
+        "bebouwde kom"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 22",
+      "originalQuote": "Vanaf 2025 mogen alleen elektrische brom- en snorfietsen in de bebouwde kom rondrijden. Vracht- en bestelwagens, bussen en taxi's mogen alleen binnen de Ring A10 als ze uitstootvrij zijn. Vanaf 2030 is de hele bebouwde kom van Amsterdam uitstootvrij voor alle soorten verkeer"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-033",
+      "text": "Verbod op grote cruiseschepen in haven van Amsterdam naar voorbeeld van Venetië vanwege vervuilende uitstoot die vergelijkbaar is met tienduizenden auto's.",
+      "summary": "Verbod grote cruiseschepen in Amsterdamse haven",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cruiseschepen",
+        "haven",
+        "verbod",
+        "uitstoot",
+        "vervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 22",
+      "originalQuote": "Daarom volgen we het voorbeeld van Venetië en verbieden we grote cruiseschepen in de haven van Amsterdam"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-034",
+      "text": "Generatorverbod voor alle schepen in hele haven. Verplicht gebruik van duurzame walstroom. Samen met provincie uitbreiding walstroom.",
+      "summary": "Generatorverbod schepen, verplichte walstroom in haven",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "generatorverbod",
+        "schepen",
+        "haven",
+        "walstroom",
+        "duurzaam"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 22",
+      "originalQuote": "Generatorverbod voor schepen: Gaat gelden in de hele haven. Alle schepen moeten gebruikmaken van duurzaam opgewekte walstroom"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-035",
+      "text": "Maximumsnelheid 30 kilometer per uur in hele stad, 80 kilometer per uur op hele ringweg A10. Streng optreden tegen lawaaiige motorrijders met lawaaipalen.",
+      "summary": "30 km/u hele stad, 80 km/u A10, lawaaipalen tegen motoren",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "30 kilometer",
+        "ringweg",
+        "lawaaipalen",
+        "geluidhinder"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 23",
+      "originalQuote": "In hele stad wordt de maximumsnelheid 30 kilometer per uur, op de hele ringweg A10 80 kilometer per uur. Er zijn experimenten met 'lawaaipalen'. Bij gebleken succes worden ze op zoveel mogelijk plekken neergezet"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-036",
+      "text": "Verharding in openbare ruimte vervangen door groen. Particuliere tuinen slechts klein deel verhard. Bij gronduitgifte bedrijven beperking verharding niet-bebouwde ruimte.",
+      "summary": "Verharding vervangen door groen in openbare ruimte en tuinen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verharding",
+        "groen",
+        "openbare ruimte",
+        "waterbergend",
+        "verstening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 23",
+      "originalQuote": "Er wordt in de openbare ruimte verharding vervangen door groen. Ook voor particuliere tuinen wordt in samenwerking met de woningeigenaren geregeld dat slechts een klein deel verhard mag zijn. Bij gronduitgifte aan bedrijven wordt vastgelegd dat slechts een klein deel van de niet bebouwde ruimte verhard mag worden"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-037",
+      "text": "Geen nieuwe datacenters in Amsterdam. Geen onderzoek naar datacenter in Gaasperplas.",
+      "summary": "Verbod nieuwe datacenters, geen onderzoek Gaasperplas",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "datacenters",
+        "verbod",
+        "gaasperplas",
+        "energieverbruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 23",
+      "originalQuote": "Er komen geen nieuwe datacenters bij in Amsterdam. Er komt ook géén onderzoek naar een datacenter in de Gaasperplas"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-038",
+      "text": "Mystery Guest inzetten tegen discriminatie uitzendbureaus. Zwarte lijst discriminerende uitzendbureaus, gemeente doet geen zaken meer met vastgestelde discriminerende bureaus.",
+      "summary": "Mystery Guest en zwarte lijst tegen discriminerende uitzendbureaus",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mystery guest",
+        "uitzendbureaus",
+        "discriminatie",
+        "zwarte lijst",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 24",
+      "originalQuote": "Op lokaal niveau pleiten we ervoor om een Mystery Guest in te zetten en zo undercover discriminatie bij uitzendbureaus op te sporen. Ook moet de gemeente een zwarte lijst bijhouden van discriminerende uitzendbureaus en vanzelfsprekend geen zaken meer doen met uitzendbureaus waar discriminatie is vastgesteld"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-039",
+      "text": "Coentunnel, Coenplein en Coenhaven hernoemen naar Anton de Kom. Buurtbewoners betrekken bij herbenoeming straatnamen met koloniale geschiedenis.",
+      "summary": "Hernoemen Coen-locaties naar Anton de Kom met buurtbetrokkenheid",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coentunnel",
+        "coenplein",
+        "coenhaven",
+        "anton de kom",
+        "herbenoeming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 24-25",
+      "originalQuote": "We stellen voor om de Coentunnel, Coenplein en Coenhaven te hernoemen naar Anton de Kom. In alle herbenoemingen willen we buurtbewoners betrekken om tot een passende nieuwe naam te komen"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-040",
+      "text": "Nieuwe 15-G trams en ov-haltes zo snel mogelijk rolstoelvriendelijk maken. Prioriteit herstel geleidelijnen en liften. Cliëntenbelang Amsterdam adviseert bij aanschaf nieuw materieel.",
+      "summary": "15-G trams en haltes rolstoelvriendelijk, advies toegankelijkheid",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "15-g trams",
+        "rolstoelvriendelijk",
+        "toegankelijkheid",
+        "liften",
+        "geleidelijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 25",
+      "originalQuote": "Dat betekent dat de nieuwe 15-G trams en ov-haltes zo snel mogelijk rolstoelvriendelijk worden gemaakt. We geven prioriteit aan het herstellen van zaken die toegankelijkheid in de weg staan. Bij de aanschaf van nieuwe metro's of trams vragen we Cliëntenbelang Amsterdam en ervaringsdeskundigen van tevoren om advies"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-041",
+      "text": "Verdubbelen aantal plekken werkbrigade. Bij bijstandsgerechtigden uitkering aanvullen tot minimumloon voor maatschappelijke baan met werkervaring.",
+      "summary": "Verdubbelen werkbrigade, uitkering aanvullen tot minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkbrigade",
+        "verdubbelen",
+        "bijstand",
+        "minimumloon",
+        "werkervaring"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 26",
+      "originalQuote": "We verdubbelen het aantal plekken bij de succesvolle werkbrigade, waarbij werkzoekenden werkervaring op kunnen doen in een maatschappelijke baan en daarvoor een salaris krijgen. Bij bijstandsgerechtigden die hiervoor kiezen, vullen we hun uitkering aan tot het minimumloon"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-042",
+      "text": "Bouwaannemers voor kades en bruggen verplichten jongeren uit regio op te leiden en betaald in dienst te nemen. Samenwerking met Amsterdamse onderwijsinstellingen.",
+      "summary": "Verplichting aannemers: jongeren opleiden bij herstel kades/bruggen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bouwaannemers",
+        "kades",
+        "bruggen",
+        "jongeren",
+        "opleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 26",
+      "originalQuote": "Bouwaannemers die herstelwerkzaamheden aan kades en bruggen gaan uitvoeren verplichten we jongeren uit de regio op te leiden en betaald in dienst te nemen. Dit alles gebeurt in samenwerking met de Amsterdamse onderwijsinstellingen"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-043",
+      "text": "Gemeente Amsterdam beperkt inhuur uitzendkrachten tot minimum. Bestaande uitzendkrachten krijgen vast contract, alleen nog inzet voor piek en ziek.",
+      "summary": "Minimale uitzendkrachten gemeente, vaste contracten bestaande krachten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzendkrachten",
+        "vast contract",
+        "gemeente",
+        "piek en ziek"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 27",
+      "originalQuote": "Amsterdam beperkt het inhuren van uitzendkrachten tot een absoluut minimum. Bestaande uitzendkrachten krijgen een vast contract van de gemeente. Uitzendkrachten worden alleen nog ingezet om situaties van 'piek en ziek' op te vangen"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-044",
+      "text": "Alle werknemers gemeente Amsterdam krijgen minimaal 14 euro per uur salaris.",
+      "summary": "Minimumloon 14 euro per uur voor alle gemeentewerknemers",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "14 euro",
+        "gemeentewerknemers",
+        "salaris"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 27",
+      "originalQuote": "Huidige en toekomstige werknemers van de gemeente Amsterdam krijgen daarom allemaal een salaris van minimaal 14 euro per uur"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-045",
+      "text": "Brancheringsbeleid voorkomen monocultuur winkelstraten. Onderzoek voorrang zelfstandige ondernemers boven internationale winkelketens.",
+      "summary": "Brancheringsbeleid tegen monocultuur, voorrang zelfstandigen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brancheringsbeleid",
+        "monocultuur",
+        "zelfstandige ondernemers",
+        "winkelketens"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 27",
+      "originalQuote": "We voorkomen monocultuur en een overkill aan Nutellawinkels en ijssalons via zogenoemd brancheringsbeleid. We onderzoeken de mogelijkheden om zelfstandige ondernemers voorrang te geven op grote (internationale) winkelketens"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-046",
+      "text": "Burgemeester wordt gekozen door gemeenteraad. Stemming en besluitvorming transparant en openbaar.",
+      "summary": "Burgemeester gekozen door raad, transparante besluitvorming",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgemeester",
+        "gemeenteraad",
+        "gekozen",
+        "transparant",
+        "openbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 29",
+      "originalQuote": "We zijn voor een door de gemeenteraad gekozen burgemeester. De stemming en gehele besluitvorming over die keuze wordt transparant en openbaar"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-047",
+      "text": "Wethoudersnorm 154.000 euro per jaar voor gemeente, gemeentelijke deelnemingen en gesubsidieerde instellingen.",
+      "summary": "Wethoudersnorm €154.000 voor gemeente en deelnemingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethoudersnorm",
+        "154.000 euro",
+        "deelnemingen",
+        "subsidie",
+        "maximum"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 29",
+      "originalQuote": "Bij de gemeente, bedrijven waar de gemeente aandelen in heeft of instellingen die gesubsidieerd worden door de gemeente hoort niemand meer te verdienen dan een wethouderssalaris (154.000 euro per jaar)"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-048",
+      "text": "Externe inhuur beperken tot 10% van personeelskosten gemeente. Mensen met kennis en kunde zelf inhalen met vast contract.",
+      "summary": "Externe inhuur max 10% personeelskosten, vaste contracten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "externe inhuur",
+        "10 procent",
+        "personeelskosten",
+        "vast contract"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 29",
+      "originalQuote": "Daarom beperken we de externe inhuur tot 10% van de personeelskosten. Om paal en perk te stellen aan externe inhuur gaat de gemeente mensen met kennis en kunde zelf in huishalen en belonen met een vast contract"
+    },
+    {
+      "promiseCode": "SP-AMS-2022-049",
+      "text": "In tenminste twee Amsterdamse wijken wordt een offensief gestart om segregatie in het onderwijs tegen te gaan.",
+      "summary": "Antisegregatie-offensief in twee wijken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "segregatie",
+        "onderwijs",
+        "wijken",
+        "offensief"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 30",
+      "originalQuote": "In tenminste twee Amsterdamse wijken starten we een offensief om de segregatie tegen te gaan."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-050",
+      "text": "Er wordt een norm vastgelegd met schoolbesturen als voorwaarde voor Amsterdamse investeringen, waarbij Rijksgelden besteed moeten worden aan leraren, vaste banen, cao-afspraken, ondersteuning beginnende leraren en klassenverkleiningen.",
+      "summary": "Norm voor schoolbesturen over besteding Rijksgelden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "norm",
+        "schoolbesturen",
+        "leraren",
+        "klassenverkleining",
+        "cao"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 30",
+      "originalQuote": "We leggen met Amsterdamse besturen een norm vast als voorwaarde voor de Amsterdamse investeringen in scholen. Die norm stelt dat Rijksgelden niet worden opgepot of besteed aan randzaken of management, maar moet worden besteed aan leraren in hogere salarisschalen, aan meer vaste banen, aan het uitvoeren van cao-afspraken, aan ondersteuning van beginnende leraren, aan klassenverkleiningen en extra begeleiding."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-051",
+      "text": "De omvang van het experiment met voorrang voor docenten bij sociale huur en middeldure huurwoningen wordt tenminste verdubbeld en omgezet in vast beleid.",
+      "summary": "Voorrangsregeling docenten bij huurwoningen verdubbelen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "docenten",
+        "voorrang",
+        "sociale huur",
+        "middeldure huur",
+        "vast beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 31",
+      "originalQuote": "We verdubbelen tenminste de omvang van het experiment met de voorrang voor docenten bij sociale huur en middeldure huurwoningen en zetten het om in vast beleid."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-052",
+      "text": "Alle leerlingen van ouders met een lager inkomen krijgen een gratis laptop om thuis te werken.",
+      "summary": "Gratis laptop voor leerlingen van ouders met laag inkomen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "laptop",
+        "gratis",
+        "laag inkomen",
+        "leerlingen",
+        "thuiswerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 31",
+      "originalQuote": "We geven àlle leerlingen van ouders met een lager inkomen een gratis laptop om thuis te werken."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-053",
+      "text": "Het geld dat gereserveerd is voor citymarketing wordt voortaan ingezet voor Amsterdamse kunst en cultuur.",
+      "summary": "Citymarketinggeld naar kunst en cultuur",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "citymarketing",
+        "kunst",
+        "cultuur",
+        "geld",
+        "inzet"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 32",
+      "originalQuote": "Het geld dat is gereserveerd voor 'citymarketing' – de promotie van de stad – wordt voortaan ingezet voor Amsterdamse kunst en cultuur."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-054",
+      "text": "Alle Amsterdammers krijgen jaarlijks een kaartje om een museum in de stad gratis te bezoeken.",
+      "summary": "Jaarlijks gratis museumkaartje voor alle Amsterdammers",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "museum",
+        "gratis",
+        "kaartje",
+        "jaarlijks",
+        "amsterdammers"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 32",
+      "originalQuote": "Alle Amsterdammers krijgen jaarlijks een kaartje om een museum in de stad gratis te bezoeken."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-055",
+      "text": "In elke buurt komt een moderne en goed uitgeruste bibliotheek.",
+      "summary": "Moderne bibliotheek in elke buurt",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bibliotheek",
+        "modern",
+        "buurt",
+        "uitgerust"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 32",
+      "originalQuote": "We willen in elke buurt een moderne en goed uitgeruste bibliotheek."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-056",
+      "text": "Hoge ouderbijdragen op scholen worden versneld afgebouwd naar nul.",
+      "summary": "Ouderbijdragen scholen naar nul",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderbijdrage",
+        "scholen",
+        "afbouw",
+        "nul",
+        "versneld"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 32",
+      "originalQuote": "Hoge ouderbijdragen op scholen worden versneld afgebouwd naar nul, zodat de ouderbijdrage geen belemmering vormt voor toegang tot de school."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-057",
+      "text": "In de hele stad, behalve op rijkswegen, geldt een maximumsnelheid van 30 kilometer per uur.",
+      "summary": "Maximumsnelheid 30 km/u in hele stad",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "30 kilometer",
+        "stad",
+        "rijkswegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 34",
+      "originalQuote": "In de hele stad, behalve op de rijkswegen, gaat een maximumsnelheid van 30 kilometer per uur gelden."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-058",
+      "text": "Vierbaanswegen worden versmald tot tweebaanswegen, snel bij de Weesperstraat en later bij Gooiseweg, Lelylaan en Cornelis Douwesweg.",
+      "summary": "Versmalling vierbaanswegen naar tweebaanswegen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vierbaansweg",
+        "tweebaans",
+        "weesperstraat",
+        "gooiseweg",
+        "lelylaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 34",
+      "originalQuote": "Het verminderen van het autoverkeer in de stad geeft ruimte voor het versmallen van vierbaanswegen tot tweebaanswegen. Dat gebeurt snel met de Weesperstraat en de komende jaren ook met de Gooiseweg, de Lelylaan en de Cornelis Douwesweg."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-059",
+      "text": "Tramlijn 14 in Bos en Lommer en buslijn 21 in de Eendracht in Nieuw-West worden teruggebracht.",
+      "summary": "Terugbrengen tramlijn 14 en buslijn 21",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramlijn 14",
+        "buslijn 21",
+        "bos en lommer",
+        "nieuw-west",
+        "terugbrengen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 34",
+      "originalQuote": "Daarom investeren we in fijnmazig openbaar vervoer en brengen onder andere tramlijn 14 in Bos en Lommer en buslijn 21 in de Eendracht in Nieuw-West terug."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-060",
+      "text": "Het openbaar vervoer wordt gratis gemaakt voor mensen met de laagste inkomens en kinderen tot elf jaar kunnen gratis reizen op woensdagmiddag en in het weekend.",
+      "summary": "Gratis OV voor lage inkomens en kinderen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "gratis",
+        "laag inkomen",
+        "kinderen",
+        "weekend"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 34",
+      "originalQuote": "Om te beginnen starten we met het gratis maken van het openbaar vervoer voor mensen met de laagste inkomens. Kinderen tot elf jaar kunnen vrij gebruikmaken van het openbaar op de woensdagmiddag en in het weekend."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-061",
+      "text": "Er komt een experiment met een nachtmetro.",
+      "summary": "Experiment nachtmetro",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nachtmetro",
+        "experiment"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 35",
+      "originalQuote": "Er komt een experiment met een nachtmetro."
+    },
+    {
+      "promiseCode": "SP-AMS-2022-062",
+      "text": "Er komen geen nieuwe dure en onrendabele ondergrondse parkeergarages.",
+      "summary": "Geen nieuwe ondergrondse parkeergarages",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondergronds",
+        "parkeergarage",
+        "duur",
+        "onrendabel"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP amsterdam 2022, p. 35",
+      "originalQuote": "Er komen geen nieuwe dure en onrendabele ondergrondse parkeergarages."
+    }
+  ]
+}

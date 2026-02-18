@@ -1,0 +1,361 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "DENK Den Haag Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 23,
+  "promises": [
+    {
+      "promiseCode": "DENK-DH-2022-001",
+      "text": "De gemeente stelt een wethouder discriminatiebestrijding aan en benoemt een gemeentelijke coördinator tegen discriminatie.",
+      "summary": "Wethouder discriminatiebestrijding en gemeentelijke coördinator tegen discriminatie",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "discriminatiebestrijding",
+        "coördinator",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 8-9",
+      "originalQuote": "Er komt een wethouder discriminatiebestrijding en een gemeentelijke coördinator tegen discriminatie."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-002",
+      "text": "Er komen quota om de gemeente representatief te maken bij Arnhemse ambtelijke organisaties, zodat deze organisaties eindelijk een afspiegeling vormen van de stad.",
+      "summary": "Quota voor representatieve ambtelijke organisatie",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "quota",
+        "ambtelijke",
+        "organisaties",
+        "afspiegeling",
+        "diversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 9",
+      "originalQuote": "Het instellen van harde quota bij Arnhemse ambtelijke organisaties, zodat deze organisaties eindelijk een afspiegeling vormen van onze stad."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-003",
+      "text": "Bij bouwprojecten wordt een bouwverdeling van 40% sociaal, 40% middenhuur en 20% koop toegepast.",
+      "summary": "Bouwverdeling: 40% sociaal, 40% middenhuur, 20% koop",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwverdeling",
+        "sociale huur",
+        "middenhuur",
+        "koop",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 11",
+      "originalQuote": "Het woningaanbod beter afstemmen op de behoefte om doorstroming te stimuleren en de wachttijden voor woningen te beperken door het toepassen van een bouwverdeling van 40% sociaal, 40% middenhuur en 20% koop."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-004",
+      "text": "De WOZ-belasting op woningen boven €500.000 wordt verhoogd.",
+      "summary": "Hogere WOZ-belasting op woningen boven €500.000",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woz-belasting",
+        "woningen",
+        "500000",
+        "euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 11",
+      "originalQuote": "Het verhogen van de WOZ-belasting op woningen boven € 500.000."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-005",
+      "text": "In de bijstand mogen mensen tijdelijk tot €350 bijverdienen met behoud van uitkering.",
+      "summary": "Bijverdienen €350 in bijstand met behoud uitkering",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "bijverdienen",
+        "350",
+        "euro",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 13",
+      "originalQuote": "Het bijstandsbeleid moet menswaardiger en daarom is er tijdelijke ruimte voor mensen om in een uitkeringssituatie tot 350 euro bij te kunnen verdienen met behoud van uitkering waarbij er reële vooruitzichten zijn voor een vaste baan."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-006",
+      "text": "Voor iedere gekapte boom worden ten minste twee nieuwe bomen geplant.",
+      "summary": "Voor 1 gekapte boom 2 nieuwe bomen planten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boom",
+        "planten",
+        "kappen",
+        "groen",
+        "verhouding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 17",
+      "originalQuote": "Meer groen en speelruimte in de wijken. Dit doen we door voor iedere gekapte boom ten minste twee nieuwe bomen te planten."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-007",
+      "text": "Er wordt een dalkaartje voor het OV geïntroduceerd voor €1.",
+      "summary": "Dalkaartje OV voor €1",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dalkaartje",
+        "ov",
+        "openbaar vervoer",
+        "1 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 19",
+      "originalQuote": "Vervoersarmoede wordt tegengegaan door de introductie van het dalkaartje voor het OV (1 euro)."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-008",
+      "text": "Gratis OV wordt ingevoerd voor kinderen tot 12 jaar.",
+      "summary": "Gratis OV voor kinderen tot 12 jaar",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis",
+        "ov",
+        "kinderen",
+        "12 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 19",
+      "originalQuote": "Gratis OV voor kinderen tot 12 jaar."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-009",
+      "text": "Eeuwigdurende grafrust wordt gegarandeerd voor ritueel begraven van de vele geloofsgemeenschappen in Arnhem.",
+      "summary": "Eeuwigdurende grafrust voor geloofsgemeenschappen",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eeuwigdurende",
+        "grafrust",
+        "ritueel",
+        "begraven",
+        "geloofsgemeenschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 9",
+      "originalQuote": "Ritueel begraven mogelijk blijven maken voor de vele geloofsgemeenschappen in Arnhem waarbij eeuwigdurende grafrust gegarandeerd wordt."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-010",
+      "text": "Bij het toekennen van gelden voor culturele activiteiten wordt diversiteit een absoluut speerpunt gemaakt, zodat culturele activiteiten zoveel mogelijk groepen Arnhemmers aanspreken.",
+      "summary": "Diversiteit wordt speerpunt bij toekenning culturele subsidies",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diversiteit",
+        "culturele subsidies",
+        "toekenning",
+        "speerpunt"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "Het bij het toekennen van gelden voor culturele activiteiten een absoluut speerpunt maken van diversiteit."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-011",
+      "text": "De gemeente blijft festivals subsidiëren die zorgen voor verbinding tussen leefwerelden van Arnhemmers en pleegt extra inzet om diversiteit van festivals te bevorderen.",
+      "summary": "Festivals blijven gesubsidieerd met extra inzet voor diversiteit",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "festivals",
+        "subsidies",
+        "diversiteit",
+        "verbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "Festivals blijven organiseren. De gemeente dient door te gaan met het subsidiëren van festivals die zorgen voor de verbinding van de leefwerelden van Arnhemmers en de stad aantrekkelijk maken."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-012",
+      "text": "De gemeente investeert in meer sportmogelijkheden in de buitenruimte, openstelling van voldoende sporthallen en gratis sport en bewegen in de wijk.",
+      "summary": "Investering in buitensport, sporthallen en gratis wijksport",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitensport",
+        "sporthallen",
+        "gratis sport",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "De gemeente investeert in meer sportmogelijkheden in de buitenruimte en in de openstelling van voldoende sporthallen waar kan worden gesport en maakt zich sterk voor gratis sport en bewegen in de wijk."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-013",
+      "text": "Sport wordt toegankelijker gemaakt door een beter aanbod van sportbeoefening voor vrouwen middels subsidies.",
+      "summary": "Subsidies voor beter sportaanbod voor vrouwen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "vrouwensport",
+        "toegankelijkheid",
+        "sportaanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "Het breder toegankelijk maken en het stimuleren van sport, door een beter aanbod van sportbeoefening voor vrouwen middels subsidies."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-014",
+      "text": "Zwemmen en recreatie voor vrouwen wordt beschut en met vrouwelijk toezicht mogelijk gemaakt middels subsidies.",
+      "summary": "Subsidies voor beschut zwemmen voor vrouwen met vrouwelijk toezicht",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwemmen",
+        "vrouwen",
+        "subsidies",
+        "vrouwelijk toezicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "Zwemmen en recreatie voor vrouwen beschut en met vrouwelijk toezicht mogelijk maken middels subsidies."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-015",
+      "text": "Er komt een zwemlesvergoeding voor leerlingen in het basisonderwijs.",
+      "summary": "Zwemlesvergoeding voor basisschoolleerlingen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwemlesvergoeding",
+        "basisonderwijs",
+        "leerlingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "Zwemlesvergoeding voor leerlingen in het basisonderwijs."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-016",
+      "text": "De gemeente investeert meer in sociale ruimten waar mensen in de wijk samen kunnen komen. Iedere wijk krijgt de mogelijkheid een buurthuis op te richten.",
+      "summary": "Elke wijk krijgt mogelijkheid voor buurthuis",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buurthuis",
+        "wijken",
+        "sociale ruimten",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "De gemeente investeert meer in sociale ruimten waar mensen in de wijk samen kunnen komen. Iedere wijk krijgt de mogelijkheid een buurthuis op te richten."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-017",
+      "text": "De gemeente stelt meer geld beschikbaar voor sportverenigingen.",
+      "summary": "Meer geld beschikbaar voor sportverenigingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportverenigingen",
+        "subsidies",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "De gemeente dient meer geld beschikbaar te stellen voor sportverenigingen."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-018",
+      "text": "De gemeente realiseert meer speelvoorzieningen in wijken en vergroot de inclusiviteit ervan. Speeltuinen worden gebruiksvriendelijker gemaakt voor kinderen met een beperking.",
+      "summary": "Meer inclusieve speeltuinen voor kinderen met beperking",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inclusieve speeltuinen",
+        "beperking",
+        "kinderen",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 21",
+      "originalQuote": "Inclusieve speeltuinen. De gemeente gaat niet alleen meer speelvoorzieningen realiseren in de wijken van Arnhem, maar ook de inclusiviteit van deze voorzieningen vergroten."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-019",
+      "text": "Heffingen worden zo rechtvaardig mogelijk ingericht, gebaseerd op daadwerkelijk gebruik van voorzieningen. Dit wordt bijvoorbeeld toegepast bij de rioolheffing.",
+      "summary": "Heffingen gebaseerd op gebruik, zoals bij rioolheffing",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "heffingen",
+        "rioolheffing",
+        "gebruik",
+        "rechtvaardigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 22",
+      "originalQuote": "DENK wil heffingen in de gemeente zo rechtvaardig mogelijk inrichten. Dit betekent dat heffingen zo veel mogelijk gebaseerd moeten zijn op daadwerkelijk gebruik van voorzieningen. Dit zien wij bijvoorbeeld als mogelijkheid bij de rioolheffing."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-020",
+      "text": "Kwijtscheldingen van gemeentelijke heffingen voor inwoners in armoede blijven te allen tijde behouden.",
+      "summary": "Kwijtscheldingen heffingen voor inwoners in armoede blijven bestaan",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kwijtscheldingen",
+        "heffingen",
+        "armoede",
+        "behoud"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 22",
+      "originalQuote": "Kwijtscheldingen van gemeentelijke heffingen voor inwoners in armoede blijven te allen tijde behouden."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-021",
+      "text": "De gemeente maakt werk van participatie van inwoners vooraf en gedurende uitvoering van het beleid.",
+      "summary": "Inwoners participeren vooraf en tijdens beleidsuitvoering",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "participatie",
+        "inwoners",
+        "beleid",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 22",
+      "originalQuote": "De gemeente maakt werk van participatie van inwoners vooraf en gedurende uitvoering van het beleid."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-022",
+      "text": "Gemeentemedewerkers worden nadrukkelijker geschoold in integriteit, met tegenaan van discriminatie als belangrijk onderdeel.",
+      "summary": "Integriteitscholing gemeentemedewerkers tegen discriminatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "integriteit",
+        "scholing",
+        "discriminatie",
+        "gemeentemedewerkers"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 22",
+      "originalQuote": "Gemeentemedewerkers worden nadrukkelijker geschoold in integriteit. Het tegenaan van discriminatie binnen de gemeentelijke organisatie is hiervan een belangrijk onderdeel."
+    },
+    {
+      "promiseCode": "DENK-DH-2022-023",
+      "text": "Beloningen en vergoedingen voor bestuurders en ambtenaren worden gematigd.",
+      "summary": "Gematigde beloningen voor bestuurders en ambtenaren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beloningen",
+        "bestuurders",
+        "ambtenaren",
+        "matiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK den-haag 2022, p. 22",
+      "originalQuote": "Beloningen en vergoedingen voor bestuurders en ambtenaren worden gematigd."
+    }
+  ]
+}

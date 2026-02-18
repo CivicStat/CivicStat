@@ -1,0 +1,1822 @@
+{
+  "party": "PvdA",
+  "partySlug": "pvda",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verkiezingsprogramma PvdA Amsterdam 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 120,
+  "promises": [
+    {
+      "promiseCode": "PvdA-AMS-2022-001",
+      "text": "Jaarlijks 7.500 woningen bouwen binnen de bestaande stadsgrenzen",
+      "summary": "Jaarlijks 7.500 woningen bouwen binnen stadsgrenzen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "woningen",
+        "stadsgrenzen",
+        "bouwproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 7",
+      "originalQuote": "Het is onze ambitie om jaarlijks 7.500 woningen te bouwen binnen de bestaande stadsgrenzen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-002",
+      "text": "40% van de nieuwbouw moet sociale huur zijn, 40% middensegment en 20% vrije sector koop en huur",
+      "summary": "40% sociale huur, 40% middensegment, 20% vrije sector in nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "sociale huur",
+        "middensegment",
+        "vrije sector"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 8",
+      "originalQuote": "We eisen dat 40% van de nieuwbouw sociale huur is, 40% in het middensegment valt en laten 20% over voor vrije sector koop en huur."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-003",
+      "text": "Sociale huurwoningen moeten gemiddeld minstens 60 vierkante meter zijn",
+      "summary": "Sociale huurwoningen minimaal 60m² gemiddeld",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "vierkante meter",
+        "woninggrootte"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 8",
+      "originalQuote": "We voegen toe dat sociale huurwoningen gemiddeld minstens 60 vierkante meter moeten zijn."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-004",
+      "text": "Sociale koopwoningen introduceren tot 250.000 euro voor huishoudens tot 1,5x modaal inkomen",
+      "summary": "Sociale koopwoningen tot €250.000 voor 1,5x modaal",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale koopwoningen",
+        "koopprijs",
+        "middeninkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 9",
+      "originalQuote": "Sociale koopwoningen hebben een prijs tot 250.000 euro en zijn bestemd voor voor huishoudens met een inkomen tot 1,5x modaal."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-005",
+      "text": "20% van de nieuwbouwwoningen reserveren voor jongeren onder de 28 jaar",
+      "summary": "20% nieuwbouw voor jongeren onder 28",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "jongeren",
+        "leeftijdsgrens",
+        "reservering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 9",
+      "originalQuote": "We reserveren 20% van de nieuwbouwwoningen voor jongeren onder de 28 jaar."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-006",
+      "text": "Betaalbare studio's voor jongeren met maximum 600 euro per maand en kamers met maximum 400 euro per maand",
+      "summary": "Studio's max €600/maand, kamers max €400/maand voor jongeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jongeren",
+        "studio",
+        "kamers",
+        "huurprijs",
+        "maximum"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 9",
+      "originalQuote": "betaalbare studio's met een maximum van 600 euro per maand en kamers met een maximum van 400 euro per maand bouwen voor jongeren en studenten"
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-007",
+      "text": "Zelfbewoningsplicht uitbreiden naar de gehele woningvoorraad om beleggers te weren",
+      "summary": "Zelfbewoningsplicht voor alle woningen tegen beleggers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zelfbewoningsplicht",
+        "woningvoorraad",
+        "beleggers",
+        "speculatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 10",
+      "originalQuote": "De PvdA Amsterdam wil de zelfbewoningsplicht van nieuwbouw uitbreiden naar de gehele woningvoorraad."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-008",
+      "text": "Verhuurdersvergunning invoeren waarbij een woning verhuren alleen mag met vergunning",
+      "summary": "Verhuurdersvergunning verplicht voor verhuur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verhuurdersvergunning",
+        "verhuur",
+        "regulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 10",
+      "originalQuote": "Wij willen een verhuurdersvergunning invoeren. Een woning verhuren mag alleen nog als je een vergunning aanvraagt."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-009",
+      "text": "Commerciële vakantieverhuur van volledige woningen verbieden",
+      "summary": "Commerciële vakantieverhuur volledige woningen verbieden",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vakantieverhuur",
+        "airbnb",
+        "woningvoorraad",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 11",
+      "originalQuote": "Wij willen een stap verder gaan door commerciële vakantieverhuur van volledige woningen te verbieden."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-010",
+      "text": "Vanaf 2026 minimaal energielabel D voor huurwoningen, 2028 minimaal C en 2030 minimaal B",
+      "summary": "Labelplicht huurwoningen: 2026 label D, 2028 label C, 2030 label B",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energielabel",
+        "huurwoningen",
+        "labelplicht",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 12",
+      "originalQuote": "Vanaf 2026 geldt wat ons betreft voor huurwoningen een minimum van label D, in 2028 minimaal C en in 2030 minimaal B."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-011",
+      "text": "Onroerendezaakbelasting differentiëren: lagere OZB voor duurzamere woningen",
+      "summary": "Lagere OZB voor duurzame woningen",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onroerendezaakbelasting",
+        "ozb",
+        "duurzaamheid",
+        "differentiatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 12",
+      "originalQuote": "Om huishoudens te stimuleren hun woning te verduurzamen, differentiëren we stapsgewijs de onroerendezaakbelastingen (OZB)."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-012",
+      "text": "De gemeente investeert in uitbreiding van stadsreiniging en handhaving om zwerfvuil en rattenplaag in buurten aan te pakken.",
+      "summary": "Uitbreiding stadsreiniging en handhaving tegen zwerfvuil en ratten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsreiniging",
+        "handhaving",
+        "zwerfvuil",
+        "rattenplaag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 13",
+      "originalQuote": "Door de stadsreiniging en handhaving uit te breiden kunnen we snel iets doen aan de rattenplaag die buurten met veel zwerfvuil teistert."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-013",
+      "text": "Overal in de stad wordt volgens de 40-40-20 verhouding gebouwd bij nieuwbouwprojecten.",
+      "summary": "Nieuwbouw volgens 40-40-20 verhouding in hele stad",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "40-40-20",
+        "verhouding",
+        "segregatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 13",
+      "originalQuote": "We willen met ruimtelijke plannen mogelijk maken dat overal in de stad volgens de 40-40-20 verhouding gebouwd kan worden."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-014",
+      "text": "Gebruik van gemeentelijk vastgoed en woningcorporatie-winkels om basisvoorzieningen in alle buurten te behouden.",
+      "summary": "Gemeentelijk vastgoed voor behoud buurtvoorzieningen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeentelijk vastgoed",
+        "basisvoorzieningen",
+        "buurtwinkels",
+        "corporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 13",
+      "originalQuote": "Hiervoor gebruiken we het gemeentelijk vastgoed en de winkelruimtes van de corporaties."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-015",
+      "text": "In bestemmingsplannen wordt opgenomen welk type bedrijven in een bepaald gebied gewenst zijn, nu en in de toekomst.",
+      "summary": "Type bedrijven vastleggen in bestemmingsplannen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestemmingsplannen",
+        "bedrijven",
+        "gebiedsindeling",
+        "functiecombinaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 13",
+      "originalQuote": "We gaan daarom in bestemmingsplannen opnemen welk type bedrijven in een bepaald gebied gewenst zijn, nu en in de toekomst."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-016",
+      "text": "Afspraken met woningcorporaties dat zij winkelpanden reserveren voor buurtvoorzieningen.",
+      "summary": "Corporaties reserveren winkelpanden voor buurtvoorzieningen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningcorporaties",
+        "winkelpanden",
+        "buurtvoorzieningen",
+        "reservering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 13",
+      "originalQuote": "Met de woningcorporaties moet de gemeente afspreken dat zij winkelpanden voor buurtvoorzieningen reserveren."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-017",
+      "text": "Er wordt niet gebouwd in stadsparken, groene scheggen en waterland bij realisatie van nieuwe woningen.",
+      "summary": "Bouwverbod in stadsparken, groene scheggen en waterland",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsparken",
+        "groene scheggen",
+        "waterland",
+        "bouwverbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 13",
+      "originalQuote": "In die gebieden mag niet worden gebouwd."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-018",
+      "text": "De subsidie Kansenaanpak voortgezet onderwijs wordt voortgezet om scholen die dat het hardst nodig hebben extra lestijd, ondersteuning en taallessen te kunnen geven.",
+      "summary": "Voortzetting subsidie Kansenaanpak voortgezet onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidie",
+        "kansenaanpak",
+        "voortgezet onderwijs",
+        "lestijd",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 16",
+      "originalQuote": "Dit doen we onder meer door de subsidie Kansenaanpak voortgezet onderwijs voort te zetten."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-019",
+      "text": "De interventie Amsterdamse Familieschool wordt in de komende jaren voortgezet en er wordt gestreefd naar uitbreiding van het aantal scholen dat hieraan deelneemt.",
+      "summary": "Voortzetting en uitbreiding Amsterdamse Familieschool",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "familieschool",
+        "interventie",
+        "uitbreiding",
+        "kwetsbare gezinnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 16",
+      "originalQuote": "Deze interventie gaan we in de komende jaren voortzetten en we streven naar een uitbreiding."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-020",
+      "text": "De voorschool wordt gratis gemaakt voor alle kinderen vanaf 2 jaar, met voor elk kind een plek op de voorschool en kinderopvang ongeacht opleidingsniveau en sociaal-economische status van ouders.",
+      "summary": "Gratis voorschool voor alle kinderen vanaf 2 jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorschool",
+        "gratis",
+        "kinderopvang",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 17",
+      "originalQuote": "De PvdA vindt dat de voorschool gratis moet zijn voor alle kinderen vanaf 2 jaar. Er moet voor elk kind plek zijn op de voorschool en de kinderopvang, ongeacht opleidingsniveau en sociaal-economische status van de ouders."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-021",
+      "text": "De Brede Brugklas Bonus wordt gehouden voor middelbare scholen met een brede brugklas om latere selectie van schoolniveaus mogelijk te maken.",
+      "summary": "Behoud Brede Brugklas Bonus",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brede brugklas",
+        "bonus",
+        "selectie",
+        "middelbare school"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 17",
+      "originalQuote": "We houden dan ook de Brede Brugklas Bonus voor middelbare scholen met een brede brugklas."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-022",
+      "text": "Gemeentelijke subsidies worden stopgezet voor scholen die een te hoge ouderbijdrage vragen om uitsluiting van kinderen door ouderbijdrage te voorkomen.",
+      "summary": "Stoppen subsidies bij te hoge ouderbijdrage",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "ouderbijdrage",
+        "uitsluiting",
+        "schoolactiviteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 17",
+      "originalQuote": "Daarom gaan we door met het stopzetten van gemeentelijke subsidies als scholen een te hoge ouderbijdrage vragen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-023",
+      "text": "Voor internationale scholen wordt dezelfde vierkantemeternorm per leerling gehanteerd als voor andere Amsterdamse scholen, in plaats van de huidige 12 m² per leerling.",
+      "summary": "Gelijke vierkantemeternorm internationale scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "internationale scholen",
+        "vierkantemeternorm",
+        "gelijkbehandeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 17",
+      "originalQuote": "We passen deze norm aan voor internationale scholen, zodat het aantal vierkante meters per leerling gelijk wordt."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-024",
+      "text": "Elke basisschool houdt een vakleerkracht bewegingsonderwijs en elke leerling kan minimaal twee uur per week blijven gymen.",
+      "summary": "Vakleerkracht gym en minimaal twee uur gym per week",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vakleerkracht",
+        "bewegingsonderwijs",
+        "gymnastiek",
+        "basisschool"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 18",
+      "originalQuote": "Elke basisschool moet daarom een vakleerkracht bewegingsonderwijs blijven hebben en elke leerling moet minimaal twee uur per week kunnen blijven gymen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-025",
+      "text": "Vakleerkrachten muziekonderwijs blijven gefinancierd om laagdrempelig muziekles in de klas te brengen.",
+      "summary": "Financiering vakleerkrachten muziekonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vakleerkrachten",
+        "muziekonderwijs",
+        "financiering",
+        "laagdrempelig"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 18",
+      "originalQuote": "Daarnaast blijven we ook vakleerkrachten muziekonderwijs financieren, om laagdrempelig muziekles in de klas te brengen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-026",
+      "text": "Er wordt geïnvesteerd in voldoende studieruimtes voor studenten en scholieren die ook in het weekend beschikbaar zijn.",
+      "summary": "Investering in studieruimtes ook beschikbaar in weekend",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studieruimtes",
+        "studenten",
+        "scholieren",
+        "weekend"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 19",
+      "originalQuote": "Daarom investeren we in goede studieruimtes. Deze ruimtes moeten ook in het weekend beschikbaar zijn."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-027",
+      "text": "Nieuwe schoolgebouwen moeten klimaatneutraal worden gebouwd en schooldaken worden gebruikt voor zonnepanelen.",
+      "summary": "Klimaatneutrale schoolgebouwen en zonnepanelen op daken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolgebouwen",
+        "klimaatneutraal",
+        "zonnepanelen",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 20-21",
+      "originalQuote": "Schooldaken worden gebruikt voor het plaatsen van zonnepanelen en er wordt geïnvesteerd in groene schoolpleinen- en daken. Nieuwe schoolgebouwen moeten klimaatneutraal worden gebouwd."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-028",
+      "text": "De regeling Amsterdamse Impuls Schoolpleinen wordt doorgezet en nieuwe schoolpleinen worden een combinatie van natuurlijk, groen, uitdagend en regenbestendig.",
+      "summary": "Voortzetting Amsterdamse Impuls Schoolpleinen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolpleinen",
+        "impuls",
+        "groen",
+        "natuurlijk",
+        "regenbestendig"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 21",
+      "originalQuote": "Daarnaast zetten we de regeling, Amsterdamse Impuls Schoolpleinen door."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-029",
+      "text": "De gemeente plaatst zonnepanelen op alle daken van gemeentelijke gebouwen om in eigen stroomverbruik en het stroomverbruik van de buurt te voorzien.",
+      "summary": "Zonnepanelen op alle gemeentelijke gebouwen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zonnepanelen",
+        "gemeentelijke gebouwen",
+        "stroomverbruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 23",
+      "originalQuote": "De gemeente plaatst op alle daken van gemeentelijke gebouwen zonnepanelen om in haar eigen stroomverbruik én het stroomverbruik van de buurt te voorzien."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-030",
+      "text": "Grootverbruikers van energie worden verplicht om óf zonnepanelen op hun dak te plaatsen, óf een groen dak te nemen.",
+      "summary": "Verplichting zonnepanelen of groen dak voor grootverbruikers",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grootverbruikers",
+        "zonnepanelen",
+        "groen dak",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 23",
+      "originalQuote": "Grootverbruikers van energie verplichten we om óf op hun dak zonnepanelen te plaatsen, óf een groen dak te nemen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-031",
+      "text": "Bij het verlenen van vergunningen aan datacenters wordt geëist dat restwarmte wordt gebruikt voor verwarming van gebouwen of woningen.",
+      "summary": "Eis restwarmtegebruik datacenters bij vergunningverlening",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "datacenters",
+        "vergunningen",
+        "restwarmte",
+        "verwarming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 23",
+      "originalQuote": "Bij het verlenen van vergunningen aan bijvoorbeeld datacenters, eisen we dat restwarmte wordt gebruikt voor verwarming van gebouwen of woningen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-032",
+      "text": "Iedereen krijgt een Duurzame Stadspas die korting geeft op duurzame producten en diensten.",
+      "summary": "Invoering Duurzame Stadspas met kortingen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "duurzame stadspas",
+        "korting",
+        "duurzame producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 24",
+      "originalQuote": "Iedereen krijgt een Duurzame Stadspas. Deze pas geeft korting op duurzame producten en diensten."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-033",
+      "text": "Er komt een centraal register van alle duurzame initiatieven in de stad genaamd 'Nieuw Amsterdams Klimaat' met een digitale meter voor CO2-besparing.",
+      "summary": "Centraal register duurzame initiatieven met digitale CO2-meter",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "centraal register",
+        "duurzame initiatieven",
+        "digitale meter",
+        "co2-besparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 24",
+      "originalQuote": "Er is een centraal register van alle duurzame initiatieven in de stad: Nieuw Amsterdams Klimaat. Hieraan worden alle gemeentelijke klimaatmaatregelen toegevoegd. Via een digitale meter laten we zien hoe we samen toegroeien naar de 55% CO2-besparing."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-034",
+      "text": "Als ergens een boom wordt weggehaald, moet er minimaal een boom in dezelfde buurt op korte termijn bijgeplant worden.",
+      "summary": "Compensatieplicht bij kappen bomen binnen buurt",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boom",
+        "compensatie",
+        "bijplanten",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 25",
+      "originalQuote": "Als ergens een boom wordt weggehaald, moet er op korte termijn minimaal een boom in dezelfde buurt bijgeplant worden."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-035",
+      "text": "Natuurinclusief bouwen wordt het uitgangspunt bij nieuwbouwprojecten in de stad.",
+      "summary": "Natuurinclusief bouwen als uitgangspunt nieuwbouw",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "natuurinclusief bouwen",
+        "nieuwbouwprojecten",
+        "uitgangspunt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 25",
+      "originalQuote": "Natuurinclusief bouwen wordt het uitgangspunt bij nieuwbouwprojecten in onze stad."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-036",
+      "text": "Tegeltuinen worden gekoppeld aan de rioolbelasting om bewoners te stimuleren tegels te vervangen door groen.",
+      "summary": "Koppeling tegeltuinen aan rioolbelasting",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tegeltuinen",
+        "rioolbelasting",
+        "groen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 25-26",
+      "originalQuote": "Daarbij worden de tegeltuinen aan de rioolbelasting gekoppeld."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-037",
+      "text": "De stadsdelen krijgen weer regie over de afvalinzameling, die wordt samengevoegd met het reinigen van straten.",
+      "summary": "Regie afvalinzameling terug naar stadsdelen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsdelen",
+        "afvalinzameling",
+        "regie",
+        "straten reinigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 26",
+      "originalQuote": "De stadsdelen moeten weer regie krijgen over de afvalinzameling. De afvalinzameling moet worden samengevoegd met het reinigen van de straten."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-038",
+      "text": "Volle afvalbakken worden overal in de stad binnen een halve dag geleegd.",
+      "summary": "Lediging volle afvalbakken binnen halve dag",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalbakken",
+        "lediging",
+        "halve dag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 26",
+      "originalQuote": "Daarnaast willen we dat volle afvalbakken overal in de stad binnen een halve dag geleegd worden."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-039",
+      "text": "De afvalpunten krijgen langere openingstijden, ook in het weekend, zodat iedereen afval kan wegbrengen.",
+      "summary": "Langere openingstijden afvalpunten inclusief weekend",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalpunten",
+        "openingstijden",
+        "weekend"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 26",
+      "originalQuote": "De afvalpunten krijgt een langere openingstijd, ook in het weekend, zodat iedereen afval kan wegbrengen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-040",
+      "text": "Amsterdam start met een experiment om een CO2-boekhouding naast de huidige boekhouding bij te houden en presenteert jaarlijks de balans.",
+      "summary": "Experiment CO2-boekhouding met jaarlijkse presentatie",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-boekhouding",
+        "experiment",
+        "jaarlijkse balans"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 27",
+      "originalQuote": "Amsterdam start met een experiment om een CO2-boekhouding naast de huidige boekhouding bij te houden, en presenteert jaarlijks haar balans, waarbij het doel is om elk jaar meer beeld te krijgen over de CO2-uitstoot."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-041",
+      "text": "De maximumsnelheid voor auto's wordt verlaagd en verkeerscamera's worden geplaatst om verkeersveiligheid te vergroten. Ook wordt geïnvesteerd in handhaving van roekeloos en asociaal verkeersgedrag door scooterrijders en automobilisten.",
+      "summary": "Maximumsnelheid verlagen en verkeerscamera's plaatsen voor verkeersveiligheid",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maximumsnelheid",
+        "verkeerscamera's",
+        "handhaving",
+        "verkeersveiligheid",
+        "verkeersgedrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 30",
+      "originalQuote": "Verlagen en handhaven maximumsnelheid. De PvdA wil dat ieder kind veilig en zelfstandig naar school kan lopen of fietsen. In 2023 wordt de snelheid op veel plekken verlaagd naar 30 kilometer per uur. We plaatsen verkeerscamera's om de verkeersveiligheid te vergroten, en investeren in de handhaving van roekeloos en asociaal verkeersgedrag door scooterrijders en automobilisten."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-042",
+      "text": "Amsterdam wordt een tienminutenstad waarin alle inwoners binnen tien minuten fietsen basisvoorzieningen zoals school, supermarkt, huisarts en OV-knooppunt kunnen bereiken door verbetering van fietspaden en brengen van voorzieningen naar alle stadsdelen.",
+      "summary": "Amsterdam wordt tienminutenstad met voorzieningen binnen 10 minuten fietsen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tienminutenstad",
+        "basisvoorzieningen",
+        "fietspaden",
+        "stadsdelen",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 30-31",
+      "originalQuote": "De PvdA wil van Amsterdam een tienminutenstad maken, waarin alle inwoners binnen tien minuten fietsen basisvoorzieningen zoals school, supermarkt, huisarts en OV-knooppunt kunnen bereiken. We verbeteren de fietspaden en brengen voorzieningen naar alle stadsdelen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-043",
+      "text": "Er komt een metro tussen Isolatorweg en Centraal Station om de ringlijn te sluiten, wat essentieel is voor een functionerend metrosysteem en des te belangrijker wordt met de bouw van Havenstad.",
+      "summary": "Metro tussen Isolatorweg en Centraal Station om ringlijn te sluiten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metro",
+        "ringlijn",
+        "isolatorweg",
+        "centraal station",
+        "havenstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 32",
+      "originalQuote": "Metro tussen Isolatorweg en Centraal Station. Het is tijd om de ringlijn tussen Isolatorweg en het Centraal Station te sluiten. Dat is essentieel voor een functionerend metrosysteem. Met de bouw van Havenstad wordt het bouwen van een metroverbinding tussen Isolatorweg en het Centraal Station des te belangrijker."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-044",
+      "text": "Tram 1 en tram 13 worden geüpgraded tot sneltram tussen de Ringlijn en hun eindstation (Osdorp en Geuzenveld), waarbij trams tot twee keer zo snel kunnen rijden als normale trams.",
+      "summary": "Tram 1 en 13 worden sneltrams naar Osdorp en Geuzenveld",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sneltram",
+        "tram 1",
+        "tram 13",
+        "ringlijn",
+        "osdorp",
+        "geuzenveld"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 32",
+      "originalQuote": "De PvdA wil daarom tram 1 en tram 13 upgraden tot sneltram tussen de Ringlijn en hun eindstation (Osdorp en Geuzenveld). Op de nieuwe West-Westlijnen kunnen trams tot twee keer zo snel rijden als normale trams."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-045",
+      "text": "Er wordt een nachtmetro ingevoerd waarbij 's nachts tweemaal per uur een metro rijdt op alle trajecten, zodat nachtwerkers en stappers veilig en snel naar huis kunnen.",
+      "summary": "Nachtmetro tweemaal per uur op alle trajecten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nachtmetro",
+        "trajecten",
+        "nachtwerkers",
+        "stappers",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 32",
+      "originalQuote": "De PvdA wil 's nachts tweemaal per uur een metro laten rijden op alle trajecten, zodat nachtwerkers en stappers veilig en snel naar huis toe kunnen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-046",
+      "text": "Tot 2030 wordt twintig procent van de huidige parkeerplaatsen binnen de ring omgebouwd tot fietsenstallingen, postzegelparken of locaties voor afvalscheiding, bepaald in overleg met bewoners.",
+      "summary": "20% parkeerplaatsen binnen de ring ombouwen tot 2030",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerplaatsen",
+        "fietsenstallingen",
+        "postzegelparken",
+        "afvalscheiding",
+        "ring"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 34-35",
+      "originalQuote": "We willen tot 2030 twintig procent van de huidige parkeerplaatsen binnen de ring ombouwen tot fietsenstallingen, postzegelparken of locaties voor afvalscheiding. Welke parkeerplaatsen verdwijnen en hoe we ze gaan gebruiken, bepalen we met de bewoners."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-047",
+      "text": "Een parkeervergunnningensysteem wordt ingevoerd voor de hele stad, waarbij betaald parkeren voor bezoekers wordt ingevoerd in buurten zonder betaald parkeren bij hoge parkeerdruk.",
+      "summary": "Parkeervergunningensysteem voor hele stad",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeervergunningen",
+        "betaald parkeren",
+        "bezoekers",
+        "parkeerdruk",
+        "buurten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 34",
+      "originalQuote": "De PvdA wil een parkeervergunnningensysteem voor de hele stad. Daarom willen wij voor bezoekers betaald parkeren invoeren in het geval van hoge parkeerdruk."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-048",
+      "text": "Alle verouderde bruggen en kademuren worden zo snel mogelijk vernieuwd om onveilige situaties te voorkomen, en waterkwaliteit wordt verbeterd door elektrische schepen te stimuleren en commerciële passagiervaart te beperken.",
+      "summary": "Vernieuwing verouderde bruggen en kademuren voor veiligheid",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bruggen",
+        "kademuren",
+        "waterinfrastructuur",
+        "waterkwaliteit",
+        "elektrische schepen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 30",
+      "originalQuote": "We verbeteren de waterkwaliteit door elektrisch aangedreven schepen te stimuleren, commerciële passagiervaart te beperken en zones aan te wijzen voor natuur en recreatie. Tegelijkertijd vernieuwen we zo snel mogelijk alle verouderde bruggen en kademuren om onveilige situaties te voorkomen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-049",
+      "text": "Er wordt een reclamebelasting heringevoerd om billboards en andere reclames die zichtbaar zijn vanaf de openbare weg of op ontmoetingsplekken tegen te gaan.",
+      "summary": "Herinvoering reclamebelasting tegen billboards op openbare plekken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "reclamebelasting",
+        "billboards",
+        "reclame",
+        "openbare weg",
+        "ontmoetingsplekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 31",
+      "originalQuote": "Billboards en andere reclames leiden verkeersgebruikers af en maken onze stad drukker en rommeliger. Zeker reclame-uitingen die zichtbaar zijn vanaf de openbare weg of op ontmoetingsplekken zijn onwenselijk. Daarom steunen we de herinvoering van de reclamebelasting."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-050",
+      "text": "De gemeente sluit convenanten met Amsterdamse (vak)bonden waarin het uitgangspunt is dat werknemers minstens 120% van het minimumloon ontvangen. De gemeente geeft bedrijven die fatsoenlijk loon betalen voorrang en zet ze in de schijnwerpers. De gemeente betaalt zelf medewerkers minimaal 120% van het minimumloon. Jongeren ouder dan 18 jaar krijgen ten minste het wettelijk minimumloon betaald en niet het lagere jeugdloon.",
+      "summary": "120% minimumloon als norm voor gemeente en partners via convenanten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "convenanten",
+        "vakbonden",
+        "jeugdloon"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 37",
+      "originalQuote": "De gemeente sluit daarvoor convenanten met Amsterdamse (vak)bonden, waarin het uitgangspunt is dat werknemers minstens 120% van het minimumloon ontvangen. De gemeente geeft bedrijven die fatsoenlijk loon betalen voorrang en zet ze in de schijnwerpers. De gemeente geeft zelf uiteraard ook het goede voorbeeld en betaalt medewerkers minimaal 120% van het minimumloon. Jongeren ouder dan 18 jaar krijgen ten minste het wettelijk minimumloon betaald en niet het lagere jeugdloon."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-051",
+      "text": "De gemeente hanteert een flexibele schil van maximaal 10% in 2022 en houdt deze ambitie vast. ZZP'ers worden alleen ingezet voor echt tijdelijke klussen.",
+      "summary": "Flexibele schil maximaal 10%, zzp'ers alleen voor tijdelijke klussen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "flexibele schil",
+        "zzp'ers",
+        "tijdelijke contracten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 37",
+      "originalQuote": "De gemeenteraad heeft zich uitgesproken voor een flexibele schil van maximaal 10% in 2022. Die ambitie houden we vast."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-052",
+      "text": "Als het nodig is voeren we een vergunningplicht in voor branches om uitbuiting tegen te gaan.",
+      "summary": "Vergunningplicht voor branches tegen uitbuiting indien nodig",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningplicht",
+        "uitbuiting",
+        "branches"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 37",
+      "originalQuote": "Als het nodig is voeren we een vergunningplicht in voor branches om uitbuiting tegen te gaan."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-053",
+      "text": "We willen meer grip krijgen op platformbedrijven via een 'license to operate', zoals ook met deelautobedrijven is afgesproken. We beperken de ruimte voor platformbedrijven die zich niet als een verantwoordelijk werkgever gedragen.",
+      "summary": "License to operate voor platformbedrijven, beperking voor onverantwoordelijke werkgevers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "platformbedrijven",
+        "license to operate",
+        "werkgever"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 38",
+      "originalQuote": "Het liefst werken we met een 'license to operate', zoals ook met deelautobedrijven is afgesproken. En daarom beperken wij de ruimte voor platformbedrijven die zich niet als een verantwoordelijk werkgever gedragen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-054",
+      "text": "De bestuurders van door Amsterdam gesubsidieerde stichtingen en bedrijven (soms 100% aandeelhouder) verdienen nooit meer dan de wethoudersnorm.",
+      "summary": "Salarissen gesubsidieerde instellingen maximaal op wethoudersnorm",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethoudersnorm",
+        "salarissen",
+        "subsidies",
+        "aandeelhouder"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 38",
+      "originalQuote": "De bestuurders van deze instellingen verdienen wat ons betreft nooit meer dan de wethoudersnorm."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-055",
+      "text": "Bedrijven die discrimineren worden uitgesloten van gemeentelijke opdrachten of subsidies.",
+      "summary": "Uitsluiting discriminerende bedrijven van gemeentelijke opdrachten en subsidies",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "discriminatie",
+        "opdrachten",
+        "subsidies",
+        "uitsluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 39",
+      "originalQuote": "Bedrijven die over de schreef gaan worden uitgesloten van gemeentelijke opdrachten of subsidies."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-056",
+      "text": "Het Meldpunt Discriminatie Regio Amsterdam krijgt meer geld om arbeidsdiscriminatie aan te pakken. Het meldpunt wordt verankerd in alle stadsdelen.",
+      "summary": "Meer geld voor Meldpunt Discriminatie, verankering in alle stadsdelen",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meldpunt",
+        "discriminatie",
+        "stadsdelen",
+        "arbeidsdiscriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 39",
+      "originalQuote": "Het Meldpunt Discriminatie Regio Amsterdam krijgt meer geld om arbeidsdiscriminatie aan te pakken. We willen dit meldpunt ook verankeren in alle stadsdelen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-057",
+      "text": "De gemeente Amsterdam voert een partnerschapsverlof in van twee maanden voor de partners van net bevallen mensen.",
+      "summary": "Invoering partnerschapsverlof van twee maanden voor gemeentepersoneel",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "partnerschapsverlof",
+        "twee maanden",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 39",
+      "originalQuote": "De gemeente Amsterdam voert een partnerschapsverlof in van twee maanden voor de partners van net bevallen mensen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-058",
+      "text": "We stoppen met city marketing. Onze stad heeft geen extra promotie nodig.",
+      "summary": "Stoppen met city marketing van Amsterdam",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "city marketing",
+        "promotie",
+        "toerisme"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 40",
+      "originalQuote": "Zo stoppen we met city marketing. Onze stad heeft geen extra promotie nodig."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-059",
+      "text": "De gemeente onderzoekt de mogelijkheid om op termijn alle raamprostitutie op de Wallen te verplaatsen naar een Erotisch Centrum elders in de stad. De PvdA steunt dit.",
+      "summary": "Verplaatsing raamprostitutie Wallen naar Erotisch Centrum elders",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "raamprostitutie",
+        "wallen",
+        "erotisch centrum",
+        "verplaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 40-41",
+      "originalQuote": "De gemeente onderzoekt de mogelijkheid om op termijn alle raamprostitutie op de Wallen te verplaatsen naar een Erotisch Centrum elders in de stad. De PvdA steunt dit."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-060",
+      "text": "De Amsterdamse steunmaatregelen voor ondernemers blijven de komende twee jaar zoveel mogelijk gehandhaafd.",
+      "summary": "Handhaving steunmaatregelen ondernemers komende twee jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "steunmaatregelen",
+        "ondernemers",
+        "twee jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 41",
+      "originalQuote": "De PvdA vindt echter dat de Amsterdamse steunmaatregelen voor ondernemers de komende twee jaar zoveel mogelijk blijven gehandhaafd."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-061",
+      "text": "Per 2025 wil de gemeente Amsterdam 50% van het inkoopbedrag circulair of duurzaam inkopen. In 2030 moet dit percentage zijn opgeschroefd naar 90%. Gemeentelijke catering gaat zo veel mogelijk werken met biologische voedingsmiddelen.",
+      "summary": "50% circulair inkopen in 2025, 90% in 2030, biologische catering",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulair inkopen",
+        "2025",
+        "2030",
+        "biologische voedingsmiddelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 42",
+      "originalQuote": "Per 2025 wil de gemeente Amsterdam 50% van het inkoopbedrag circulair of duurzaam inkopen. In 2030 moet dit percentage zijn opgeschroefd naar 90%. Bovendien moeten gemeentelijke catering- en cafetariavoorzieningen zo veel mogelijk gaan werken met biologische voedingsmiddelen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-062",
+      "text": "Buurtteams worden versterkt met een vast en vertrouwd gezicht voor Amsterdammers. De samenwerking tussen buurtteams en voorzieningen van de Sociale Basis wordt verder uitgewerkt voor snellere hulp en ondersteuning.",
+      "summary": "Buurtteams versterken en samenwerking met Sociale Basis uitwerken",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtteams",
+        "sociale basis",
+        "hulp",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 44",
+      "originalQuote": "Buurtteams spelen een belangrijke rol in het voorkomen van armoede. Daarom willen wij ze versterken. De samenwerking tussen buurtteams en de voorzieningen vallend onder de noemer 'Sociale Basis' zal verder uitgewerkt worden, zodat de vraag om hulp en ondersteuning sneller op de juiste plek wordt opgepakt en behandeld."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-063",
+      "text": "In elk buurtteam komt een budgetcoach beschikbaar voor Amsterdammers met (dreigende) financiële problemen. De coach helpt met budgetplannen, kasboeken en financieel advies.",
+      "summary": "Budgetcoach in elk buurtteam voor financiële ondersteuning",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budgetcoach",
+        "buurtteam",
+        "financiële problemen",
+        "budgetplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 44",
+      "originalQuote": "In hun buurtteam kunnen zij eenvoudig terecht bij een Budgetcoach. Deze coach helpt met het maken van een budgetplan en een kasboek en geeft nuttige adviezen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-064",
+      "text": "Ervaringsdeskundigen worden ingezet om mensen met schulden te begeleiden als betaalde functie, niet als vrijwilligerswerk.",
+      "summary": "Betaalde ervaringsdeskundigen voor schuldbegeleiding",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ervaringsdeskundigen",
+        "schulden",
+        "begeleiding",
+        "betaalde functie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 44",
+      "originalQuote": "Naast maatschappelijk dienstverleners, zetten we ervaringsdeskundigen in om mensen met schulden te begeleiden. Een ervaringsdeskundige doet werk wat een betaalde functie zou moeten zijn, en geen vrijwilligerswerk."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-065",
+      "text": "De extra schuldhulpverlening voor zzp'ers en ondernemers die door corona in financiële problemen zijn geraakt, wordt gehandhaafd vanwege de kwetsbare economische situatie.",
+      "summary": "Handhaven extra schuldhulp voor ondernemers na corona",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schuldhulp",
+        "ondernemers",
+        "zzp'ers",
+        "corona"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 44",
+      "originalQuote": "Omdat de economische situatie de komende jaren kwetsbaar blijft, handhaven we de extra ondersteuning."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-066",
+      "text": "Stadspashouders krijgen minimaal 50% korting op een GVB-abonnement, zodat mensen met een laag inkomen betaalbaar openbaar vervoer hebben.",
+      "summary": "Minimaal 50% GVB-korting voor stadspashouders",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadspas",
+        "gvb",
+        "korting",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 44",
+      "originalQuote": "de PvdA wil de overige stadspashouders daarnaast minimaal 50% korting geven op een GVB-abonnement."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-067",
+      "text": "Het openbaar vervoer buiten de ring wordt goedkoper gemaakt door de prijs per kilometer te verlagen om vervoersarmoede uit te bannen.",
+      "summary": "Goedkoper OV buiten de ring door lagere kilometerprijs",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbaar vervoer",
+        "ring",
+        "kilometerprijs",
+        "vervoersarmoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 44",
+      "originalQuote": "De PvdA wil het openbaar vervoer buiten de ring goedkoper maken. We willen vervoersarmoede uitbannen door de prijs per kilometer buiten de ring te verlagen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-068",
+      "text": "De gemeente blijft voedselbanken en voedselinitiatieven steunen zolang deze nodig zijn voor Amsterdammers in nood.",
+      "summary": "Steun voor voedselbanken en voedselinitiatieven",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voedselbank",
+        "voedselinitiatieven",
+        "steun"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 45",
+      "originalQuote": "zo lang ze nodig zijn, steunt de gemeente voedselbanken en voedselinitiatieven."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-069",
+      "text": "Inburgeringsonderwijs wordt bij voorkeur georganiseerd op reguliere onderwijsinstellingen om de kwaliteit en het slagingspercentage te verhogen.",
+      "summary": "Inburgeringsonderwijs op reguliere onderwijsinstellingen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inburgering",
+        "onderwijs",
+        "onderwijsinstellingen",
+        "slagingspercentage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 45",
+      "originalQuote": "Bij voorkeur organiseren we het inburgeringsonderwijs op reguliere onderwijsinstellingen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-070",
+      "text": "Samen met bedrijven en organisaties worden werkplekken georganiseerd voor inburgeraars. De gemeente geeft hierbij het goede voorbeeld.",
+      "summary": "Werkplekken organiseren voor inburgeraars",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkplekken",
+        "inburgeraars",
+        "bedrijven",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 46",
+      "originalQuote": "Samen met bedrijven en organisaties organiseren we werkplekken voor inburgeraars. De gemeente geeft hierbij het goede voorbeeld."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-071",
+      "text": "Meer investeren in specialistische politieteams die racisme en discriminatie aanpakken, zoals Roze in Blauw",
+      "summary": "Meer investeren in specialistische politieteams tegen discriminatie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politieteams",
+        "racisme",
+        "discriminatie",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 47",
+      "originalQuote": "We willen meer investeren in specialistische politieteams die racisme en discriminatie aanpakken, zoals Roze in Blauw."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-072",
+      "text": "De Amsterdamse aanpak van straatintimidatie continueren met extra investeringen in betere handhaving en het bestraffen van daders",
+      "summary": "Aanpak straatintimidatie continueren met extra handhaving",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "straatintimidatie",
+        "handhaving",
+        "bestraffing",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 47",
+      "originalQuote": "De PvdA wil de Amsterdamse aanpak van straatintimidatie continueren. (...) We gaan extra investeren in betere handhaving en het bestraffen van daders."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-073",
+      "text": "Mystery guests inzetten in het uitgaansleven tegen discriminatie in horecazaken",
+      "summary": "Mystery guests tegen discriminatie in nachtleven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mystery guests",
+        "uitgaansleven",
+        "discriminatie",
+        "horeca"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 47",
+      "originalQuote": "De PvdA Amsterdam is vóór het inzetten van mystery guests in het uitgaansleven"
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-074",
+      "text": "Meer specialisten bij Veilig Thuis en hun bereikbaarheid buiten kantoortijden vergroten",
+      "summary": "Meer specialisten bij Veilig Thuis en betere bereikbaarheid",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veilig thuis",
+        "specialisten",
+        "bereikbaarheid",
+        "huiselijk geweld"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 47",
+      "originalQuote": "Er zijn meer specialisten nodig bij Veilig Thuis en hun bereikbaarheid buiten kantoortijden moet worden vergroot."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-075",
+      "text": "Bij elke herinrichting van een straat en groter bouwproject standaard een veiligheidsonderzoek uitvoeren",
+      "summary": "Standaard veiligheidsonderzoek bij herinrichting en bouwprojecten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veiligheidsonderzoek",
+        "herinrichting",
+        "bouwproject",
+        "straatverlichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 48",
+      "originalQuote": "We willen dat de gemeente standaard bij elke herinrichting van een straat en groter bouwproject een veiligheidsonderzoek doet."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-076",
+      "text": "Voor elke wijk afspraken maken met instellingen over wijkgerichte zorg en inzetten op 24-uurs bereikbaarheid",
+      "summary": "Wijkafspraken zorgaanbieders en 24-uurs bereikbaarheid",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkgerichte zorg",
+        "24-uurs bereikbaarheid",
+        "instellingen",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 48",
+      "originalQuote": "We willen voor elke wijk afspraken maken met de instellingen over wijkgerichte zorg voor deze kwetsbare bewoners (...) Ook gaan we inzetten op 24-uurs bereikbaarheid."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-077",
+      "text": "Een Top-100 van ondermijnende activiteiten opstellen en deze samen met partners aanpakken",
+      "summary": "Top-100 ondermijnende activiteiten opstellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "top-100",
+        "ondermijnende activiteiten",
+        "criminaliteit",
+        "aanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 49",
+      "originalQuote": "We stellen een Top-100 van ondermijnende activiteiten op en pakken deze activiteiten samen met (overheids)partners aan."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-078",
+      "text": "Wettelijke mogelijkheden voor vergunningscontrole (wet Bibob) maximaal gebruiken en investeren in voldoende experts",
+      "summary": "Wet Bibob maximaal gebruiken met meer experts",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wet bibob",
+        "vergunningen",
+        "experts",
+        "witwassen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 49",
+      "originalQuote": "We gaan de wettelijke mogelijkheden om aanvragen voor vergunningen te controleren (wet Bibob) maximaal gebruiken. We investeren daarom in voldoende experts."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-079",
+      "text": "Één coördinatieteam voor heel Westpoort instellen dat de aanpak van ondermijning organiseert",
+      "summary": "Coördinatieteam ondermijning Westpoort instellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coördinatieteam",
+        "westpoort",
+        "ondermijning",
+        "haven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 49",
+      "originalQuote": "Er moet één coördinatieteam voor het hele gebied komen dat de aanpak van ondermijning voor heel Westpoort organiseert."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-080",
+      "text": "Verkoop in coffeeshops alleen aan ingezetenen (legaal in Nederland verblijvende inwoners), niet meer aan toeristen",
+      "summary": "Ingezetenencriterium coffeeshops invoeren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coffeeshops",
+        "ingezetenencriterium",
+        "drugstoerisme",
+        "toeristen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 50",
+      "originalQuote": "De gemeente wil dat coffeeshops niet meer aan toeristen verkopen, maar alleen aan ingezetenen (legaal in Nederland verblijvende inwoners)."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-081",
+      "text": "In ieder stadsdeel jongerenambassadeurs instellen die advies geven over programma's gericht op jongeren",
+      "summary": "Jongerenambassadeurs in elk stadsdeel",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jongerenambassadeurs",
+        "stadsdeel",
+        "jongeren",
+        "advies"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 51",
+      "originalQuote": "In ieder stadsdeel komen jongerenambassadeurs die advies kunnen geven over dit soort programma's."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-082",
+      "text": "BOA's richten zich alleen op hun eigenlijke taken: boetes uitschrijven, overlast aanpakken en toezicht houden",
+      "summary": "BOA's beperken tot eigen taken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boa",
+        "boetes",
+        "overlast",
+        "toezicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 52",
+      "originalQuote": "De handhavers van de gemeente, de zogenaamde buitengewoon opsporingsambtenaren (boa's) houden zich alleen bezig met hun eigenlijke taken: het uitschrijven van boetes, het aanpakken van overlast en het houden van toezicht op straat."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-083",
+      "text": "Een anti-inbraakteam met oud-agenten samenstellen voor patrouilles en preventie van woninginbraken",
+      "summary": "Anti-inbraakteam met oud-agenten instellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "anti-inbraakteam",
+        "oud-agenten",
+        "woninginbraken",
+        "preventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 52",
+      "originalQuote": "De gemeente Amstelveen heeft als antwoord op het capaciteitsprobleem bij de Amstelveense politie een anti-inbraakteam samengesteld, met daarin oud-agenten. (...) willen wij ook graag in Amsterdam invoeren."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-084",
+      "text": "Amsterdam start met het inrichten van beleid rondom Coordinated Vulnerability Disclosure (CVD) voor ethische hackers",
+      "summary": "CVD-beleid inrichten voor ethische hackers",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cvd",
+        "ethische hackers",
+        "cyberveiligheid",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 53",
+      "originalQuote": "Een eerste stap is dat de gemeente Amsterdam start met het inrichten van beleid rondom Coordinated Vulnerability Disclosure (CVD)."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-085",
+      "text": "Extra maatregelen en middelen voor de beveiliging van Islamitische en Joodse instellingen continueren",
+      "summary": "Beveiliging religieuze instellingen continueren",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beveiliging",
+        "islamitische instellingen",
+        "joodse instellingen",
+        "maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 54",
+      "originalQuote": "Wij continueren de extra maatregelen en middelen voor de beveiliging van Islamitische en Joodse instellingen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-086",
+      "text": "Zorgprofessionals en studenten verpleegkunde krijgen voorrang bij woningtoewijzing in Amsterdam.",
+      "summary": "Voorrang woning voor zorgprofessionals en verpleegkunde studenten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgprofessionals",
+        "studenten",
+        "verpleegkunde",
+        "voorrang",
+        "woningtoewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 57",
+      "originalQuote": "Studenten verpleegkunde en zorgprofessionals krijgen voorrang op een woning in de stad."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-087",
+      "text": "Zorgprofessionals die niet in Amsterdam wonen krijgen gratis openbaar vervoer of gratis parkeren bij hun werk.",
+      "summary": "Gratis OV of parkeren voor zorgprofessionals van buiten Amsterdam",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgprofessionals",
+        "openbaar vervoer",
+        "parkeren",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 57",
+      "originalQuote": "Zorgprofessionals die niet in de stad wonen, kunnen gratis gebruik maken van openbaar vervoer of kunnen hun auto bij hun werk parkeren."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-088",
+      "text": "De Amsterdamse Aanpak Gezond Gewicht tegen kinderobesitas wordt voortgezet en uitgebreid.",
+      "summary": "Voortzetting en uitbreiding Amsterdamse Aanpak Gezond Gewicht",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderobesitas",
+        "gezond gewicht",
+        "preventie",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 55",
+      "originalQuote": "De Amsterdamse Aanpak Gezond Gewicht tegen kinderobesitas werkt goed en wordt daarom voortgezet en uitgebreid."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-089",
+      "text": "Er komen meer buurtteamlocaties in alle wijken, beginnend met wijken waar de meeste kwetsbare Amsterdammers wonen.",
+      "summary": "Uitbreiding buurtteamlocaties, prioriteit voor kwetsbare wijken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtteams",
+        "locaties",
+        "kwetsbare wijken",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 56",
+      "originalQuote": "We zorgen voor meer buurtteamlocaties in alle wijken en beginnen met de wijken waar de meeste kwetsbare Amsterdammers wonen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-090",
+      "text": "Elke zorgaanbieder met een gemeentelijk contract wordt gestimuleerd om ervaringsdeskundigen aan te nemen.",
+      "summary": "Stimulering aanname ervaringsdeskundigen bij zorgaanbieders",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ervaringsdeskundigen",
+        "zorgaanbieders",
+        "contracten",
+        "stimulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 57",
+      "originalQuote": "We stimuleren dat elke zorgaanbieder waarmee de gemeente een contractuele relatie heeft, ervaringsdeskundigen aanneemt."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-091",
+      "text": "Voor elke wijk komen afspraken met organisaties over wijkgerichte zorg voor kwetsbare bewoners inclusief 24-uurs bereikbaarheid.",
+      "summary": "24-uurs bereikbaarheid wijkgerichte zorg per wijk",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkgerichte zorg",
+        "24-uurs bereikbaarheid",
+        "kwetsbare bewoners",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 57",
+      "originalQuote": "We willen voor elke wijk afspraken maken met de organisaties over wijkgerichte zorg voor deze kwetsbare bewoners die ook overlast veroorzaken, inclusief 24-uurs bereikbaarheid."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-092",
+      "text": "Multiprobleemgezinnen krijgen één regiehouder die samen met het gezin problemen aanpakt en zorgt voor coördinatie van zorg en ondersteuning.",
+      "summary": "Één regiehouder per multiprobleemgezin voor gecoördineerde aanpak",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "multiprobleemgezinnen",
+        "regiehouder",
+        "coördinatie",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 58",
+      "originalQuote": "Gezinnen krijgen één regiehouder die samen met het gezin problemen aanpakt en zorgt voor juiste verwijzingen en coördinatie van de zorg/ondersteuning."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-093",
+      "text": "De gemeente bouwt geclusterde seniorenwoningen in iedere buurt op locaties waar woningen met lage kwaliteit worden gesloopt, nabij voorzieningen.",
+      "summary": "Seniorenwoningen in elke buurt bij gesloopte woningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "seniorenwoningen",
+        "geclusterd",
+        "sloop",
+        "voorzieningen",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 59",
+      "originalQuote": "De PvdA wil geclusterde seniorenwoningen bouwen in iedere buurt. Voor ouderen zijn de lokale netwerken extra belangrijk, en daarom bouwen we deze woningen op locaties waar woningen met een lage kwaliteit worden gesloopt en waar winkels, arts en apotheek op loopafstand zijn."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-094",
+      "text": "Senioren uit de buurt krijgen voorrang bij seniorenwoningen als zij in ruil een grote corporatiewoning achterlaten of hun koopwoning verkopen aan het sociale koopfonds.",
+      "summary": "Voorrang seniorenwoningen tegen inlevering grote woning",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "senioren",
+        "voorrang",
+        "doorstroming",
+        "corporatiewoning",
+        "koopfonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 59",
+      "originalQuote": "Senioren uit de buurt krijgen voorrang bij het huren of kopen van deze woningen als zij in ruil daarvoor een grote corporatiewoning achterlaten, of hun grote koopwoning verkopen aan het fonds voor sociale koopwoningen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-095",
+      "text": "De regeling 'Van Groot naar Beter' en 'Van Hoog naar Laag' wordt versterkt met voorrang voor senioren op woningen in eigen buurt en hulp bij verhuizing.",
+      "summary": "Versterking doorstromingsregelingen voor senioren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doorstroming",
+        "senioren",
+        "voorrang",
+        "verhuishulp",
+        "regeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 59",
+      "originalQuote": "We versterken de regeling Van Groot naar Beter' en Van Hoog naar Laag: we geven senioren voorrang op woningen in hun eigen buurt, en helpen bij de verhuizing."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-096",
+      "text": "De gemeente treft tijdelijke voorziening voor eigen risico kosten geestelijke gezondheidszorg voor kwetsbaarste Amsterdammers, vooral jongeren.",
+      "summary": "Tijdelijke tegemoetkoming eigen risico GGZ voor kwetsbare jongeren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen risico",
+        "geestelijke gezondheidszorg",
+        "jongeren",
+        "tegemoetkoming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 60",
+      "originalQuote": "De PvdA vindt daarom dat de gemeente voor de kwetsbaarste Amsterdammers, in het bijzonder jongeren, een tijdelijke voorziening voor deze kosten moet treffen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-097",
+      "text": "Elke basisschool krijgt een vakleerkracht bewegingsonderwijs en elke leerling moet minimaal twee uur per week kunnen gymmen.",
+      "summary": "Vakleerkracht gym op elke basisschool, minimaal 2 uur gym per week per leerling",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vakleerkracht",
+        "bewegingsonderwijs",
+        "basisschool",
+        "gymnastiek",
+        "uren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 62",
+      "originalQuote": "Elke basisschool heeft daarom een vakleerkracht bewegingsonderwijs en elke leerling moet minimaal twee uur per week kunnen gymmen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-098",
+      "text": "Wachtlijsten voor zwemles worden opgelost door betere benutting van bestaande zwembaden en de bouw van nieuwe zwembaden.",
+      "summary": "Oplossen wachtlijsten zwemles door betere benutting en nieuwe zwembaden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wachtlijsten",
+        "zwemles",
+        "zwembaden",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 62",
+      "originalQuote": "De wachtlijsten voor zwemles worden opgelost door betere benutting van de bestaande zwembaden en de bouw van nieuwe zwembaden."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-099",
+      "text": "Bij de bouw van nieuwe wijken worden sportvelden en andere sportfaciliteiten verplicht opgenomen in de plannen volgens de sportnorm.",
+      "summary": "Verplichte sportfaciliteiten in nieuwe wijken volgens sportnorm",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwe wijken",
+        "sportvelden",
+        "sportfaciliteiten",
+        "sportnorm",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 63",
+      "originalQuote": "Bij de bouw van nieuwe wijken moeten sportvelden en andere sportfaciliteiten verplicht worden opgenomen in de plannen. De raad commiteert zich aan de sportnorm die gesteld is."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-100",
+      "text": "Nieuwe sportvelden worden zoveel mogelijk als multifunctionele velden aangelegd en bestaande velden waar mogelijk aangepast naar multifunctioneel.",
+      "summary": "Nieuwe sportvelden multifunctioneel, bestaande velden aanpassen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportvelden",
+        "multifunctioneel",
+        "aanleg",
+        "aanpassing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 63",
+      "originalQuote": "Sportvelden worden, waar mogelijk, aangepast naar multifunctionele sportvelden. Nieuwe sportvelden worden zoveel mogelijk als multifunctionele velden aangelegd."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-101",
+      "text": "In elk stadsdeel komen skatebanen en urban sports-plekken met stimulering van gebruik en goed beheer.",
+      "summary": "Skatebanen en urban sports-plekken in elk stadsdeel",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "skatebanen",
+        "urban sports",
+        "stadsdelen",
+        "beheer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 63",
+      "originalQuote": "Daarom stimuleren wij gebruik en goed beheer van skatebanen en urban sports-plekken in elk stadsdeel."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-102",
+      "text": "Voor sportverenigingen die een gemeentelijke accommodatie willen huren wordt een Verklaring Omtrent het Gedrag (VOG) verplicht gesteld.",
+      "summary": "VOG verplicht voor huur gemeentelijke sportaccommodaties",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vog",
+        "verklaring omtrent gedrag",
+        "sportverenigingen",
+        "gemeentelijke accommodatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 64",
+      "originalQuote": "Daarnaast zal de gemeente in het vervolg een Verklaring Omtrent het Gedrag (VOG) verplicht stellen voor sportverenigingen die een gemeentelijke accommodatie willen huren."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-103",
+      "text": "Het cultuurbudget wordt verhoogd met meer geld naar het Amsterdamse Fonds voor de Kunsten en extra geld voor jongeren(nacht)cultuur.",
+      "summary": "Cultuurbudget omhoog, meer naar AFK en jongerencultuur",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurbudget",
+        "verhoging",
+        "afk",
+        "jongerencultuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 64",
+      "originalQuote": "Wij willen het cultuurbudget verhogen. Als resultaat daarvan kan er bijvoorbeeld meer geld naar het innovatie- en project subsidiebudget van het Amsterdamse Fonds voor de Kunsten (AFK). Ook vindt de PvdA het belangrijk dat er extra geld naar de jongeren (nacht)cultuur gaat."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-104",
+      "text": "Een extra kunstvakdocent komt op iedere school voor advies en begeleiding bij kunst- en cultuuronderwijs.",
+      "summary": "Extra kunstvakdocent op elke school",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstvakdocent",
+        "school",
+        "cultuuronderwijs",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 66",
+      "originalQuote": "De PvdA wil een extra kunstvakdocent op iedere school."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-105",
+      "text": "Het aantal cultuurcoaches wordt uitgebreid om verbinding te leggen tussen cultuuronderwijs en cultuuraanbod in de vrije tijd.",
+      "summary": "Meer cultuurcoaches voor verbinding onderwijs en vrije tijd",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurcoaches",
+        "uitbreiding",
+        "cultuuronderwijs",
+        "vrije tijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 66",
+      "originalQuote": "Om de verbinding te leggen tussen cultuuronderwijs onder schooltijd en het cultuuraanbod in de vrije tijd, breidt de PvdA het aantal cultuurcoaches uit."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-106",
+      "text": "Het vestigingsnetwerk van bibliotheken wordt uitgebreid en fijnmaziger gemaakt, zodat iedere buurt een bibliotheek heeft.",
+      "summary": "Bibliotheeknetwerk uitbreiden naar elke buurt",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheken",
+        "vestigingsnetwerk",
+        "uitbreiding",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 66",
+      "originalQuote": "Wij gaan daarom het vestigingsnetwerk uitbreiden; fijnmaziger maken, al dan niet in samenwerking met andere partners in de buurt(huizen van de wijk)."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-107",
+      "text": "In nieuwe wijken worden nieuwe kunstwerken in de openbare ruimte gerealiseerd via de percentageregeling binnen grondexploitatie.",
+      "summary": "Kunstwerken in openbare ruimte nieuwe wijken via percentageregeling",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstwerken",
+        "openbare ruimte",
+        "nieuwe wijken",
+        "percentageregeling",
+        "grondexploitatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 67",
+      "originalQuote": "De PvdA houdt onverkort vast aan de percentageregeling: binnen de grondexploitatie moet steeds geld worden gereserveerd voor kunst."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-108",
+      "text": "Onderzoeken naar institutioneel racisme binnen de gemeente worden voortgezet en uitgebreid om anti-LHBTQIA+-geweld, moslimhaat, anti-zwart racisme, validisme en antisemitisme tegen te gaan.",
+      "summary": "Voortzetting en uitbreiding onderzoek institutioneel racisme gemeente",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "institutioneel racisme",
+        "onderzoek",
+        "discriminatie",
+        "gemeente",
+        "voortgezet"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 69",
+      "originalQuote": "De onderzoeken die daar nu over gaan, moeten worden voortgezet en uitgebreid."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-109",
+      "text": "De positie van de gemeentelijke ombudsman wordt versterkt door genoeg middelen te geven om minstens tweemaal per jaar onderzoek te doen naar misstanden voor groepen burgers.",
+      "summary": "Versterking ombudsman met middelen voor minimaal 2 onderzoeken per jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijke ombudsman",
+        "middelen",
+        "onderzoek",
+        "misstanden",
+        "burgers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 69",
+      "originalQuote": "Wij willen dit doen door de ombudsman genoeg middelen te geven om minstens tweemaal per jaar onderzoek te doen naar misstanden voor groepen burgers."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-110",
+      "text": "De gemeente neemt ruim voldoende deskundigen in dienst om personeelstekorten bij publieke diensten op te lossen, zodat bewoners binnen 24 uur een reactie of afspraak krijgen op hun vraag of verzoek.",
+      "summary": "24-uurs reactietijd voor burgers door uitbreiding personeelsbestand",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "personeelstekort",
+        "deskundigen",
+        "dienstverlening",
+        "reactietijd",
+        "24 uur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 69-70",
+      "originalQuote": "Bewoners krijgen binnen 24 uur een reactie of afspraak op hun vraag of verzoek."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-111",
+      "text": "Alle geschriften van de overheid moeten begrijpelijk zijn voor leerlingen in het begin van het vervolgonderwijs, met normale tekst vóór ambtelijke stukken.",
+      "summary": "Begrijpelijke overheidscommunicatie op vervolgonderwijsniveau",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheidscommunicatie",
+        "begrijpelijk",
+        "vervolgonderwijs",
+        "ambtelijke stukken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 70",
+      "originalQuote": "Daarom willen wij dat alle geschriften van de overheid begrijpelijk zijn voor leerlingen in het begin van het vervolgonderwijs."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-112",
+      "text": "De gemeente volgt de actieve openbaarheid van de nationale overheid en maakt proactief beleidsvoornemens en overwegingen openbaar volgens de lijn 'openbaar, tenzij'.",
+      "summary": "Proactieve openbaarheid beleidsvoornemens volgens principe 'openbaar, tenzij'",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbaarheid",
+        "beleidsvoornemens",
+        "proactief",
+        "openbaar tenzij"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 70",
+      "originalQuote": "De lijn in documenten openbaren moet zijn: 'openbaar, tenzij'."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-113",
+      "text": "De rol van de informatiecommissaris wordt versterkt en rapporteert jaarlijks aan de gemeenteraad over de staat van de informatiehuishouding.",
+      "summary": "Versterking informatiecommissaris met jaarlijkse rapportage aan gemeenteraad",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "informatiecommissaris",
+        "versterking",
+        "jaarlijks",
+        "rapportage",
+        "gemeenteraad"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 70",
+      "originalQuote": "Jaarlijks rapporteert de informatiecommissaris aan de gemeenteraad over de staat van de informatiehuishouding en -voorziening."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-114",
+      "text": "Achterstanden in WOB-verzoeken worden weggewerkt door tijdelijk extra mensen aan te nemen.",
+      "summary": "Wegwerken WOB-achterstanden door tijdelijke personeelsuitbreiding",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wob-verzoeken",
+        "achterstanden",
+        "extra personeel",
+        "tijdelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 70",
+      "originalQuote": "De gemeente gaat achterstanden in Wob-verzoeken wegwerken. Dat betekent dat hiervoor (tijdelijk) extra mensen worden aangenomen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-115",
+      "text": "Elke buurt krijgt bereikbare sociaal-juridische dienstverleners voor Amsterdammers die door de overheid in de problemen komen.",
+      "summary": "Sociaal-juridische hulp in elke buurt voor overheidsslachtoffers",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal-juridische dienstverlening",
+        "buurt",
+        "rechtshulp",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 71",
+      "originalQuote": "Daarom moet elke buurt bereikbare sociaal-juridische dienstverleners hebben."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-116",
+      "text": "Er wordt een burgerraad ingesteld met leden gekozen via loting, met oog voor diverse achtergronden en representatie uit alle stadsdelen, die een passende vergoeding krijgen.",
+      "summary": "Instelling burgerraad met gelote leden uit alle stadsdelen en vergoeding",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgerraad",
+        "loting",
+        "stadsdelen",
+        "vergoeding",
+        "diverse achtergronden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 71",
+      "originalQuote": "Leden moeten volgens ons worden gekozen via een loting, met oog voor diverse achtergronden en representatie uit alle stadsdelen."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-117",
+      "text": "Gezichtsherkenning in de openbare ruimte wordt verboden door opname in de algemene plaatselijke verordening (APV).",
+      "summary": "Verbod op gezichtsherkenning in openbare ruimte via APV",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezichtsherkenning",
+        "verbod",
+        "openbare ruimte",
+        "apv"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 72",
+      "originalQuote": "Gezichtsherkenning in de openbare ruimte gaan we verbieden, dat moet de gemeente opnemen in haar algemene plaatselijke verordeningen (APV's)."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-118",
+      "text": "Amsterdammers die in armoede leven krijgen op kosten van de gemeente een snelle internetverbinding.",
+      "summary": "Gratis snelle internetverbinding voor Amsterdammers in armoede",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "armoede",
+        "internetverbinding",
+        "gratis",
+        "gemeente",
+        "kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 73",
+      "originalQuote": "Daarom krijgen Amsterdammers die in armoede leven op kosten van de gemeente een snelle internetverbinding."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-119",
+      "text": "Alle jongeren onder de 18 jaar kunnen de beschikking krijgen over een laptop of tablet als die vanuit huis of school niet beschikbaar is.",
+      "summary": "Laptops/tablets voor alle jongeren onder 18 zonder thuistoegang",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jongeren",
+        "18 jaar",
+        "laptop",
+        "tablet",
+        "digitale toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 73",
+      "originalQuote": "Alle jongeren onder de 18 jaar moeten daarom de beschikking kunnen krijgen over een laptop of tablet, als die vanuit huis of school niet beschikbaar is."
+    },
+    {
+      "promiseCode": "PvdA-AMS-2022-120",
+      "text": "De gemeente voert een partnerschapsverlof van twee maanden in voor partners van net bevallen mensen.",
+      "summary": "Invoering twee maanden partnerschapsverlof bij gemeente",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "partnerschapsverlof",
+        "twee maanden",
+        "gemeente",
+        "bevalling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA amsterdam 2022, p. 75",
+      "originalQuote": "De gemeente Amsterdam voert een partnerschapsverlof in van twee maanden voor de partners van net bevallen mensen."
+    }
+  ]
+}

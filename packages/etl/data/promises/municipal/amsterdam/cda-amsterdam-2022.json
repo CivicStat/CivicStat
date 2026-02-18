@@ -1,0 +1,752 @@
+{
+  "party": "CDA",
+  "partySlug": "cda",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "CDA Amsterdam Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 48,
+  "promises": [
+    {
+      "promiseCode": "CDA-AMS-2022-001",
+      "text": "Het CDA wil stadsdialogen organiseren rondom thema's en problemen waar inwoners en ondernemers in Amsterdam last van hebben om mensen bij elkaar te brengen en samen oplossingen te vinden.",
+      "summary": "Organiseren van stadsdialogen voor inwoners en ondernemers",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdialogen",
+        "burgerparticipatie",
+        "inwoners",
+        "ondernemers",
+        "problemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 3",
+      "originalQuote": "Het kan ook door stadsdialogen te organiseren rondom thema's en problemen waar inwoners en ondernemers in onze stad last van hebben. Zo'n stadsdialoog is geen eindstation maar een middel om mensen bij elkaar te brengen en samen drempels weg te nemen en samen oplossingen te vinden."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-002",
+      "text": "Alle teksten die door de gemeente aan inwoners worden verstuurd moeten op B1-taalniveau geschreven zijn om helder en duidelijk te communiceren.",
+      "summary": "Gemeentelijke communicatie op B1-taalniveau",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "communicatie",
+        "taalniveau",
+        "b1-niveau",
+        "teksten",
+        "inwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 10",
+      "originalQuote": "Alle teksten die door de gemeente aan haar inwoners verspreid worden moeten op een passend taalniveau geschreven zijn (het zogenoemde B1-niveau)."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-003",
+      "text": "In elke brief van de gemeente komt een naam en telefoonnummer of e-mailadres van de verantwoordelijke ambtenaar.",
+      "summary": "Contactgegevens ambtenaar in elke brief",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "brieven",
+        "contactgegevens",
+        "ambtenaar",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 10",
+      "originalQuote": "In elke brief van de gemeente komt daarom een naam en telefoonnummer of e-mailadres van de ambtenaar die erover gaat."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-004",
+      "text": "De precariobelasting voor woonboten wordt teruggedraaid naar het niveau van voor de forse verhoging.",
+      "summary": "Terugdraaien precariobelasting woonboten",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "precariobelasting",
+        "woonboten",
+        "verhoging",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 13",
+      "originalQuote": "Waar lasten plotseling zeer fors zijn verhoogd, zoals de precariobelasting voor woonboten, wordt de verhoging teruggedraaid."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-005",
+      "text": "Er komt een jaarlijkse 'Dag van Amsterdam' waarbij Amsterdammers worden aangemoedigd om buurt- en straatfeesten te organiseren voor ontmoeting.",
+      "summary": "Jaarlijkse Dag van Amsterdam met buurtfeesten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dag van amsterdam",
+        "buurtfeesten",
+        "straatfeesten",
+        "ontmoeting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 12-13",
+      "originalQuote": "Daarom willen wij een jaarlijkse 'Dag van Amsterdam'. Op deze dag moedigen wij Amsterdammers aan om buurt- en straatfeesten te organiseren die voor ontmoeting zorgen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-006",
+      "text": "Er komt een digitaal welkomstpakket voor expats met informatie over de stad, rechten en plichten.",
+      "summary": "Digitaal welkomstpakket voor expats",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "welkomstpakket",
+        "expats",
+        "digitaal",
+        "informatie",
+        "rechten",
+        "plichten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 12",
+      "originalQuote": "We zorgen voor een (digitaal) welkomstpakket voor mensen die in Amsterdam komen werken met daarin informatie over de stad, hun rechten maar ook hun plichten."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-007",
+      "text": "Gespecialiseerd team wordt weer ingericht bij de afdeling Woon en Bouwtoezicht voor bescherming van monumenten, historische panden en beeldbepalende gebouwen en straten.",
+      "summary": "Gespecialiseerd team bij Woon en Bouwtoezicht voor monumentenbescherming",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "monumenten",
+        "bouwtoezicht",
+        "team",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 16",
+      "originalQuote": "Monumenten, historische panden en beeldbepalende gebouwen en straten moeten veel beter worden beschermd. Daartoe wordt weer een gespecialiseerd team ingericht bij de afdeling Woon en Bouwtoezicht."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-008",
+      "text": "De concertgebouwbuurt, Willemspark-Vondelbuurt en andere belangrijke negentiende-eeuwse delen van de stad worden beschermd stadsgezicht.",
+      "summary": "Concertgebouwbuurt en Willemspark-Vondelbuurt worden beschermd stadsgezicht",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsgezicht",
+        "concertgebouwbuurt",
+        "willemspark",
+        "vondelbuurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 16",
+      "originalQuote": "De concertgebouwbuurt, Willemspark-Vondelbuurt en andere belangrijke negentiende-eeuwse delen van de stad worden beschermd stadsgezicht."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-009",
+      "text": "Bindende afspraken worden gemaakt met sociale woningcorporaties om sociale huurwoningen beter te isoleren en hoogrendementsketels te plaatsen.",
+      "summary": "Bindende afspraken voor isolatie en ketels sociale huurwoningen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningcorporaties",
+        "isolatie",
+        "hoogrendementsketels",
+        "sociale huurwoningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 19",
+      "originalQuote": "We willen bindende afspraken maken met sociale woningcorporaties om sociale huurwoningen beter te isoleren en hoogrendementsketels te plaatsen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-010",
+      "text": "Komende jaren worden 25.000 woningen per jaar voorzien van dubbelglas om het energieverbruik terug te dringen.",
+      "summary": "25.000 woningen per jaar voorzien van dubbelglas",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dubbelglas",
+        "woningen",
+        "energieverbruik",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 19",
+      "originalQuote": "komende jaren worden 25.000 woningen per jaar voorzien van dubbelglas om het energieverbruik terug te dringen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-011",
+      "text": "Een gemeentelijk fonds wordt opgericht waar inwoners en bedrijven hun CO2-uitstoot kunnen afkopen conform Europese regels, met investeringen in energiebesparende aanpassingen en duurzame energie.",
+      "summary": "Gemeentelijk CO2-compensatiefonds voor inwoners en bedrijven",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "co2-uitstoot",
+        "compensatiefonds",
+        "energiebesparing",
+        "duurzame energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 20",
+      "originalQuote": "Wij willen een gemeentelijk fonds oprichten waar inwoners en bedrijven van Amsterdam hun CO2-uitstoot kunnen afkopen door een bedrag te betalen, conform de Europese regels."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-012",
+      "text": "Er komt een verduurzamingsloket voor inwoners, instellingen en bedrijven voor vragen, ondersteuning en eigen suggesties.",
+      "summary": "Verduurzamingsloket voor ondersteuning en advies",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verduurzamingsloket",
+        "ondersteuning",
+        "advies",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 20",
+      "originalQuote": "Er moet een verduurzamingsloket komen waar inwoners, instellingen en bedrijven terecht kunnen voor vragen en ondersteuning en waar zij zelf suggesties kunnen doen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-013",
+      "text": "Cruciale beroepen zoals leerkrachten krijgen voorrang bij het vinden van een woning via samenwerking tussen scholen en woningcorporaties.",
+      "summary": "Voorrang voor leerkrachten bij woningtoewijzing",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerkrachten",
+        "woningtoewijzing",
+        "voorrang",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 23",
+      "originalQuote": "Scholen en woningcorporaties moeten meer samenwerken. Cruciale beroepen zoals leerkrachten krijgen voorrang bij het vinden van een woning."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-014",
+      "text": "De subsidieregeling voor reiskosten wordt uitgebreid voor leraren en onderwijsondersteunend personeel, en scholen met tekorten krijgen extra parkeervergunningen.",
+      "summary": "Uitbreiding reiskostensubsidie en extra parkeervergunningen voor scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "reiskosten",
+        "subsidieregeling",
+        "parkeervergunningen",
+        "leerkrachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 23",
+      "originalQuote": "De bestaande subsidieregeling voor reiskosten voor leraren en onderwijsondersteunend personeel wordt uitgebreid. Scholen met een tekort krijgen extra parkeervergunningen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-015",
+      "text": "Bij voortzetting van het lotingssysteem krijgen alle kinderen een top 5-garantie om minimaal in een school uit hun top-5 terecht te komen.",
+      "summary": "Top 5-garantie bij lotingssysteem middelbare scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lotingssysteem",
+        "schoolkeuze",
+        "top-5",
+        "garantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 24",
+      "originalQuote": "Als het lotingssysteem wordt voortgezet, moet het zo worden ingericht dat alle kinderen minimaal in een school uit hun top-5 sterecht komen: een top 5-garantie."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-016",
+      "text": "Ondergrondse afvalcontainers worden voorzien van stanksensors om stankoverlast te voorkomen, containers worden vaker geleegd en bij stank moet de reinigingsdienst komen legen en schoonmaken.",
+      "summary": "Stanksensors in ondergrondse afvalcontainers tegen stankoverlast",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stanksensor",
+        "afvalcontainers",
+        "stankoverlast",
+        "reinigingsdienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 27",
+      "originalQuote": "Ondergrondse afvalcontainers moeten worden voorzien van een stanksensor. Om stankoverlast te voorkomen worden containers vaker geleegd. Als toch stank ontstaat moet de reinigingsdienst de container komen legen en schoonmaken."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-017",
+      "text": "In toeristische gebieden komen mobiele reinigingsteams die de stad schoonhouden en bezoekers aanspreken op hun gedrag wanneer zij troep maken.",
+      "summary": "Mobiele reinigingsteams in toeristische gebieden",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mobiele reinigingsteams",
+        "toeristische gebieden",
+        "gedrag",
+        "schoonhouden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 27",
+      "originalQuote": "In toeristische gebieden komen mobiele reinigingsteams die de stad schoonhouden en bezoekers aanspreken op hun gedrag wanneer zij troep maken."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-018",
+      "text": "De binnenstad en drukke delen zoals de Pijp gaan over op buurtparkeren met beperkte toegang, alleen toegankelijk voor bewoners, gasten en mensen die er voor werk moeten zijn.",
+      "summary": "Buurtparkeren met beperkte toegang in binnenstad en Pijp",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buurtparkeren",
+        "beperkte toegang",
+        "binnenstad",
+        "bewoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 27",
+      "originalQuote": "De binnenstad en de meest drukke andere delen van de stad zoals delen van de Pijp gaan over op buurtparkeren met beperkte toegang. Dat wil zeggen dat dit gebied alleen toegankelijk wordt voor bewoners en hun gasten, en mensen die er voor hun werk moeten zijn."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-019",
+      "text": "Het metronet wordt uitgebreid door de grote ring door te trekken en andere gebieden zoals de Houthavens te ontsluiten.",
+      "summary": "Uitbreiding metronet met doortrekken grote ring",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metronet",
+        "uitbreiding",
+        "grote ring",
+        "houthavens"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 28",
+      "originalQuote": "Het metronet moet de komende jaren worden uitgebreid. We trekken de grote ring door (maken het cirkeltje rond) en ontsluiten daarmee ook andere gebieden zoals de Houthavens."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-020",
+      "text": "De Noord/Zuidlijn wordt aan beide kanten doorgetrokken: via Schiphol tot Station Hoofddorp en tot aan Zaandam. Ook wordt verlenging via IJburg naar Almere onderzocht.",
+      "summary": "Noord/Zuidlijn doorgetrokken naar Hoofddorp en Zaandam",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noord/zuidlijn",
+        "schiphol",
+        "hoofddorp",
+        "zaandam",
+        "ijburg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 28",
+      "originalQuote": "De Noord/Zuidlijn wordt aan beide kanten doorgetrokken: via Schiphol tot Station Hoofddorp en tot aan Zaandam. Daarnaast onderzoeken we de mogelijkheid van verlenging via IJburg naar Almere in combinatie met de realisatie van nieuwe woningen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-021",
+      "text": "Tussen Oost en West komt een snelle en deels ondergrondse tramverbinding: de Oost-Westlijn. Ook in Amsterdam-Noord moet de Oost-Westverbinding beter.",
+      "summary": "Nieuwe Oost-Westlijn als snelle tramverbinding",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oost-westlijn",
+        "tramverbinding",
+        "ondergronds",
+        "amsterdam-noord"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 28",
+      "originalQuote": "Tussen Oost en West moet een snelle en deels ondergrondse tramverbinding komen: de Oost-Westlijn. Ook in Amsterdam-Noord moet de Oost-Westverbinding beter."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-022",
+      "text": "Per stadsdeel wordt een aaneengesloten wandelroute aangelegd waar zowel gesport als gewandeld kan worden, met betere voorzieningen zoals bankjes en afvalpunten.",
+      "summary": "Aaneengesloten wandelroutes per stadsdeel",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wandelroute",
+        "stadsdeel",
+        "voorzieningen",
+        "bankjes",
+        "afvalpunten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 30",
+      "originalQuote": "Wij willen per stadsdeel een aaneengesloten wandelroute aanleggen, waar zowel gesport als gewandeld kan worden. Bestaande wandelplekken moeten betere voorzieningen krijgen, zoals bankjes en afvalpunten."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-023",
+      "text": "Er komt een wethouder Toerisme om de koers naar 2025 vast te houden, die intensief samenwerkt met alle partijen en het imago van de stad verbetert.",
+      "summary": "Nieuwe wethouder Toerisme voor koers naar 2025",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "toerisme",
+        "imago",
+        "2025"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 31",
+      "originalQuote": "We willen dat er een wethouder Toerisme komt, om de koers naar 2025 vast te houden. Deze wethouder werkt intensief samen met alle relevante partijen en heeft als taak het imago van onze stad te verbeteren."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-024",
+      "text": "Driehonderd extra handhavers worden aangenomen en opgeleid voor cruciale handhavingstaken in samenwerking met de politie.",
+      "summary": "300 extra handhavers aanstellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhavers",
+        "driehonderd",
+        "handhaving",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 34",
+      "originalQuote": "We investeren in de handhaving door driehonderd extra handhavers aan te nemen en op te leiden voor een aantal cruciale handhavingstaken. Deze werken goed samen met de politie."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-025",
+      "text": "Raambordelen op de Wallen worden gesloten om van de binnenstad weer een woongebied te maken.",
+      "summary": "Sluiting raambordelen op de Wallen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raambordelen",
+        "wallen",
+        "sluiting",
+        "binnenstad",
+        "woongebied"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 35",
+      "originalQuote": "Wij sluiten de raambordelen om van de binnenstad weer een woongebied te maken."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-026",
+      "text": "Er komt een brede maatschappelijke coalitie van sportclubs, scholen, rappers, ouders en anderen tegen wapenbezit. Deze coalitie zet zich in tegen wapens en promoot wapen-inleveracties.",
+      "summary": "Brede maatschappelijke coalitie tegen wapenbezit en voor wapen-inleveracties",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coalitie",
+        "wapenbezit",
+        "sportclubs",
+        "scholen",
+        "inleveracties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 36",
+      "originalQuote": "Wij willen een brede maatschappelijk coalitie (van sportclubs, scholen, rappers, ouders, enz.) tegen wapenbezit. Deze coalitie zet zich in tegen wapens en voor de promotie van wapen-inleveracties."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-027",
+      "text": "Organisaties voor geestelijke gezondheidszorg krijgen middelen om 24-uurs teams op te zetten die verwarde personen kunnen opvangen na melding van de politie.",
+      "summary": "24-uurs GGZ-teams voor opvang verwarde personen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ggz",
+        "verwarde personen",
+        "24-uurs teams",
+        "politie",
+        "opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 36",
+      "originalQuote": "Organisaties voor geestelijke gezondheidszorg krijgen de middelen om teams op te zetten die 24 uur per dag verwarde personen op kunnen vangen, na een melding van de politie."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-028",
+      "text": "Bij dreiging aan religieuze instellingen en LHBTI+-plaatsen wordt met prioriteit bewaking georganiseerd, zo nodig met cameratoezicht.",
+      "summary": "Prioriteitsbewaking en cameratoezicht voor religieuze en LHBTI+-locaties",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bewaking",
+        "cameratoezicht",
+        "religieuze instellingen",
+        "lhbti",
+        "prioriteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 36",
+      "originalQuote": "Wanneer er sprake is van dreiging dient er met prioriteit bewaking, zo nodig met cameratoezicht, te worden georganiseerd."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-029",
+      "text": "Er wordt meer geïnvesteerd in jongerenwerkers in buurt- en wijkcentra. Een samenwerkingsoverleg tussen jongerenwerkers, scholen, politie, stichtingen, jeugdhulp en ouders krijgt structureel vorm.",
+      "summary": "Meer investering in jongerenwerkers en structureel samenwerkingsoverleg",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jongerenwerkers",
+        "wijkcentra",
+        "samenwerkingsoverleg",
+        "scholen",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 36",
+      "originalQuote": "Er moet meer geïnvesteerd worden in jongerenwerkers in buurt- en wijkcentra. Ook initiatieven van particulieren en maatschappelijke organisaties moeten worden gefaciliteerd. Een samenwerkingsoverleg tussen de betrokkenen (jongerenwerkers, scholen, politie, stichtingen, jeugdhulp, ouders) moet structureel vorm krijgen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-030",
+      "text": "De gemeente vraagt een inkomensafhankelijke eigen bijdrage voor huishoudelijke hulp binnen de WMO. Voor overige voorzieningen wordt het abonnementstarief gehandhaafd.",
+      "summary": "Inkomensafhankelijke eigen bijdrage WMO huishoudelijke hulp",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inkomensafhankelijke bijdrage",
+        "huishoudelijke hulp",
+        "wmo",
+        "abonnementstarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 38",
+      "originalQuote": "Wij willen een inkomensafhankelijke eigen bijdrage vragen voor huishoudelijke hulp binnen het kader van de Wet Maatschappelijke Ondersteuning (Wmo). Voor overige voorzieningen willen wij het abonnementstarief handhaven."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-031",
+      "text": "Het aantal kinderen dat in armoede leeft wordt minimaal gehalveerd. De 22.000 kinderen die niet kunnen sporten vanwege financiële middelen worden actief geholpen.",
+      "summary": "Halvering kinderarmoede en hulp voor 22.000 kinderen die niet kunnen sporten",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderarmoede",
+        "halveren",
+        "22.000 kinderen",
+        "sporten",
+        "financiële hulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 39",
+      "originalQuote": "De komende periode willen we het aantal kinderen dat in armoede leeft minimaal halveren. De 22.000 kinderen in Amsterdam die vanwege financiële middelen niet kunnen sporten worden actief gezocht en geholpen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-032",
+      "text": "Er komt een convenant tegen gokverslaving tussen banken, verslavingszorg, gemeente, aanbieders van fysieke en online gokactiviteiten en ervaringsdeskundigen.",
+      "summary": "Convenant tegen gokverslaving met diverse partijen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "convenant",
+        "gokverslaving",
+        "banken",
+        "verslavingszorg",
+        "online gokken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 39",
+      "originalQuote": "Er moet een convenant tegen gokverslaving komen, zeker nu de online markt is vrijgegeven. Dit wordt opgesteld en afgesloten door banken, verslavingszorg, gemeente, aanbieders van fysieke en online gokactiviteiten en ervaringsdeskundigen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-033",
+      "text": "Kinderen met jeugdhulp krijgen het recht om iemand uit hun eigen omgeving te betrekken bij belangrijke zorgbesluiten. Deze steunfiguur is een goede bekende, geen professional.",
+      "summary": "Recht op steunfiguur uit eigen omgeving bij jeugdhulpbesluiten",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jeugdhulp",
+        "steunfiguur",
+        "zorgbesluiten",
+        "eigen omgeving",
+        "recht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 40",
+      "originalQuote": "Het CDA wil dat kinderen met jeugdhulp het recht krijgen om iemand uit hun eigen omgeving te betrekken bij belangrijke zorgbesluiten. Deze steunfiguur is geen professional, maar een goede bekende."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-034",
+      "text": "Het eerste uur parkeren bij winkelgebieden wordt gratis gemaakt.",
+      "summary": "Eerste uur gratis parkeren bij winkelgebieden",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis parkeren",
+        "eerste uur",
+        "winkelgebieden",
+        "parkeerbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 45",
+      "originalQuote": "We maken het eerste uur parkeren bij winkelgebieden gratis."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-035",
+      "text": "Er komen geen belastingverhogingen in tijden van crisis. De komende jaren geen lastenverzwaringen voor Amsterdamse bedrijven.",
+      "summary": "Geen belastingverhogingen en lastenverzwaringen voor bedrijven",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingverhogingen",
+        "lastenverzwaringen",
+        "bedrijven",
+        "crisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 45",
+      "originalQuote": "In tijden van crisis wordt er geen belasting verhoogd. Wij willen de komende jaren geen lastenverzwaringen voor Amsterdamse bedrijven."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-036",
+      "text": "De gemeente past de manier waarop de grondprijs wordt berekend aan, zodat investeerders gestimuleerd worden om meer woningen te bouwen die voor langere tijd tegen een betaalbare prijs verhuurd worden.",
+      "summary": "Grondprijsberekening aanpassen om betaalbare woningbouw te stimuleren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondprijs",
+        "investeerders",
+        "woningbouw",
+        "betaalbare",
+        "verhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 48-49",
+      "originalQuote": "We willen dat de gemeente de manier waarop de grondprijs wordt berekend aanpast. Zo kunnen investeerders gestimuleerd worden om meer woningen te bouwen die voor langere tijd tegen een betaalbare prijs verhuurd worden."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-037",
+      "text": "Er wordt gestart met de aanleg van nieuwe eilanden in het IJ voorbij IJburg 2. De voorbereidingen beginnen nu zodat werkzaamheden direct aansluitend op Strandeiland kunnen beginnen.",
+      "summary": "Nieuwe eilanden in het IJ voorbij IJburg 2 aanleggen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eilanden",
+        "ij",
+        "ijburg",
+        "strandeiland",
+        "aanleg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 49",
+      "originalQuote": "We starten met de aanleg van nieuwe eilanden in het IJ voorbij IJburg 2. Op het water is ruimte. Als we nu de voorbereidingen beginnen dan kunnen de werkzaamheden direct aansluitend op Strandeiland beginnen."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-038",
+      "text": "Het 40-40-20-principe wordt vervangen door 30-40-30 (30% sociale huur, 40% middeldure huur, 30% dure huur/koop). Dit principe wordt toegepast op buurtniveau, niet per bouwproject.",
+      "summary": "Verdeelsleutel nieuwbouw wijzigen van 40-40-20 naar 30-40-30",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verdeelsleutel",
+        "sociale huur",
+        "middeldure huur",
+        "nieuwbouw",
+        "buurtniveau"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 49-50",
+      "originalQuote": "Wij vervangen het 40-40-20-principe door 30-40-30. Dit principe wordt toegepast op buurtniveau: niet per bouwproject."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-039",
+      "text": "De gemeente voert een opkoopbescherming en zelfwoonplicht in.",
+      "summary": "Opkoopbescherming en zelfwoonplicht invoeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opkoopbescherming",
+        "zelfwoonplicht",
+        "invoeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 50",
+      "originalQuote": "De gemeente voert een opkoopbescherming en zelfwoonplicht in."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-040",
+      "text": "Er wordt een verplichte kwaliteitskaart voor sociale huurwoningen ingevoerd om de kwaliteit te monitoren.",
+      "summary": "Verplichte kwaliteitskaart voor sociale huurwoningen invoeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kwaliteitskaart",
+        "sociale huurwoningen",
+        "verplicht",
+        "monitoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 49",
+      "originalQuote": "Om de kwaliteit te monitoren, moet een verplichte kwaliteitskaart voor de sociale huurwoningen ingevoerd worden."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-041",
+      "text": "De gemeente stelt een jaarlijkse subsidie beschikbaar voor beheerkosten van particuliere sociale huurwoningen, mits de woning in het sociale segment verhuurd blijft.",
+      "summary": "Jaarlijkse subsidie beheerkosten particuliere sociale huur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidie",
+        "beheerkosten",
+        "particuliere",
+        "sociale huur",
+        "jaarlijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 49",
+      "originalQuote": "Om particuliere eigenaren van sociale huurwoningen te stimuleren hun woning in het sociale segment te blijven verhuren stelt de gemeente een jaarlijkse subsidie beschikbaar voor de beheerkosten van sociale huurwoningen, mits de woning in het sociale segment verhuurd blijft."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-042",
+      "text": "Werknemers in cruciale beroepen krijgen voorrang bij het vinden van een huurwoning. Onderwijskoepels en woningbouwcorporaties worden gefaciliteerd en gestimuleerd om hier werk van te maken.",
+      "summary": "Voorrang huurwoningen voor werknemers cruciale beroepen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cruciale beroepen",
+        "voorrang",
+        "huurwoning",
+        "onderwijskoepels",
+        "corporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 50",
+      "originalQuote": "Werknemers in cruciale beroepen moeten voorrang krijgen bij het vinden van een huurwoning: onderwijskoepels en woningbouwcorporaties moeten worden gefaciliteerd en gestimuleerd om hier werk van te maken."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-043",
+      "text": "Bij woningbouw in Weesp worden naast sociale huurwoningen vooral ook betaalbare woningen in het middensegment gerealiseerd.",
+      "summary": "Betaalbare woningen middensegment bij woningbouw Weesp",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbouw",
+        "middensegment",
+        "betaalbare woningen",
+        "weesp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 52",
+      "originalQuote": "Bij woningbouw worden (naast sociale huurwoningen) vooral ook betaalbare woningen in het middensegment gerealiseerd."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-044",
+      "text": "In Weesp wordt niet hoger gebouwd dan de huidige bouwhoogte - geen hoogbouw tussen laagbouw.",
+      "summary": "Geen hoogbouw tussen laagbouw in Weesp",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwhoogte",
+        "hoogbouw",
+        "laagbouw",
+        "weesp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 52",
+      "originalQuote": "Geen hoogbouw tussen laagbouw: we gaan niet hoger bouwen dan de huidige bouwhoogte."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-045",
+      "text": "De bestuurscommissie van Weesp krijgt de beschikking over een eigen buurtbudget.",
+      "summary": "Eigen buurtbudget voor bestuurscommissie Weesp",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bestuurscommissie",
+        "buurtbudget",
+        "weesp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 52",
+      "originalQuote": "De bestuurscommissie van Weesp kan beschikken over een eigen (buurt)budget."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-046",
+      "text": "De begroting 2022 van gemeente Weesp wordt integraal overgenomen door gemeente Amsterdam.",
+      "summary": "Begroting 2022 Weesp integraal overgenomen door Amsterdam",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "begroting",
+        "weesp",
+        "amsterdam",
+        "2022"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 52",
+      "originalQuote": "De begroting 2022 van de gemeente Weesp zoals vastgesteld door de gemeente Weesp wordt integraal overgenomen door de gemeente Amsterdam"
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-047",
+      "text": "Weesper verenigingen krijgen aandacht en steun bij het beheer en onderhoud van hun accommodaties en activiteiten.",
+      "summary": "Steun voor Weesper verenigingen bij beheer accommodaties",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verenigingen",
+        "accommodaties",
+        "beheer",
+        "onderhoud",
+        "weesp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 53",
+      "originalQuote": "Weesper verenigingen blijven aandacht en steun krijgen bij het beheer en onderhoud van hun accommodaties en hun activiteiten."
+    },
+    {
+      "promiseCode": "CDA-AMS-2022-048",
+      "text": "Stoepen en fietspaden in Weesp worden goed onderhouden en veilig gehouden, met voldoende routes zonder hinderlijke obstakels zoals reclameborden, fietswrakken, vuilcontainers en terrassen.",
+      "summary": "Goed onderhouden stoepen en fietspaden zonder obstakels in Weesp",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stoepen",
+        "fietspaden",
+        "onderhoud",
+        "obstakels",
+        "weesp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA amsterdam 2022, p. 53",
+      "originalQuote": "Stoepen en fietspaden zijn goed onderhouden en veilig. Er zijn voldoende routes waar Weespers kunnen lopen, rollen en fietsen zonder hinderlijke obstakels zoals reclameborden, fietswrakken, vuilcontainers en terrassen."
+    }
+  ]
+}
