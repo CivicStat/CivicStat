@@ -332,7 +332,8 @@ async function main() {
       case 'compute-scorecards': {
         const csParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
         const csYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
-        await computeScorecards({ party: csParty, year: csYear ? parseInt(csYear) : undefined });
+        const csParliament = args.find(a => a === '--parliament') ? args[args.indexOf('--parliament') + 1] : undefined;
+        await computeScorecards({ party: csParty, year: csYear ? parseInt(csYear) : undefined, parliament: csParliament });
         break;
       }
 
@@ -360,6 +361,7 @@ async function main() {
       case 'semantic-match':
       case 'semantic': {
         const smParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const smParliament = args.find(a => a === '--parliament') ? args[args.indexOf('--parliament') + 1] : undefined;
         const smLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
         const smConcurrency = args.find(a => a === '--concurrency') ? args[args.indexOf('--concurrency') + 1] : undefined;
         const smDryRun = args.includes('--dry-run');
@@ -368,6 +370,7 @@ async function main() {
         try {
           await runSemanticMatching({
             party: smParty,
+            parliament: smParliament,
             limit: smLimit ? parseInt(smLimit) : undefined,
             dryRun: smDryRun,
             resume: smResume,

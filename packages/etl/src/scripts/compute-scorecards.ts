@@ -26,6 +26,7 @@ const MATCH_TYPE_WEIGHTS: Record<string, number> = {
 const MIN_MOTIONS_THRESHOLD = 3;
 
 const PERIOD_DEFAULTS: Record<number, { start: string; end: string }> = {
+  2022: { start: "2022-03-16", end: "2026-03-18" }, // Municipal elections 2022
   2023: { start: "2023-11-22", end: "2099-12-31" },
   2025: { start: "2023-11-22", end: "2099-12-31" },
 };
@@ -268,19 +269,47 @@ async function computeScorecard(
 export async function computeScorecards(opts: {
   party?: string;
   year?: number;
+  parliament?: string;
 } = {}) {
   console.log("📊 Computing party scorecards...\n");
 
-  const years = opts.year ? [opts.year] : [2023, 2025];
+  // Resolve parliament if specified
+  let parliamentRecord: { id: string; name: string } | null = null;
+  if (opts.parliament) {
+    parliamentRecord = await prisma.parliament.findUnique({
+      where: { slug: opts.parliament },
+      select: { id: true, name: true },
+    });
+    if (!parliamentRecord) {
+      throw new Error(`Parliament not found: ${opts.parliament}`);
+    }
+    console.log(`🏛  Scoped to parliament: ${parliamentRecord.name}\n`);
+  }
+
+  // Default years: municipal = 2022, national = 2023+2025
+  const years = opts.year
+    ? [opts.year]
+    : parliamentRecord
+      ? [2022]
+      : [2023, 2025];
 
   // Find all parties that have promises
-  const partyRows = await prisma.$queryRaw<{ party_id: string; election_year: number }[]>`
-    SELECT DISTINCT prog.party_id, prog.election_year
-    FROM promises p
-    JOIN programs prog ON p.program_id = prog.id
-    WHERE prog.election_year = ANY(${years})
-      AND prog.program_type = 'VERKIEZINGSPROGRAMMA'
-  `;
+  const partyRows = parliamentRecord
+    ? await prisma.$queryRaw<{ party_id: string; election_year: number }[]>`
+        SELECT DISTINCT prog.party_id, prog.election_year
+        FROM promises p
+        JOIN programs prog ON p.program_id = prog.id
+        WHERE prog.election_year = ANY(${years})
+          AND prog.program_type = 'VERKIEZINGSPROGRAMMA'
+          AND prog.parliament_id = ${parliamentRecord.id}
+      `
+    : await prisma.$queryRaw<{ party_id: string; election_year: number }[]>`
+        SELECT DISTINCT prog.party_id, prog.election_year
+        FROM promises p
+        JOIN programs prog ON p.program_id = prog.id
+        WHERE prog.election_year = ANY(${years})
+          AND prog.program_type = 'VERKIEZINGSPROGRAMMA'
+      `;
 
   // Get unique party IDs
   const allPartyIds = [...new Set(partyRows.map(r => r.party_id))];

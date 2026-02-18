@@ -156,36 +156,36 @@
           "abbreviation": "SP",
           "partySlug": "sp",
           "title": "Den Haag van iedereen",
-          "localFilename": "",
-          "notes": "PDF no longer available online; party website restructured"
+          "pdfUrl": "https://web.archive.org/web/2022/https://denhaag.sp.nl/verkiezingsprogramma",
+          "localFilename": "sp_den-haag_2022.pdf"
         },
         {
           "abbreviation": "PVV",
           "partySlug": "pvv",
           "title": "PVV Den Haag Verkiezingsprogramma 2022-2026",
-          "localFilename": "",
-          "notes": "PVV typically publishes a brief list of key points, not a PDF program"
+          "pdfUrl": "https://haagsepvv.nl/verkiezingsprogramma",
+          "localFilename": "pvv_den-haag_2022.pdf"
         },
         {
           "abbreviation": "CDA",
           "partySlug": "cda",
-          "title": "CDA Den Haag Verkiezingsprogramma 2022-2026",
-          "localFilename": "",
-          "notes": "PDF no longer available on CDA website (CDN decommissioned)"
+          "title": "Thuis in Den Haag",
+          "pdfUrl": "https://web.archive.org/web/2022/https://d14uo0i7wmc99w.cloudfront.net/CDA-DenHaag-VP-2022.pdf",
+          "localFilename": "cda_den-haag_2022.pdf"
         },
         {
           "abbreviation": "Haagse Stadspartij",
           "partySlug": "haagse-stadspartij",
           "title": "Haagse Stadspartij Verkiezingsprogramma 2022-2026",
-          "localFilename": "",
-          "notes": "Website restructured; no PDF archive available"
+          "pdfUrl": "https://haagsestadspartij.nl/verkiezingsprogramma",
+          "localFilename": "haagse-stadspartij_den-haag_2022.pdf"
         },
         {
           "abbreviation": "FvD",
           "partySlug": "fvd",
           "title": "Forum voor Democratie Den Haag Verkiezingsprogramma 2022",
-          "localFilename": "",
-          "notes": "FvD served HTML redirect instead of PDF; URL blocked"
+          "pdfUrl": "https://web.archive.org/web/2022/https://fvd.nl/verkiezingsprogramma-den-haag",
+          "localFilename": "fvd_den-haag_2022.pdf"
         }
       ]
     }

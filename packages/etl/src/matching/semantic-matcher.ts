@@ -56,7 +56,14 @@ const CONCURRENCY = 10; // process N promises in parallel (default, overridable 
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const PROGRESS_FILE = path.join(__dirname, '../../data/semantic-progress.json');
+
+function getProgressFilePath(parliamentSlug?: string): string {
+  const suffix = parliamentSlug ? `-${parliamentSlug}` : '';
+  return path.join(__dirname, `../../data/semantic-progress${suffix}.json`);
+}
+
+// Default for backward compatibility (used when no --parliament flag)
+const PROGRESS_FILE = getProgressFilePath();
 
 interface ProgressState {
   processedPromiseIds: string[];
@@ -75,9 +82,9 @@ interface ProgressState {
   errors: Array<{ promiseId: string; error: string; timestamp: string }>;
 }
 
-function loadProgress(): ProgressState {
+function loadProgressFrom(filePath: string): ProgressState {
   try {
-    const data = fs.readFileSync(PROGRESS_FILE, 'utf-8');
+    const data = fs.readFileSync(filePath, 'utf-8');
     const state = JSON.parse(data) as ProgressState;
     // Ensure all fields exist (backward compat with partial checkpoint files)
     if (!state.matchBreakdown) {
@@ -110,15 +117,19 @@ function loadProgress(): ProgressState {
   }
 }
 
-function saveProgress(state: ProgressState): void {
+function saveProgressTo(state: ProgressState, filePath: string): void {
   state.lastUpdatedAt = new Date().toISOString();
   // Ensure the directory exists
-  const dir = path.dirname(PROGRESS_FILE);
+  const dir = path.dirname(filePath);
   if (!fs.existsSync(dir)) {
     fs.mkdirSync(dir, { recursive: true });
   }
-  fs.writeFileSync(PROGRESS_FILE, JSON.stringify(state, null, 2));
+  fs.writeFileSync(filePath, JSON.stringify(state, null, 2));
 }
+
+// Backward-compatible wrappers using default PROGRESS_FILE
+function loadProgress(): ProgressState { return loadProgressFrom(PROGRESS_FILE); }
+function saveProgress(state: ProgressState): void { saveProgressTo(state, PROGRESS_FILE); }
 
 // ─── Utilities ──────────────────────────────────────────────────
 
@@ -187,6 +198,13 @@ export const THEME_KEYWORDS: Record<string, string[]> = {
   INFRASTRUCTUUR: ['infrastructuur', 'spoor', 'snelweg', 'openbaar vervoer', 'ov', 'mobiliteit', 'verkeer', 'wegen', 'fiets', 'trein'],
   CULTUUR: ['cultuur', 'kunst', 'erfgoed', 'museum', 'media', 'publieke omroep', 'bibliotheek', 'sport', 'recreatie'],
   'MEDISCHE-ETHIEK': ['euthanasie', 'abortus', 'embryo', 'orgaandonatie', 'medische ethiek', 'voltooid leven', 'stamcel', 'genetisch'],
+  // ─── Municipal themes ──────────────────────
+  VERKEER: ['verkeer', 'fiets', 'fietser', 'tram', 'metro', 'bus', 'parkeren', 'mobiliteit', 'ov', 'openbaar vervoer', 'autoluw', 'fietspad', 'ringweg', 'verkeersdrempel', 'bereikbaarheid'],
+  GROEN_KLIMAAT: ['groen', 'park', 'bomen', 'duurzaam', 'klimaat', 'energie', 'zonnepanelen', 'warmtenet', 'afval', 'recycling', 'circulair', 'CO2', 'milieu', 'isolatie', 'energielabel', 'windmolen'],
+  CULTUUR_SPORT: ['cultuur', 'kunst', 'museum', 'theater', 'sport', 'sporthal', 'zwembad', 'bibliotheek', 'festival', 'muziek', 'subsidie', 'erfgoed', 'atelier', 'poppodium'],
+  JEUGD: ['jeugd', 'jongeren', 'jeugdzorg', 'speelplaats', 'speeltuin', 'kinderopvang', 'scholier', 'tiener', 'jeugdhulp', 'leerplicht', 'jongerenwerk'],
+  OPENBARE_RUIMTE: ['straat', 'plein', 'stoep', 'riolering', 'water', 'gracht', 'brug', 'verlichting', 'onderhoud', 'schoon', 'containers', 'bestrating', 'kade', 'tunnel'],
+  DIVERSITEIT: ['discriminatie', 'inclusie', 'diversiteit', 'toegankelijkheid', 'lhbti', 'antiracisme', 'gelijkheid', 'integratie', 'emancipatie', 'beschermd wonen'],
 };
 
 // ─── Party Aliases ──────────────────────────────────────────────
@@ -253,6 +271,7 @@ const MATCH_TYPE_MAP: Record<string, PromiseMatchType> = {
 
 async function findCandidateMotions(
   promise: { text: string; summary: string; keywords: string[]; theme: string },
+  parliamentId?: string,
 ): Promise<Array<{ id: string; title: string; text: string | null; soort: string | null }>> {
   // Build search terms: promise keywords + theme-level keywords
   const searchTerms = new Set<string>();
@@ -283,7 +302,10 @@ async function findCandidateMotions(
 
   const candidates = await prisma.motion.findMany({
     where: {
-      OR: orConditions,
+      AND: [
+        { OR: orConditions },
+        ...(parliamentId ? [{ parliamentId }] : []),
+      ],
     },
     select: {
       id: true,
@@ -348,13 +370,30 @@ function parseClaudeResponse(responseText: string): ClaudeMatchResult[] {
 interface SemanticMatchOptions {
   limit?: number;
   party?: string;
+  parliament?: string;
   dryRun?: boolean;
   resume?: boolean;
   concurrency?: number;
 }
 
 export async function runSemanticMatching(options: SemanticMatchOptions = {}): Promise<void> {
-  const { party, dryRun = false, limit, resume = false, concurrency: concurrencyOpt } = options;
+  const { party, parliament, dryRun = false, limit, resume = false, concurrency: concurrencyOpt } = options;
+
+  // Resolve parliament if specified
+  let parliamentRecord: { id: string; name: string; slug: string } | null = null;
+  if (parliament) {
+    parliamentRecord = await prisma.parliament.findUnique({
+      where: { slug: parliament },
+      select: { id: true, name: true, slug: true },
+    });
+    if (!parliamentRecord) {
+      throw new Error(`Parliament not found: ${parliament}. Use slug like "amsterdam", "den-haag", or "tweede-kamer".`);
+    }
+    console.log(`🏛  Scoped to parliament: ${parliamentRecord.name} (${parliamentRecord.slug})`);
+  }
+
+  // Use parliament-specific progress file
+  const progressFilePath = getProgressFilePath(parliament);
 
   // Initialize AI client (OpenRouter or direct Anthropic)
   const model = getModel('semantic-match');
@@ -363,8 +402,8 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
     ai = createAIClient();
   }
 
-  // Load or initialize progress
-  const progress = resume ? loadProgress() : {
+  // Load or initialize progress (from parliament-specific file)
+  const progress = resume ? loadProgressFrom(progressFilePath) : {
     processedPromiseIds: [] as string[],
     totalProcessed: 0,
     totalMatches: 0,
@@ -385,26 +424,28 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
   console.log(`  Provider: ${ai?.provider || 'dry-run'} (${ai?.baseUrl || 'n/a'})`);
   console.log(`  Model:    ${modelShortName(model)}`);
   console.log(`  Method:   ${MATCH_METHOD} (${ALGORITHM_VERSION})`);
+  console.log(`  Parliamt: ${parliamentRecord?.name || 'all (global)'}`);
   console.log(`  Party:    ${party || 'all'}`);
   console.log(`  Limit:    ${limit || 'all'}`);
   console.log(`  Parallel: ${concurrencyOpt || CONCURRENCY} promises concurrently`);
   console.log(`  Dry run:  ${dryRun}`);
   console.log(`  Resume:   ${resume} (${processedSet.size} already processed)`);
+  console.log(`  Progress: ${progressFilePath}`);
   console.log(`═══════════════════════════════════════════════════════\n`);
 
   // 1. Load promises
   const partyNames = party ? (PARTY_ALIASES[party] || [party]) : undefined;
 
+  const promiseWhere: any = {};
+  if (partyNames) {
+    promiseWhere.program = { ...promiseWhere.program, party: { abbreviation: { in: partyNames } } };
+  }
+  if (parliamentRecord) {
+    promiseWhere.program = { ...promiseWhere.program, parliamentId: parliamentRecord.id };
+  }
+
   const allPromises = await prisma.promise.findMany({
-    where: partyNames
-      ? {
-          program: {
-            party: {
-              abbreviation: { in: partyNames },
-            },
-          },
-        }
-      : undefined,
+    where: Object.keys(promiseWhere).length > 0 ? promiseWhere : undefined,
     include: {
       program: {
         select: {
@@ -459,12 +500,15 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
     const partyAbbr = promise.program.party.abbreviation;
 
     // Find candidate motions via keyword pre-filter
-    const candidates = await findCandidateMotions({
-      text: promise.text,
-      summary: promise.summary,
-      keywords: promise.keywords,
-      theme: promise.theme,
-    });
+    const candidates = await findCandidateMotions(
+      {
+        text: promise.text,
+        summary: promise.summary,
+        keywords: promise.keywords,
+        theme: promise.theme,
+      },
+      parliamentRecord?.id,
+    );
 
     progress.totalCandidates += candidates.length;
 
@@ -638,7 +682,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
 
     // Save progress & log periodically
     if (promisesProcessed % PROGRESS_SAVE_INTERVAL === 0) {
-      saveProgress(progress);
+      saveProgressTo(progress, progressFilePath);
 
       // Calculate ETA
       const elapsedMs = Date.now() - startTime;
@@ -669,7 +713,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
   await Promise.all(tasks);
 
   // Final save
-  saveProgress(progress);
+  saveProgressTo(progress, progressFilePath);
 
   // Calculate duration
   const totalDurationMs = Date.now() - startTime;
@@ -693,7 +737,7 @@ export async function runSemanticMatching(options: SemanticMatchOptions = {}): P
   console.log(`  API calls made:            ${progress.totalApiCalls.toLocaleString()}`);
   console.log(`  Errors (logged):           ${progress.errors.length}`);
   console.log(`  Session duration:          ${totalDuration}`);
-  console.log(`  Checkpoint file:           ${PROGRESS_FILE}`);
+  console.log(`  Checkpoint file:           ${progressFilePath}`);
   console.log(`═════════════════════════════════\n`);
 
   await prisma.$disconnect();
@@ -713,6 +757,7 @@ if (
 
   runSemanticMatching({
     party: getArg('--party'),
+    parliament: getArg('--parliament'),
     limit: getArg('--limit') ? parseInt(getArg('--limit')!) : undefined,
     dryRun: args.includes('--dry-run'),
     resume: args.includes('--resume'),
