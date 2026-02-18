@@ -301,7 +301,7 @@ export async function computeScorecards(opts: {
         JOIN programs prog ON p.program_id = prog.id
         WHERE prog.election_year = ANY(${years})
           AND prog.program_type = 'VERKIEZINGSPROGRAMMA'
-          AND prog.parliament_id = ${parliamentRecord.id}
+          AND prog.parliament_id = ${parliamentRecord.id}::uuid
       `
     : await prisma.$queryRaw<{ party_id: string; election_year: number }[]>`
         SELECT DISTINCT prog.party_id, prog.election_year
