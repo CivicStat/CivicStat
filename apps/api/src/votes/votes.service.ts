@@ -7,12 +7,17 @@ interface VoteListParams {
   result?: string; // "Aangenomen" or "Verworpen"
   limit: number;
   offset: number;
+  parliamentId?: string; // Filter by parliament scope
 }
 
 @Injectable()
 export class VotesService {
-  async list({ query, party, result, limit, offset }: VoteListParams) {
+  async list({ query, party, result, limit, offset, parliamentId }: VoteListParams) {
     const where: any = {};
+
+    if (parliamentId) {
+      where.parliamentId = parliamentId;
+    }
 
     if (query) {
       where.title = { contains: query, mode: "insensitive" };

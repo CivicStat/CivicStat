@@ -3,17 +3,23 @@ import { prisma } from "@ntp/db";
 
 @Injectable()
 export class PartiesService {
-  async list() {
+  async list(params?: { parliamentId?: string }) {
+    const where: any = {};
+
+    if (params?.parliamentId) {
+      // For parliament-scoped queries, just filter by parliamentId
+      where.parliamentId = params.parliamentId;
+    } else {
+      // Default: show active parties (backward compat for TK)
+      where.OR = [
+        { endDate: null },
+        { endDate: { gte: new Date() } },
+        { programs: { some: { electionYear: 2023 } } },
+      ];
+    }
+
     const parties = await prisma.party.findMany({
-      where: {
-        OR: [
-          // Active parties (no end date or end date in future)
-          { endDate: null },
-          { endDate: { gte: new Date() } },
-          // Parties with a 2023 program (current parliamentary term)
-          { programs: { some: { electionYear: 2023 } } },
-        ],
-      },
+      where,
       orderBy: { abbreviation: "asc" },
       include: {
         _count: {

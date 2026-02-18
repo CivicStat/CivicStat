@@ -11,14 +11,19 @@ interface MotionListParams {
   hasPromiseMatches?: boolean;
   limit: number;
   offset: number;
+  parliamentId?: string; // Filter by parliament scope
 }
 
 @Injectable()
 export class MotionsService {
   constructor(private readonly predictionsService: PredictionsService) {}
 
-  async list({ query, party, status, result, hasVotes, hasPromiseMatches, limit, offset }: MotionListParams) {
+  async list({ query, party, status, result, hasVotes, hasPromiseMatches, limit, offset, parliamentId }: MotionListParams) {
     const where: any = {};
+
+    if (parliamentId) {
+      where.parliamentId = parliamentId;
+    }
 
     if (query) {
       where.OR = [

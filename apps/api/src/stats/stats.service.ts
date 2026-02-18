@@ -3,7 +3,9 @@ import { prisma } from "@ntp/db";
 
 @Injectable()
 export class StatsService {
-  async getStats() {
+  async getStats(params?: { parliamentId?: string }) {
+    const pFilter = params?.parliamentId ? { parliamentId: params.parliamentId } : {};
+
     const [
       promises,
       motions,
@@ -17,25 +19,38 @@ export class StatsService {
       members,
       programs,
     ] = await Promise.all([
-      prisma.promise.count(),
-      prisma.motion.count(),
-      prisma.vote.count(),
-      prisma.voteRecord.count(),
-      prisma.promiseMotionMatch.count(),
-      prisma.promiseMotionMatch.count({
-        where: { matchMethod: { startsWith: "keyword" } },
+      prisma.promise.count({ where: { program: pFilter } }),
+      prisma.motion.count({ where: pFilter }),
+      prisma.vote.count({ where: pFilter }),
+      prisma.voteRecord.count({
+        where: params?.parliamentId ? { vote: pFilter } : {},
       }),
       prisma.promiseMotionMatch.count({
-        where: { matchMethod: "semantic-claude" },
+        where: params?.parliamentId ? { motion: pFilter } : {},
       }),
       prisma.promiseMotionMatch.count({
-        where: { matchMethod: "manual" },
+        where: {
+          matchMethod: { startsWith: "keyword" },
+          ...(params?.parliamentId ? { motion: pFilter } : {}),
+        },
+      }),
+      prisma.promiseMotionMatch.count({
+        where: {
+          matchMethod: "semantic-claude",
+          ...(params?.parliamentId ? { motion: pFilter } : {}),
+        },
+      }),
+      prisma.promiseMotionMatch.count({
+        where: {
+          matchMethod: "manual",
+          ...(params?.parliamentId ? { motion: pFilter } : {}),
+        },
       }),
       prisma.party.count({
-        where: { seats: { gt: 0 } },
+        where: params?.parliamentId ? pFilter : { seats: { gt: 0 } },
       }),
-      prisma.mp.count(),
-      prisma.program.count(),
+      prisma.mp.count({ where: pFilter }),
+      prisma.program.count({ where: pFilter }),
     ]);
 
     return {

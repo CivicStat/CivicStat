@@ -39,10 +39,12 @@ export type TaskRole = 'semantic-match' | 'extract' | 'extract-light';
  * When using direct Anthropic, the provider prefix is stripped automatically.
  */
 const DEFAULT_MODELS: Record<TaskRole, string> = {
-  'semantic-match': 'anthropic/claude-sonnet-4-20250514',
-  'extract':        'anthropic/claude-sonnet-4-20250514',
-  'extract-light':  'anthropic/claude-3-5-haiku-20241022',
+  'semantic-match': 'anthropic/claude-sonnet-4',
+  'extract':        'anthropic/claude-sonnet-4',
+  'extract-light':  'anthropic/claude-3.5-sonnet',
 };
+
+// Note: Set AI_MODEL_SEMANTIC_MATCH=anthropic/claude-opus-4 for higher quality matching
 
 /**
  * Resolve the model identifier for a given task role.

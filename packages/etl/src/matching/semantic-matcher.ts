@@ -79,10 +79,20 @@ function loadProgress(): ProgressState {
   try {
     const data = fs.readFileSync(PROGRESS_FILE, 'utf-8');
     const state = JSON.parse(data) as ProgressState;
-    // Ensure matchBreakdown exists (backward compat)
+    // Ensure all fields exist (backward compat with partial checkpoint files)
     if (!state.matchBreakdown) {
       state.matchBreakdown = { explicit: 0, implicit: 0, contradicts: 0 };
     }
+    if (!state.errors) {
+      state.errors = [];
+    }
+    if (!state.totalProcessed) state.totalProcessed = state.processedPromiseIds?.length ?? 0;
+    if (!state.totalMatches) state.totalMatches = 0;
+    if (!state.totalSkipped) state.totalSkipped = 0;
+    if (!state.totalApiCalls) state.totalApiCalls = 0;
+    if (!state.totalCandidates) state.totalCandidates = 0;
+    if (!state.startedAt) state.startedAt = new Date().toISOString();
+    if (!state.lastUpdatedAt) state.lastUpdatedAt = new Date().toISOString();
     return state;
   } catch {
     return {

@@ -85,6 +85,56 @@ enum ProgramType {
   REGEERAKKOORD
 }
 
+enum ParliamentLevel {
+  NATIONAL
+  MUNICIPAL
+  PROVINCIAL
+  EUROPEAN
+}
+
+model Parliament {
+  id               String          @id @default(uuid()) @db.Uuid
+  slug             String          @unique // "tweede-kamer", "amsterdam", "rotterdam", etc.
+  name             String // "Tweede Kamer der Staten-Generaal"
+  shortName        String          @map("short_name") // "Tweede Kamer"
+  level            ParliamentLevel
+  country          String          @default("NL")
+  municipality     String? // null for national, "amsterdam" etc. for municipal
+  seats            Int // 150 for TK, 45 for Amsterdam, etc.
+  active           Boolean         @default(true)
+  dataSourceConfig Json?           @map("data_source_config") // { type: "notubiz", orgId: 281 } etc.
+  createdAt        DateTime        @default(now()) @map("created_at")
+  updatedAt        DateTime        @updatedAt @map("updated_at")
+
+  parties    Party[]
+  mps        Mp[]
+  motions    Motion[]
+  votes      Vote[]
+  programs   Program[]
+  scorecards PrecomputedScorecard[]
+  branches   PartyBranch[]
+
+  @@map("parliaments")
+}
+
+model PartyBranch {
+  id              String  @id @default(uuid()) @db.Uuid
+  partyId         String  @map("party_id") @db.Uuid
+  nationalPartyId String? @map("national_party_id") @db.Uuid
+  parliamentId    String  @map("parliament_id") @db.Uuid
+  localName       String? @map("local_name") // e.g. "GroenLinks Amsterdam"
+  seats           Int?
+  isCoalition     Boolean @default(false) @map("is_coalition")
+  createdAt       DateTime @default(now()) @map("created_at")
+
+  party         Party      @relation("LocalPartyBranch", fields: [partyId], references: [id])
+  nationalParty Party?     @relation("NationalPartyBranch", fields: [nationalPartyId], references: [id])
+  parliament    Parliament @relation(fields: [parliamentId], references: [id])
+
+  @@unique([partyId, parliamentId])
+  @@map("party_branches")
+}
+
 model Party {
   id              String    @id @default(uuid()) @db.Uuid
   tkId            String?   @unique @map("tk_id") // Tweede Kamer Fractie ID
@@ -96,22 +146,28 @@ model Party {
   seatsUpdatedAt  DateTime? @map("seats_updated_at") // When seat count was last synced
   startDate       DateTime? @map("start_date")
   endDate         DateTime? @map("end_date")
+  parliamentId    String?   @map("parliament_id") @db.Uuid
+  externalId      String?   @map("external_id") // NotuBiz/iBabs party ID
+  sourceSystem    String?   @map("source_system") // "tweedekamer" | "notubiz" | "ibabs"
   createdAt       DateTime  @default(now()) @map("created_at")
   updatedAt       DateTime  @updatedAt @map("updated_at")
 
+  parliament       Parliament? @relation(fields: [parliamentId], references: [id])
   mps              Mp[]
   programs         Program[]
   motionMatches    MotionProgramMatch[]
   voteRecords      VoteRecord[]
   partyPredictions PartyPrediction[]
   scorecards       PrecomputedScorecard[]
+  localBranches    PartyBranch[] @relation("LocalPartyBranch")
+  nationalBranches PartyBranch[] @relation("NationalPartyBranch")
 
   @@map("parties")
 }
 
 model Mp {
   id             String           @id @default(uuid()) @db.Uuid
-  tkId           String           @unique @map("tk_id") // Tweede Kamer Persoon ID
+  tkId           String           @unique @map("tk_id") // Tweede Kamer Persoon ID (also used as external ID for municipal)
   name           String
   initials       String?
   prefix         String? // tussenvoegsel (van, de, etc.)
@@ -122,9 +178,13 @@ model Mp {
   startDate      DateTime         @map("start_date")
   endDate        DateTime?        @map("end_date")
   verifiedStatus MpVerifiedStatus @default(UNVERIFIED) @map("verified_status")
+  parliamentId   String?          @map("parliament_id") @db.Uuid
+  externalId     String?          @map("external_id") // NotuBiz person ID, iBabs user ID
+  sourceSystem   String?          @map("source_system") // "tweedekamer" | "notubiz" | "ibabs"
   createdAt      DateTime         @default(now()) @map("created_at")
   updatedAt      DateTime         @updatedAt @map("updated_at")
 
+  parliament    Parliament?     @relation(fields: [parliamentId], references: [id])
   party         Party           @relation(fields: [partyId], references: [id])
   sponsors      MotionSponsor[]
   voteRecords   VoteRecord[]
@@ -135,7 +195,7 @@ model Mp {
 
 model Motion {
   id             String   @id @default(uuid()) @db.Uuid
-  tkId           String   @unique @map("tk_id") // Tweede Kamer Besluit ID
+  tkId           String   @unique @map("tk_id") // Tweede Kamer Besluit ID (or external ID for municipal)
   tkNumber       String?  @map("tk_number") // Kamerstukdossier nummer
   title          String
   text           String   @db.Text
@@ -145,10 +205,14 @@ model Motion {
   statusDetail   String?  @map("status_detail")
   soort          String? // Type besluit (motie, amendement, etc.)
   sourceUrl      String   @map("source_url")
-  rawData        Json?    @map("raw_data") // Originele TK data
+  rawData        Json?    @map("raw_data") // Originele TK/NotuBiz/iBabs data
+  parliamentId   String?  @map("parliament_id") @db.Uuid
+  externalId     String?  @map("external_id") // NotuBiz module_item ID, iBabs EntryId
+  sourceSystem   String?  @map("source_system") // "tweedekamer" | "notubiz" | "ibabs"
   createdAt      DateTime @default(now()) @map("created_at")
   updatedAt      DateTime @updatedAt @map("updated_at")
 
+  parliament     Parliament? @relation(fields: [parliamentId], references: [id])
   sponsors       MotionSponsor[]
   matches        MotionProgramMatch[]
   promiseMatches PromiseMotionMatch[]
@@ -172,7 +236,7 @@ model MotionSponsor {
 
 model Vote {
   id           String   @id @default(uuid()) @db.Uuid
-  tkId         String   @unique @map("tk_id") // Tweede Kamer Stemming ID
+  tkId         String   @unique @map("tk_id") // Tweede Kamer Stemming ID (or generated ID for municipal)
   motionId     String?  @map("motion_id") @db.Uuid
   date         DateTime
   title        String
@@ -182,11 +246,13 @@ model Vote {
   totalAbstain Int      @default(0) @map("total_abstain")
   sourceUrl    String   @map("source_url")
   rawData      Json?    @map("raw_data")
+  parliamentId String?  @map("parliament_id") @db.Uuid
   createdAt    DateTime @default(now()) @map("created_at")
   updatedAt    DateTime @updatedAt @map("updated_at")
 
-  motion  Motion?      @relation(fields: [motionId], references: [id])
-  records VoteRecord[]
+  parliament Parliament? @relation(fields: [parliamentId], references: [id])
+  motion     Motion?      @relation(fields: [motionId], references: [id])
+  records    VoteRecord[]
 
   @@map("votes")
 }
@@ -224,9 +290,12 @@ model Program {
   createdAt          DateTime    @default(now()) @map("created_at")
   updatedAt          DateTime    @updatedAt @map("updated_at")
 
-  party    Party            @relation(fields: [partyId], references: [id])
-  passages ProgramPassage[]
-  promises Promise[]
+  party        Party            @relation(fields: [partyId], references: [id])
+  parliament   Parliament?      @relation(fields: [parliamentId], references: [id])
+  passages     ProgramPassage[]
+  promises     Promise[]
+
+  parliamentId String?  @map("parliament_id") @db.Uuid
 
   @@unique([partyId, electionYear, programType])
   @@map("programs")
@@ -496,6 +565,9 @@ model PrecomputedScorecard {
   algorithmVersion String      @default("keyword-v2") @map("algorithm_version")
 
   party            Party       @relation(fields: [partyId], references: [id])
+  parliament       Parliament? @relation(fields: [parliamentId], references: [id])
+
+  parliamentId     String?     @map("parliament_id") @db.Uuid
 
   @@unique([partyId, electionYear, programType])
   @@index([electionYear])

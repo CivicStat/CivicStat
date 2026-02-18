@@ -2,7 +2,8 @@
   "name": "@ntp/api",
   "private": true,
   "scripts": {
-    "dev": "node --watch --loader ts-node/esm src/main.ts",
+    "dev": "tsc -p tsconfig.build.json && node --watch dist/main.js",
+    "dev:build": "tsc -p tsconfig.build.json",
     "build": "tsc -p tsconfig.build.json",
     "start": "node dist/main.js",
     "lint": "echo 'No lint yet'",
@@ -18,6 +19,9 @@
     "rxjs": "^7.8.1"
   },
   "devDependencies": {
+    "@swc-node/register": "^1.11.1",
+    "@swc/cli": "^0.8.0",
+    "@swc/core": "^1.15.11",
     "@types/node": "^20.14.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"

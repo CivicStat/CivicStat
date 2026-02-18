@@ -171,7 +171,14 @@ export async function matchPromisesToMotions(options: MatchOptions = {}): Promis
     } : undefined,
     include: {
       program: {
-        include: { party: true },
+        select: {
+          id: true,
+          partyId: true,
+          electionYear: true,
+          programType: true,
+          title: true,
+          party: true,
+        },
       },
     },
   });

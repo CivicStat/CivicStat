@@ -276,14 +276,16 @@ async function storeProgram(
   // Upsert Program record
   const program = await prisma.program.upsert({
     where: {
-      partyId_electionYear: {
+      partyId_electionYear_programType: {
         partyId: party.id,
         electionYear: year,
+        programType: 'VERKIEZINGSPROGRAMMA',
       },
     },
     create: {
       partyId: party.id,
       electionYear: year,
+      programType: 'VERKIEZINGSPROGRAMMA',
       title: entry.title || '',
       sourceUrl: entry.dnppUrl || entry.pdfUrl || '',
       secondarySourceUrl: entry.secondaryUrl,

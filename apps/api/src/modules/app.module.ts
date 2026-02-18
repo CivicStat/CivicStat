@@ -9,6 +9,7 @@ import { AdminModule } from "../admin/admin.module";
 import { StatsModule } from "../stats/stats.module";
 import { LangfuseModule } from "../langfuse/langfuse.module";
 import { InsightsModule } from "../insights/insights.module";
+import { ParliamentModule } from "../parliament/parliament.module";
 
 @Module({
   imports: [
@@ -22,6 +23,7 @@ import { InsightsModule } from "../insights/insights.module";
     StatsModule,
     LangfuseModule,
     InsightsModule,
+    ParliamentModule,
   ],
 })
 export class AppModule {}

@@ -128,11 +128,12 @@ async function findParty(abbreviation: string) {
 
 // ─── Find Program ───────────────────────────────────────────────
 
-async function findProgram(partyId: string, year: number) {
+async function findProgram(partyId: string, year: number, programType: string = 'VERKIEZINGSPROGRAMMA') {
   return prisma.program.findFirst({
     where: {
       partyId,
       electionYear: year,
+      programType: programType as any,
     },
   });
 }

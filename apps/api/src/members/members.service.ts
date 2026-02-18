@@ -2,15 +2,24 @@ import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
 interface MembersListParams {
-  q?: string;
+  query?: string;
+  q?: string; // alias for query (backward compat)
   party?: string;
   active?: boolean;
+  limit?: number;
+  offset?: number;
+  parliamentId?: string; // Filter by parliament scope
 }
 
 @Injectable()
 export class MembersService {
-  async list({ q, party, active = true }: MembersListParams) {
+  async list({ q, query, party, active = true, limit, offset, parliamentId }: MembersListParams) {
+    const searchTerm = query || q;
     const where: any = {};
+
+    if (parliamentId) {
+      where.parliamentId = parliamentId;
+    }
 
     if (active) {
       where.AND = where.AND || [];
@@ -19,14 +28,14 @@ export class MembersService {
       });
     }
 
-    if (q) {
+    if (searchTerm) {
       where.AND = where.AND || [];
       where.AND.push({
         OR: [
-          { name: { contains: q, mode: "insensitive" } },
-          { surname: { contains: q, mode: "insensitive" } },
-          { party: { abbreviation: { contains: q, mode: "insensitive" } } },
-          { party: { name: { contains: q, mode: "insensitive" } } },
+          { name: { contains: searchTerm, mode: "insensitive" } },
+          { surname: { contains: searchTerm, mode: "insensitive" } },
+          { party: { abbreviation: { contains: searchTerm, mode: "insensitive" } } },
+          { party: { name: { contains: searchTerm, mode: "insensitive" } } },
         ],
       });
     }
