@@ -80,9 +80,13 @@ function mapSpecificity(input: string): string {
 // ─── Theme Mapping (passthrough, but validate) ──────────────────
 
 const VALID_THEMES = new Set([
+  // National
   'DEFENSIE', 'WONEN', 'MIGRATIE', 'KLIMAAT', 'ZORG',
   'ONDERWIJS', 'ECONOMIE', 'VEILIGHEID', 'BESTUUR', 'SOCIAAL',
   'LANDBOUW', 'BUITENLAND',
+  // Municipal
+  'VERKEER', 'GROEN_KLIMAAT', 'CULTUUR_SPORT', 'JEUGD',
+  'OPENBARE_RUIMTE', 'FINANCIEN', 'DIVERSITEIT',
 ]);
 
 function mapTheme(input: string): string {

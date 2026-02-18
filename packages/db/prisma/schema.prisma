@@ -54,6 +54,7 @@ enum SourceType {
 }
 
 enum PromiseTheme {
+  // National themes
   DEFENSIE
   WONEN
   MIGRATIE
@@ -66,6 +67,14 @@ enum PromiseTheme {
   SOCIAAL
   LANDBOUW
   BUITENLAND
+  // Municipal themes (added for gemeenteraden)
+  VERKEER
+  GROEN_KLIMAAT
+  CULTUUR_SPORT
+  JEUGD
+  OPENBARE_RUIMTE
+  FINANCIEN
+  DIVERSITEIT
 }
 
 enum PromiseSpecificity {

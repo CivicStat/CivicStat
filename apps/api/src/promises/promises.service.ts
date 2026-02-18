@@ -15,12 +15,13 @@ interface ListOptions {
   theme?: string;
   limit?: number;
   offset?: number;
+  parliamentId?: string;
 }
 
 @Injectable()
 export class PromisesService {
   async list(options: ListOptions = {}) {
-    const { q, party, year, theme, limit = 50, offset = 0 } = options;
+    const { q, party, year, theme, limit = 50, offset = 0, parliamentId } = options;
 
     const where: any = {};
 
@@ -44,6 +45,13 @@ export class PromisesService {
       where.program = {
         ...where.program,
         electionYear: year,
+      };
+    }
+
+    if (parliamentId) {
+      where.program = {
+        ...where.program,
+        parliamentId,
       };
     }
 
@@ -305,24 +313,56 @@ export class PromisesService {
     };
   }
 
-  async stats() {
+  async stats(parliamentId?: string) {
+    const parlWhere = parliamentId
+      ? { program: { parliamentId } }
+      : {};
+    const parlMatchWhere = parliamentId
+      ? { promise: { program: { parliamentId } } }
+      : {};
+
+    const byPartyQuery = parliamentId
+      ? prisma.$queryRawUnsafe(
+          `SELECT p2.abbreviation, p2.name, COUNT(p.id)::int as count
+           FROM promises p
+           JOIN programs pr ON p.program_id = pr.id
+           JOIN parties p2 ON pr.party_id = p2.id
+           WHERE pr.parliament_id = $1::uuid
+           GROUP BY p2.abbreviation, p2.name
+           ORDER BY count DESC`,
+          parliamentId
+        )
+      : prisma.$queryRaw`
+          SELECT p2.abbreviation, p2.name, COUNT(p.id)::int as count
+          FROM promises p
+          JOIN programs pr ON p.program_id = pr.id
+          JOIN parties p2 ON pr.party_id = p2.id
+          GROUP BY p2.abbreviation, p2.name
+          ORDER BY count DESC
+        `;
+
+    const byThemeQuery = parliamentId
+      ? prisma.$queryRawUnsafe(
+          `SELECT p.theme, COUNT(*)::int as count
+           FROM promises p
+           JOIN programs pr ON p.program_id = pr.id
+           WHERE pr.parliament_id = $1::uuid
+           GROUP BY p.theme
+           ORDER BY count DESC`,
+          parliamentId
+        )
+      : prisma.$queryRaw`
+          SELECT theme, COUNT(*)::int as count
+          FROM promises
+          GROUP BY theme
+          ORDER BY count DESC
+        `;
+
     const [totalPromises, totalMatches, byParty, byTheme] = await Promise.all([
-      prisma.promise.count(),
-      prisma.promiseMotionMatch.count(),
-      prisma.$queryRaw`
-        SELECT p2.abbreviation, p2.name, COUNT(p.id)::int as count
-        FROM promises p
-        JOIN programs pr ON p.program_id = pr.id
-        JOIN parties p2 ON pr.party_id = p2.id
-        GROUP BY p2.abbreviation, p2.name
-        ORDER BY count DESC
-      ` as Promise<{ abbreviation: string; name: string; count: number }[]>,
-      prisma.$queryRaw`
-        SELECT theme, COUNT(*)::int as count
-        FROM promises
-        GROUP BY theme
-        ORDER BY count DESC
-      ` as Promise<{ theme: string; count: number }[]>,
+      prisma.promise.count({ where: parlWhere }),
+      prisma.promiseMotionMatch.count({ where: parlMatchWhere }),
+      byPartyQuery as Promise<{ abbreviation: string; name: string; count: number }[]>,
+      byThemeQuery as Promise<{ theme: string; count: number }[]>,
     ]);
 
     return {

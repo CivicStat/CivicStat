@@ -39,6 +39,9 @@ import { syncSeats } from './scripts/sync-seats.js';
 import { runSemanticMatching } from './matching/semantic-matcher.js';
 import { runIncrementalMatch } from './matching/incremental-match.js';
 import { initLangfuse, shutdownLangfuse } from './lib/langfuse.js';
+import { parseMunicipalPrograms } from './scripts/parse-municipal-programs.js';
+import { extractMunicipalPromises } from './scripts/extract-municipal-promises.js';
+import { seedMunicipalPromises } from './scripts/seed-municipal-promises.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -376,6 +379,38 @@ async function main() {
         break;
       }
 
+      case 'parse-municipal':
+      case 'parse-municipal-programs': {
+        const pmcCity = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : undefined;
+        const pmcParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        await parseMunicipalPrograms({ city: pmcCity, party: pmcParty });
+        break;
+      }
+
+      case 'extract-municipal':
+      case 'extract-municipal-promises': {
+        const emcCity = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : undefined;
+        const emcParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const emcDryRun = args.includes('--dry-run');
+        initLangfuse();
+        try {
+          await extractMunicipalPromises({ city: emcCity, party: emcParty, dryRun: emcDryRun });
+        } finally {
+          await shutdownLangfuse();
+        }
+        break;
+      }
+
+      case 'seed-municipal':
+      case 'seed-municipal-promises': {
+        const smcCity = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : undefined;
+        const smcParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const smcDryRun = args.includes('--dry-run');
+        const smcReplace = args.includes('--replace');
+        await seedMunicipalPromises({ city: smcCity, party: smcParty, dryRun: smcDryRun, replace: smcReplace });
+        break;
+      }
+
       default:
         console.log('Usage:');
         console.log('  npm run ingest fracties          - Ingest all fracties (parties)');
@@ -466,6 +501,21 @@ async function main() {
         console.log('  npm run ingest incremental-match --dry-run             - Preview candidates (no API calls)');
         console.log('  npm run ingest incremental-match --limit 10            - Process first 10 unmatched motions');
         console.log('  npm run ingest incremental-match --max-cost 5.00       - Set max cost in dollars (default: $5)');
+        console.log('');
+        console.log('  --- Municipal Promise Pipeline ---');
+        console.log('  npm run ingest parse-municipal                         - Parse all municipal PDFs to JSON');
+        console.log('  npm run ingest parse-municipal --city amsterdam         - Parse only Amsterdam');
+        console.log('  npm run ingest parse-municipal --party PvdA             - Parse only PvdA');
+        console.log('  npm run ingest extract-municipal                        - Extract promises from all municipal programs (LLM)');
+        console.log('  npm run ingest extract-municipal --city amsterdam        - Extract only Amsterdam promises');
+        console.log('  npm run ingest extract-municipal --city den-haag         - Extract only Den Haag promises');
+        console.log('  npm run ingest extract-municipal --party PvdA            - Extract only PvdA promises');
+        console.log('  npm run ingest extract-municipal --dry-run               - Preview extraction (no API calls)');
+        console.log('  npm run ingest seed-municipal                            - Seed all municipal promises to DB');
+        console.log('  npm run ingest seed-municipal --city amsterdam            - Seed only Amsterdam');
+        console.log('  npm run ingest seed-municipal --party PvdA               - Seed only PvdA');
+        console.log('  npm run ingest seed-municipal --dry-run                  - Preview seeding');
+        console.log('  npm run ingest seed-municipal --replace                  - Delete existing before seeding');
         console.log('');
         console.log('  --- AI Provider (applies to all AI tasks) ---');
         console.log('  Set OPENROUTER_API_KEY in .env to use OpenRouter (recommended)');
