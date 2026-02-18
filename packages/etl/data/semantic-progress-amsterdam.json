@@ -1,0 +1,19 @@
+{
+  "processedPromiseIds": [
+    "00180a9f-fb0a-4db7-888a-65adbe03a200",
+    "005f6ab1-dfba-4d82-9a76-88d53c0e8641"
+  ],
+  "totalProcessed": 2,
+  "totalMatches": 0,
+  "totalSkipped": 0,
+  "matchBreakdown": {
+    "explicit": 0,
+    "implicit": 0,
+    "contradicts": 0
+  },
+  "totalApiCalls": 0,
+  "totalCandidates": 20,
+  "startedAt": "2026-02-18T11:25:38.510Z",
+  "lastUpdatedAt": "2026-02-18T11:25:39.327Z",
+  "errors": []
+}

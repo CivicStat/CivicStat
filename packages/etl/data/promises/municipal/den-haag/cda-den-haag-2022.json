@@ -1,0 +1,2183 @@
+{
+  "party": "CDA",
+  "partySlug": "cda",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Thuis in Den Haag",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 145,
+  "promises": [
+    {
+      "promiseCode": "CDA-DH-2022-001",
+      "text": "Het CDA wil de gesloten stadsdeelloketten weer openen. Er komt daarbij een loket voor burgers die zichzelf niet kunnen redden in het contact met de gemeente en uitvoeringsorganisaties.",
+      "summary": "Heropening gesloten stadsdeelloketten en nieuw loket voor kwetsbare burgers",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdeelloketten",
+        "burgerservice",
+        "kwetsbare burgers",
+        "gemeente",
+        "uitvoeringsorganisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 5",
+      "originalQuote": "Het CDA wil de gesloten stadsdeelloketten weer openen. Er komt daarbij een loket voor burgers die zichzelf niet kunnen redden in het contact met de gemeente en uitvoeringsorganisaties."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-002",
+      "text": "Het CDA wil de toegang tot het gemeentelijk meldpunt 14070 verbeteren. Dat betekent een einde aan de lange wachttijden. De app voor meldingen in de openbare ruimte wordt verder doorontwikkeld en de terugkoppeling van meldingen wordt verbeterd.",
+      "summary": "Verbetering meldpunt 14070: kortere wachttijden, betere app en terugkoppeling",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meldpunt",
+        "14070",
+        "wachttijden",
+        "app",
+        "openbare ruimte",
+        "terugkoppeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 5",
+      "originalQuote": "Het CDA wil de toegang tot het gemeentelijk meldpunt 14070 verbeteren. Dat betekent een einde aan de lange wachttijden. De onlangs geïntroduceerde app maakt meldingen in de openbare ruimte makkelijker en wordt verder doorontwikkeld. Ook de terugkoppeling van een melding dient te worden verbeterd."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-003",
+      "text": "Het CDA wil wijkgebonden organisaties betrekken bij deradicaliseringsprogramma's, waarbij verwezen wordt naar voorbeelden zoals Avrasya en Oumnia Works die moeders in de Schilderswijk helpen bij het herkennen van radicalisering.",
+      "summary": "Wijkorganisaties betrekken bij deradicaliseringsprogramma's",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkorganisaties",
+        "deradicaliseringsprogramma's",
+        "schilderswijk",
+        "radicalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 8",
+      "originalQuote": "Het CDA wil dat wijkgebonden organisaties betrokken worden bij deradicaliseringsprogramma's. Goede voorbeelden zijn Avrasya en Oumnia Works, waarbij moeders in de Schilderswijk geholpen worden bij het herkennen van radicalisering en handvatten krijgen voor hulp."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-004",
+      "text": "Het CDA staat voor zorgfinanciering waarin de mens centraal staat, zoals het persoonsgebonden budget of een vouchersysteem waarmee zorg kan worden ingekocht.",
+      "summary": "Invoering persoonsgebonden budget of vouchersysteem voor zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgfinanciering",
+        "persoonsgebonden budget",
+        "vouchersysteem",
+        "zorginkoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 8",
+      "originalQuote": "Het CDA staat voor zorgfinanciering waarin de mens centraal staat, zoals het persoonsgebonden budget of een vouchersysteem waarmee zorg kan worden ingekocht."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-005",
+      "text": "Er komt een laagdrempelige hulppost die mensen helpt met hun aanvragen bij de gemeente en de daarbij behorende formulieren.",
+      "summary": "Laagdrempelige hulppost voor aanvragen en formulieren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hulppost",
+        "aanvragen",
+        "formulieren",
+        "laagdrempelig"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 13",
+      "originalQuote": "Er moet een laagdrempelige hulppost komen die mensen helpt met hun aanvragen en de daarbij in te vullen formulieren."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-006",
+      "text": "Het aantal crisisplaatsen in de geestelijke gezondheidszorg moet snel kunnen opschalen door meer capaciteit te creëren.",
+      "summary": "Opschaling crisisplaatsen GGZ door meer capaciteit",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "crisisplaatsen",
+        "ggz",
+        "capaciteit",
+        "opschaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 14",
+      "originalQuote": "Het aantal crisisplaatsen moet snel op kunnen schalen, waarvoor meer capaciteit nodig is."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-007",
+      "text": "Het aanbod voor respijtzorg wordt behouden en versterkt, en de aanvraagprocedure wordt eenvoudiger gemaakt.",
+      "summary": "Behoud en versterking respijtzorg met eenvoudiger aanvragen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "respijtzorg",
+        "aanbod",
+        "aanvraag",
+        "mantelzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 15",
+      "originalQuote": "Het CDA wil het aanbod voor respijtzorg behouden en verstevigen. Ook de aanvraag hiervan moet eenvoudiger."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-008",
+      "text": "Het CDA wil dat mantelzorgers gratis kunnen parkeren bij het huis van degene die zij verzorgen.",
+      "summary": "Gratis parkeren voor mantelzorgers bij zorgadressen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mantelzorgers",
+        "gratis",
+        "parkeren",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 12",
+      "originalQuote": "Het CDA wil dat mantelzorgers gratis kunnen parkeren bij het huis van degene die zij verzorgen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-009",
+      "text": "Een deel van het WMO-budget moet ingezet worden om vereenzaming tegen te gaan. Wensen van ouderen zelf zijn hierbij leidend.",
+      "summary": "WMO-budget inzetten tegen vereenzaming ouderen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wmo-budget",
+        "vereenzaming",
+        "ouderen",
+        "wensen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 12",
+      "originalQuote": "Een deel van het WMO-budget moet ingezet worden om vereenzaming tegen te gaan. Wensen van ouderen zelf zijn hierbij leidend."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-010",
+      "text": "Den Haag moet een dementievriendelijke stad worden waarbij de gemeente zich inzet om mensen met dementie zo lang mogelijk mee te laten doen in de samenleving.",
+      "summary": "Den Haag wordt dementievriendelijke stad met participatiebeleid",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dementievriendelijke",
+        "stad",
+        "participatie",
+        "samenleving",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 13",
+      "originalQuote": "Het CDA wil dat Den Haag een dementievriendelijke stad wordt. De gemeente moet zich inzetten om mensen met dementie zo lang mogelijk mee te laten doen in de samenleving."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-011",
+      "text": "Extra aandacht voor meldingen en aangiftes van ouderen die kwetsbaar zijn voor oplichting en kleine criminaliteit.",
+      "summary": "Extra aandacht voor meldingen en aangiftes van ouderen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouderen",
+        "meldingen",
+        "aangiftes",
+        "oplichting",
+        "criminaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 13",
+      "originalQuote": "Ouderen zijn extra kwetsbaar voor oplichting en kleine criminaliteit. Daarom is er extra aandacht voor meldingen en aangiftes van ouderen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-012",
+      "text": "Ondersteuning voor werkenden die wel een baan hebben maar te weinig verdienen om normaal van te leven of door schulden in armoede leven.",
+      "summary": "Ondersteuning voor werkende armen en schuldenproblematiek",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkende",
+        "armen",
+        "ondersteuning",
+        "schulden",
+        "armoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 13",
+      "originalQuote": "Het CDA wil mensen ondersteunen die wel een baan hebben, maar te weinig verdienen om normaal van te leven of door schulden in armoede leven."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-013",
+      "text": "Permanente winteropvang voor daklozen moet gerealiseerd worden van november tot april, inclusief medische zorg en hulp voor verbetering van hun situatie.",
+      "summary": "Permanente winteropvang daklozen november-april met zorg",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "winteropvang",
+        "daklozen",
+        "medische zorg",
+        "opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 15",
+      "originalQuote": "Vanaf november tot april moet permanente winteropvang gerealiseerd worden voor daklozen. Hier moet ook medische zorg aanwezig zijn en hulp om hun situatie te verbeteren."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-014",
+      "text": "Wijkagenten moeten daadwerkelijk 80% van hun tijd aan hun wijk kunnen besteden en aanwezig zijn in de buurt en op straat.",
+      "summary": "Wijkagenten 80% tijd in eigen wijk besteden",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkagenten",
+        "wijkzorg",
+        "politie",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 15",
+      "originalQuote": "Het CDA wil dat wijkagenten daadwerkelijk 80% van de tijd aan hun wijk kunnen besteden. Wijkagenten moeten als ogen en oren van de buurt ook daadwerkelijk aanwezig zijn in de buurt en op straat."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-015",
+      "text": "De gemeente verhaalt alle kosten op daders van geweld tegen dienstverleners en hulpverleners, van ziekteverzuim tot slachtofferzorg.",
+      "summary": "Kostenverhaal op daders geweld tegen dienstverleners",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostenverhaal",
+        "geweld",
+        "dienstverleners",
+        "hulpverleners"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 15",
+      "originalQuote": "De gemeente verhaalt alle kosten op de daders, van ziekteverzuim tot slachtofferzorg."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-016",
+      "text": "Den Haag wordt gidsstad voor zwemveiligheid, waarbij het beleid zich meer richt op preventie door voorlichting over gevaarlijke mui, eb en vloed, naast het verbeteren van zwemvaardigheid.",
+      "summary": "Den Haag wordt gidsstad zwemveiligheid met focus op preventie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zwemveiligheid",
+        "gidsstad",
+        "preventie",
+        "voorlichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 18",
+      "originalQuote": "Den Haag wordt gidsstad ten aanzien van zwemveiligheid."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-017",
+      "text": "De aanpak van ondermijnende criminaliteit wordt versterkt, met specifieke aandacht voor bepaalde wijken zoals het gebied rond de Weimarstraat en de Zevensprong.",
+      "summary": "Versterkte aanpak ondermijnende criminaliteit, focus op Weimarstraat/Zevensprong",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondermijnende criminaliteit",
+        "weimarstraat",
+        "zevensprong",
+        "wijkaanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 18",
+      "originalQuote": "De aanpak van ondermijnende criminaliteit wordt versterkt. Er is specifiek aandacht voor bepaalde wijken zoals het gebied rond de Weimarstraat en de Zevensprong."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-018",
+      "text": "Het CDA wil de voorlichting aan jongeren over de gevaren van drugsgebruik versterken en een einde maken aan de normalisering en romantisering van drugs.",
+      "summary": "Versterkde voorlichting jongeren over gevaren drugsgebruik",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voorlichting",
+        "jongeren",
+        "drugsgebruik",
+        "preventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 20",
+      "originalQuote": "Het CDA wil de voorlichting aan jongeren over de gevaren van drugsgebruik versterken en een einde aan de normalisering en de romantisering van drugs inzetten."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-019",
+      "text": "Het CDA wil meer bekendheid van het lachgasverbod en strikte handhaving ervan in Den Haag.",
+      "summary": "Meer bekendheid en strikte handhaving lachgasverbod",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lachgasverbod",
+        "bekendheid",
+        "handhaving",
+        "drugsovertredingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 20",
+      "originalQuote": "Het CDA wil meer bekendheid van dit verbod én strikte handhaving ervan."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-020",
+      "text": "Het CDA wil dat shishalounges vergunningsplichtig worden.",
+      "summary": "Shishalounges vergunningsplichtig maken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "shishalounges",
+        "vergunningplicht",
+        "regulering",
+        "horeca"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 20",
+      "originalQuote": "Het CDA wil dat shishalounges vergunningsplichtig worden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-021",
+      "text": "Het stadsbestuur zorgt voor voldoende opvangmogelijkheden en voorlichtingsprogramma's voor zwerfjongeren en slachtoffers van huiselijk geweld, mensenhandel of loverboys.",
+      "summary": "Opvang en voorlichting voor zwerfjongeren en slachtoffers van geweld",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opvang",
+        "voorlichting",
+        "zwerfjongeren",
+        "huiselijk geweld",
+        "slachtoffers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 21",
+      "originalQuote": "Het stadsbestuur zorgt voor voldoende opvangmogelijkheden en voorlichtingsprogramma's voor zwerfjongeren en slachtoffers van huiselijk geweld, mensenhandel of loverboys."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-022",
+      "text": "Alle vormen van discriminatie worden bestreden.",
+      "summary": "Bestrijding van alle vormen van discriminatie",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "discriminatie",
+        "bestrijding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 21",
+      "originalQuote": "Alle vormen van discriminatie worden bestreden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-023",
+      "text": "Praktijken als eerwraak, vrouwenbesnijdenis of uithuwelijking worden bestreden. Vrije huwelijkskeuze en gelijkheid tussen man en vrouw is de norm.",
+      "summary": "Bestrijding eerwraak, vrouwenbesnijdenis en uithuwelijking",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eerwraak",
+        "vrouwenbesnijdenis",
+        "uithuwelijking",
+        "huwelijkskeuze",
+        "gelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 21",
+      "originalQuote": "Praktijken als eerwraak, vrouwenbesnijdenis of uithuwelijking worden bestreden. Vrije huwelijkskeuze en gelijkheid tussen man en vrouw is de norm."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-024",
+      "text": "De gemeente moet preventief optreden bij vermeende haatprediking.",
+      "summary": "Preventief optreden bij haatprediking",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventie",
+        "haatprediking",
+        "gemeente",
+        "optreden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 22",
+      "originalQuote": "De gemeente moet wat het CDA betreft preventief optreden bij vermeende haatprediking."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-025",
+      "text": "De gemeente neemt een meer sturende rol in bij woningbouw, van marktwerking naar samenwerking tussen ontwikkelaar en gemeente.",
+      "summary": "Gemeente neemt sturender rol in woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeente",
+        "sturende rol",
+        "woningbouw",
+        "samenwerking",
+        "ontwikkelaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 22",
+      "originalQuote": "Het CDA wil daarom van marktwerking naar samenwerking tussen ontwikkelaar en gemeente. Het CDA wil dat de gemeente zelf een meer sturende rol inneemt."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-026",
+      "text": "Meer focus op betaalbare koop- en huurwoningen voor stadsgenoten met een modaal inkomen zoals leraren, verpleegkundigen en politieagenten.",
+      "summary": "Focus op betaalbare woningen voor middeninkomens",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "betaalbare woningen",
+        "modaal inkomen",
+        "koop",
+        "huur",
+        "middeninkomens"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 22",
+      "originalQuote": "Het CDA wil meer focus op betaalbare koop- en huurwoningen voor stadsgenoten met een modaal inkomen zoals de leraar, de verpleegkundige en de politieagent."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-027",
+      "text": "Bij nieuwbouwprojecten wordt een ambitieus bomen- en groenplan de norm. Geen kale appartementencomplexen met amper tot geen groen.",
+      "summary": "Ambitieus bomen- en groenplan wordt norm bij nieuwbouwprojecten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bomenplan",
+        "groenplan",
+        "nieuwbouwprojecten",
+        "appartementencomplexen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 26",
+      "originalQuote": "Het CDA wil dat een ambitieus bomen- en groenplan bij nieuwbouwprojecten de norm wordt. Geen kale appartementencomplexen met amper tot geen groen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-028",
+      "text": "In verhoogd tempo komen elektrische aansluitingen in wijken waar vraag naar is, zowel aan de openbare weg als in inpandige garages.",
+      "summary": "Verhoogd tempo elektrische aansluitingen in wijken waar vraag naar is",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "elektrische aansluitingen",
+        "wijken",
+        "openbare weg",
+        "inpandige garages"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 26",
+      "originalQuote": "in een verhoogd tempo elektrische aansluitingen komen in de wijken waar er vraag naar is. Deze worden gerealiseerd aan de openbare weg en in inpandige garages"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-029",
+      "text": "Het CDA pleit voor sloop en hernieuwbouw van verouderde woningen uit de wederopbouw van woningbouwcorporaties in Zuid-West, waarbij de gemeente samen met corporaties en commerciële bouwers nieuwe duurzame sociale huurwoningen en betaalbare koopwoningen voor de middenklasse realiseert.",
+      "summary": "Sloop en hernieuwbouw verouderde corporatiewoningen Zuid-West",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sloop",
+        "hernieuwbouw",
+        "corporatiewoningen",
+        "zuid-west",
+        "sociale huurwoningen",
+        "middenklasse"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet gespecificeerd",
+      "originalQuote": "Het CDA pleit voor sloop en hernieuwbouw van tochtige en verouderde woningen uit de wederopbouw van (uitsluitend) woningbouwcorporaties in Zuid-West. De gemeente moet samen met woningbouwcorporaties en commerciële woningbouwers de handen in één slaan om nieuwe duurzame sociale huurwoningen te realiseren, én betaalbare koopwoningen voor de middenklasse."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-030",
+      "text": "Het CDA wil opkoopbescherming invoeren in delen van de stad om te voorkomen dat particuliere beleggers woningen opkopen die bedoeld zijn om in te wonen.",
+      "summary": "Invoering opkoopbescherming in delen van de stad",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opkoopbescherming",
+        "particuliere beleggers",
+        "middenklasse"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet gespecificeerd",
+      "originalQuote": "Het CDA wil opkoopbescherming in delen van de stad. Een woning is om in te wonen en niet om mee te beleggen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-031",
+      "text": "Het CDA wil onderzoek naar zelfbewoningsplicht als maatregel tegen particuliere beleggers in Haagse woningen.",
+      "summary": "Onderzoek naar zelfbewoningsplicht tegen beleggers",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zelfbewoningsplicht",
+        "onderzoek",
+        "particuliere beleggers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet gespecificeerd",
+      "originalQuote": "onderzoek naar zelfbewoningsplicht"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-032",
+      "text": "Het CDA wil de regels voor kamerverhuur aan arbeidsmigranten verder aanscherpen.",
+      "summary": "Aanscherpen regels kamerverhuur arbeidsmigranten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kamerverhuur",
+        "arbeidsmigranten",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet gespecificeerd",
+      "originalQuote": "verder aanscherpen regels kamerverhuur (arbeidsmigranten)"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-033",
+      "text": "Het CDA wil de Haagse pandenbrigade versterken met extra capaciteit voor de aanpak van malafide verhuurders.",
+      "summary": "Versterking pandenbrigade met extra capaciteit",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandenbrigade",
+        "capaciteit",
+        "malafide verhuurders",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet gespecificeerd",
+      "originalQuote": "verder versterken Haagse pandenbrigade (extra capaciteit) in aanpak malafide verhuurders"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-034",
+      "text": "Sociale huurwoningen in bepaalde wijken kunnen worden verkocht door woningcorporaties, mits zij elders in de stad een sociale huurwoning terugbouwen via prestatieafspraken.",
+      "summary": "Verkoop sociale huur met compensatieplicht elders in stad",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale huurwoningen",
+        "verkoop",
+        "woningcorporaties",
+        "prestatieafspraken",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 28",
+      "originalQuote": "In prestatieafspraken met de woningcorporaties wordt het mogelijk om sociale huurwoningen in bepaalde wijken te verkopen, mits de woningcorporatie elders in de stad een sociale huurwoning hiervoor bouwt en terugbrengt."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-035",
+      "text": "Stevige afspraken worden gemaakt met woningcorporaties over verduurzaming van hun woningvoorraad, met focus op de slechtste woningen eerst via gebundelde aanpak.",
+      "summary": "Afspraken woningcorporaties over verduurzaming voorraad",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningcorporaties",
+        "verduurzaming",
+        "woningvoorraad",
+        "isolatie",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 28",
+      "originalQuote": "We maken stevige afspraken met de woningcorporaties over verduurzaming van hun voorraad."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-036",
+      "text": "40% van de vrije toewijzingsruimte wordt ingezet voor 'passend wonen' om doorstroming te bevorderen, waarbij ouderen tegen lage oude huurprijs kunnen doorstromen.",
+      "summary": "40% vrije toewijzing voor passend wonen doorstroming",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "passend wonen",
+        "doorstroming",
+        "toewijzingsruimte",
+        "ouderen",
+        "huurprijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 28",
+      "originalQuote": "Het CDA stelt voor 40% van de vrije toewijzingsruimte in Den Haag hiervoor in te zetten."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-037",
+      "text": "Verkamerverbod wordt voor 5 jaar opgeheven voor studentenhuisvesting, waarbij verkamering voor maximaal 6 studenten wordt toegestaan als proef.",
+      "summary": "5 jaar proef verkamering voor max 6 studenten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkamerverbod",
+        "studentenhuisvesting",
+        "proefperiode",
+        "verkamering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 28",
+      "originalQuote": "Verkamerverbod wordt, bij wijze van proef, opgeheven uitsluitend ten behoeve van studentenhuisvesting. Het verkameren van woningen en het huisvesten van maximaal 6 studenten wordt uitsluitend toegestaan voor de huisvesting van studenten voor een proefperiode van 5 jaar."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-038",
+      "text": "Bestaande subsidieregels voor woningverduurzaming worden vereenvoudigd en uitgebreid om inwoners beter te helpen bij individuele, stapsgewijze verduurzaming zoals isolatie.",
+      "summary": "Subsidieregels woningverduurzaming worden vereenvoudigd en uitgebreid",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidieregels",
+        "woningverduurzaming",
+        "isolatie",
+        "vereenvoudiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 30",
+      "originalQuote": "Bestaande subsidieregels worden vereenvoudigd en uitgebreid."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-039",
+      "text": "Het CDA wil een 'klimaatberaad' instellen waarin burgers kunnen participeren en het gemeentebestuur adviseren over het klimaatbeleid.",
+      "summary": "Instelling klimaatberaad voor burgerparticipatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatberaad",
+        "burgerparticipatie",
+        "klimaatbeleid",
+        "gemeentebestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Het CDA wil meer participatie van burgers bij het klimaatbeleid en pleit voor een 'klimaatberaad' waarin burgers kunnen participeren en het gemeentebestuur adviseren."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-040",
+      "text": "Bestaande subsidieregels voor woningisolatie worden uitgebreid en vereenvoudigd om woningcorporaties en huiseigenaren te stimuleren woningen beter te isoleren.",
+      "summary": "Uitbreiding en vereenvoudiging subsidieregels woningisolatie",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidieregels",
+        "woningisolatie",
+        "woningcorporaties",
+        "huiseigenaren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Woningcorporaties en huiseigenaren worden gestimuleerd om woningen beter te isoleren om warmte en energie te besparen. Bestaande subsidieregels worden daartoe uitgebreid en vereenvoudigd."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-041",
+      "text": "Het CDA wil een Isolatiefonds voor gemeente Den Haag instellen dat renteloze leningen verstrekt aan woningeigenaren die zelf in de woning wonen, als aanvulling op rijksmogelijkheden.",
+      "summary": "Instelling Isolatiefonds met renteloze leningen voor eigenaar-bewoners",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "isolatiefonds",
+        "renteloze leningen",
+        "woningeigenaren",
+        "eigenaar-bewoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Het CDA wil een Isolatiefonds voor de gemeente Den Haag. Dit fonds vult de mogelijkheden die de rijksoverheid biedt voor het isoleren van woningen aan door middel van renteloze leningen. Dit fonds is beschikbaar voor woningeigenaren die zelf in de woning wonen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-042",
+      "text": "De gemeente vergroot kennis over wateropvang en -benutting. Groene ruimte wordt ingezet voor waterinfiltratie en verkoeling. Woningeigenaren krijgen stimulering voor verbeterde afwatering via blauwe daken en tuinvergroening. Woonwijken en bedrijventerreinen worden klimaatadaptief ingericht door vervanging van asfalt door stenen wegen.",
+      "summary": "Klimaatadaptieve inrichting wijken en bedrijventerreinen, stimulering woningeigenaren",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wateropvang",
+        "klimaatadaptief",
+        "blauwe daken",
+        "tuinvergroening",
+        "bedrijventerreinen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 5",
+      "originalQuote": "Het CDA wil kennis bij de gemeente vergroten over het opvangen en benutten van water. Groene ruimte biedt plek waar water kan infiltreren en geeft verkoeling op warme dagen. Woningeigenaren worden gestimuleerd de afwatering van hun huis te verbeteren door middel van blauwe daken en door tuinen te vergroenen. Zowel woonwijken als ook bedrijventerreinen zullen klimaat adaptief moeten worden ingericht, onder andere door het vervangen van asfalt door stenen wegen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-043",
+      "text": "Volkstuinen worden behouden in de stad. Deze vormen waardevol groengebied en zorgen voor sociale samenhang in de dichtbevolkte en groeiende stad.",
+      "summary": "Behoud van volkstuinen als groengebied en voor sociale samenhang",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "volkstuinen",
+        "groengebied",
+        "sociale samenhang"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 6",
+      "originalQuote": "Het CDA wil volkstuinen behouden. Dit is belangrijk in een dichtbevolkte en groeiende stad. Volkstuinen vormen waardevol groengebied en zorgen voor sociale samenhang."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-044",
+      "text": "Lokale energiecoöperaties krijgen steun van het CDA. Deze lokale duurzame energie-initiatieven leiden tot verduurzaming van de stad, verlaging van energierekeningen en meer sociale binding.",
+      "summary": "Steun voor lokale energiecoöperaties en duurzame energie-initiatieven",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiecoöperaties",
+        "duurzame energie",
+        "verduurzaming",
+        "energierekening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 7",
+      "originalQuote": "Het CDA steunt lokale energie coöperaties. Lokale duurzame energie-initiatieven leiden tot verduurzaming van de stad, tot verlaging van de energierekening en tot meer sociale binding."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-045",
+      "text": "Het CDA wil extra inzamelpunten voor PMD (plastic/metaal/drinkpakken) plaatsen omdat deze voor veel mensen nu te ver weg zijn.",
+      "summary": "Extra PMD inzamelpunten plaatsen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inzamelpunten",
+        "pmd",
+        "plastic",
+        "metaal",
+        "drinkpakken",
+        "afvalscheiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 10",
+      "originalQuote": "Het CDA wil meer gelegenheid om afval te scheiden door extra inzamelpunten voor PMD (plastic/metaal/drinkpakken) te plaatsen. Inzamelpunten zijn voor veel mensen nu nog te vaak te ver weg."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-046",
+      "text": "Het CDA wil onderzoeken of het betalen van afvalstoffenheffing bijdraagt aan meer verantwoordelijkheid voor de buurt en schonere wijken. Zo ja, dan moet het beleid van kwijtschelding worden heroverwogen.",
+      "summary": "Onderzoek naar effect afvalstoffenheffing op buurtverantwoordelijkheid",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalstoffenheffing",
+        "onderzoek",
+        "kwijtschelding",
+        "buurtverantwoordelijkheid",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 11",
+      "originalQuote": "Het CDA wil dat wordt onderzocht of het betalen van afvalstoffenheffing bijdraagt aan een grotere verantwoordelijkheid voor je eigen buurt en het dus schoner houden ervan. Als dat zo is, moet het beleid van kwijtschelding en afvalstoffenheffing tegen het licht worden gehouden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-047",
+      "text": "Het CDA zet in op bestrijding van overlast door ratten en meeuwen in de stad.",
+      "summary": "Bestrijding overlast door ratten en meeuwen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ratten",
+        "meeuwen",
+        "overlast",
+        "bestrijding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 12",
+      "originalQuote": "Het CDA zet in op bestrijding van overlast door ratten en meeuwen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-048",
+      "text": "De frequentie van het legen van afvalbakken wordt verhoogd tijdens evenementen en in de weekenden, ook bij OV-haltes.",
+      "summary": "Meer legen afvalbakken tijdens evenementen, weekenden en bij OV-haltes",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalbakken",
+        "evenementen",
+        "weekenden",
+        "ov-haltes",
+        "frequentie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 35",
+      "originalQuote": "De frequentie met lege van afvalbakken dient tijdens evenementen en in de weekenden verbeterd c.q. verhoogd te worden. Ook bij de OV-haltes."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-049",
+      "text": "Voor OV-haltes geldt de stelregel dat een halte maximaal 500 meter vanaf een volgende halte mag zijn. Er worden geen tussenliggende haltes weggehaald.",
+      "summary": "Maximaal 500m tussen OV-haltes, geen weghalen tussenliggende haltes",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ov-haltes",
+        "500-meter",
+        "tussenliggende-haltes",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 35",
+      "originalQuote": "Voor het CDA geldt de stelregel dat een OV-halte maximaal 500 meter vanaf een volgende OV-halte mag zijn. Er worden geen tussenliggende haltes weggehaald."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-050",
+      "text": "Het CDA wil een bus naar Clingendael terug in de dienstregeling of als alternatief de inzet van kleinere busjes.",
+      "summary": "Bus naar Clingendael terug of alternatief met kleinere busjes",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bus",
+        "clingendael",
+        "dienstregeling",
+        "kleinere-busjes"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 35",
+      "originalQuote": "Het CDA wil een bus naar Clingendael terug in de dienstregeling of als alternatief de inzet van kleinere busjes."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-051",
+      "text": "In Loosduinen moet de bereikbaarheid het hele jaar rond worden verbeterd door de inzet van een bus en kleinere busjes.",
+      "summary": "Verbeterde bereikbaarheid Loosduinen met bus en kleinere busjes",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "loosduinen",
+        "bereikbaarheid",
+        "bus",
+        "kleinere-busjes"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 35",
+      "originalQuote": "Ook in bijvoorbeeld Loosduinen moet de bereikbaarheid het hele jaar rond door de inzet van een bus en kleinere busjes worden verbeterd."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-052",
+      "text": "Het CDA wil een rechtstreekse, snelle treinverbinding van Den Haag met Düsseldorf, Brussel en Parijs realiseren.",
+      "summary": "Rechtstreekse treinverbinding met Düsseldorf, Brussel en Parijs",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "treinverbinding",
+        "internationale",
+        "mobiliteit",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 37",
+      "originalQuote": "Het CDA wil een rechtstreekse, snelle treinverbinding met Düsseldorf, Brussel en Parijs."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-053",
+      "text": "Ouders kunnen hun kinderen onder de 12 jaar gratis meenemen in het Haagse stadsvervoer.",
+      "summary": "Gratis stadsvervoer voor kinderen onder 12 jaar",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsvervoer",
+        "kinderen",
+        "gratis",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 37",
+      "originalQuote": "Het CDA wil dat ouders hun kinderen onder de 12 jaar gratis mee kunnen nemen in het Haagse stadsvervoer."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-054",
+      "text": "Het CDA wil de verkeersveiligheid verbeteren door verdere aanleg en verbetering van fietspaden, fietssnelwegen en sterroutes.",
+      "summary": "Aanleg en verbetering fietspaden en fietssnelwegen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietspaden",
+        "fietssnelwegen",
+        "sterroutes",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 37",
+      "originalQuote": "Met de verdere aanleg en verbetering van fietspaden, fietssnelwegen en sterroutes verbeteren we de verkeersveiligheid en blijft de fiets aantrekkelijk."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-055",
+      "text": "Bij onderhoud van wegen of bij aanleg van nieuwe wegen wordt ingezet op nieuwe/verbeterde fietspaden en een aantrekkelijke omgeving om te lopen, met aandacht voor verkeersveiligheid.",
+      "summary": "Nieuwe/verbeterde fietspaden bij wegwerkzaamheden",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietspaden",
+        "wegonderhoud",
+        "wegaanleg",
+        "verkeersveiligheid",
+        "actieve mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet vermeld",
+      "originalQuote": "Bij onderhoud van wegen of bij aanleg van nieuwe wegen wordt daarom ingezet op nieuwe/verbeterde fietspaden en een aantrekkelijke omgeving om te lopen, waarbij ook aandacht is voor de verkeersveiligheid"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-056",
+      "text": "Het CDA zet in op zoveel mogelijk ondergronds of inpandig parkeren. Niet alleen in het centrum, maar ook in de wijk. Dit moet aantrekkelijker worden.",
+      "summary": "Ondergronds/inpandig parkeren in centrum en wijken stimuleren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondergronds parkeren",
+        "inpandig parkeren",
+        "centrum",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. niet vermeld",
+      "originalQuote": "Het CDA zet in op zoveel mogelijk ondergronds of inpandig parkeren. Niet alleen in het centrum, maar ook in de wijk. Dit moet aantrekkelijker worden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-057",
+      "text": "Parkeervoorzieningen voor winkelgebieden Paul Krugerlaan en Hobbemastraat worden verbeterd door bestaande parkeergarages beter te benutten en onderzoek naar toevoegen van extra parkeerplekken.",
+      "summary": "Verbetering parkeervoorzieningen Paul Krugerlaan en Hobbemastraat",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeervoorzieningen",
+        "winkelgebieden",
+        "parkeergarages",
+        "parkeerplekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 39",
+      "originalQuote": "Parkeervoorzieningen voor het winkelgebied Paul Krugerlaan en Hobbemastraat worden verbeterd. Bestaande parkeergarages worden beter benut en we onderzoeken de mogelijkheid voor het toevoegen van parkeerplekken in deze winkelgebieden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-058",
+      "text": "Het gebruik van elektrische auto's wordt gestimuleerd door het plaatsen van voldoende slimme laadpalen en het volgen van ontwikkelingen over slimme laadpleinen.",
+      "summary": "Stimulering elektrische auto's door slimme laadpalen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "elektrische auto's",
+        "laadpalen",
+        "laadpleinen",
+        "mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 39",
+      "originalQuote": "Het gebruik van electrische auto's wordt gestimuleerd door voldoende slimme laadpalen te plaatsen. En de ontwikkelingen over slimme laadpleinen nauwlettend te volgen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-059",
+      "text": "Introductie van 30 km/uur als uitgangspunt in de bebouwde kom, met ruimte voor 50 km/uur wegen om doorstroming te borgen en sluiproutes via woonwijken te voorkomen.",
+      "summary": "30 km/uur als uitgangspunt bebouwde kom, 50 km/uur voor doorstroming",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "snelheidslimiet",
+        "bebouwde kom",
+        "doorstroming",
+        "sluiproutes",
+        "woonwijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 40",
+      "originalQuote": "Wij zetten ons in voor de introductie van 30 km/uur als uitgangspunt in de bebouwde kom. Daarbij is ruimte voor 50 km/uur wegen om de doorstroming te borgen en sluiproutes via woonwijken te voorkomen"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-060",
+      "text": "Nieuwe scholen worden alleen toegestaan wanneer zij de grondbeginselen van onze samenleving onderschrijven en uitdragen.",
+      "summary": "Nieuwe scholen alleen bij onderschrijven grondbeginselen samenleving",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nieuwe scholen",
+        "toelating",
+        "grondbeginselen",
+        "samenleving",
+        "criteria"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 40",
+      "originalQuote": "Voor het CDA is het helder dat nieuwe scholen alleen worden toegestaan wanneer zij de grondbeginselen van onze samenleving onderschrijven en uitdragen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-061",
+      "text": "Het CDA wil dat de gemeente wedstrijden gaat organiseren waarin vakmanschap centraal staat om vakmanschap meer erkenning en waardering te geven in aansluiting bij de arbeidsmarkt.",
+      "summary": "Gemeente organiseert wedstrijden voor vakmanschap",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wedstrijden",
+        "vakmanschap",
+        "beroepsonderwijs",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Het CDA wil dat de gemeente wedstrijden gaat organiseren waarin vakmanschap centraal staat. Dit helpt om vakmanschap meer erkenning en waardering te geven."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-062",
+      "text": "Schoolpleinen worden duurzamer en groener gemaakt.",
+      "summary": "Duurzame en groene schoolpleinen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolpleinen",
+        "duurzaamheid",
+        "groen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Schoolpleinen worden duurzamer en groener."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-063",
+      "text": "Het CDA wil vaste normen invoeren voor ventilatie en frisse lucht in de klas.",
+      "summary": "Vaste normen voor ventilatie in klaslokalen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "normen",
+        "ventilatie",
+        "frisse lucht",
+        "klaslokalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Het CDA wil vaste normen voor ventilatie en frisse lucht in de klas."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-064",
+      "text": "Zoveel mogelijk scholen worden omgevormd tot brede buurtscholen. De gemeente ondersteunt de inrichting en beheer van deze scholen. Regels die gemeenschappelijk gebruik en financiering belemmeren worden afgeschaft.",
+      "summary": "Omvorming tot brede buurtscholen met gemeentelijke ondersteuning",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brede buurtscholen",
+        "omvorming",
+        "gemeentelijke ondersteuning",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Zoveel mogelijk scholen worden omgevormd tot brede buurtscholen. De gemeente ondersteund de inrichting en beheer van deze scholen en zorgt zo voor een betere aansluiting tussen onderwijs, cultuur en sport. Regels die gemeenschappelijk gebruik en financiering van de brede buurtschool belemmeren worden afgeschaft."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-065",
+      "text": "Alle Haagse kinderen brengen een bezoek aan een museum gerelateerd aan de holocaust naast een bezoek aan school in bos.",
+      "summary": "Holocaustmuseum bezoek voor alle Haagse kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderen",
+        "museum",
+        "holocaust",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 42",
+      "originalQuote": "Alle Haagse kinderen brengen naast een bezoek aan school in bos ook een bezoek aan een museum gerelateerd aan de holocaust."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-066",
+      "text": "Het CDA wil het sportschooltoernooi terugbrengen zodat kinderen van verschillende scholen en uit verschillende stadsdelen elkaar kunnen ontmoeten.",
+      "summary": "Terugkeer van sportschooltoernooi tussen stadsdelen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportschooltoernooi",
+        "kinderen",
+        "scholen",
+        "stadsdelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 42",
+      "originalQuote": "Het CDA wil het sportschooltoernooi terug. Het CDA vindt het belangrijk dat kinderen van verschillende scholen en uit verschillende stadsdelen elkaar ontmoeten om zo verschillen te kunnen overbruggen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-067",
+      "text": "Het CDA wil dat scholen worden ondersteund door gratis parkeren voor personeel bij school aan te bieden.",
+      "summary": "Gratis parkeren voor schoolpersoneel",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scholen",
+        "parkeren",
+        "personeel",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. onbekend",
+      "originalQuote": "Het CDA wil dat scholen worden ondersteund met praktische zaken zoals gratis parkeren voor personeel bij school."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-068",
+      "text": "Het aanbod studentenwoningen wordt voortaan niet meer onder de noemer sociaal geschaard. Studentenhuisvesting moet apart worden bijgehouden en er moeten aparte afspraken worden gemaakt met betrekking tot de nieuwbouw van studentenkamers.",
+      "summary": "Studentenwoningen apart van sociale huisvesting bijhouden en aparte nieuwbouwafspraken maken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studentenwoningen",
+        "nieuwbouw",
+        "studentenkamers",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 45",
+      "originalQuote": "Het aanbod studentenwoningen wordt voortaan niet meer onder de noemer sociaal geschaard. Studentenhuisvesting moet wat het CDA betreft apart worden bijgehouden en er moeten aparte afspraken worden gemaakt met betrekking tot de nieuwbouw van studentenkamers."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-069",
+      "text": "Verkamerverbod wordt als proef opgeheven voor studentenhuisvesting. Het verkameren van woningen en huisvesten van maximaal 6 studenten wordt toegestaan bij wijze van proef voor 5 jaar.",
+      "summary": "Verkamerverbod opheffen voor studenten, proef van 5 jaar met max 6 studenten per woning",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkamerverbod",
+        "studenten",
+        "proef",
+        "verkameren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 45",
+      "originalQuote": "Verkamerverbod wordt als proef opgeheven, uitsluitend ten behoeve van studentenhuisvesting. Het verkameren van woningen en het huisvesten van maximaal 6 studenten wordt uitsluitend toegestaan voor de huisvesting van studenten bij wijze van proef voor de duur van 5 jaar."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-070",
+      "text": "Het CDA zet in op vroegsignalering en laagdrempelige hulp. Vragen voor lichte hulp moet hierbij niet direct leiden tot processen van jeugdzorg.",
+      "summary": "Inzetten op vroegsignalering en laagdrempelige hulp, lichte hulp zonder jeugdzorgprocessen",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vroegsignalering",
+        "laagdrempelige hulp",
+        "jeugdzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 45",
+      "originalQuote": "Het CDA zet in op vroegsignalering, en laagdrempelige hulp. Vragen voor lichte hulp moet hierbij niet direct leiden tot processen van jeugdzorg."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-071",
+      "text": "Het CDA wil het aanbod van flexibele kantoorconcepten en co-working-spaces vergroten om voldoende kantoorruimte beschikbaar te houden en het vestigingsklimaat voor starters te verbeteren.",
+      "summary": "Uitbreiding flexibele kantoorconcepten en co-working-spaces",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kantoorruimte",
+        "flexibele kantoorconcepten",
+        "co-working-spaces",
+        "starters",
+        "vestigingsklimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 48",
+      "originalQuote": "Het CDA wil dat ook na de coronacrisis – met mogelijke verschuivingen naar hybride werken – er voldoende kantoorruimte beschikbaar blijft, onder meer door het aanbod van flexibele kantoorconcepten en de vestiging van co-working-spaces te vergroten."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-072",
+      "text": "Het CDA zal in de nieuwe raadsperiode meewerken aan tijdelijke verruiming van terrasvergunningen om de horeca te ondersteunen in het herstel na de coronacrisis.",
+      "summary": "Tijdelijke verruiming van terrasvergunningen voor horeca",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "horeca",
+        "terrasvergunningen",
+        "verruiming",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 48",
+      "originalQuote": "Zo zal het CDA in de nieuwe raadsperiode bijvoorbeeld meewerken aan tijdelijke verruiming van terrasvergunningen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-073",
+      "text": "Een bepaald aantal strandtenten verspreid over de gehele kustlijn van de stad mogen jaarrond geëxploiteerd worden.",
+      "summary": "Jaarrond exploitatie strandtenten over hele kustlijn toestaan",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "strandtenten",
+        "kustlijn",
+        "jaarrond",
+        "exploitatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 17",
+      "originalQuote": "Het CDA wil dat een bepaald aantal strandtenten verspreid over de gehele kustlijn van de stad jaarrond geëxploiteerd mogen worden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-074",
+      "text": "Creëren van basisbanen voor langdurig bijstandsgerechtigden, waarbij mensen 20 uur per week werken tegen 85% van het minimumloon. Dit betreft ondersteunende functies in zorg, onderwijs of plantsoenendienst.",
+      "summary": "Basisbanen voor bijstandsgerechtigden: 20 uur/week tegen 85% minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisbanen",
+        "bijstand",
+        "minimumloon",
+        "werkgelegenheid",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 1",
+      "originalQuote": "Het CDA pleit voor het creëren van basisbanen om mensen vanuit de bijstand weer aan het werk te krijgen. Mensen met een basisbaan werken zo'n 20 uur in de week tegen 85% van het minimumloon."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-075",
+      "text": "Het CDA wil een structurele aanpak van laaggeletterdheid met innovatieve taalprogramma's en laagdrempelige hulpverlening.",
+      "summary": "Structurele aanpak laaggeletterdheid met taalprogramma's en hulpverlening",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "laaggeletterdheid",
+        "taalprogramma's",
+        "hulpverlening",
+        "structurele aanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 49",
+      "originalQuote": "Het CDA wil daarom ook een structurele aanpak van laaggeletterdheid onder andere met innovatieve taalprogramma's en laagdrempelige hulpverlening."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-076",
+      "text": "Mogelijkheden voor financiële ondersteuning van taallessen worden vereenvoudigd.",
+      "summary": "Financiële ondersteuning taallessen vereenvoudigen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financiële ondersteuning",
+        "taallessen",
+        "vereenvoudiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 49",
+      "originalQuote": "Mogelijkheden voor financiële ondersteuning van taallessen worden vereenvoudigd."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-077",
+      "text": "Het CDA organiseert elke twee jaar een groot evenement voor sporters met een verstandelijke beperking in het ADO-stadion, naar het voorbeeld van de succesvolle special olympics.",
+      "summary": "Tweejaarlijks groot sportevenement voor sporters met verstandelijke beperking in ADO-stadion",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "evenement",
+        "sporters",
+        "verstandelijke beperking",
+        "ado-stadion",
+        "special olympics"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 52",
+      "originalQuote": "Het CDA wil elke twee jaar in het ADO-stadion een groot evenement voor sporters met een verstandelijke beperking."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-078",
+      "text": "Het CDA breidt buitenfitness plekken (calisthenics) uit in de stad om meer mogelijkheden te bieden voor buitensporten.",
+      "summary": "Uitbreiding buitenfitness plekken en calisthenics in de stad",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenfitness",
+        "calisthenics",
+        "sport",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 52",
+      "originalQuote": "Het CDA zet in op buitenfitness plekken, ofwel calisthenics."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-079",
+      "text": "Het CDA brengt sportbelijning aan in de openbare ruimte en maakt parken uitnodigend om in te sporten, zodat de openbare ruimte uitnodigt tot bewegen.",
+      "summary": "Sportbelijning en sportieve inrichting parken voor meer beweging",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportbelijning",
+        "openbare ruimte",
+        "parken",
+        "bewegen",
+        "sport"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 52",
+      "originalQuote": "Het CDA wil dat de openbare ruimte uitnodigt tot bewegen. Dit kan onder meer door sportbelijning aan te brengen en waar dat kan parken uitnodigend te maken om in te sporten."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-080",
+      "text": "Het CDA breidt de Ooievaarspas uit om sport en cultuur toegankelijker te maken voor meer mensen.",
+      "summary": "Uitbreiding Ooievaarspas voor betere toegankelijkheid sport en cultuur",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ooievaarspas",
+        "sport",
+        "cultuur",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 52",
+      "originalQuote": "Het CDA wil de Ooievaarspas uitbreiden, dit maakt voor veel mensen sport en cultuur toegankelijk."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-081",
+      "text": "Het CDA wil meer aandacht voor studentensport en sporten voor senioren door het gebruik van een sportpas.",
+      "summary": "Meer aandacht voor studentensport en seniorensport via sportpas",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studentensport",
+        "seniorensport",
+        "sportpas"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 53",
+      "originalQuote": "Het CDA wil meer aandacht voor studentensport en voor sporten voor senioren door het gebruik van een sportpas."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-082",
+      "text": "De gemeente gaat investeren in verbindingen tussen ADO Den Haag en de (sport)jeugd. Het CDA wil daarvoor meer regie op de bestuursstructuur van ADO Den Haag en het gouden aandeel terug.",
+      "summary": "Investeren in ADO-jeugdverbindingen, meer regie en gouden aandeel terug",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ado",
+        "sportjeugd",
+        "bestuursstructuur",
+        "gouden aandeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 53",
+      "originalQuote": "Het CDA wil dat de gemeente gaat investeren in al die verbindingen tussen ADO en de (sport)jeugd. Het CDA wil daarvoor wel meer regie op de bestuursstructuur van ADO Den Haag. Het CDA wil het gouden aandeel terug."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-083",
+      "text": "Het CDA wil niet verder bezuinigen op de culturele sector. De culturele sector moet de mogelijkheid krijgen zich te herstellen van de coronacrisis.",
+      "summary": "Geen verdere bezuinigingen op culturele sector",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "culturele sector",
+        "bezuinigingen",
+        "coronacrisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 53",
+      "originalQuote": "Het CDA wil niet verder bezuinigen op de culturele sector. De culturele sector moet juist de mogelijkheid krijgen zich te herstellen van de coronacrisis."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-084",
+      "text": "Bij de toewijzing van cultuursubsidies moet aandacht besteed worden aan het organiseren van laagdrempelige bezoeken aan musea.",
+      "summary": "Aandacht voor laagdrempelige museumbezoeken bij cultuursubsidies",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuursubsidies",
+        "musea",
+        "laagdrempelige",
+        "bezoeken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 54",
+      "originalQuote": "Bij de toewijzing van cultuursubsidies moet hier aandacht aan besteed worden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-085",
+      "text": "Het CDA wil blijven investeren in een divers en veelkleurig muziekaanbod om Den Haag popstad nummer 1 te laten blijven.",
+      "summary": "Investeren in divers muziekaanbod",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeren",
+        "muziekaanbod",
+        "popcultuur",
+        "diversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 54",
+      "originalQuote": "Het CDA wil blijven investeren in een divers en veelkleurig muziekaanbod."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-086",
+      "text": "Het CDA is voorstander van geluidswerende maatregelen voor lokale cafés die live bandjes willen laten optreden zonder overlast te veroorzaken.",
+      "summary": "Geluidswerende maatregelen voor cafés met live muziek",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geluidswerende",
+        "maatregelen",
+        "cafés",
+        "live",
+        "optreden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 54",
+      "originalQuote": "het CDA voorstander van geluidswerende maatregelen voor lokale cafés die live bandjes willen laten optreden zonder overlast te veroorzaken."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-087",
+      "text": "Onderzoek naar mogelijkheden om North Sea Jazz terug naar Den Haag te halen door investering in uitbreiding van het World Forum.",
+      "summary": "North Sea Jazz terughalen via uitbreiding World Forum",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "north sea jazz",
+        "world forum",
+        "uitbreiding",
+        "evenementen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, Niet gespecificeerd",
+      "originalQuote": "Het CDA wil de mogelijkheden onderzoeken om North Sea Jazz terug naar Den Haag te halen. Investeren in uitbreiding van het World Forum kan hieraan bijdragen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-088",
+      "text": "Ondersteuning voor culturele initiatieven vanuit verschillende migratiegroepen uit het cultuurbudget.",
+      "summary": "Cultuurbudget voor initiatieven migratiegroepen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurbudget",
+        "migratiegroepen",
+        "ondersteuning",
+        "initiatieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, Niet gespecificeerd",
+      "originalQuote": "Het CDA ziet graag ondersteuning voor initiatieven uit deze groepen vanuit het cultuurbudget."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-089",
+      "text": "Investeren in het behoud van monumenten, zowel grote restauraties als kleiner cultuurhistorisch erfgoed.",
+      "summary": "Investeren in behoud monumenten en erfgoed",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "monumenten",
+        "restauraties",
+        "cultuurhistorisch",
+        "erfgoed"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, Niet gespecificeerd",
+      "originalQuote": "Het CDA wil investeren in het behoud van monumenten. Behalve grotere restauraties gaat het ook om kleiner, maar even waardevol, cultuurhistorisch erfgoed."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-090",
+      "text": "De Zebraklok moet terugkeren op het Centraal Station.",
+      "summary": "Zebraklok terug op Centraal Station",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zebraklok",
+        "centraal station",
+        "terugkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, Niet gespecificeerd",
+      "originalQuote": "De Zebraklok moet terugkeren op het Centraal Station."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-091",
+      "text": "Het Plakkaat van Verlatinghe krijgt een prominente plaats in een van de Haagse musea of openbare gebouwen om dit belangrijke historische verhaal aan iedereen te vertellen.",
+      "summary": "Het Plakkaat van Verlatinghe krijgt prominente plaats in Haags museum of openbaar gebouw",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "plakkaat van verlatinghe",
+        "museum",
+        "openbare gebouwen",
+        "historische documenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 6",
+      "originalQuote": "Het CDA wil dat het Plakkaat van Verlatinghe een prominente plaats krijgt in een van de Haagse musea of openbare gebouwen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-092",
+      "text": "Den Haag houdt een van de laagste OZB-lasten van Nederland. Het CDA wil dit zo houden.",
+      "summary": "OZB-lasten blijven laag zoals nu",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "lasten",
+        "belasting",
+        "tarieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 56",
+      "originalQuote": "Den Haag heeft een van de laagste OZB lasten van Nederland. Dat willen we graag zo houden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-093",
+      "text": "Tarieven voor derde en volgende parkeervergunningen gaan fors omhoog. Deze middelen worden gebruikt om parkeerplekken buiten de openbare ruimte te faciliteren, zoals het toegankelijk maken van parkeergarages.",
+      "summary": "Tarieven derde/volgende parkeervergunningen omhoog, geld naar alternatief parkeren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeervergunningen",
+        "tarieven",
+        "parkeergarages",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 56",
+      "originalQuote": "Tarieven voor derde- en volgende parkeervergunningen mogen fors omhoog. Deze middelen komen ten baten van het faciliteren van parkeerplekken buiten de openbare ruimte zoals het toegankelijk maken van parkeergarages."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-094",
+      "text": "Extra geld uittrekken voor het openen van de stadsdeelloketten",
+      "summary": "Opening van stadsdeelloketten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdeelloketten",
+        "burgerservice",
+        "stadsdelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 57",
+      "originalQuote": "Daarom willen wij extra geld uittrekken voor het openen van de stadsdeelloketten"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-095",
+      "text": "Meerjarensubsidie mogelijk maken voor maatschappelijke organisaties. Stoppen met eenjarig financieren van organisaties die al jarenlang bestaan",
+      "summary": "Meerjarensubsidie voor maatschappelijke organisaties",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meerjarensubsidie",
+        "maatschappelijke organisaties",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 57",
+      "originalQuote": "Meerjarensubsidie mogelijk maken voor maatschappelijke organisaties. Stoppen met eenjarig financieren van organisaties die al jarenlang bestaan."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-096",
+      "text": "De pandbrigade en de handhavingsorganisatie uitbreiden om de leefbaarheid van de wijken te versterken",
+      "summary": "Uitbreiding pandbrigade en handhaving",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "handhaving",
+        "leefbaarheid",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 57",
+      "originalQuote": "De pandbrigade en de handhavingsorganisatie willen wij uitbreiden om de leefbaarheid van de wijken te versterken."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-097",
+      "text": "De Commissie voor Loosduinen krijgt haar oorspronkelijke autonomie terug",
+      "summary": "Autonomie terug voor Commissie Loosduinen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "commissie loosduinen",
+        "autonomie",
+        "stadsdeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 58",
+      "originalQuote": "Het CDA wil dat deze Commissie haar oorspronkelijke autonomie terug krijgt."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-098",
+      "text": "De gemeente steunt de viering van het 100-jarig bestaan van de Commissie Loosduinen",
+      "summary": "Steun voor 100-jarig bestaan Commissie Loosduinen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "commissie loosduinen",
+        "100-jarig bestaan",
+        "subsidie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 58",
+      "originalQuote": "Het CDA wil dat de gemeente de viering van het 100-jarig bestaan van de Commissie Loosduinen steunt."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-099",
+      "text": "Bus 23 moet ook buiten het seizoen doorrijden door Loosduinen tot Kijkduin of er moet een alternatief met kleine busjes worden gevonden",
+      "summary": "Bus 23 jaarrond naar Kijkduin",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bus 23",
+        "loosduinen",
+        "kijkduin",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 58",
+      "originalQuote": "Ook buiten het seizoen moet bus 23 doorrijden door Loosduinen tot Kijkduin of er moet een alternatief met kleine busjes worden gevonden"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-100",
+      "text": "Geen coffeeshop in Loosduinen en ook niet op bedrijventerreinen",
+      "summary": "Coffeeshopvrij Loosduinen en bedrijventerreinen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coffeeshop",
+        "loosduinen",
+        "bedrijventerreinen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 58",
+      "originalQuote": "Geen coffeeshop in Loosduinen en ook niet op bedrijventerreinen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-101",
+      "text": "Het Loosduinse Hoofdplein wordt opgeknapt met betrokkenheid van bewoners en ondernemers. Er wordt gewerkt aan een lange termijn strategie met ondergrondse parkeergelegenheid",
+      "summary": "Opknappen Loosduinse Hoofdplein met ondergronds parkeren",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loosduinse hoofdplein",
+        "opknappen",
+        "ondergronds parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 59",
+      "originalQuote": "Het Loosduinse Hoofdplein zal worden opgeknapt. Bewoners en ondernemers worden hierbij betrokken. Er wordt gewerkt aan een lange termijn strategie waar het Loosduinse Hoofdplein ondergrondse parkeergelegenheid krijgt."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-102",
+      "text": "De bestaande sporthal Loosduinen wordt uitgebreid naar een dubbele sporthal",
+      "summary": "Uitbreiding sporthal Loosduinen naar dubbele sporthal",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sporthal loosduinen",
+        "uitbreiding",
+        "dubbele sporthal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 59",
+      "originalQuote": "Daarom wordt de sporthal uitgebreid naar een dubbele sporthal."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-103",
+      "text": "Er komt geen coffeeshop in Nieuw Waldeck",
+      "summary": "Coffeeshopvrij Nieuw Waldeck",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coffeeshop",
+        "nieuw waldeck"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 59",
+      "originalQuote": "Er komt wat het CDA betreft geen coffeeshop in Nieuw Waldeck"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-104",
+      "text": "Er wordt een actieplan gemaakt om Vroondaal verkeersveilig te krijgen en te houden",
+      "summary": "Actieplan verkeersveiligheid Vroondaal",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "verkeersveiligheid",
+        "vroondaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 60",
+      "originalQuote": "Het CDA wil een actieplan hoe Vroondaal verkeersveilig te krijgen en te houden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-105",
+      "text": "Er worden meer speelvoorzieningen in Vroondaal aangelegd, met name voor oudere kinderen",
+      "summary": "Meer speelvoorzieningen Vroondaal voor oudere kinderen",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "speelvoorzieningen",
+        "vroondaal",
+        "oudere kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 60",
+      "originalQuote": "Er komen meer speelvoorzieningen in Vroondaal, met name voor de wat oudere kinderen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-106",
+      "text": "Er wordt een pad gecreëerd langs Park Solleveld om vanuit Loosduinen door de duinen naar zee te kunnen",
+      "summary": "Pad langs Park Solleveld naar zee",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pad",
+        "park solleveld",
+        "duinen",
+        "zee"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 60",
+      "originalQuote": "Er wordt een pad gecreëerd langs Park Solleveld om zo vanuit Loosduinen door de duinen naar zee te kunnen"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-107",
+      "text": "Er komt een brugverbinding in park Madestein voor de Zee tot Zweth route",
+      "summary": "Brugverbinding park Madestein voor Zee tot Zweth route",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "brugverbinding",
+        "park madestein",
+        "zee tot zweth route"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 60",
+      "originalQuote": "Er komt een brugverbinding in park Madestein om zo de Zee tot Zweth route te kunnen realiseren."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-108",
+      "text": "Bij uitbreiding Vroondaal wordt ondertunneling van de Lozerlaan onderzocht om doorstroming te verbeteren",
+      "summary": "Ondertunneling Lozerlaan voor betere doorstroming",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondertunneling",
+        "lozerlaan",
+        "doorstroming",
+        "vroondaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 60",
+      "originalQuote": "Bij de uitbreiding van Vroondaal moet de doorstroming op de Lozerlaan worden onderzocht, en moeten er maatregelen worden genomen om de doorstroming te verbeteren. Dit kan door de Lozerlaan te ondertunnelen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-109",
+      "text": "In de Bomenbuurt wordt tijdens de rioolvervanging in 2023 de toekomstvisie uitgevoerd",
+      "summary": "Uitvoering toekomstvisie Bomenbuurt bij rioolvervanging 2023",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bomenbuurt",
+        "rioolvervanging",
+        "toekomstvisie",
+        "2023"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 61",
+      "originalQuote": "In 2023 is een rioolvervanging gepland. Het CDA wil deze kans aangrijpen om werk met werk te maken en tijdens de rioolvervanging de toekomstvisie uit te voeren."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-110",
+      "text": "Hardrijden op de Laan van Meerdervoort wordt aangepakt door middel van flitspalen",
+      "summary": "Flitspalen tegen hardrijden Laan van Meerdervoort",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "flitspalen",
+        "hardrijden",
+        "laan van meerdervoort"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 61",
+      "originalQuote": "Pak hardrijden op de Laan van Meerdervoort aan, door middel van flitspalen"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-111",
+      "text": "Wijkpark de Verademing wordt uitgebreid met sporttoestellen en er wordt een zelfreinigend openbaar toilet toegevoegd",
+      "summary": "Uitbreiding wijkpark Verademing met sport en toilet",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkpark verademing",
+        "sporttoestellen",
+        "openbaar toilet"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 62",
+      "originalQuote": "Het park wordt uitgebreid met sporttoestellen. Daarnaast wordt er een zelfreinigend openbaar toilet toegevoegd aan het park."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-112",
+      "text": "Het Regentesseplein wordt opgeknapt tot een mooie ontmoetingsplek met ruimte voor bestaande horeca",
+      "summary": "Opknappen Regentesseplein als ontmoetingsplek",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regentesseplein",
+        "opknappen",
+        "ontmoetingsplek",
+        "horeca"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 62",
+      "originalQuote": "Knap het Regentesseplein op. Maak er een mooie ontmoetingsplek van met ruimte voor de bestaande horeca."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-113",
+      "text": "Jaarrond exploitatie voor strandtenten mogelijk maken",
+      "summary": "Jaarrond exploitatie strandtenten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strandtenten",
+        "jaarrond exploitatie",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 63",
+      "originalQuote": "We willen de jaarrond exploitatie voor strandtenten mogelijk maken."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-114",
+      "text": "Het Beach Stadium wordt gerealiseerd en de sporthal bij Klein Lindoduin behouden",
+      "summary": "Realisatie Beach Stadium en behoud sporthal Klein Lindoduin",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beach stadium",
+        "sporthal",
+        "klein lindoduin"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 63",
+      "originalQuote": "Realiseer het Beach Stadium en behoud de sporthal bij 'Klein Lindoduin'."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-115",
+      "text": "Aanpak straatraces op Scheveningen door flitspalen, snelheidsremmende ingrepen en handhaving",
+      "summary": "Aanpak straatraces Scheveningen met flitspalen en handhaving",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "straatraces",
+        "flitspalen",
+        "handhaving",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 64",
+      "originalQuote": "Aanpakken, door middel van flitspalen, snelheidsremmende ingrepen, en handhaving door politie."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-116",
+      "text": "Tramlijn 12 en buslijnen 23 + 28 naar Duindorp behouden",
+      "summary": "Behoud tramlijn 12 en buslijnen 23+28 Duindorp",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramlijn 12",
+        "buslijn 23",
+        "buslijn 28",
+        "duindorp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 64",
+      "originalQuote": "Voor de bereikbaarheid van Duindorp is het van belang om tramlijn 12 en buslijnen 23 + 28 te behouden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-117",
+      "text": "Betaald parkeren wordt ingevoerd in Duttendel om het waterbed-effect van betaald parkeren in Scheveningen op te vangen",
+      "summary": "Betaald parkeren Duttendel tegen waterbed-effect",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "betaald parkeren",
+        "duttendel",
+        "waterbed-effect"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 65",
+      "originalQuote": "Betaald parkeren wordt ingevoerd in Duttendel om het waterbed-effect van betaald parkeren in Scheveningen op te vangen"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-118",
+      "text": "Bredere fietspaden voor twee richtingen aanleggen op de Benoordenhoutseweg en verkeersstro men beperken door wegversmalling",
+      "summary": "Bredere fietspaden en wegversmalling Benoordenhoutseweg",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietspaden",
+        "benoordenhoutseweg",
+        "wegversmalling",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 65",
+      "originalQuote": "We willen bredere fietspaden voor twee richtingen aanleggen en de verkeersstromen beperken door wegversmalling te onderzoeken."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-119",
+      "text": "Kwalitatieve verbetering van de entree en overgang van Clingendael-Haagse Bos met verbeterde oversteek",
+      "summary": "Verbetering oversteek Clingendael-Haagse Bos",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "clingendael",
+        "haagse bos",
+        "oversteek",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 66",
+      "originalQuote": "Het CDA wil een kwalitatieve verbetering van de entree en overgang van Clingendael-Haagse Bos. Op het moment is dit een onveilige situatie. Daarom moet de oversteek worden verbeterd."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-120",
+      "text": "In Mariahoeve worden overal waar nog geen ORAC's zijn, deze geplaatst voor bredere aanpak van ratten",
+      "summary": "ORAC plaatsing Mariahoeve tegen ratten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "orac",
+        "mariahoeve",
+        "ratten",
+        "afval"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 66",
+      "originalQuote": "Overal waar nog geen ORAC's zijn, worden deze geplaatst."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-121",
+      "text": "Het winkelcentrum in Mariahoeve wordt opgeknapt",
+      "summary": "Opknappen winkelcentrum Mariahoeve",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winkelcentrum",
+        "mariahoeve",
+        "opknappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 66",
+      "originalQuote": "Het is hard nodig dat het winkelcentrum in Mariahoeve wordt opgeknapt."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-122",
+      "text": "Er moeten meer OV-haltes komen in Leidschenveen-Ypenburg zodat bewoners maximaal 20 minuten hoeven te lopen",
+      "summary": "Meer OV-haltes Leidschenveen-Ypenburg",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ov-haltes",
+        "leidschenveen-ypenburg",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 66",
+      "originalQuote": "Er moeten meer OV-haltes komen zodat bewoners niet langer tot soms wel 20 minuten moeten lopen voor de tram."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-123",
+      "text": "Extra snelheidsdisplays plaatsen in Leidschenveen-Ypenburg om hardrijders bewust te maken van hun rijgedrag",
+      "summary": "Snelheidsdisplays tegen hardrijders Leidschenveen-Ypenburg",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "snelheidsdisplays",
+        "hardrijders",
+        "leidschenveen-ypenburg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 67",
+      "originalQuote": "Ook plaatsen we extra snelheidsdisplays om hardrijders bewust te maken van hun rijgedrag."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-124",
+      "text": "De Binckhorst moet een eigen sportaccommodatie krijgen",
+      "summary": "Eigen sportaccommodatie voor Binckhorst",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "binckhorst",
+        "sportaccommodatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 68",
+      "originalQuote": "De Binckhorst moet een eigen sportaccommodatie krijgen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-125",
+      "text": "Lawaaiflitspaal plaatsen bij de Calandstraat tegen hard optrekken en rijden",
+      "summary": "Lawaaiflitspaal Calandstraat tegen geluidsoverlast",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lawaaiflitspaal",
+        "calandstraat",
+        "geluidsoverlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 68",
+      "originalQuote": "Bij een positief resultaat willen wij deze plaatsen bij de Calandstraat. Waar hard wordt opgetrokken en gereden, met veel lawaai voor de bewoners."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-126",
+      "text": "De trainingsaccommodatie van ADO Den Haag keert terug in het Zuiderpark",
+      "summary": "ADO trainingsaccommodatie terug naar Zuiderpark",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ado den haag",
+        "trainingsaccommodatie",
+        "zuiderpark"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 70",
+      "originalQuote": "De trainingsaccommodatie van ADO Den Haag keert terug in het Zuiderpark, waar het hoort."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-127",
+      "text": "Er komt een openbaar toilet in het Zuiderpark",
+      "summary": "Openbaar toilet Zuiderpark",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar toilet",
+        "zuiderpark"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 70",
+      "originalQuote": "Er komt een openbaar toilet in het Zuiderpark."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-128",
+      "text": "Kwaliteitsverbetering van het openlucht theater in het Zuiderpark zodat het voldoet aan de hoogste eisen voor openluchtoptredens",
+      "summary": "Kwaliteitsverbetering openlucht theater Zuiderpark",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openlucht theater",
+        "zuiderpark",
+        "kwaliteitsverbetering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 70",
+      "originalQuote": "We willen een kwaliteitsverbetering van het openlucht theater in het Zuiderpark. Dit moet een podium worden dat voldoet aan de hoogste eisen die worden gesteld aan openluchtoptredens"
+    },
+    {
+      "promiseCode": "CDA-DH-2022-129",
+      "text": "Investeren in een volwaardig en aantrekkelijk winkelcentrum in Wateringse Veld",
+      "summary": "Investering volwaardig winkelcentrum Wateringse Veld",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winkelcentrum",
+        "wateringse veld",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 70",
+      "originalQuote": "Daarom willen wij investeren in een volwaardig en aantrekkelijk winkelcentrum."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-130",
+      "text": "Het CDA wil een nieuw en veilig plan voor de inrichting van de Grote Marktstraat en voor de oversteekplaats voor het stadhuis.",
+      "summary": "Nieuw veilig inrichtingsplan Grote Marktstraat en oversteekplaats stadhuis",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grote marktstraat",
+        "oversteekplaats",
+        "inrichting",
+        "verkeersveiligheid",
+        "stadhuis"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 71",
+      "originalQuote": "Het CDA wil een nieuw en veilig plan voor de inrichting van de Grote Marktstraat en voor de zoek-het-maar-uit-oversteekplaats pal voor het stadhuis."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-131",
+      "text": "Het CDA wil stap voor stap de oude grachten opengraven en terugbrengen in de stad. Wanneer er gegraven wordt voor rioleringen wordt dit moment aangegrepen om op die locatie de oude gracht open te graven.",
+      "summary": "Oude grachten stap voor stap terugbrengen bij rioleringsvervanging",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grachten",
+        "riolering",
+        "opengraven",
+        "stadsvernieuwing"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 71",
+      "originalQuote": "Het CDA wil stap voor stap de oude grachten opengraven en terugbrengen in de stad. Het moment dat er toch gegraven moet worden voor het vervangen van rioleringen of om welke reden dan ook wordt aangegrepen om op die locatie de oude gracht open te graven."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-132",
+      "text": "Sluiting van de prostitutiezone aan de Doubletstraat. In deze gebieden wordt vervolgens de leefbaarheid sterk verhoogd en nieuwe ontwikkelingen gestimuleerd.",
+      "summary": "Sluiting prostitutiezone Doubletstraat en leefbaarheid verhogen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prostitutiezone",
+        "doubletstraat",
+        "sluiting",
+        "leefbaarheid",
+        "ontwikkelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 71",
+      "originalQuote": "Sluiting van de prostitutiezone aan de Doubletstraat. In deze gebieden vervolgens de leefbaarheid sterk verhogen en nieuwe ontwikkelingen stimuleren."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-133",
+      "text": "In het centrum wordt de parkeerdruk losgelaten als criterium voor het plaatsen van een ondergrondse container om ook hier containers te plaatsen en het afvalprobleem tegen te gaan.",
+      "summary": "Parkeerdruk niet meer als criterium voor ondergrondse containers centrum",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "centrum",
+        "parkeerdruk",
+        "ondergrondse containers",
+        "afval",
+        "criteria"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 71",
+      "originalQuote": "In het centrum laten we de parkeerdruk los als criterium voor het plaatsen van een ondergrondse container. Hiermee wordt het mogelijk om ook hier containers te plaatsen en het afvalprobleem tegen te gaan."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-134",
+      "text": "Vermindering van het aantal coffeeshops door verplaatsing uit overconcentratiegebieden als het Zeeheldenkwartier of door sluiting bij aanhoudende overlast. Harde handhaving op AHOJG-criteria met sluiting bij iedere overtreding.",
+      "summary": "Minder coffeeshops Zeeheldenkwartier, harde handhaving AHOJG-criteria",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coffeeshops",
+        "zeeheldenkwartier",
+        "ahojg-criteria",
+        "handhaving",
+        "sluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 71",
+      "originalQuote": "Vermindering van het aantal coffeeshops. Dit kan door coffeeshops te verplaatsen uit overconcentratiegebieden als het Zeeheldenkwartier of door sluiting bij aanhoudende overlast... Bij iedere overtreding van deze criteria zou er tot sluiting van de coffeeshop moeten worden overgegaan."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-135",
+      "text": "In het Zeeheldenkwartier wordt serieus gekeken naar het maken van een ondergrondse parkeergarage vanwege de hoge parkeerdruk.",
+      "summary": "Onderzoek ondergrondse parkeergarage Zeeheldenkwartier",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zeeheldenkwartier",
+        "ondergrondse parkeergarage",
+        "parkeerdruk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 71",
+      "originalQuote": "De parkeerdruk in het Zeeheldenkwartier is hoog. In de wijk zou zeer serieus gekeken moeten worden naar het maken van een ondergrondse parkeergarage."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-136",
+      "text": "Voor de Piet Heinstraat wordt het schetsontwerp voor een sterk verbeterde inrichting samen met bewoners en ondernemers opgepakt.",
+      "summary": "Verbeterde inrichting Piet Heinstraat met bewoners en ondernemers",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "piet heinstraat",
+        "inrichting",
+        "schetsontwerp",
+        "bewoners",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 72",
+      "originalQuote": "Voor de Piet Heinstraat ligt er schetsontwerp voor een sterk verbeterde inrichting voor de straat. Het CDA wil dit samen met de bewoners en ondernemers oppakken."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-137",
+      "text": "De Haagse Pandbrigade krijgt een stevige impuls om overbewoning, overlast en verloedering sterker aan te kunnen pakken.",
+      "summary": "Stevige impuls Haagse Pandbrigade tegen overbewoning en overlast",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "haagse pandbrigade",
+        "overbewoning",
+        "overlast",
+        "verloedering",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 72",
+      "originalQuote": "De Haagse Pandbrigade verdient een stevige impuls. Dan kan zij nog steviger de overbewoning, overlast en verloedering aanpakken."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-138",
+      "text": "De poller aan de Parallelweg gaat weer open om de doorstroming voor automobilisten te verbeteren.",
+      "summary": "Poller Parallelweg openen voor betere doorstroming auto's",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "poller",
+        "parallelweg",
+        "doorstroming",
+        "automobilisten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 72",
+      "originalQuote": "De poller aan de Parallelweg gaat weer open. Hierdoor komt de doorstroming voor de automobilist weer op gang."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-139",
+      "text": "De Vaillantlaan wordt aangepakt door vergroening en investeringen in verkeersveiligheid.",
+      "summary": "Aanpak Vaillantlaan: vergroening en verkeersveiligheid",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vaillantlaan",
+        "vergroening",
+        "verkeersveiligheid",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 72",
+      "originalQuote": "De Vaillantlaan wordt aangepakt. De straat wordt vergroend en verkeersveiligheid wordt in geïnvesteerd."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-140",
+      "text": "Het plantsoen en de hondenuitlaatplek aan de Delftselaan worden verder opgeknapt en de openbare sportvoorziening wordt hier uitgebreid.",
+      "summary": "Plantsoen Delftselaan verder opknappen en sportvoorziening uitbreiden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "plantsoen",
+        "delftselaan",
+        "hondenuitlaatplek",
+        "sportvoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 72",
+      "originalQuote": "Het plantsoen en de hondenuitlaatplek aan de Delftselaan is recent gedeeltelijk opgeknapt... Daarnaast willen we de kans benutten om de openbare sportvoorziening hier uit te breiden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-141",
+      "text": "Er worden betere ophaalplekken gevonden voor arbeidsmigranten die nu overlast veroorzaken op het Kaapseplein en andere plekken. Stevige handhaving van malafide uitzendbureaus is noodzakelijk.",
+      "summary": "Betere ophaalplekken arbeidsmigranten, handhaving malafide uitzendbureaus",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmigranten",
+        "ophaalplekken",
+        "kaapseplein",
+        "uitzendbureaus",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 72-73",
+      "originalQuote": "Er moeten betere ophaalplekken worden gevonden. Maar bovenal is stevige handhaving van malafide uitzendbureaus noodzakelijk."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-142",
+      "text": "Transvaal wordt groener door extra stadsbomen en ander groen.",
+      "summary": "Transvaal groener maken met extra stadsbomen en groen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transvaal",
+        "stadsbomen",
+        "groen",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 73",
+      "originalQuote": "Transvaal moet groener. Dat willen we bereiken door extra stadsbomen en ander groen."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-143",
+      "text": "In de Archipelbuurt worden maatregelen getroffen om de verkeersveiligheid te verbeteren, bijvoorbeeld in de Bankastraat waar nog te vaak te hard wordt gereden.",
+      "summary": "Maatregelen verkeersveiligheid Archipelbuurt, vooral Bankastraat",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "archipelbuurt",
+        "verkeersveiligheid",
+        "bankastraat",
+        "snelheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 73",
+      "originalQuote": "We treffen maatregelen om de verkeersveiligheid te verbeteren. In de Bankastraat wordt bijvoorbeeld nog te vaak te hard gereden."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-144",
+      "text": "Er wordt ingezet op toezicht en handhaving van containers die vaak op het trottoir staan waardoor er geen ruimte is voor rolstoelen, kinderwagens en rollators.",
+      "summary": "Toezicht containers op trottoir voor toegankelijkheid rolstoelen/kinderwagens",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "containers",
+        "trottoir",
+        "rolstoelen",
+        "kinderwagens",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 73",
+      "originalQuote": "We zetten in op toezicht en handhaving van containers die vaak op het trottoir staan waardoor er geen ruimte is voor rolstoelen, kinderwagens en rollators."
+    },
+    {
+      "promiseCode": "CDA-DH-2022-145",
+      "text": "Er wordt geëxperimenteerd met een buurtaanspreekpunt om het contact tussen het stadhuis en de buurt te verbeteren, vooral voor praktische zaken rondom leefbaarheid.",
+      "summary": "Experiment buurtaanspreekpunt voor beter contact stadhuis-buurt",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtaanspreekpunt",
+        "stadhuis",
+        "burgerparticipatie",
+        "leefbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA den-haag 2022, p. 73",
+      "originalQuote": "We verbeteren het contact tussen het stadhuis en de buurt... We experimenteren met een buurtaanspreekpunt."
+    }
+  ]
+}
