@@ -334,12 +334,17 @@ export class NotubizClient {
    *
    * Common patterns:
    *   "met de stemmen tegen van VVD, DENK, JA21, CDA en Forum voor Democratie aangenomen"
+   *   "met de stem tegen van JA21 is aangenomen" (singular)
    *   "met algemene stemmen aangenomen"
    *   "zonder hoofdelijke stemming aangenomen"
+   *   "bij acclamatie aangenomen"
    *   "verworpen"
+   *   "aangenomen" (bare result, no party detail)
    */
   parseVoteBreakdown(resultText: string, toelichting: string): ParsedVoteBreakdown {
-    const text = toelichting || resultText;
+    // Strip &nbsp; and other HTML entities before parsing
+    const rawText = toelichting || resultText;
+    const text = this.stripHtmlEntities(rawText);
     const lower = text.toLowerCase();
 
     // Determine result
@@ -347,36 +352,48 @@ export class NotubizClient {
     if (lower.includes("aangenomen")) result = "aangenomen";
     else if (lower.includes("verworpen")) result = "verworpen";
     else if (lower.includes("ingetrokken")) result = "ingetrokken";
+    else if (lower.includes("aangehouden")) result = "unknown"; // aangehouden = deferred, not voted
 
     // Determine method
     let method: ParsedVoteBreakdown["method"] = "unknown";
-    if (lower.includes("algemene stemmen") || lower.includes("unaniem")) {
+    if (lower.includes("algemene stemmen") || lower.includes("unaniem") || lower.includes("bij acclamatie")) {
       method = "unanimous";
     } else if (lower.includes("zonder hoofdelijke stemming") || lower.includes("zonder stemming")) {
       method = "no_vote";
-    } else if (lower.includes("stemmen tegen van") || lower.includes("stemmen voor van")) {
+    } else if (/stemm?en?\s+tegen\s+van/i.test(lower) || /stemm?en?\s+voor\s+van/i.test(lower)) {
+      // Match both singular "stem" and plural "stemmen"
       method = "with_against";
+    } else if (
+      result !== "unknown" && result !== "ingetrokken" &&
+      !lower.includes("stem") && !lower.includes("lid")
+    ) {
+      // Bare "aangenomen"/"verworpen" without any vote detail
+      // Treat as no_vote (unanimous agreement implied)
+      method = "no_vote";
     }
 
-    // Extract party names from "stemmen tegen van" or "stemmen voor van" patterns
+    // Extract party names from "stem(men) tegen van" or "stem(men) voor van" patterns
     let partiesAgainst: string[] = [];
     let partiesFor: string[] = [];
 
-    // Pattern: "met de stemmen tegen van X, Y, Z en W aangenomen"
+    // Pattern: "met de stem(men) tegen van X, Y, Z en W (is) aangenomen"
     const tegenMatch = text.match(
-      /stemmen\s+tegen\s+van\s+(.+?)(?:\s+(?:is\s+)?aangenomen|\s+(?:is\s+)?verworpen|\.|\s*$)/i
+      /stemm?en?\s+tegen\s+van\s+(.+?)(?:\s+(?:is\s+)?aangenomen|\s+(?:is\s+)?verworpen|\.|\s*$)/i
     );
     if (tegenMatch) {
       partiesAgainst = this.parsePartyList(tegenMatch[1]);
     }
 
-    // Pattern: "met de stemmen voor van X, Y en Z (is) verworpen" (less common)
+    // Pattern: "met de stem(men) voor van X, Y en Z (is) verworpen/aangenomen"
     const voorMatch = text.match(
-      /stemmen\s+voor\s+van\s+(.+?)(?:\s+(?:is\s+)?aangenomen|\s+(?:is\s+)?verworpen|\.|\s*$)/i
+      /stemm?en?\s+voor\s+van\s+(.+?)(?:\s+(?:is\s+)?aangenomen|\s+(?:is\s+)?verworpen|\.|\s*$)/i
     );
     if (voorMatch) {
       partiesFor = this.parsePartyList(voorMatch[1]);
     }
+
+    // Pattern: "een stemonthouding van het lid X" — note but don't count as party
+    // (individual member abstentions don't change the party-level logic)
 
     return {
       result,
@@ -481,11 +498,30 @@ export class NotubizClient {
     return text
       .split(/,\s*|\s+en\s+/i)
       .map((s) => s.trim())
-      .map((s) => s.replace(/^de\s+/i, "")) // strip leading "de" article
-      .filter((s) => s.length > 0 && !/^(is|zijn|werd|werden)$/i.test(s)); // filter stray words
+      .map((s) => s.replace(/^(de|het)\s+/i, "")) // strip leading articles
+      .filter((s) => s.length > 0)
+      .filter((s) => !/(^(is|zijn|werd|werden|deze|dit)$)/i.test(s)) // filter stray words
+      .filter((s) => !/^lid\s/i.test(s)) // filter "lid Yemane" (individual members)
+      .filter((s) => !/^leden\s/i.test(s)) // filter "leden Staartjes"
+      .filter((s) => !/een stemonthouding/i.test(s)) // filter abstention notes
+      .filter((s) => !/^\s*$/.test(s));
+  }
+
+  /**
+   * Strip HTML entities (&nbsp; etc.) and collapse whitespace
+   */
+  private stripHtmlEntities(text: string): string {
+    return text
+      .replace(/&nbsp;/gi, " ")
+      .replace(/&amp;/gi, "&")
+      .replace(/&lt;/gi, "<")
+      .replace(/&gt;/gi, ">")
+      .replace(/&#\d+;/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
   }
 
   private stripHtml(html: string): string {
-    return html.replace(/<[^>]+>/g, "").trim();
+    return html.replace(/<[^>]+>/g, "").replace(/&nbsp;/gi, " ").trim();
   }
 }

@@ -42,6 +42,7 @@ import { initLangfuse, shutdownLangfuse } from './lib/langfuse.js';
 import { parseMunicipalPrograms } from './scripts/parse-municipal-programs.js';
 import { extractMunicipalPromises } from './scripts/extract-municipal-promises.js';
 import { seedMunicipalPromises } from './scripts/seed-municipal-promises.js';
+import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.js';
 
 async function main() {
   const args = process.argv.slice(2);
@@ -411,6 +412,21 @@ async function main() {
         const smcDryRun = args.includes('--dry-run');
         const smcReplace = args.includes('--replace');
         await seedMunicipalPromises({ city: smcCity, party: smcParty, dryRun: smcDryRun, replace: smcReplace });
+        break;
+      }
+
+      case 'seed-vote-records':
+      case 'seed-municipal-votes': {
+        const svrParliament = args.find(a => a === '--parliament') ? args[args.indexOf('--parliament') + 1] : undefined;
+        if (!svrParliament) {
+          console.log('Usage: npm run ingest seed-vote-records --parliament <slug>');
+          console.log('  Slugs: amsterdam, den-haag');
+          console.log('  Flags: --dry-run, --force');
+          process.exit(1);
+        }
+        const svrDryRun = args.includes('--dry-run');
+        const svrForce = args.includes('--force');
+        await seedMunicipalVoteRecords({ parliament: svrParliament, dryRun: svrDryRun, force: svrForce });
         break;
       }
 
