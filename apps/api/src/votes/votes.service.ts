@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
+import { ABBR_MAP, TRACKED_PARTIES } from "../coalitions/coalitions.config";
 
 interface VoteListParams {
   query?: string;
@@ -100,19 +101,6 @@ export class VotesService {
   }
 
   async getConsensus() {
-    const ABBR_MAP: Record<string, string> = {
-      "GroenLinks-PvdA": "GL-PvdA",
-      "ChristenUnie": "CU",
-      "Nieuw Sociaal Contract": "NSC",
-      "Partij voor de Vrijheid (PVV)": "PVV",
-      "Partij voor de Vrijheid": "PVV",
-    };
-
-    const TRACKED_PARTIES = [
-      "PVV", "GL-PvdA", "VVD", "NSC", "BBB", "D66", "CDA", "SP",
-      "PvdD", "CU", "SGP", "DENK", "Volt", "JA21", "FVD",
-    ];
-
     const trackedSet = new Set(TRACKED_PARTIES);
 
     // count[a][b] = { agree, total }

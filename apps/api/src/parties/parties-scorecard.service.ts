@@ -24,6 +24,7 @@ export interface ScorecardOptions {
   electionYear?: number;
   periodStart?: string; // ISO date
   periodEnd?: string;   // ISO date
+  voteIdFilter?: Set<string>; // Only count votes in this set (for Vrije Stemmen MCS)
 }
 
 export interface PromiseScore {
@@ -94,9 +95,9 @@ export class PartiesScorecardService {
     // 1. Find the party
     const party = await this.findParty(partyIdOrAbbr);
 
-    // Try pre-computed scorecard first (only when using default period boundaries)
+    // Try pre-computed scorecard first (only when using default period boundaries and no vote filter)
     const isDefaultPeriod = periodStart === periodDefaults.start && periodEnd === periodDefaults.end;
-    if (isDefaultPeriod) {
+    if (isDefaultPeriod && !options.voteIdFilter) {
       const cached = await prisma.precomputedScorecard.findUnique({
         where: {
           partyId_electionYear_programType: {
@@ -176,6 +177,12 @@ export class PartiesScorecardService {
 
         const vote = match.motion.votes?.[0];
         if (!vote) { noData++; continue; }
+
+        // Skip vote if it's not in the allowed set (e.g. Vrije Stemmen filter)
+        if (options.voteIdFilter && !options.voteIdFilter.has(vote.id)) {
+          noData++;
+          continue;
+        }
 
         // Check party-level vote from individual records
         const partyRecords = vote.records || [];

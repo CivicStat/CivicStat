@@ -10,6 +10,7 @@ import { StatsModule } from "../stats/stats.module";
 import { LangfuseModule } from "../langfuse/langfuse.module";
 import { InsightsModule } from "../insights/insights.module";
 import { ParliamentModule } from "../parliament/parliament.module";
+import { CoalitionsModule } from "../coalitions/coalitions.module";
 
 @Module({
   imports: [
@@ -24,6 +25,7 @@ import { ParliamentModule } from "../parliament/parliament.module";
     LangfuseModule,
     InsightsModule,
     ParliamentModule,
+    CoalitionsModule,
   ],
 })
 export class AppModule {}

@@ -8,12 +8,14 @@ import {
 } from "@nestjs/common";
 import { PartiesService } from "./parties.service";
 import { PartiesScorecardService } from "./parties-scorecard.service";
+import { CoalitionDynamicsService } from "../coalitions/coalition-dynamics.service";
 
 @Controller("parties")
 export class PartiesController {
   constructor(
     private readonly partiesService: PartiesService,
     private readonly scorecardService: PartiesScorecardService,
+    private readonly coalitionDynamicsService: CoalitionDynamicsService,
   ) {}
 
   @Get()
@@ -130,6 +132,67 @@ export class PartiesController {
       if (err instanceof NotFoundException) throw err;
       console.error(`Coalitieverwatering computation failed for ${id}:`, err);
       throw new InternalServerErrorException("Coalitieverwatering computation failed");
+    }
+  }
+
+  // ─── Coalition dynamics ──────────────────────────────────
+
+  /** GET /parties/:id/coalition-alignment?coalition=schoof */
+  @Get(":id/coalition-alignment")
+  async coalitionAlignment(
+    @Param("id") id: string,
+    @Query("coalition") coalitionSlug?: string,
+  ) {
+    try {
+      // Get all CAI results for the coalition, then filter to this party
+      const slug = coalitionSlug || "schoof";
+      const allResults =
+        await this.coalitionDynamicsService.computeCAI(slug);
+
+      // Find by party ID or abbreviation
+      const party = await this.partiesService.get(id);
+      const result = allResults.find(
+        (r) => r.abbreviation === party.abbreviation,
+      );
+
+      if (!result) {
+        return {
+          abbreviation: party.abbreviation,
+          coalitionSlug: slug,
+          cai: null,
+          note: "Geen stemdata beschikbaar voor deze coalitieperiode",
+        };
+      }
+
+      return result;
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Coalition alignment failed for ${id}:`, err);
+      throw new InternalServerErrorException(
+        "Coalition alignment computation failed",
+      );
+    }
+  }
+
+  /** GET /parties/:id/vrije-stemmen?year=2023&coalition=schoof */
+  @Get(":id/vrije-stemmen")
+  async vrijeStemmen(
+    @Param("id") id: string,
+    @Query("year") year?: string,
+    @Query("coalition") coalitionSlug?: string,
+  ) {
+    try {
+      return await this.coalitionDynamicsService.getVrijeStemmenMCS(
+        id,
+        year ? parseInt(year) : 2023,
+        coalitionSlug,
+      );
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Vrije Stemmen MCS failed for ${id}:`, err);
+      throw new InternalServerErrorException(
+        "Vrije Stemmen MCS computation failed",
+      );
     }
   }
 

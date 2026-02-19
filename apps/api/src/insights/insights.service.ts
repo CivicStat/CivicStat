@@ -1,5 +1,10 @@
 import { Injectable } from "@nestjs/common";
 import { prisma } from "@ntp/db";
+import {
+  COALITIONS,
+  UNLIKELY_PAIRS,
+  extractPartyStances,
+} from "../coalitions/coalitions.config";
 
 // ─── Types ───────────────────────────────────────────────────
 
@@ -39,88 +44,6 @@ interface StilleConsensusMotion {
   unanimousPct: number;
   totalParties: number;
   note: string;
-}
-
-// Coalition definitions
-const COALITIONS = [
-  {
-    name: "Kabinet-Schoof",
-    year: 2024,
-    parties: ["PVV", "VVD", "NSC", "BBB"],
-  },
-];
-
-// Parties traditionally considered ideologically distant
-const UNLIKELY_PAIRS = [
-  ["PVV", "GL-PvdA"],
-  ["PVV", "D66"],
-  ["BBB", "GL-PvdA"],
-  ["SP", "VVD"],
-  ["PVV", "SP"],
-  ["SGP", "D66"],
-  ["DENK", "PVV"],
-  ["PvdD", "VVD"],
-  ["PvdD", "BBB"],
-  ["FVD", "GL-PvdA"],
-];
-
-// Map TK ActorNaam to normalized abbreviation
-// (mirrors votes.service.ts consensus endpoint)
-const ABBR_MAP: Record<string, string> = {
-  "GroenLinks-PvdA": "GL-PvdA",
-  ChristenUnie: "CU",
-  "Nieuw Sociaal Contract": "NSC",
-  "Partij voor de Vrijheid (PVV)": "PVV",
-  "Partij voor de Vrijheid": "PVV",
-};
-
-// ─── Helpers ─────────────────────────────────────────────────
-
-/**
- * Extract party stances from a vote, using rawData.Stemming
- * (works for both "Met handopsteken" and "Hoofdelijk" votes).
- * Returns Map<abbreviation, "FOR"|"AGAINST">
- */
-function extractPartyStances(vote: {
-  rawData: any;
-  records?: { voteValue: string; party: { abbreviation: string } }[];
-}): Map<string, string> {
-  const stances = new Map<string, string>();
-
-  // Primary: rawData.Stemming (works for ALL vote types)
-  const stemmingen: { ActorNaam: string; Soort: string }[] =
-    vote.rawData?.Stemming ?? [];
-
-  if (stemmingen.length > 0) {
-    for (const s of stemmingen) {
-      if (s.Soort === "Niet deelgenomen") continue;
-      const name = ABBR_MAP[s.ActorNaam] ?? s.ActorNaam;
-      const soort = s.Soort?.toLowerCase();
-      if (soort === "voor") stances.set(name, "FOR");
-      else if (soort === "tegen") stances.set(name, "AGAINST");
-    }
-    return stances;
-  }
-
-  // Fallback: VoteRecords (only for Hoofdelijk votes with expanded records)
-  if (vote.records && vote.records.length > 0) {
-    // Group by party (multiple MPs per party in Hoofdelijk)
-    const partyCounts = new Map<string, { for: number; against: number }>();
-    for (const r of vote.records) {
-      const abbr = r.party.abbreviation;
-      if (!partyCounts.has(abbr)) partyCounts.set(abbr, { for: 0, against: 0 });
-      const counts = partyCounts.get(abbr)!;
-      if (r.voteValue === "FOR") counts.for++;
-      else if (r.voteValue === "AGAINST") counts.against++;
-    }
-    for (const [abbr, counts] of partyCounts) {
-      if (counts.for > 0 || counts.against > 0) {
-        stances.set(abbr, counts.for >= counts.against ? "FOR" : "AGAINST");
-      }
-    }
-  }
-
-  return stances;
 }
 
 @Injectable()
