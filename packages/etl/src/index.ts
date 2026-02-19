@@ -6,6 +6,7 @@
 import { ingestFracties } from './ingest/fracties.js';
 import { ingestKamerleden } from './ingest/kamerleden.js';
 import { ingestMoties } from './ingest/moties.js';
+import { ingestAmendementen } from './ingest/amendementen.js';
 import { ingestStemmingen, ingestHoofdelijk } from './ingest/stemmingen.js';
 import { ingestProgrammas } from './ingest/programmas.js';
 import { ingestSponsors } from './ingest/sponsors.js';
@@ -68,6 +69,13 @@ async function main() {
         await ingestMoties(motiesLimit);
         break;
 
+      case 'amendementen': {
+        const amLimitArg = args.find(arg => arg === '--limit') ? args[args.indexOf('--limit') + 1] : args[1];
+        const amLimit = amLimitArg ? parseInt(amLimitArg) : undefined;
+        await ingestAmendementen(amLimit);
+        break;
+      }
+
       case 'stemmingen':
         // Support both 'stemmingen 5' and 'stemmingen --limit 5'
         const stemmingenLimitArg = args.find(arg => arg === '--limit') ? args[args.indexOf('--limit') + 1] : args[1];
@@ -81,6 +89,7 @@ async function main() {
         await syncSeats();
         await ingestKamerleden();
         await ingestMoties();
+        await ingestAmendementen();
         await ingestStemmingen();
         await ingestSponsors();
         console.log('\n✅ Full ingest pipeline complete!');
@@ -239,6 +248,7 @@ async function main() {
         try {
           await syncSeats();
           await ingestMoties();
+          await ingestAmendementen();
           await ingestStemmingen();
           await ingestSponsors();
           // Incremental AI matching: match new motions against promises

@@ -300,6 +300,29 @@ export class TKODataClient {
   }
 
   /**
+   * Fetch Zaken by Soort type (generic: 'Amendement', 'Motie', etc.)
+   * Uses the same Zaak entity as getBesluiten but with configurable Soort filter.
+   */
+  async getZakenBySoort(soort: string, filter?: string, top?: number): Promise<TKBesluit[]> {
+    const baseFilter = filter
+      ? filter
+      : `Verwijderd eq false and Soort eq '${soort}'`;
+    const params: Record<string, string> = {
+      $filter: baseFilter,
+      $orderby: 'GestartOp desc',
+    };
+
+    if (top && top <= 250) {
+      params.$top = top.toString();
+      return (await this.fetch<TKBesluit>('Zaak', params)).value;
+    }
+
+    // Use paginated fetchAll; optionally slice if a limit was specified
+    const all = await this.fetchAll<TKBesluit>('Zaak', params);
+    return top ? all.slice(0, top) : all;
+  }
+
+  /**
    * Fetch Besluit (vote decisions) with expanded Stemming, Zaak, and Agendapunt->Activiteit
    * StemmingsSoort ne null = actual vote decisions (not just procedural)
    */
