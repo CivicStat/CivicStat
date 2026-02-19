@@ -108,7 +108,8 @@ export class PartiesScorecardService {
       });
 
       if (cached) {
-        return cached.detailJson as unknown as PartyScorecard;
+        const detail = cached.detailJson as any;
+        return { ...detail, mandateConsistencyScore: cached.mcs } as PartyScorecard;
       }
 
       this.logger.warn(`No pre-computed scorecard for ${party.abbreviation}/${electionYear}, computing on the fly`);
@@ -310,7 +311,10 @@ export class PartiesScorecardService {
           .map((row) => {
             const detail = row.detailJson as any;
             const { promises, ...summary } = detail;
-            return summary as Omit<PartyScorecard, "promises">;
+            return {
+              ...summary,
+              mandateConsistencyScore: row.mcs,
+            } as Omit<PartyScorecard, "promises">;
           })
           .sort((a, b) => b.mandateConsistencyScore - a.mandateConsistencyScore);
       }
