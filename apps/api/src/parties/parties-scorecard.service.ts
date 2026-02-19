@@ -901,6 +901,74 @@ export class PartiesScorecardService {
     };
   }
 
+  // ─── Parliament-scoped scorecards (municipal) ──────────────
+
+  /**
+   * Get all pre-computed scorecards for a specific parliament.
+   * Used by GET /parliament/:slug/scorecards
+   */
+  async getAllScorecardsScoped(options: {
+    parliamentId?: string;
+    electionYear?: number;
+  }): Promise<Omit<PartyScorecard, "promises">[]> {
+    const where: any = {};
+    if (options.parliamentId) where.parliamentId = options.parliamentId;
+    if (options.electionYear) where.electionYear = options.electionYear;
+    where.programType = "VERKIEZINGSPROGRAMMA";
+
+    const precomputed = await prisma.precomputedScorecard.findMany({
+      where,
+      include: { party: { select: { id: true, abbreviation: true } } },
+    });
+
+    if (precomputed.length === 0) return [];
+
+    return precomputed
+      .map((row) => {
+        const detail = row.detailJson as any;
+        const { promises, ...summary } = detail;
+        return {
+          ...summary,
+          partyId: row.partyId,
+          abbreviation: row.party.abbreviation,
+          mandateConsistencyScore: row.mcs,
+        } as Omit<PartyScorecard, "promises">;
+      })
+      .sort((a, b) => b.mandateConsistencyScore - a.mandateConsistencyScore);
+  }
+
+  /**
+   * Get a single pre-computed scorecard for a party (with full detail).
+   * Used by GET /parliament/:slug/parties/:id/scorecard
+   */
+  async getScorecardScoped(
+    partyIdOrAbbr: string,
+    options: { electionYear?: number } = {},
+  ): Promise<PartyScorecard> {
+    const party = await this.findParty(partyIdOrAbbr);
+    const electionYear = options.electionYear ?? 2022;
+
+    const cached = await prisma.precomputedScorecard.findFirst({
+      where: {
+        partyId: party.id,
+        electionYear,
+        programType: "VERKIEZINGSPROGRAMMA",
+      },
+    });
+
+    if (!cached) {
+      throw new NotFoundException(
+        `Geen scorecard gevonden voor ${party.abbreviation} (${electionYear})`,
+      );
+    }
+
+    const detail = cached.detailJson as any;
+    return {
+      ...detail,
+      mandateConsistencyScore: cached.mcs,
+    } as PartyScorecard;
+  }
+
   // ─── Available election years ────────────────────────────
   async getAvailableYears(): Promise<number[]> {
     const result = await prisma.$queryRaw<{ election_year: number }[]>`
