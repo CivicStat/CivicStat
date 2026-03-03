@@ -1,8 +1,8 @@
 /**
- * Ingest Besluiten (Moties) from Tweede Kamer OData API
+ * Ingest Besluiten (Moties, Amendementen, Wetsvoorstellen) from Tweede Kamer OData API
  *
  * Supports incremental mode: when no limit is specified, only fetches
- * motions newer than the most recent one in the database.
+ * items newer than the most recent one in the database.
  * This reduces hourly sync from ~40min (12K upserts) to ~30s (new only).
  */
 
@@ -12,7 +12,7 @@ import { tkClient, type TKBesluit } from '../clients/tk-odata.js';
 const prisma = new PrismaClient();
 
 export async function ingestMoties(limit?: number): Promise<void> {
-  console.log('[INGEST] Starting Moties ingest...');
+  console.log('[INGEST] Starting legislative items ingest (Moties, Amendementen, Wetsvoorstellen)...');
 
   try {
     // Determine start date: if no limit, use incremental mode
@@ -30,17 +30,17 @@ export async function ingestMoties(limit?: number): Promise<void> {
         const lookback = new Date(latest.dateIntroduced);
         lookback.setDate(lookback.getDate() - 7);
         startDate = lookback.toISOString();
-        console.log(`[INGEST] Incremental mode: fetching motions since ${lookback.toISOString().split('T')[0]}`);
+        console.log(`[INGEST] Incremental mode: fetching legislative items since ${lookback.toISOString().split('T')[0]}`);
       } else {
-        console.log(`[INGEST] No existing motions found, full ingest from 2023`);
+        console.log(`[INGEST] No existing items found, full ingest from 2023`);
       }
     }
 
     const filter =
-      `Verwijderd eq false and Soort eq 'Motie' and GestartOp ge ${startDate}`;
+      `Verwijderd eq false and (Soort eq 'Motie' or Soort eq 'Amendement' or Soort eq 'Wetsvoorstel') and GestartOp ge ${startDate}`;
     const besluiten = await tkClient.getBesluiten(filter, limit);
 
-    console.log(`[INGEST] Found ${besluiten.length} moties to process`);
+    console.log(`[INGEST] Found ${besluiten.length} legislative items to process`);
 
     // Pre-load existing tkIds to skip unnecessary upserts
     const existingMotions = await prisma.motion.findMany({
@@ -57,7 +57,7 @@ export async function ingestMoties(limit?: number): Promise<void> {
 
     for (const besluit of besluiten) {
       if (!besluit.GestartOp) {
-        console.log(`[INGEST] ⚠️  Skipping motie ${besluit.Id} (no date)`);
+        console.log(`[INGEST] ⚠️  Skipping ${besluit.Soort || 'item'} ${besluit.Id} (no date)`);
         skipped++;
         continue;
       }
@@ -104,9 +104,16 @@ export async function ingestMoties(limit?: number): Promise<void> {
       }
     }
 
-    console.log(`[INGEST] ✅ Moties ingest complete: ${created} new, ${updated} updated, ${skipped} skipped`);
+    // Summary by type
+    const typeCounts = besluiten.reduce((acc, b) => {
+      acc[b.Soort] = (acc[b.Soort] || 0) + 1;
+      return acc;
+    }, {} as Record<string, number>);
+    console.log(`[INGEST] By type:`, typeCounts);
+
+    console.log(`[INGEST] ✅ Legislative items ingest complete: ${created} new, ${updated} updated, ${skipped} skipped`);
   } catch (error) {
-    console.error('[INGEST] ❌ Moties ingest failed:', error);
+    console.error('[INGEST] ❌ Legislative items ingest failed:', error);
     throw error;
   }
 }

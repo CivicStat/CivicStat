@@ -7,6 +7,7 @@ interface MotionListParams {
   party?: string;
   status?: string;
   result?: string;
+  soort?: string; // "Motie" | "Amendement" | "Wetsvoorstel"
   hasVotes?: boolean;
   hasPromiseMatches?: boolean;
   limit: number;
@@ -18,11 +19,15 @@ interface MotionListParams {
 export class MotionsService {
   constructor(private readonly predictionsService: PredictionsService) {}
 
-  async list({ query, party, status, result, hasVotes, hasPromiseMatches, limit, offset, parliamentId }: MotionListParams) {
+  async list({ query, party, status, result, soort, hasVotes, hasPromiseMatches, limit, offset, parliamentId }: MotionListParams) {
     const where: any = {};
 
     if (parliamentId) {
       where.parliamentId = parliamentId;
+    }
+
+    if (soort) {
+      where.soort = soort;
     }
 
     if (query) {

@@ -8,6 +8,13 @@ const MATCH_TYPE_WEIGHTS: Record<string, number> = {
   CONTRADICTS: 1.0,
 };
 
+// ─── F4: Motion type weights (legislation > motions) ───────
+const MOTION_TYPE_WEIGHTS: Record<string, number> = {
+  'Wetsvoorstel': 2.0,   // Actual law — highest weight
+  'Amendement': 1.5,     // Binding amendment — medium-high
+  'Motie': 1.0,          // Non-binding motion — baseline
+};
+
 // ─── B3: Minimum threshold ─────────────────────────────────
 const MIN_MOTIONS_THRESHOLD = 3;
 
@@ -171,9 +178,10 @@ export class PartiesScorecardService {
         // Skip weak matches (confidence < 30%)
         if (match.confidence < 0.3) continue;
 
-        // B2: Confidence-weighted scoring
+        // B2: Confidence-weighted scoring + F4: Motion type weighting
         const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;
-        const effectiveWeight = matchTypeWeight * match.confidence;
+        const motionTypeWeight = MOTION_TYPE_WEIGHTS[match.motion.soort ?? 'Motie'] ?? 1.0;
+        const effectiveWeight = matchTypeWeight * match.confidence * motionTypeWeight;
 
         const vote = match.motion.votes?.[0];
         if (!vote) { noData++; continue; }
@@ -679,8 +687,10 @@ export class PartiesScorecardService {
       for (const match of promise.motionMatches) {
         if (match.confidence < 0.3) continue;
 
+        // F4: Motion type weighting
         const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;
-        const effectiveWeight = matchTypeWeight * match.confidence;
+        const motionTypeWeight = MOTION_TYPE_WEIGHTS[match.motion.soort ?? 'Motie'] ?? 1.0;
+        const effectiveWeight = matchTypeWeight * match.confidence * motionTypeWeight;
 
         const vote = match.motion.votes?.[0];
         if (!vote) { noData++; continue; }
