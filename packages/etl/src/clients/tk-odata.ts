@@ -291,12 +291,14 @@ export class TKODataClient {
       $orderby: 'GestartOp desc',
     };
 
-    if (top) {
+    if (top && top <= 250) {
       params.$top = top.toString();
       return (await this.fetch<TKBesluit>('Zaak', params)).value;
     }
 
-    return this.fetchAll<TKBesluit>('Zaak', params);
+    // For large limits or no limit, use pagination (API max $top is 250)
+    const allItems = await this.fetchAll<TKBesluit>('Zaak', params);
+    return top ? allItems.slice(0, top) : allItems;
   }
 
   /**
