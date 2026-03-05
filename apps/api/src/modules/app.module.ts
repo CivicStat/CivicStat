@@ -11,6 +11,7 @@ import { LangfuseModule } from "../langfuse/langfuse.module";
 import { InsightsModule } from "../insights/insights.module";
 import { ParliamentModule } from "../parliament/parliament.module";
 import { CoalitionsModule } from "../coalitions/coalitions.module";
+import { CampaignModule } from "../campaign/campaign.module";
 
 @Module({
   imports: [
@@ -26,6 +27,7 @@ import { CoalitionsModule } from "../coalitions/coalitions.module";
     InsightsModule,
     ParliamentModule,
     CoalitionsModule,
+    CampaignModule,
   ],
 })
 export class AppModule {}

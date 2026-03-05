@@ -7,6 +7,7 @@ import { ingestFracties } from './ingest/fracties.js';
 import { ingestKamerleden } from './ingest/kamerleden.js';
 import { ingestMoties } from './ingest/moties.js';
 import { ingestAmendementen } from './ingest/amendementen.js';
+import { ingestWetsvoorstellen } from './ingest/wetsvoorstellen.js';
 import { ingestStemmingen, ingestHoofdelijk } from './ingest/stemmingen.js';
 import { ingestProgrammas } from './ingest/programmas.js';
 import { ingestSponsors } from './ingest/sponsors.js';
@@ -43,6 +44,8 @@ import { initLangfuse, shutdownLangfuse } from './lib/langfuse.js';
 import { parseMunicipalPrograms } from './scripts/parse-municipal-programs.js';
 import { extractMunicipalPromises } from './scripts/extract-municipal-promises.js';
 import { seedMunicipalPromises } from './scripts/seed-municipal-promises.js';
+import { extractMunicipalPromises as extractMunicipalPromises2026 } from './scripts/extract-municipal-promises-2026.js';
+import { seedMunicipalPromises as seedMunicipalPromises2026 } from './scripts/seed-municipal-promises-2026.js';
 import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.js';
 
 async function main() {
@@ -76,6 +79,13 @@ async function main() {
         break;
       }
 
+      case 'wetsvoorstellen': {
+        const wvLimitArg = args.find(arg => arg === '--limit') ? args[args.indexOf('--limit') + 1] : args[1];
+        const wvLimit = wvLimitArg ? parseInt(wvLimitArg) : undefined;
+        await ingestWetsvoorstellen(wvLimit);
+        break;
+      }
+
       case 'stemmingen':
         // Support both 'stemmingen 5' and 'stemmingen --limit 5'
         const stemmingenLimitArg = args.find(arg => arg === '--limit') ? args[args.indexOf('--limit') + 1] : args[1];
@@ -90,6 +100,7 @@ async function main() {
         await ingestKamerleden();
         await ingestMoties();
         await ingestAmendementen();
+        await ingestWetsvoorstellen();
         await ingestStemmingen();
         await ingestSponsors();
         console.log('\n✅ Full ingest pipeline complete!');
@@ -249,6 +260,7 @@ async function main() {
           await syncSeats();
           await ingestMoties();
           await ingestAmendementen();
+          await ingestWetsvoorstellen();
           await ingestStemmingen();
           await ingestSponsors();
           // Incremental AI matching: match new motions against promises
@@ -440,11 +452,35 @@ async function main() {
         break;
       }
 
+      case 'extract-municipal-2026': {
+        const em26City = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : 'all';
+        const em26Party = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const em26DryRun = args.includes('--dry-run');
+        initLangfuse();
+        try {
+          await extractMunicipalPromises2026({ city: em26City, party: em26Party, dryRun: em26DryRun });
+        } finally {
+          await shutdownLangfuse();
+        }
+        break;
+      }
+
+      case 'seed-municipal-2026': {
+        const sm26City = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : 'all';
+        const sm26Party = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const sm26DryRun = args.includes('--dry-run');
+        const sm26Replace = args.includes('--replace');
+        await seedMunicipalPromises2026({ city: sm26City, party: sm26Party, dryRun: sm26DryRun, replace: sm26Replace });
+        break;
+      }
+
       default:
         console.log('Usage:');
         console.log('  npm run ingest fracties          - Ingest all fracties (parties)');
         console.log('  npm run ingest kamerleden         - Ingest all kamerleden (MPs)');
         console.log('  npm run ingest moties [limit]     - Ingest moties (motions)');
+        console.log('  npm run ingest amendementen [limit] - Ingest amendementen (amendments)');
+        console.log('  npm run ingest wetsvoorstellen [limit] - Ingest wetsvoorstellen (bills)');
         console.log('  npm run ingest stemmingen [limit] - Ingest stemmingen (votes)');
         console.log('  npm run ingest all                - Run full pipeline (2025+)');
         console.log('  npm run ingest 2025               - Run 2025+ pipeline');
@@ -545,6 +581,19 @@ async function main() {
         console.log('  npm run ingest seed-municipal --party PvdA               - Seed only PvdA');
         console.log('  npm run ingest seed-municipal --dry-run                  - Preview seeding');
         console.log('  npm run ingest seed-municipal --replace                  - Delete existing before seeding');
+        console.log('');
+        console.log('  --- Municipal 2026 Promise Pipeline ---');
+        console.log('  npm run ingest extract-municipal-2026                     - Extract 2026 promises from all municipal programs (LLM)');
+        console.log('  npm run ingest extract-municipal-2026 --city amsterdam    - Extract only Amsterdam 2026 promises');
+        console.log('  npm run ingest extract-municipal-2026 --city den-haag     - Extract only Den Haag 2026 promises');
+        console.log('  npm run ingest extract-municipal-2026 --party vvd         - Extract only VVD 2026 promises');
+        console.log('  npm run ingest extract-municipal-2026 --dry-run           - Preview extraction (no API calls)');
+        console.log('  npm run ingest seed-municipal-2026                        - Seed all 2026 municipal promises to DB');
+        console.log('  npm run ingest seed-municipal-2026 --city amsterdam       - Seed only Amsterdam 2026');
+        console.log('  npm run ingest seed-municipal-2026 --city den-haag        - Seed only Den Haag 2026');
+        console.log('  npm run ingest seed-municipal-2026 --party vvd            - Seed only VVD 2026');
+        console.log('  npm run ingest seed-municipal-2026 --dry-run              - Preview seeding');
+        console.log('  npm run ingest seed-municipal-2026 --replace              - Delete existing before seeding');
         console.log('');
         console.log('  --- AI Provider (applies to all AI tasks) ---');
         console.log('  Set OPENROUTER_API_KEY in .env to use OpenRouter (recommended)');
