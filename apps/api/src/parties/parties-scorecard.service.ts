@@ -175,8 +175,8 @@ export class PartiesScorecardService {
       let noData = 0;
 
       for (const match of promise.motionMatches) {
-        // Skip weak matches (confidence < 30%)
-        if (match.confidence < 0.3) continue;
+        // Skip weak matches (confidence < 50%) — tuned from 30% based on quality review
+        if (match.confidence < 0.5) continue;
 
         // B2: Confidence-weighted scoring + F4: Motion type weighting
         const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;
@@ -698,7 +698,7 @@ export class PartiesScorecardService {
       let noData = 0;
 
       for (const match of promise.motionMatches) {
-        if (match.confidence < 0.3) continue;
+        if (match.confidence < 0.5) continue;
 
         // F4: Motion type weighting
         const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;

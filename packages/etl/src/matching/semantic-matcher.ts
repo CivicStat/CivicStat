@@ -46,7 +46,7 @@ const prisma = new PrismaClient();
 
 const MAX_CANDIDATES = 80;
 const BATCH_SIZE = 16; // 16 motions per API call (Opus handles large context well)
-const MIN_CONFIDENCE = 0.4;
+const MIN_CONFIDENCE = 0.5; // Tuned: 0.40-0.49 matches are too tangential for scoring
 const RATE_LIMIT_MS = 100; // minimal delay between batches (OpenRouter handles rate limiting)
 const MATCH_METHOD = 'semantic-claude';
 const ALGORITHM_VERSION = 'semantic-claude-v1';
