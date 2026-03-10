@@ -1,0 +1,15 @@
+2026-03-10T16:25:10+01:00 === Agent loop starting ===
+2026-03-10T16:25:10+01:00 Picked task: P2.2.2 Wire PartyBadge into Verbinding page pair rows
+2026-03-10T16:25:10+01:00 Invoking Claude Code...
+P2.2.2 is already complete. The `PartyBadge` component was already wired into the `PairRow` function in `civicstat-web/app/verbinding/page.tsx` (lines 134–138):
+
+```tsx
+<div className="flex items-center gap-1.5 min-w-fit shrink-0">
+  <PartyBadge abbreviation={pair.a} size="sm" />
+  <span className="text-[10px] text-text-tertiary">&amp;</span>
+  <PartyBadge abbreviation={pair.b} size="sm" />
+</div>
+```
+
+Both monorepo typecheck (`pnpm typecheck`) and web app TypeScript (`tsc --noEmit`) pass clean. Marked task as `[x]` done in TASKS.md.
+2026-03-10T16:26:25+01:00 Committing changes...
