@@ -35,7 +35,7 @@ _Source: PROMPT-three-fixes.md, PROMPT-verbinding-fix.md_
 
 - [x] P2.2.1 Build pre-computed consensus API endpoint (GET /votes/consensus)
 - [x] P2.2.2 Wire PartyBadge into Verbinding page pair rows
-- [ ] P2.2.3 Simplify frontend to fetch consensus endpoint instead of client-side calc
+- [x] P2.2.3 Simplify frontend to fetch consensus endpoint instead of client-side calc
 
 ### P2.3 — Transparency UI
 _Source: PROMPT-quick-fixes-transparency.md_

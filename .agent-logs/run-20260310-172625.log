@@ -1,0 +1,13 @@
+2026-03-10T17:26:25+01:00 === Agent loop starting ===
+2026-03-10T17:26:25+01:00 Picked task: P2.2.3 Simplify frontend to fetch consensus endpoint instead of client-side calc
+2026-03-10T17:26:25+01:00 Invoking Claude Code...
+Done. Here's a summary of what was changed:
+
+**Problem found**: The main migration from client-side consensus calculation to the `/votes/consensus` endpoint was already done in a prior commit (`d3e1f7e`). However, two bugs remained in both Verbinding page files:
+
+1. **`displayPct` unused bug** — `PairRow` computed `displayPct = invert ? 100 - pair.pct : pair.pct` but used `pair.pct` directly for both the bar width and label. For the "Meest verdeeld" section (`invert=true`), this meant showing 30% agreement instead of the correct 70% disagreement. Fixed by replacing `pair.pct` with `displayPct` in both places.
+
+2. **Unused `Link` import** — `import Link from "next/link"` was present but never used in either file. Removed.
+
+Both `app/verbinding/page.tsx` and `app/nl/tweede-kamer/verbinding/page.tsx` were updated. Typecheck passes cleanly.
+2026-03-10T17:29:58+01:00 Committing changes...
