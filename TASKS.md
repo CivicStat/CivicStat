@@ -52,10 +52,10 @@ _Source: PROMPT-three-fixes.md, PROMPT-verbinding-fix.md_
 ### P2.3 — Transparency UI
 _Source: PROMPT-quick-fixes-transparency.md_
 
-- [ ] P2.3.1 Wire footer links (Over, Methodologie, Open API, Governance)
-- [ ] P2.3.2 Nav cleanup — remove "Home", add Verbinding/Transparantie to mobile nav
-- [ ] P2.3.3 Build MethodologyPanel slide-out with accordion sections
-- [ ] P2.3.4 Build Term inline tooltip component + MethodologyLink button
+- [x] P2.3.1 Wire footer links (Over, Methodologie, Open API, Governance)
+- [x] P2.3.2 Nav cleanup — remove "Home", add Verbinding/Transparantie to mobile nav
+- [x] P2.3.3 Build MethodologyPanel slide-out with accordion sections
+- [x] P2.3.4 Build Term inline tooltip component + MethodologyLink button
 
 ### P2.4 — Semantic Matching Improvements
 _Source: handover-2026-02-11.md_
