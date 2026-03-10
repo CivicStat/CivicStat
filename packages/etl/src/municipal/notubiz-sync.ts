@@ -334,11 +334,14 @@ function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-// ── Entry point ────────────────────────────────────────────
+// ── Entry point (only when run directly) ───────────────────
 
-syncNotubiz()
-  .catch((err) => {
-    console.error("Fatal error:", err);
-    process.exit(1);
-  })
-  .finally(() => prisma.$disconnect());
+const isDirectRun = process.argv[1]?.includes("notubiz-sync");
+if (isDirectRun) {
+  syncNotubiz()
+    .catch((err) => {
+      console.error("Fatal error:", err);
+      process.exit(1);
+    })
+    .finally(() => prisma.$disconnect());
+}
