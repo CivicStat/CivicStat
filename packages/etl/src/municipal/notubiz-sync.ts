@@ -39,10 +39,30 @@ function parseArgs() {
   return { parliamentSlug, dateFrom, dateTo };
 }
 
+// ── Exported function for CLI integration ─────────────────
+
+export interface SyncNotubizParams {
+  parliament: string;
+  from?: string;
+  to?: string;
+}
+
+export async function runNotubizSync(params: SyncNotubizParams) {
+  return syncNotubizImpl(
+    params.parliament,
+    params.from ?? "2022-03-01",
+    params.to ?? new Date().toISOString().split("T")[0],
+  );
+}
+
 // ── Main sync logic ────────────────────────────────────────
 
 async function syncNotubiz() {
   const { parliamentSlug, dateFrom, dateTo } = parseArgs();
+  return syncNotubizImpl(parliamentSlug, dateFrom, dateTo);
+}
+
+async function syncNotubizImpl(parliamentSlug: string, dateFrom: string, dateTo: string) {
 
   // Load parliament config
   const parliament = await prisma.parliament.findUnique({

@@ -47,6 +47,7 @@ import { seedMunicipalPromises } from './scripts/seed-municipal-promises.js';
 import { extractMunicipalPromises as extractMunicipalPromises2026 } from './scripts/extract-municipal-promises-2026.js';
 import { seedMunicipalPromises as seedMunicipalPromises2026 } from './scripts/seed-municipal-promises-2026.js';
 import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.js';
+import { runNotubizSync } from './municipal/notubiz-sync.js';
 import { runEmbedPassages } from './scripts/embed-passages.js';
 
 async function main() {
@@ -467,6 +468,21 @@ async function main() {
         break;
       }
 
+      case 'sync-municipal':
+      case 'notubiz-sync': {
+        const smSlug = args.find(a => a === '--parliament') ? args[args.indexOf('--parliament') + 1] : undefined;
+        if (!smSlug) {
+          console.log('Usage: pnpm dev -- sync-municipal --parliament <slug>');
+          console.log('  Slugs: amsterdam, den-haag');
+          console.log('  Flags: --from YYYY-MM-DD, --to YYYY-MM-DD');
+          process.exit(1);
+        }
+        const smFrom = args.find(a => a === '--from') ? args[args.indexOf('--from') + 1] : undefined;
+        const smTo = args.find(a => a === '--to') ? args[args.indexOf('--to') + 1] : undefined;
+        await runNotubizSync({ parliament: smSlug, from: smFrom, to: smTo });
+        break;
+      }
+
       case 'extract-municipal-2026': {
         const em26City = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : 'all';
         const em26Party = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
@@ -600,6 +616,11 @@ async function main() {
         console.log('  npm run ingest incremental-match --dry-run             - Preview candidates (no API calls)');
         console.log('  npm run ingest incremental-match --limit 10            - Process first 10 unmatched motions');
         console.log('  npm run ingest incremental-match --max-cost 5.00       - Set max cost in dollars (default: $5)');
+        console.log('');
+        console.log('  --- Municipal NotuBiz Sync ---');
+        console.log('  npm run ingest sync-municipal --parliament amsterdam   - Sync Amsterdam motions from NotuBiz');
+        console.log('  npm run ingest sync-municipal --parliament den-haag    - Sync Den Haag motions from NotuBiz');
+        console.log('  npm run ingest sync-municipal --parliament den-haag --from 2024-01-01  - Sync from specific date');
         console.log('');
         console.log('  --- Municipal Promise Pipeline ---');
         console.log('  npm run ingest parse-municipal                         - Parse all municipal PDFs to JSON');
