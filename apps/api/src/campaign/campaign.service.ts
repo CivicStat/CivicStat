@@ -6,14 +6,14 @@ export interface ElectionOverviewParty {
   abbreviation: string;
   name: string;
   seats: number | null;
-  historicalMcs: number | null;       // 2022 MCS
+  historicalMcs: number | null;       // 2023 MCS (TK2023)
   historicalScoredPromises: number | null;
   historicalTotalPromises: number | null;
-  vooruitblikMcs: number | null;      // 2026 MCS
+  vooruitblikMcs: number | null;      // 2025 MCS (TK2025)
   vooruitblikScoredPromises: number | null;
   vooruitblikTotalPromises: number | null;
-  promiseCount2022: number;
-  promiseCount2026: number;
+  promiseCount2023: number;
+  promiseCount2025: number;
 }
 
 export interface ElectionOverviewResponse {
@@ -43,11 +43,11 @@ export class CampaignService {
       select: { id: true, abbreviation: true, name: true, seats: true },
     });
 
-    // Get pre-computed scorecards for 2022 + 2026
-    const [scorecards2022, scorecards2026] = await Promise.all([
+    // Get pre-computed scorecards for TK2023 (historical) + TK2025 (vooruitblik)
+    const [scorecards2023, scorecards2025] = await Promise.all([
       prisma.precomputedScorecard.findMany({
         where: {
-          electionYear: 2022,
+          electionYear: 2023,
           programType: "VERKIEZINGSPROGRAMMA",
           partyId: { in: parties.map((p) => p.id) },
         },
@@ -60,7 +60,7 @@ export class CampaignService {
       }),
       prisma.precomputedScorecard.findMany({
         where: {
-          electionYear: 2026,
+          electionYear: 2025,
           programType: "VERKIEZINGSPROGRAMMA",
           partyId: { in: parties.map((p) => p.id) },
         },
@@ -73,14 +73,14 @@ export class CampaignService {
       }),
     ]);
 
-    // Get promise counts for 2022 + 2026
-    const [promiseCounts2022, promiseCounts2026] = await Promise.all([
+    // Get promise counts for TK2023 + TK2025
+    const [promiseCounts2023, promiseCounts2025] = await Promise.all([
       prisma.promise.groupBy({
         by: ["programId"],
         where: {
           program: {
             parliamentId: parliament.id,
-            electionYear: 2022,
+            electionYear: 2023,
             programType: "VERKIEZINGSPROGRAMMA",
           },
         },
@@ -104,7 +104,7 @@ export class CampaignService {
         where: {
           program: {
             parliamentId: parliament.id,
-            electionYear: 2026,
+            electionYear: 2025,
             programType: "VERKIEZINGSPROGRAMMA",
           },
         },
@@ -125,32 +125,32 @@ export class CampaignService {
     ]);
 
     // Build lookup maps
-    const sc2022Map = new Map(scorecards2022.map((s) => [s.partyId, s]));
-    const sc2026Map = new Map(scorecards2026.map((s) => [s.partyId, s]));
+    const sc2023Map = new Map(scorecards2023.map((s) => [s.partyId, s]));
+    const sc2025Map = new Map(scorecards2025.map((s) => [s.partyId, s]));
 
     // Merge into party overview — only include parties that have at least some data
     const overviewParties: ElectionOverviewParty[] = parties
       .filter((p) => {
-        const has2022 = sc2022Map.has(p.id) || (promiseCounts2022.get(p.id) ?? 0) > 0;
-        const has2026 = sc2026Map.has(p.id) || (promiseCounts2026.get(p.id) ?? 0) > 0;
-        return has2022 || has2026;
+        const has2023 = sc2023Map.has(p.id) || (promiseCounts2023.get(p.id) ?? 0) > 0;
+        const has2025 = sc2025Map.has(p.id) || (promiseCounts2025.get(p.id) ?? 0) > 0;
+        return has2023 || has2025;
       })
       .map((p) => {
-        const sc2022 = sc2022Map.get(p.id);
-        const sc2026 = sc2026Map.get(p.id);
+        const sc2023 = sc2023Map.get(p.id);
+        const sc2025 = sc2025Map.get(p.id);
         return {
           partyId: p.id,
           abbreviation: p.abbreviation,
           name: p.name,
           seats: p.seats,
-          historicalMcs: sc2022?.mcs ?? null,
-          historicalScoredPromises: sc2022?.scoredPromises ?? null,
-          historicalTotalPromises: sc2022?.totalPromises ?? null,
-          vooruitblikMcs: sc2026?.mcs ?? null,
-          vooruitblikScoredPromises: sc2026?.scoredPromises ?? null,
-          vooruitblikTotalPromises: sc2026?.totalPromises ?? null,
-          promiseCount2022: promiseCounts2022.get(p.id) ?? 0,
-          promiseCount2026: promiseCounts2026.get(p.id) ?? 0,
+          historicalMcs: sc2023?.mcs ?? null,
+          historicalScoredPromises: sc2023?.scoredPromises ?? null,
+          historicalTotalPromises: sc2023?.totalPromises ?? null,
+          vooruitblikMcs: sc2025?.mcs ?? null,
+          vooruitblikScoredPromises: sc2025?.scoredPromises ?? null,
+          vooruitblikTotalPromises: sc2025?.totalPromises ?? null,
+          promiseCount2023: promiseCounts2023.get(p.id) ?? 0,
+          promiseCount2025: promiseCounts2025.get(p.id) ?? 0,
         };
       })
       .sort((a, b) => a.abbreviation.localeCompare(b.abbreviation));
