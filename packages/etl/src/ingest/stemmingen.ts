@@ -12,18 +12,18 @@
  */
 
 import { PrismaClient } from '@prisma/client';
-import type { VoteValue } from '@prisma/client';
+import type { VoteValue as VoteValueEnum } from '@prisma/client';
 
 // ESM/CJS interop: Prisma enum chained assignments aren't statically analyzable
 // by Node.js v20. Use string literals that match the enum values at runtime.
-const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValue>;
+const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValueEnum>;
 import { tkClient, type TKBesluitVote, type TKStemming } from '../clients/tk-odata.js';
 
 export { ingestHoofdelijk };
 
 const prisma = new PrismaClient();
 
-function mapVoteValue(soort: string): VoteValue {
+function mapVoteValue(soort: string): VoteValueEnum {
   switch (soort) {
     case 'Voor':
       return VoteValue.FOR;
@@ -192,7 +192,7 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
         let totalAbstain = 0;
 
         // Collect VoteRecord data for batch writing (Hoofdelijk votes)
-        const recordsToWrite: { mpId: string; voteValue: VoteValue; partyId: string | null }[] = [];
+        const recordsToWrite: { mpId: string; voteValue: VoteValueEnum; partyId: string | null }[] = [];
 
         // Process Stemming records (party-level or individual votes)
         for (const stemming of stemmingen) {
@@ -225,7 +225,7 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
 
         // Batch upsert VoteRecords using a transaction (much faster than sequential)
         // Filter out records with no party — partyIdSnapshot is required in the schema
-        const validRecords = recordsToWrite.filter(r => r.partyId != null) as { mpId: string; voteValue: VoteValue; partyId: string }[];
+        const validRecords = recordsToWrite.filter(r => r.partyId != null) as { mpId: string; voteValue: VoteValueEnum; partyId: string }[];
         if (validRecords.length > 0) {
           await prisma.$transaction(
             validRecords.map(r =>
@@ -344,7 +344,7 @@ async function ingestHoofdelijk(limit?: number): Promise<void> {
         let totalFor = 0, totalAgainst = 0, totalAbstain = 0;
 
         // Collect all VoteRecord data first, then batch-write
-        const recordsToWrite: { mpId: string; voteValue: VoteValue; partyId: string | null }[] = [];
+        const recordsToWrite: { mpId: string; voteValue: VoteValueEnum; partyId: string | null }[] = [];
 
         for (const stemming of stemmingen) {
           if (stemming.Verwijderd) continue;
@@ -365,7 +365,7 @@ async function ingestHoofdelijk(limit?: number): Promise<void> {
 
         // Batch upsert VoteRecords using a transaction (much faster than sequential)
         // Filter out records with no party — partyIdSnapshot is required in the schema
-        const validRecords = recordsToWrite.filter(r => r.partyId != null) as { mpId: string; voteValue: VoteValue; partyId: string }[];
+        const validRecords = recordsToWrite.filter(r => r.partyId != null) as { mpId: string; voteValue: VoteValueEnum; partyId: string }[];
         if (validRecords.length > 0) {
           await prisma.$transaction(
             validRecords.map(r =>

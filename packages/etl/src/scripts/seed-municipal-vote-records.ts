@@ -21,9 +21,9 @@
  */
 
 import { PrismaClient } from "@prisma/client";
-import type { VoteValue } from "@prisma/client";
+import type { VoteValue as VoteValueEnum } from "@prisma/client";
 
-const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValue>;
+const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValueEnum>;
 import { NotubizClient, type ParsedVoteBreakdown } from "../municipal/notubiz-client.js";
 
 const prisma = new PrismaClient();
@@ -236,7 +236,7 @@ export async function seedMunicipalVoteRecords(opts: {
     }
 
     // Determine party votes
-    const partyVotes = new Map<string, VoteValue>(); // partyId → vote
+    const partyVotes = new Map<string, VoteValueEnum>(); // partyId → vote
 
     if (breakdown.method === "unanimous" || breakdown.method === "no_vote") {
       // All parties voted VOOR (if aangenomen) or all TEGEN (if verworpen)

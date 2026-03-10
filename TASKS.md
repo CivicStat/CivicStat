@@ -26,7 +26,7 @@ _Source: PROMPT-P2-scorecard-improvements.md, handover-2026-02-09_
 ### P2.1 — ETL Automation
 _Source: PROMPT-etl-cron.md, PROMPT-three-fixes.md_
 
-- [ ] P2.1.1 Verify `sync` and `incremental` CLI commands work end-to-end
+- [x] P2.1.1 Verify `sync` and `incremental` CLI commands work end-to-end
 - [ ] P2.1.2 Set up GitHub Actions hourly cron (.github/workflows/etl-sync.yml)
 - [ ] P2.1.3 Add DATABASE_URL + OPENROUTER_API_KEY secrets to GitHub repo
 

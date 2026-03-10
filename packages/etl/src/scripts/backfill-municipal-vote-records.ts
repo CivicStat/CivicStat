@@ -16,9 +16,9 @@
  */
 
 import { PrismaClient } from "@prisma/client";
-import type { VoteValue } from "@prisma/client";
+import type { VoteValue as VoteValueEnum } from "@prisma/client";
 
-const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValue>;
+const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValueEnum>;
 
 const prisma = new PrismaClient();
 
@@ -108,7 +108,7 @@ async function backfillVoteRecords(parliamentSlug?: string) {
         continue;
       }
 
-      const records: { voteId: string; mpId: string; partyIdSnapshot: string; voteValue: VoteValue }[] = [];
+      const records: { voteId: string; mpId: string; partyIdSnapshot: string; voteValue: VoteValueEnum }[] = [];
 
       // Process FOR votes
       for (const partyName of breakdown.partiesFor) {
