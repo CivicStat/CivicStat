@@ -19,7 +19,7 @@ import type { VoteValue as VoteValueEnum } from '@prisma/client';
 const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValueEnum>;
 import { tkClient, type TKBesluitVote, type TKStemming } from '../clients/tk-odata.js';
 
-export { ingestHoofdelijk };
+export { ingestHoofdelijk, relinkOrphanedVotes };
 
 const prisma = new PrismaClient();
 
@@ -272,12 +272,58 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
     console.log(`[INGEST]    Linked to motion: ${linkedToMotion} | Unlinked: ${unlinked}`);
     console.log(`[INGEST]    Hoofdelijk: ${hoofdelijkCount} | Met handopsteken: ${handopstekenCount}`);
     console.log(`[INGEST]    Individual VoteRecords created/updated: ${voteRecordsCreated}`);
+
+    // Re-link orphaned votes that may now have matching motions
+    await relinkOrphanedVotes();
   } catch (error) {
     console.error('[INGEST] ❌ Stemmingen ingest failed:', error);
     throw error;
   } finally {
     await prisma.$disconnect();
   }
+}
+
+/**
+ * Re-link orphaned votes (motionId: null) by matching their stored rawData.Zaak
+ * against the current Motion table. Useful after ingesting new motion types
+ * (e.g., wetsvoorstellen, amendementen) that didn't exist during initial vote ingest.
+ */
+async function relinkOrphanedVotes(): Promise<void> {
+  console.log('\n[RELINK] Re-linking orphaned votes...');
+  const allMotions = await prisma.motion.findMany({ select: { id: true, tkId: true } });
+  const motionByTkId = new Map(allMotions.map(m => [m.tkId, m.id]));
+  console.log(`[RELINK] ${motionByTkId.size} motions available for linking`);
+
+  const orphans = await prisma.vote.findMany({
+    where: { motionId: null },
+    select: { id: true, rawData: true },
+  });
+  console.log(`[RELINK] Found ${orphans.length} orphaned votes`);
+
+  let linked = 0;
+  for (const vote of orphans) {
+    const rd = vote.rawData as any;
+    const zaakList: any[] = rd?.Zaak || [];
+    if (zaakList.length === 0) continue;
+
+    let motionId: string | null = null;
+    // Prefer Motie-type Zaak
+    const motieZaak = zaakList.find((z: any) => z.Soort === 'Motie');
+    if (motieZaak) motionId = motionByTkId.get(motieZaak.Id) || null;
+    // Fall back to any matching Zaak
+    if (!motionId) {
+      for (const zaak of zaakList) {
+        const found = motionByTkId.get(zaak.Id);
+        if (found) { motionId = found; break; }
+      }
+    }
+
+    if (motionId) {
+      await prisma.vote.update({ where: { id: vote.id }, data: { motionId } });
+      linked++;
+    }
+  }
+  console.log(`[RELINK] Linked ${linked}/${orphans.length} orphaned votes to motions`);
 }
 
 /**

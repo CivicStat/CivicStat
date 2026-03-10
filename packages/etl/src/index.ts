@@ -8,7 +8,7 @@ import { ingestKamerleden } from './ingest/kamerleden.js';
 import { ingestMoties } from './ingest/moties.js';
 import { ingestAmendementen } from './ingest/amendementen.js';
 import { ingestWetsvoorstellen } from './ingest/wetsvoorstellen.js';
-import { ingestStemmingen, ingestHoofdelijk } from './ingest/stemmingen.js';
+import { ingestStemmingen, ingestHoofdelijk, relinkOrphanedVotes } from './ingest/stemmingen.js';
 import { ingestProgrammas } from './ingest/programmas.js';
 import { ingestSponsors } from './ingest/sponsors.js';
 import { runKeywordMatching } from './matching/keyword-match.js';
@@ -92,6 +92,10 @@ async function main() {
         const stemmingenLimitArg = args.find(arg => arg === '--limit') ? args[args.indexOf('--limit') + 1] : args[1];
         const stemmingenLimit = stemmingenLimitArg ? parseInt(stemmingenLimitArg) : undefined;
         await ingestStemmingen(stemmingenLimit);
+        break;
+
+      case 'relink-votes':
+        await relinkOrphanedVotes();
         break;
 
       case 'all':
