@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
+import { COALITIONS, CoalitionConfig } from "../coalitions/coalitions.config";
 
 export interface ElectionOverviewParty {
   partyId: string;
@@ -161,6 +162,156 @@ export class CampaignService {
       parliamentSlug: parliament.slug,
       electionDate: "2026-03-18",
       parties: overviewParties,
+    };
+  }
+
+  /**
+   * Campaign landing page: combines scorecards, top promises, and coalition info
+   * for a parliament-scoped election campaign page.
+   */
+  async getCampaignLanding(slug: string) {
+    // Resolve parliament
+    const parliament = await prisma.parliament.findUnique({
+      where: { slug },
+      select: { id: true, name: true, shortName: true, slug: true },
+    });
+
+    if (!parliament) {
+      throw new NotFoundException(`Parliament not found: ${slug}`);
+    }
+
+    // Get parties with scorecards
+    const parties = await prisma.party.findMany({
+      where: { parliamentId: parliament.id },
+      select: {
+        id: true,
+        abbreviation: true,
+        name: true,
+        seats: true,
+        colorNeutral: true,
+      },
+    });
+
+    const partyIds = parties.map((p) => p.id);
+
+    // Parallel: scorecards, top promises per party, active coalition
+    const [scorecards, topPromises] = await Promise.all([
+      // Pre-computed scorecards (2023 historical)
+      prisma.precomputedScorecard.findMany({
+        where: {
+          partyId: { in: partyIds },
+          programType: "VERKIEZINGSPROGRAMMA",
+        },
+        select: {
+          partyId: true,
+          electionYear: true,
+          mcs: true,
+          scoredPromises: true,
+          totalPromises: true,
+        },
+        orderBy: { electionYear: "desc" },
+      }),
+
+      // Top 3 promises per party (most matched, with expected direction)
+      prisma.promise.findMany({
+        where: {
+          program: {
+            partyId: { in: partyIds },
+            parliamentId: parliament.id,
+            programType: "VERKIEZINGSPROGRAMMA",
+          },
+          expectedVoteDirection: { not: null },
+        },
+        select: {
+          id: true,
+          text: true,
+          theme: true,
+          specificity: true,
+          expectedVoteDirection: true,
+          program: {
+            select: {
+              partyId: true,
+              electionYear: true,
+            },
+          },
+          _count: {
+            select: { motionMatches: true },
+          },
+        },
+        orderBy: {
+          motionMatches: { _count: "desc" },
+        },
+      }),
+    ]);
+
+    // Group scorecards by party
+    const scorecardsByParty = new Map<string, { electionYear: number; mcs: number | null; scoredPromises: number | null; totalPromises: number | null }[]>();
+    for (const sc of scorecards) {
+      const list = scorecardsByParty.get(sc.partyId) ?? [];
+      list.push({
+        electionYear: sc.electionYear,
+        mcs: sc.mcs,
+        scoredPromises: sc.scoredPromises,
+        totalPromises: sc.totalPromises,
+      });
+      scorecardsByParty.set(sc.partyId, list);
+    }
+
+    // Group top promises by party (take top 3 per party)
+    const promisesByParty = new Map<string, typeof topPromises>();
+    for (const p of topPromises) {
+      const partyId = p.program.partyId;
+      const list = promisesByParty.get(partyId) ?? [];
+      if (list.length < 3) list.push(p);
+      promisesByParty.set(partyId, list);
+    }
+
+    // Find active coalition
+    const now = new Date();
+    const activeCoalition = COALITIONS.find((c) => {
+      const start = new Date(c.startDate);
+      const end = c.endDate ? new Date(c.endDate) : new Date("2099-12-31");
+      return now >= start && now <= end;
+    }) ?? null;
+
+    // Build party campaign data
+    const campaignParties = parties
+      .filter((p) => scorecardsByParty.has(p.id) || promisesByParty.has(p.id))
+      .map((p) => ({
+        partyId: p.id,
+        abbreviation: p.abbreviation,
+        name: p.name,
+        seats: p.seats ?? 0,
+        colorNeutral: p.colorNeutral,
+        isCoalition: activeCoalition?.parties.includes(p.abbreviation) ?? false,
+        scorecards: scorecardsByParty.get(p.id) ?? [],
+        topPromises: (promisesByParty.get(p.id) ?? []).map((pr) => ({
+          id: pr.id,
+          text: pr.text,
+          theme: pr.theme,
+          specificity: pr.specificity,
+          expectedVoteDirection: pr.expectedVoteDirection,
+          matchCount: pr._count.motionMatches,
+          electionYear: pr.program.electionYear,
+        })),
+      }))
+      .sort((a, b) => (b.seats ?? 0) - (a.seats ?? 0));
+
+    return {
+      parliamentId: parliament.id,
+      parliamentName: parliament.shortName ?? parliament.name,
+      parliamentSlug: parliament.slug,
+      electionDate: "2026-03-18",
+      coalition: activeCoalition
+        ? {
+            name: activeCoalition.name,
+            slug: activeCoalition.slug,
+            parties: activeCoalition.parties,
+            startDate: activeCoalition.startDate,
+            endDate: activeCoalition.endDate,
+          }
+        : null,
+      parties: campaignParties,
     };
   }
 }

@@ -9,4 +9,9 @@ export class CampaignController {
   async getElectionOverview(@Param("slug") slug: string) {
     return this.campaignService.getElectionOverview(slug);
   }
+
+  @Get("campaign")
+  async getCampaignLanding(@Param("slug") slug: string) {
+    return this.campaignService.getCampaignLanding(slug);
+  }
 }
