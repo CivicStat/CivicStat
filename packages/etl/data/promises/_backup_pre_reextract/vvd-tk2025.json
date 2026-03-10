@@ -1,0 +1,2608 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "program": "Sterker uit de storm",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88735/",
+  "pdfHash": "4d0f36e8cd50bfff43af4ffc285aadcab95c316dc82500ac42cba61aca344975",
+  "totalPromises": 166,
+  "promises": [
+    {
+      "promiseCode": "VVD-2025-001",
+      "text": "Nederland moet de sterkste economie van Europa worden door energiekosten te verlagen en het elektriciteitsnet versneld uit te breiden.",
+      "summary": "Nederland wordt sterkste economie Europa door lagere energiekosten en netuitbreiding",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiekosten",
+        "elektriciteitsnet",
+        "economie",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 7",
+      "originalQuote": "we verlagen de energiekosten en we gaan het elektriciteitsnet versneld uitbreiden"
+    },
+    {
+      "promiseCode": "VVD-2025-002",
+      "text": "De overheid hanteert een meetbare doelstelling om het aantal onnodige regels te verminderen en schrapt regelgeving die in Nederland strenger is dan in de rest van Europa, zoals de nationale CO2-heffing.",
+      "summary": "Meetbare doelstelling regelvermindering en schrappen nationale CO2-heffing",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regelgeving",
+        "co2-heffing",
+        "regelvermindering",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 7",
+      "originalQuote": "we hanteren een meetbare doelstelling om het aantal onnodige regels te verminderen. We schrappen regelgeving die in Nederland strenger is dan in de rest van Europa, zoals de nationale CO2-heffing"
+    },
+    {
+      "promiseCode": "VVD-2025-003",
+      "text": "Automatische goedkeuring van overheidaaanvragen die te lang duren. Een eenvoudige aanvraag bij de overheid wordt automatisch goedgekeurd als deze te lang duurt.",
+      "summary": "Automatische goedkeuring trage overheidsaanvragen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheidsaanvragen",
+        "automatische",
+        "goedkeuring",
+        "procedures"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 7",
+      "originalQuote": "Duurt een eenvoudige aanvraag bij de overheid te lang? Dan wordt deze automatisch goedgekeurd"
+    },
+    {
+      "promiseCode": "VVD-2025-004",
+      "text": "Er komt een investeringsmaatschappij gericht op het verstrekken van groeikapitaal aan start- en scale-ups tegen gunstige voorwaarden om in Nederland door te groeien.",
+      "summary": "Investeringsmaatschappij voor start-ups en scale-ups",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investeringsmaatschappij",
+        "start-ups",
+        "scale-ups",
+        "groeikapitaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 10",
+      "originalQuote": "We richten een investeringsmaatschappij op gericht op het verstrekken van groeikapitaal aan start- en scale-ups in het hele land"
+    },
+    {
+      "promiseCode": "VVD-2025-005",
+      "text": "De investeringen in onderzoek en ontwikkeling in Nederland moeten stijgen naar minimaal 3% van de totale omvang van de economie.",
+      "summary": "R&D-uitgaven naar minimaal 3% van de economie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoek",
+        "ontwikkeling",
+        "investeringen",
+        "economie",
+        "percentage"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 10",
+      "originalQuote": "We spannen ons in om de investeringen in onderzoek en ontwikkeling in Nederland te laten stijgen naar minimaal 3% van de totale omvang van de economie"
+    },
+    {
+      "promiseCode": "VVD-2025-006",
+      "text": "Er wordt een datazeekabel vanuit Japan doorgetrokken naar Nederland en vol ingezet op een Einstein-telescoop in Zuid-Limburg.",
+      "summary": "Datazeekabel Japan-Nederland en Einstein-telescoop Zuid-Limburg",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "datazeekabel",
+        "japan",
+        "einstein-telescoop",
+        "zuid-limburg",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 10-11",
+      "originalQuote": "We investeren in de toekomst door een datazeekabel vanuit Japan door te trekken naar Nederland, en door vol in te zetten op een Einstein-telescoop in Zuid-Limburg"
+    },
+    {
+      "promiseCode": "VVD-2025-007",
+      "text": "De kennismigrantenregeling wordt omgebouwd tot een Toptalentenregeling met aangescherpte toelatingseisen zoals een aanvullende opleidingseis, terwijl de 27%-regeling in stand blijft.",
+      "summary": "Kennismigrantenregeling wordt Toptalentenregeling met strengere eisen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kennismigrantenregeling",
+        "toptalentenregeling",
+        "toelatingseisen",
+        "27%-regeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 11",
+      "originalQuote": "We bouwen de regeling daarom om tot een Toptalentenregeling, gericht op buitenlands talent dat essentieel is voor onze kennisintensieve economie en groeitechnologieën. We laten de 27%-regeling in stand en scherpen de toelatingseisen aan, bijvoorbeeld via een aanvullende opleidingseis"
+    },
+    {
+      "promiseCode": "VVD-2025-008",
+      "text": "Er wordt een Groei- en Ondernemersakkoord gesloten met sociale partners en de overheid om ondernemerslasten te verlagen, langere termijn zekerheid te bieden en lonen te verhogen.",
+      "summary": "Groei- en Ondernemersakkoord voor lagere lasten en hogere lonen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondernemersakkoord",
+        "sociale",
+        "partners",
+        "ondernemerslasten",
+        "lonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 11",
+      "originalQuote": "Hiervoor sluiten we een akkoord met sociale partners en de overheid, waarin we ernaar streven om de ondernemerslasten te verlagen, voor langere termijn zekerheid te bieden aan het bedrijfsleven, en daarnaast de lonen te verhogen"
+    },
+    {
+      "promiseCode": "VVD-2025-009",
+      "text": "Wettelijk vastleggen dat de Nederlandse overheid de plicht heeft het ondernemersklimaat te verbeteren. Ambitie is minimaal top tien van meest concurrerende economieën wereldwijd. Als Nederland buiten de top tien dreigt te raken, wordt de overheid verplicht maatregelen te nemen.",
+      "summary": "Wettelijke plicht overheid ondernemersklimaat verbeteren, minimaal top tien wereldwijd",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondernemersklimaat",
+        "wettelijke plicht",
+        "concurrentiepositie",
+        "top tien",
+        "maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 12",
+      "originalQuote": "We leggen wettelijk vast dat de Nederlandse overheid de plicht heeft het ondernemersklimaat te verbeteren. De ambitie is zo hoog mogelijk op de internationale lijsten voor sterke economieën te komen. Als minimale ambitie geldt de top tien. Als Nederland buiten de top tien van meest concurrerende economieën wereldwijd dreigt te raken, dan wordt de overheid verplicht maatregelen te nemen."
+    },
+    {
+      "promiseCode": "VVD-2025-010",
+      "text": "De Bedrijfsopvolgingsregeling (BOR) wordt niet verder versoberd. Deze regeling maakt het aantrekkelijk om familiebedrijven over te geven aan de volgende generatie.",
+      "summary": "Bedrijfsopvolgingsregeling niet verder verssoberen voor familiebedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijfsopvolgingsregeling",
+        "bor",
+        "familiebedrijven",
+        "generatieovergang",
+        "regeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 12",
+      "originalQuote": "We staan daarom niet toe dat een regeling die het aantrekkelijk maakt het bedrijf over te geven aan de volgende generatie, de Bedrijfsopvolgingsregeling (BOR), verder wordt versoberd."
+    },
+    {
+      "promiseCode": "VVD-2025-011",
+      "text": "De fysieke ruimte voor ondernemers mag niet afnemen, maar moet toenemen. Als er ergens een bedrijventerrein verdwijnt, moet er op een andere plek nieuwe geschikte ruimte voor bedrijven terugkomen.",
+      "summary": "Fysieke ruimte voor ondernemers moet toenemen, compensatie bij verdwijning bedrijventerreinen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bedrijventerreinen",
+        "fysieke ruimte",
+        "ondernemers",
+        "compensatie",
+        "ruimtelijke ordening"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 12",
+      "originalQuote": "De fysieke ruimte voor ondernemers mag niet afnemen, maar moet zelfs toenemen. Dat betekent dat als er ergens een bedrijventerrein verdwijnt, er op een andere plek nieuwe geschikte ruimte voor bedrijven moet terugkomen."
+    },
+    {
+      "promiseCode": "VVD-2025-012",
+      "text": "Meetbare doelstelling hanteren om het aantal onnodige regels te verminderen en verantwoordelijk minister hieraan houden. Schrappen van Risico Inventarisatie en Evaluatie, bijschrijfplicht horeca, Digitaal Opkopersregister en verplichting registratie vervoersmiddelen personeel.",
+      "summary": "Meetbare doelstelling regelvermindering, schrappen specifieke verplichtingen ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regelvermindering",
+        "rie",
+        "bijschrijfplicht",
+        "opkopersregister",
+        "bureaucratie",
+        "verplichtingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 12",
+      "originalQuote": "We hanteren daarom een meetbare doelstelling om het aantal onnodige regels te verminderen en houden de verantwoordelijk minister daar strak aan. Regels die anders moeten, zijn bijvoorbeeld de Risico Inventarisatie en Evaluatie, de bijschrijfplicht in de horeca en het Digitaal Opkopersregister. We schrappen de verplichting voor ondernemers om bij te houden of hun personeel met de fiets, auto of het openbaar vervoer naar kantoor is gekomen."
+    },
+    {
+      "promiseCode": "VVD-2025-013",
+      "text": "Ontwikkelen van regelvrije zones waar tijdelijk en gecontroleerd wet- en regelgeving kan worden opgeschort om innovatie te bevorderen. Hiervoor wordt de juiste juridische grondslag geboden.",
+      "summary": "Regelvrije zones ontwikkelen voor innovatie met juridische grondslag",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regelvrije zones",
+        "innovatie",
+        "wet- en regelgeving",
+        "juridische grondslag",
+        "deregulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 12",
+      "originalQuote": "We ontwikkelen regelvrije zones, waar tijdelijk en gecontroleerd wet- en regelgeving kan worden opgeschort om innovatie te bevorderen. We bieden hiervoor de juiste juridische grondslag."
+    },
+    {
+      "promiseCode": "VVD-2025-014",
+      "text": "Automatische goedkeuring van eenvoudige aanvragen bij overschrijding geldende termijn. Dit geldt voor standplaatsvergunningen, kleine evenementenvergunningen en detailhandelsvergunningen. Vaker werken met meldplichten in plaats van vergunningsplichten.",
+      "summary": "Automatische goedkeuring aanvragen bij termijnoverschrijding, meer meldplichten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningen",
+        "automatische goedkeuring",
+        "standplaatsvergunning",
+        "meldplichten",
+        "termijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 12",
+      "originalQuote": "Als uiterste stok willen we dat wanneer ondernemers voor een eenvoudige aanvraag bij de overheid langer moeten wachten dan de geldende termijn, deze aanvraag automatisch wordt goedgekeurd. Te denken valt aan standplaatsvergunningen, kleine evenementenvergunningen of detailhandelsvergunningen. We werken vaker met meldplichten in plaats van vergunningsplichten."
+    },
+    {
+      "promiseCode": "VVD-2025-015",
+      "text": "Met gemeenten standaarden ontwikkelen voor lage regeldruk, net zoals bij armoederegelingen gebeurt. Speciale aandacht voor het mkb om onnodige regels vanuit gemeenten een halt toe te roepen.",
+      "summary": "Standaarden voor lage regeldruk gemeenten ontwikkelen, focus op mkb",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "regeldruk",
+        "standaarden",
+        "mkb",
+        "lokale regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "Dat kan door met gemeenten standaarden te ontwikkelen voor lage regeldruk, net zoals bij armoederegelingen gebeurt. Hierbij hebben we speciale aandacht voor het mkb."
+    },
+    {
+      "promiseCode": "VVD-2025-016",
+      "text": "De ouderwetse bepaling uit de wet halen dat winkels op zondag gesloten moeten zijn. Ondernemers mogen dit zelf bepalen.",
+      "summary": "Zondagssluiting winkels afschaffen, ondernemers bepalen zelf openingstijden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zondagssluiting",
+        "openingstijden",
+        "winkels",
+        "ondernemersvrijheid",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "We halen de ouderwetse bepaling uit de wet dat winkels op zondag gesloten moeten zijn. Ondernemers mogen dit zelf bepalen."
+    },
+    {
+      "promiseCode": "VVD-2025-017",
+      "text": "Voor alle bedrijven aantrekkelijk maken om personeel te laten meedelen in waardestijging en winst van het bedrijf, niet alleen voor start- en scale-ups.",
+      "summary": "Winstdeling personeel uitbreiden naar alle bedrijven, niet alleen start-ups",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstdeling",
+        "personeel",
+        "waardestijging",
+        "bedrijven",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "We willen het voor álle bedrijven aantrekkelijk maken om aan het personeel aan te bieden mee te delen in de waardestijging en winst van het bedrijf, niet alleen voor start- en scale-ups."
+    },
+    {
+      "promiseCode": "VVD-2025-018",
+      "text": "Werkkostenregeling ruimer maken zodat ondernemers vaker werknemers kunnen belonen zonder belasting, zoals gezonde lunch, kerstpakket of sportabonnement. Ingewikkelde voorwaarden schrappen.",
+      "summary": "Werkkostenregeling uitbreiden voor belastingvrije beloningen werknemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkkostenregeling",
+        "belastingvrij",
+        "werknemersbeloningen",
+        "secundaire arbeidsvoorwaarden",
+        "fiscaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "We maken het mogelijk dat ondernemers vaker werknemers kunnen belonen zonder daar belasting over te betalen, zoals met een gezonde lunch, een kerstpakket of een sportabonnement. Voorwaarden die deze regeling te ingewikkeld maken, schrappen we."
+    },
+    {
+      "promiseCode": "VVD-2025-019",
+      "text": "Failliet gegane ondernemers een jaar uitsluiten van vermogenstoets in de bijstand, mits ze schuldeisers afbetalen. Minder nadelige gevolgen van langdurige BKR-registratie na afbetaling schuldeisers.",
+      "summary": "Vangnet failliet gegane ondernemers: jaar uitsluiting vermogenstoets bijstand",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "faillissement",
+        "vermogenstoets",
+        "bijstand",
+        "bkr-registratie",
+        "schuldeisers",
+        "doorstart"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "We zonderen ondernemers die failliet zijn gegaan een jaar lang uit van de vermogenstoets in de bijstand, mits ze schuldeisers afbetalen. Daarnaast willen we dat een ondernemer die failliet is gegaan en schuldeisers heeft afbetaald, minder persoonlijk nadelige gevolgen ondervindt door een langdurige BKR-registratie."
+    },
+    {
+      "promiseCode": "VVD-2025-020",
+      "text": "Uitzenden van belangrijke evenementen via de publieke omroep, zoals EK of WK voetbal, gratis maken voor ondernemers, mkb'ers, verenigingen en zorginstellingen.",
+      "summary": "Gratis uitzending sportevenementen publieke omroep voor ondernemers en instellingen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sportevenementen",
+        "publieke omroep",
+        "ek",
+        "wk",
+        "ondernemers",
+        "uitzendrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "We willen het uitzenden van belangrijke evenementen via de publieke omroep, zoals het EK of WK voetbal, gratis maken voor ondernemers, mkb'ers, verenigingen en (zorg)instellingen."
+    },
+    {
+      "promiseCode": "VVD-2025-021",
+      "text": "De Impulsaanpak Winkelgebieden nieuw leven inblazen voor levendige winkelstraten in steden en dorpen.",
+      "summary": "Impulsaanpak Winkelgebieden nieuw leven inblazen voor levendige winkelstraten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "impulsaanpak",
+        "winkelgebieden",
+        "winkelstraten",
+        "stadskernen",
+        "detailhandel"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 13",
+      "originalQuote": "We blazen daarom een succesvolle oude regeling van de Rijksoverheid die daarvoor zorgde nieuw leven in: de Impulsaanpak Winkelgebieden."
+    },
+    {
+      "promiseCode": "VVD-2025-022",
+      "text": "Totale deregulering van de arbeidsmarkt en sociale zekerheid. Werkgevers en werknemers moeten vertrouwen krijgen. Het mes zetten in bureaucratische regels, werkloosheidswet moderniseren en meer activerend maken, transitievergoeding niet langer verplicht stellen.",
+      "summary": "Totale deregulering arbeidsmarkt en sociale zekerheid, transitievergoeding afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deregulering",
+        "arbeidsmarkt",
+        "sociale zekerheid",
+        "werkloosheidswet",
+        "transitievergoeding",
+        "bureaucratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "De VVD wil een totale deregulering van de arbeidsmarkt en sociale zekerheid. Werkgevers en werknemers moeten vertrouwen krijgen. We zetten het mes in bureaucratische regels, moderniseren de werkloosheidswet door hem meer activerend te maken en geven meer ruimte voor maatwerk in cao's, door de transitievergoeding niet langer verplicht te stellen."
+    },
+    {
+      "promiseCode": "VVD-2025-023",
+      "text": "Bij stijgende levensverwachting moet de pensioenleeftijd mee stijgen. Meer inzetten op Leven Lang Ontwikkelen om langer doorwerken te ondersteunen.",
+      "summary": "Pensioenleeftijd laten meestijgen met levensverwachting, meer Leven Lang Ontwikkelen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pensioenleeftijd",
+        "levensverwachting",
+        "doorwerken",
+        "leven lang ontwikkelen",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "We vinden daarom dat bij een stijgende levensverwachting, de pensioenleeftijd mee moet stijgen. We ondersteunen het langer doorwerken door meer in te zetten op een Leven Lang Ontwikkelen."
+    },
+    {
+      "promiseCode": "VVD-2025-024",
+      "text": "De nieuwe Zelfstandigenwet invoeren met twee heldere toetsen voor zzp'ers. Rechtsvermoeden van werknemerschap invoeren bij laag uurtarief. Zzp'ers verplichten voorziening te treffen voor pensioen en arbeidsongeschiktheid.",
+      "summary": "Nieuwe Zelfstandigenwet invoeren met heldere toetsen en pensioenplicht zzp'ers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zelfstandigenwet",
+        "zzp",
+        "rechtsvermoeden",
+        "pensioenplicht",
+        "arbeidsongeschiktheid",
+        "uurtarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "De Zelfstandigenwet geeft zelfstandigen duidelijkheid via twee heldere toetsen. We voeren een rechtsvermoeden van werknemerschap in bij een laag uurtarief. Zzp'ers houden hun vrijheid, maar nemen ook verantwoordelijkheid door een voorziening voor pensioen en arbeidsongeschiktheid te treffen."
+    },
+    {
+      "promiseCode": "VVD-2025-025",
+      "text": "Skills-paspoort invoeren in samenwerking met private sector, waarmee mensen kunnen laten zien wat ze kunnen ook zonder diploma. Omscholing toegankelijk maken en overstappers financieel stimuleren met meerwerkbonus.",
+      "summary": "Skills-paspoort invoeren voor competenties zonder diploma, meerwerkbonus overstappers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "skills-paspoort",
+        "competenties",
+        "diploma",
+        "omscholing",
+        "meerwerkbonus",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "Daarnaast voeren we in samenwerking met de private sector een skills-paspoort in, waarmee mensen kunnen laten zien wat ze kunnen. Ook als ze geen diploma hebben. Dat doen we door omscholing toegankelijk te maken, overstappers met een meerwerkbonus financieel te stimuleren."
+    },
+    {
+      "promiseCode": "VVD-2025-026",
+      "text": "Tweede jaar loondoorbetaling bij ziekte afschaffen voor kleine werkgevers om drempel personeel in dienst nemen te verlagen.",
+      "summary": "Tweede jaar loondoorbetaling ziekte afschaffen voor kleine werkgevers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loondoorbetaling",
+        "ziekte",
+        "kleine werkgevers",
+        "arbeidsongeschiktheid",
+        "werkgeverslasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "We verlagen de drempel om personeel in dienst te nemen door het risico bij ziekte voor werkgevers te beperken. Vooral voor kleine ondernemers is het zwaar dat zij twee jaar loon moeten doorbetalen bij ziekte van een werknemer. We verkorten de termijn waarvoor kleine werkgevers aansprakelijk zijn."
+    },
+    {
+      "promiseCode": "VVD-2025-027",
+      "text": "Wet verbetering poortwachter hervormen. Ondernemers krijgen meer zeggenschap in re-integratieproces en kiezen vrijer hoe zij begeleiding organiseren. Verplichte bureaucratie verminderen.",
+      "summary": "Wet verbetering poortwachter hervormen, meer zeggenschap ondernemers re-integratie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "poortwachter",
+        "re-integratie",
+        "zeggenschap",
+        "begeleiding",
+        "bureaucratie",
+        "arbeidsongeschiktheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "Ondernemers krijgen meer zeggenschap in het re-integratieproces en kiezen vrijer hoe zij de begeleiding organiseren. We verminderen de verplichte bureaucratie en geven ondernemers de ruimte."
+    },
+    {
+      "promiseCode": "VVD-2025-028",
+      "text": "In vitale sectoren zoals zorg en openbaar vervoer wordt minimumdienstverlening verplicht bij stakingen. Cruciale functies zoals spoedeisende hulp moeten doorgaan.",
+      "summary": "Minimumdienstverlening verplicht bij stakingen in vitale sectoren zoals zorg",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumdienstverlening",
+        "stakingen",
+        "vitale sectoren",
+        "zorg",
+        "openbaar vervoer",
+        "spoedeisende hulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 14",
+      "originalQuote": "In vitale sectoren zoals de zorg en het openbaar vervoer wordt een minimumdienstverlening verplicht bij stakingen. Cruciale functies zoals spoedeisende hulp moeten doorgaan."
+    },
+    {
+      "promiseCode": "VVD-2025-029",
+      "text": "Klimaatwet aanpassen naar Klimaat- en groeiwet door pijlers energie-onafhankelijkheid en betaalbaarheid toe te voegen. Loopt betaalbaarheid in gedrang dan ingrijpen.",
+      "summary": "Klimaatwet omvormen tot Klimaat- en groeiwet met betaalbaarheid en energie-onafhankelijkheid",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatwet",
+        "groeiwet",
+        "energie-onafhankelijkheid",
+        "betaalbaarheid",
+        "industrie",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 15",
+      "originalQuote": "Daarom passen we de Klimaatwet aan naar Klimaat- en groeiwet en voegen we de pijlers energie-onafhankelijkheid en betaalbaarheid toe. Loopt het uit de pas, komt de betaalbaarheid in het gedrang en vertrekt de industrie daardoor naar het buitenland, dan grijpen we in."
+    },
+    {
+      "promiseCode": "VVD-2025-030",
+      "text": "IKC compensatieregeling voor sectoren met hoge elektriciteitskosten verlengen. Andere maatregelen nemen om energiekosten voor bedrijven te verlagen. Nieuw energieakkoord sluiten met bedrijven.",
+      "summary": "IKC compensatieregeling hoge elektriciteitskosten verlengen, nieuw energieakkoord",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ikc",
+        "elektriciteitskosten",
+        "compensatieregeling",
+        "energieakkoord",
+        "bedrijven",
+        "energieprijzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 15",
+      "originalQuote": "Om de hoge energiekosten te dempen, verlengen we de IKC, een compensatieregeling voor sectoren met hoge elektriciteitskosten. We nemen ook andere maatregelen om de energiekosten voor bedrijven te verlagen. We willen met bedrijven een nieuw energieakkoord sluiten."
+    },
+    {
+      "promiseCode": "VVD-2025-031",
+      "text": "Waar mogelijk nationale koppen op Europees beleid schrappen. Zorgen dat Nederland net als andere landen voldoet aan Europese verplichtingen op klimaat- en energiegebied.",
+      "summary": "Nationale koppen op Europees klimaat- en energiebeleid schrappen waar mogelijk",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale koppen",
+        "europees beleid",
+        "klimaat",
+        "energie",
+        "verplichtingen",
+        "gelijk speelveld"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 15",
+      "originalQuote": "We schrappen waar mogelijk nationale koppen op Europees beleid. We zorgen ervoor dat Nederland net als andere landen voldoet aan haar Europese verplichtingen op klimaat- en energiegebied."
+    },
+    {
+      "promiseCode": "VVD-2025-032",
+      "text": "Investeringskorting onderzoeken voor bedrijven die willen verduurzamen. Bedrijven ondersteunen richting 2030 via maatwerkafspraken met concreet plan voor verduurzaming.",
+      "summary": "Investeringskorting verduurzaming onderzoeken, maatwerkafspraken bedrijven tot 2030",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringskorting",
+        "verduurzaming",
+        "maatwerkafspraken",
+        "industrie",
+        "klimaatdoelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 16",
+      "originalQuote": "Daarom onderzoeken we een investeringskorting voor bedrijven die willen verduurzamen en ondersteunen we bedrijven richting 2030 via maatwerkafspraken met een concreet en allesomvattend plan voor verduurzaming."
+    },
+    {
+      "promiseCode": "VVD-2025-033",
+      "text": "De nationale CO2-heffing schrappen omdat Nederland als enige land binnen de EU deze kent. Met sector op zoek naar alternatief systeem voor duurzame toekomst industrie.",
+      "summary": "Nationale CO2-heffing schrappen, alternatief systeem zoeken met sector",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-heffing",
+        "industrie",
+        "gelijk speelveld",
+        "alternatief systeem",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 16",
+      "originalQuote": "Nederland kent als enige land binnen de EU een nationale CO2-heffing. Dit creëert een ongelijk speelveld voor bedrijven. Daarom schrappen we de heffing en gaan we met de sector op zoek naar een alternatief systeem."
+    },
+    {
+      "promiseCode": "VVD-2025-034",
+      "text": "KDW-doelen vervangen door sectorgebonden emissieplafonds met wettelijke tussendoelen die optellen tot 50% geborgde emissiereductie in 2035. Gebiedsgerichte aanpak voor zwaarste gebieden zoals De Peel en De Veluwe.",
+      "summary": "KDW-doelen vervangen door emissieplafonds, 50% emissiereductie in 2035",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kdw-doelen",
+        "emissieplafonds",
+        "emissiereductie",
+        "2035",
+        "stikstof",
+        "natuurgebieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 16",
+      "originalQuote": "We gaan deze KDW-doelen vervangen door sectorgebonden emissieplafonds, inclusief wettelijke tussendoelen, die optellen tot 50% geborgde emissiereductie in 2035. Daarnaast is er een gebiedsgerichte aanpak nodig voor de gebieden waar de problematiek het zwaarst speelt, zoals bij De Peel en De Veluwe."
+    },
+    {
+      "promiseCode": "VVD-2025-035",
+      "text": "PAS-melders legaliseren met juridisch houdbare rekenkundige ondergrens. Per sector bekijken of drempelwaarde mogelijk is, te beginnen voor de bouw.",
+      "summary": "PAS-melders legaliseren met ondergrens, drempelwaarde sectoren onderzoeken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pas-melders",
+        "legalisering",
+        "ondergrens",
+        "drempelwaarde",
+        "bouw",
+        "vergunningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 16",
+      "originalQuote": "Zo worden PAS-melders, ondernemers die te goeder trouw hebben gehandeld maar nu zonder vergunning zitten, gelegaliseerd met bijvoorbeeld een juridisch houdbare rekenkundige ondergrens. We willen per sector bekijken of een drempelwaarde mogelijk is – om te beginnen voor de bouw."
+    },
+    {
+      "promiseCode": "VVD-2025-036",
+      "text": "Regio Flevoland-Gelderland-Utrecht aanwijzen als innovatiegebied om netcongestie op onorthodoxe manieren aan te pakken zonder extra gebruik van het net.",
+      "summary": "Flevoland-Gelderland-Utrecht als innovatiegebied netcongestie aanwijzen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "innovatiegebied",
+        "netcongestie",
+        "flevoland",
+        "gelderland",
+        "utrecht",
+        "elektriciteitsnet"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 17",
+      "originalQuote": "We willen daarom dat deze regio als innovatiegebied wordt aangewezen om netcongestie op onorthodoxe manieren aan te kunnen pakken, zonder extra gebruik te maken van het net."
+    },
+    {
+      "promiseCode": "VVD-2025-037",
+      "text": "Versnellingsgebieden aanwijzen en snijden in vergunningsprocedures voor aanleg energie-infrastructuur. Beroeps- en bezwaarprocedures inkorten. Projecten prioriteit geven zoals waterstofbackbone, Delta Rhine Corridor en Aramis.",
+      "summary": "Versnellingsgebieden energie-infrastructuur, procedures inkorten, prioriteitsprojecten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "versnellingsgebieden",
+        "energie-infrastructuur",
+        "vergunningsprocedures",
+        "waterstofbackbone",
+        "prioriteitsprojecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 17",
+      "originalQuote": "Daarom wijzen we versnellingsgebieden aan en gaan we snijden in vergunningsprocedures. Bijvoorbeeld door beroeps- en bezwaarprocedures in te korten. We wijzen projecten aan die prioriteit krijgen zoals de waterstofbackbone, Delta Rhine Corridor of Aramis."
+    },
+    {
+      "promiseCode": "VVD-2025-038",
+      "text": "Zo snel mogelijk een staatsdeelneming oprichten voor realisatie van nieuwe kerncentrales. Overheid draagt bij met eigen investeringen en partnerschappen.",
+      "summary": "Staatsdeelneming oprichten voor bouw kerncentrales, overheid investeert mee",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staatsdeelneming",
+        "kerncentrales",
+        "overheidsparticipatie",
+        "investeringen",
+        "partnerschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 17",
+      "originalQuote": "Daarnaast gaat de overheid met eigen investeringen en partnerschappen bijdragen aan de realisatie van deze nieuwe kerncentrales. Hiervoor wordt zo snel mogelijk een staatsdeelneming opgericht."
+    },
+    {
+      "promiseCode": "VVD-2025-039",
+      "text": "Streven dat vóór 2035 de eerste Small Modular Reactor (SMR) in Nederland is gebouwd. Overheid zorgt voor tijdige vergunningsverlening en ondersteuning voor facilitering SMR-bouw.",
+      "summary": "Eerste SMR voor 2035 bouwen, overheid faciliteert vergunningsverlening",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "smr",
+        "2035",
+        "kleine kerncentrales",
+        "vergunningsverlening",
+        "facilitering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 17",
+      "originalQuote": "De VVD stelt daarom het streven dat vóór 2035 de eerste Small Modular Reactor (SMR) in Nederland is gebouwd. De overheid moet ervoor zorgen dat de vergunningsverlening tijdig geregeld kan worden en dat er ondersteuning beschikbaar is om de bouw van een SMR te kunnen faciliteren."
+    },
+    {
+      "promiseCode": "VVD-2025-040",
+      "text": "De huidige curriculumherziening wordt voortgezet waarbij reken- en taalvaardigheid onderdeel wordt van elk schoolvak. Het curriculum wordt minder overladen met scherpere keuzes wat leerlingen moeten kennen en kunnen via duidelijkere actuele handvatten voor leraren. Het vakkenpakket wordt periodiek vernieuwd.",
+      "summary": "Curriculumherziening voortzetten met reken/taal in alle vakken, curriculum ontlasten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "curriculumherziening",
+        "basisvaardigheden",
+        "taalvaardigheid",
+        "rekenvaardigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 18",
+      "originalQuote": "We zetten de huidige curriculumherziening voort en reken- en taalvaardigheid wordt onderdeel van elk schoolvak. Het curriculum wordt minder overladen en we maken scherpere keuzes wat leerlingen moeten kennen en kunnen via duidelijkere actuele handvatten voor leraren. We vernieuwen het vakkenpakket periodiek."
+    },
+    {
+      "promiseCode": "VVD-2025-041",
+      "text": "In plaats van het verplichte vak cultureel kunstzinnige vorming mogen leerlingen ook examen doen in een nieuw te ontwikkelen vak praktische techniek en technologie.",
+      "summary": "Examenvak praktische techniek als alternatief voor CKV",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "examenvak",
+        "praktische techniek",
+        "technologie",
+        "ckv"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 18",
+      "originalQuote": "In plaats van het verplichte vak cultureel kunstzinnige vorming mogen leerlingen ook examen doen in een nieuw te ontwikkelen vak praktische techniek en technologie."
+    },
+    {
+      "promiseCode": "VVD-2025-042",
+      "text": "De regeling 'meerurenmaatwerk' wordt voortgezet en waar mogelijk uitgebreid om leraren uit te dagen meer uren te gaan werken.",
+      "summary": "Regeling meerurenmaatwerk voortzetten en uitbreiden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerurenmaatwerk",
+        "leraren",
+        "arbeidsvoorwaarden",
+        "lerarentekort"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 18",
+      "originalQuote": "Daarom gaan we door met de regeling 'meerurenmaatwerk' en breiden die waar mogelijk uit."
+    },
+    {
+      "promiseCode": "VVD-2025-043",
+      "text": "Continue professionele ontwikkeling wordt verplicht voor alle leraren, zodat zij bekend zijn met nieuwe (technologische) ontwikkelingen.",
+      "summary": "Verplichte professionele ontwikkeling voor leraren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "professionele ontwikkeling",
+        "leraren",
+        "technologische ontwikkelingen",
+        "scholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 18",
+      "originalQuote": "Continue professionele ontwikkeling wordt verplicht, zodat alle leraren bekend zijn met nieuwe (technologische) ontwikkelingen."
+    },
+    {
+      "promiseCode": "VVD-2025-044",
+      "text": "De leerplicht wordt verlaagd naar de leeftijd van vier jaar om achterstanden aan te pakken.",
+      "summary": "Leerplicht verlagen naar 4 jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leerplicht",
+        "vier jaar",
+        "achterstanden",
+        "voorschoolse educatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 19",
+      "originalQuote": "We pakken achterstanden aan door de leerplicht te verlagen naar de leeftijd van vier jaar."
+    },
+    {
+      "promiseCode": "VVD-2025-045",
+      "text": "Elke school krijgt een plusklas en elke regio biedt voltijds hoogbegaafdheidsonderwijs aan. Er komt een landelijke handreiking voor invulling van plusklassen en extra vakken.",
+      "summary": "Plusklas op elke school en voltijds hoogbegaafdheidsonderwijs per regio",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "plusklas",
+        "hoogbegaafdheidsonderwijs",
+        "landelijke handreiking",
+        "extra vakken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 19",
+      "originalQuote": "Elke school heeft een plusklas en elke regio biedt voltijds hoogbegaafdheidsonderwijs aan. Er komt een landelijke handreiking voor invulling van plusklassen en extra vakken."
+    },
+    {
+      "promiseCode": "VVD-2025-046",
+      "text": "De 'Wet vrij en veilig' wordt geïntroduceerd voor beter zicht op schoolveiligheid. Een schoolmedewerker krijgt bij redelijke verdenking de bevoegdheid om kluisjes te doorzoeken of leerlingen te fouilleren.",
+      "summary": "Wet vrij en veilig en fouilleerrrechten voor schoolpersoneel",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet vrij en veilig",
+        "schoolveiligheid",
+        "fouilleren",
+        "doorzoeken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 19",
+      "originalQuote": "We introduceren de 'Wet vrij en veilig', zodat we beter zicht krijgen op de veiligheid. ... We geven een schoolmedewerker, zoals de conciërge, bij redelijke verdenking, de bevoegdheid om kluisjes te doorzoeken of leerlingen te fouilleren."
+    },
+    {
+      "promiseCode": "VVD-2025-047",
+      "text": "De kleine scholentoeslag wordt omgezet naar een dunbevolktheidstoeslag, zodat dat geld ook daadwerkelijk in dunbevolktere gebieden terechtkomt.",
+      "summary": "Kleine scholentoeslag omzetten naar dunbevolktheidstoeslag",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dunbevolktheidstoeslag",
+        "kleine scholentoeslag",
+        "dorpsscholen",
+        "bekostiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 19",
+      "originalQuote": "we zetten de kleine scholentoeslag om naar een dunbevolktheidstoeslag, zodat dat geld ook daadwerkelijk in dunbevolktere gebieden terechtkomt."
+    },
+    {
+      "promiseCode": "VVD-2025-048",
+      "text": "Een deel van de bekostiging van hogescholen en universiteiten wordt afhankelijk gemaakt van het baanperspectief van afgestudeerde studenten.",
+      "summary": "Bekostiging hoger onderwijs koppelen aan baanperspectief afgestudeerden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bekostiging",
+        "baanperspectief",
+        "hogescholen",
+        "universiteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 20",
+      "originalQuote": "laten een deel van de bekostiging afhangen van het baanperspectief van afgestudeerde studenten."
+    },
+    {
+      "promiseCode": "VVD-2025-049",
+      "text": "Hbo- en wo-bachelorstudenten die nominaal afstuderen (binnen vier jaar hbo en binnen drie jaar wo) krijgen een kortstudeerbonus. Instellingen die studenten te lang over hun studie laten doen, betalen een vertragingsbijdrage.",
+      "summary": "Kortstudeerbonus en vertragingsbijdrage voor hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kortstudeerbonus",
+        "vertragingsbijdrage",
+        "nominaal afstuderen",
+        "studieduur"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 20",
+      "originalQuote": "Hbo- en wo-bachelorstudenten die nominaal afstuderen (binnen vier jaar hbo en binnen drie jaar wo) krijgen een bonus. ... Instellingen die hun studenten te lang over hun studie laten doen, betalen een vertragingsbijdrage."
+    },
+    {
+      "promiseCode": "VVD-2025-050",
+      "text": "Het collegegeld wordt verlaagd voor studies in tekortsectoren zoals tech, zorg, onderwijs, veiligheid en klimaat. Studieplaatsen worden beperkt van studies waar geen arbeidsmarktperspectief is.",
+      "summary": "Collegegeld verlagen voor tekortstudies, plaatsen beperken zonder perspectief",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "collegegeld",
+        "tekortsectoren",
+        "studieplaatsen",
+        "arbeidsmarktperspectief"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 20",
+      "originalQuote": "We maken studies in tekortsectoren zoals onder andere tech, zorg, onderwijs, veiligheid en klimaat aantrekkelijker door het collegegeld te verlagen. We beperken de studieplaatsen van studies waar geen (goed) arbeidsmarktperspectief is."
+    },
+    {
+      "promiseCode": "VVD-2025-051",
+      "text": "Het aantal internationale studenten wordt beperkt tot studenten in vakgebieden waar een tekort is zoals technologie, bètawetenschappen, AI en wiskunde. In andere sectoren wordt het aantal internationale studenten beperkt.",
+      "summary": "Internationale studenten beperken tot tekortvakgebieden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "internationale studenten",
+        "tekortvakgebieden",
+        "technologie",
+        "bètawetenschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 20",
+      "originalQuote": "Daarom moeten we dat beperken tot studenten, wetenschappers en kenniswerkers in vakgebieden waar we een tekort hebben ... We beperken het aantal internationale studenten in andere sectoren."
+    },
+    {
+      "promiseCode": "VVD-2025-052",
+      "text": "Internationale onderzoekers en samenwerkingen worden gescreend zodat militaire of dual-use-kennis niet in verkeerde handen valt. Onderzoekers loyaal aan onvrije regimes worden geweerd uit gevoelige kennisgebieden.",
+      "summary": "Screening internationale onderzoekers voor kennisveiligheid",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kennisveiligheid",
+        "screening",
+        "dual-use",
+        "internationale onderzoekers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 20",
+      "originalQuote": "We screenen waar nodig internationale onderzoekers en samenwerkingen zodat militaire of dual-use-kennis nooit in verkeerde handen valt. Onderzoekers die loyaal zijn aan onvrije regimes worden geweerd uit gevoelige kennisgebieden."
+    },
+    {
+      "promiseCode": "VVD-2025-053",
+      "text": "Publiek bekostigde instellingen worden verplicht hun onderwijsaanbod beschikbaar te stellen aan volwassenen en werkenden. De prioriteit ligt bij tekortberoepen, mbo en mkb.",
+      "summary": "Verplicht onderwijsaanbod voor volwassenen en werkenden",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "een leven lang leren",
+        "volwassenenonderwijs",
+        "tekortberoepen",
+        "mkb"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 21",
+      "originalQuote": "Publiek bekostigde instellingen worden verplicht om hun onderwijsaanbod beschikbaar te stellen aan volwassenen en werkenden. De prioriteit ligt bij tekortberoepen, mbo en mkb."
+    },
+    {
+      "promiseCode": "VVD-2025-054",
+      "text": "Investeren in infrastructuur met de investeringsagenda voor nationale groei om nieuwe wegen aan te leggen en bestaande wegen goed te onderhouden. De grootste knelpunten uit de file top-10 worden aangepakt.",
+      "summary": "Infrastructuurinvesteringen en aanpak file top-10",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infrastructuur",
+        "investeringsagenda",
+        "file top-10",
+        "wegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 21",
+      "originalQuote": "We investeren met de investeringsagenda voor nationale groei in onze infrastructuur, zodat we nieuwe wegen aan kunnen leggen en bestaande wegen goed kunnen onderhouden. Daarnaast stellen we ons ten doel om de grootste knelpunten uit de file top-10 aan te pakken."
+    },
+    {
+      "promiseCode": "VVD-2025-055",
+      "text": "De brandstofaccijns wordt betaalbaar gehouden. Er wordt gekeken naar een toekomstbestendige hervorming van de autobelasting, waarbij werkenden er niet op achteruit mogen gaan.",
+      "summary": "Brandstofaccijns betaalbaar houden, autobelasting hervormen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandstofaccijns",
+        "autobelasting",
+        "hervorming",
+        "werkenden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 21",
+      "originalQuote": "We houden daarom de brandstofaccijns betaalbaar. Daarnaast kijken we naar een toekomstbestendige hervorming van de autobelasting, waarbij ons uitgangspunt is dat werkenden er niet op achteruit mogen gaan."
+    },
+    {
+      "promiseCode": "VVD-2025-056",
+      "text": "Boetes voor zwartrijden en geweld tegen ov-personeel worden verhoogd. Levenslange ov-verboden worden opgelegd en taakstrafverboden voor geweldplegers tegen ov-personeel.",
+      "summary": "Hogere boetes en levenslange ov-verboden voor overlastgevers",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ov-veiligheid",
+        "boetes",
+        "zwartrijden",
+        "levenslange verboden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 21",
+      "originalQuote": "we pakken overlastgevers aan door de boetes te verhogen voor onder andere zwartrijden en taakstrafverboden op te leggen voor geweldplegers tegen ov-personeel. Verder willen we levenslange ov-verboden opleggen"
+    },
+    {
+      "promiseCode": "VVD-2025-057",
+      "text": "Straffen voor stelselmatige verkeershufters worden verhoogd door levenslange rijontzeggingen in te voeren en boetes te verhogen. Handhaving op rijden onder invloed van drugs, alcohol en telefoongebruik wordt verstevigd.",
+      "summary": "Levenslange rijontzeggingen en verstevigde handhaving verkeer",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijontzegging",
+        "verkeershufters",
+        "handhaving",
+        "rijden onder invloed"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "We verhogen de straffen voor (stelselmatige) verkeershufters, onder meer door levenslange rijontzeggingen in te voeren en boetes te verhogen. Daarnaast verstevigen we de handhaving op rijden onder invloed van drugs en alcohol, en met een telefoon achter het stuur."
+    },
+    {
+      "promiseCode": "VVD-2025-058",
+      "text": "Het blokkeren van wegen door demonstraties wordt strafbaar gesteld. Bezetters van snelwegen worden direct weggehaald, aangehouden en vervolgd.",
+      "summary": "Strafbaarstelling wegblokkades en vervolging snelwegbezetters",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wegblokkades",
+        "snelwegbezetters",
+        "strafbaarstelling",
+        "vervolging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "Het blokkeren van wegen door demonstraties voor welke doeleinden dan ook, gaan we strafbaar stellen. Bezetters van snelwegen worden direct weggehaald en worden niet alleen aangehouden, maar worden wat de VVD betreft ook vervolgd."
+    },
+    {
+      "promiseCode": "VVD-2025-059",
+      "text": "Een helmplicht en minimumleeftijd worden ingevoerd voor fatbikes. Bij voorkeur worden fatbikes bestempeld als illegale categorie.",
+      "summary": "Helmplicht en minimumleeftijd fatbikes, mogelijk verbod",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fatbikes",
+        "helmplicht",
+        "minimumleeftijd",
+        "illegale categorie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "We willen een helmplicht en een minimumleeftijd voor fatbikes. Bij voorkeur bestempelen we fatbikes als illegale categorie."
+    },
+    {
+      "promiseCode": "VVD-2025-060",
+      "text": "Nieuwbouwlocaties mogen niet van de grond komen zonder dat er voldoende parkeerplaatsen in het project zijn meegenomen, met onderscheid tussen stadscentrum en regio.",
+      "summary": "Verplichte parkeerplaatsen bij nieuwbouwlocaties",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nieuwbouwlocaties",
+        "parkeerplaatsen",
+        "stadscentrum",
+        "regio"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "Er mogen daarom geen (grootschalige) nieuwbouwlocaties van de grond komen zonder dat er voldoende parkeerplaatsen in het project zijn meegenomen, met onderscheid tussen nieuwbouwlocaties in een stadscentrum of in de regio."
+    },
+    {
+      "promiseCode": "VVD-2025-061",
+      "text": "Schiphol mag haar maximale aantal jaarlijkse vliegbewegingen uitbreiden zodat het aantal vluchten kan groeien. Er komt geen nachtsluiting voor Schiphol.",
+      "summary": "Uitbreiding vliegbewegingen Schiphol, geen nachtsluiting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schiphol",
+        "vliegbewegingen",
+        "nachtsluiting",
+        "hub-functie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "We kiezen ervoor dat Schiphol haar maximale aantal jaarlijkse vliegbewegingen uit kan breiden, en dat het aantal vluchten dus kan groeien. ... Daarnaast blijven we ons er ook voor inspannen dat er geen nachtsluiting komt voor Schiphol."
+    },
+    {
+      "promiseCode": "VVD-2025-062",
+      "text": "Lelystad Airport wordt geopend voor zowel defensie- als burgerluchtvaart.",
+      "summary": "Opening Lelystad Airport voor defensie en burgerluchtvaart",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelystad airport",
+        "defensieluchtvaart",
+        "burgerluchtvaart",
+        "opening"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "We openen Lelystad Airport voor zowel defensie- als burgerluchtvaart."
+    },
+    {
+      "promiseCode": "VVD-2025-063",
+      "text": "Er worden geen nieuwe vliegbelastingen geïntroduceerd en huidige belastingen worden niet verhoogd om vliegen betaalbaar te houden.",
+      "summary": "Geen nieuwe vliegbelastingen, huidige niet verhogen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegbelastingen",
+        "betaalbaarheid",
+        "belastingverhoging",
+        "luchtvaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 22",
+      "originalQuote": "We maken ons er daarom voor om geen nieuwe vliegbelastingen te introduceren en huidige belastingen niet te verhogen."
+    },
+    {
+      "promiseCode": "VVD-2025-064",
+      "text": "Op basis van een nationaal stikstofemissieplafond krijgen landbouwbedrijven een reductiedoelstelling met afrekenbare normen per hectare of per dier. Agrarische ondernemers kunnen hun emissies monitoren en krijgen ruimte om te voldoen aan heldere doelstellingen.",
+      "summary": "Stikstofemissieplafond met reductiedoelen per hectare of dier",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstofemissieplafond",
+        "reductiedoelstelling",
+        "emissies monitoren",
+        "doelsturing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 24",
+      "originalQuote": "Op basis van een nationaal stikstofemissieplafond krijgen landbouwbedrijven een reductiedoelstelling met afrekenbare normen per hectare of per dier. Agrarische ondernemers ... kunnen hun emissies monitoren en krijgen de ruimte om te voldoen aan een heldere doelstelling"
+    },
+    {
+      "promiseCode": "VVD-2025-065",
+      "text": "Binnen een werkbare periode wordt toegewerkt naar grondgebonden melkveehouderij met balans van voldoende grasland. De omvang van de melkveehouderij wordt de maatstaf voor de kalverhouderij.",
+      "summary": "Grondgebonden melkveehouderij en koppeling kalverhouderij",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondgebonden melkveehouderij",
+        "grasland",
+        "kalverhouderij",
+        "maatstaf"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 24",
+      "originalQuote": "We gaan binnen een werkbare periode toewerken naar een balans met voldoende grasland. ... De omvang van de melkveehouderij wordt de maatstaf voor de kalverhouderij."
+    },
+    {
+      "promiseCode": "VVD-2025-066",
+      "text": "In een Koopkrachtwet vastleggen dat werkenden er ieder jaar in koopkracht meer op vooruit moeten gaan dan niet-werkenden.",
+      "summary": "Koopkrachtwet: werkenden gaan meer vooruit dan niet-werkenden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koopkrachtwet",
+        "werkenden",
+        "koopkracht",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 26, 29",
+      "originalQuote": "Daarom leggen we in een Koopkrachtwet vast dat werkenden er ieder jaar in koopkracht méér op vooruit moeten gaan dan niet-werkenden."
+    },
+    {
+      "promiseCode": "VVD-2025-067",
+      "text": "Kinderopvang bijna gratis maken door afschaffing van de kinderopvangtoeslag. Op termijn de vierde en vijfde dag kinderopvang volledig gratis maken voor voltijd werkende ouders.",
+      "summary": "Kinderopvang bijna gratis, vierde en vijfde dag volledig gratis",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderopvang",
+        "gratis",
+        "kinderopvangtoeslag",
+        "voltijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 26, 30",
+      "originalQuote": "We maken kinderopvang bijna gratis: We zetten de hervorming van de kinderopvang door. De kinderopvangtoeslag wordt afgeschaft en kinderopvang wordt bijna gratis voor werkende ouders. Op termijn willen we de vierde en vijfde dag kinderopvang volledig gratis maken om voltijd werkende ouders tegemoet te komen."
+    },
+    {
+      "promiseCode": "VVD-2025-068",
+      "text": "Dertig nieuwe grootschalige woonwijken bouwen met sturing vanuit Den Haag om het woningtekort op te lossen.",
+      "summary": "Dertig nieuwe grootschalige woonwijken met rijkssturing",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woonwijken",
+        "dertig",
+        "grootschalig",
+        "rijkssturing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 26, 31",
+      "originalQuote": "We bouwen dertig nieuwe grootschalige woonwijken met sturing vanuit Den Haag"
+    },
+    {
+      "promiseCode": "VVD-2025-069",
+      "text": "De energiebelasting verlagen om de energierekening voor huishoudens betaalbaarder te maken.",
+      "summary": "Energiebelasting verlagen voor lagere energierekening",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiebelasting",
+        "verlagen",
+        "huishoudens",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 26, 30",
+      "originalQuote": "Om ervoor te zorgen dat energie voor huishoudens betaalbaarder wordt, verlagen we de energiebelasting."
+    },
+    {
+      "promiseCode": "VVD-2025-070",
+      "text": "Uitkeringen laten stijgen met inflatie in plaats van met lonen, behalve AOW en regelingen voor arbeidsongeschikten.",
+      "summary": "Uitkeringen stijgen met inflatie, niet met lonen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitkeringen",
+        "inflatie",
+        "lonen",
+        "aow",
+        "arbeidsongeschikten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 29",
+      "originalQuote": "Voortaan stijgen de uitkeringen, behalve de AOW en regelingen voor arbeidsongeschikten, mee met de inflatie in plaats van met de lonen."
+    },
+    {
+      "promiseCode": "VVD-2025-071",
+      "text": "Een werkbonus voor tweeverdieners invoeren en de Wet onderscheid arbeidsduur versoepelen om meer werken te belonen.",
+      "summary": "Werkbonus tweeverdieners en versoepeling wet arbeidsduur",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkbonus",
+        "tweeverdieners",
+        "arbeidsduur",
+        "versoepeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 29",
+      "originalQuote": "Daarom geven we een werkbonus aan tweeverdieners. Ook versoepelen we de Wet onderscheid arbeidsduur."
+    },
+    {
+      "promiseCode": "VVD-2025-072",
+      "text": "De brandstofaccijns verlagen om autorijden betaalbaarder te maken.",
+      "summary": "Brandstofaccijns verlagen voor betaalbaarder autorijden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandstofaccijns",
+        "verlagen",
+        "autorijden",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 30",
+      "originalQuote": "We verlagen de brandstofaccijns zodat autorijden betaalbaarder wordt."
+    },
+    {
+      "promiseCode": "VVD-2025-073",
+      "text": "De jaarlijkse stijging van de onroerendezaakbelasting maximeren om woonlasten onder controle te houden.",
+      "summary": "Maximering stijging onroerendezaakbelasting",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onroerendezaakbelasting",
+        "maximering",
+        "woonlasten",
+        "stijging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 30",
+      "originalQuote": "om de woonlasten onder controle te houden maximeren we de jaarlijkse stijging van de onroerendezaakbelasting."
+    },
+    {
+      "promiseCode": "VVD-2025-074",
+      "text": "Een uitkeringsplafond invoeren zodat geen huishouden door stapeling van uitkeringen en toeslagen meer te besteden heeft dan werkenden.",
+      "summary": "Uitkeringsplafond tegen stapeling uitkeringen en toeslagen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitkeringsplafond",
+        "stapeling",
+        "uitkeringen",
+        "toeslagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 31",
+      "originalQuote": "We voeren een plafond in op de totale steun die één huishouden kan ontvangen."
+    },
+    {
+      "promiseCode": "VVD-2025-075",
+      "text": "Investeren in twintig kwetsbare wijken via het Nationaal Programma Leefbaarheid en Veiligheid.",
+      "summary": "Investering in twintig kwetsbare wijken via nationaal programma",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kwetsbare wijken",
+        "twintig",
+        "leefbaarheid",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 32",
+      "originalQuote": "We investeren in twintig kwetsbare wijken via het Nationaal Programma Leefbaarheid en Veiligheid."
+    },
+    {
+      "promiseCode": "VVD-2025-076",
+      "text": "De Wet betaalbare huur, lokale zelfbewoningsplicht en het verbod op tijdelijke contracten schrappen om meer private huurwoningen mogelijk te maken.",
+      "summary": "Schrappen huurwetten voor meer private huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet betaalbare huur",
+        "zelfbewoningsplicht",
+        "tijdelijke contracten",
+        "private huurwoningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 32",
+      "originalQuote": "We schrappen de Wet betaalbare huur, de lokale zelfbewoningsplicht en het verbod op tijdelijke contracten."
+    },
+    {
+      "promiseCode": "VVD-2025-077",
+      "text": "Het programma Schrappen Tegenstrijdige en Overbodige Eisen en Regelgeving (STOER) voortzetten waarbij jaarlijks regels worden geschrapt.",
+      "summary": "STOER-programma voortzetten voor jaarlijkse regelschrapping",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stoer",
+        "regelgeving",
+        "schrappen",
+        "jaarlijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 32",
+      "originalQuote": "Het programma Schrappen Tegenstrijdige en Overbodige Eisen en Regelgeving (STOER), zetten we door. Deze commissie maakt jaarlijks een overzicht van regels die we kunnen schrappen"
+    },
+    {
+      "promiseCode": "VVD-2025-078",
+      "text": "De VVD wil investeren van 3,5% van het BBP in defensie om de krijgsmacht te moderniseren en NAVO-verplichtingen na te komen.",
+      "summary": "3,5% BBP investering in defensie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "investering",
+        "krijgsmacht",
+        "modernisering",
+        "navo"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 39",
+      "originalQuote": "Een investering van 3,5% is nodig om onze krijgsmacht te moderniseren en onze NAVO-verplichtingen na te komen"
+    },
+    {
+      "promiseCode": "VVD-2025-079",
+      "text": "De VVD wil de NAVO-norm van 3,5% als streefcijfer wettelijk vastleggen, naast de al bestaande 2%-norm als ondergrens.",
+      "summary": "NAVO-norm 3,5% wettelijk vastleggen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "navo-norm",
+        "wetgeving",
+        "defensie-uitgaven",
+        "streefcijfer"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 39",
+      "originalQuote": "leggen we de geldende NAVO-norm van 3,5% als streefcijfer ook vast in de wet"
+    },
+    {
+      "promiseCode": "VVD-2025-080",
+      "text": "De VVD wil 100.000 militairen en reservisten erbij door een verplichte enquête voor jongeren in te voeren en de rol van reservist te flexibiliseren.",
+      "summary": "100.000 extra militairen en reservisten",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "militairen",
+        "reservisten",
+        "personeelsmodel",
+        "jongeren",
+        "enquête"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 39",
+      "originalQuote": "100.000 militairen en reservisten erbij"
+    },
+    {
+      "promiseCode": "VVD-2025-081",
+      "text": "Per regio moeten bouwprojecten voor 25% bestaan uit betaalbare koopwoningen volgens een nieuwe Betaalbare koopwet.",
+      "summary": "25% betaalbare koopwoningen per regio",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koopwoningen",
+        "bouwprojecten",
+        "betaalbaarheid",
+        "regio"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 33",
+      "originalQuote": "Per regio bestaan bouwprojecten voor 25% uit betaalbare koopwoningen"
+    },
+    {
+      "promiseCode": "VVD-2025-082",
+      "text": "Elke huurder krijgt het wettelijk recht om de eigen grondgebonden sociale huurwoning te kopen via een Kooprechtwet.",
+      "summary": "Kooprecht voor sociale huurders",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kooprecht",
+        "sociale huur",
+        "woningcorporatie",
+        "grondgebonden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 33",
+      "originalQuote": "Elke huurder krijgt het wettelijk recht om de eigen grondgebonden sociale huurwoning te kopen"
+    },
+    {
+      "promiseCode": "VVD-2025-083",
+      "text": "Gemeenten worden verplicht binnen twaalf weken op bezwaren over vergunningen te reageren, met extra snelle behandeling voor woningbouw.",
+      "summary": "Twaalf weken reactietermijn bezwaarprocedures",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bezwaarprocedures",
+        "vergunningen",
+        "reactietermijn",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 33",
+      "originalQuote": "Ook wordt de gemeente verplicht sneller op bezwaren over vergunningen te reageren, namelijk binnen twaalf weken"
+    },
+    {
+      "promiseCode": "VVD-2025-084",
+      "text": "De VVD wil griffierechten fors verhogen voor bezwaarprocedures tegen woningbouw om vertragingstactieken te ontmoedigen, behalve voor lage inkomens.",
+      "summary": "Verhogen griffierechten bezwaarprocedures woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "griffierechten",
+        "bezwaarprocedures",
+        "woningbouw",
+        "vertragingstactieken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 33",
+      "originalQuote": "We verhogen de griffierechten fors voor bezwaarprocedures tegen woningbouw, om onnodige vertragingstactieken en beroepsprocedures te ontmoedigen"
+    },
+    {
+      "promiseCode": "VVD-2025-085",
+      "text": "Voor de meeste kleine verbouwingen is straks geen vergunning meer nodig om woningen aan te passen.",
+      "summary": "Vergunningsvrij verbouwen uitbreiden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbouwingen",
+        "vergunningen",
+        "woningaanpassingen",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 33",
+      "originalQuote": "Voor de meeste kleine verbouwingen is straks geen vergunning meer nodig"
+    },
+    {
+      "promiseCode": "VVD-2025-086",
+      "text": "De VVD wil groene investeringen zoals warmtepompen deels aftrekbaar maken bij de belastingaangifte.",
+      "summary": "Fiscale aftrekbaarheid groene investeringen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groene investeringen",
+        "warmtepomp",
+        "belastingaftrek",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 33",
+      "originalQuote": "maken we groene investeringen deels aftrekbaar bij de belastingaangifte"
+    },
+    {
+      "promiseCode": "VVD-2025-087",
+      "text": "De VVD wil een jaarlijkse inkomenstoets voor sociale huurwoningen en een vermogenstoets voor nieuwe bewoners om scheefwonen aan te pakken.",
+      "summary": "Inkomens- en vermogenstoets sociale huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inkomenstoets",
+        "vermogenstoets",
+        "sociale huur",
+        "scheefwonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 34",
+      "originalQuote": "komt er een jaarlijkse inkomenstoets voor sociale huurwoningen"
+    },
+    {
+      "promiseCode": "VVD-2025-088",
+      "text": "De Landmacht krijgt extra infanteriebataljons met zware gevechtsvoertuigen om te voldoen aan NAVO-eisen. Ook worden munitievoorraden en medische en logistieke ondersteuning uitgebreid.",
+      "summary": "Extra infanteriebataljons en uitbreiding munitievoorraden voor Landmacht",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infanteriebataljons",
+        "gevechtsvoertuigen",
+        "munitievoorraden",
+        "medische ondersteuning",
+        "logistieke ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 41",
+      "originalQuote": "Daarom investeren we in extra infanteriebataljons met zware gevechtsvoertuigen. Ook breiden we munitievoorraden en medische en logistieke ondersteuning verder uit"
+    },
+    {
+      "promiseCode": "VVD-2025-089",
+      "text": "Forse investeringen in het Duits-Nederlandse Legerkorps voor grootschalige operaties, inclusief beveiligde communicatiemiddelen en extra luchtverdediging.",
+      "summary": "Investeringen in Duits-Nederlandse Legerkorps en luchtverdediging",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "duits-nederlandse legerkorps",
+        "grootschalige operaties",
+        "communicatiemiddelen",
+        "luchtverdediging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 41",
+      "originalQuote": "Voor Nederland vraagt dit om forse investeringen in het Duits-Nederlandse Legerkorps"
+    },
+    {
+      "promiseCode": "VVD-2025-090",
+      "text": "Samen met bondgenoten investeren in strategische capaciteit zoals satellieten en grote vliegtuigen voor inlichtingenverzameling, radarbeeld en maritieme patrouilles.",
+      "summary": "Investeringen in strategische capaciteit: satellieten en inlichtingenvliegtuigen",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "strategische capaciteit",
+        "satellieten",
+        "inlichtingenverzameling",
+        "radarbeeld",
+        "maritieme patrouilles"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 41",
+      "originalQuote": "investeren we samen met bondgenoten in strategische capaciteit zoals satellieten en grote vliegtuigen voor inlichtingenverzameling"
+    },
+    {
+      "promiseCode": "VVD-2025-091",
+      "text": "De luchtmacht krijgt extra precisieraketten voor de F35 en meer tankervliegtuigen. De marine krijgt extra raketten en onbemande systemen voor nieuwe schepen.",
+      "summary": "Extra precisieraketten F35, tankervliegtuigen en marineraketten",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "precisieraketten",
+        "f35",
+        "tankervliegtuigen",
+        "marineraketten",
+        "onbemande systemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 41",
+      "originalQuote": "investeert de luchtmacht extra in precisieraketten voor de F35 en meer tankervliegtuigen. Ook de marine krijgt extra raketten en onbemande systemen"
+    },
+    {
+      "promiseCode": "VVD-2025-092",
+      "text": "Bij militaire aankopen wordt waar mogelijk voorkeur gegeven aan Nederlandse ondernemers op terreinen waar onze industrie goed in is.",
+      "summary": "Voorkeur Nederlandse ondernemers bij militaire aankopen",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "militaire aankopen",
+        "nederlandse ondernemers",
+        "defensie-industrie",
+        "voorkeur"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 41",
+      "originalQuote": "Daarom geven we bij militaire aankopen waar mogelijk voorkeur aan Nederlandse ondernemers"
+    },
+    {
+      "promiseCode": "VVD-2025-093",
+      "text": "Op Europees niveau pleiten voor een Defensie-Innovatieautoriteit (EDIA) naar het model van het Amerikaanse DARPA voor investeringen in baanbrekende projecten.",
+      "summary": "Europese Defensie-Innovatieautoriteit naar DARPA-model",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-innovatieautoriteit",
+        "edia",
+        "darpa",
+        "baanbrekende projecten",
+        "defensie-innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 41",
+      "originalQuote": "Op Europees niveau pleiten we voor een Defensie-Innovatieautoriteit (EDIA) naar het model van het Amerikaanse DARPA"
+    },
+    {
+      "promiseCode": "VVD-2025-094",
+      "text": "Nederland blijft Oekraïne onverminderd militair, financieel en humanitair steunen. Deze steun wordt meerjarig vastgelegd en sancties tegen Rusland gecontinueerd.",
+      "summary": "Meerjarige steun aan Oekraïne en sancties tegen Rusland",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "oekraïne",
+        "militaire steun",
+        "financiële steun",
+        "humanitaire steun",
+        "meerjarig",
+        "sancties"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 42",
+      "originalQuote": "We blijven Oekraïne onverminderd militair, financieel en humanitair steunen. We leggen deze steun meerjarig vast"
+    },
+    {
+      "promiseCode": "VVD-2025-095",
+      "text": "Verdragen zoals het Vluchtelingenverdrag en EVRM moeten worden herzien. VN-uitgaven worden scherper gecontroleerd en waar nodig teruggeschroefd.",
+      "summary": "Herziening Vluchtelingenverdrag en EVRM, controle VN-uitgaven",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vluchtelingenverdrag",
+        "evrm",
+        "herziening",
+        "vn-uitgaven",
+        "controle"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 42",
+      "originalQuote": "moeten verdragen als het Vluchtelingenverdrag en het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM) worden herzien"
+    },
+    {
+      "promiseCode": "VVD-2025-096",
+      "text": "Voor Canada wordt een douane-unie voorgesteld en voor Groenland EU-lidmaatschap, om toegang tot kritieke grondstoffen te verbeteren.",
+      "summary": "Douane-unie Canada en EU-lidmaatschap Groenland",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "canada",
+        "douane-unie",
+        "groenland",
+        "eu-lidmaatschap",
+        "kritieke grondstoffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 42",
+      "originalQuote": "We stellen voor Canada een douane-unie en voor Groenland een EU- lidmaatschap in het vooruitzicht"
+    },
+    {
+      "promiseCode": "VVD-2025-097",
+      "text": "De Iraanse Revolutionaire Garde moet op de EU-terreurlijst. Sancties, verbod op Iraanse organisaties en steun aan Iraanse vrijheidsbewegingen.",
+      "summary": "Iraanse Revolutionaire Garde op EU-terreurlijst",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "iraanse revolutionaire garde",
+        "eu-terreurlijst",
+        "sancties",
+        "iraanse organisaties",
+        "vrijheidsbewegingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 43",
+      "originalQuote": "De Iraanse Revolutionaire Garde moet op de EU-terreurlijst"
+    },
+    {
+      "promiseCode": "VVD-2025-098",
+      "text": "Maatschappelijke organisaties die overheidssubsidies willen, moeten financiering voor belangrijk deel eerst uit de maatschappij zelf halen.",
+      "summary": "NGO's moeten eerst maatschappelijke financiering vinden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maatschappelijke organisaties",
+        "overheidssubsidies",
+        "maatschappelijke financiering",
+        "ngo's"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 43",
+      "originalQuote": "moeten hun financiering voor een belangrijk deel eerst uit de maatschappij zelf halen"
+    },
+    {
+      "promiseCode": "VVD-2025-099",
+      "text": "Minder uitgaven aan ontwikkelingssamenwerking, meer investeren in defensie. Ontwikkelingssamenwerking gaat zoveel mogelijk via de EU.",
+      "summary": "Minder ontwikkelingssamenwerking, meer defensie, via EU",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "defensie-investeringen",
+        "eu-samenwerking",
+        "global gateway"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 43",
+      "originalQuote": "De VVD gaat mee met de huidige geopolitieke realiteit door te investeren in defensie en minder uit te geven aan ontwikkelingssamenwerking"
+    },
+    {
+      "promiseCode": "VVD-2025-100",
+      "text": "Een krachtige Europese sanctie-instelling naar Amerikaans model voor snellere, doelgerichtere sancties die moeilijker te omzeilen zijn.",
+      "summary": "Europese sanctie-instelling naar Amerikaans model",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese sanctie-instelling",
+        "amerikaans model",
+        "snellere sancties",
+        "doelgericht"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 44",
+      "originalQuote": "De VVD wil een krachtige Europese sanctie-instelling naar Amerikaans model"
+    },
+    {
+      "promiseCode": "VVD-2025-101",
+      "text": "Harmonisatie van regels voor ondernemers tussen Europese landen. Geen strengere nationale koppen bovenop EU-beleid.",
+      "summary": "Harmonisatie ondernemersregels, geen nationale koppen op EU-beleid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "harmonisatie",
+        "ondernemersregels",
+        "europese landen",
+        "nationale koppen",
+        "eu-beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 44",
+      "originalQuote": "We zullen dus streven naar harmonisatie van regels voor ondernemers. Dit betekent ook geen strengere nationale koppen bovenop EU-beleid"
+    },
+    {
+      "promiseCode": "VVD-2025-102",
+      "text": "Hervorming Meerjarig Financieel Kader: focus verschuift van cohesiegelden naar investeringen in innovatie, defensie, veiligheid en strategische autonomie.",
+      "summary": "MFK-hervorming: van cohesie naar defensie en innovatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerjarig financieel kader",
+        "cohesiegelden",
+        "innovatie",
+        "defensie",
+        "strategische autonomie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 45",
+      "originalQuote": "De focus moet verschuiven van ineffectieve cohesiegelden naar investeringen in innovatie, defensie en veiligheid, en strategische autonomie"
+    },
+    {
+      "promiseCode": "VVD-2025-103",
+      "text": "De straffen voor statelijke spionage worden fors verhoogd. Bedrijven en personen met banden met vijandige regimes worden uitgesloten van strategische sectoren.",
+      "summary": "Hogere straffen spionage, uitsluiting strategische sectoren",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "statelijke spionage",
+        "straffen",
+        "strategische sectoren",
+        "vijandige regimes",
+        "uitsluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 45",
+      "originalQuote": "verhogen we de straffen fors voor statelijke spionage"
+    },
+    {
+      "promiseCode": "VVD-2025-104",
+      "text": "Elk huishouden moet zich 72 uur kunnen redden bij uitval van stroom, water of bevoorrading met een nationaal noodpakket.",
+      "summary": "Nationale noodpakketten voor 72-uurs zelfredzaamheid",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noodpakket",
+        "72 uur",
+        "zelfredzaamheid",
+        "stroom",
+        "water",
+        "bevoorrading"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 46",
+      "originalQuote": "Elk huishouden moet zich 72 uur kunnen redden bij uitval van stroom, water of bevoorrading. Ieder huishouden bezit een nationaal noodpakket"
+    },
+    {
+      "promiseCode": "VVD-2025-105",
+      "text": "Er komen vaste fysieke informatiepunten met kaarten en crisisposters op plekken zoals supermarkten, scholen en gemeentegebouwen.",
+      "summary": "Fysieke noodinformatiepunten in supermarkten en openbare gebouwen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "informatiepunten",
+        "crisisposters",
+        "supermarkten",
+        "scholen",
+        "gemeentegebouwen",
+        "noodinformatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 46",
+      "originalQuote": "Er komen vaste informatiepunten met fysieke kaarten en crisisposters, op plekken zoals supermarkten, scholen en gemeentegebouwen"
+    },
+    {
+      "promiseCode": "VVD-2025-106",
+      "text": "Gaswinning uit kleine velden op land en op de Noordzee voortzetten zolang Nederland nog gas gebruikt, waarbij het Groninger gasveld gesloten blijft en de regio meeproftiteert van de voordelen.",
+      "summary": "Gaswinning kleine velden voortzetten, Groningen blijft gesloten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gaswinning",
+        "kleine velden",
+        "noordzee",
+        "groninger gasveld"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 47",
+      "originalQuote": "Gaswinning op eigen bodem gaat door: Zolang we nog gas gebruiken, willen we hiervoor niet afhankelijker worden van andere landen. Daarom blijven we inzetten op gaswinning uit kleine velden op land en op de Noordzee. Dit doen we op een veilige manier, waarbij de regio meeprofiteert van de voordelen. Het Groninger gasveld blijft gesloten."
+    },
+    {
+      "promiseCode": "VVD-2025-107",
+      "text": "Actief beleid voeren om in Nederland en de EU te starten met raffinage van aardmetalen om onafhankelijkheid te vergroten en grondstoffenbehoefte veilig te stellen.",
+      "summary": "Raffinage van aardmetalen opstarten in Nederland en EU",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "raffinage",
+        "aardmetalen",
+        "grondstoffen",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 47",
+      "originalQuote": "Om onze onafhankelijkheid te vergroten, moeten we zoveel mogelijk kunnen voorzien in onze eigen Europese grondstoffenbehoefte. Dit betekent dat er actief beleid moet worden gevoerd om in Nederland en de EU te starten met de raffinage van aardmetalen."
+    },
+    {
+      "promiseCode": "VVD-2025-108",
+      "text": "Nieuwe handelsverdragen sluiten met snelgroeiende economieën zoals India en de Verenigde Arabische Emiraten om afhankelijkheden af te bouwen.",
+      "summary": "Handelsverdragen met India en VAE",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handelsverdragen",
+        "india",
+        "verenigde arabische emiraten",
+        "afhankelijkheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 47",
+      "originalQuote": "We zetten vol in op nieuwe handelsverdragen met snelgroeiende economieën als India en de Verenigde Arabische Emiraten."
+    },
+    {
+      "promiseCode": "VVD-2025-109",
+      "text": "Het Mercosur-verdrag met Zuid-Amerika doorvoeren omdat dit toegang geeft tot kritieke grondstoffen en Zuid-Amerikaanse landen aan Europa bindt in plaats van aan China of Rusland.",
+      "summary": "Mercosur-verdrag doorvoeren voor grondstoffen en geopolitieke redenen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mercosur-verdrag",
+        "zuid-amerika",
+        "grondstoffen",
+        "china",
+        "rusland"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 47",
+      "originalQuote": "Het is daarom onacceptabel dat het Mercosur-verdrag met Zuid-Amerika wordt geblokkeerd. Dit verdrag is een cruciaal wapen voor onze strategische soevereiniteit: het geeft ons toegang tot kritieke grondstoffen en bindt Zuid-Amerikaanse landen aan Europa in plaats van aan China of Rusland."
+    },
+    {
+      "promiseCode": "VVD-2025-110",
+      "text": "Screening aanscherpen van studenten en onderzoekers uit hoog-risicolanden die toegang willen tot gevoelige technologiegebieden als fotonica, quantumcomputing en biotechnologie.",
+      "summary": "Aangescherpte screening studenten/onderzoekers uit risicolanden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "screening",
+        "studenten",
+        "onderzoekers",
+        "hoog-risicolanden",
+        "technologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 47-48",
+      "originalQuote": "Ook scherpen we de screening aan van studenten en onderzoekers uit hoog-risicolanden die toegang willen tot deze gevoelige technologiegebieden."
+    },
+    {
+      "promiseCode": "VVD-2025-111",
+      "text": "Invoeren van Clare's law waardoor partners en omstanders bij de politie kunnen navragen of iemand een gewelddadig verleden heeft als onderdeel van integrale aanpak tegen femicide.",
+      "summary": "Clare's law invoeren tegen femicide",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "clare's law",
+        "femicide",
+        "gewelddadig verleden",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 52",
+      "originalQuote": "Partners en mensen in hun omgeving die vermoedens hebben van mogelijk geweld krijgen, naar voorbeeld van de Britse Clare's law, de mogelijkheid om bij de politie na te vragen of iemand een gewelddadig verleden heeft."
+    },
+    {
+      "promiseCode": "VVD-2025-112",
+      "text": "Psychisch geweld strafbaar stellen zodat controle en intieme terreur als rode vlaggen van femicide zelfstandig strafbaar worden.",
+      "summary": "Psychisch geweld strafbaar stellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "psychisch geweld",
+        "strafbaar",
+        "controle",
+        "intieme terreur"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 52",
+      "originalQuote": "Ook stellen we psychisch geweld strafbaar, zodat controle en intieme terreur als een van de rode vlaggen van femicide, zelfstandig strafbaar worden gesteld."
+    },
+    {
+      "promiseCode": "VVD-2025-113",
+      "text": "Blokkeren van vitale infrastructuur strafbaar stellen en verbod invoeren op gezichtsbedekkende kleding bij demonstraties om ordeverstorende acties aan te pakken.",
+      "summary": "Blokkeren infrastructuur strafbaar, verbod gezichtsbedekkende kleding",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vitale infrastructuur",
+        "strafbaar",
+        "gezichtsbedekkende kleding",
+        "demonstraties"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 52",
+      "originalQuote": "Er komt een verbod op gezichtsbedekkende kleding en we stellen het blokkeren van vitale infrastructuur strafbaar."
+    },
+    {
+      "promiseCode": "VVD-2025-114",
+      "text": "Camera's met gezichtsherkenning inzetten en wet op openbare manifestaties moderniseren om relschoppers te identificeren die het demonstratierecht misbruiken.",
+      "summary": "Gezichtsherkenning en modernisering manifestatiewet tegen relschoppers",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezichtsherkenning",
+        "camera's",
+        "manifestaties",
+        "relschoppers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 52",
+      "originalQuote": "Daartoe moderniseren we de wet op de openbare manifestaties en zetten we camera's met gezichtsherkenning in."
+    },
+    {
+      "promiseCode": "VVD-2025-115",
+      "text": "Taakstrafverbod invoeren voor alle daders die geweld plegen tegen politie en hulpverleners, zodat zij voortaan altijd een gevangenisstraf krijgen.",
+      "summary": "Taakstrafverbod bij geweld tegen politie en hulpverleners",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstrafverbod",
+        "geweld",
+        "politie",
+        "hulpverleners",
+        "gevangenisstraf"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 53",
+      "originalQuote": "Er komt een taakstrafverbod voor alle daders die geweld plegen tegen politie en hulpverleners. Wie hen belaagt, krijgt voortaan altijd een gevangenisstraf."
+    },
+    {
+      "promiseCode": "VVD-2025-116",
+      "text": "Maximale straf voor cybercriminaliteit verhogen van vier naar acht jaar om beter aan te sluiten bij de schaal en impact van dit type misdrijven.",
+      "summary": "Cybercriminaliteit straf verhogen naar 8 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cybercriminaliteit",
+        "maximale straf",
+        "acht jaar",
+        "vier jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 53-54",
+      "originalQuote": "Om recht te doen aan de toegenomen schaal en impact van cybercriminaliteit, verhogen we de maximale straf van vier naar acht jaar."
+    },
+    {
+      "promiseCode": "VVD-2025-117",
+      "text": "Seksuele deepfakes binnen een uur op verzoek van het slachtoffer offline laten halen en wetgeving aanpassen voor meer zeggenschap over eigen portret en stem.",
+      "summary": "Deepfakes binnen uur offline, wetgeving aanpassen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deepfakes",
+        "seksuele",
+        "een uur",
+        "offline",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 53-54",
+      "originalQuote": "We passen onze wetgeving hierop aan zodat mensen meer zeggenschap krijgen over hun eigen portret en stem. Seksuele deepfakes worden altijd binnen een uur op verzoek van het slachtoffer offline gehaald."
+    },
+    {
+      "promiseCode": "VVD-2025-118",
+      "text": "Effectief social media verbod uitwerken voor jongeren en verslavende algoritmes die polariserende content bevoordelen verbieden op grote platforms.",
+      "summary": "Social media verbod jongeren, algoritmes verbieden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "social media verbod",
+        "jongeren",
+        "algoritmes",
+        "polariserende content"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 54",
+      "originalQuote": "We omarmen het leeftijdsadvies voor het gebruik van sociale media en werken een effectief social media verbod uit voor jongeren. [...] Verslavende en schadelijke algoritmes die als voedingsbodem fungeren voor haat en extremisme worden verboden, omdat ze polariserende content bevoordelen."
+    },
+    {
+      "promiseCode": "VVD-2025-119",
+      "text": "Kroongetuigenregeling uitbreiden om criminele netwerken volledig te ontmantelen en tegelijk het kader voor bescherming van getuigen en hun familie uitbreiden.",
+      "summary": "Kroongetuigenregeling en getuigenbescherming uitbreiden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kroongetuigenregeling",
+        "criminele netwerken",
+        "getuigenbescherming",
+        "familie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 54",
+      "originalQuote": "We breiden daarom de kroongetuigenregeling uit. Tegelijk breiden we ook het kader voor de bescherming van getuigen en hun familie uit."
+    },
+    {
+      "promiseCode": "VVD-2025-120",
+      "text": "Criminele winsten afpakken van verdachten die nog niet strafrechtelijk veroordeeld zijn, bijvoorbeeld bij vlucht, ziekte of overlijden, en anders van hun erfgenamen.",
+      "summary": "Crimineel vermogen afpakken zonder veroordeling",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "criminele winsten",
+        "afpakken",
+        "verdachten",
+        "erfgenamen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 54",
+      "originalQuote": "We maken het mogelijk dat criminele winsten worden afgepakt van verdachten die nog niet strafrechtelijk zijn veroordeeld, bijvoorbeeld omdat een verdachte gevlucht, ziek, overleden of ontoerekeningsvatbaar is. En anders van hun erfgenamen."
+    },
+    {
+      "promiseCode": "VVD-2025-121",
+      "text": "Artikel 23 van de Grondwet aanpassen zodat de vrijheid van onderwijs niet langer het gelijkheidsbeginsel ondermijnt. Er komt een acceptatieplicht van leerlingen in het bijzonder onderwijs. Identiteitsverklaringen worden afgeschaft.",
+      "summary": "Artikel 23 moderniseren, acceptatieplicht bijzonder onderwijs, afschaffing identiteitsverklaringen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwet",
+        "artikel 23",
+        "acceptatieplicht",
+        "bijzonder onderwijs",
+        "identiteitsverklaringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61",
+      "originalQuote": "Daarom passen we artikel 23 aan, zodat de vrijheid van onderwijs niet langer het gelijkheidsbeginsel ondermijnt. De vrijheid van onderwijs mag nooit een vrijbrief vormen voor uitsluiting. Er komt een acceptatieplicht van leerlingen in het bijzonder onderwijs. Identiteitsverklaringen schaffen we af."
+    },
+    {
+      "promiseCode": "VVD-2025-122",
+      "text": "De Wet meer ruimte voor nieuwe scholen schrappen en de gemeenteraad instemmingsrecht geven bij het oprichten van nieuwe bekostigde scholen.",
+      "summary": "Schrapping Wet meer ruimte voor nieuwe scholen, gemeenteraad instemmingsrecht",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "nieuwe scholen",
+        "gemeenteraad",
+        "instemmingsrecht",
+        "bekostigde scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61",
+      "originalQuote": "Daarom schrappen we de Wet meer ruimte voor nieuwe scholen en geven we de gemeenteraad instemmingsrecht bij het oprichten van nieuwe bekostigde scholen."
+    },
+    {
+      "promiseCode": "VVD-2025-123",
+      "text": "De inspectie gaat scherper toezicht houden op de burgerschapsopdracht. Scholen die hierop een onvoldoende scoren krijgen een herstelopdracht. Het burgerschapsonderwijs wordt versterkt en gegeven door bevoegde docenten.",
+      "summary": "Scherper toezicht burgerschapsopdracht, herstelopdracht bij onvoldoende",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inspectie",
+        "toezicht",
+        "burgerschapsopdracht",
+        "herstelopdracht",
+        "docenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61",
+      "originalQuote": "De inspectie gaat scherper toezicht houden op de burgerschapsopdracht. Als scholen op dit onderdeel een onvoldoende scoren krijgen ze een herstelopdracht. We versterken het burgerschapsonderwijs en willen dat dit gegeven wordt door bevoegde docenten."
+    },
+    {
+      "promiseCode": "VVD-2025-124",
+      "text": "De onderwijsinspectie krijgt een explicietere rol in het toezien op sociale veiligheid. De minister moet kunnen ingrijpen door onderwijsinstellingen een aanwijzing te geven. Bij zeer ernstige veiligheidsproblemen kan de minister de bestuurders wegsturen.",
+      "summary": "Uitbreiding rol inspectie sociale veiligheid, minister krijgt ingrijpmogelijkheden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inspectie",
+        "sociale veiligheid",
+        "minister",
+        "aanwijzing",
+        "bestuurders"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61",
+      "originalQuote": "De onderwijsinspectie krijgt een explicietere rol in het toezien op deze veiligheid. De minister moet kunnen ingrijpen door onderwijsinstellingen een aanwijzing te geven. Bij zeer ernstige veiligheidsproblemen kan de minister de bestuurders wegsturen."
+    },
+    {
+      "promiseCode": "VVD-2025-125",
+      "text": "Er komt een verbod op lesmaterialen die leerlingen aanzetten tot haat, geweld of discriminatie. De inspectie krijgt de wettelijke verplichting om hierop te controleren.",
+      "summary": "Verbod op lesmaterialen die aanzetten tot haat, geweld of discriminatie",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "lesmaterialen",
+        "haat",
+        "geweld",
+        "discriminatie",
+        "inspectie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61",
+      "originalQuote": "Er komt een verbod op lesmaterialen die leerlingen aanzetten tot haat, geweld of discriminatie. De inspectie krijgt de wettelijke verplichting om hierop te controleren."
+    },
+    {
+      "promiseCode": "VVD-2025-126",
+      "text": "Openbare scholen mogen niet verplicht worden tot het inrichten van een stilteruimte of een gebedsruimte.",
+      "summary": "Verbod op verplichte gebedsruimtes op openbare scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbare scholen",
+        "gebedsruimte",
+        "stilteruimte",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61",
+      "originalQuote": "We staan niet toe dat openbare scholen verplicht worden tot het inrichten van een stilteruimte of een gebedsruimte."
+    },
+    {
+      "promiseCode": "VVD-2025-127",
+      "text": "Er wordt een wettelijke regeling voor meerouderschap en meeroudergezag ontwikkeld, in lijn met de adviezen van de Staatscommissie herijking ouderschap.",
+      "summary": "Wettelijke regeling meerouderschap en meeroudergezag",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerouderschap",
+        "meeroudergezag",
+        "wettelijke regeling",
+        "staatscommissie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 61-62",
+      "originalQuote": "In lijn met de adviezen van de Staatscommissie herijking ouderschap werken we door aan een wettelijke regeling om meerouderschap en meeroudergezag te regelen."
+    },
+    {
+      "promiseCode": "VVD-2025-128",
+      "text": "Naast het invoeren van het discriminatoir aspect als strafverzwaringsgrond komt er een taakstrafverbod voor hatecrimes zoals het mishandelen of terroriseren van LHBTIQ+'ers.",
+      "summary": "Taakstrafverbod voor hatecrimes tegen LHBTIQ+'ers",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstrafverbod",
+        "hatecrimes",
+        "strafverzwaringsgrond",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "Naast het invoeren van het discriminatoir aspect als strafverzwaringsgrond moeten we toe naar een taakstrafverbod voor hatecrimes zoals het mishandelen of terroriseren van LHBTIQ+'ers."
+    },
+    {
+      "promiseCode": "VVD-2025-129",
+      "text": "Overheidssubsidies van organisaties in binnen- en buitenland die zich schuldig maken aan discriminatie of haatzaaien worden gestopt.",
+      "summary": "Stoppen subsidies aan discriminerende organisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "discriminatie",
+        "haatzaaien",
+        "organisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "We stoppen overheidssubsidies van organisaties in binnen- en buitenland die zich schuldig maken aan discriminatie of haatzaaien."
+    },
+    {
+      "promiseCode": "VVD-2025-130",
+      "text": "Vluchtelingen kunnen alleen nog via hervestiging naar Nederland komen. Het jaarlijks aantal wordt gebaseerd op draagkracht en kan ook nul zijn. Vluchtelingen worden geselecteerd op basis van een puntensysteem.",
+      "summary": "Alleen hervestiging vluchtelingen, puntensysteem voor selectie",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hervestiging",
+        "vluchtelingen",
+        "puntensysteem",
+        "draagkracht",
+        "selectie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "De VVD wil dit systeem fundamenteel veranderen: vluchtelingen kunnen alleen nog via hervestiging naar Nederland komen. Het jaarlijks aantal te hervestigen vluchtelingen wordt gebaseerd op draagkracht, en kan dus ook nul zijn. Deze vluchtelingen worden geselecteerd op basis van een puntensysteem."
+    },
+    {
+      "promiseCode": "VVD-2025-131",
+      "text": "Asielzoekers die ongevraagd richting Nederland komen worden aan de landsgrenzen tegengehouden en teruggestuurd naar veilige buurlanden.",
+      "summary": "Terugsturen asielzoekers aan landsgrenzen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "landsgrenzen",
+        "terugsturen",
+        "buurlanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "Asielzoekers die toch ongevraagd richting Nederland komen worden aan de landsgrenzen tegengehouden en teruggestuurd."
+    },
+    {
+      "promiseCode": "VVD-2025-132",
+      "text": "Er komt een migratiewet die het kabinet verplicht om bij een te hoge instroom van asiel- en/of arbeidsmigranten bestuurlijke maatregelen te nemen om de instroom te beperken.",
+      "summary": "Migratiewet met verplichting maatregelen bij te hoge instroom",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "migratiewet",
+        "instroom",
+        "asielmigranten",
+        "arbeidsmigranten",
+        "maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "De migratiewet verplicht het kabinet om bij een te hoge instroom van asiel- en/of arbeidsmigranten bestuurlijke maatregelen te nemen om de instroom te beperken."
+    },
+    {
+      "promiseCode": "VVD-2025-133",
+      "text": "Bij een veroordeling voor een misdrijf worden asielzoekers zonder pardon uitgezet, ongeacht of zij al een verblijfsvergunning hebben of nog in de asielprocedure zitten.",
+      "summary": "Uitzetting criminele asielzoekers zonder pardon",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "criminele asielzoekers",
+        "uitzetting",
+        "misdrijf",
+        "verblijfsvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "Bij een veroordeling voor een misdrijf worden asielzoekers daarom zonder pardon uitgezet, ongeacht of zij al een verblijfsvergunning hebben of nog in de asielprocedure zitten."
+    },
+    {
+      "promiseCode": "VVD-2025-134",
+      "text": "Nederland organiseert een internationale 'asiel-top' om verdragen aan te passen. Het EVRM wordt gemoderniseerd zodat criminele en uitgeprocedeerde asielzoekers niet meer in Nederland mogen blijven.",
+      "summary": "Internationale asiel-top, modernisering EVRM",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asiel-top",
+        "verdragen",
+        "evrm",
+        "modernisering",
+        "uitgeprocedeerd"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 62",
+      "originalQuote": "Nederland neemt hierin de leiding en organiseert een internationale 'asiel-top' om dit zo snel mogelijk voor elkaar te krijgen. Het Europees Verdrag voor de Rechten van de Mens wordt dusdanig gemoderniseerd dat criminele en/of uitgeprocedeerde asielzoekers niet meer in Nederland mogen blijven."
+    },
+    {
+      "promiseCode": "VVD-2025-135",
+      "text": "De asielvergunning voor onbepaalde tijd wordt afgeschaft, de duur van de verblijfsvergunning voor bepaalde tijd wordt ingekort naar drie jaar, er komt een tweestatusstelsel en illegaal verblijf wordt strafbaar gesteld.",
+      "summary": "Afschaffing asielvergunning onbepaalde tijd, verkorting naar drie jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielvergunning",
+        "onbepaalde tijd",
+        "drie jaar",
+        "tweestatusstelsel",
+        "illegaal verblijf"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 63",
+      "originalQuote": "schaffen wij de asielvergunning voor onbepaalde tijd af, korten we de duur van de verblijfsvergunning voor bepaalde tijd in naar drie jaar, voeren we een tweestatusstelsel in met alle mogelijke bijbehorende beperkingen, schaffen we de dwangsommen af en stellen we illegaal verblijf strafbaar."
+    },
+    {
+      "promiseCode": "VVD-2025-136",
+      "text": "De wettelijke taakstelling van gemeenten om statushouders te moeten huisvesten wordt afgeschaft en er komt een verbod op voorrang voor statushouders. Voor statushouders worden sobere flexwoningen gebouwd.",
+      "summary": "Afschaffing taakstelling huisvesting statushouders, verbod voorrang",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstelling",
+        "statushouders",
+        "huisvesting",
+        "voorrang",
+        "flexwoningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 63",
+      "originalQuote": "Daarom schaffen wij de wettelijke taakstelling van gemeenten om statushouders te moeten huisvesten af, en stellen wij een verbod op voorrang voor statushouders in. Voor statushouders worden sobere flexwoningen gebouwd."
+    },
+    {
+      "promiseCode": "VVD-2025-137",
+      "text": "Elk kwartaal wordt gecontroleerd of landen om Nederland heen strenger asielbeleid hebben doorgevoerd. Als dit het geval is, wordt dit beleid ook onderdeel van het Nederlandse asielbeleid.",
+      "summary": "Kwartaalcheck strenger asielbeleid buurlanden",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kwartaal",
+        "check",
+        "asielbeleid",
+        "buurlanden",
+        "strenger"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 63",
+      "originalQuote": "We nemen hier maatregelen voor en willen elk kwartaal een check of landen om ons heen strenger asielbeleid hebben doorgevoerd. Als dit het geval is, wordt dit beleid ook onderdeel van het Nederlandse asielbeleid."
+    },
+    {
+      "promiseCode": "VVD-2025-138",
+      "text": "Er komen meer middelen om schijnerkenning van buitenlandse kinderen aan te pakken en het wordt makkelijker om fraudeurs strafrechtelijk te vervolgen. Erkenning van buitenlandse kinderen kan voortaan alleen nog bij een aantal gemeenten.",
+      "summary": "Aanpak schijnerkenningen, beperking tot aantal gemeenten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schijnerkenning",
+        "buitenlandse kinderen",
+        "fraude",
+        "vervolging",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 65",
+      "originalQuote": "Er komen meer middelen om schijnerkenning aan te pakken en het wordt makkelijker om deze fraudeurs strafrechtelijk te vervolgen. Daarnaast willen wij dat erkenning van buitenlandse kinderen voortaan alleen nog bij een aantal gemeenten plaats kan vinden."
+    },
+    {
+      "promiseCode": "VVD-2025-139",
+      "text": "Met de Wet op regeldruk- en complexiteitsvermindering worden alle departementen verplicht om per kabinetsperiode aantoonbaar wet- en regelgeving te schrappen of te versimpelen.",
+      "summary": "Wet regeldruk-vermindering, verplichting schrappen regelgeving per kabinetsperiode",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "regeldruk",
+        "complexiteitsvermindering",
+        "departementen",
+        "kabinetsperiode"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 67",
+      "originalQuote": "Met de Wet op regeldruk- en complexiteitsvermindering verplichten we alle departementen om per kabinetsperiode aantoonbaar wet- en regelgeving te schrappen of te versimpelen."
+    },
+    {
+      "promiseCode": "VVD-2025-140",
+      "text": "De overheid moet maximaal klantvriendelijk worden door ervoor te zorgen dat Nederlanders dezelfde informatie nooit meer dan één keer hoeven aan te leveren en kunnen inloggen op één plek. MijnOverheid.nl wordt uitgebreid zodat bedrijfsstartingen, adreswijzigingen en AOW-inzicht centraal geregeld kunnen worden.",
+      "summary": "Eenmalige informatieverstrekking aan overheid via uitgebreide MijnOverheid.nl",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klantvriendelijkheid",
+        "mijnoverheid",
+        "informatieverstrekking",
+        "bedrijfsstart",
+        "adreswijziging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 71",
+      "originalQuote": "Nederlanders hoeven dezelfde informatie nooit meer dan één keer bij de overheid aan te leveren en loggen op één plek in. In plaats van een wildgroei aan loketten, kan het starten van een bedrijf, het doorgeven van een adreswijziging en het inzien van je AOW dan op één plek geregeld worden. Hiervoor breiden we bijvoorbeeld MijnOverheid.nl uit."
+    },
+    {
+      "promiseCode": "VVD-2025-141",
+      "text": "Er komt een nieuw rijksbreed ict-team dat los van overheidsstructuren falende ict-projecten vlot trekt, bijvoorbeeld bij de Belastingdienst en DUO. Software wordt rijksbreed ingekocht om betere prijzen te bedingen.",
+      "summary": "Nieuw rijksbreed ict-team voor falende projecten en centrale software-inkoop",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ict-team",
+        "belastingdienst",
+        "duo",
+        "software-inkoop",
+        "projecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 70",
+      "originalQuote": "Er komt een nieuw rijksbreed ict-team dat los van verstikkende overheidsstructuren en –procedures eindeloze ict-projecten vlot trekt, bijvoorbeeld bij de Belastingdienst en DUO en we kopen software rijksbreed in om betere prijzen te bedingen."
+    },
+    {
+      "promiseCode": "VVD-2025-142",
+      "text": "Maximaal één op de vier medewerkers bij de Rijksoverheid mag werken in overheadfuncties. Nu is dat nog de helft. Het Ministerie van BZK krijgt doorzettingsmacht voor de operatie effectieve overheid.",
+      "summary": "Maximaal 25% overheadmedewerkers Rijksoverheid, BZK krijgt doorzettingsmacht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheadfuncties",
+        "rijksoverheid",
+        "bzk",
+        "doorzettingsmacht",
+        "efficiëntie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 70",
+      "originalQuote": "We stellen een strenge norm dat maximaal één op de vier medewerkers bij de Rijksoverheid mag werken in overheadfuncties. Nu is dat nog de helft. Om te zorgen dat bij elk ministerie en bij elke uitvoeringsorganisatie de lat hoog wordt gelegd, willen we dat het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties doorzettingsmacht krijgt om de operatie effectieve overheid uit te voeren."
+    },
+    {
+      "promiseCode": "VVD-2025-143",
+      "text": "De ervaren regeldruk moet binnen vijf jaar met minstens 25% gedaald zijn. Voor elke nieuwe regel moet er een andere regel geschrapt worden (one in, one out principe).",
+      "summary": "Regeldruk 25% omlaag in 5 jaar, one-in-one-out principe",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeldruk",
+        "regels",
+        "schrappen",
+        "vermindering",
+        "termijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 72",
+      "originalQuote": "De ervaren regeldruk moet binnen vijf jaar met minstens 25% gedaald zijn. We kiezen voor 'one in, one out': voor elke nieuwe regel moet er een andere regel geschrapt worden."
+    },
+    {
+      "promiseCode": "VVD-2025-144",
+      "text": "Er komt een beperkte kiesdrempel van 2% om versnippering tegen te gaan en meer tijd voor inhoudelijk debat in de Tweede Kamer te creëren. Het huidige systeem van evenredige vertegenwoordiging blijft gehandhaafd.",
+      "summary": "Kiesdrempel van 2% tegen versnippering, behoud evenredige vertegenwoordiging",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesdrempel",
+        "versnippering",
+        "tweede kamer",
+        "evenredige vertegenwoordiging",
+        "verkiezingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 73",
+      "originalQuote": "We zijn voor een beperkte kiesdrempel van 2% omdat dit leidt tot minder versnippering en daarmee meer tijd voor inhoudelijk debat in de Tweede Kamer. We handhaven het huidige systeem van evenredige vertegenwoordiging, zodat elke stem gehoord wordt."
+    },
+    {
+      "promiseCode": "VVD-2025-145",
+      "text": "Defensie-uitgaven laten groeien naar 3,5% van de economie. Dit wordt gefinancierd door minder uitgaven elders in plaats van belastingverhogingen.",
+      "summary": "Defensie-uitgaven naar 3,5% BBP zonder belastingverhoging",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "bbp",
+        "veiligheid",
+        "financiering",
+        "belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 73",
+      "originalQuote": "De VVD wil investeren in veiligheid en de defensie-uitgaven laten groeien naar 3,5% van onze economie. Dat betekent dat we op andere vlakken de spilzucht en het te hoge uitgavenniveau van de overheid tegengaan."
+    },
+    {
+      "promiseCode": "VVD-2025-146",
+      "text": "Keuzes maken in zorg en sociale zekerheid: een kleiner basispakket, meer eigen bijdragen, een efficiënter zorgstelsel en een veel meer activerende sociale zekerheid om vergrijzing op te vangen.",
+      "summary": "Kleiner basispakket, meer eigen bijdragen, activerende sociale zekerheid",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basispakket",
+        "eigen bijdragen",
+        "zorgstelsel",
+        "sociale zekerheid",
+        "vergrijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 74",
+      "originalQuote": "Dat betekent wel dat we keuzes zullen moeten maken in de zorg en de sociale zekerheid, zoals een kleiner basispakket, meer eigen bijdragen, een efficiënter zorgstelsel en een veel meer activerende sociale zekerheid."
+    },
+    {
+      "promiseCode": "VVD-2025-147",
+      "text": "Bindende afspraken maken met producenten en supermarkten over het gezonder maken van voeding en het meer promoten van gezonde producten. Een investeringsmodel ontwikkelen voor inzicht in kosten en opbrengsten van preventie.",
+      "summary": "Bindende afspraken gezondere voeding met producenten en supermarkten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voeding",
+        "producenten",
+        "supermarkten",
+        "preventie",
+        "investeringsmodel"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 74",
+      "originalQuote": "We maken bindende afspraken met producenten en supermarkten over het gezonder maken van voeding en het meer promoten van gezonde producten. We ontwikkelen een investeringsmodel, waarmee we inzicht krijgen in wat preventie kost en wat het oplevert."
+    },
+    {
+      "promiseCode": "VVD-2025-148",
+      "text": "In het Statuut voor het Koninkrijk wordt een expliciete bepaling opgenomen dat, naast Aruba, ook Curaçao en Sint-Maarten kunnen verklaren onafhankelijk te willen worden. Ook de BES-eilanden kunnen aangeven onafhankelijk te willen worden.",
+      "summary": "Recht op onafhankelijkheidsverklaring voor alle Caribische eilanden in Statuut",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statuut",
+        "onafhankelijkheid",
+        "curaçao",
+        "sint-maarten",
+        "bes-eilanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 73",
+      "originalQuote": "In het Statuut voor het Koninkrijk wordt een expliciete bepaling opgenomen dat, naast Aruba, ook Curaçao en Sint-Maarten kunnen verklaren dat ze onafhankelijk willen worden. Ook Bonaire, Sint-Eustatius en Saba kunnen aangeven onafhankelijk te willen worden."
+    },
+    {
+      "promiseCode": "VVD-2025-149",
+      "text": "De VVD gaat verder met de initiatiefwet om niet-gevaccineerde kinderen niet langer toegang tot het kinderdagverblijf te geven als de vaccinatiegraad te laag is.",
+      "summary": "Toegangsverbod kinderopvang voor niet-gevaccineerde kinderen bij lage vaccinatiegraad",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "initiatiefwet",
+        "vaccinatie",
+        "kinderdagverblijf",
+        "vaccinatiegraad"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 75",
+      "originalQuote": "We gaan verder met de initiatiefwet om niet-gevaccineerde kinderen niet langer toegang tot het kinderdagverblijf te geven als de vaccinatiegraad te laag is."
+    },
+    {
+      "promiseCode": "VVD-2025-150",
+      "text": "De VVD pakt de handel in illegale verkoop van vapes aan door straffen voor verkoop aan kinderen, uitbreiding van NVWA-bevoegdheden voor toezicht, verbod op voorraad houden van vapes met smaakjes, en doorzoekingsbevoegdheid voor de NVWA.",
+      "summary": "Aanpak illegale vape-verkoop met strengere straffen en meer NVWA-bevoegdheden",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vapes",
+        "nvwa",
+        "toezicht",
+        "verbod",
+        "smaakjes",
+        "doorzoekingsbevoegdheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 75",
+      "originalQuote": "We pakken de handel in illegale verkoop van vapes aan. Als mensen vapes verkopen aan kinderen, straffen we ze hard. We breiden de bevoegdheden van de NVWA uit om toezicht te houden op de verkoop van vapes. Het in voorraad houden van vapes met smaakjes wordt verboden. De NVWA krijgt de bevoegdheid om een doorzoeking te doen, als er sprake is van een vermoeden van illegale verkoop van vapes."
+    },
+    {
+      "promiseCode": "VVD-2025-151",
+      "text": "De VVD wil vaart maken met de oprichting van het Integriteitscentrum Sport om matchfixing, doping en misbruik aan te pakken.",
+      "summary": "Oprichting Integriteitscentrum Sport tegen matchfixing en doping",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "integriteitscentrum",
+        "sport",
+        "matchfixing",
+        "doping",
+        "misbruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 75",
+      "originalQuote": "Om matchfixing, doping en misbruik aan te pakken, maken we vaart met de oprichting van het Integriteitscentrum Sport."
+    },
+    {
+      "promiseCode": "VVD-2025-152",
+      "text": "De VVD verplicht zorgaanbieders om kwaliteitsinformatie en informatie over wachtlijsten toegankelijk te maken voor onderzoeksinstellingen, toezichthouders en financiers.",
+      "summary": "Verplichting zorgaanbieders tot delen kwaliteits- en wachtlijstinformatie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgaanbieders",
+        "kwaliteitsinformatie",
+        "wachtlijsten",
+        "onderzoeksinstellingen",
+        "toezichthouders"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 76",
+      "originalQuote": "We verplichten zorgaanbieders daarom om kwaliteitsinformatie en informatie over wachtlijsten toegankelijk te maken voor onderzoeksinstellingen, toezichthouders en financiers."
+    },
+    {
+      "promiseCode": "VVD-2025-153",
+      "text": "De VVD wil eenvoudige ziekenhuisingrepen zoveel mogelijk dichtbij huis laten plaatsvinden, terwijl complexe zorg zoals oncologie en cardiochirurgie wordt geconcentreerd op centrale locaties.",
+      "summary": "Regionalisering eenvoudige zorg, concentratie complexe zorg op centrale plekken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ziekenhuizen",
+        "regionaliseren",
+        "concentreren",
+        "oncologie",
+        "cardiochirurgie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 76",
+      "originalQuote": "Eenvoudige ziekenhuisingrepen moeten zoveel mogelijk dichtbij huis plaatsvinden. Als een behandeling in een streekziekenhuis kan, vindt de behandeling bij voorkeur daar plaats. Complexe zorg, zoals oncologie, cardiochirurgie en ernstige zenuw- en spierziekten worden geconcentreerd op aantal centrale plekken"
+    },
+    {
+      "promiseCode": "VVD-2025-154",
+      "text": "De VVD wil dat zorgverleners onderling medische gegevens mogen delen, tenzij de patiënt hier bezwaar tegen heeft gemaakt.",
+      "summary": "Gegevensuitwisseling tussen zorgverleners tenzij patiënt bezwaar maakt",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gegevensuitwisseling",
+        "zorgverleners",
+        "medische gegevens",
+        "patiënt",
+        "bezwaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 76",
+      "originalQuote": "Zorgverleners mogen onderling medische gegevens delen, tenzij de patiënt hier bezwaar tegen gemaakt heeft."
+    },
+    {
+      "promiseCode": "VVD-2025-155",
+      "text": "De VVD voert een taakstrafverbod in voor geweld tegen hulpverleners.",
+      "summary": "Taakstrafverbod voor geweld tegen hulpverleners",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstrafverbod",
+        "geweld",
+        "hulpverleners"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 77",
+      "originalQuote": "We voeren een taakstrafverbod in voor geweld tegen hulpverleners."
+    },
+    {
+      "promiseCode": "VVD-2025-156",
+      "text": "De VVD vraagt verzekeraars flink te schrappen in verantwoordingseisen, verbiedt dubbele uitvragen door toezichthouders en kiest voor meer geautomatiseerde gegevensuitwisseling om regeldruk te verminderen.",
+      "summary": "Vermindering regeldruk door minder verantwoordingseisen en meer automatisering",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeldruk",
+        "verzekeraars",
+        "verantwoordingseisen",
+        "toezichthouders",
+        "geautomatiseerde gegevensuitwisseling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 77",
+      "originalQuote": "We vragen verzekeraars flink te schrappen in verantwoordingseisen, verbieden dubbele uitvragen door toezichthouders, kiezen voor meer geautomatiseerde gegevensuitwisseling"
+    },
+    {
+      "promiseCode": "VVD-2025-157",
+      "text": "De VVD draait de verlaging van het eigen risico terug om de maandelijkse zorgpremie omlaag te laten gaan.",
+      "summary": "Terugdraaien verlaging eigen risico voor lagere zorgpremie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgpremie",
+        "verlaging",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 78",
+      "originalQuote": "We draaien de verlaging van het eigen risico terug. Dit zorgt er nu voor dat de maandelijkse premie omlaaggaat."
+    },
+    {
+      "promiseCode": "VVD-2025-158",
+      "text": "De VVD wil huishoudelijke hulp niet meer standaard onderdeel maken van de Wmo en alleen beschikbaar houden voor mensen met zware zorgbehoefte die dit zelf niet kunnen betalen.",
+      "summary": "Huishoudelijke hulp uit standaard Wmo, alleen voor zwaarste gevallen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huishoudelijke hulp",
+        "wmo",
+        "zorgbehoefte",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 78",
+      "originalQuote": "We houden huishoudelijke hulp beschikbaar voor mensen met een zware zorgbehoefte en voor mensen die dit zelf niet kunnen betalen. Huishoudelijke hulp wordt niet meer standaard onderdeel van de Wmo."
+    },
+    {
+      "promiseCode": "VVD-2025-159",
+      "text": "De VVD maakt het onmogelijk voor veroordeelde zorgfraudeurs om binnen tien jaar na veroordeling een rechtspersoon op te richten bij de Kamer van Koophandel.",
+      "summary": "Tien jaar verbod rechtspersoon oprichten voor veroordeelde zorgfraudeurs",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgfraude",
+        "rechtspersoon",
+        "kamer van koophandel",
+        "tien jaar",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 78",
+      "originalQuote": "We maken het onmogelijk voor veroordeelde fraudeurs om binnen tien jaar na hun veroordeling een rechtspersoon op te richten bij de Kamer van Koophandel"
+    },
+    {
+      "promiseCode": "VVD-2025-160",
+      "text": "De VVD wil ongecontracteerde zorg beperken en op termijn volledig afbouwen.",
+      "summary": "Volledige afbouw ongecontracteerde zorg op termijn",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ongecontracteerde zorg",
+        "afbouwen",
+        "contracteren",
+        "zorgverzekeraars"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 78",
+      "originalQuote": "We willen ongecontracteerde zorg beperken en op termijn volledig afbouwen."
+    },
+    {
+      "promiseCode": "VVD-2025-161",
+      "text": "De VVD wil huisartsen die dat willen toestaan de abortuspil voor te schrijven aan vrouwen die ongewenst zwanger zijn.",
+      "summary": "Huisartsen mogen abortuspil voorschrijven bij ongewenste zwangerschap",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huisartsen",
+        "abortuspil",
+        "ongewenst zwanger",
+        "voorschrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 79",
+      "originalQuote": "Huisartsen die dat willen, mogen de abortuspil voorschrijven aan vrouwen die ongewenst zwanger zijn."
+    },
+    {
+      "promiseCode": "VVD-2025-162",
+      "text": "De VVD steunt het voorstel om embryo's voor medisch-wetenschappelijk onderzoek 28 dagen in plaats van 14 dagen buiten het menselijk lichaam in leven te laten blijven.",
+      "summary": "Uitbreiding embryowet van 14 naar 28 dagen voor medisch onderzoek",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "embryowet",
+        "medisch-wetenschappelijk",
+        "onderzoek",
+        "28 dagen",
+        "fertiliteitszorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 79",
+      "originalQuote": "We steunen het voorstel om het mogelijk te maken dat een embryo voor medisch-wetenschappelijk onderzoek niet 14, maar 28 dagen buiten het menselijk lichaam in leven mag blijven."
+    },
+    {
+      "promiseCode": "VVD-2025-163",
+      "text": "De VVD werkt aan een initiatiefwetsvoorstel om PGT voor dragerschap toe te staan bij IVF om embryo's te screenen op ernstige erfelijke ziektes.",
+      "summary": "Initiatiefwet PGT voor dragerschap bij IVF screening op erfelijke ziektes",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "initiatiefwetsvoorstel",
+        "pgt",
+        "dragerschap",
+        "ivf",
+        "erfelijke ziektes"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 79",
+      "originalQuote": "We werken aan een initiatiefwetsvoorstel om PGT toe te staan voor dragerschap. Dit houdt in dat we bij ivf toestaan dat er eerst gescreend mag worden of het embryo drager is van een afgebakend aantal ernstige erfelijke ziektes"
+    },
+    {
+      "promiseCode": "VVD-2025-164",
+      "text": "De VVD voert een goede wettelijke regeling in voor draagmoederschap waarin dit in Nederland wordt gereguleerd en kinderen recht krijgen op afstammingsinformatie.",
+      "summary": "Wettelijke regeling draagmoederschap met recht op afstammingsinformatie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wettelijke regeling",
+        "draagmoederschap",
+        "afstammingsinformatie",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 79",
+      "originalQuote": "Daarom zijn we voor een goede wettelijke regeling waarin draagmoederschap in Nederland wordt gereguleerd en kinderen recht krijgen op afstammingsinformatie."
+    },
+    {
+      "promiseCode": "VVD-2025-165",
+      "text": "De VVD verlengt de subsidietermijn voor culturele instellingen van vier naar acht jaar en vermindert regeldruk en aanvraagkosten.",
+      "summary": "Subsidietermijn cultuur van vier naar acht jaar, minder regeldruk",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidietermijn",
+        "cultuur",
+        "acht jaar",
+        "regeldruk",
+        "aanvraagkosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 80",
+      "originalQuote": "We verlengen de subsidietermijn van vier naar acht jaar en verminderen zowel de regeldruk als een deel van de aanvraagkosten."
+    },
+    {
+      "promiseCode": "VVD-2025-166",
+      "text": "De VVD schaft het ledencriterium voor omroepen af omdat dit niet langer voldoende is om toegevoegde maatschappelijke waarde aan te tonen.",
+      "summary": "Afschaffing ledencriterium voor omroepen bij NPO-hervorming",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ledencriterium",
+        "omroepen",
+        "npo",
+        "hervorming",
+        "maatschappelijke waarde"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2025, p. 80",
+      "originalQuote": "Het ledencriterium is niet langer voldoende om aan te tonen dat een omroep van toegevoegde maatschappelijke waarde is, dat schaffen we af."
+    }
+  ]
+}

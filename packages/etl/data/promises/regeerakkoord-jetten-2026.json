@@ -1,0 +1,2435 @@
+{
+  "akkoord": "jetten",
+  "party": "D66",
+  "partySlug": "d66",
+  "program": "Aan de slag — Bouwen aan een beter Nederland",
+  "coalitionParties": [
+    "D66",
+    "VVD",
+    "CDA"
+  ],
+  "electionYear": 2026,
+  "extractionDate": "2026-02-13",
+  "extractionMethod": "llm-claude-sonnet-v1-regeerakkoord",
+  "sourceUrl": "https://www.kabinetsformatie2025.nl/documenten/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030",
+  "pdfHash": "70ded612d6db3dd4321f1af3226628f809959aba5b0fafe0692714d664438b1f",
+  "totalPromises": 157,
+  "promises": [
+    {
+      "promiseCode": "JETTEN-2026-001",
+      "text": "Alle overheidsdiensten moeten online toegankelijk zijn voor burgers en bedrijven, met Estland als voorbeeld voor digitale dienstverlening.",
+      "summary": "Alle overheidsdiensten online toegankelijk maken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidsdiensten",
+        "digitale dienstverlening",
+        "burgers",
+        "bedrijven"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 7",
+      "originalQuote": "We maken een flinke inhaalslag op digitale dienstverlening voor burgers en bedrijven. De dienstverlening van Estland is het voorbeeld. Alle overheidsdiensten moeten online toegankelijk zijn."
+    },
+    {
+      "promiseCode": "JETTEN-2026-002",
+      "text": "Externe inhuur wordt teruggebracht van de huidige 15,4% van de totale personele uitgaven naar 10% (de 'Roemernorm').",
+      "summary": "Externe inhuur terugbrengen naar 10% van personele uitgaven",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "externe inhuur",
+        "personele uitgaven",
+        "roemernorm",
+        "overheidspersoneel"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 7",
+      "originalQuote": "Daarmee kan externe inhuur waar mogelijk worden teruggebracht van de huidige 15,4% van de totale personele uitgaven naar 10% (de 'Roemernorm')."
+    },
+    {
+      "promiseCode": "JETTEN-2026-003",
+      "text": "Met een periodieke Vereenvoudigingswet worden minimaal 500 regels geschrapt en vereenvoudigd, daarna wordt een target per ministerie gesteld.",
+      "summary": "Minimaal 500 regels schrappen via periodieke Vereenvoudigingswet",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vereenvoudigingswet",
+        "regels",
+        "ministerie",
+        "deregulering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 6",
+      "originalQuote": "Met een periodieke Vereenvoudigingswet worden wetten en regels continu verbeterd. We starten met het schrappen en vereenvoudigen van minimaal 500 regels en stellen daarna een target per ministerie."
+    },
+    {
+      "promiseCode": "JETTEN-2026-004",
+      "text": "Een Nederlandse Digitale Dienst wordt opgericht die compact, deskundig is en doorzettingsmacht heeft voor rijksbrede digitalisering en kwaliteitsstandaarden.",
+      "summary": "Oprichting Nederlandse Digitale Dienst voor rijksbrede digitalisering",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlandse digitale dienst",
+        "digitalisering",
+        "kwaliteitsstandaarden",
+        "rijksoverheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 6",
+      "originalQuote": "We richten een Nederlandse Digitale Dienst op: compact, deskundig en met doorzettingsmacht. Deze dienst ondersteunt de digitalisering Rijksbreed, stelt kwaliteitsstandaarden op en borgt goede ontwerpkeuzes."
+    },
+    {
+      "promiseCode": "JETTEN-2026-005",
+      "text": "Uitvoeringsorganisaties krijgen jaarlijks een efficiencydoelstelling waarvan de helft mag worden herinvesteerd in doelmatigheid en verbetering.",
+      "summary": "Jaarlijkse efficiencydoelstelling voor uitvoeringsorganisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitvoeringsorganisaties",
+        "efficiencydoelstelling",
+        "herinvestering",
+        "doelmatigheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 7",
+      "originalQuote": "Uitvoeringsorganisaties krijgen jaarlijks een efficiencydoelstelling waarvan de helft mag worden herinvesteerd in doelmatigheid en verbetering."
+    },
+    {
+      "promiseCode": "JETTEN-2026-006",
+      "text": "Er wordt een lobbyregister ingevoerd dat praktisch en werkbaar is voor zowel overheid als belangenbehartigers.",
+      "summary": "Invoering lobbyregister voor transparantie belangenbehartiging",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lobbyregister",
+        "transparantie",
+        "belangenbehartigers",
+        "overheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 8",
+      "originalQuote": "We voeren een lobbyregister in. Daarbij zorgen we er voor dat dit praktisch en werkbaar is voor zowel overheid als belangenbehartigers."
+    },
+    {
+      "promiseCode": "JETTEN-2026-007",
+      "text": "Een Gemeenschapsfonds wordt opgericht om voorzieningen zoals buurthuizen, verenigingsgebouwen en dorpswinkels te realiseren en behouden.",
+      "summary": "Oprichting Gemeenschapsfonds voor lokale voorzieningen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenschapsfonds",
+        "buurthuizen",
+        "verenigingsgebouwen",
+        "dorpswinkels"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 9",
+      "originalQuote": "Daarom richten we een Gemeenschapsfonds op om voorzieningen zoals buurthuizen, verenigingsgebouwen en dorpswinkels te realiseren en te behouden, samen met overheid, samenleving en bedrijfsleven."
+    },
+    {
+      "promiseCode": "JETTEN-2026-008",
+      "text": "Een Regeringscommissaris Hersteloperatie Groningen wordt aangesteld voor schadeafwikkeling en versterkingsoperatie aardbevingsproblematiek.",
+      "summary": "Aanstelling Regeringscommissaris voor hersteloperatie Groningen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeringscommissaris",
+        "groningen",
+        "schadeafwikkeling",
+        "versterkingsoperatie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 8",
+      "originalQuote": "In de hersteloperatie als gevolg van de aardbevingsproblematiek in Groningen kiezen we voor stabiliteit in de uitvoering door het aanstellen van een Regeringscommissaris Hersteloperatie Groningen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-009",
+      "text": "Een Economisch Groeiplatform Carib wordt opgericht om economische ontwikkeling en innovatie op de zes eilanden te stimuleren.",
+      "summary": "Oprichting Economisch Groeiplatform Carib voor eilandenontwikkeling",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "economisch groeiplatform",
+        "caribische eilanden",
+        "economische ontwikkeling",
+        "innovatie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 10",
+      "originalQuote": "Daarom richten we een Economisch Groeiplatform Carib op, met als doel de economische ontwikkeling en innovatie op de zes eilanden te stimuleren."
+    },
+    {
+      "promiseCode": "JETTEN-2026-010",
+      "text": "In Caribisch Nederland wordt een leefbaar sociaal minimum opgebouwd op basis van adviezen van commissie Thodé, inclusief betaalbare nutsvoorzieningen.",
+      "summary": "Leefbaar sociaal minimum Caribisch Nederland via commissie Thodé",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal minimum",
+        "caribisch nederland",
+        "commissie thodé",
+        "nutsvoorzieningen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 9",
+      "originalQuote": "In Caribisch Nederland bouwen we aan een leefbaar sociaal minimum op basis van de adviezen van commissie Thodé, waaronder het betaalbaar maken en houden van nutsvoorzieningen en basisbehoeften op Saba, Sint-Eustatius en Bonaire."
+    },
+    {
+      "promiseCode": "JETTEN-2026-011",
+      "text": "De Wet Openbare Manifestaties wordt aangepast om burgemeesters bevoegdheden te geven tot bestuursrechtelijke handhaving of verplaatsing van demonstraties. Ook worden de strafbepalingen herzien zodat strafrechters strafbare feiten tijdens demonstraties zwaarder kunnen wegen.",
+      "summary": "Aanpassing Wet Openbare Manifestaties met nieuwe bevoegdheden burgemeesters",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wet openbare manifestaties",
+        "burgemeesters",
+        "handhaving",
+        "demonstraties",
+        "strafbepalingen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "Om dit belangrijke recht te waarborgen gaan we de Wet Openbare Manifestaties aanpassen. Burgemeesters krijgen bevoegdheden tot bestuursrechtelijke handhaving of verplaatsing. Ook herzien we de strafbepalingen van de wet, waardoor de strafrechter strafbare feiten gepleegd tijdens demonstraties zwaarder weegt."
+    },
+    {
+      "promiseCode": "JETTEN-2026-012",
+      "text": "De benoeming van leden van de Raad voor de Rechtspraak wordt onafhankelijk van de minister gemaakt. De rechtspraak krijgt een aparte begroting om een stevig schot tussen onafhankelijke rechtspraak en politiek te bouwen.",
+      "summary": "Onafhankelijke benoeming Raad voor de Rechtspraak en aparte begroting rechtspraak",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "raad voor de rechtspraak",
+        "benoeming",
+        "rechtspraak",
+        "begroting",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "De benoeming van leden van de Raad voor de Rechtspraak maken we onafhankelijk van de minister. De rechtspraak krijgt een aparte begroting."
+    },
+    {
+      "promiseCode": "JETTEN-2026-013",
+      "text": "Artikel 120 van de Grondwet wordt gewijzigd om constitutionele toetsing aan de klassieke grondrechten mogelijk te maken ter versterking van rechtsbescherming.",
+      "summary": "Wijziging artikel 120 Grondwet voor constitutionele toetsing grondrechten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel 120",
+        "grondwet",
+        "constitutionele toetsing",
+        "grondrechten",
+        "rechtsbescherming"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "Om de rechtsbescherming te versterken gaan we constitutionele toetsing aan de klassieke grondrechten in onze Grondwet mogelijk maken. Hiervoor wordt artikel 120 van de Grondwet gewijzigd."
+    },
+    {
+      "promiseCode": "JETTEN-2026-014",
+      "text": "Er wordt geïnvesteerd in meer wijkagenten, cyber- en zedenrechercheurs en meer politieposten. Ook wordt uitbreiding van gewelds- en verdedigingsmiddelen van de ME gerealiseerd om de operationele slagkracht van de politie te versterken.",
+      "summary": "Investering in meer wijkagenten, rechercheurs, politieposten en ME-uitrusting",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkagenten",
+        "cyberrecherche",
+        "zedenrecherche",
+        "politieposten",
+        "me"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "Er wordt geïnvesteerd in meer wijkagenten, cyber- en zedenrechercheurs en meer politieposten. Ook wordt uitbreiding van gewelds- en verdedigingsmiddelen van de ME gerealiseerd om de operationele slagkracht van de politie te versterken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-015",
+      "text": "BOA's en politieagenten die dat nodig hebben voor hun taak krijgen een bodycam om veiliger te kunnen werken bij handhaving van openbare orde op straat, in wijken en online.",
+      "summary": "Bodycams voor BOA's en politieagenten voor veiligere uitvoering taken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bodycam",
+        "boa",
+        "politieagenten",
+        "handhaving",
+        "openbare orde"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "Boa's en politieagenten die dat nodig hebben voor de uitvoering van hun taak krijgen een bodycam zodat ze veiliger kunnen werken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-016",
+      "text": "Er wordt onderzocht hoe het vrijwilligerskorps kan worden uitgebreid tot een programma waarin jongeren gedurende een jaar kennis kunnen maken met politiewerk, naar voorbeeld van het dienjaar bij defensie.",
+      "summary": "Onderzoek uitbreiding vrijwilligerskorps naar jaarprogramma politiewerk voor jongeren",
+      "theme": "VEILIGHEID",
+      "specificity": "VAAG",
+      "keywords": [
+        "vrijwilligerskorps",
+        "jongeren",
+        "politiewerk",
+        "dienjaar",
+        "defensie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "We onderzoeken hoe we het vrijwilligerskorps op termijn kunnen uitbreiden tot een programma waarin jongeren gedurende een jaar lang kennis kunnen maken met het werk bij de politie naar voorbeeld van het dienjaar bij defensie."
+    },
+    {
+      "promiseCode": "JETTEN-2026-017",
+      "text": "Het Nationaal Programma Leefbaarheid en Veiligheid en het programma Preventie met Gezag worden op gelijk niveau doorgezet om buurten leefbaarder te maken en criminaliteit te voorkomen.",
+      "summary": "Voortzetting programma's Leefbaarheid en Veiligheid en Preventie met Gezag",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaal programma",
+        "leefbaarheid",
+        "veiligheid",
+        "preventie met gezag",
+        "criminaliteit"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "Het Nationaal Programma Leefbaarheid en Veiligheid en het programma Preventie met Gezag maakt buurten leefbaarder en voorkomt veel criminaliteit, onder andere door te voorkomen dat jongeren na de eerste misstap doorgroeien in een criminele carrière. We zetten deze programma's daarom op gelijk niveau door."
+    },
+    {
+      "promiseCode": "JETTEN-2026-018",
+      "text": "Aanbevelingen van de parlementaire verkenning verward/onbegrepen gedrag worden uitgevoerd, waaronder meer mogelijkheden voor burgemeesters voor bemoeizorg en meer crisisplekken, om overlast door mensen met verward gedrag te voorkomen.",
+      "summary": "Uitvoering aanbevelingen verward gedrag: meer bemoeizorg en crisisplekken",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verward gedrag",
+        "bemoeizorg",
+        "burgemeesters",
+        "crisisplekken",
+        "overlast"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 11",
+      "originalQuote": "De aanbevelingen van de parlementaire verkenning verward/onbegrepen gedrag en veiligheid nemen we hierbij mee, waaronder meer mogelijkheden voor burgemeesters om door middel van bemoeizorg in te grijpen en meer crisisplekken te realiseren."
+    },
+    {
+      "promiseCode": "JETTEN-2026-019",
+      "text": "Er komt een boetesysteem voor voetbalclubs wanneer politie-inzet binnen het stadion nodig is om hooliganisme en incidenten rond voetbalwedstrijden te beperken.",
+      "summary": "Boetesysteem voetbalclubs bij politie-inzet binnen stadion tegen hooliganisme",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boetesysteem",
+        "voetbalclubs",
+        "politie-inzet",
+        "stadion",
+        "hooliganisme"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We gaan aan de slag met maatregelen om incidenten te beperken, waaronder een boetesysteem voor clubs wanneer politie-inzet zelfs binnen het stadion nodig is."
+    },
+    {
+      "promiseCode": "JETTEN-2026-020",
+      "text": "De mogelijkheden voor afdoening door de politie worden uitgebreid met politietransacties en/of politiestrafbeschikkingen bij overtredingen en geselecteerde strafbare feiten zoals winkeldiefstal en vernieling, met adequate rechtsbescherming.",
+      "summary": "Uitbreiding politiebevoegdheden met transacties en strafbeschikkingen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politietransactie",
+        "politiestrafbeschikking",
+        "overtredingen",
+        "winkeldiefstal",
+        "rechtsbescherming"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We breiden de mogelijkheden voor afdoening door de politie uit, zodat de politie bij overtredingen en geselecteerde strafbare feiten, bijvoorbeeld (winkel)diefstal en vernieling, sneller en eenvoudiger kan optreden. Deze uitbreiding krijgt bijvoorbeeld de vorm van een politietransactie en/of een politiestrafbeschikking, waarbij we zorgen voor adequate rechtsbescherming."
+    },
+    {
+      "promiseCode": "JETTEN-2026-021",
+      "text": "De gegevensdeling ten behoeve van de justitieketen wordt verbeterd om te voorkomen dat daders vrijuit gaan omdat de overheid gegevensdeling belemmert.",
+      "summary": "Verbetering gegevensdeling justitieketen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gegevensdeling",
+        "justitieketen",
+        "daders",
+        "overheid",
+        "strafvervolging"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "Het is volstrekt onwenselijk dat daders van misdrijven soms vrijuit gaan omdat de overheid het delen van gegevens belemmert. We verbeteren daarom de gegevensdeling ten behoeve van de justitieketen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-022",
+      "text": "De strafmaat voor zware cyberdelicten wordt verhoogd vanwege de groeiende impact van cybercrime op de veiligheid van Nederlanders.",
+      "summary": "Verhoging strafmaat zware cyberdelicten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "strafmaat",
+        "cyberdelicten",
+        "cybercrime",
+        "veiligheid",
+        "nederlanders"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "Cybercrime heeft een groeiende impact op de veiligheid van Nederlanders. We verhogen daarom de strafmaat voor zware cyberdelicten."
+    },
+    {
+      "promiseCode": "JETTEN-2026-023",
+      "text": "Er wordt gezorgd voor rust in het beleid ten aanzien van het OM en goede afspraken gemaakt om de digitale bedrijfsvoering van het Openbaar Ministerie duurzaam op orde te brengen vanwege grote IT-problemen.",
+      "summary": "Rust OM-beleid en herstel digitale bedrijfsvoering Openbaar Ministerie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbaar ministerie",
+        "digitale bedrijfsvoering",
+        "it-problemen",
+        "strafzaken",
+        "beleid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We zorgen voor rust in het beleid ten aanzien van het OM en maken goede afspraken om de digitale bedrijfsvoering duurzaam op orde te brengen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-024",
+      "text": "De kroongetuigenregeling wordt uitgebreid en handhaving op contrabande zoals het binnensmokkelen van telefoons wordt verscherpt als onderdeel van de strijd tegen georganiseerde misdaad, geïnspireerd op de Italiaanse anti-maffia-aanpak.",
+      "summary": "Uitbreiding kroongetuigenregeling en verscherping handhaving contrabande",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kroongetuigenregeling",
+        "contrabande",
+        "telefoons",
+        "georganiseerde misdaad",
+        "anti-maffia"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We breiden onder andere de kroongetuigenregeling uit en verscherpen de handhaving op contrabande, zoals het binnensmokkelen van telefoons."
+    },
+    {
+      "promiseCode": "JETTEN-2026-025",
+      "text": "Er wordt geïnvesteerd in de Dienst Justitiële Inrichtingen en celcapaciteit wordt uitgebreid en verbeterd door versobering, instelling van aparte regimes voor beperkt risico gedetineerden en aanvullende maatregelen.",
+      "summary": "Investering DJI en uitbreiding celcapaciteit met nieuwe regimes",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienst justitiële inrichtingen",
+        "celcapaciteit",
+        "versobering",
+        "regimes",
+        "gedetineerden"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We gaan investeren in de Dienst Justitiële Inrichtingen en de celcapaciteit uitbreiden en verbeteren. Dit doen we onder andere door versobering, de instelling van aparte regimes voor beperkt risico gedetineerden en aanvullende maatregelen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-026",
+      "text": "Er worden maatregelen genomen om zedenzaken met minderjarige slachtoffers sneller achter gesloten deuren te laten plaatsvinden en hun namen worden in grote zedenzaken vaker gecodeerd.",
+      "summary": "Snellere behandeling zedenzaken minderjarigen achter gesloten deuren",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zedenzaken",
+        "minderjarige slachtoffers",
+        "gesloten deuren",
+        "codering",
+        "namen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We nemen maatregelen om zedenzaken met minderjarige slachtoffers sneller achter gesloten deuren te laten plaatsvinden. Hun namen worden in grote zedenzaken vaker gecodeerd."
+    },
+    {
+      "promiseCode": "JETTEN-2026-027",
+      "text": "Cliënten in de forensische zorg gaan een eigen bijdrage betalen voor hun zorg, omdat deze vergelijkbaar is met zorg voor psychiatrische patiënten die geen misdrijf hebben begaan.",
+      "summary": "Eigen bijdrage forensische zorg voor veroordeelden",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "forensische zorg",
+        "eigen bijdrage",
+        "veroordeelden",
+        "psychiatrische patiënten",
+        "zorg"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "Cliënten in de forensische zorg ontvangen zorg die vaak vergelijkbaar is met die voor psychiatrische patiënten die geen misdrijf hebben begaan. Daarom gaan we deze veroordeelden voor hun zorg een eigen bijdrage laten betalen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-028",
+      "text": "Schadevergoeding in strafzaken wordt voor slachtoffers makkelijker gemaakt door normering en standaardbedragen, meer ruimte voor collectieve vorderingen en een aparte laagdrempelige procedure naast het strafproces.",
+      "summary": "Vereenvoudiging schadevergoeding slachtoffers met standaardbedragen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schadevergoeding",
+        "slachtoffers",
+        "standaardbedragen",
+        "collectieve vorderingen",
+        "strafproces"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "We gaan dit voor slachtoffers makkelijker maken en kijken daarbij naar normering en standaardbedragen voor schadevergoeding, meer ruimte voor collectieve vorderingen en een aparte, laagdrempelige procedure naast het strafproces."
+    },
+    {
+      "promiseCode": "JETTEN-2026-029",
+      "text": "De griffierechten worden verlaagd en er wordt geïnvesteerd in sociale advocatuur om toegang tot het recht voor iedere Nederlander te waarborgen.",
+      "summary": "Verlaging griffierechten en investering sociale advocatuur",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "griffierechten",
+        "sociale advocatuur",
+        "toegang recht",
+        "nederlander",
+        "investering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "Om de toegang tot het recht voor iedere Nederlander te waarborgen verlagen we de griffierechten en investeren we in sociale advocatuur."
+    },
+    {
+      "promiseCode": "JETTEN-2026-030",
+      "text": "Het experiment gesloten cannabisketen wordt voortgezet en geëvalueerd om op basis daarvan vervolgstappen te bepalen of regulering zich vertaalt in meer veiligheid en gezondheid.",
+      "summary": "Voortzetting en evaluatie experiment gesloten cannabisketen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "experiment",
+        "cannabisketen",
+        "evaluatie",
+        "regulering",
+        "veiligheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 12",
+      "originalQuote": "Het experiment gesloten cannabisketen is erop gericht te bezien of regulering zich vertaalt in meer veiligheid en gezondheid. We zetten het experiment voort, evalueren het en bepalen op basis daarvan de vervolgstappen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-031",
+      "text": "Grote festivals worden verplicht een drugspreventieplan te maken en veroordeelden voor overtreding van de Opiumwet krijgen vaker een educatieve maatregel opgelegd als onderdeel van een straf.",
+      "summary": "Verplichting drugspreventieplan festivals en educatieve maatregelen Opiumwet",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "festivals",
+        "drugspreventieplan",
+        "opiumwet",
+        "educatieve maatregel",
+        "straf"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Grote festivals worden verplicht een drugspreventieplan te maken. Wie veroordeeld wordt voor overtreding van de Opiumwet krijgt vaker een educatieve maatregel opgelegd als onderdeel van een straf."
+    },
+    {
+      "promiseCode": "JETTEN-2026-032",
+      "text": "De minimumleeftijd voor sekswerk wordt in drie jaar tijd verhoogd van 18 naar 21 jaar om jonge sekswerkers beter te beschermen tegen dwang en uitbuiting.",
+      "summary": "Verhoging minimumleeftijd sekswerk van 18 naar 21 jaar in drie jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumleeftijd",
+        "sekswerk",
+        "21 jaar",
+        "drie jaar",
+        "uitbuiting"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Jonge sekswerkers zijn extra kwetsbaar voor dwang en uitbuiting. We verhogen daarom in drie jaar tijd de minimumleeftijd voor sekswerk van 18 naar 21."
+    },
+    {
+      "promiseCode": "JETTEN-2026-033",
+      "text": "Uitstapprogramma's voor sekswerkers worden voortgezet en er wordt onderzoek gedaan naar een pooierverbod. De rechtspositie van sekswerkers wordt versterkt door betere toegang tot verzekeringen en financiële dienstverlening.",
+      "summary": "Voortzetting uitstapprogramma's en onderzoek pooierverbod sekswerk",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitstapprogramma",
+        "sekswerkers",
+        "pooierverbod",
+        "rechtspositie",
+        "verzekeringen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Uitstapprogramma's voor wie vrijwillig wil stoppen met sekswerk worden voortgezet. Daarnaast onderzoeken we of een verbod op het illegaal tewerkstellen van sekswerkers kan worden vormgegeven door middel van een zogeheten pooierverbod."
+    },
+    {
+      "promiseCode": "JETTEN-2026-034",
+      "text": "Het programma 'Samen tegen mensenhandel' wordt voortgezet als onderdeel van de bescherming van kwetsbare sekswerkers.",
+      "summary": "Voortzetting programma 'Samen tegen mensenhandel'",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "samen tegen mensenhandel",
+        "programma",
+        "sekswerkers",
+        "bescherming",
+        "kwetsbaar"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "We zetten het programma 'Samen tegen mensenhandel' voort."
+    },
+    {
+      "promiseCode": "JETTEN-2026-035",
+      "text": "De zorgplicht van online gokaanbieders wordt verstevigd, illegale goksites worden harder aangepakt, er komt een volledig reclameverbod voor online gokken en het aantal vergunningen voor online goksites wordt onderzocht op beperking.",
+      "summary": "Verstevigd gokbeleid: zorgplicht, handhaving, reclameverbod en vergunningsbeperking",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgplicht",
+        "gokaanbieders",
+        "goksites",
+        "reclameverbod",
+        "vergunningen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "We verstevigen de zorgplicht van online gokaanbieders, pakken illegale goksites harder aan en stellen voor online gokken een volledig reclameverbod in. We onderzoeken het beperken van het aantal vergunningen voor online goksites."
+    },
+    {
+      "promiseCode": "JETTEN-2026-036",
+      "text": "Het Nationaal Actieplan Stop geweld tegen vrouwen wordt vastgelegd met een Nationaal Coördinator om bestaande programma's te bundelen en duidelijke afspraken te maken over verantwoordelijkheden tussen hulpverlening, justitie en ministeries.",
+      "summary": "Nationaal Actieplan Stop geweld tegen vrouwen met Nationaal Coördinator",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaal actieplan",
+        "geweld tegen vrouwen",
+        "nationaal coördinator",
+        "hulpverlening",
+        "justitie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Het aansturen van de aanpak van geweld tegen vrouwen is vastgelegd in Het Nationaal Actieplan Stop geweld tegen vrouwen en wordt aangestuurd door een Nationaal Coördinator."
+    },
+    {
+      "promiseCode": "JETTEN-2026-037",
+      "text": "Professionals in de aanpak van geweld tegen vrouwen krijgen adequate training over huiselijk geweld, intieme terreur en rode vlaggen voorafgaand aan femicide. Er wordt vaker ingezet op combizittingen in straf- en familierecht.",
+      "summary": "Training professionals geweld tegen vrouwen en meer combizittingen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "training",
+        "professionals",
+        "huiselijk geweld",
+        "femicide",
+        "combizittingen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Professionals die een rol heeft in de aanpak van geweld tegen vrouwen krijgt adequate training over huiselijk geweld, intieme terreur en de rode vlaggen voorafgaand aan femicide. Er wordt vaker ingezet op combizittingen in het straf- en familierecht."
+    },
+    {
+      "promiseCode": "JETTEN-2026-038",
+      "text": "De versterkte aanpak van online seksueel geweld wordt voortgezet zoals opgenomen in het Nationaal Actieplan, inclusief online vrouwenhaat en online seksuele intimidatie.",
+      "summary": "Voortzetting aanpak online seksueel geweld en vrouwenhaat",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "online seksueel geweld",
+        "vrouwenhaat",
+        "seksuele intimidatie",
+        "nationaal actieplan",
+        "aanpak"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "We gaan door met de versterkte aanpak van online seksueel geweld zoals opgenomen in het Nationaal Actieplan, inclusief online vrouwenhaat en online seksuele intimidatie."
+    },
+    {
+      "promiseCode": "JETTEN-2026-039",
+      "text": "Wetgeving rondom huiselijk geweld wordt aangescherpt om te voldoen aan het Verdrag van Istanbul. Clare's Law wordt geïntroduceerd en er komt een aparte strafbaarstelling voor psychisch geweld.",
+      "summary": "Aanscherping wetgeving huiselijk geweld: Verdrag Istanbul, Clare's Law, psychisch geweld",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huiselijk geweld",
+        "verdrag van istanbul",
+        "clare's law",
+        "psychisch geweld",
+        "wetgeving"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "We scherpen wetgeving rondom huiselijk geweld aan om te voldoen aan het Verdrag van Istanbul en introduceren Clare's Law en een aparte strafbaarstelling voor psychisch geweld."
+    },
+    {
+      "promiseCode": "JETTEN-2026-040",
+      "text": "Er komen verbeterde mogelijkheden om sneller verplichte hulptrajecten op te leggen aan daders van huiselijk geweld en een wettelijke adviesplicht bij signalen van huiselijk geweld voor onderwijs- en zorgprofessionals.",
+      "summary": "Snellere hulptrajecten daders en adviesplicht professionals huiselijk geweld",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hulptrajecten",
+        "daders",
+        "adviesplicht",
+        "onderwijs",
+        "zorgprofessionals"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Daarnaast verbeteren we de mogelijkheden om sneller verplichte hulptrajecten op te leggen aan daders. En er komt een wettelijke adviesplicht bij signalen van huiselijk geweld en andere schadelijke praktijken voor onderwijs- en zorgprofessionals."
+    },
+    {
+      "promiseCode": "JETTEN-2026-041",
+      "text": "De positie van het Landelijk Expertise Centrum Eergerelateerd Geweld blijft geborgd en er komt de mogelijkheid van een uitreisverbod bij risico op genitale verminking of huwelijksdwang.",
+      "summary": "Borging LEC Eergerelateerd Geweld en uitreisverbod bij risico's",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landelijk expertise centrum",
+        "eergerelateerd geweld",
+        "uitreisverbod",
+        "genitale verminking",
+        "huwelijksdwang"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 13",
+      "originalQuote": "Om slachtoffers van eergerelateerd geweld beter te beschermen blijft de positie van het Landelijk Expertise Centrum Eergerelateerd Geweld (LEC) geborgd komt er de mogelijkheid van een uitreisverbod bij risico op genitale verminking of huwelijksdwang."
+    },
+    {
+      "promiseCode": "JETTEN-2026-042",
+      "text": "Europese samenwerking op inlichtingengebied intensiveren door het creëren van een Europees equivalent van Five Eyes met een kopgroep van Europese landen.",
+      "summary": "Europees equivalent van Five Eyes opzetten voor inlichtingensamenwerking",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "five eyes",
+        "inlichtingen",
+        "samenwerking",
+        "europa"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 15",
+      "originalQuote": "We willen een Europese equivalent van Five Eyes, om zo met een kopgroep van Europese landen samen te werken op inlichtingengebied"
+    },
+    {
+      "promiseCode": "JETTEN-2026-043",
+      "text": "Versneld een nieuwe en versterkte Wet op de inlichtingen- en veiligheidsdiensten opstellen. Deze wet wordt techniekneutraal en dreigingsgericht in plaats van middelen-gericht, met samengevoegde toezichthouders.",
+      "summary": "Nieuwe Wet inlichtingen- en veiligheidsdiensten: techniekneutraal en dreigingsgericht",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetgeving",
+        "inlichtingendiensten",
+        "toezicht",
+        "dreigingen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 15",
+      "originalQuote": "We stellen versneld een nieuwe en versterkte Wet op de inlichtingen- en veiligheidsdiensten op. Deze wet moet techniekneutraal zijn, zodat veranderingen in technologieën de diensten niet op achterstand plaatsen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-044",
+      "text": "Operationele capaciteit voor inlichtingenonderzoek van MIVD en AIVD vergroten, waarbij diensten eigenstandige inlichtingenpositie ontwikkelen voor Europese strategische autonomie.",
+      "summary": "Capaciteit MIVD en AIVD vergroten voor strategische autonomie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mivd",
+        "aivd",
+        "capaciteit",
+        "autonomie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 15",
+      "originalQuote": "We vergroten de (operationele) capaciteit voor inlichtingenonderzoek van de Militaire en Algemene Inlichtingen en Veiligheidsdienst (MIVD en AIVD), waarbij de diensten ook de eigenstandige inlichtingenpositie ontwikkelen"
+    },
+    {
+      "promiseCode": "JETTEN-2026-045",
+      "text": "Defensieve en offensieve cybercapaciteiten uitbreiden tegen buitenlandse dreigingen door actieve cyberverdedigingsmaatregelen en geïntegreerd inlichtingenbeeld op basis van private data.",
+      "summary": "Cybercapaciteiten uitbreiden met actieve verdediging en private data-integratie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cyber",
+        "verdediging",
+        "inlichtingen",
+        "private data"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 15-16",
+      "originalQuote": "We breiden de defensieve en offensieve cybercapaciteiten uit tegen dreigingen vanuit het buitenland, onder andere door het ontwikkelen van actieve cyberverdedigingsmaatregelen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-046",
+      "text": "Cybercriminelen met banden met het Russische regime op de Europese Sanctielijst plaatsen.",
+      "summary": "Russische cybercriminelen op EU-sanctielijst",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cybercriminelen",
+        "rusland",
+        "sancties",
+        "europa"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 16",
+      "originalQuote": "Cybercriminelen met duidelijke banden met het Russische regime worden op de Europese Sanctielijst geplaatst."
+    },
+    {
+      "promiseCode": "JETTEN-2026-047",
+      "text": "Terroristische content moet binnen één uur na bevel van toezichthouder offline worden gehaald.",
+      "summary": "Terroristische content binnen één uur offline",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terrorisme",
+        "content",
+        "online",
+        "toezichthouder"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 16",
+      "originalQuote": "Terroristische content dient altijd binnen één uur na het bevel van de toezichthouder offline te zijn gehaald."
+    },
+    {
+      "promiseCode": "JETTEN-2026-048",
+      "text": "Wet Permanentmaking intrekking Nederlanderschap in het belang van de nationale veiligheid doorzetten voor personen die zich aansluiten bij terroristische organisaties en dubbele nationaliteit hebben.",
+      "summary": "Permanente intrekking Nederlanderschap bij terrorisme en dubbele nationaliteit",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlanderschap",
+        "terrorisme",
+        "nationaliteit",
+        "intrekking"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 16-17",
+      "originalQuote": "Wie zich aansluit bij een terroristische organisatie verliest het Nederlanderschap als er sprake is van een dubbele nationaliteit. Daarom zetten we de Wet Permanentmaking intrekking Nederlanderschap in het belang van de nationale veiligheid door."
+    },
+    {
+      "promiseCode": "JETTEN-2026-049",
+      "text": "Minstens 30 grootschalige nieuwbouwlocaties van nationaal belang verspreid over het land bouwen, inclusief nieuwe wijken en steden met totaalaanpak van wonen, werken en voorzieningen.",
+      "summary": "Minimaal 30 grootschalige nieuwbouwlocaties van nationaal belang",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "locaties",
+        "wijken",
+        "steden"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 18",
+      "originalQuote": "We bouwen minstens 30 grootschalige nieuwbouwlocaties van nationaal belang verspreid over het land. Dat kunnen nieuwe wijken zijn, maar ook nieuwe steden."
+    },
+    {
+      "promiseCode": "JETTEN-2026-050",
+      "text": "Bij nieuwe woondeals streven naar 2/3 betaalbaar, waarvan 30% sociale huur en 25% betaalbare koop. Dit kan per regio verschillen.",
+      "summary": "Woondeals: 2/3 betaalbaar (30% sociale huur, 25% betaalbare koop)",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woondeals",
+        "sociale huur",
+        "betaalbare koop",
+        "percentages"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 18",
+      "originalQuote": "Bij nieuwe woondeals streven we naar 2/3 betaalbaar, waarvan 30% sociale huur en 25% betaalbare koop. Dit kan per regio verschillen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-051",
+      "text": "Stikstofdoelen voor 2035 per sector in de wet vastleggen: 42%-46% reductie voor landbouw, 50% voor industrie en 50% voor mobiliteit ten opzichte van 2019, met tussendoel 2030.",
+      "summary": "Wettelijke stikstofdoelen 2035: landbouw 42-46%, industrie/mobiliteit 50%",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstof",
+        "reductiedoelen",
+        "landbouw",
+        "industrie",
+        "mobiliteit"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 20",
+      "originalQuote": "We leggen stikstofdoelen voor 2035 per sector in de wet vast, met een tussendoel in 2030. Deze doelen zijn: 42%-46% (NH3) ten opzichte van 2019 voor de landbouw, 50% (NH3) voor de industrie en 50% (NOx) voor mobiliteit."
+    },
+    {
+      "promiseCode": "JETTEN-2026-052",
+      "text": "Er komt een integrale nationale grondbank naast regionale grondbanken om verplaatsing mogelijk te maken voor bedrijven die weg willen uit de omgeving van natuurgebieden.",
+      "summary": "Oprichting integrale nationale grondbank voor verplaatsing landbouwbedrijven",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondbank",
+        "verplaatsing",
+        "landbouwbedrijven",
+        "natuurgebieden"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 22",
+      "originalQuote": "Om verplaatsing mogelijk te maken voor bedrijven die weg willen uit de omgeving van natuurgebieden komt er, naast regionale grondbanken, een integrale nationale grondbank."
+    },
+    {
+      "promiseCode": "JETTEN-2026-053",
+      "text": "Het Natuurpact wordt uitgevoerd en er worden nieuwe afspraken gemaakt voor de periode na 2027, met structurele financiering en heldere verantwoording voor effectief natuurbeheer.",
+      "summary": "Uitvoering Natuurpact en nieuwe afspraken na 2027",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "natuurpact",
+        "structurele financiering",
+        "natuurbeheer",
+        "verantwoording"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 22",
+      "originalQuote": "We voeren het Natuurpact uit en maken nieuwe afspraken voor de periode na 2027. Met structurele financiering en heldere verantwoording voor effectief natuurbeheer houden we gebieden beter in stand"
+    },
+    {
+      "promiseCode": "JETTEN-2026-054",
+      "text": "Er worden structureel middelen beschikbaar gesteld vanuit het Subsidiestelsel Natuur en Landschap voor terreinbeherende organisaties, met resultaatverplichtingen.",
+      "summary": "Structurele middelen Subsidiestelsel Natuur en Landschap",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidiestelsel",
+        "natuurbeheer",
+        "terreinbeherende organisaties",
+        "resultaatverplichtingen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 22",
+      "originalQuote": "We stellen structureel middelen beschikbaar vanuit het Subsidiestelsel Natuur en Landschap voor terreinbeherende organisatie. Hier worden resultaatverplichtingen aan gekoppeld."
+    },
+    {
+      "promiseCode": "JETTEN-2026-055",
+      "text": "Er worden nationale, bindende convenanten gesloten met glastuinbouw, akkerbouw en ketenpartijen om het gebruik van schadelijke gewasbeschermingsmiddelen fors te beperken op basis van milieubelastingspunten.",
+      "summary": "Bindende convenanten beperking gewasbeschermingsmiddelen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "convenanten",
+        "gewasbeschermingsmiddelen",
+        "milieubelastingspunten",
+        "glastuinbouw",
+        "akkerbouw"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 23",
+      "originalQuote": "Met de glastuinbouw, de akkerbouw en ketenpartijen sluiten we nationale, bindende convenanten om het gebruik van schadelijke gewasbeschermingsmiddelen (op basis van milieubelastingspunten) fors te beperken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-056",
+      "text": "De vestigingssteun voor jonge boeren en tuinders blijft tot 2035 minimaal op het huidige niveau beschikbaar, waarbij extra ruimte binnen het Gemeenschappelijk Landbouwbeleid wordt benut.",
+      "summary": "Vestigingssteun jonge boeren tot 2035 op huidige niveau",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vestigingssteun",
+        "jonge boeren",
+        "glb",
+        "bedrijfsovername"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 23",
+      "originalQuote": "De vestigingssteun blijft tot 2035 minimaal op het huidige niveau beschikbaar, waarbij eventuele extra ruimte binnen het Gemeenschappelijk Landbouwbeleid wordt benut."
+    },
+    {
+      "promiseCode": "JETTEN-2026-057",
+      "text": "Het kabinet voert per 2029 een normering in van de inzet van methaanremmers in veevoer.",
+      "summary": "Normering methaanremmers veevoer per 2029",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "methaanremmers",
+        "veevoer",
+        "normering",
+        "veehouderij"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 23",
+      "originalQuote": "Het kabinet voert per 2029 een normering in van de inzet van methaanremmers in veevoer."
+    },
+    {
+      "promiseCode": "JETTEN-2026-058",
+      "text": "Rond de zomer wordt de ontwerp-AMvB Dierwaardige Veehouderij aan de Tweede Kamer aangeboden en er wordt een landelijke autoriteit dierwaardige veehouderij ingesteld.",
+      "summary": "AMvB Dierwaardige Veehouderij en landelijke autoriteit",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "amvb",
+        "dierwaardige veehouderij",
+        "autoriteit",
+        "monitoring"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 23",
+      "originalQuote": "Rond de zomer wordt de ontwerp-AMvB Dierwaardige Veehouderij voor behandeling aan de Tweede Kamer aangeboden. In deze kabinetsperiode een landelijke autoriteit dierwaardige veehouderij ingesteld"
+    },
+    {
+      "promiseCode": "JETTEN-2026-059",
+      "text": "Er komt een Crisiswet Netcongestie om procedures voor vergunningen te versnellen en in te grijpen als de bouw/aanleg van elektriciteitsnetwerken stagneert.",
+      "summary": "Crisiswet Netcongestie voor versnelling elektriciteitsnetten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "crisiswet",
+        "netcongestie",
+        "vergunningen",
+        "elektriciteitsnet"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 24",
+      "originalQuote": "maken we een Crisiswet Netcongestie, we versnellen daarmee de procedures voor vergunningen en grijpen in als de bouw/aanleg stagneert."
+    },
+    {
+      "promiseCode": "JETTEN-2026-060",
+      "text": "Er wordt geïnvesteerd in wind op zee via Contracts for Difference voor 40 GW schone energie van eigen bodem.",
+      "summary": "Wind op zee 40 GW via Contracts for Difference",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wind op zee",
+        "contracts for difference",
+        "hernieuwbare energie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 24",
+      "originalQuote": "Voor schone energie van eigen bodem blijven we investeren in wind op zee via Contracts for Difference voor 40 GW."
+    },
+    {
+      "promiseCode": "JETTEN-2026-061",
+      "text": "De SDE++ wordt verlengd met 6 nieuwe openstellingsrondes ten behoeve van de uitrol van duurzame energiebronnen.",
+      "summary": "SDE++ verlenging met 6 nieuwe openstellingsrondes",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sde++",
+        "openstellingsrondes",
+        "duurzame energie",
+        "subsidie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 24",
+      "originalQuote": "We verlengen de SDE++ met 6 nieuwe openstellingsrondes ten behoeve van de uitrol van duurzame energiebronnen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-062",
+      "text": "Met beschikbaar budget uit het Klimaatfonds wordt doorgewerkt aan de bouw van tenminste vier nieuwe kerncentrales, conventionele en modulaire reactoren.",
+      "summary": "Bouw tenminste vier nieuwe kerncentrales",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "smr",
+        "nucleaire energie",
+        "klimaatfonds"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 24",
+      "originalQuote": "Met het beschikbare budget uit het Klimaatfonds wordt doorgewerkt aan de bouw van tenminste vier nieuwe kerncentrales. Dit kunnen conventionele en ook modulaire reactoren (SMRs) zijn."
+    },
+    {
+      "promiseCode": "JETTEN-2026-063",
+      "text": "Per 2029 wordt de uitrol van hybride, slimme warmtepompen gestimuleerd en genormeerd op plekken waar warmtenetten niet geschikt zijn.",
+      "summary": "Normering hybride warmtepompen per 2029",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "warmtepompen",
+        "hybride",
+        "normering",
+        "warmtenetten"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 25",
+      "originalQuote": "Op plekken waar een warmtenet niet de meest geschikte oplossing is stimuleren en normeren we, per 2029, de uitrol van hybride, slimme warmtepompen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-064",
+      "text": "Verhuurders worden verplicht energielabels E, F en G voor huurwoningen per 2029 uit te faseren; labels C en D per 2040.",
+      "summary": "Uitfasering energielabels huurwoningen 2029/2040",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energielabels",
+        "huurwoningen",
+        "verhuurders",
+        "uitfasering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 25",
+      "originalQuote": "Verhuurders worden verplicht energielabels E, F en G voor huurwoningen per 2029 uit te faseren; labels C en D per 2040."
+    },
+    {
+      "promiseCode": "JETTEN-2026-065",
+      "text": "Er wordt een capaciteitsmarkt geïntroduceerd voor leveringszekerheid van elektriciteit, zodat er altijd voldoende elektriciteit is voor piekmomenten.",
+      "summary": "Introductie capaciteitsmarkt elektriciteit",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "capaciteitsmarkt",
+        "leveringszekerheid",
+        "elektriciteit",
+        "piekmomenten"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 25",
+      "originalQuote": "Voor de leveringszekerheid van elektriciteit introduceren we een capaciteitsmarkt, zodat er altijd voldoende elektriciteit is voor piekmomenten."
+    },
+    {
+      "promiseCode": "JETTEN-2026-066",
+      "text": "De nationale CO2-heffing wordt afgeschaft om bedrijven te helpen investeren in verduurzaming en een gelijk Europees speelveld te creëren.",
+      "summary": "Afschaffing nationale CO2-heffing",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "co2-heffing",
+        "afschaffing",
+        "verduurzaming",
+        "gelijk speelveld"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 26",
+      "originalQuote": "daarom schaffen we de nationale CO2-heffing af en zetten we met oog voor een gelijk Europees speelveld en versnelling van elektrificatie en verduurzaming in op een verlaging van de elektriciteitskosten."
+    },
+    {
+      "promiseCode": "JETTEN-2026-067",
+      "text": "Er wordt binnen twee jaar na de start van het kabinet een Nationale investeringsinstelling opgericht om de Nederlandse kapitaalmarkt te versterken.",
+      "summary": "Oprichting Nationale investeringsinstelling binnen twee jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investeringsinstelling",
+        "kapitaalmarkt",
+        "financiering",
+        "verdienvermogen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 27",
+      "originalQuote": "We richten binnen twee jaar na de start van het kabinet een Nationale investeringsinstelling op om de Nederlandse kapitaalmarkt te versterken"
+    },
+    {
+      "promiseCode": "JETTEN-2026-068",
+      "text": "Het kabinet werkt toe naar de 3%-norm voor R&D-investeringen, waarbij de overheid publieke investeringen inzet om private investeringen aan te jagen.",
+      "summary": "Toewerkten naar 3%-norm R&D-investeringen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "r&d-investeringen",
+        "innovatie",
+        "technologiestrategie",
+        "onderzoek"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 28",
+      "originalQuote": "Het kabinet werkt toe naar de 3%-norm voor R&D-investeringen. Daarvan moet het grootste deel van het bedrijfsleven komen, maar de overheid kan met publieke investeringen ook private investeringen aanjagen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-069",
+      "text": "Er wordt een Nationaal Agentschap voor Disruptieve Innovatie opgericht volgens het DARPA-model om disruptieve innovaties uit te lokken via overheidsinkoop.",
+      "summary": "Oprichting Nationaal Agentschap Disruptieve Innovatie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "disruptieve innovatie",
+        "darpa-model",
+        "overheidsinkoop",
+        "agentschap"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 28",
+      "originalQuote": "We benutten de inkoopkracht van de overheid voor het uitlokken van disruptieve innovaties en bieden een eerste afzetmarkt via het zogeheten DARPA-model. We richten hiervoor een Nationaal Agentschap voor Disruptieve Innovatie op."
+    },
+    {
+      "promiseCode": "JETTEN-2026-070",
+      "text": "Jaarlijks minimaal 500 regels schrappen of vereenvoudigen onder coördinatie van de minister van EZ, met ambitieuze regelreductietargets per ministerie en doorlichting van alle wet- en regelgeving.",
+      "summary": "Jaarlijks minimaal 500 regels schrappen of vereenvoudigen per ministerie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeldruk",
+        "vereenvoudiging",
+        "ministerie",
+        "targets"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 29",
+      "originalQuote": "Jaarlijks schrappen of vereenvoudigen we minimaal 500 regels. We stellen ambitieuze regelreductietargets vast per ministerie, onder de coördinatie van de minister van EZ."
+    },
+    {
+      "promiseCode": "JETTEN-2026-071",
+      "text": "Het kabinet zal jaarlijks een Vereenvoudigingswet naar de Kamer sturen met concrete voorstellen, waarbij de eerste Vereenvoudigingswet begin 2027 van kracht wordt.",
+      "summary": "Jaarlijkse Vereenvoudigingswet, eerste versie begin 2027 van kracht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vereenvoudigingswet",
+        "kamer",
+        "deadline",
+        "voorstellen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 29",
+      "originalQuote": "Daartoe zal het kabinet jaarlijks een Vereenvoudigingswet naar de Kamer sturen met concrete voorstellen vanuit departementen, toezichthouders en uitvoeringsinstellingen. De eerste Vereenvoudigingswet zal begin 2027 van kracht worden."
+    },
+    {
+      "promiseCode": "JETTEN-2026-072",
+      "text": "Gemeente verplicht om binnen 12 weken te beslissen op bezwaren over vergunningen en automatische goedkeuring met kwijtschelding van leges bij overschrijding van termijnen door overheid.",
+      "summary": "Gemeente verplicht binnen 12 weken beslissen op bezwaren vergunningen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningverlening",
+        "gemeente",
+        "bezwaren",
+        "termijn",
+        "leges"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 29",
+      "originalQuote": "Ook wordt de gemeente verplicht om binnen 12 weken op bezwaren over vergunningen te beslissen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-073",
+      "text": "Vaak ter discussie gestelde fiscale regelingen voor bedrijven behouden: expatregeling, innovatiebox, bedrijfsopvolgingsregeling, verliesverrekening, deelnemingsvrijstelling en WBSO.",
+      "summary": "Fiscale regelingen voor bedrijven behouden (expatregeling, WBSO etc.)",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "expatregeling",
+        "innovatiebox",
+        "bedrijfsopvolgingsregeling",
+        "wbso",
+        "deelnemingsvrijstelling"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 29",
+      "originalQuote": "Denk aan de expatregeling, innovatiebox, bedrijfsopvolgingsregeling, verliesverrekening, de deelnemingsvrijstelling en WBSO."
+    },
+    {
+      "promiseCode": "JETTEN-2026-074",
+      "text": "Conceptwet Vbar opsplitsen en rechtsvermoeden van werknemerschap invoeren. Overgebleven deel van Vbar zo snel mogelijk vervangen door Zelfstandigenwet.",
+      "summary": "Vbar opsplitsen, rechtsvermoeden werknemerschap, vervangen door Zelfstandigenwet",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vbar",
+        "schijnzelfstandigheid",
+        "zelfstandigenwet",
+        "werknemerschap"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 29",
+      "originalQuote": "We pakken schijnzelfstandigheid aan door de conceptwet Vbar die hierover gaat over te splitsen en een rechtsvermoeden van werknemerschap in te voeren. Het overgebleven deel van de Vbar vervangen we zo snel mogelijk door de Zelfstandigenwet."
+    },
+    {
+      "promiseCode": "JETTEN-2026-075",
+      "text": "Het 'rentmeestervennootschap' opnemen in de wet als nieuwe rechtsvorm voor bedrijven die duurzaam willen ondernemen.",
+      "summary": "Rentmeestervennootschap als nieuwe rechtsvorm in wet opnemen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rentmeestervennootschap",
+        "rechtsvorm",
+        "duurzaam",
+        "ondernemerschap"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 29",
+      "originalQuote": "We nemen het 'rentmeestervennootschap' op in de wet als rechtsvorm voor bedrijven."
+    },
+    {
+      "promiseCode": "JETTEN-2026-076",
+      "text": "Doelstelling dat vrouwelijke ondernemers in 2030 relatief net zoveel financiering ophalen als mannelijke ondernemers via stimulering vrouwelijk ondernemerschap.",
+      "summary": "Gelijke financiering vrouwelijke en mannelijke ondernemers in 2030",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrouwelijk",
+        "ondernemerschap",
+        "financiering",
+        "gelijkheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 30",
+      "originalQuote": "stellen ons tot doel dat vrouwelijke ondernemers in 2030 relatief net zoveel financiering ophalen als mannelijke ondernemers"
+    },
+    {
+      "promiseCode": "JETTEN-2026-077",
+      "text": "Actief sturen op 1,5% structurele economische groei conform rapport-Wennink en bijsturen als dit niet wordt gehaald.",
+      "summary": "Sturen op 1,5% structurele economische groei, bijsturen indien nodig",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "economische",
+        "groei",
+        "wennink",
+        "structureel"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 30",
+      "originalQuote": "Conform het rapport-Wennink sturen we actief op 1,5% structurele economische groei en als dat niet wordt gehaald, sturen we bij."
+    },
+    {
+      "promiseCode": "JETTEN-2026-078",
+      "text": "Autoriteit Consument en Markt krijgt twee nieuwe instrumenten: call-in bevoegdheid en new competition tool voor gezonde marktwerking.",
+      "summary": "ACM krijgt call-in bevoegdheid en new competition tool",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "acm",
+        "marktwerking",
+        "bevoegdheid",
+        "concurrentie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 30",
+      "originalQuote": "geven we de Autoriteit Consument en Markt als marktmeester twee nieuwe instrumenten: de zogenaamde call-in bevoegdheid en de new competition tool"
+    },
+    {
+      "promiseCode": "JETTEN-2026-079",
+      "text": "Defensie-uitgaven opschalen naar 3,5% van het BBP conform NAVO-norm en deze norm wettelijk verankeren voor lange termijn zekerheid.",
+      "summary": "Defensie-uitgaven naar 3,5% BBP, wettelijk verankeren",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "uitgaven",
+        "bbp",
+        "navo",
+        "wettelijk"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 31",
+      "originalQuote": "We schalen de defensie-uitgaven op om de NAVO-norm van 3,5% van het BBP te halen. Om voor de lange termijn continuïteit te garanderen, verankeren we de 3,5%-norm wettelijk."
+    },
+    {
+      "promiseCode": "JETTEN-2026-080",
+      "text": "Bouwen aan schaalbare krijgsmacht van minimaal 122.000 mensen, dienjaar fors opschalen en verplichte enquête voor jongeren als eerste stap.",
+      "summary": "Krijgsmacht van minimaal 122.000 mensen, dienjaar opschalen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "krijgsmacht",
+        "personeel",
+        "dienjaar",
+        "enquête",
+        "jongeren"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 31",
+      "originalQuote": "We bouwen aan een schaalbare krijgsmacht van minimaal 122.000 mensen. We schalen het dienjaar fors op en introduceren als eerste stap een verplichte enquête voor jongeren."
+    },
+    {
+      "promiseCode": "JETTEN-2026-081",
+      "text": "Wet op de Defensiegereedheid zo snel mogelijk invoeren voor ruimte en huisvesting defensiepersoneel en oefeningen.",
+      "summary": "Wet op de Defensiegereedheid zo snel mogelijk invoeren",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensiegereedheid",
+        "wetgeving",
+        "huisvesting",
+        "oefeningen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 31",
+      "originalQuote": "Hiervoor voeren we zo snel mogelijk de Wet op de Defensiegereedheid in."
+    },
+    {
+      "promiseCode": "JETTEN-2026-082",
+      "text": "40 procent van defensieaankopen gezamenlijk met Europese partners doen en 50 procent inkopen bij Nederlandse en Europese ondernemers.",
+      "summary": "40% defensieaankopen Europees, 50% bij Nederlandse/Europese ondernemers",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensieaankopen",
+        "europa",
+        "samenwerking",
+        "ondernemers"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 32",
+      "originalQuote": "We streven ernaar 40 procent van onze defensieaankopen en productie gezamenlijk met Europese partners te doen. Ook streven we ernaar 50 procent in te kopen bij Nederlandse en Europese ondernemers"
+    },
+    {
+      "promiseCode": "JETTEN-2026-083",
+      "text": "Oprichting defensie-innovatieautoriteit naar voorbeeld van DARPA met tot 10 procent oplopend aandeel van defensiebudget gedurende kabinetsperiode.",
+      "summary": "Defensie-innovatieautoriteit naar DARPA-model, tot 10% defensiebudget",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "innovatieautoriteit",
+        "darpa",
+        "defensiebudget",
+        "technologie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 32",
+      "originalQuote": "zet het kabinet in op de oprichting van een defensie-innovatieautoriteit naar voorbeeld van het Amerikaanse DARPA... wijzen we hiervoor gedurende deze kabinetsperiode een tot 10 procent oplopend aandeel van het defensiebudget aan"
+    },
+    {
+      "promiseCode": "JETTEN-2026-084",
+      "text": "Toetreding tot het verdrag van Aken voor verdieping Europese defensiesamenwerking.",
+      "summary": "Toetreding tot verdrag van Aken",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verdrag",
+        "aken",
+        "europese",
+        "defensiesamenwerking"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 32",
+      "originalQuote": "We treden toe tot het verdrag van Aken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-085",
+      "text": "Artikel 7 procedure vereenvoudigen zodat stemrecht van landen als Hongarije en Slowakije makkelijker kan worden ontnomen. Hongarije verliest recht op Europees geld.",
+      "summary": "Artikel 7 procedure vereenvoudigen, Hongarije verliest EU-geld",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel",
+        "procedure",
+        "hongarije",
+        "stemrecht",
+        "sancties"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 33",
+      "originalQuote": "Wij pakken landen die Europa actief ondermijnen, zoals Hongarije en Slowakije, hard aan door ons in Europa hard te maken voor het vereenvoudigen van de artikel 7 procedure zodat het stemrecht van landen makkelijker kan worden ontnomen. Hongarije verliest het recht op Europees geld."
+    },
+    {
+      "promiseCode": "JETTEN-2026-086",
+      "text": "Nederland conformeert zich bij buitenlandbeleid aan oordelen van het Internationaal Gerechtshof en het Internationaal Strafhof.",
+      "summary": "Nederland conformeert zich aan oordelen IGH en Internationaal Strafhof",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gerechtshof",
+        "strafhof",
+        "internationaal",
+        "recht",
+        "oordelen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 34",
+      "originalQuote": "Nederland conformeert zich bij zijn buitenlandbeleid aan oordelen van het Internationaal Gerechtshof en het Internationaal Strafhof."
+    },
+    {
+      "promiseCode": "JETTEN-2026-087",
+      "text": "Samenwerking met UNRWA herstellen binnen budget voor hulp aan Palestijnen en bijdragen aan wederopbouw Gaza met internationale coalitie.",
+      "summary": "Samenwerking UNRWA herstellen, bijdragen wederopbouw Gaza",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "unrwa",
+        "palestijnen",
+        "gaza",
+        "wederopbouw",
+        "humanitair"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 34",
+      "originalQuote": "Binnen het budget voor hulp aan Palestijnen herstellen we de samenwerking met UNRWA... Aan de wederopbouw van Gaza dragen we met de internationale coalitie bij."
+    },
+    {
+      "promiseCode": "JETTEN-2026-088",
+      "text": "Stap richting internationale OESO-norm voor ontwikkelingssamenwerking door te investeren in deze samenwerking.",
+      "summary": "Stap richting OESO-norm voor ontwikkelingssamenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "VAAG",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "oeso",
+        "norm",
+        "investering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 35",
+      "originalQuote": "We investeren in ontwikkelingssamenwerking en zetten daarmee een stap richting de internationale OESO-norm."
+    },
+    {
+      "promiseCode": "JETTEN-2026-089",
+      "text": "Nederland neemt leiding bij modernisering internationaal vluchtelingenrecht via asieltop en diplomatieke initiatieven voor asielaanvragen buiten Europa.",
+      "summary": "Leiding modernisering vluchtelingenrecht, asieltop, procedures buiten Europa",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vluchtelingenrecht",
+        "asieltop",
+        "procedures",
+        "europa",
+        "modernisering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 36",
+      "originalQuote": "Voor de modernisering van het internationaal vluchtelingenrecht neemt Nederland samen met andere Europese landen de leiding om draagvlak te vinden. We organiseren een asieltop en nemen diplomatieke initiatieven."
+    },
+    {
+      "promiseCode": "JETTEN-2026-090",
+      "text": "Samenwerking met Oeganda wordt on hold gezet in nasleep van verkiezingen in dat land.",
+      "summary": "Samenwerking Oeganda on hold na verkiezingen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oeganda",
+        "samenwerking",
+        "verkiezingen",
+        "migratie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 36",
+      "originalQuote": "De samenwerking met Oeganda wordt on hold gezet in de nasleep van de verkiezingen in dat land."
+    },
+    {
+      "promiseCode": "JETTEN-2026-091",
+      "text": "Asielnoodmaatregelenwet en Wet Invoering Tweestatusstelsel onverkort uitvoeren indien aangenomen door Eerste Kamer.",
+      "summary": "Asielnoodmaatregelenwet en Tweestatusstelsel onverkort uitvoeren",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielnoodmaatregelenwet",
+        "tweestatusstelsel",
+        "eerste kamer",
+        "uitvoering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 36",
+      "originalQuote": "Indien de Asielnoodmaatregelenwet en/of de Wet Invoering Tweestatusstelsel zijn aangenomen door de Eerste Kamer voeren we deze wetten onverkort uit."
+    },
+    {
+      "promiseCode": "JETTEN-2026-092",
+      "text": "De IND-asielprocedure wordt vereenvoudigd door afschaffing van de AA/VA-procedure, verplichte procedurestappen zoals het aanmeldgehoor, verplicht medisch advies en de voornemenprocedure. Niet meewerken aan procedures wordt een afwijzingsgrond en herhaalde asielaanvragen worden strenger getoetst.",
+      "summary": "Vereenvoudiging IND-asielprocedure door afschaffing diverse procedurestappen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ind",
+        "asielprocedure",
+        "aa/va-procedure",
+        "aanmeldgehoor",
+        "voornemenprocedure"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 37",
+      "originalQuote": "De IND moet sneller kunnen beslissen, en dus vereenvoudigen we de asielprocedure. We schaffen onder andere de AA/VA-procedure, verplichte procedurestappen zoals het aanmeldgehoor, verplicht medisch advies en de voornemenprocedure af."
+    },
+    {
+      "promiseCode": "JETTEN-2026-093",
+      "text": "Voor beroepstermijnen wordt aangesloten op minimumnormen uit het EU-migratiepact. Voor kansarme aanvragers wordt rechtsbijstand pas na afwijzing toegekend, conform Europese regelgeving.",
+      "summary": "Beroepstermijnen volgens EU-minimumnormen, rechtsbijstand voor kansarme aanvragers na afwijzing",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beroepstermijnen",
+        "eu-migratiepact",
+        "rechtsbijstand",
+        "kansarme aanvragers"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 37",
+      "originalQuote": "Voor de beroepstermijnen sluiten we aan op de minimumnormen uit het EU-migratiepact. Voor kansarme aanvragers wordt rechtsbijstand pas toegekend na afwijzing, conform Europese regelgeving."
+    },
+    {
+      "promiseCode": "JETTEN-2026-094",
+      "text": "Erkenning van buitenlandse kinderen wordt alleen nog mogelijk bij een beperkt aantal gemeenten met relevante kennis en expertise. Schijnerkenners worden strafrechtelijk vervolgd om schijnerkenningen tegen te gaan.",
+      "summary": "Beperking erkenning buitenlandse kinderen tot expertise-gemeenten, strafrechtelijke vervolging schijnerkenners",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "erkenning",
+        "buitenlandse kinderen",
+        "gemeenten",
+        "schijnerkenners",
+        "strafrechtelijke vervolging"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 37",
+      "originalQuote": "Om dit tegen te gaan wordt erkenning van buitenlandse kinderen voortaan alleen nog bij een aantal gemeenten met relevante kennis en expertise mogelijk. Schijnerkenners worden strafrechtelijk vervolgd."
+    },
+    {
+      "promiseCode": "JETTEN-2026-095",
+      "text": "Het aantal verscherpt-toezichtlocaties (vtl) en vrijheidsbeperkende procesbeschikbaarheidslocaties (pbl) wordt flink uitgebreid. Voor gemeenten met een aanmeldcentrum wordt structureel hogere politie-inzet mogelijk.",
+      "summary": "Uitbreiding vtl en pbl-locaties, structureel hogere politie-inzet bij aanmeldcentra",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verscherpt-toezichtlocaties",
+        "vtl",
+        "pbl",
+        "politie-inzet",
+        "aanmeldcentrum"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 37",
+      "originalQuote": "We breiden het aantal verscherpt-toezichtlocaties (vtl) en vrijheidsbeperkende procesbeschikbaarheidslocaties (pbl) flink uit. Voor gemeenten met een aanmeldcentrum wordt structureel hogere politie-inzet mogelijk."
+    },
+    {
+      "promiseCode": "JETTEN-2026-096",
+      "text": "Het COA krijgt voldoende structurele en flexibele opvangplekken met stabiele financiering op basis van de laatste meerjaren productie prognose. Noodopvang zoals cruiseschepen en hotels wordt gesloten en vervangen door gewone opvangplekken.",
+      "summary": "Stabiele COA-financiering, sluiting noodopvang en vervanging door gewone opvangplekken",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coa",
+        "opvangplekken",
+        "financiering",
+        "noodopvang",
+        "cruiseschepen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 37-38",
+      "originalQuote": "Volgens de afspraken met het kabinet uit 2023 stellen we het COA in staat om voldoende structurele en flexibele opvangplekken te realiseren, met stabiele financiering op basis van de laatste meerjaren productie prognose. De plekken voor noodopvang (waaronder cruiseschepen en hotels) worden de komende periode gesloten en vervangen door gewone opvangplekken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-097",
+      "text": "Kwetsbare alleenstaande minderjarige vluchtelingen worden waar nodig begeleid tot hun 21e jaar in plaats van hun 18e jaar, om te voorkomen dat jonge asielzoekers vervallen in overlast gevend of crimineel gedrag.",
+      "summary": "Begeleiding minderjarige vluchtelingen verlengd tot 21e jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minderjarige vluchtelingen",
+        "begeleiding",
+        "21e jaar",
+        "overlast",
+        "crimineel gedrag"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 38",
+      "originalQuote": "Kwetsbare alleenstaande minderjarige vluchtelingen worden waar nodig begeleid tot hun 21e in plaats van hun 18e, om zo te voorkomen dat jonge asielzoekers vervallen in overlast gevend of crimineel gedrag."
+    },
+    {
+      "promiseCode": "JETTEN-2026-098",
+      "text": "Er wordt een bindend convenant met gemeenten gesloten over het snel ontwikkelen van flexibele locaties voor tijdelijke woningen voor statushouders, Oekraïners en Nederlanders. Zodra deze alternatieve huisvesting er voldoende is, vervalt de wettelijke voorrang voor statushouders in sociale huurwoningen.",
+      "summary": "Bindend convenant flexibele tijdelijke woningen, afschaffing voorrang statushouders sociale huur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "convenant",
+        "flexibele locaties",
+        "tijdelijke woningen",
+        "statushouders",
+        "voorrang"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 38",
+      "originalQuote": "We sluiten met gemeenten een bindend convenant over het snel ontwikkelen van flexibele locaties voor tijdelijke woningen waar statushouders, Oekraïners en Nederlanders die tijdelijke huisvesting nodig hebben samen terechtkunnen, als alternatief voor het gebruik van sociale huurwoningen. Zodra deze alternatieve huisvesting er in voldoende mate is, zal de mogelijkheid van voorrang voor statushouders in sociale huurwoningen niet langer wettelijk mogelijk zijn."
+    },
+    {
+      "promiseCode": "JETTEN-2026-099",
+      "text": "Er wordt een pilot van drie jaar gestart voor een programma om onder strenge voorwaarden goed geschoolde krachten naar Nederland te halen in vooraf afgebakende sectoren, met salariseis, huisvestingseis en maximale termijn van drie jaar.",
+      "summary": "Driejarige pilot arbeidsmigratie geschoolde krachten met strenge voorwaarden",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pilot",
+        "drie jaar",
+        "geschoolde krachten",
+        "salariseis",
+        "huisvestingseis"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 39 en p. 42",
+      "originalQuote": "We starten een pilot van drie jaar voor een programma dat gericht is op het, onder strenge voorwaarden, actief en gericht naar Nederland halen van goed geschoolde krachten die hier toegevoegde waarde in vooraf afgebakende sectoren hebben. Onderdeel van deze voorwaarden zijn een salariseis en huisvestingseis en een maximale termijn van drie jaar."
+    },
+    {
+      "promiseCode": "JETTEN-2026-100",
+      "text": "Er wordt een meldpunt buitenlands inmenging gecreëerd onder het ministerie van Justitie & Veiligheid waar diasporagemeenschappen en internationale studenten anoniem melding kunnen doen van transnationale repressie.",
+      "summary": "Meldpunt buitenlands inmenging onder Justitie & Veiligheid voor transnationale repressie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meldpunt",
+        "buitenlands inmenging",
+        "diasporagemeenschappen",
+        "transnationale repressie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 39",
+      "originalQuote": "We creëren een meldpunt buitenlands inmenging onder het ministerie van Justitie & Veiligheid. Diasporagemeenschappen en internationale studenten kunnen hier, zo nodig anoniem, melding doen van transnationale repressie."
+    },
+    {
+      "promiseCode": "JETTEN-2026-101",
+      "text": "Er wordt wetgeving ontwikkeld waarmee het onder voorwaarden mogelijk wordt op weekend- en avondscholen van onvrije regimes gericht toezicht in te zetten wanneer zij diasporabeleid voeren dat integratie tegenwerkt.",
+      "summary": "Wetgeving toezicht weekend- en avondscholen onvrije regimes",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetgeving",
+        "toezicht",
+        "weekend-avondscholen",
+        "onvrije regimes",
+        "diasporabeleid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 39",
+      "originalQuote": "Daarom ontwikkelen we wetgeving waarmee het onder voorwaarden mogelijk wordt op deze plaatsen gericht toezicht in te zetten."
+    },
+    {
+      "promiseCode": "JETTEN-2026-102",
+      "text": "Er wordt een strafverzwaringsgrond ingevoerd voor strafbare feiten als het plegen of medeplegen van eergerelateerd geweld. Een gerechtelijk uitreisverbod wordt mogelijk bij risico op genitale verminking in het buitenland.",
+      "summary": "Strafverzwaringsgrond eergerelateerd geweld, gerechtelijk uitreisverbod genitale verminking",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strafverzwaringsgrond",
+        "eergerelateerd geweld",
+        "uitreisverbod",
+        "genitale verminking"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 39",
+      "originalQuote": "Er komt een strafverzwaringsgrond voor strafbare feiten als het plegen of medeplegen van eergerelateerd geweld. [...] voeren de mogelijkheid voor een gerechtelijk uitreisverbod in bij risico op genitale verminking in het buitenland."
+    },
+    {
+      "promiseCode": "JETTEN-2026-103",
+      "text": "Asielzoekers met een goede kans op een verblijfsvergunning krijgen na drie maanden in de asielprocedure het recht om aan het werk te gaan. Een alternatief voor de tewerkstellingsvergunning wordt ingevoerd.",
+      "summary": "Werkrecht asielzoekers na drie maanden, alternatief tewerkstellingsvergunning",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "drie maanden",
+        "werkrecht",
+        "tewerkstellingsvergunning"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 39-40",
+      "originalQuote": "Asielzoekers met een goede kans op een verblijfsvergunning krijgen na drie maanden in de asielprocedure het recht om aan het werk te gaan. We schrappen administratieve rompslomp door een alternatief voor de tewerkstellingsvergunning in te voeren."
+    },
+    {
+      "promiseCode": "JETTEN-2026-104",
+      "text": "Bij alle grotere opvanglocaties komt een Meedoenbalie waar mensen in procedure geholpen worden met taalles, vrijwilligerswerk of betaald werk.",
+      "summary": "Meedoenbalies bij grotere opvanglocaties voor taalles en werk",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meedoenbalie",
+        "opvanglocaties",
+        "taalles",
+        "vrijwilligerswerk",
+        "betaald werk"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 40",
+      "originalQuote": "Bij alle grotere opvanglocaties komt een Meedoenbalie. Daar worden mensen in procedure geholpen met taalles, vrijwilligerswerk of betaald werk."
+    },
+    {
+      "promiseCode": "JETTEN-2026-105",
+      "text": "Voor Oekraïense vluchtelingen wordt per 2027 een tijdelijke verblijfsstatus gecreëerd conform het ingezette beleid, ter vervanging van de tijdelijke beschermingsrichtlijn die tot 2027 loopt.",
+      "summary": "Tijdelijke verblijfsstatus Oekraïense vluchtelingen per 2027",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oekraïense vluchtelingen",
+        "2027",
+        "tijdelijke verblijfsstatus",
+        "beschermingsrichtlijn"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 40",
+      "originalQuote": "Oekraïense vluchtelingen in Nederland vallen tot 2027 onder de tijdelijke beschermingsrichtlijn. We creëren per 2027 een tijdelijke verblijfsstatus voor hen conform ingezet beleid."
+    },
+    {
+      "promiseCode": "JETTEN-2026-106",
+      "text": "De Zelfstandigenwet wordt zo snel mogelijk gefaseerd ingevoerd, beginnend met het rechtsvermoeden van werknemerschap uit de Vbar, sectorale rechtsvermoedens en toetsingscommissie.",
+      "summary": "Gefaseerde invoering Zelfstandigenwet, start met rechtsvermoeden werknemerschap",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zelfstandigenwet",
+        "rechtsvermoeden",
+        "werknemerschap",
+        "toetsingscommissie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 43",
+      "originalQuote": "Daarom voeren we de Zelfstandigenwet zo snel mogelijk in. Dat doen we gefaseerd om in het tijdpad rekening te houden tijdpad met Europese verplichtingen. We beginnen met het invoeren van het rechtsvermoeden van werknemerschap uit de Vbar"
+    },
+    {
+      "promiseCode": "JETTEN-2026-107",
+      "text": "De WW-uitkering wordt hoger in het begin en verkort naar één jaar. De eisen voor opbouw van rechten en verzilvering worden aangescherpt.",
+      "summary": "WW-hervorming: hogere uitkering begin, verkorting naar één jaar, aangescherpte eisen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ww-uitkering",
+        "één jaar",
+        "opbouw rechten",
+        "verzilvering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 43",
+      "originalQuote": "De WW-uitkering wordt daarom hoger in het begin en en verkort naar één jaar. [...] Wel staat daartegenover dat de eisen qua opbouw van rechten en verzilvering wat aangescherpt worden."
+    },
+    {
+      "promiseCode": "JETTEN-2026-108",
+      "text": "IVA wordt voor nieuwe gevallen afgeschaft om te voorkomen dat de WIA op korte termijn onuitvoerbaar wordt.",
+      "summary": "IVA afschaffen voor nieuwe gevallen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "iva",
+        "afschaffen",
+        "wia",
+        "arbeidsongeschiktheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 44",
+      "originalQuote": "Ook volgen we het advies op door de IVA voor nieuwe gevallen af te schaffen, zodat de WIA niet op korte termijn onuitvoerbaar wordt."
+    },
+    {
+      "promiseCode": "JETTEN-2026-109",
+      "text": "AOW-leeftijd wordt per 1 januari 2033 direct gekoppeld aan het stijgen van de levensverwachting om de AOW betaalbaar te houden.",
+      "summary": "AOW-leeftijd koppelen aan levensverwachting vanaf 2033",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow-leeftijd",
+        "levensverwachting",
+        "koppeling",
+        "pensioen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 44",
+      "originalQuote": "In dit kader koppelen we de AOW-leeftijd per 1 januari 2033 direct aan het stijgen van de levensverwachting om de AOW ook in de toekomst betaalbaar te houden."
+    },
+    {
+      "promiseCode": "JETTEN-2026-110",
+      "text": "Fiscale subsidiering van het aanvullend pensioen voor de hoogste inkomens wordt de komende zes jaar verminderd.",
+      "summary": "Pensioensubsidie hoogste inkomens verminderen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fiscale subsidiering",
+        "aanvullend pensioen",
+        "hoogste inkomens"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 44",
+      "originalQuote": "Tot slot verminderen we de komende zes jaar de fiscale subsidiering van het aanvullend pensioen voor de hoogste inkomens."
+    },
+    {
+      "promiseCode": "JETTEN-2026-111",
+      "text": "Kinderbijslag en kindgebonden budget worden samengevoegd in één kindregeling met een hoger vast en lager variabel bedrag bij één uitvoerder.",
+      "summary": "Kinderbijslag en kindgebonden budget samenvoegen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebonden budget",
+        "samenvoeging",
+        "uitvoerder"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 45",
+      "originalQuote": "We beginnen door de kinderbijslag en het kindgebonden budget samen te voegen in één kindregeling met een hoger vast en een lager variabel bedrag."
+    },
+    {
+      "promiseCode": "JETTEN-2026-112",
+      "text": "Alle overheidsregelingen worden op een vast moment in de maand uitbetaald voor betere financiële planning.",
+      "summary": "Vaste uitbetalingsdatum overheidsregelingen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheidsregelingen",
+        "uitbetaling",
+        "vast moment"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 45",
+      "originalQuote": "Om grip te krijgen op de portemonnee zorgen we dat alle regelingen van de overheid op een vast moment in de maand worden uitbetaald."
+    },
+    {
+      "promiseCode": "JETTEN-2026-113",
+      "text": "De onderwijsinspectie gaat elke school minimaal eens in de vier jaar onderzoeken en krijgt opdracht toezicht te houden op regeldruk.",
+      "summary": "Inspectie onderzoekt scholen minimaal om de vier jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderwijsinspectie",
+        "schoolonderzoek",
+        "regeldruk",
+        "toezicht"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 47",
+      "originalQuote": "De inspectie gaat elke school minimaal eens in de vier jaar onderzoeken, en krijgt daarbij opdracht ook toezicht te houden op de regeldruk."
+    },
+    {
+      "promiseCode": "JETTEN-2026-114",
+      "text": "Een staatscommissie wordt ingesteld die de crisis in leerprestaties op taal, lezen, schrijven en rekenen onderzoekt en lange termijn aanbevelingen doet.",
+      "summary": "Staatscommissie voor onderzoek leerprestaties",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staatscommissie",
+        "leerprestaties",
+        "taal",
+        "rekenen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 47",
+      "originalQuote": "We stellen naast deze maatregelen een staatscommissie in die de crisis in de leerprestaties van onze leerlingen op taal, lezen, schrijven en rekenen onderzoekt en aanbevelingen doet voor lange termijnoplossingen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-115",
+      "text": "De Wet meer ruimte voor nieuwe scholen wordt zo snel mogelijk herzien vanwege onvoorziene problemen.",
+      "summary": "Wet meer ruimte nieuwe scholen herzien",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet meer ruimte",
+        "nieuwe scholen",
+        "herziening"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 47",
+      "originalQuote": "De Wet meer ruimte voor nieuwe scholen zorgt voor onvoorziene problemen en wordt daarom zo snel mogelijk herzien"
+    },
+    {
+      "promiseCode": "JETTEN-2026-116",
+      "text": "Toets anderstalig onderwijs voor nieuwe opleidingen wordt geschrapt en huidige anderstalige aanbod blijft in stand.",
+      "summary": "Toets anderstalig onderwijs schrappen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toets anderstalig onderwijs",
+        "schrappen",
+        "opleidingen"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 49",
+      "originalQuote": "We schrappen de toets anderstalig onderwijs voor nieuwe opleidingen en houden het huidige anderstalige aanbod in stand."
+    },
+    {
+      "promiseCode": "JETTEN-2026-117",
+      "text": "Maximale rente voor studenten wordt vastgesteld op 2,5% en de uitwonende beurs gaat omhoog.",
+      "summary": "Studierente maximeren op 2,5% en uitwonende beurs verhogen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studierente",
+        "2,5%",
+        "uitwonende beurs"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 49",
+      "originalQuote": "De uitwonende beurs gaat omhoog, we maximeren de rente voor studenten op 2,5% en verbeteren de financiële positie van BBL-studenten."
+    },
+    {
+      "promiseCode": "JETTEN-2026-118",
+      "text": "Een wettelijke stagevergoeding wordt ingevoerd voor studenten.",
+      "summary": "Wettelijke stagevergoeding invoeren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijke stagevergoeding",
+        "studenten",
+        "stages"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 49",
+      "originalQuote": "Er komt een wettelijke stagevergoeding."
+    },
+    {
+      "promiseCode": "JETTEN-2026-119",
+      "text": "Omroepen gaan samenwerken in vier omroephuizen met daarnaast één apart omroephuis voor NOS/NTR.",
+      "summary": "NPO reorganiseren in vier omroephuizen plus NOS/NTR",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "omroephuizen",
+        "npo",
+        "nos",
+        "ntr",
+        "reorganisatie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 50",
+      "originalQuote": "De omroepen gaan samenwerken in vier omroephuizen met daarnaast één apart omroephuis voor NOS/NTR."
+    },
+    {
+      "promiseCode": "JETTEN-2026-120",
+      "text": "Bestuurstermijnen bij de NPO worden gemaximeerd op tweemaal 4 jaar en dubbelfuncties uitgesloten.",
+      "summary": "NPO-bestuurstermijnen maximeren op 2x4 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bestuurstermijnen",
+        "npo",
+        "dubbelfuncties",
+        "governance"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 50",
+      "originalQuote": "We vereenvoudigen de bestuurlijke inrichting door dubbelfuncties uit te sluiten en bestuurstermijnen te maximeren op tweemaal 4 jaar."
+    },
+    {
+      "promiseCode": "JETTEN-2026-121",
+      "text": "De wet loontransparantie wordt ingevoerd met voorkoming van onnodige administratieve lasten voor ondernemers.",
+      "summary": "Wet loontransparantie invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet loontransparantie",
+        "invoering",
+        "administratieve lasten"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 50",
+      "originalQuote": "De wet loontransparantie wordt ingevoerd, waarbij we onnodige administratieve lasten voor ondernemers voorkomen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-122",
+      "text": "Kinderen in het primair en voortgezet onderwijs krijgen gratis schoolfruit.",
+      "summary": "Gratis schoolfruit voor alle leerlingen in primair en voortgezet onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolfruit",
+        "primair onderwijs",
+        "voortgezet onderwijs",
+        "preventie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 53",
+      "originalQuote": "Kinderen in het primair en voortgezet onderwijs krijgen gratis schoolfruit."
+    },
+    {
+      "promiseCode": "JETTEN-2026-123",
+      "text": "De wet die kindermarketing reguleert wordt aangescherpt.",
+      "summary": "Aanscherping wet kindermarketing",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kindermarketing",
+        "wetgeving",
+        "aanscherping",
+        "preventie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 53",
+      "originalQuote": "We scherpen de wet die kindermarketing reguleert aan."
+    },
+    {
+      "promiseCode": "JETTEN-2026-124",
+      "text": "Het budget voor de BOSA wordt verhoogd voor renovatie en verduurzaming van sportaccommodaties.",
+      "summary": "Verhoging BOSA-budget voor sportaccommodaties",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bosa",
+        "sportaccommodaties",
+        "renovatie",
+        "verduurzaming"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 53",
+      "originalQuote": "We investeren in renovatie en verduurzaming van sportaccommodaties, bijvoorbeeld door het budget voor de BOSA te verhogen"
+    },
+    {
+      "promiseCode": "JETTEN-2026-125",
+      "text": "De minimale leeftijd voor de aanschaf van nicotine houdende producten wordt 21 jaar.",
+      "summary": "Minimumleeftijd nicotineproducten wordt 21 jaar",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nicotine",
+        "minimumleeftijd",
+        "21 jaar",
+        "rookvrije generatie"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 53",
+      "originalQuote": "wordt de minimale leeftijd voor de aanschaf van nicotine houdende producten 21 jaar"
+    },
+    {
+      "promiseCode": "JETTEN-2026-126",
+      "text": "Het in voorraad houden van illegale vapes wordt strafbaar en er wordt meer ingezet op handhaving.",
+      "summary": "Voorraad illegale vapes wordt strafbaar",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vapes",
+        "strafbaar",
+        "handhaving",
+        "illegaal"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 53",
+      "originalQuote": "wordt het in voorraad houden van illegale vapes strafbaar en wordt er meer ingezet op handhaving"
+    },
+    {
+      "promiseCode": "JETTEN-2026-127",
+      "text": "Het eigen risico wordt gehandhaafd en geïndexeerd en verhoogd met €60 per 2027, met een maximum van €150 per behandeling.",
+      "summary": "Eigen risico +€60 in 2027, max €150 per behandeling",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "60 euro",
+        "2027",
+        "150 euro",
+        "behandeling"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 54",
+      "originalQuote": "handhaven en indexeren we het huidige eigen risico en verhogen we het eigenrisico met €60 per 2027. We zorgen dat je nooit in een keer het hele eigen risico kwijt bent maar maximaal 150 euro per behandeling."
+    },
+    {
+      "promiseCode": "JETTEN-2026-128",
+      "text": "De vergoeding van niet-gecontracteerde zorg wordt afgeschaft, met een overgangsperiode.",
+      "summary": "Afschaffing vergoeding niet-gecontracteerde zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "niet-gecontracteerde zorg",
+        "afschaffing",
+        "vergoeding",
+        "overgangsperiode"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 54",
+      "originalQuote": "Bij het streven naar passende zorg, hoort ook het afschaffen van de vergoeding van niet-gecontracteerde zorg, met een overgangsperiode"
+    },
+    {
+      "promiseCode": "JETTEN-2026-129",
+      "text": "IT-projecten van de overheid boven €5 miljoen moeten aan centrale IT-standaarden worden getoetst voor financiering.",
+      "summary": "IT-projecten >€5 mln moeten aan centrale standaarden voldoen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "it-projecten",
+        "5 miljoen",
+        "centrale standaarden",
+        "toetsing"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 58",
+      "originalQuote": "Om voor financiering in aanmerking te komen moeten IT-projecten van de overheid (> €5 mln.) aan centrale IT-standaarden worden getoetst."
+    },
+    {
+      "promiseCode": "JETTEN-2026-130",
+      "text": "Er wordt een handhaafbare Europese minimumleeftijd van 15 jaar voor sociale media ingevoerd.",
+      "summary": "Minimumleeftijd 15 jaar voor sociale media",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale media",
+        "minimumleeftijd",
+        "15 jaar",
+        "handhaving"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 59",
+      "originalQuote": "Een handhaafbare Europese minimumleeftijd van 15 jaar voor sociale media"
+    },
+    {
+      "promiseCode": "JETTEN-2026-131",
+      "text": "Strafbare content moet binnen een uur na bevel van de toezichthouder worden verwijderd van online platforms.",
+      "summary": "Strafbare content binnen 1 uur verwijderen na bevel",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strafbare content",
+        "verwijderen",
+        "een uur",
+        "toezichthouder"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 59",
+      "originalQuote": "strafbare content moet binnen een uur na bevel van de toezichthouder worden verwijderd"
+    },
+    {
+      "promiseCode": "JETTEN-2026-132",
+      "text": "De mobieltjesrichtlijn voor scholen wordt aangescherpt: telefoons gaan de gehele schooldag 'thuis of in de kluis'.",
+      "summary": "Mobieltjes gehele schooldag thuis of in kluis",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mobieltjesrichtlijn",
+        "scholen",
+        "telefoons",
+        "kluis"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 60",
+      "originalQuote": "We scherpen de mobieltjesrichtlijn voor scholen aan. Telefoons gaan de gehele schooldag 'thuis of in de kluis'"
+    },
+    {
+      "promiseCode": "JETTEN-2026-133",
+      "text": "Er wordt een Taskforce zorgfraude opgericht bij de politie.",
+      "summary": "Oprichting Taskforce zorgfraude bij politie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taskforce",
+        "zorgfraude",
+        "politie",
+        "oprichting"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 56",
+      "originalQuote": "Er wordt een Taskforce zorgfraude opgericht bij de politie."
+    },
+    {
+      "promiseCode": "JETTEN-2026-134",
+      "text": "De onderhoudsopgave van bruggen, tunnels, spoorwegen en sluizen krijgt voorrang in de toewijzing van beschikbare middelen, waarbij onderhoud wordt gekoppeld aan verbeteringen in verkeersveiligheid en bereikbaarheid.",
+      "summary": "Voorrang onderhoud infrastructuur met koppeling aan verkeersveiligheid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infrastructuur",
+        "onderhoud",
+        "bruggen",
+        "tunnels",
+        "spoorwegen",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "Om heel Nederland veilig, bereikbaar en economisch sterk te houden zal de onderhoudsopgave de komende jaren voorrang krijgen in het toebedelen van beschikbare middelen. Daarbij benutten we de strategische kansen van dual-use met defensie, en wordt onderhoud waar mogelijk gekoppeld aan verbeteringen in verkeersveiligheid, regionale bereikbaarheid en doorstroming."
+    },
+    {
+      "promiseCode": "JETTEN-2026-135",
+      "text": "De 17 gepauzeerde weg-, vaar- en spoorprojecten worden weer op gang gebracht voor de aanpak van de woningbouwopgave en regionale bereikbaarheid.",
+      "summary": "Herstart 17 gepauzeerde infrastructuurprojecten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "infrastructuurprojecten",
+        "woningbouw",
+        "bereikbaarheid",
+        "wegprojecten",
+        "spoorprojecten"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "Daarnaast brengen we de 17 gepauzeerde weg-, vaar- en spoorprojecten weer op gang. Ook die zijn cruciaal voor aanpak van de woningbouwopgave en regionale bereikbaarheid."
+    },
+    {
+      "promiseCode": "JETTEN-2026-136",
+      "text": "De verbreding van de A27 bij Utrecht Lunetten wordt opgelost binnen de bestaande snelwegbak, met 1 miljard euro van het vrijkomende budget geïnvesteerd in andere prioritaire verkeersprojecten.",
+      "summary": "A27 verbreding binnen bestaande bak, 1 miljard voor andere projecten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "a27",
+        "verbreding",
+        "utrecht",
+        "snelweg",
+        "verkeersprojecten",
+        "investering"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "De voorgenomen verbreding van de A27 bij Utrecht Lunetten lossen we met de regio op binnen de bestaande snelwegbak, bij voorkeur binnen het bestaande Tracébesluit. Het vrijkomende budget investeren we deels in doorstroming van het verkeer in de regio Utrecht en voor ruim 1 miljard in andere grote (prioritaire) verkeersprojecten."
+    },
+    {
+      "promiseCode": "JETTEN-2026-137",
+      "text": "De verlaging van de brandstofaccijns voor benzine wordt verlengd en er komt onderzoek naar hervorming van de autobelasting naar oppervlakte of omvang binnen de mrb.",
+      "summary": "Verlenging brandstofaccijnsverlaging en onderzoek autobelasting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandstofaccijns",
+        "benzine",
+        "autobelasting",
+        "mrb",
+        "hervorming"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "We verlengen daarom de verlaging van de brandstofaccijns (benzine). Daarnaast onderzoeken we een toekomstbestendige hervorming van de autobelasting naar oppervlakte of omvang binnen de mrb, waarbij de voorwaarde is dat automobilisten er niet op achteruit mogen gaan."
+    },
+    {
+      "promiseCode": "JETTEN-2026-138",
+      "text": "Het Nationaal Toekomstbeeld Fiets wordt uitgevoerd en OV-knooppunten worden op de fiets bereikbaar gemaakt.",
+      "summary": "Uitvoering Nationaal Toekomstbeeld Fiets en fietsbare OV-knooppunten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fiets",
+        "toekomstbeeld",
+        "ov-knooppunten",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "Daarom voeren we het Nationaal Toekomstbeeld Fiets uit en zorgen dat OV-knooppunten op de fiets bereikbaar zijn."
+    },
+    {
+      "promiseCode": "JETTEN-2026-139",
+      "text": "Er komt een aparte voertuigcategorie voor fatbikes met minimumleeftijd en helmplicht, plus mogelijkheid voor gemeenten om fatbike-vrije zones in te voeren.",
+      "summary": "Aparte voertuigcategorie fatbikes met leeftijd en helmplicht",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fatbikes",
+        "voertuigcategorie",
+        "minimumleeftijd",
+        "helmplicht",
+        "gemeenten"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "Er komt een aparte voertuigcategorie voor fatbikes, waarmee we een minimumleeftijd en helmplicht en krijgen gemeenten de mogelijkheid fatbike-vrije zones in te voeren."
+    },
+    {
+      "promiseCode": "JETTEN-2026-140",
+      "text": "Zero-tolerancebeleid voor alcohol- en drugsgebruik in het verkeer met strenger handhaven, zwaarder straffen, alcoholslot en aangescherpt puntenrijbewijs.",
+      "summary": "Zero-tolerance alcohol en drugs verkeer met alcoholslot",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "alcohol",
+        "drugs",
+        "verkeer",
+        "alcoholslot",
+        "puntenrijbewijs",
+        "handhaving"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 61",
+      "originalQuote": "We voeren een zero-tolerancebeleid voor alcohol- en drugsgebruik in het verkeer. We gaan strenger handhaven, zwaarder straffen, voeren het alcoholslot in en scherpen het puntenrijbewijs aan."
+    },
+    {
+      "promiseCode": "JETTEN-2026-141",
+      "text": "Bodemwaarden per traject voor zitplaatskans, punctualiteit en algemeen klantoordeel bij NS-concessie tot 2033.",
+      "summary": "Bodemwaarden zitplaatskans, punctualiteit en klantoordeel NS",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ns",
+        "concessie",
+        "zitplaatskans",
+        "punctualiteit",
+        "klantoordeel",
+        "treinverkeer"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "Zo zetten we in op een bodemwaarde per traject voor zitplaatskans, punctualiteit en algemeen klantoordeel."
+    },
+    {
+      "promiseCode": "JETTEN-2026-142",
+      "text": "Het kabinet neemt uiterlijk begin 2027 een besluit over de Toekomstige Marktordening Spoor voor de periode na 2033.",
+      "summary": "Besluit Toekomstige Marktordening Spoor uiterlijk begin 2027",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "marktordening",
+        "spoor",
+        "concessie",
+        "besluitvorming"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "Voor de periode na 2033 zal het kabinet uiterlijk begin 2027 een besluit nemen over de Toekomstige Marktordening Spoor."
+    },
+    {
+      "promiseCode": "JETTEN-2026-143",
+      "text": "OV-boa's krijgen toegang tot vreemdelingenregister en strafrechtketendatabank, met uitrol van Rotterdamse RET-pilots voor samenwerking vervoerders en politie.",
+      "summary": "OV-boa's toegang registers en uitrol RET-pilots landelijk",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ov-boa",
+        "vreemdelingenregister",
+        "strafrechtketendatabank",
+        "ret-pilots"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "We stellen OV-boa's in staat om overlastgevers effectief aan te pakken. Hiervoor krijgen ze toegang tot het vreemdelingenregister en, onder voorwaarden, tot de strafrechtketendatabank. Ook worden de Rotterdamse RET-pilots landelijk uitgerold, waarin vervoerders en de politie veel intensiever gaan samenwerken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-144",
+      "text": "Zwartrijden wordt harder aangepakt door verhogen van boetes en versterken van handhaving en daadwerkelijke inning.",
+      "summary": "Harder aanpakken zwartrijden met hogere boetes en betere handhaving",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zwartrijden",
+        "boetes",
+        "handhaving",
+        "inning",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "Zwartrijden wordt harder aangepakt door het verhogen van boetes en het versterken van handhaving en daadwerkelijke inning."
+    },
+    {
+      "promiseCode": "JETTEN-2026-145",
+      "text": "Lelystad Airport wordt in gebruik genomen als luchtmachtbasis voor Defensie en voor civiel medegebruik met initieel 10.000 vliegbewegingen voor groothandelsverkeer.",
+      "summary": "Lelystad Airport voor defensie en 10.000 civiele vliegbewegingen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelystad airport",
+        "luchtmachtbasis",
+        "defensie",
+        "vliegbewegingen",
+        "groothandelsverkeer"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "Lelystad Airport wordt in gebruik genomen als luchtmachtbasis voor Defensie en voor civiel medegebruik. Daardoor kan Lelystad Airport tevens open voor groothandelsverkeer, met initieel 10.000 vliegbewegingen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-146",
+      "text": "Voor Schiphol wordt 478.000 vliegbewegingen vastgelegd, 50% stiller tussen 23.00-7.00 uur in 2030, nachtsluiting 00.00-05.00 uur, en 50 miljoen euro omgevingsfonds voor woningisolatie.",
+      "summary": "Schiphol 478.000 vliegbewegingen, 50% stiller nachts 2030, nachtsluiting",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schiphol",
+        "vliegbewegingen",
+        "geluidsoverlast",
+        "nachtsluiting",
+        "omgevingsfonds"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "Voor Schiphol wordt een omvang van 478.000 vliegbewegingen vastgelegd in het luchthavenverkeersbesluit. Om geluidsoverlast voor de omgeving terug te dringen komt er een nieuwe Balanced Approach procedure waarin we vastleggen dat Schiphol in 2030 tussen 23.00 en 7.00 uur 50% stiller wordt, ten opzichte van 2024. Daar wordt een nachtsluiting tussen 00.00u – 05.00u in meegenomen. Schiphol investeert 50 miljoen in een omgevingsfonds om woningen te isoleren."
+    },
+    {
+      "promiseCode": "JETTEN-2026-147",
+      "text": "De totale CO2-uitstoot van burgerluchtvaart op Schiphol en Lelystad Airport moet in 2030 lager zijn dan in 2024 op Schiphol.",
+      "summary": "CO2-uitstoot luchtvaart 2030 lager dan 2024 niveau Schiphol",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-uitstoot",
+        "burgerluchtvaart",
+        "schiphol",
+        "lelystad airport",
+        "klimaat"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 62",
+      "originalQuote": "De totale CO2 uitstoot van de burgerluchtvaart op Schiphol en Lelystad Airport moet in 2030 lager zijn dan in 2024 op Schiphol."
+    },
+    {
+      "promiseCode": "JETTEN-2026-148",
+      "text": "Uitvoering van het Actieprogramma beschikbaarheid drinkwaterbronnen om schoon drinkwater nu en in de toekomst te waarborgen.",
+      "summary": "Uitvoering Actieprogramma beschikbaarheid drinkwaterbronnen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drinkwater",
+        "actieprogramma",
+        "waterbronnen",
+        "beschikbaarheid"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 63",
+      "originalQuote": "We zorgen ervoor dat schoon drinkwater beschikbaar blijft, nu en in de toekomst. Dat doen we door uitvoering te geven aan het Actieprogramma beschikbaarheid drinkwaterbronnen."
+    },
+    {
+      "promiseCode": "JETTEN-2026-149",
+      "text": "Nederland wordt kartrekker voor een Europees verbod op PFAS en er wordt gekeken naar een lozingsverbod op korte termijn.",
+      "summary": "Nederland kartrekker Europees PFAS-verbod en lozingsverbod onderzoek",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pfas",
+        "verbod",
+        "europa",
+        "kartrekker",
+        "lozingsverbod"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 63",
+      "originalQuote": "Nederland wordt kartrekker voor een Europees verbod op PFAS. Ondertussen wordt samen met betrokken partijen gekeken naar manieren om de vraag naar PFAS-houdende producten bij consumenten terug te dringen en hen te helpen kiezen voor alternatieven zonder PFAS. We bezien of en hoe op korte termijn een lozingsverbod mogelijk is."
+    },
+    {
+      "promiseCode": "JETTEN-2026-150",
+      "text": "Bestaande lozingsvergunningen worden kritisch getoetst en waar nodig aangescherpt, nieuwe vergunningen alleen onder strikte voorwaarden.",
+      "summary": "Kritische toetsing lozingsvergunningen en striktere nieuwe vergunningen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lozingsvergunningen",
+        "milieuvervuiling",
+        "toetsing",
+        "voorwaarden"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 63",
+      "originalQuote": "Milieuvervuiling door zeer zorgwekkende stoffen wordt tegengegaan door bestaande lozingsvergunningen kritisch te toetsen en waar nodig aan te scherpen. Nieuwe lozingsvergunningen worden alleen afgegeven onder strikte voorwaarden en op basis van de best beschikbare technieken."
+    },
+    {
+      "promiseCode": "JETTEN-2026-151",
+      "text": "De begrotingsregels van de 18e Studiegroep Begrotingsruimte worden gevolgd met trendmatig begrotingsbeleid en scheiding van inkomsten en uitgaven.",
+      "summary": "Volgen begrotingsregels 18e Studiegroep met trendmatig beleid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "begrotingsregels",
+        "studiegroep",
+        "begrotingsbeleid",
+        "uitgavenkader"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 64",
+      "originalQuote": "De begrotingsregels worden gevolgd zoals voorgesteld door de 18e Studiegroep Begrotingsruimte en vastgelegd in de Wet houdbare overheidsfinanciën. Dat betekent dat een trendmatig begrotingsbeleid wordt gevoerd met onder andere een scheiding van inkomsten en uitgaven, een vooraf vastgesteld uitgaven- en inkomstenkader en één hoofdbesluitvormingsmoment in het voorjaar."
+    },
+    {
+      "promiseCode": "JETTEN-2026-152",
+      "text": "Er wordt een nationale Investeringsinstelling opgericht die op afstand van de politiek staat en zich richt op private co-investeringen met marktconforme rendementseisen.",
+      "summary": "Oprichting nationale Investeringsinstelling voor private co-investeringen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringsinstelling",
+        "private investeringen",
+        "kapitaalmarkt",
+        "rendement"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 65",
+      "originalQuote": "Om de Nederlandse kapitaalmarkt te versterken wordt een nationale Investeringsinstelling (NII) opgericht. De investeringsinstelling staat op afstand van de politiek, is gericht op private (co-)investeringen of leningen en verdringt privaat kapitaal niet."
+    },
+    {
+      "promiseCode": "JETTEN-2026-153",
+      "text": "De uitvoering van toeslagen wordt onder de SUWI gebracht zodat uitvoeringsinstanties gegevens kunnen uitwisselen en dienstverlening kan verbeteren.",
+      "summary": "Toeslagen uitvoering onder SUWI voor gegevensuitwisseling",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslagen",
+        "suwi",
+        "uitvoering",
+        "gegevensuitwisseling",
+        "dienstverlening"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 66",
+      "originalQuote": "De uitvoering van toeslagen onder de Wet structuur uitvoeringsorganisatie werk en inkomen (SUWI) brengen, zodat tussen uitvoeringsinstanties gegevens kunnen worden uitgewisseld en dienstverlening kan worden verbeterd."
+    },
+    {
+      "promiseCode": "JETTEN-2026-154",
+      "text": "De kinderbijslag en het kindgebonden budget worden samengevoegd in één kindregeling met een hoger vast en lager variabel bedrag.",
+      "summary": "Samenvoeging kinderbijslag en kindgebonden budget in één regeling",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebonden budget",
+        "kindregeling",
+        "samenvoeging"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 66",
+      "originalQuote": "De kinderbijslag en het kindgebonden budget samenvoegen in één-kindregeling met een hoger vast en lager variabel bedrag."
+    },
+    {
+      "promiseCode": "JETTEN-2026-155",
+      "text": "De Kinderopvangtoeslag wordt afgeschaft door directe financiering van kinderopvang.",
+      "summary": "Afschaffing Kinderopvangtoeslag door directe financiering",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvangtoeslag",
+        "afschaffing",
+        "directe financiering",
+        "kinderopvang"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 66",
+      "originalQuote": "Afschaffen Kinderopvangtoeslag door directe financiering."
+    },
+    {
+      "promiseCode": "JETTEN-2026-156",
+      "text": "Het kabinet komt voor het einde van 2026 met een hervormingsagenda met concrete mijlpalen voor herziening van het IB-stelsel en toeslagenstelsel.",
+      "summary": "Hervormingsagenda met mijlpalen voor einde 2026",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hervormingsagenda",
+        "mijlpalen",
+        "ib-stelsel",
+        "toeslagenstelsel"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 66",
+      "originalQuote": "Het kabinet komt voor het einde van 2026 met een hervormingsagenda met concrete mijlpalen in de tijd op verschillende onderdelen, beginnende met de herziening van het IB-stelsel en stappen in het stelsel van toeslagen, overige inkomensregelingen en sociale zekerheid."
+    },
+    {
+      "promiseCode": "JETTEN-2026-157",
+      "text": "Voor de duur van de afwikkeling van de kinderopvangtoeslagaffaire wordt een staatssecretaris benoemd om de hersteloperatie af te ronden.",
+      "summary": "Staatssecretaris benoemd voor afwikkeling kinderopvangtoeslagaffaire",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staatssecretaris",
+        "kinderopvangtoeslagaffaire",
+        "hersteloperatie",
+        "afwikkeling"
+      ],
+      "sourceRef": "Aan de slag — Bouwen aan een beter Nederland, p. 66",
+      "originalQuote": "Om de hersteloperatie rond de kinderopvangtoeslagaffaire zo spoedig mogelijk af te ronden, wordt voor de duur van de afwikkeling een staatssecretaris benoemd."
+    }
+  ]
+}

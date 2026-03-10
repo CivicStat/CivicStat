@@ -1,0 +1,1236 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "program": "Ruimte geven. Grenzen stellen",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "7493087aa26bc0c762cb96e9cf2f2a931abb4190696f26f6882aede98ef67823",
+  "totalPromises": 79,
+  "promises": [
+    {
+      "promiseCode": "VVD-2023-001",
+      "text": "Nederland moet tot het uiterste blijven gaan om Oekraïne te helpen winnen, zonder zelf actief in de gevechten betrokken te raken.",
+      "summary": "Maximale steun aan Oekraïne zonder directe militaire betrokkenheid",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Oekraïne",
+        "steun",
+        "militaire",
+        "betrokkenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 5",
+      "originalQuote": "We moeten tot het uiterste blijven gaan om Oekraïne te helpen winnen, zonder zelf actief in de gevechten betrokken te raken."
+    },
+    {
+      "promiseCode": "VVD-2023-002",
+      "text": "Nederland moet vastberaden doorgaan met het herstellen en versterken van de krijgsmacht om minder afhankelijk te zijn van Amerikaanse bescherming.",
+      "summary": "Krijgsmacht herstellen en versterken voor minder afhankelijkheid VS",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "krijgsmacht",
+        "defensie",
+        "afhankelijkheid",
+        "Amerika"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 5",
+      "originalQuote": "Dat betekent dat we vastberaden door moeten gaan met het herstellen en versterken van onze krijgsmacht."
+    },
+    {
+      "promiseCode": "VVD-2023-003",
+      "text": "De Europese buitengrens moet worden verstevigd om migratiestromen beter te beheersen.",
+      "summary": "Verstevigen Europese buitengrens tegen migratie",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Europese",
+        "buitengrens",
+        "migratie",
+        "beheersing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 6",
+      "originalQuote": "Het is ten eerste noodzakelijk dat de Europese buitengrens wordt verstevigd."
+    },
+    {
+      "promiseCode": "VVD-2023-004",
+      "text": "Nederland moet blijven aandringen op opvang van vluchtelingen in de regio, zoals ook voor Oekraïners is gedaan.",
+      "summary": "Opvang vluchtelingen in eigen regio stimuleren",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vluchtelingen",
+        "regionale",
+        "opvang",
+        "Oekraïne"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 6",
+      "originalQuote": "Ten tweede moet Nederland altijd blijven aandringen op opvang in de regio, zoals wij dat ook voor de Oekraïners hebben gedaan."
+    },
+    {
+      "promiseCode": "VVD-2023-005",
+      "text": "Nederland moet minder aantrekkelijk worden als eindbestemming voor mensen van buiten de regio door beleidsmaatregelen.",
+      "summary": "Nederland minder aantrekkelijk maken voor migranten buiten regio",
+      "theme": "MIGRATIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "eindbestemming",
+        "aantrekkelijkheid",
+        "migranten",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 6",
+      "originalQuote": "Ten derde moet Nederland minder aantrekkelijk worden als eindbestemming voor mensen van buiten onze regio."
+    },
+    {
+      "promiseCode": "VVD-2023-006",
+      "text": "Er moet grip komen op arbeidsmigratie waarbij Nederland kiest voor degenen die we nodig hebben, in plaats van ongeremde toestroom.",
+      "summary": "Selectieve arbeidsmigratie met strengere voorwaarden",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmigratie",
+        "selectie",
+        "voorwaarden",
+        "beheersing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 6",
+      "originalQuote": "Er is grip nodig op arbeidsmigratie waarbij we kiezen voor degenen die we nodig hebben."
+    },
+    {
+      "promiseCode": "VVD-2023-007",
+      "text": "Nederland moet in 2050 klimaatneutraal zijn en voorbereid zijn op klimaatverandering en de gevolgen daarvan.",
+      "summary": "Klimaatneutraliteit in 2050 en voorbereiding op klimaatverandering",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "2050",
+        "klimaatverandering",
+        "voorbereiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 7",
+      "originalQuote": "We willen in 2050 klimaatneutraal leven en ons voorbereid hebben op klimaatverandering en de gevolgen daarvan."
+    },
+    {
+      "promiseCode": "VVD-2023-008",
+      "text": "Nederland moet een meer assertieve en slimme industriepolitiek voeren voor sectoren van grote toegevoegde waarde zoals bouw, maakindustrie en voedselproductie.",
+      "summary": "Assertieve industriepolitiek voor strategische sectoren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "industriepolitiek",
+        "bouw",
+        "maakindustrie",
+        "voedselproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 7",
+      "originalQuote": "Het is cruciaal om een meer assertieve en slimme industriepolitiek te gaan voeren voor de sectoren die van grote toegevoegde waarde zijn voor Nederland"
+    },
+    {
+      "promiseCode": "VVD-2023-009",
+      "text": "De overheid moet intensiever en gerichter met kennisinstellingen en bedrijven werken aan technologische innovatie voor zorg, mobiliteit en veiligheid.",
+      "summary": "Intensievere samenwerking overheid-bedrijfsleven voor technologie-innovatie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "technologie",
+        "innovatie",
+        "kennisinstellingen",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 8",
+      "originalQuote": "de overheid naast meer aandacht in het onderwijs, intensiever en gerichter met kennisinstellingen en bedrijven moet werken aan bijvoorbeeld de toekomst van de zorg, de mobiliteit en onze veiligheid"
+    },
+    {
+      "promiseCode": "VVD-2023-010",
+      "text": "We schaffen de asielvergunningen voor onbepaalde tijd af, hiermee worden asielvergunningen tijdelijk. Asielvergunningen voor vluchtelingen krijgen een duur van drie jaar, die voor zogenaamde subsidiair-beschermden één jaar.",
+      "summary": "Afschaffen onbepaalde asielvergunningen, drie jaar voor vluchtelingen, één jaar subsidiair",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielvergunningen",
+        "tijdelijk",
+        "drie jaar",
+        "subsidiair-beschermden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 11",
+      "originalQuote": "We schaffen de asielvergunningen voor onbepaalde tijd af, hiermee worden asielvergunningen tijdelijk. Asielvergunningen voor vluchtelingen krijgen een duur van drie jaar, die voor zogenaamde subsidiair-beschermden één jaar."
+    },
+    {
+      "promiseCode": "VVD-2023-011",
+      "text": "Het jaarlijks hervestigingsquotum blijft in eerste instantie op maximaal 500.",
+      "summary": "Hervestigingsquotum maximaal 500 per jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hervestigingsquotum",
+        "maximaal",
+        "vijfhonderd"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 13",
+      "originalQuote": "Het jaarlijks hervestigingsquotum blijft in eerste instantie op maximaal 500."
+    },
+    {
+      "promiseCode": "VVD-2023-012",
+      "text": "We leggen wettelijk vast dat we 2% van ons bbp investeren in defensie.",
+      "summary": "Wettelijk vastleggen 2% BBP voor defensie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijk",
+        "twee procent",
+        "BBP",
+        "defensie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 16",
+      "originalQuote": "We leggen wettelijk vast dat we 2% van ons bbp investeren in defensie."
+    },
+    {
+      "promiseCode": "VVD-2023-013",
+      "text": "We verlengen de termijn om het Nederlanderschap te verkrijgen naar tien jaar en voor zogenaamde subsidiair-beschermden naar twaalf jaar. We verhogen het vereiste taalniveau voor naturalisatie naar B1.",
+      "summary": "Naturalisatie na 10 jaar, subsidiair na 12 jaar, taalniveau B1",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "tien jaar",
+        "twaalf jaar",
+        "taalniveau",
+        "B1"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 15",
+      "originalQuote": "We verlengen de termijn om het Nederlanderschap te verkrijgen naar tien jaar en voor zogenaamde subsidiair-beschermden naar twaalf jaar. We verhogen het vereiste taalniveau voor naturalisatie naar B1."
+    },
+    {
+      "promiseCode": "VVD-2023-014",
+      "text": "Er komen sectorplannen voor tekortsectoren om statushouders voor deze banen op te leiden. Het gaat dan om sectoren als de zorg, de horeca en de bouw.",
+      "summary": "Sectorplannen voor statushouders in zorg, horeca en bouw",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sectorplannen",
+        "statushouders",
+        "zorg",
+        "horeca",
+        "bouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 15",
+      "originalQuote": "Er komen sectorplannen voor tekortsectoren om statushouders voor deze banen op te leiden. Het gaat dan om sectoren als de zorg, de horeca en de bouw."
+    },
+    {
+      "promiseCode": "VVD-2023-015",
+      "text": "We voeren een apart stelsel van sociale zekerheid in voor arbeidsmigranten van buiten de EU. De verzekering die zij door hier te werken opbouwen, kunnen ze meenemen naar hun land van herkomst.",
+      "summary": "Apart socialezekerheidsstelsel voor non-EU arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale zekerheid",
+        "arbeidsmigranten",
+        "non-EU",
+        "verzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 14",
+      "originalQuote": "We voeren een apart stelsel van sociale zekerheid in voor arbeidsmigranten van buiten de EU. De verzekering die zij door hier te werken opbouwen, kunnen ze meenemen naar hun land van herkomst om zo terugkeer aantrekkelijker te maken."
+    },
+    {
+      "promiseCode": "VVD-2023-016",
+      "text": "Instellingen moeten daarom een numerus fixus kunnen opleggen op het aantal internationale studenten. Om de instroom te remmen komt er een ondergrens aan het instellingscollegegeld voor niet-EER-studenten.",
+      "summary": "Numerus fixus internationale studenten, ondergrens collegegeld non-EER",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "numerus fixus",
+        "internationale studenten",
+        "collegegeld",
+        "non-EER"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 15",
+      "originalQuote": "Instellingen moeten daarom een numerus fixus kunnen opleggen op het aantal internationale studenten. Om de instroom te remmen komt er een ondergrens aan het instellingscollegegeld voor niet-EER-studenten."
+    },
+    {
+      "promiseCode": "VVD-2023-017",
+      "text": "Bacheloronderwijs is Nederlandstalig, tenzij Engelstalig onderwijs nodig is voor de arbeidsmarkt.",
+      "summary": "Bacheloronderwijs Nederlandstalig, behalve bij arbeidsmarktnood",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bacheloronderwijs",
+        "Nederlandstalig",
+        "Engelstalig",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 15",
+      "originalQuote": "Bacheloronderwijs is Nederlandstalig, tenzij Engelstalig onderwijs nodig is voor de arbeidsmarkt."
+    },
+    {
+      "promiseCode": "VVD-2023-018",
+      "text": "We beschermen vrouwen door het invoeren van een strafbaarstelling voor het uitvoeren van maagdenvlieshersteloperaties.",
+      "summary": "Strafbaarstelling maagdenvlieshersteloperaties",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strafbaarstelling",
+        "maagdenvlieshersteloperaties",
+        "vrouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 16",
+      "originalQuote": "We beschermen vrouwen door het invoeren van een strafbaarstelling voor het uitvoeren van maagdenvlieshersteloperaties."
+    },
+    {
+      "promiseCode": "VVD-2023-019",
+      "text": "Het versterkt aanbieden van gebedsoproepen in de openbare ruimte wordt beperkt.",
+      "summary": "Beperking versterkte gebedsoproep openbare ruimte",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gebedsoproepen",
+        "openbare ruimte",
+        "versterkt",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 16",
+      "originalQuote": "Het versterkt aanbieden van gebedsoproepen in de openbare ruimte wordt beperkt."
+    },
+    {
+      "promiseCode": "VVD-2023-020",
+      "text": "Illegaal verblijf wordt strafbaar gesteld. Faciliteren van illegaal verblijf door gemeenten wordt verboden.",
+      "summary": "Strafbaarstelling illegaal verblijf, verbod facilitering door gemeenten",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "illegaal verblijf",
+        "strafbaar",
+        "gemeenten",
+        "facilitering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 12",
+      "originalQuote": "Illegaal verblijf wordt strafbaar gesteld. Faciliteren van illegaal verblijf door gemeenten wordt verboden."
+    },
+    {
+      "promiseCode": "VVD-2023-021",
+      "text": "We komen tot een bestuursrechtelijk verbod voor malafide uitzendondernemers die herhaaldelijk zijn bestraft.",
+      "summary": "Bestuursrechtelijk verbod malafide uitzendbureaus",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestuursrechtelijk verbod",
+        "malafide",
+        "uitzendbureaus",
+        "herhaaldelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 14",
+      "originalQuote": "Daarom komt er een bestuursrechtelijk verbod voor malafide uitzendondernemers die herhaaldelijk zijn bestraft."
+    },
+    {
+      "promiseCode": "VVD-2023-022",
+      "text": "Nederland legt wettelijk vast dat 2% van het bbp wordt geïnvesteerd in defensie om zekerheid te bieden en te voorkomen dat er direct op defensie bezuinigd wordt als de wereld veiliger lijkt.",
+      "summary": "Wettelijke vastlegging 2% bbp investering in defensie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "investering",
+        "bbp",
+        "wettelijke",
+        "vastlegging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "We leggen wettelijk vast dat we 2% van ons bbp investeren in defensie."
+    },
+    {
+      "promiseCode": "VVD-2023-023",
+      "text": "Investeren in munitievoorraden, medische en logistieke ondersteuning, ICT, luchtverdediging, beveiliging van infrastructuur op zee en tanks om de inzetbaarheid voor grootschalige oorlog te verhogen.",
+      "summary": "Investeren in militaire capaciteiten voor grootschalige oorlog",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "munitie",
+        "luchtverdediging",
+        "infrastructuur",
+        "tanks",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "We verhogen de inzetbaarheid voor een grootschalige oorlog door te investeren in munitievoorraden, medische en logistieke ondersteuning en ICT. Daarnaast investeren we in de luchtverdediging, beveiliging van infrastructuur op zee, en de capaciteiten die de NAVO met prioriteit van ons vraagt, in het bijzonder tanks."
+    },
+    {
+      "promiseCode": "VVD-2023-024",
+      "text": "Defensie legt met alle jongeren contact door hen een enquête in te laten vullen volgens het Zweedse model, met mogelijkheid tot vrijwillige dienst voor geschikte jongeren.",
+      "summary": "Moderne diensttijd met enquête voor alle jongeren naar Zweeds model",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diensttijd",
+        "jongeren",
+        "enquête",
+        "Zweeds",
+        "model"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "We willen dat Defensie met alle jongeren contact legt door hen een enquête van defensie in te laten vullen, geïnspireerd op het Zweedse model."
+    },
+    {
+      "promiseCode": "VVD-2023-025",
+      "text": "Nederland krijgt op zo kort mogelijke termijn beschikking over een nationale cloud op Nederlandse bodem onder Nederlandse jurisdictie, bij voorkeur ontworpen en beheerd door Nederlandse bedrijven.",
+      "summary": "Nationale cloud op Nederlandse bodem voor defensiedata",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cloud",
+        "Nederlandse",
+        "bodem",
+        "jurisdictie",
+        "defensiedata"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "Om onze defensiedata zo veilig mogelijk te houden, moet Nederland op een zo kort mogelijke termijn beschikken over een nationale cloud op Nederlandse bodem onder Nederlandse jurisdictie, die bij voorkeur wordt ontworpen en beheerd door Nederlandse bedrijven."
+    },
+    {
+      "promiseCode": "VVD-2023-026",
+      "text": "Voor het wapenexportbeleid aansluiten bij Europese bondgenoten en defensiebedrijven die investeren zekerheid bieden over langjarige afname.",
+      "summary": "Wapenexportbeleid afstemmen met EU en langjarige afnamezekerheid bieden",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wapenexport",
+        "Europese",
+        "bondgenoten",
+        "afname",
+        "zekerheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "Daarom sluiten we voor het wapenexportbeleid aan bij Europese bondgenoten, bieden we defensiebedrijven die hier investeren zekerheid over langjarige afname"
+    },
+    {
+      "promiseCode": "VVD-2023-027",
+      "text": "In de nieuwe Nota Ruimte worden de ruimtevragen van Defensie verankerd om meer fysieke en milieuruimte te krijgen voor opslag, bouw en oefeningen.",
+      "summary": "Defensie ruimtevragen verankeren in nieuwe Nota Ruimte",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Nota",
+        "Ruimte",
+        "defensie",
+        "verankering",
+        "ruimtevragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "In de nieuwe Nota Ruimte moeten de ruimtevragen van Defensie verankerd worden."
+    },
+    {
+      "promiseCode": "VVD-2023-028",
+      "text": "Er komt een permanente regeling om smartengeld voor veteranen altijd onbelast te laten zijn.",
+      "summary": "Permanente regeling voor onbelast smartengeld veteranen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "smartengeld",
+        "veteranen",
+        "onbelast",
+        "permanente",
+        "regeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 17",
+      "originalQuote": "Er komt ook een permanente regeling om smartengeld voor veteranen altijd onbelast te laten zijn."
+    },
+    {
+      "promiseCode": "VVD-2023-029",
+      "text": "Een versterkte Nationale Veiligheidsraad stelt een lijst op van landen die volgens veiligheidsdiensten een bedreiging vormen, gevolgd door concrete maatregelen zoals screening en registratieplichten.",
+      "summary": "Nationale Veiligheidsraad stelt lijst bedreigende landen op",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Veiligheidsraad",
+        "lijst",
+        "bedreigende",
+        "landen",
+        "screening"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 18",
+      "originalQuote": "Een versterkte Nationale Veiligheidsraad stelt een lijst op van landen die volgens de veiligheidsdiensten een bedreiging vormen."
+    },
+    {
+      "promiseCode": "VVD-2023-030",
+      "text": "Afschaffen van het vetorecht op buitenlandbeleid in de EU, met name voor sanctiebeleid om de EU als geopolitieke speler te versterken.",
+      "summary": "Afschaffen EU-veto op buitenlandbeleid en sancties",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veto",
+        "buitenlandbeleid",
+        "sancties",
+        "EU",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 19",
+      "originalQuote": "We willen het vetorecht op buitenlandbeleid afschaffen. Met name voor sanctiebeleid"
+    },
+    {
+      "promiseCode": "VVD-2023-031",
+      "text": "De Nationale Politie versterken met extra digitale wijkagenten, cyberexperts, rechercheurs en vrijwilligers, uitgerust met stroomstootwapens en bodycams.",
+      "summary": "Uitbreiding politie met digitale wijkagenten en nieuwe uitrusting",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politie",
+        "wijkagenten",
+        "cyberexperts",
+        "stroomstootwapens",
+        "bodycams"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 22",
+      "originalQuote": "We willen de Nationale Politie versterken met extra (digitale) wijkagenten, cyberexperts, (specialistische) (wijk)rechercheurs en (specialistische) vrijwilligers. We zorgen dat de politie het beste materieel heeft en passende arbeidsvoorwaarden, en uitgerust wordt met stroomstootwapens en bodycams."
+    },
+    {
+      "promiseCode": "VVD-2023-032",
+      "text": "Politiemedewerkers die werken aan ondermijningszaken kunnen ervoor kiezen om te werken onder een nummer dat alleen door een rechter herleidbaar is.",
+      "summary": "Politie kan werken onder nummer bij ondermijningszaken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politie",
+        "nummer",
+        "ondermijning",
+        "rechter",
+        "herleidbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 22",
+      "originalQuote": "Om hun veiligheid te garanderen kunnen politiemedewerkers die werken aan ondermijningszaken ervoor kiezen om te werken onder een nummer. Dit nummer is alleen herleidbaar voor een rechter."
+    },
+    {
+      "promiseCode": "VVD-2023-033",
+      "text": "Er komen in beperkte gevallen minimumstraffen voor zware misdrijven en maximumstraffen voor drugsgerelateerde delicten worden fors verhoogd.",
+      "summary": "Minimumstraffen zware misdrijven en hogere drugstraffen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumstraffen",
+        "maximumstraffen",
+        "drugs",
+        "misdrijven",
+        "verhogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 22",
+      "originalQuote": "Er komen in beperkte gevallen minimumstraffen voor zware misdrijven. Ook de maximumstraffen voor zware drugsgerelateerde delicten worden fors verhoogd."
+    },
+    {
+      "promiseCode": "VVD-2023-034",
+      "text": "De verjaringstermijn bij tenuitvoerlegging van straffen wordt afgeschaft.",
+      "summary": "Afschaffing verjaringstermijn bij tenuitvoerlegging straffen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verjaring",
+        "tenuitvoerlegging",
+        "straffen",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 22",
+      "originalQuote": "Daarnaast wordt de verjaringstermijn bij de tenuitvoerlegging van straffen afgeschaft."
+    },
+    {
+      "promiseCode": "VVD-2023-035",
+      "text": "Maximale beperking van contact met buitenwereld wordt wettelijk uitgangspunt voor gevangenisregime Extra Beveiligde Inrichting, met beperking aantal advocaten tot maximaal twee.",
+      "summary": "Beperking buitenwereldcontact EBI met maximum twee advocaten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "EBI",
+        "buitenwereld",
+        "advocaten",
+        "maximum",
+        "twee"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 23",
+      "originalQuote": "Maximale beperking van contact met de buitenwereld wordt het wettelijk uitgangspunt voor het gevangenisregime van een Extra Beveiligde Inrichting. Het aantal toegestane advocaten wordt beperkt tot maximaal twee."
+    },
+    {
+      "promiseCode": "VVD-2023-036",
+      "text": "Ontsnappen uit gevangenis wordt als zelfstandig feit strafbaar gesteld, net als het doorknippen van een enkelband.",
+      "summary": "Strafbaarstelling ontsnapping gevangenis en doorknippen enkelband",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontsnapping",
+        "gevangenis",
+        "strafbaar",
+        "enkelband",
+        "doorknippen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 23",
+      "originalQuote": "Ook wordt ontsnappen uit de gevangenis als een zelfstandig feit strafbaar gesteld, net als het doorknippen van een enkelband."
+    },
+    {
+      "promiseCode": "VVD-2023-037",
+      "text": "Verzekerd slachtofferrecht wordt ingevoerd zodat slachtoffers sneller verzekeraars kunnen aanspreken en het Schadefonds Geweldsmisdrijven krijgt een grotere rol aan de voorkant.",
+      "summary": "Invoering verzekerd slachtofferrecht en uitbreiding Schadefonds",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "slachtofferrecht",
+        "verzekerd",
+        "Schadefonds",
+        "Geweldsmisdrijven",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 24",
+      "originalQuote": "Daarom voeren we verzekerd slachtofferrecht in. Hierdoor kunnen slachtoffers sneller verzekeraars aanspreken. Ook krijgt het Schadefonds Geweldsmisdrijven een grotere rol aan de voorkant"
+    },
+    {
+      "promiseCode": "VVD-2023-038",
+      "text": "De Wet affectieschade wordt aangepast zodat broers en zussen ook aanspraak kunnen maken op affectieschade.",
+      "summary": "Uitbreiding Wet affectieschade naar broers en zussen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "affectieschade",
+        "broers",
+        "zussen",
+        "aanpassing",
+        "wet"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 24",
+      "originalQuote": "De Wet affectieschade wordt aangepast zodat broers en zussen ook aanspraak kunnen maken op affectieschade."
+    },
+    {
+      "promiseCode": "VVD-2023-039",
+      "text": "Er wordt een aangifteplicht ingevoerd voor iedereen behalve slachtoffers en hulpverleners die kennis heeft over het plegen van mensenhandel.",
+      "summary": "Aangifteplicht mensenhandel voor iedereen behalve slachtoffers",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aangifteplicht",
+        "mensenhandel",
+        "slachtoffers",
+        "hulpverleners",
+        "kennis"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 25",
+      "originalQuote": "Ook komt er een aangifteplicht voor iedereen (behalve slachtoffers en hulpverleners) die kennis heeft over het plegen van mensenhandel."
+    },
+    {
+      "promiseCode": "VVD-2023-040",
+      "text": "Voor tekortberoepen wordt het lesgeld in het mbo afgeschaft en het collegegeld in het hoger onderwijs verlaagd. Ook wordt de hoogte van het collegegeld voor een tweede opleiding begrensd.",
+      "summary": "Afschaffing mbo-lesgeld en verlaging collegegeld voor tekortberoepen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tekortberoepen",
+        "lesgeld",
+        "collegegeld",
+        "mbo",
+        "hoger onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 34",
+      "originalQuote": "Voor tekortberoepen schaffen we het lesgeld in het mbo af en verlagen we het collegegeld in het hoger onderwijs. Ook begrenzen we de hoogte van het collegegeld voor een tweede opleiding."
+    },
+    {
+      "promiseCode": "VVD-2023-041",
+      "text": "Er wordt een BBL-offensief gestart om 35% van alle mbo'ers op te leiden op de werkvloer. Ook wordt duaal studeren in het hbo gestimuleerd door verhoging van de subsidie en deels bekostigen van bedrijfsscholen.",
+      "summary": "BBL-offensief: 35% van mbo'ers opleiden op werkvloer",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BBL",
+        "mbo",
+        "werkvloer",
+        "duaal studeren",
+        "bedrijfsscholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 35",
+      "originalQuote": "Daarom starten we een BBL-offensief om 35% van alle mbo'ers op te leiden op de werkvloer en stimuleren we duaal studeren in het hbo."
+    },
+    {
+      "promiseCode": "VVD-2023-042",
+      "text": "Decentrale loting wordt stopgezet omdat selectie aan de poort rechtvaardiger wordt geacht. Instellingen moeten selectiecriteria beter onderbouwen.",
+      "summary": "Stoppen met decentrale loting, selectie aan de poort",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "decentrale loting",
+        "selectie",
+        "selectiecriteria",
+        "instellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 34",
+      "originalQuote": "We stoppen met decentrale loting, omdat selectie aan de poort rechtvaardiger is dan loten. Wel moeten instellingen de selectiecriteria beter onderbouwen."
+    },
+    {
+      "promiseCode": "VVD-2023-043",
+      "text": "Er komt een periodieke arbeidsmarkttoets in het hoger beroepsonderwijs. Beroepsopleidingen met weinig baankansen krijgen een numerus fixus of worden gestopt.",
+      "summary": "Arbeidsmarkttoets hbo en numerus fixus voor opleidingen zonder baankansen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmarkttoets",
+        "hoger beroepsonderwijs",
+        "numerus fixus",
+        "baankansen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 34-35",
+      "originalQuote": "Er komt een periodieke arbeidsmarkttoets in het hoger beroepsonderwijs. Beroepsopleidingen in het mbo en hbo met weinig kans op een baan krijgen een numerus fixus of zetten we stop."
+    },
+    {
+      "promiseCode": "VVD-2023-044",
+      "text": "In elke gemeente komt een bibliotheekvoorziening. De bibliotheek fungeert als ontmoetingsplek en plek voor lees- en digitale vaardigheden.",
+      "summary": "Bibliotheekvoorziening in elke gemeente",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheek",
+        "gemeente",
+        "leesvaardigheden",
+        "digitale vaardigheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 35",
+      "originalQuote": "Er komt een bibliotheekvoorziening in elke gemeente. De bibliotheek is ontmoetingsplek voor jong en oud, en een belangrijke plek om leesvaardigheden en digitale vaardigheden op te doen."
+    },
+    {
+      "promiseCode": "VVD-2023-045",
+      "text": "Tussenhandelaren bij ticketverkoop mogen maximaal een vastgesteld percentage op de vraagprijs verdienen om woekerhandel tegen te gaan.",
+      "summary": "Maximumpercentage voor tussenhandelaren bij ticketverkoop",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ticketverkoop",
+        "tussenhandelaren",
+        "maximumpercentage",
+        "woekerhandel"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 36",
+      "originalQuote": "Voortaan mogen tussenhandelaren een maximumpercentage op de vraagprijs verdienen."
+    },
+    {
+      "promiseCode": "VVD-2023-046",
+      "text": "De werkgeverslasten worden verlaagd zodat het meer loont om personeel in dienst te nemen. Er wordt een ondernemersakkoord gesloten met ondernemers.",
+      "summary": "Verlaging werkgeverslasten en ondernemersakkoord",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkgeverslasten",
+        "personeel",
+        "ondernemersakkoord",
+        "vestigingsklimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 38",
+      "originalQuote": "We verlagen de werkgeverslasten, zodat het meer loont om personeel in dienst te nemen. We sluiten samen met ondernemers een ondernemersakkoord, gericht op ons verdienvermogen."
+    },
+    {
+      "promiseCode": "VVD-2023-047",
+      "text": "Nederland richt net zoals het Verenigd Koninkrijk een mkb-bank op door efficiënter vormgeven van huidige instituties.",
+      "summary": "Oprichting mkb-bank naar model Verenigd Koninkrijk",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mkb-bank",
+        "financiering",
+        "ondernemers",
+        "instituties"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 38",
+      "originalQuote": "Tevens wil de VVD dat Nederland net zoals het Verenigd Koninkrijk een mkb-bank opricht. Die bestaat uit het efficiënter vormgeven van huidige instituties."
+    },
+    {
+      "promiseCode": "VVD-2023-048",
+      "text": "Er komt een meetbaar doel om regelgeving te verminderen. Ministeries gaan ondernemers benaderen voor deelname aan de mkb-toets.",
+      "summary": "Meetbaar doel regeldrukvermindering en actieve mkb-toets",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regelgeving",
+        "mkb-toets",
+        "ministeries",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 38",
+      "originalQuote": "We komen met een meetbaar doel om regelgeving te verminderen."
+    },
+    {
+      "promiseCode": "VVD-2023-049",
+      "text": "Er komt een gerichte hardheidsclausule voor ondernemers die met gegronde reden niet kunnen voldoen aan voorwaarden van zero-emissiezones.",
+      "summary": "Hardheidsclausule zero-emissiezones voor ondernemers",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zero-emissiezones",
+        "hardheidsclausule",
+        "ondernemers",
+        "voorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 39",
+      "originalQuote": "Er komt een gerichte hardheidsclausule voor ondernemers die met een gegronde reden niet kunnen voldoen aan de voorwaarden van de zero-emissiezones."
+    },
+    {
+      "promiseCode": "VVD-2023-050",
+      "text": "Voor ondernemers wordt het mogelijk om ter plaatse aangifte te doen van winkeldiefstal om de tijdsbelasting te verminderen.",
+      "summary": "Ter plaatse aangifte mogelijk maken voor winkeldiefstal",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aangifte",
+        "winkeldiefstal",
+        "ondernemers",
+        "ter plaatse"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 39",
+      "originalQuote": "Daarom maken we het mogelijk voor ondernemers om ter plaatse aangifte te doen van winkeldiefstal."
+    },
+    {
+      "promiseCode": "VVD-2023-051",
+      "text": "Er wordt een landelijk mkb-keurmerk ingevoerd voor IT-leveranciers om ondernemers weerbaarder te maken tegen cybercrime zoals ransomware.",
+      "summary": "Landelijk mkb-keurmerk voor IT-leveranciers tegen cybercrime",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mkb-keurmerk",
+        "IT-leveranciers",
+        "cybercrime",
+        "ransomware"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 39",
+      "originalQuote": "voeren we een landelijk mkb-keurmerk in voor IT-leveranciers"
+    },
+    {
+      "promiseCode": "VVD-2023-052",
+      "text": "Failliete ondernemers worden een jaar lang uitgezonderd van de vermogenstoets in de bijstand zodat zij gebruik kunnen maken van het sociale vangnet.",
+      "summary": "Uitzondering vermogenstoets bijstand voor failliete ondernemers",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "failliete ondernemers",
+        "vermogenstoets",
+        "bijstand",
+        "sociale vangnet"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 39",
+      "originalQuote": "We willen ondernemers die failliet zijn gegaan een jaar lang uitzonderen van de vermogenstoets in de bijstand"
+    },
+    {
+      "promiseCode": "VVD-2023-053",
+      "text": "De belasting op werk wordt verlaagd zodat middengroepen er meer op vooruitgaan en het loont om meer te werken. De werkkostenregeling wordt verruimd.",
+      "summary": "Verlaging belasting op werk en verruiming werkkostenregeling",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belasting",
+        "werk",
+        "middengroepen",
+        "werkkostenregeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 41-42",
+      "originalQuote": "Daarom willen we de belasting op werk verlagen, zodat middengroepen er meer op vooruit gaan en het loont om (meer) te gaan werken. We verruimen de werkkostenregeling"
+    },
+    {
+      "promiseCode": "VVD-2023-054",
+      "text": "De kinderopvangtoeslag wordt op termijn afgeschaft en hervormd naar bijna gratis kinderopvang voor werkenden.",
+      "summary": "Afschaffing kinderopvangtoeslag, bijna gratis opvang voor werkenden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderopvangtoeslag",
+        "kinderopvang",
+        "werkenden",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 41-42",
+      "originalQuote": "We hervormen de kinderopvangtoeslag naar bijna gratis kinderopvang voor werkenden."
+    },
+    {
+      "promiseCode": "VVD-2023-055",
+      "text": "De accijnzen op benzine worden verlaagd zodat autorijden betaalbaar blijft. De belastingvrije reiskostenvergoeding wordt standaard geïndexeerd.",
+      "summary": "Verlaging benzineaccijns en indexering reiskostenvergoeding",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "accijnzen",
+        "benzine",
+        "reiskostenvergoeding",
+        "indexering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 42",
+      "originalQuote": "Ook verlagen we de accijnzen op benzine, zodat autorijden betaalbaar blijft."
+    },
+    {
+      "promiseCode": "VVD-2023-056",
+      "text": "De energiebelasting wordt verlaagd omdat deze tot een van de hoogste van Europa behoort terwijl de rekeningen al hoog zijn.",
+      "summary": "Verlaging energiebelasting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiebelasting",
+        "energierekening",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 42",
+      "originalQuote": "Wij willen de belasting op de energierekening verlagen."
+    },
+    {
+      "promiseCode": "VVD-2023-057",
+      "text": "De stijging van de ozb die gemeenten kunnen doorvoeren wordt gemaximeerd. De hypotheekrenteaftrek blijft in stand en de stijging van huren wordt geremd.",
+      "summary": "Maximering ozb-stijging, behoud hypotheekrenteaftrek, remming huurstijging",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "hypotheekrenteaftrek",
+        "huren",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 42",
+      "originalQuote": "We maximeren de stijging van de ozb die gemeenten kunnen doorvoeren, laten de hypotheekrenteaftrek in stand en remmen de stijging van de huren."
+    },
+    {
+      "promiseCode": "VVD-2023-058",
+      "text": "Landelijke aanpak tegen agressie in de zorg invoeren. Taakstrafverbod instellen voor mensen die geweld plegen tegen zorgverleners. Zorgverleners moeten behandelrelatie bij geweld gemakkelijker kunnen beëindigen.",
+      "summary": "Landelijke aanpak agressie zorg, taakstrafverbod geweld zorgverleners",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "agressie",
+        "zorg",
+        "taakstrafverbod",
+        "geweld",
+        "zorgverleners"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 67",
+      "originalQuote": "We willen een landelijke aanpak tegen agressie in de zorg. We willen een taakstrafverbod voor mensen die geweld plegen tegen zorgverleners. Zorgverleners moeten de behandelrelatie met iemand makkelijker kunnen stoppen wanneer er sprake is van geweld"
+    },
+    {
+      "promiseCode": "VVD-2023-059",
+      "text": "Medisch-specialisten in loondienst laten gaan als zij hun verantwoordelijkheid in het werken aan passende zorg en het aanpakken van perverse prikkels onvoldoende nemen.",
+      "summary": "Medisch-specialisten in loondienst bij onvoldoende verantwoordelijkheid",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "medisch-specialisten",
+        "loondienst",
+        "regelgeving",
+        "passende zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 67",
+      "originalQuote": "Als zij die verantwoordelijkheid onvoldoende nemen komen we met regelgeving zodat medisch-specialisten in loondienst gaan"
+    },
+    {
+      "promiseCode": "VVD-2023-060",
+      "text": "Bindende afspraken maken met producenten en supermarkten over het gezonder maken van voeding. Marketing van ongezonde producten gericht op kinderen beperken.",
+      "summary": "Bindende afspraken gezondere voeding, marketing ongezonde producten beperken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voeding",
+        "producenten",
+        "supermarkten",
+        "marketing",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 67",
+      "originalQuote": "We maken bindende afspraken met producenten en supermarkten over het gezonder maken van voeding. Marketing van ongezonde producten gericht op kinderen beperken we"
+    },
+    {
+      "promiseCode": "VVD-2023-061",
+      "text": "Landelijke zienswijze opstellen voor vaccinaties voor jong en oud om het vaccinatiestelsel te verbeteren. Maatregelen nemen om kinderen te beschermen tegen ongecontroleerde verspreiding van infectieziekten.",
+      "summary": "Landelijke zienswijze vaccinaties, bescherming kinderen infectieziekten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vaccinaties",
+        "vaccinatiestelsel",
+        "infectieziekten",
+        "kinderen",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 68",
+      "originalQuote": "We stellen een landelijke zienswijze op voor vaccinaties voor jong en oud waarmee we ons vaccinatiestelsel gaan verbeteren. We willen dat onze kinderen beschermd zijn wanneer er een ongecontroleerde verspreiding van een infectieziekte dreigt, en nemen daartoe maatregelen"
+    },
+    {
+      "promiseCode": "VVD-2023-062",
+      "text": "Eigen risico behapbaar maken door betaling per behandeling tot maximum verplicht eigen risico, in plaats van betaling in één keer. Indexering eigen risico niet jaarlijks maar langere tijd vastzetten.",
+      "summary": "Eigen risico per behandeling, indexering langere tijd vastzetten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "behandeling",
+        "indexering",
+        "betaling",
+        "zorgkosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 68",
+      "originalQuote": "We maken het eigen risico behapbaar door mensen niet in één keer hun eigen risico te laten betalen, maar kiezen voor een betaling per behandeling tot het maximum van het verplicht eigen risico. We brengen rust in het vaststellen van het eigen risico, door de indexering niet jaarlijks te laten plaatsvinden, maar de hoogte langere tijd vast te zetten"
+    },
+    {
+      "promiseCode": "VVD-2023-063",
+      "text": "Wetgeving maken om excessieve winstuitkering tegen te gaan. Gegevensuitwisseling verbeteren om fraude te bestrijden. Woekerprijzen en woekerwinsten hard aanpakken.",
+      "summary": "Wetgeving excessieve winstuitkering, fraudebestrijding zorg verbeteren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstuitkering",
+        "wetgeving",
+        "fraude",
+        "woekerprijzen",
+        "gegevensuitwisseling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 69",
+      "originalQuote": "We maken wetgeving om excessieve winstuitkering tegen te gaan, en we verbeteren gegevensuitwisseling om fraude te bestrijden. Waar grote sommen geld oneerlijk verdiend zijn aan de zorg pakken we dat hard aan, evenals woekerprijzen en woekerwinsten"
+    },
+    {
+      "promiseCode": "VVD-2023-064",
+      "text": "IJzeren voorraad van medische hulp- en geneesmiddelen en vaccins aanleggen. Nederlandse bedrijven stand-by laten staan met productiecapaciteit voor crisissen.",
+      "summary": "IJzeren voorraad medicijnen, productiecapaciteit Nederlandse bedrijven",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voorraad",
+        "geneesmiddelen",
+        "vaccins",
+        "productiecapaciteit",
+        "crisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 69",
+      "originalQuote": "We bouwen door aan de Nationale Zorgreserve, een sterke publieke gezondheidszorg en willen een ijzeren voorraad van medische hulp- en geneesmiddelen en vaccins. Nederlandse bedrijven moeten stand-by kunnen staan met productiecapaciteit als dit nodig is"
+    },
+    {
+      "promiseCode": "VVD-2023-065",
+      "text": "Onderzoek naar behandeling van post-COVID-syndroom, waarbij Nederland internationaal leidende rol inneemt. Ondersteuning bieden aan mensen met post-COVID naar passende baan.",
+      "summary": "Onderzoek post-COVID behandeling, ondersteuning naar werk",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "post-COVID",
+        "onderzoek",
+        "behandeling",
+        "werk",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 69",
+      "originalQuote": "We willen dat Nederland internationaal een leidende rol inneemt bij onderzoek naar een behandeling van post-COVID-syndroom. Mensen met post-COVID-syndroom die weer aan het werk willen, willen we ondersteunen naar een passende baan"
+    },
+    {
+      "promiseCode": "VVD-2023-066",
+      "text": "Mogelijkheid creëren voor iedereen, inclusief mensen met voltooid leven, om te kiezen voor waardig levenseinde volgens zorgvuldige procedures. Dit geldt voor euthanasie, hulp bij zelfdoding en voltooid leven.",
+      "summary": "Mogelijkheid waardig levenseinde inclusief voltooid leven",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levenseinde",
+        "euthanasie",
+        "voltooid leven",
+        "zelfdoding",
+        "procedures"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 70",
+      "originalQuote": "We willen de mogelijkheid voor iedereen (inclusief mensen met een voltooid leven zonder medische oorzaak) om zelf te kiezen voor een waardig levenseinde, mits dit volgens zorgvuldige procedures en eisen gebeurt. Dit geldt voor zowel euthanasie, hulp bij zelfdoding als 'voltooid leven'"
+    },
+    {
+      "promiseCode": "VVD-2023-067",
+      "text": "Aparte Wet op de rijksinspecties invoeren om onafhankelijk toezicht op uitvoerende macht te versterken.",
+      "summary": "Wet op rijksinspecties voor versterkt toezicht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rijksinspecties",
+        "wet",
+        "toezicht",
+        "uitvoerende macht"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 73",
+      "originalQuote": "Onafhankelijk toezicht op de uitvoerende macht wordt versterkt. Er komt een aparte Wet op de rijksinspecties"
+    },
+    {
+      "promiseCode": "VVD-2023-068",
+      "text": "Uitdaagrecht in de wet opnemen voor gemeenten, provincies en waterschappen, zodat groepen mensen gemeentelijke taken kunnen overnemen met goed plan.",
+      "summary": "Uitdaagrecht wettelijk vastleggen voor alle bestuurslagen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitdaagrecht",
+        "wet",
+        "gemeenten",
+        "provincies",
+        "waterschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 73",
+      "originalQuote": "Als groepen mensen gemeentelijke taken willen overnemen en daarvoor een goed plan hebben, dan wordt dat mogelijk. Daartoe wordt het uitdaagrecht in de wet opgenomen. Dit geldt ook voor provincies en waterschappen"
+    },
+    {
+      "promiseCode": "VVD-2023-069",
+      "text": "Kiesdrempel invoeren als oplossing voor versplintering Tweede Kamer, waarbij evenredige vertegenwoordiging behouden blijft.",
+      "summary": "Kiesdrempel tegen versplintering Tweede Kamer",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kiesdrempel",
+        "versplintering",
+        "Tweede Kamer",
+        "vertegenwoordiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 75",
+      "originalQuote": "We houden vast aan evenredige vertegenwoordiging, maar als oplossing voor de versplintering denken we aan een kiesdrempel"
+    },
+    {
+      "promiseCode": "VVD-2023-070",
+      "text": "Camera's langs kleine wegen in grensregio's plaatsen die kentekens kunnen volgen om drugssmokkel beter aan te pakken, vooral in Brabant en Limburg.",
+      "summary": "Camera's kentekens grensregio's tegen drugssmokkel",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "camera's",
+        "kentekens",
+        "grensregio's",
+        "drugssmokkel",
+        "Brabant",
+        "Limburg"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 74",
+      "originalQuote": "Met de inzet van camera's die kentekens in de gaten kunnen houden, langs kleine wegen in grensregio's, pakken we dit beter aan"
+    },
+    {
+      "promiseCode": "VVD-2023-071",
+      "text": "Cultuurgelden rechtvaardiger spreiden door meer dan 90% Randstad-verdeling aan te passen. Regionaal belang cultuur betrekken bij subsidieverdeling.",
+      "summary": "Cultuurgelden rechtvaardiger spreiden, minder focus Randstad",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurgelden",
+        "spreiding",
+        "Randstad",
+        "regio",
+        "subsidie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 74",
+      "originalQuote": "Nu wordt meer dan 90% van de cultuurgelden in de Randstad ingezet, en dus nauwelijks in Fryslân of Zeeland. Dit moet rechtgetrokken worden, door het regionale belang van cultuur bij de verdeling van subsidie te betrekken"
+    },
+    {
+      "promiseCode": "VVD-2023-072",
+      "text": "Bij decentralisatie van nieuwe taken naar gemeenten moet worden gekeken of medeoverheden extra taken aan kunnen en of er voldoende financiering is om de nieuwe taak uit te kunnen voeren.",
+      "summary": "Zorgvuldige decentralisatie van taken naar gemeenten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "decentralisatie",
+        "gemeenten",
+        "taken",
+        "financiering",
+        "medeoverheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 76",
+      "originalQuote": "Het is daarom zaak om zorgvuldig om te gaan met het decentraliseren van nieuwe taken naar gemeenten. Er moet worden gekeken of medeoverheden extra taken aan kunnen. Daarbij wordt ook gekeken of er voldoende financiering is om de nieuwe taak uit te kunnen voeren."
+    },
+    {
+      "promiseCode": "VVD-2023-073",
+      "text": "Samen met Aruba, Curaçao en Sint-Maarten werken aan goed en integer bestuur, financieel solide beleid, de aanpak van corruptie, het duurzaam versterken van de economieën en het onderwijs.",
+      "summary": "Versterken Caribisch deel Koninkrijk",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Caribisch",
+        "Koninkrijk",
+        "bestuur",
+        "corruptie",
+        "economie",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 76",
+      "originalQuote": "Samen met Aruba, Curaçao en Sint- Maarten werken we aan goed en integer bestuur, financieel solide beleid, de aanpak van corruptie, het duurzaam versterken van de economieën en het onderwijs."
+    },
+    {
+      "promiseCode": "VVD-2023-074",
+      "text": "In het Statuut voor het Koninkrijk wordt een expliciete bepaling opgenomen dat naast Aruba ook Curaçao en Sint-Maarten kunnen verklaren dat ze onafhankelijk willen worden en dus het recht krijgen om het Koninkrijk te verlaten.",
+      "summary": "Onafhankelijkheidsrecht voor Curaçao en Sint-Maarten in Statuut",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Statuut",
+        "Koninkrijk",
+        "onafhankelijkheid",
+        "Curaçao",
+        "Sint-Maarten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 76",
+      "originalQuote": "In het Statuut voor het Koninkrijk wordt een expliciete bepaling opgenomen dat naast Aruba ook Curaçao en Sint-Maarten kunnen verklaren dat ze onafhankelijk willen worden en dus het recht krijgen om het Koninkrijk te verlaten."
+    },
+    {
+      "promiseCode": "VVD-2023-075",
+      "text": "Prioriteit is om Nederland veilig te houden door te investeren in de politie, het OM, rechtspraak en Defensie.",
+      "summary": "Investeren in veiligheid: politie, OM, rechtspraak en Defensie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veiligheid",
+        "politie",
+        "openbaar ministerie",
+        "rechtspraak",
+        "defensie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 76",
+      "originalQuote": "Prioriteit voor de VVD is om Nederland veilig te houden, door te investeren in de politie, het OM, rechtspraak en Defensie."
+    },
+    {
+      "promiseCode": "VVD-2023-076",
+      "text": "Lagere belasting voor werkenden, de belasting op de energierekening voor gezinnen verlagen en de stijging van vaste lasten beperken om het leven betaalbaar te houden.",
+      "summary": "Lagere belasting werkenden en energierekening gezinnen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belasting",
+        "werkenden",
+        "energierekening",
+        "gezinnen",
+        "vaste lasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 76",
+      "originalQuote": "Hiervoor wil de VVD onder andere lagere belasting voor werkenden, de belasting op de energierekening voor gezinnen verlagen en de stijging van vaste lasten beperken."
+    },
+    {
+      "promiseCode": "VVD-2023-077",
+      "text": "Er zijn de komende jaren scherpe keuzes nodig die het begrotingstekort terugdringen en beheersbaar maken. Er worden geen nieuwe fondsen meer opgericht.",
+      "summary": "Begrotingstekort terugdringen, geen nieuwe fondsen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "begrotingstekort",
+        "fondsen",
+        "bezuinigingen",
+        "overheidsfinanciën"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 76",
+      "originalQuote": "Er zijn de komende jaren scherpe keuzes nodig die het tekort terugdringen en beheersbaar maken. Wat de VVD betreft worden ook geen nieuwe fondsen meer opgericht."
+    },
+    {
+      "promiseCode": "VVD-2023-078",
+      "text": "Terug naar normaal begrotingsbeleid waarbij de minister van Financiën de begrotingsregels handhaaft en de Zalmnorm en het trendmatig begrotingsbeleid in ere worden hersteld.",
+      "summary": "Herstellen Zalmnorm en trendmatig begrotingsbeleid",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "begrotingsbeleid",
+        "Zalmnorm",
+        "trendmatig",
+        "begrotingsregels",
+        "minister"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 77",
+      "originalQuote": "waarbij de minister van Financiën de begrotingsregels die door de coalitie zijn afgesproken handhaaft en de Zalmnorm en het trendmatig begrotingsbeleid in ere worden hersteld."
+    },
+    {
+      "promiseCode": "VVD-2023-079",
+      "text": "Box 3 wordt hervormd naar een belasting op reëel rendement, met de mogelijkheid om verliezen en kosten te verrekenen, inclusief een vrijstelling voor kleine spaarders.",
+      "summary": "Box 3 hervormen naar belasting op reëel rendement",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Box 3",
+        "rendement",
+        "verliezen",
+        "kosten",
+        "spaarders",
+        "vermogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD 2023, p. 77",
+      "originalQuote": "Box 3 wordt hervormd naar een belasting op reëel rendement, met de mogelijkheid om verliezen en kosten te verrekenen. Daarbij kiezen we voor een eerlijk en toekomstbestendig stelsel van belasting op vermogensinkomsten, met oog voor illiquide vermogens, zoals aandelen in start-ups, familiebedrijven en vastgoed, en met een vrijstelling voor kleine spaarders."
+    }
+  ]
+}

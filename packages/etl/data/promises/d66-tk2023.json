@@ -1,0 +1,2603 @@
+{
+  "party": "D66",
+  "partySlug": "d66",
+  "program": "Nieuwe energie voor Nederland",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "1d2263478cfe8acb7757ee29b087f10eb3b7b4d797779101ff32b51bd9e263e5",
+  "totalPromises": 171,
+  "promises": [
+    {
+      "promiseCode": "D66-2023-001",
+      "text": "D66 wil de CO2-uitstoot van Nederland in 2030 met minimaal 60 procent reduceren ten opzichte van 1990 en in 2040 klimaatneutraal zijn.",
+      "summary": "60% CO2-reductie in 2030, klimaatneutraal in 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "CO2-uitstoot",
+        "reductie",
+        "klimaatneutraal",
+        "doelstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 12",
+      "originalQuote": "Dit betekent dat we in 2030 met minimaal 60 procent reduceren ten opzichte van 1990. In 2040 willen we klimaatneutraal zijn, zodat we in 2050 klimaatpositief zijn."
+    },
+    {
+      "promiseCode": "D66-2023-002",
+      "text": "In 2030 willen we 50 procent minder grondstoffen gebruiken; in 2050 zijn we helemaal circulair.",
+      "summary": "50% minder grondstoffen in 2030, circulair in 2050",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondstoffen",
+        "reductie",
+        "circulaire economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "In 2030 willen we 50 procent minder grondstoffen gebruiken; in 2050 zijn we helemaal circulair."
+    },
+    {
+      "promiseCode": "D66-2023-003",
+      "text": "Iedere volwassene krijgt een basisbedrag dat onder andere dient ter compensatie voor de hogere kosten als gevolg van de transitie.",
+      "summary": "Basisbedrag voor volwassenen als compensatie transitiekosten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbedrag",
+        "compensatie",
+        "transitiekosten",
+        "volwassenen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "Iedere volwassene krijgt een basisbedrag dat onder andere dient ter compensatie voor de hogere kosten als gevolg van de transitie."
+    },
+    {
+      "promiseCode": "D66-2023-004",
+      "text": "D66 introduceert een klimaatticket waarmee je voor een vaste lage prijs met het openbaar vervoer kunt reizen.",
+      "summary": "Klimaatticket voor goedkoop openbaar vervoer",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatticket",
+        "openbaar vervoer",
+        "prijsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11, 12",
+      "originalQuote": "We introduceren een landelijk klimaatticket, waarmee je voor een vaste lage prijs in bus, tram, metro en trein in Nederland buiten de spits kan reizen."
+    },
+    {
+      "promiseCode": "D66-2023-005",
+      "text": "D66 maakt €1 miljard per jaar vrij om nieuwe investeringen in de productie van groene en circulaire producten in Nederland te stimuleren.",
+      "summary": "€1 miljard per jaar voor groene investeringen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investering",
+        "groene productie",
+        "stimulering",
+        "miljard"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "We maken €1 miljard per jaar vrij om nieuwe investeringen in de productie van groene en circulaire producten in Nederland te stimuleren."
+    },
+    {
+      "promiseCode": "D66-2023-006",
+      "text": "D66 wil alle subsidies op fossiele energie afbouwen.",
+      "summary": "Afbouw fossiele subsidies",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "fossiele energie",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "We bouwen alle subsidies op fossiele energie af."
+    },
+    {
+      "promiseCode": "D66-2023-007",
+      "text": "De gaswinning in Groningen stopt per 1 oktober 2024 definitief en wordt wettelijk vastgelegd.",
+      "summary": "Gaswinning Groningen stopt 1 oktober 2024",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "Groningen",
+        "stopzetting",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "De gaswinning in Groningen stopt per 1 oktober 2024 definitief. Dat leggen we wettelijk vast."
+    },
+    {
+      "promiseCode": "D66-2023-008",
+      "text": "D66 introduceert een winwin-lening waarmee kleinere ondernemers makkelijk geld kunnen lenen en familie, vrienden of fans een aantrekkelijk rendement krijgen.",
+      "summary": "Winwin-lening voor kleinere ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winwin-lening",
+        "ondernemers",
+        "financiering",
+        "rendement"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "We zorgen voor een winwin-lening. Daarmee kunnen kleinere ondernemers makkelijk geld lenen en familie, vrienden of fans een aantrekkelijk rendement krijgen."
+    },
+    {
+      "promiseCode": "D66-2023-009",
+      "text": "Met een leerbudget geven we iedereen de mogelijkheid om een leven lang te blijven leren.",
+      "summary": "Leerbudget voor leven lang leren",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerbudget",
+        "leven lang leren",
+        "scholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 11",
+      "originalQuote": "Met een leerbudget geven we iedereen de mogelijkheid om een leven lang te blijven leren."
+    },
+    {
+      "promiseCode": "D66-2023-010",
+      "text": "Er komt een klimaatadaptatieplan voor Bonaire, St. Eustatius en Saba, net als voor andere Nederlandse gemeenten.",
+      "summary": "Klimaatadaptatieplan voor Caribische gemeenten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatadaptatie",
+        "Bonaire",
+        "Saba",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 13",
+      "originalQuote": "Er komt een klimaatadaptatieplan voor Bonaire, St. Eustatius en Saba, net als voor andere Nederlandse gemeenten."
+    },
+    {
+      "promiseCode": "D66-2023-011",
+      "text": "D66 wil belasting verschuiven van arbeid naar vervuiling, grondstoffen, natuurlijke bronnen en uitstoot van schadelijke stoffen.",
+      "summary": "Belastingverschuiving van arbeid naar vervuiling",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingverschuiving",
+        "arbeid",
+        "vervuiling",
+        "grondstoffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 13",
+      "originalQuote": "We verschuiven de belasting van arbeid naar vervuiling, grondstoffen, natuurlijke bronnen en de uitstoot van schadelijke stoffen."
+    },
+    {
+      "promiseCode": "D66-2023-012",
+      "text": "De regering moet voor elk voorstel dat leidt tot meer CO2 uitstoot zoeken naar 'CO2-dekking', net zoals financiële voorstellen dekking vereisen.",
+      "summary": "CO2-dekking verplicht voor alle voorstellen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "CO2-dekking",
+        "compensatie",
+        "begrotingsprincipe"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 14",
+      "originalQuote": "De regering moet met CO2 omgaan zoals met geld: voor elk voorstel dat leidt tot meer CO2 uitstoot, moet worden gezocht naar een 'CO2-dekking'."
+    },
+    {
+      "promiseCode": "D66-2023-013",
+      "text": "Nederland wordt koploper bij het realiseren van een wereldwijd fonds voor klimaatschade en maakt hier zelf voldoende financiering voor beschikbaar.",
+      "summary": "Koploperschap wereldwijd klimaatschadefonds",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatschade",
+        "wereldwijd fonds",
+        "koploperschap",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 15",
+      "originalQuote": "Nederland wordt koploper bij het realiseren van een wereldwijd fonds voor klimaatschade (loss and damage) en maakt hier zelf voldoende financiering voor beschikbaar."
+    },
+    {
+      "promiseCode": "D66-2023-014",
+      "text": "D66 wil het budget van het Dutch Fund for Climate and Development verdubbelen.",
+      "summary": "Verdubbeling budget klimaatfonds DFCD",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatfonds",
+        "verdubbeling",
+        "budget",
+        "ontwikkelingshulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 15",
+      "originalQuote": "We verdubbelen het budget van het internationale klimaatfonds: het Dutch Fund for Climate and Development ®DFCD ̄."
+    },
+    {
+      "promiseCode": "D66-2023-015",
+      "text": "D66 wil het budget van het Nederlandse internationale klimaatfonds (Dutch Fund for Climate and Development, DFCD) verdubbelen om meer financiële steun te bieden voor klimaatschade en internationale klimaatprojecten.",
+      "summary": "Verdubbelen budget Dutch Fund for Climate and Development (DFCD)",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatfonds",
+        "DFCD",
+        "internationale",
+        "financiering",
+        "klimaatschade"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 16",
+      "originalQuote": "We verdubbelen het budget van het internationale klimaatfonds: het Dutch Fund for Climate and Development (DFCD)."
+    },
+    {
+      "promiseCode": "D66-2023-016",
+      "text": "D66 wil het Europese emissiehandelssysteem (ETS) en CO2-grensheffing (CBAM) uitbreiden naar meer sectoren en alle gratis rechten in het ETS volledig afschaffen.",
+      "summary": "Uitbreiding ETS en CBAM naar meer sectoren, afschaffen gratis rechten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ETS",
+        "emissiehandelssysteem",
+        "CBAM",
+        "CO2-grensheffing",
+        "sectoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 16",
+      "originalQuote": "Wij willen het ETS en CBAM uitbreiden naar meer sectoren en gratis rechten in het ETS volledig afschaffen."
+    },
+    {
+      "promiseCode": "D66-2023-017",
+      "text": "D66 wil jaarlijks 1 miljard euro vrijmaken om nieuwe investeringen in de productie van groene en circulaire producten te stimuleren.",
+      "summary": "Jaarlijks 1 miljard euro voor groene en circulaire productie",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "miljard",
+        "investeringen",
+        "groene",
+        "circulaire",
+        "producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 16",
+      "originalQuote": "En we maken jaarlijks 1 miljard euro vrij om nieuwe investeringen in de productie van groene en circulaire producten te stimuleren."
+    },
+    {
+      "promiseCode": "D66-2023-018",
+      "text": "D66 stelt dat alle huurwoningen met energielabels E, F en G verdwijnen voor 2028 door isolatie verplicht te stellen voor verhuurders.",
+      "summary": "Geen E, F, G energielabels meer in huursector in 2028",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energielabels",
+        "huursector",
+        "isolatie",
+        "verhuurders",
+        "2028"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 18",
+      "originalQuote": "We hebben daarom geen E, F, en G labels meer in 2028."
+    },
+    {
+      "promiseCode": "D66-2023-019",
+      "text": "D66 wil dat de productie van elektriciteit volledig CO2-vrij is in 2035.",
+      "summary": "CO2-vrije elektriciteitsproductie in 2035",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektriciteit",
+        "CO2-vrij",
+        "productie",
+        "2035"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 18",
+      "originalQuote": "In 2035 moet de productie van elektriciteit CO2-vrij zijn."
+    },
+    {
+      "promiseCode": "D66-2023-020",
+      "text": "D66 gaat door met voorbereidingen voor de bouw van twee nieuwe kerncentrales, met aandacht voor transparantie van subsidiering en financiële garanties.",
+      "summary": "Voorbereidingen bouw twee nieuwe kerncentrales",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "bouw",
+        "subsidiering",
+        "garanties",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 18-19",
+      "originalQuote": "Wij gaan door met de voorbereidingen voor de bouw van twee nieuwe centrales."
+    },
+    {
+      "promiseCode": "D66-2023-021",
+      "text": "D66 wil dat de gaswinning in Groningen definitief stopt per 1 oktober 2024 en dit wettelijk vastleggen.",
+      "summary": "Definitieve stop gaswinning Groningen per 1 oktober 2024",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "Groningen",
+        "oktober",
+        "2024",
+        "wettelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 20",
+      "originalQuote": "De gaswinning in Groningen stopt per 1 oktober 2024 definitief. Dit leggen we wettelijk vast."
+    },
+    {
+      "promiseCode": "D66-2023-022",
+      "text": "D66 wil gaswinning onder de Noordzee zo snel mogelijk afbouwen en deze uiterlijk voor 2040 beëindigen.",
+      "summary": "Gaswinning Noordzee afbouwen, uiterlijk einde voor 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "Noordzee",
+        "afbouwen",
+        "2040"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 20",
+      "originalQuote": "Gaswinning onder de Noordzee bouwen we zo snel mogelijk af en eindigt uiterlijk voor 2040."
+    },
+    {
+      "promiseCode": "D66-2023-023",
+      "text": "D66 wil dat Nederland 50% minder primaire abiotische grondstoffen gebruikt in 2030 ten opzichte van 1990, en 75% circulariteit bereikt in 2040.",
+      "summary": "50% minder grondstoffen in 2030, 75% circulariteit in 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondstoffen",
+        "circulariteit",
+        "2030",
+        "2040",
+        "reductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 22",
+      "originalQuote": "In 2030 gebruiken we 50% minder primaire abiotische grondstoffen (mineralen, metalen en fossiele grondstoffen zoals aardolie en aardgas) ten opzichte van 1990... In 2040 zetten we in op 75% circulariteit."
+    },
+    {
+      "promiseCode": "D66-2023-024",
+      "text": "D66 wil dat alle overheidsaanbestedingen in 2030 voor ten minste 50 procent en in 2040 volledig circulaire principes toepassen.",
+      "summary": "50% circulaire aanbestedingen in 2030, 100% in 2040",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aanbestedingen",
+        "circulair",
+        "overheid",
+        "2030",
+        "2040"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 22",
+      "originalQuote": "In 2030 voor ten minste 50 procent, in 2040 volledig."
+    },
+    {
+      "promiseCode": "D66-2023-025",
+      "text": "D66 wil dat minimaal 50% van de overheidsgebouwen in hout wordt gerealiseerd om duurzaam bouwen te stimuleren.",
+      "summary": "Minimaal 50% overheidsgebouwen in hout",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheidsgebouwen",
+        "houtbouw",
+        "procent",
+        "duurzaam"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 23",
+      "originalQuote": "Ook zetten we in op houtbouw: minimaal 50% van de overheidsgebouwen wordt in hout gerealiseerd."
+    },
+    {
+      "promiseCode": "D66-2023-026",
+      "text": "D66 wil wetgeving introduceren om financieringen en beleggingen van de financiële sector in lijn te brengen met het Klimaatakkoord van Parijs.",
+      "summary": "Wetgeving financiële sector conform Klimaatakkoord Parijs",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetgeving",
+        "financiële",
+        "sector",
+        "Klimaatakkoord",
+        "Parijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 17",
+      "originalQuote": "We komen met wetgeving om financieringen en beleggingen van de financiële sector in lijn te brengen met het Klimaatakkoord van Parijs."
+    },
+    {
+      "promiseCode": "D66-2023-027",
+      "text": "Invoeren van een sandbox model waarbij ondernemers vrijheid krijgen om op kleine schaal nieuwe ideeën te testen, pas bij opschaling gelden striktere regels.",
+      "summary": "Sandbox model voor testen innovatieve ideeën",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sandbox",
+        "ondernemers",
+        "innovatie",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 38",
+      "originalQuote": "Ondernemers krijgen de vrijheid om op kleine schaal nieuwe ideeën te testen, het zogeheten sandbox model. Pas bij opschaling hoeven de bedrijven aan een striktere invulling van de regels te voldoen."
+    },
+    {
+      "promiseCode": "D66-2023-028",
+      "text": "Invoering van een persoonlijk leerbudget zonder vervaldatum dat mensen meenemen totdat omscholing nodig is. De hoogte is gebaseerd op kosten van de eerder gevolgde opleiding.",
+      "summary": "Persoonlijk leerbudget zonder vervaldatum",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerbudget",
+        "omscholing",
+        "opleiding",
+        "levenslang"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 38",
+      "originalQuote": "D66 wil daarom een persoonlijk leerbudget invoeren zonder vervaldatum, die je met je meeneemt totdat er een moment komt waarop omscholing nodig is."
+    },
+    {
+      "promiseCode": "D66-2023-029",
+      "text": "Werkgevers storten maandelijks minimaal 0,5 procent van het salaris in het persoonlijk leerbudget. Deze bijdrage wordt zichtbaar op de loonstrook.",
+      "summary": "Werkgeversbijdrage 0,5% salaris aan leerbudget",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkgever",
+        "salaris",
+        "leerbudget",
+        "loonstrook"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 38",
+      "originalQuote": "Als je gaat werken, stort je werkgever daarnaast een maandelijkse bijdrage van minimaal 0,5 procent van je salaris om het persoonlijk leerbudget aan te vullen."
+    },
+    {
+      "promiseCode": "D66-2023-030",
+      "text": "Invoering van een periodieke arbeidsmarktscan (PAS) aangeboden door overheid en sociale partners voor inzicht in ontwikkeling en overstap naar andere sectoren.",
+      "summary": "Periodieke arbeidsmarktscan (PAS)",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmarktscan",
+        "PAS",
+        "sectoren",
+        "ontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 39",
+      "originalQuote": "Bij het nieuwe persoonlijk leerbudget hoort ook een periodieke arbeidsmarktscan (PAS), aangeboden door de overheid en sociale partners samen."
+    },
+    {
+      "promiseCode": "D66-2023-031",
+      "text": "Landelijke krapteaanpak samen met werkenden, ondernemers en overheid, te beginnen in onderwijs, zorg en techniek.",
+      "summary": "Landelijke krapteaanpak onderwijs, zorg, techniek",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "krapteaanpak",
+        "onderwijs",
+        "zorg",
+        "techniek"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 39",
+      "originalQuote": "Er komt samen met werkenden, ondernemers en de overheid een landelijke krapteaanpak. Te beginnen in het onderwijs, de zorg en in de techniek."
+    },
+    {
+      "promiseCode": "D66-2023-032",
+      "text": "Invoeren van een 'urenvoordeel' waardoor werknemers die meer dan drie dagen per week werken minder belasting betalen.",
+      "summary": "Urenvoordeel voor meer dan drie werkdagen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "urenvoordeel",
+        "belasting",
+        "werknemers",
+        "dagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 39",
+      "originalQuote": "Werknemers die meer dan drie dagen per week werken, gaan minder belasting betalen door het invoeren van een nieuw 'urenvoordeel'."
+    },
+    {
+      "promiseCode": "D66-2023-033",
+      "text": "Oprichting van een arbeidscommissie waar werknemers terecht kunnen als werkgevers hun verzoek om meer uren afwijzen.",
+      "summary": "Arbeidscommissie voor geschil over meer uren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidscommissie",
+        "werknemers",
+        "uren",
+        "geschil"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 39",
+      "originalQuote": "Werknemers kunnen straks terecht bij de nieuw op te richten arbeidscommissie als ze het niet eens zijn met de afwijzing van hun verzoek om meer uren."
+    },
+    {
+      "promiseCode": "D66-2023-034",
+      "text": "Zorg voor een herkenbaar en toegankelijk werkcentrum in elke arbeidsmarktregio voor ondersteuning bij arbeid en scholing.",
+      "summary": "Werkcentrum per arbeidsmarktregio",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkcentrum",
+        "arbeidsmarktregio",
+        "scholing",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 40",
+      "originalQuote": "Zorg voor een herkenbaar en toegankelijk werkcentrum in elke arbeidsmarktregio, waar iedereen terecht kan voor ondersteuning bij arbeid en scholing."
+    },
+    {
+      "promiseCode": "D66-2023-035",
+      "text": "Invoering van de Wet werken waar je wilt om vaker thuiswerken mogelijk te maken voor beroepen die niet aan een locatie zijn gebonden.",
+      "summary": "Wet werken waar je wilt voor thuiswerken",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wet",
+        "thuiswerken",
+        "locatie",
+        "beroepen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 40",
+      "originalQuote": "Met de Wet werken waar je wilt wordt het mogelijk om vaker thuis te werken voor beroepen die niet aan een locatie zijn gebonden."
+    },
+    {
+      "promiseCode": "D66-2023-036",
+      "text": "Invoering van bijna-gratis kinderopvang waar ouders slechts een kleine eigen bijdrage hoeven te betalen.",
+      "summary": "Bijna-gratis kinderopvang",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderopvang",
+        "ouders",
+        "bijdrage",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 40",
+      "originalQuote": "Belangrijkste stap hierin is de bijna-gratis kinderopvang, waar ouders maar een kleine eigen bijdrage hoeven te betalen."
+    },
+    {
+      "promiseCode": "D66-2023-037",
+      "text": "Onderzoeken of bedrijven met marktmacht zwaarder belast kunnen worden om overwinsten en negatieve gevolgen tegen te gaan.",
+      "summary": "Zwaardere belasting bedrijven met marktmacht",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "marktmacht",
+        "belasting",
+        "overwinsten",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 41",
+      "originalQuote": "We willen onderzoeken of bedrijven met marktmacht zwaarder belast zouden kunnen worden."
+    },
+    {
+      "promiseCode": "D66-2023-038",
+      "text": "Invoering van een aparte vermogensbelasting op vermogens in box 2 en box 3 boven een miljoen, met hoger tarief boven twee miljoen. Eigen woning telt niet mee.",
+      "summary": "Vermogensbelasting boven miljoen, hoger boven twee miljoen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vermogensbelasting",
+        "miljoen",
+        "box",
+        "eigen woning"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 41",
+      "originalQuote": "We voeren daarnaast een aparte vermogensbelasting in op vermogens in box 2 en box 3 boven een miljoen, met een hoger tarief boven de twee miljoen. De eigen woning telt hierbij niet mee."
+    },
+    {
+      "promiseCode": "D66-2023-039",
+      "text": "Afschaffen van btw op groente en fruit, verhogen accijns op alcohol, tabak en suiker om gezonde keuzes te bevorderen.",
+      "summary": "Geen btw groente/fruit, hogere accijns alcohol/tabak/suiker",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "btw",
+        "groente",
+        "fruit",
+        "accijns",
+        "alcohol",
+        "tabak",
+        "suiker"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 41-42",
+      "originalQuote": "Om gezonde keuzes makkelijker te maken verhogen we de accijns op alcohol, tabak en suiker en schaffen we de btv op groente en fruit af."
+    },
+    {
+      "promiseCode": "D66-2023-040",
+      "text": "Wettelijke vastlegging dat elk huurcontract voor arbeidsmigranten een opzegtermijn van minimaal één maand moet hebben en huurprijs tussentijds niet omhoog mag.",
+      "summary": "Minimaal één maand opzegtermijn huurcontract arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurcontract",
+        "arbeidsmigranten",
+        "opzegtermijn",
+        "maand"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 42",
+      "originalQuote": "Om arbeidsmigranten een betere huurpositie te geven, wordt wettelijk vastgelegd dat elk huurcontract voor een arbeidsmigrant een opzegtermijn van minimaal één maand moet hebben en de huurprijs in de tussentijd niet omhoog mag gaan."
+    },
+    {
+      "promiseCode": "D66-2023-041",
+      "text": "Invoering van een vergunningsplicht voor uitzendbureaus met publiekrechtelijke handhaving door de Nederlandse arbeidsinspectie.",
+      "summary": "Vergunningsplicht uitzendbureaus",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsplicht",
+        "uitzendbureaus",
+        "arbeidsinspectie",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 43",
+      "originalQuote": "Er komt een vergunningsplicht voor uitzendbureaus met publiekrechtelijke handhaving door de Nederlandse arbeidsinspectie."
+    },
+    {
+      "promiseCode": "D66-2023-042",
+      "text": "Introductie van een doorbouwfonds om betaalbare en duurzame woningen te bouwen, met focus op optoppen, aanplakken, splitsen en ombouwen.",
+      "summary": "Doorbouwfonds voor betaalbare duurzame woningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doorbouwfonds",
+        "woningen",
+        "optoppen",
+        "aanplakken",
+        "splitsen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 46",
+      "originalQuote": "We introduceren een doorbouwfonds om betaalbare en duurzame woningen te blijven bouwen. Hierbij kijken we ook nadrukkelijk naar de mogelijkheden voor optoppen, aanplakken en splitsen van bestaande woningen en ombouwen van andere gebouwen."
+    },
+    {
+      "promiseCode": "D66-2023-043",
+      "text": "Investering in meer studentenwoningen, waarbij minimaal een kwart studentenhuizen zijn met gemeenschappelijke ruimtes.",
+      "summary": "Meer studentenwoningen, kwart met gemeenschappelijke ruimtes",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studentenwoningen",
+        "studentenhuizen",
+        "gemeenschappelijke",
+        "ruimtes"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 46",
+      "originalQuote": "We investeren in meer studentenwoningen. Minimaal een kwart daarvan zijn studentenhuizen met gemeenschappelijke ruimtes."
+    },
+    {
+      "promiseCode": "D66-2023-044",
+      "text": "Afschaffen van toeslagen en maken van nieuwe start met basisbedrag voor iedere volwassene.",
+      "summary": "Afschaffen toeslagen, basisbedrag voor elke volwassene",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslagen",
+        "basisbedrag",
+        "volwassene",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 46",
+      "originalQuote": "We schaffen de toeslagen af en maken een nieuwe start met een basisbedrag voor iedere volwassene."
+    },
+    {
+      "promiseCode": "D66-2023-045",
+      "text": "Het Rijk neemt weer de regie over volkshuisvesting en geeft topprioriteit aan kansrijke bouwlocaties waar snel woningen gebouwd kunnen worden.",
+      "summary": "Rijk neemt regie volkshuisvesting",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Rijk",
+        "volkshuisvesting",
+        "bouwlocaties",
+        "regie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 48",
+      "originalQuote": "Om het oplopende woningtekort aan te pakken, neemt het Rijk weer de regie over volkshuisvesting."
+    },
+    {
+      "promiseCode": "D66-2023-046",
+      "text": "Fiscaal wordt het bezit van meerdere huizen zwaarder belast.",
+      "summary": "Zwaardere belasting bezit meerdere huizen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fiscaal",
+        "bezit",
+        "huizen",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 48",
+      "originalQuote": "Fiscaal wordt het bezit van meerdere huizen zwaarder belast."
+    },
+    {
+      "promiseCode": "D66-2023-047",
+      "text": "Het meldpunt en de ondersteuning voor slachtoffers van grensoverschrijdend gedrag moet onafhankelijk worden van de sportbonden.",
+      "summary": "Onafhankelijk meldpunt grensoverschrijdend gedrag sport",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meldpunt",
+        "grensoverschrijdend",
+        "gedrag",
+        "sportbonden",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 91",
+      "originalQuote": "Het meldpunt en de ondersteuning voor slachtoffers van grensoverschrijdend gedrag moet onafhankelijk worden van de sportbonden."
+    },
+    {
+      "promiseCode": "D66-2023-048",
+      "text": "Matchfixing wordt strafbaar gesteld.",
+      "summary": "Matchfixing strafbaar stellen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "matchfixing",
+        "strafbaar",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 91",
+      "originalQuote": "Matchfixing wordt strafbaar gesteld"
+    },
+    {
+      "promiseCode": "D66-2023-049",
+      "text": "Voor ernstig wangedrag in stadions wordt een digitale meldplicht ingevoerd om stadionverboden beter te kunnen handhaven.",
+      "summary": "Digitale meldplicht stadionverboden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "digitale",
+        "meldplicht",
+        "stadionverboden",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 91",
+      "originalQuote": "voor ernstig wangedrag in stadions wordt een digitale meldplicht ingevoerd om stadionverboden beter te kunnen handhaven"
+    },
+    {
+      "promiseCode": "D66-2023-050",
+      "text": "Bij herhaaldelijk wangedrag van supporters betalen betaald voetbalorganisaties mee aan de benodigde inzet om de veiligheid te borgen.",
+      "summary": "Voetbalorganisaties betalen mee aan veiligheidsinzet",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voetbalorganisaties",
+        "veiligheidsinzet",
+        "kostenvergoeding",
+        "supporters"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 91",
+      "originalQuote": "Bij herhaaldelijk wangedrag van supporters betalen betaald voetbalorganisaties mee aan de benodigde inzet om de veiligheid te borgen."
+    },
+    {
+      "promiseCode": "D66-2023-051",
+      "text": "D66 wil abortus uit het Wetboek van Strafrecht om het recht op veilige abortus te verankeren en abortus deel te maken van de reguliere gezondheidszorg.",
+      "summary": "Abortus uit Wetboek van Strafrecht",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "abortus",
+        "wetboek",
+        "strafrecht",
+        "gezondheidszorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 92",
+      "originalQuote": "D66 wil abortus uit het Wetboek van Strafrecht. Zo verankeren we het recht op veilige abortus en maken we abortus deel van de reguliere gezondheidszorg."
+    },
+    {
+      "promiseCode": "D66-2023-052",
+      "text": "De abortuspil moet bij de verloskundige beschikbaar worden.",
+      "summary": "Abortuspil beschikbaar bij verloskundige",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "abortuspil",
+        "verloskundige",
+        "beschikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 92",
+      "originalQuote": "De abortuspil moet bij de verloskundige beschikbaar worden."
+    },
+    {
+      "promiseCode": "D66-2023-053",
+      "text": "De termijn voor een zwangerschapsafbreking wordt wettelijk vastgelegd op 24 weken.",
+      "summary": "Abortuswet: termijn 24 weken wettelijk vastleggen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwangerschapsafbreking",
+        "termijn",
+        "24-weken",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 92",
+      "originalQuote": "We leggen de termijn voor een zwangerschapsafbreking wettelijk vast op 24 weken"
+    },
+    {
+      "promiseCode": "D66-2023-054",
+      "text": "D66 wil euthanasie uit het Wetboek van Strafrecht. De zorgvuldigheidseisen en de toetsing daarvan blijven onverkort van kracht.",
+      "summary": "Euthanasie uit Wetboek van Strafrecht",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "euthanasie",
+        "wetboek",
+        "strafrecht",
+        "zorgvuldigheidseisen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 93",
+      "originalQuote": "D66 wil euthanasie uit het Wetboek van Strafrecht... De zorgvuldigheidseisen en de toetsing daarvan zoals neergelegd in de huidige euthanasiewet blijven onverkort van kracht."
+    },
+    {
+      "promiseCode": "D66-2023-055",
+      "text": "D66 werkt aan het zo snel mogelijk invoeren van het wetsvoorstel Voltooid Leven voor mensen van 75 jaar en ouder.",
+      "summary": "Wetsvoorstel Voltooid Leven invoeren",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wetsvoorstel",
+        "voltooid-leven",
+        "75-jaar",
+        "levenseinde"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 93",
+      "originalQuote": "D66 werkt aan het zo snel mogelijk invoeren van het wetsvoorstel Voltooid Leven... In deze initiatiefwet gaat het om mensen van 75 jaar en ouder"
+    },
+    {
+      "promiseCode": "D66-2023-056",
+      "text": "We willen het tijdelijk verbod op de kunstmatige totstandkoming van embryo's opheffen voor verbetering van vruchtbaarheidsbehandelingen.",
+      "summary": "Verbod kunstmatige embryo's opheffen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "embryos",
+        "verbod",
+        "opheffen",
+        "vruchtbaarheidsbehandelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 94",
+      "originalQuote": "We willen het tijdelijk verbod op de kunstmatige totstandkoming van embryo's opheffen. Door onderzoek met (nieuwe) embryo's toe te staan, verbeteren we vruchtbaarheidsbehandelingen"
+    },
+    {
+      "promiseCode": "D66-2023-057",
+      "text": "We werken toe naar kinderopvang als publieke voorziening voor alle kinderen tot 12 jaar, vijf dagen per week gratis.",
+      "summary": "Kinderopvang als gratis publieke voorziening",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "publieke-voorziening",
+        "12-jaar",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 99",
+      "originalQuote": "vijf dagen kinderopvang per week als gratis voorziening voor alle kinderen van 0 jaar tot en met 12 jaar"
+    },
+    {
+      "promiseCode": "D66-2023-058",
+      "text": "Op de korte termijn komt er bijna gratis kinderopvang waarbij de overheid 96 procent van de kosten vergoedt voor kinderen van 1 tot 12 jaar.",
+      "summary": "96% vergoeding kinderopvangkosten korte termijn",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "96-procent",
+        "vergoeding",
+        "kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 99",
+      "originalQuote": "De overheid vergoedt dan 96 procent van de kosten van de opvang voor kinderen vanaf 1 tot en met 12 jaar."
+    },
+    {
+      "promiseCode": "D66-2023-059",
+      "text": "De verantwoordelijkheid voor kinderopvang gaat naar het ministerie van Onderwijs, Cultuur en Wetenschap.",
+      "summary": "Kinderopvang naar ministerie OCW",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderopvang",
+        "ministerie",
+        "onderwijs",
+        "cultuur",
+        "wetenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 99",
+      "originalQuote": "de verantwoordelijkheid voor kinderopvang naar het ministerie van Onderwijs, Cultuur en Wetenschap gaat"
+    },
+    {
+      "promiseCode": "D66-2023-060",
+      "text": "D66 wil het aantal laaggeletterden binnen vijf jaar met de helft terugbrengen.",
+      "summary": "Laaggeletterdheid binnen 5 jaar halveren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "laaggeletterdheid",
+        "vijf-jaar",
+        "halveren",
+        "terugbrengen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 102",
+      "originalQuote": "D66 wil het aantal laaggeletterden binnen vijf jaar met de helft terugbrengen."
+    },
+    {
+      "promiseCode": "D66-2023-061",
+      "text": "Leerlingen worden niet langer geselecteerd op twaalfjarige leeftijd. We stimuleren brede, meerjarige brugklassen en 10-14-scholen.",
+      "summary": "Geen selectie leerlingen op 12-jarige leeftijd",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "selectie",
+        "twaalfjarige",
+        "leeftijd",
+        "brugklassen",
+        "10-14-scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 103",
+      "originalQuote": "Leerlingen worden niet langer geselecteerd op twaalfjarige leeftijd. We stimuleren brede, meerjarige brugklassen en 10-14-scholen."
+    },
+    {
+      "promiseCode": "D66-2023-062",
+      "text": "D66 wil dat Keti Koti, net als Bevrijdingsdag op 5 mei, jaarlijks een nationale feestdag wordt.",
+      "summary": "Keti Koti nationale feestdag maken",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "keti-koti",
+        "nationale",
+        "feestdag",
+        "bevrijdingsdag"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 98",
+      "originalQuote": "D66 wil dat Keti Koti, net als Bevrijdingsdag op 5 mei, jaarlijks een nationale feestdag wordt."
+    },
+    {
+      "promiseCode": "D66-2023-063",
+      "text": "Salarissen van leraren in het basis- en middelbaar onderwijs stijgen mee met de gemiddelde cao-loonstijging, plus extra geld voor bredere salarisverhoging om het beroep aantrekkelijker te maken.",
+      "summary": "Lerarensalarissen stijgen mee met cao-loonstijging plus extra verhoging",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salarissen",
+        "leraren",
+        "cao",
+        "loonstijging",
+        "verhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 103-104",
+      "originalQuote": "De salarissen van leraren in het basis en middelbaar onderwijs stijgen mee met de gemiddelde cao-loonstijging. Daarnaast maken we geld vrij voor een bredere salarisverhoging om het beroep van leraar aantrekkelijker te maken."
+    },
+    {
+      "promiseCode": "D66-2023-064",
+      "text": "Minister voert zelf cao-gesprekken en zorgt voor één gezamenlijke cao voor het hele funderend onderwijs en kinderopvang, inclusief pedagogisch medewerkers, voorschoolse krachten en ondersteunend personeel.",
+      "summary": "Minister voert één cao voor heel funderend onderwijs en kinderopvang",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minister",
+        "cao",
+        "funderend onderwijs",
+        "kinderopvang",
+        "pedagogisch medewerkers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 103-104",
+      "originalQuote": "De minister voert voortaan zelf de cao-gesprekken en zorgt voor één gezamenlijke cao voor het hele funderend onderwijs en de kinderopvang. Daar vallen ook de pedagogisch medewerkers, de voorschoolse krachten, onderwijsassistenten en het onderwijsondersteunend personeel onder."
+    },
+    {
+      "promiseCode": "D66-2023-065",
+      "text": "Er komt een nationale academie voor leraren, waardoor lerarenopleidingen onder het ministerie van OCW vallen voor betere sturing op studentenaantallen, bekostiging en kwaliteit.",
+      "summary": "Nationale academie voor leraren onder ministerie OCW",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale academie",
+        "leraren",
+        "lerarenopleidingen",
+        "OCW",
+        "bekostiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 104",
+      "originalQuote": "Er komt een nationale academie voor leraren, waarmee lerarenopleidingen rechtstreeks onder het ministerie van Onderwijs, Cultuur en Wetenschap vallen."
+    },
+    {
+      "promiseCode": "D66-2023-066",
+      "text": "Collegegeld voor lerarenopleidingen wordt afgeschaft onder dezelfde voorwaarden die nu gelden voor de halvering van het collegegeld.",
+      "summary": "Afschaffing collegegeld voor lerarenopleidingen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "collegegeld",
+        "lerarenopleidingen",
+        "afschaffing",
+        "halvering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 105",
+      "originalQuote": "daarom schaffen we het collegegeld voor de lerarenopleidingen af, onder dezelfde voorwaarden die nu gelden voor de halvering van het collegegeld"
+    },
+    {
+      "promiseCode": "D66-2023-067",
+      "text": "Acceptatieplicht voor scholen: scholen mogen geen leerlingen weigeren op basis van religie of andere levensbeschouwelijke gronden.",
+      "summary": "Acceptatieplicht scholen: geen weigering op basis van religie",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "acceptatieplicht",
+        "scholen",
+        "leerlingen",
+        "religie",
+        "levensbeschouwing"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 107-108",
+      "originalQuote": "Uit deze vernieuwde vrijheid van onderwijs volgt automatisch de acceptatieplicht: scholen mogen geen leerlingen weigeren op basis van religie of andere levensbeschouwelijke grond."
+    },
+    {
+      "promiseCode": "D66-2023-068",
+      "text": "Gemeenten krijgen bevoegdheden bij inschrijving en toelating om beter te kunnen ingrijpen bij toenemende segregatie.",
+      "summary": "Gemeenten krijgen bevoegdheden tegen schoolsegregatie",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "bevoegdheden",
+        "inschrijving",
+        "toelating",
+        "segregatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 108",
+      "originalQuote": "Gemeenten krijgen bevoegdheden bij inschrijving en toelating, bijvoorbeeld om beter te kunnen ingrijpen bij toenemende segregatie."
+    },
+    {
+      "promiseCode": "D66-2023-069",
+      "text": "Vrijwillige ouderbijdrage in huidige vorm wordt afgeschaft. Scholen krijgen voldoende budget voor activiteiten voor alle kinderen via Rijke Schooldag.",
+      "summary": "Afschaffing vrijwillige ouderbijdrage",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderbijdrage",
+        "afschaffing",
+        "schoolactiviteiten",
+        "Rijke Schooldag",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 105-106",
+      "originalQuote": "We schaffen de vrijwillige ouderbijdrage in de huidige vorm af. Daardoor kunnen we de toegankelijkheid van- en de gelijkheid binnen het onderwijs verbeteren"
+    },
+    {
+      "promiseCode": "D66-2023-070",
+      "text": "Minimumstagevergoeding wordt ingesteld voor studenten, voor rekening van werkgevers.",
+      "summary": "Minimumstagevergoeding voor studenten door werkgevers",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "minimum",
+        "studenten",
+        "werkgevers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 108-109",
+      "originalQuote": "Elke student moet de kans hebben om werkervaring op te doen, zonder financiële druk. Daarom stellen we een minimumstagevergoeding in, voor rekening van werkgevers."
+    },
+    {
+      "promiseCode": "D66-2023-071",
+      "text": "Tijdelijke verhoging van uitwonende beurs naar €165 wordt permanent gemaakt voor mbo-, hbo- en wo-studenten.",
+      "summary": "Uitwonende beurs €165 wordt permanent",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitwonende beurs",
+        "permanent",
+        "studiefinanciering",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 109",
+      "originalQuote": "We maken de tijdelijke verhoging van de uitwonende beurs voor mbo, hbo en wo studenten tot €165 permanent."
+    },
+    {
+      "promiseCode": "D66-2023-072",
+      "text": "OV-studentenkaart wordt uitgebreid met abonnement op OV-fiets voor doordeweekse dagen.",
+      "summary": "OV-studentenkaart krijgt OV-fiets abonnement",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "OV-studentenkaart",
+        "OV-fiets",
+        "abonnement",
+        "doordeweeks"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 109-110",
+      "originalQuote": "De OV-studentenkaart wordt uitgebreid met een abonnement op de OV-fiets voor doordeweekse dagen."
+    },
+    {
+      "promiseCode": "D66-2023-073",
+      "text": "Rente op studieleningen wordt geschrapt voor studenten die geen basisbeurs hebben ontvangen, ongeacht hoe lang zij onder het leenstelsel studeerden.",
+      "summary": "Rente studielening geschrapt voor studenten zonder basisbeurs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rente",
+        "studielening",
+        "basisbeurs",
+        "leenstelsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 110",
+      "originalQuote": "Voor studenten voor wie geen basisbeurs beschikbaar is geweest, schrappen we de rente op hun studielening – ongeacht hoe lang de student onder het leenstelsel studeerde."
+    },
+    {
+      "promiseCode": "D66-2023-074",
+      "text": "Bindend studieadvies wordt afgeschaft in het mbo. Elke mbo-student heeft recht op goed, niet-bindend studieadvies.",
+      "summary": "Bindend studieadvies mbo wordt afgeschaft",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend studieadvies",
+        "mbo",
+        "afschaffing",
+        "studieadvies"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 111",
+      "originalQuote": "Een bindend studieadvies is niet passend in het mbo en wordt afgeschaft. Elke student heeft recht op een goed, niet-bindend studieadvies."
+    },
+    {
+      "promiseCode": "D66-2023-075",
+      "text": "Aanvullende beurs en inkomensgrens voor mbo-studenten wordt verhoogd naar niveau van hbo- en wo-studenten.",
+      "summary": "Aanvullende beurs mbo-studenten naar hbo/wo-niveau",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aanvullende beurs",
+        "inkomensgrens",
+        "mbo-studenten",
+        "studiefinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 109",
+      "originalQuote": "We verhogen de aanvullende beurs én de inkomensgrens voor de aanvullende beurs van mbo-studenten naar het niveau van studenten uit het hbo en wo."
+    },
+    {
+      "promiseCode": "D66-2023-076",
+      "text": "Het budget dat bij de invoering van het sociaal leenstelsel is toegevoegd aan de verbetering van de kwaliteit van onderwijs blijft structureel behouden voor het hoger onderwijs.",
+      "summary": "Budget kwaliteitsverbetering hoger onderwijs blijft structureel behouden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "sociaal leenstelsel",
+        "kwaliteitsverbetering",
+        "hoger onderwijs",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 114",
+      "originalQuote": "Het budget dat bij de invoering van het sociaal leenstelsel is toegevoegd aan de verbetering van de kwaliteit van onderwijs blijft structureel behouden voor het hoger onderwijs."
+    },
+    {
+      "promiseCode": "D66-2023-077",
+      "text": "Medezeggenschappers van opleidingscommissie tot centrale (studenten-)raad krijgen goede ondersteuning, faciliteiten en tijd via een landelijk vastgesteld kader voor de ondersteuning met minimumuren, minimumbudget voor scholing en studievertraging-compensatie.",
+      "summary": "Landelijk kader voor ondersteuning medezeggenschap met minimumnormen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "medezeggenschap",
+        "ondersteuning",
+        "landelijk kader",
+        "minimumuren",
+        "scholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 114",
+      "originalQuote": "Medezeggenschappers van opleidingscommissie tot centrale (studenten-)raad krijgen goede ondersteuning, faciliteiten en tijd via een landelijk vastgesteld kader voor de ondersteuning. In dat kader worden tenminste een hoger minimumaantal uren voor alle medezeggenschapslagen, een minimumbudget voor scholing, een minimumbedrag om studievertraging te compenseren en informatie over de faciliteiten vastgelegd."
+    },
+    {
+      "promiseCode": "D66-2023-078",
+      "text": "Het wetenschapsfonds van €5 miljard voor de komende tien jaar wordt structureel gemaakt.",
+      "summary": "Wetenschapsfonds van €5 miljard voor tien jaar structureel maken",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wetenschapsfonds",
+        "vijf miljard",
+        "tien jaar",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 114-115",
+      "originalQuote": "We maken het wetenschapsfonds van €5 miljard voor de komende tien jaar structureel."
+    },
+    {
+      "promiseCode": "D66-2023-079",
+      "text": "Nederland werkt naar de Lissabondoelstelling om 3 procent van het nationaal inkomen aan onderzoek en innovatie te besteden.",
+      "summary": "3% nationaal inkomen aan onderzoek en innovatie besteden (Lissabondoelstelling)",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Lissabondoelstelling",
+        "drie procent",
+        "nationaal inkomen",
+        "onderzoek",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 114-115",
+      "originalQuote": "werken we naar de Lissabondoelstelling om 3 procent van ons nationaal inkomen aan onderzoek en innovatie te besteden om de kenniseconomie overeind te houden."
+    },
+    {
+      "promiseCode": "D66-2023-080",
+      "text": "De vaste bekostiging voor universiteiten en hogescholen wordt verhoogd en het aandeel variabel verlaagd.",
+      "summary": "Meer vaste bekostiging universiteiten en hogescholen, minder variabel",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vaste bekostiging",
+        "universiteiten",
+        "hogescholen",
+        "variabel",
+        "verhogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 115",
+      "originalQuote": "D66 wil de vaste bekostiging verhogen en het aandeel variabel verlagen."
+    },
+    {
+      "promiseCode": "D66-2023-081",
+      "text": "De Einstein telescoop wordt bevorderd om in de Euregio Maas-Rijn gesitueerd te worden.",
+      "summary": "Einstein telescoop in Euregio Maas-Rijn bevorderen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Einstein telescoop",
+        "Euregio Maas-Rijn",
+        "situering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 115",
+      "originalQuote": "We bevorderen dat de Einstein telescoop in de Euregio Maas-Rijn gesitueerd wordt."
+    },
+    {
+      "promiseCode": "D66-2023-082",
+      "text": "Er worden extra investeringen gedaan in de kunst- en cultuursector met verruiming van rijkssubsidies in de breedte.",
+      "summary": "Extra investeringen kunst- en cultuursector, verruiming rijkssubsidies",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringen",
+        "kunst",
+        "cultuursector",
+        "rijkssubsidies",
+        "verruiming"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 116-117",
+      "originalQuote": "We investeren extra in de kunst- en cultuursector. Rijkssubsidies worden in de breedte verruimd."
+    },
+    {
+      "promiseCode": "D66-2023-083",
+      "text": "Bij de bouw van publieke instellingen wordt het verplicht om 1 procent uit te geven aan design, kunst of cultuur.",
+      "summary": "Verplichting 1% uitgaven aan kunst bij bouw publieke gebouwen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouw",
+        "publieke instellingen",
+        "één procent",
+        "design",
+        "kunst"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 117",
+      "originalQuote": "Daarom wordt het verplicht om bij de bouw van een publieke instelling 1 procent uit te geven aan design, kunst of cultuur."
+    },
+    {
+      "promiseCode": "D66-2023-084",
+      "text": "De investeringsverplichting voor Nederlandse film en series wordt verhoogd en er komt een vergelijkbare verplichting voor audiodiensten.",
+      "summary": "Hogere investeringsverplichting Nederlandse film/series en voor audiodiensten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringsverplichting",
+        "Nederlandse film",
+        "series",
+        "audiodiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 117",
+      "originalQuote": "We verhogen de investeringsverplichting voor Nederlandse film en series, zodat de opbrengsten gebruikt kunnen worden om nieuwe Nederlandse content te maken. We stellen een vergelijkbare investeringsverplichting in voor audiodiensten die verdienen aan content van Nederlandse makers."
+    },
+    {
+      "promiseCode": "D66-2023-085",
+      "text": "Het Slavernijmuseum wordt een Rijksmuseum.",
+      "summary": "Slavernijmuseum wordt Rijksmuseum",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Slavernijmuseum",
+        "Rijksmuseum"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 119",
+      "originalQuote": "Het Slavernijmuseum wordt een Rijksmuseum."
+    },
+    {
+      "promiseCode": "D66-2023-086",
+      "text": "1 juli Keti Koti wordt een nationale feest- en herdenkingsdag, net zoals Bevrijdingsdag op 5 mei.",
+      "summary": "Keti Koti op 1 juli wordt nationale feest- en herdenkingsdag",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Keti Koti",
+        "1 juli",
+        "nationale feestdag",
+        "herdenkingsdag"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 120-121",
+      "originalQuote": "Op 1 juli is het Keti Koti (Dia di Abolishon, Emancipation Day). Daar maken we jaarlijks een nationale feest- en herdenkingsdag van, net zoals Bevrijdingsdag op 5 mei dat is."
+    },
+    {
+      "promiseCode": "D66-2023-087",
+      "text": "Het bestaande fonds voor gevolgen slavernijverleden wordt uitgebreid van 200 miljoen euro in vijf jaar naar 400 miljoen euro in tien jaar.",
+      "summary": "Slavernijfonds uitbreiden van €200 mln/5 jaar naar €400 mln/10 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slavernijverleden",
+        "fonds",
+        "400 miljoen",
+        "tien jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 121",
+      "originalQuote": "breiden wij het bestaande fonds uit van 200 miljoen euro in vijf jaar naar 400 miljoen euro in tien jaar."
+    },
+    {
+      "promiseCode": "D66-2023-088",
+      "text": "Het betaald ouderschapsverlof wordt verlengd met nog negen weken voor beide ouders tegen 70 procent loondoorbetaling, met een minimum van het minimumloon.",
+      "summary": "Ouderschapsverlof +9 weken beide ouders, 70% loon, minimum minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderschapsverlof",
+        "negen weken",
+        "70 procent",
+        "loondoorbetaling",
+        "minimumloon"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 121-122",
+      "originalQuote": "Op korte termijn verlengen we, voor beide ouders en tegen 70 procent loondoorbetaling, de negen weken betaald ouderschapsverlof in het eerste levensjaar van het kind met nog negen weken. Er komt een minimum aan de uitkering zodat iedereen ten minste het minimumloon ontvangt (of 100 procent dagloon als dat lager is)."
+    },
+    {
+      "promiseCode": "D66-2023-089",
+      "text": "De Wet ingroeiquotum wordt aangepast met een tijdelijk quotum van vijf jaar voor zowel 30 procent vrouwen als mannen in toezicht én bestuur van bedrijven, doorgetrokken naar de overheid.",
+      "summary": "Tijdelijk 5-jaar quotum 30% vrouwen/mannen in bestuur bedrijven en overheid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Wet ingroeiquotum",
+        "vijf jaar",
+        "30 procent",
+        "bestuur",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 122",
+      "originalQuote": "Wij willen de wet aanpassen met een tijdelijk quotum van vijf jaar voor zowel 30 procent vrouwen als mannen in functies in het toezicht én in het bestuur van bedrijven, dit trekken we door naar de overheid."
+    },
+    {
+      "promiseCode": "D66-2023-090",
+      "text": "Pogingen om seksuele gerichtheid of genderidentiteit te veranderen met conversiehandelingen worden verboden.",
+      "summary": "Verbod op conversiehandelingen voor seksuele gerichtheid/genderidentiteit",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "conversiehandelingen",
+        "verbod",
+        "seksuele gerichtheid",
+        "genderidentiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 123",
+      "originalQuote": "Pogingen om de seksuele gerichtheid of genderidentiteit van mensen te veranderen met zogenaamde conversiehandelingen worden verboden."
+    },
+    {
+      "promiseCode": "D66-2023-091",
+      "text": "Er komt een wettelijk transitieverlof voor transgender personen waarbij het loon wordt doorbetaald, naar voorbeeld van zwangerschapsverlof.",
+      "summary": "Wettelijk transitieverlof transgender personen met loondoorbetaling",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "transitieverlof",
+        "transgender",
+        "wettelijk",
+        "loondoorbetaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 124",
+      "originalQuote": "Er komt een wettelijk transitieverlof voor transgender personen, waarbij het loon wordt doorbetaald – naar voorbeeld van het zwangerschapsverlof."
+    },
+    {
+      "promiseCode": "D66-2023-092",
+      "text": "Het aantal hectaren natuur wordt uitgebreid, er worden bufferstroken rondom Natura 2000-gebieden gerealiseerd en de Waddenzee wordt beschermd.",
+      "summary": "Uitbreiden natuur, bufferstroken Natura 2000, beschermen Waddenzee",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "natuur",
+        "hectaren",
+        "bufferstroken",
+        "Natura2000",
+        "Waddenzee"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 138",
+      "originalQuote": "We breiden het aantal hectaren natuur uit, we realiseren bufferstroken rondom Natura 2000-gebieden en beschermen de Waddenzee."
+    },
+    {
+      "promiseCode": "D66-2023-093",
+      "text": "De landbouw wordt klimaatneutraal in 2040, de stikstofuitstoot wordt gehalveerd in 2030 conform het rapport 'Wat kan wel' van de commissie-Remkes.",
+      "summary": "Klimaatneutrale landbouw 2040, halvering stikstofuitstoot 2030",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "landbouw",
+        "stikstofuitstoot",
+        "commissie-Remkes"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 138",
+      "originalQuote": "We werken toe naar een klimaatneutrale landbouw in 2040. Dat vraagt om forse investeringen in de landbouw, meer grondgebondenheid en een sterkere positie van boeren ten opzichte van de voedings- en levensmiddelenindustrie. In lijn met het rapport 'Wat kan wel' van de commissie- Remkes, halveren we de stikstofuitstoot in 2030."
+    },
+    {
+      "promiseCode": "D66-2023-094",
+      "text": "BTW wordt afgeschaft voor groente en fruit om gezond en duurzaam eten goedkoper te maken. Er wordt gestopt met kiloknallers voor vlees.",
+      "summary": "Afschaffen BTW groente/fruit, stoppen kiloknallers vlees",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BTW",
+        "groente",
+        "fruit",
+        "kiloknallers",
+        "vlees"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 138",
+      "originalQuote": "We maken gezond en duurzaam eten goedkoper, bijvoorbeeld door btw af te schaffen voor groente en fruit en stoppen met kiloknallers voor vlees."
+    },
+    {
+      "promiseCode": "D66-2023-095",
+      "text": "Een klimaatticket wordt geïntroduceerd waarmee met één kaart tegen gereduceerd tarief kan worden gereisd in al het openbaar vervoer buiten de spits.",
+      "summary": "Klimaatticket voor OV buiten spits tegen gereduceerd tarief",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatticket",
+        "openbaar vervoer",
+        "gereduceerd tarief",
+        "spits"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 138",
+      "originalQuote": "We introduceren een klimaatticket voor het openbaar vervoer: met één kaart tegen een gereduceerd tarief reizen in al het openbaar vervoer buiten de spits."
+    },
+    {
+      "promiseCode": "D66-2023-096",
+      "text": "Rekeningrijden wordt ingevoerd waarbij rekening wordt gehouden met regionale verschillen.",
+      "summary": "Invoeren rekeningrijden met regionale verschillen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rekeningrijden",
+        "regionale verschillen",
+        "autorijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 138",
+      "originalQuote": "We maken autorijden eerlijker door rekeningrijden in te voeren, waarbij we rekening houden met de regionale verschillen."
+    },
+    {
+      "promiseCode": "D66-2023-097",
+      "text": "Vliegen op kortere afstand, businessclass en privévluchten worden duurder gemaakt. Nachtvluchten vanaf Schiphol worden gestopt en Lelystad Airport gaat definitief niet open.",
+      "summary": "Duurder maken kortafstand/business/privévluchten, stoppen nachtvluchten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegen",
+        "businessclass",
+        "privévluchten",
+        "nachtvluchten",
+        "Schiphol",
+        "Lelystad Airport"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 138",
+      "originalQuote": "We maken vliegen op kortere afstand, in businessclass en privé-vluchten duurder. We stoppen met de nachtvluchten vanaf Schiphol en Lelystad Airport gaat definitief niet open."
+    },
+    {
+      "promiseCode": "D66-2023-098",
+      "text": "De A27 bij Amelisweerd wordt niet verdubbeld, in plaats daarvan wordt geïnvesteerd in fietspaden.",
+      "summary": "Geen verdubbeling A27 Amelisweerd, investeren in fietspaden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "A27",
+        "Amelisweerd",
+        "verdubbeling",
+        "fietspaden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 140",
+      "originalQuote": "We verdubbelen de A27 bij Amelisweerd niet en investeren in fietspaden, zodat iedereen kan blijven genieten van de natuur."
+    },
+    {
+      "promiseCode": "D66-2023-099",
+      "text": "Bij rekeningrijden wordt een systeem ingevoerd met differentiatie naar tijd en plaats, met hogere tarieven in stedelijke gebieden en korting in gebieden met minder OV-aanbod.",
+      "summary": "Gedifferentieerd rekeningrijden: hoger in stad, korting elders",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rekeningrijden",
+        "differentiatie",
+        "stedelijke gebieden",
+        "OV-aanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 141",
+      "originalQuote": "Bij de invoering van betalen naar gebruik kiest D66 voor een systeem waarin gedifferentieerd wordt naar tijd en plaats. In de stedelijke gebieden hanteren we een hoger tarief. Hier willen we het autogebruik ontmoedigen om de luchtkwaliteit in de stad te verbeteren en maken we ruimte voor ander vervoer. Tegelijkertijd willen we een korting in gebieden waar mensen afhankelijker zijn van de auto, omdat de voorzieningen op grotere afstanden liggen en het ov-aanbod minder is."
+    },
+    {
+      "promiseCode": "D66-2023-100",
+      "text": "Het Rijk stelt samen met decentrale overheden per regio een kansenagenda op met afspraken over regiospecifieke investeringen gericht op het wegwerken van achterstanden.",
+      "summary": "Kansenagenda per regio voor wegwerken achterstanden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kansenagenda",
+        "regio",
+        "investeringen",
+        "achterstanden",
+        "decentrale overheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 141",
+      "originalQuote": "Om invulling te geven aan een nieuw regiobeleid wil D66 dat het Rijk samen met de decentrale overheden per regio een kansenagenda opstelt. We willen daarmee de afstand tussen Rijk en regio verkleinen. In deze kansenagenda worden afspraken gemaakt over regiospecifieke investeringen, gericht op het wegwerken van achterstanden op gebied van werkgelegenheid, onderwijs, huisvesting, gezondheid, bereikbaarheid en leefbaarheid."
+    },
+    {
+      "promiseCode": "D66-2023-101",
+      "text": "Gemeenten krijgen extra structurele middelen door het stoppen van de opschalingskorting, schrappen van de taakstelling jeugdzorg en extra middelen voor onderwijshuisvesting.",
+      "summary": "Extra structurele middelen gemeenten via diverse maatregelen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeenten",
+        "structurele middelen",
+        "opschalingskorting",
+        "jeugdzorg",
+        "onderwijshuisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 141",
+      "originalQuote": "Daarvoor kijken we bijvoorbeeld naar het stoppen met de achterhaalde opschalingskorting, het schrappen van de taakstelling voor de jeugdzorg en extra middelen voor onderwijshuisvesting."
+    },
+    {
+      "promiseCode": "D66-2023-102",
+      "text": "D66 wil in de komende periode extra blijven investeren in de rechtspraak en rechtsstaat, door middelen beschikbaar te maken voor het Openbaar Ministerie, gerechtstolken, reclassering, gevangeniswezen, forensische psychiatrie en sociale advocatuur.",
+      "summary": "Extra investeringen in rechtspraak en rechtsstaat",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechtspraak",
+        "rechtsstaat",
+        "Openbaar Ministerie",
+        "gerechtstolken",
+        "reclassering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 192-193",
+      "originalQuote": "D66 wil daarom ook in de komende periode extra blijven investeren in onze rechtspraak en rechtsstaat. We investeren in de hele keten van opsporing en vervolging, van rechtspraak tot straffen."
+    },
+    {
+      "promiseCode": "D66-2023-103",
+      "text": "Rechterlijke uitspraken komen zoveel en zo snel mogelijk digitaal beschikbaar. Daarnaast meer openheid over rechterlijke adviezen bij gratieverzoeken en uitspraken van private geschilbeslechtende instellingen.",
+      "summary": "Digitale beschikbaarheid rechterlijke uitspraken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechterlijke uitspraken",
+        "digitaal",
+        "transparantie",
+        "gratieverzoeken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 193",
+      "originalQuote": "Rechterlijke uitspraken komen zoveel en zo snel mogelijk digitaal beschikbaar. Daarnaast willen we meer openheid over rechterlijke adviezen bij gratieverzoeken en de uitspraken van (semi)private geschil-beslechtende instellingen."
+    },
+    {
+      "promiseCode": "D66-2023-104",
+      "text": "Kunstmatige intelligentie bij het doorzoeken van jurisprudentie kan de rechtspraak helpen, maar experimenteren met AI in de rechtspraak moet worden gereguleerd omdat mensen rechterlijke uitspraken moeten doen.",
+      "summary": "Regulering kunstmatige intelligentie in rechtspraak",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kunstmatige intelligentie",
+        "jurisprudentie",
+        "rechtspraak",
+        "regulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 193",
+      "originalQuote": "Om die reden moet de internationale trend om te experimenteren met kunstmatige intelligentie in de rechtspraak worden gereguleerd."
+    },
+    {
+      "promiseCode": "D66-2023-105",
+      "text": "De griffierechten verder verlagen, zodat ook in kleine juridische conflicten en voor mensen met een lager inkomen de financiële drempel laag ligt.",
+      "summary": "Verlaging griffierechten voor toegankelijkheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "griffierechten",
+        "verlaging",
+        "juridische conflicten",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 194",
+      "originalQuote": "We willen de griffierechten verder verlagen, zodat ook in kleine juridische conflicten en voor mensen met een lager inkomen de financiële drempel laag ligt."
+    },
+    {
+      "promiseCode": "D66-2023-106",
+      "text": "Het financieringssysteem van de sociale advocatuur verbeteren en een periodieke herijking invoeren. Meer stageplekken bij sociale kantoren creëren om het beroep aantrekkelijker te maken.",
+      "summary": "Verbetering financiering sociale advocatuur",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale advocatuur",
+        "financieringssysteem",
+        "herijking",
+        "stageplekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 194",
+      "originalQuote": "D66 wil het financieringssysteem van de sociale advocatuur verbeteren en een periodieke herijking invoeren, zodat deze passend is en blijft bij de praktijk. Daarnaast willen we het beroep van sociaal advocaat aantrekkelijker maken, onder andere door het creëren van meer stageplekken bij de sociale kantoren."
+    },
+    {
+      "promiseCode": "D66-2023-107",
+      "text": "De HALT-aanpak introduceren voor jongvolwassenen, omdat de kans dat zij opnieuw een strafbaar feit plegen daardoor aanzienlijk lager wordt.",
+      "summary": "HALT-aanpak uitbreiden naar jongvolwassenen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "HALT-aanpak",
+        "jongvolwassenen",
+        "recidive",
+        "strafbaar feit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 194",
+      "originalQuote": "D66 wil dan ook de HALT-aanpak introduceren voor jongvolwassenen, omdat de kans dat zij opnieuw een strafbaar feit plegen daardoor aanzienlijk lager wordt."
+    },
+    {
+      "promiseCode": "D66-2023-108",
+      "text": "Videobellen binnen alle rechtsgebieden mogelijk maken om de toegang tot de rechter te vergroten.",
+      "summary": "Videobellen in alle rechtsgebieden mogelijk maken",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "videobellen",
+        "rechtsgebieden",
+        "toegang",
+        "rechter"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 195",
+      "originalQuote": "D66 wil dat videobellen binnen alle rechtsgebieden mogelijk wordt. Dit vergroot de toegang tot de rechter."
+    },
+    {
+      "promiseCode": "D66-2023-109",
+      "text": "Extra geld vrijmaken voor gemeenten om de wachtlijsten in de jeugdzorg aan te pakken, omdat veel problemen in de jeugdbescherming het resultaat zijn van problemen in de jeugdzorg.",
+      "summary": "Extra geld gemeenten voor jeugdzorg wachtlijsten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "wachtlijsten",
+        "jeugdzorg",
+        "jeugdbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 195",
+      "originalQuote": "We maken extra geld vrij voor gemeenten om de wachtlijsten in de jeugdzorg aan te pakken. Veel problemen in de jeugdbescherming zijn het resultaat van problemen in de jeugdzorg."
+    },
+    {
+      "promiseCode": "D66-2023-110",
+      "text": "Gesubsidieerde rechtsbijstand voor zowel ouders als kinderen die met jeugdbescherming in aanraking komen, zodat zij begeleid kunnen worden door gespecialiseerde juristen.",
+      "summary": "Gesubsidieerde rechtsbijstand jeugdbescherming",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gesubsidieerde rechtsbijstand",
+        "jeugdbescherming",
+        "gespecialiseerde juristen",
+        "kinderen",
+        "ouders"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 196",
+      "originalQuote": "D66 wil daarom gesubsidieerde rechtsbijstand voor zowel ouders als kinderen die met jeugdbescherming in aanraking komen, zodat zij begeleid kunnen worden door gespecialiseerde juristen en hun rechten beter worden beschermd."
+    },
+    {
+      "promiseCode": "D66-2023-111",
+      "text": "Het Nationaal Programma Leefbaarheid en Veiligheid voortzetten. Deze integrale aanpak van wonen, werken, inkomen, onderwijs, veiligheid en gezondheid is bewezen effectief.",
+      "summary": "Voortzetting Nationaal Programma Leefbaarheid en Veiligheid",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Nationaal Programma",
+        "Leefbaarheid",
+        "Veiligheid",
+        "integrale aanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 198",
+      "originalQuote": "D66 wil het Nationaal Programma Leefbaarheid en Veiligheid voortzetten. Deze integrale aanpak van wonen, werken, inkomen, onderwijs, veiligheid en gezondheid is bewezen effectief in het verbeteren van de omstandigheden in de betrokken wijken."
+    },
+    {
+      "promiseCode": "D66-2023-112",
+      "text": "Een algeheel verbod op consumentenvuurwerk invoeren vanwege maatschappelijke gevolgen voor veiligheid hulpverleners, impact op natuur, gezondheid en schadekosten.",
+      "summary": "Algeheel verbod consumentenvuurwerk",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "consumentenvuurwerk",
+        "veiligheid",
+        "hulpverleners",
+        "natuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 198",
+      "originalQuote": "D66 wil een algeheel verbod op consumentenvuurwerk. De maatschappelijke gevolgen voor de veiligheid van hulpverleners, de impact op de natuur, de gezondheid van mensen en de kosten van de schade die het aanricht, wegen wat D66 betreft niet op tegen de vrijheid om vuurwerk af te steken."
+    },
+    {
+      "promiseCode": "D66-2023-113",
+      "text": "Een externe organisatie in het leven roepen om misstanden binnen de politieorganisatie aan te pakken. Politiemensen moeten met klachten altijd bij deze externe partij terechtkunnen.",
+      "summary": "Externe organisatie tegen misstanden politie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "externe organisatie",
+        "misstanden",
+        "politieorganisatie",
+        "klachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 199",
+      "originalQuote": "D66 wil een externe organisatie in het leven roepen om deze misstanden aan te pakken. Politiemensen moeten met klachten over misstanden altijd bij deze externe partij terechtkunnen."
+    },
+    {
+      "promiseCode": "D66-2023-114",
+      "text": "Meer capaciteit om milieucriminaliteit op te sporen en aan te pakken. Bedrijven die zich hieraan herhaaldelijk schuldig maken, worden als veelpleger aangepakt.",
+      "summary": "Meer capaciteit aanpak milieucriminaliteit",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "milieucriminaliteit",
+        "opsporing",
+        "bedrijven",
+        "veelpleger"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 200",
+      "originalQuote": "We willen meer capaciteit om milieucriminaliteit op te sporen en aan te pakken. Bedrijven die zich hieraan herhaaldelijk schuldig maken, worden als veelpleger aangepakt."
+    },
+    {
+      "promiseCode": "D66-2023-115",
+      "text": "De 'vervangende taakstraf' opnemen in de wet en het maximale aantal uren taakstraf verhogen. De rechter moet elektronische detentie als hoofdstraf kunnen opleggen.",
+      "summary": "Vervangende taakstraf in wet en elektronische detentie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vervangende taakstraf",
+        "wet",
+        "maximale uren",
+        "elektronische detentie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 200",
+      "originalQuote": "We nemen daarom de 'vervangende taakstraf' op in de wet en verhogen het maximale aantal uren taakstraf. Bovendien moet de rechter de mogelijkheid krijgen om elektronische detentie op te leggen als hoofdstraf."
+    },
+    {
+      "promiseCode": "D66-2023-116",
+      "text": "Het besluit om gratie te verlenen bij een gevangenisstraf moet door de rechter worden genomen. De rol van de minister van Justitie en de koning moet worden beperkt.",
+      "summary": "Gratiebesluit door rechter in plaats van minister",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratie",
+        "rechter",
+        "minister",
+        "Justitie",
+        "koning"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 201",
+      "originalQuote": "Het besluit om gratie te verlenen bij een (levenslange) gevangenisstraf moet door de rechter worden genomen. De rol van de minister van Justitie en de koning moet worden beperkt."
+    },
+    {
+      "promiseCode": "D66-2023-117",
+      "text": "De bevoegdheid van de minister van Justitie om zich met strafzaken te bemoeien door het OM een opdracht te geven, moet komen te vervallen vanwege onafhankelijkheid OM.",
+      "summary": "Afschaffing ministeriële bevoegdheid over OM",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "Justitie",
+        "Openbaar Ministerie",
+        "onafhankelijkheid",
+        "bevoegdheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 201",
+      "originalQuote": "De bevoegdheid van de minister van Justitie om zich met strafzaken te bemoeien door het OM een opdracht te geven, beperkt de onafhankelijkheid van het OM. Daarom willen wij dat deze bevoegdheid komt te vervallen."
+    },
+    {
+      "promiseCode": "D66-2023-118",
+      "text": "Één steunpunt inrichten voor alle beroepen met een publieke taak, waar werknemers en werkgevers terechtkunnen voor advies en hulp bij aangiften van bedreigingen.",
+      "summary": "Steunpunt voor bedreigde publieke beroepen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "steunpunt",
+        "publieke taak",
+        "bedreigingen",
+        "aangiften"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 202",
+      "originalQuote": "We richten naar voorbeeld van PersVeilig één steunpunt in voor alle beroepen met een publieke taak, waar werknemers en werkgevers terechtkunnen voor onder andere advies en hulp bij aangiften."
+    },
+    {
+      "promiseCode": "D66-2023-119",
+      "text": "Maatschappelijke instellingen worden verplicht om openheid te geven over buitenlandse geldstromen en ontvangsten in natura ter bestrijding van ongewenste buitenlandse beïnvloeding.",
+      "summary": "Transparantieplicht buitenlandse financiering instellingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maatschappelijke instellingen",
+        "buitenlandse geldstromen",
+        "transparantie",
+        "beïnvloeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 203",
+      "originalQuote": "Maatschappelijke instellingen worden daarom verplicht om openheid te geven over buitenlandse geldstromen en ontvangsten in natura."
+    },
+    {
+      "promiseCode": "D66-2023-120",
+      "text": "Europese transnationale kieslijsten met een Europese lijsttrekker invoeren voor Europese verkiezingen",
+      "summary": "Invoering transnationale kieslijsten met Europese lijsttrekker",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transnationale",
+        "kieslijsten",
+        "lijsttrekker",
+        "Europese verkiezingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 216",
+      "originalQuote": "We volgen de aanbevelingen uit die burgerpanels op en beginnen daarbij bij Europese democratisering, zoals Europese transnationale kieslijsten met een Europese lijsttrekker."
+    },
+    {
+      "promiseCode": "D66-2023-121",
+      "text": "Verdragswijziging van de Europese Unie doorvoeren met nieuwe instrumenten ter bescherming van rechtsstaat en waardengemeenschap",
+      "summary": "EU-verdragswijziging met rechtsstaat-instrumenten",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verdragswijziging",
+        "rechtsstaat",
+        "instrumenten",
+        "waardengemeenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 216",
+      "originalQuote": "Verdragswijziging is een logisch gevolg van de gehouden burgerpanels en daar spannen wij ons dus voor in. In het nieuwe verdrag nemen we meer instrumenten op die de rechtsstaat en de waardengemeenschap waar we naar streven beschermen."
+    },
+    {
+      "promiseCode": "D66-2023-122",
+      "text": "De invloed van het Europees Parlement uitbreiden met initiatiefrecht, budgetbevoegdheid en het recht om individuele Europese Commissarissen weg te sturen",
+      "summary": "Uitbreiding bevoegdheden Europees Parlement",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Europees Parlement",
+        "initiatiefrecht",
+        "budgetbevoegdheid",
+        "Commissarissen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 217",
+      "originalQuote": "De invloed van het Europees Parlement wordt uitgebreid en geborgd, met onder andere initiatiefrecht, budgetbevoegdheid en het recht om Europese Commissarissen individueel weg te sturen."
+    },
+    {
+      "promiseCode": "D66-2023-123",
+      "text": "Veto's in de Europese Raad afschaffen, ook op het gebied van buitenlandbeleid, defensie en belastingen in het groene, vermogens- en bedrijfswinstendomein",
+      "summary": "Afschaffing veto's in Europese Raad",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vetos",
+        "Europese Raad",
+        "buitenlandbeleid",
+        "defensie",
+        "belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 217",
+      "originalQuote": "Veto's in de (Europese) Raad worden afgeschaft, ook op het gebied van buitenlandbeleid, defensie en bij belastingen als het gaat om het groene, vermogens- en bedrijfswinstendomein."
+    },
+    {
+      "promiseCode": "D66-2023-124",
+      "text": "Het aantal Eurocommissarissen aanzienlijk verminderen",
+      "summary": "Vermindering aantal Eurocommissarissen",
+      "theme": "BUITENLAND",
+      "specificity": "VAAG",
+      "keywords": [
+        "Eurocommissarissen",
+        "verminderen",
+        "aantal"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 217",
+      "originalQuote": "D66 streeft ernaar het aantal Eurocommissarissen aanzienlijk te verminderen."
+    },
+    {
+      "promiseCode": "D66-2023-125",
+      "text": "De EU-begroting moderniseren met minder geld naar landbouw en meer richting innovatieve industrieën",
+      "summary": "Modernisering EU-begroting: minder landbouw, meer innovatie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "EU-begroting",
+        "landbouw",
+        "innovatieve industrieën",
+        "moderniseren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 218",
+      "originalQuote": "We moderniseren daarom de EU begroting, met minder geld naar landbouw en meer richting innovatieve industrieën."
+    },
+    {
+      "promiseCode": "D66-2023-126",
+      "text": "Harmonisatie van de grondslag van vennootschapsbelasting op EU-niveau om belastingontduiking tegen te gaan",
+      "summary": "EU-harmonisatie vennootschapsbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "harmonisatie",
+        "vennootschapsbelasting",
+        "belastingontduiking",
+        "EU-niveau"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 218",
+      "originalQuote": "Nederland pleit voor een verstevigde aanpak van belastingontduiking. Er is op EU-niveau harmonisatie nodig van de (grondslag van) vennootschapsbelasting, om een einde te maken aan de race to the bottom onder multinationals."
+    },
+    {
+      "promiseCode": "D66-2023-127",
+      "text": "Coördinatie van fiscaal beleid en sociale zekerheidszaken door de Europese Unie voor grenswerkers",
+      "summary": "EU-coördinatie fiscaal beleid en sociale zekerheid grenswerkers",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fiscaal beleid",
+        "sociale zekerheid",
+        "grenswerkers",
+        "coördinatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 219",
+      "originalQuote": "De Europese Unie coördineert straks fiscaal beleid en sociale zekerheidszaken beter."
+    },
+    {
+      "promiseCode": "D66-2023-128",
+      "text": "Een Europese grenswerkrichtlijn invoeren waardoor Europeanen bij alle overheidsinstellingen ook in het Engels zaken kunnen regelen",
+      "summary": "Europese grenswerkrichtlijn met Engelstalige overheidsservice",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grenswerkrichtlijn",
+        "overheidsinstellingen",
+        "Engels",
+        "dienstverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 219",
+      "originalQuote": "Als Europeaan zou je altijd, bij alle overheidsinstellingen, ook in het Engels zaken moeten kunnen regelen. D66 zet in op een Europese grenswerkrichtlijn."
+    },
+    {
+      "promiseCode": "D66-2023-129",
+      "text": "Kandidaat-lidstaten een observantstatus geven of eerder laten meepraten over Europese beslissingen tijdens het toetredingsproces",
+      "summary": "Observantstatus voor EU-kandidaat-lidstaten",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kandidaat-lidstaten",
+        "observantstatus",
+        "toetredingsproces",
+        "besluitvorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 220",
+      "originalQuote": "Maar D66 wil kandidaat-lidstaten wel al eerder een 'observant' status geven of al eerder mee laten praten over Europese beslissingen."
+    },
+    {
+      "promiseCode": "D66-2023-130",
+      "text": "Een permanente zetel voor de Europese Unie in de VN-Veiligheidsraad",
+      "summary": "Permanente EU-zetel in VN-Veiligheidsraad",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "permanente zetel",
+        "Europese Unie",
+        "VN-Veiligheidsraad"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 220-221",
+      "originalQuote": "We pleiten voor een permanente zetel voor de Europese Unie in de VNVeiligheidsraad."
+    },
+    {
+      "promiseCode": "D66-2023-131",
+      "text": "Russische tegoeden confisqueren en inzetten voor de wederopbouw van Oekraïne",
+      "summary": "Confiscatie Russische tegoeden voor Oekraïne-wederopbouw",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Russische tegoeden",
+        "confisqueren",
+        "wederopbouw",
+        "Oekraïne"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 221",
+      "originalQuote": "Russische tegoeden confisqueren we en zetten we in voor de wederopbouw van Oekraïne."
+    },
+    {
+      "promiseCode": "D66-2023-132",
+      "text": "De Armeense genocide, de Holodomor en de genocide op Oeigoeren formeel erkennen",
+      "summary": "Formele erkenning genocides Armenië, Oekraïne en Oeigoeren",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "genocide",
+        "erkenning",
+        "Armenië",
+        "Holodomor",
+        "Oeigoeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 222",
+      "originalQuote": "We erkennen de Armeense genocide, de Holodomor – de hongersnood in Oekraïne in de jaren '30 º en de genocide op Oeigoeren formeel."
+    },
+    {
+      "promiseCode": "D66-2023-133",
+      "text": "De nationaliteitswet moderniseren zodat iedereen die de Nederlandse nationaliteit aanneemt de oorspronkelijke nationaliteit mag behouden",
+      "summary": "Modernisering nationaliteitswet voor dubbele nationaliteit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaliteitswet",
+        "dubbele nationaliteit",
+        "moderniseren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 222",
+      "originalQuote": "De nationaliteitswet wordt gemoderniseerd: iedereen die de Nederlandse nationaliteit wil aannemen, mag de oorspronkelijke nationaliteit behouden."
+    },
+    {
+      "promiseCode": "D66-2023-134",
+      "text": "Nederlanders in het buitenland mogen te allen tijde ten minste één Nederlandse bankrekening openen en behouden",
+      "summary": "Recht op Nederlandse bankrekening voor Nederlanders in buitenland",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Nederlandse bankrekening",
+        "Nederlanders",
+        "buitenland",
+        "recht"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 222",
+      "originalQuote": "Nederlanders in het buitenland mogen te allen tijde ten minste één Nederlandse bankrekening openen en behouden."
+    },
+    {
+      "promiseCode": "D66-2023-135",
+      "text": "Bij verblijf van maximaal één jaar in het buitenland is uitschrijven uit de Basisregistratie Personen niet nodig",
+      "summary": "Geen uitschrijving BRP bij kortstondig buitenlandverblijf",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Basisregistratie Personen",
+        "uitschrijven",
+        "buitenland",
+        "jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 222",
+      "originalQuote": "Wanneer je maximaal één jaar in het buitenland verblijft, is uitschrijven uit de Basisregistratie Personen niet nodig."
+    },
+    {
+      "promiseCode": "D66-2023-136",
+      "text": "De uitgaven aan defensie ook na 2026 op de norm van 2 procent van het BBP houden",
+      "summary": "Defensie-uitgaven minimaal 2% BBP na 2026",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "2 procent",
+        "BBP",
+        "norm"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 224",
+      "originalQuote": "De uitgaven aan defensie wil D66 ook na 2026 op de norm van 2 procent van het BBP houden."
+    },
+    {
+      "promiseCode": "D66-2023-137",
+      "text": "Het dienstjaar uitbreiden naar Scandinavisch model als vrijwillige diensttijd om nieuw talent aan te trekken",
+      "summary": "Uitbreiding dienstjaar naar Scandinavisch model",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienstjaar",
+        "Scandinavisch model",
+        "vrijwillige diensttijd",
+        "talent"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 225",
+      "originalQuote": "Met de uitbreiding van het dienjaar naar Scandinavisch model, een vrijwillige diensttijd, trekken we nieuw talent aan."
+    },
+    {
+      "promiseCode": "D66-2023-138",
+      "text": "Een Erasmusprogramma voor militairen invoeren voor uitwisseling van culturen, kennis en tactieken",
+      "summary": "Erasmusprogramma voor militaire uitwisseling",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Erasmusprogramma",
+        "militairen",
+        "uitwisseling",
+        "tactieken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 226",
+      "originalQuote": "Naast gezamenlijke EU-trainingen en EU-missies komt er een Erasmusprogramma voor militairen."
+    },
+    {
+      "promiseCode": "D66-2023-139",
+      "text": "Een militaire Schengenzone invoeren om militair materieel sneller door Europa te kunnen verplaatsen",
+      "summary": "Militaire Schengenzone voor materieelverplaatsing",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "militaire Schengenzone",
+        "materieel",
+        "verplaatsing",
+        "Europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 226",
+      "originalQuote": "Een militaire Schengenzone zorgt ervoor dat we militair materieel sneller door Europa kunnen verplaatsen naar de plek waar het nodig is."
+    },
+    {
+      "promiseCode": "D66-2023-140",
+      "text": "Er komt een Erasmusprogramma voor militairen waarbij militairen uitwisseling krijgen tussen verschillende landen en EU-missies voor het delen van culturen, kennis en tactieken.",
+      "summary": "Erasmusprogramma voor militairen wordt ingevoerd",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Erasmusprogramma",
+        "militairen",
+        "uitwisseling",
+        "EU-missies"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 227",
+      "originalQuote": "en EU-missies komt er een Erasmusprogramma voor militairen. Deze uitwisseling van culturen, kennis en tactieken zorgt voor hechtere samenwerking tijdens gezamenlijke opdrachten."
+    },
+    {
+      "promiseCode": "D66-2023-141",
+      "text": "Een militaire Schengenzone wordt ingevoerd om militair materieel sneller door Europa te kunnen verplaatsen naar plekken waar het nodig is.",
+      "summary": "Militaire Schengenzone voor snellere verplaatsing materieel",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "militaire",
+        "Schengenzone",
+        "materieel",
+        "verplaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 227",
+      "originalQuote": "Een militaire Schengenzone zorgt ervoor dat we militair materieel sneller door Europa kunnen verplaatsen naar de plek waar het nodig is."
+    },
+    {
+      "promiseCode": "D66-2023-142",
+      "text": "Er komt een Eurocommissaris voor Defensie die toeziet op het versterken van de Europese defensie-industrie en een volwaardig Europees defensie-industriebeleid ontwikkelt.",
+      "summary": "Eurocommissaris voor Defensie wordt aangesteld",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Eurocommissaris",
+        "defensie",
+        "industrie",
+        "toezicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 227",
+      "originalQuote": "Een Eurocommissaris voor Defensie ziet toe op het versterken van de Europese defensie- industrie. Met een volwaardig Europees defensie-industriebeleid gaan we fragmentatie tegen en heffen we nationale beperkingen op."
+    },
+    {
+      "promiseCode": "D66-2023-143",
+      "text": "Er wordt een onafhankelijke Europese wapenexportautoriteit ingesteld die leveringen van lidstaten toetst, adviseert en een doorslaggevende stem heeft bij meningsverschillen over wapenleveringen.",
+      "summary": "Europese wapenexportautoriteit wordt opgericht",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wapenexportautoriteit",
+        "Europees",
+        "toetsing",
+        "leveringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 227",
+      "originalQuote": "Er wordt daarom een onafhankelijke Europese wapenexportautoriteit ingesteld. Deze toetst leveringen van lidstaten, adviseert en heeft een doorslaggevende stem wanneer lidstaten verschillend denken over het leveren van bepaalde wapensystemen aan anderen."
+    },
+    {
+      "promiseCode": "D66-2023-144",
+      "text": "Het structurele budget voor ontwikkelingssamenwerking wordt gelijkgesteld aan 0,7 procent van het Bruto Nationaal Inkomen conform de internationale norm.",
+      "summary": "Ontwikkelingshulpbudget naar 0,7% van BNI",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "budget",
+        "BNI",
+        "procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 227-228",
+      "originalQuote": "D66 stelt daarom het structurele budget voor ontwikkelingssamenwerking gelijk aan de internationale norm van 0.7 procent van het Bruto Nationaal Inkomen."
+    },
+    {
+      "promiseCode": "D66-2023-145",
+      "text": "Er komt een maximum op het bedrag aan ODA-geld dat ingezet kan worden voor de opvang van asielzoekers binnen Nederland.",
+      "summary": "Maximum op ODA-geld voor asielopvang Nederland",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ODA",
+        "maximum",
+        "asielopvang",
+        "Nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 227-228",
+      "originalQuote": "Er komt een maximum op het bedrag aan ODA geld dat kan worden ingezet voor de opvang van asielzoekers binnen Nederland."
+    },
+    {
+      "promiseCode": "D66-2023-146",
+      "text": "Het aandeel dat expliciet wordt toegewezen aan de Least Developed Countries wordt verhoogd, zoals gedefinieerd door de OESO.",
+      "summary": "Meer hulp naar minst ontwikkelde landen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontwikkelingshulp",
+        "OESO",
+        "verhogen",
+        "landen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 228",
+      "originalQuote": "Daarom verhogen we het aandeel dat expliciet wordt toegewezen aan de Least Developed Countries, zoals gedefinieerd door OESO."
+    },
+    {
+      "promiseCode": "D66-2023-147",
+      "text": "Middelen voor marktontwikkeling in het mondiale zuiden moeten voor minimaal 70 procent terechtkomen bij het lokale bedrijfsleven.",
+      "summary": "70% marktontwikkelingsmiddelen naar lokaal bedrijfsleven",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "marktontwikkeling",
+        "procent",
+        "lokaal",
+        "bedrijfsleven"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 228-229",
+      "originalQuote": "We zorgen dat middelen voor marktontwikkeling voor minimaal 70 procent terechtkomen bij het lokale bedrijfsleven."
+    },
+    {
+      "promiseCode": "D66-2023-148",
+      "text": "Het nationale quotum van UNHCR voor hervestiging van vluchtelingen gaat omhoog van 500 naar 5000 mensen per jaar.",
+      "summary": "UNHCR-quotum verhoogd van 500 naar 5000 per jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "UNHCR",
+        "quotum",
+        "hervestiging",
+        "vluchtelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 233",
+      "originalQuote": "D66 wil dat het nationale quotum van het Bureau van de Hoge Commissaris van de Verenigde Naties voor de Vluchtelingen ®UNHCR ̄ omhooggaat van 500 naar 5000 mensen per jaar."
+    },
+    {
+      "promiseCode": "D66-2023-149",
+      "text": "Werken wordt mogelijk na één maand in plaats van zes maanden door het afschaffen van de 24-weken-eis voor asielzoekers.",
+      "summary": "Werkrecht asielzoekers na 1 maand ipv 6 maanden",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werken",
+        "asielzoekers",
+        "maand",
+        "weken-eis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 235",
+      "originalQuote": "Werken moet mogelijk zijn na één maand in plaats van pas na zes maanden."
+    },
+    {
+      "promiseCode": "D66-2023-150",
+      "text": "De tewerkstellingsvergunning voor asielzoekers wordt afgeschaft. Alleen een melding maken bij het UWV is voldoende.",
+      "summary": "Tewerkstellingsvergunning asielzoekers wordt afgeschaft",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tewerkstellingsvergunning",
+        "asielzoekers",
+        "afschaffen",
+        "UWV"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 235",
+      "originalQuote": "We schaffen, net als bij Oekraïners, de tewerkstellingsvergunning af. Alleen een melding maken bij het UWV is voldoende."
+    },
+    {
+      "promiseCode": "D66-2023-151",
+      "text": "Nieuwkomers krijgen een permanente verblijfsvergunning na drie jaar in plaats van vijf jaar.",
+      "summary": "Permanente verblijfsvergunning na 3 jaar ipv 5 jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verblijfsvergunning",
+        "nieuwkomers",
+        "jaren",
+        "permanent"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 235",
+      "originalQuote": "Nieuwkomers krijgen een permanente verblijfsvergunning na drie jaar in plaats van vijf."
+    },
+    {
+      "promiseCode": "D66-2023-152",
+      "text": "Oekraïense ontheemden krijgen meer mogelijkheden voor taalonderwijs en een 'basisinburgering' die aansluit bij de formele variant voor statushouders.",
+      "summary": "Meer taalonderwijs en basisinburgering voor Oekraïense ontheemden",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "taalonderwijs",
+        "basisinburgering",
+        "Oekraïners",
+        "statushouders"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 238",
+      "originalQuote": "Oekraïense ontheemden moeten meer mogelijkheden krijgen voor taalonderwijs en een 'basisinburgering' die aansluit bij de formele variant voor statushouders."
+    },
+    {
+      "promiseCode": "D66-2023-153",
+      "text": "Asielzoekers die overlast veroorzaken, worden gestraft.",
+      "summary": "Straffen voor overlast veroorzakende asielzoekers",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielzoekers",
+        "overlast",
+        "straffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 238",
+      "originalQuote": "Asielzoekers die overlast veroorzaken, worden gestraft."
+    },
+    {
+      "promiseCode": "D66-2023-154",
+      "text": "Nederland gaat afspraken maken met landen van herkomst, het liefst op Europees niveau, zodat overlast gevende asielzoekers zo snel mogelijk terugkeren.",
+      "summary": "Afspraken met herkomstlanden voor terugkeer asielzoekers",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "herkomstlanden",
+        "afspraken",
+        "terugkeer",
+        "Europees"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 238",
+      "originalQuote": "We maken afspraken met landen van herkomst, het liefst op Europees niveau, zodat deze mensen zo snel mogelijk terugkeren."
+    },
+    {
+      "promiseCode": "D66-2023-155",
+      "text": "Asielaanvragen van mensen die al in een ander EU-land asiel hebben aangevraagd en zijn geweigerd, wijst Nederland zelf af. Nederland organiseert zelf de terugreis naar het land van oorsprong voor deze mensen.",
+      "summary": "Zelf afwijzen Dublin-gevallen en terugreis organiseren",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Dublin-procedure",
+        "afwijzing",
+        "terugreis",
+        "EU-landen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 238-239",
+      "originalQuote": "Asielaanvragen van mensen die al in een ander EU-land asiel hebben aangevraagd en zijn geweigerd, wijzen we zelf af. Nederland gaat zelf de terugreis naar het land van oorsprong organiseren voor deze mensen."
+    },
+    {
+      "promiseCode": "D66-2023-156",
+      "text": "D66 ondersteunt de inzet op een viertal Proces Beschikkingslocaties (PBL's) waar asielaanvragen van overlast gevende kansarme asielzoekers versneld worden afgedaan.",
+      "summary": "Vier Proces Beschikkingslocaties voor versnelde afhandeling",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Proces Beschikkingslocaties",
+        "versnelde afhandeling",
+        "asielaanvragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "We ondersteunen de inzet op een viertal PBL's (Proces Beschikkingslocatie). Op deze locaties worden de asielaanvraag van overlast gevende kansarme asielzoekers versneld afgedaan."
+    },
+    {
+      "promiseCode": "D66-2023-157",
+      "text": "De Landelijke Vreemdelingen Voorziening wordt voortgezet onder regie van de gemeenten en met voldoende Rijksfinanciering.",
+      "summary": "Voortzetting Landelijke Vreemdelingen Voorziening met Rijksfinanciering",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Vreemdelingen Voorziening",
+        "gemeenten",
+        "Rijksfinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "De Landelijke Vreemdelingen Voorziening (eerder: Bed, Bad, Broodvoorziening) wordt voortgezet onder regie van de gemeenten en met voldoende Rijksfinanciering."
+    },
+    {
+      "promiseCode": "D66-2023-158",
+      "text": "D66 wil alternatieven voor Vreemdelingenbewaring, zoals een meldplicht of het ondertekenen van een garantstelling. Vreemdelingenbewaring moet het laatste middel zijn.",
+      "summary": "Alternatieven voor vreemdelingenbewaring zoals meldplicht",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vreemdelingenbewaring",
+        "meldplicht",
+        "garantstelling",
+        "alternatieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "D66 wil alternatieven voor Vreemdelingenbewaring, zoals een meldplicht of het ondertekenen van een garantstelling. Vreemdelingenbewaring moet het laatste middel zijn voor mensen die niet willen vertrekken."
+    },
+    {
+      "promiseCode": "D66-2023-159",
+      "text": "D66 is tegen strafbaarstelling van illegaliteit.",
+      "summary": "Tegen strafbaarstelling van illegaliteit",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strafbaarstelling",
+        "illegaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "We zijn tegen strafbaarstelling van illegaliteit."
+    },
+    {
+      "promiseCode": "D66-2023-160",
+      "text": "D66 wil uitbreiding van de 'Blauwe kaart' naar andere dan alleen de hoogste opleidingsniveaus, zodat meer mensen er gebruik van kunnen maken.",
+      "summary": "Uitbreiding Blauwe kaart naar meer opleidingsniveaus",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Blauwe kaart",
+        "opleidingsniveaus",
+        "arbeidsmigratie",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "D66 wil uitbreiding van de 'Blauwe kaart' naar andere dan alleen de hoogste opleidingsniveaus, zodat meer mensen er gebruik van kunnen maken."
+    },
+    {
+      "promiseCode": "D66-2023-161",
+      "text": "Nederland sluit zich aan bij de EU-talentpool en leert van de inzet in bijvoorbeeld Duitsland voor pilots waarbij arbeidsmigranten een tijdelijk visum krijgen.",
+      "summary": "Aansluiting bij EU-talentpool voor tijdelijke visa arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "EU-talentpool",
+        "tijdelijk visum",
+        "arbeidsmigranten",
+        "pilots"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "Nederland blijft binnen de Europese Unie niet meer achter als het gaat om pilots waarbij arbeidsmigranten een tijdelijk visum krijgen. We sluiten ons aan bij de EU-talentpool en leren van de inzet in bijvoorbeeld Duitsland."
+    },
+    {
+      "promiseCode": "D66-2023-162",
+      "text": "Nederland helpt arbeidsmigranten bij hun terugkeer met re-integratie. Hier opgebouwde pensioen- en AOW-rechten worden uitbetaald als lumpsum in het land van herkomst.",
+      "summary": "Hulp bij terugkeer en lumpsum uitbetaling pensioenrechten",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terugkeer",
+        "re-integratie",
+        "pensioenrechten",
+        "AOW",
+        "lumpsum"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 239",
+      "originalQuote": "We helpen arbeidsmigranten bij hun terugkeer met de re-integratie. Hier opgebouwde pensioen- en AOW-rechten worden uitbetaald in de vorm van een lumpsum in het land van herkomst."
+    },
+    {
+      "promiseCode": "D66-2023-163",
+      "text": "Er komt een vergunningensysteem voor uitzendbureaus met publiekrechtelijke handhaving door de arbeidsinspectie.",
+      "summary": "Vergunningensysteem uitzendbureaus met handhaving arbeidsinspectie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningensysteem",
+        "uitzendbureaus",
+        "arbeidsinspectie",
+        "publiekrechtelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 240",
+      "originalQuote": "Daarom komt er een vergunningensysteem voor uitzendbureaus met publiekrechtelijke handhaving door de arbeidsinspectie."
+    },
+    {
+      "promiseCode": "D66-2023-164",
+      "text": "Er komt de mogelijkheid om in specifieke sectoren een uitzendverbod in te kunnen voeren indien er geen verbetering zichtbaar is en grote misstanden blijven voortbestaan.",
+      "summary": "Mogelijkheid uitzendverbod in sectoren bij misstanden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzendverbod",
+        "sectoren",
+        "misstanden",
+        "uitzendkrachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 240",
+      "originalQuote": "Er komt de mogelijkheid om in specifieke sectoren een uitzendverbod in te kunnen voeren. D66 wil dat dit instrument kan worden ingezet indien er geen verbetering zichtbaar is en grote misstanden in specifieke sectoren blijven voortbestaan bij inzet van uitzendkrachten."
+    },
+    {
+      "promiseCode": "D66-2023-165",
+      "text": "Bedrijfseffectrapportages worden verplicht voor arbeidsmigratie binnen en buiten de EU om sociale effecten van nieuwe bedrijvigheid in beeld te brengen.",
+      "summary": "Verplichte bedrijfseffectrapportages voor arbeidsmigratie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijfseffectrapportages",
+        "arbeidsmigratie",
+        "sociale effecten",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 240",
+      "originalQuote": "Bedrijfseffectrapportages worden zowel voor arbeidsmigratie binnen als buiten de Europese Unie verplicht. Dit brengt de sociale effecten van nieuwe bedrijvigheid en de bijbehorende arbeidsmigratie in beeld, bijvoorbeeld op het gebied van woningvraag en sociale voorzieningen."
+    },
+    {
+      "promiseCode": "D66-2023-166",
+      "text": "Over het scheiden van huurcontract en arbeidsovereenkomst voor arbeidsmigranten komt er dwingende, landelijke regelgeving om dakloosheid bij verlies van werk te voorkomen.",
+      "summary": "Landelijke regelgeving scheiding huurcontract en arbeidsovereenkomst",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurcontract",
+        "arbeidsovereenkomst",
+        "scheiding",
+        "regelgeving",
+        "arbeidsmigranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 240",
+      "originalQuote": "Over het scheiden van huurcontact en arbeidsovereenkomst maken we dwingende, landelijke regelgeving."
+    },
+    {
+      "promiseCode": "D66-2023-167",
+      "text": "Werkgevers gaan bijdragen aan de mogelijkheid van het volgen van een basiscursus Nederlands voor arbeidsmigranten.",
+      "summary": "Werkgeversbijdrage basiscursus Nederlands voor arbeidsmigranten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkgevers",
+        "basiscursus Nederlands",
+        "arbeidsmigranten",
+        "bijdrage"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 240",
+      "originalQuote": "Werkgevers gaan bijdragen aan de mogelijkheid van het volgen van een basiscursus Nederlands voor arbeidsmigranten."
+    },
+    {
+      "promiseCode": "D66-2023-168",
+      "text": "Werkgevers die zich niet aan de regels houden, mogen geen aanvragen voor werknemers van buiten de EU meer doen.",
+      "summary": "Sanctie werkgevers: geen EU-aanvragen bij regelovertreding",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkgevers",
+        "sanctie",
+        "regelovertreding",
+        "EU-aanvragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 240",
+      "originalQuote": "Werkgevers die zich niet aan de regels houden, mogen geen aanvragen voor werknemers van buiten de Europese Unie meer doen."
+    },
+    {
+      "promiseCode": "D66-2023-169",
+      "text": "Nederland stapt over naar een klimaat-inclusief begrotingsraamwerk conform advies van de Raad van State bij de Miljoenennota.",
+      "summary": "Overstap naar klimaat-inclusief begrotingsraamwerk",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaat-inclusief",
+        "begrotingsraamwerk",
+        "Raad van State",
+        "Miljoenennota"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 242",
+      "originalQuote": "Een duurzame toekomst begint bij een duurzame begroting: we stappen over naar een klimaat- inclusief begrotingsraamwerk, cf advies van de Raad van State bij de Miljoenennota."
+    },
+    {
+      "promiseCode": "D66-2023-170",
+      "text": "De Monitor brede welvaart krijgt een prominente plek in de economische ramingen van het CPB en bij de doorrekening van verkiezingsprogramma's, inclusief menselijk en natuurlijk kapitaal.",
+      "summary": "Monitor brede welvaart prominent in CPB-ramingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Monitor brede welvaart",
+        "CPB",
+        "ramingen",
+        "verkiezingsprogramma"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 242",
+      "originalQuote": "De Monitor brede welvaart krijgt een prominente plek in de economische ramingen van het CPB en bij de doorrekening van verkiezingsprogramma's."
+    },
+    {
+      "promiseCode": "D66-2023-171",
+      "text": "De overheid publiceert een netto binnenlands product waarin schade aan de kapitaalvoorraad en uitputting van grondstoffen worden meegeteld naast het BBP.",
+      "summary": "Publicatie netto binnenlands product naast BBP",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "netto binnenlands product",
+        "kapitaalvoorraad",
+        "grondstoffen",
+        "BBP"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2023, p. 242",
+      "originalQuote": "De overheid publiceert daarbij ook een netto binnenlands product waarin schade aan de kapitaalvoorraad en uitputting van grondstoffen worden meegeteld."
+    }
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "party": "PvdD",
+  "partySlug": "partij-voor-de-dieren",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Verbeter de wereld, begin in Den Haag",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 69,
+  "promises": [
+    {
+      "promiseCode": "PvdD-DH-2022-001",
+      "text": "Den Haag wordt uiterlijk in 2030 klimaatneutraal en zet tegelijkertijd in op herstel van biodiversiteit en het behouden, beschermen en uitbreiden van robuuste en verbonden natuur.",
+      "summary": "Den Haag klimaatneutraal en biodiversiteitsherstel in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "biodiversiteitsherstel",
+        "natuur",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 8",
+      "originalQuote": "Uiterlijk in 2030 is Den Haag klimaatneutraal en zet in op herstel van biodiversiteit en behouden, beschermen en uitbreiden van robuuste en verbonden natuur."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-002",
+      "text": "Er komt een wethouder voor Klimaat & Biodiversiteit om de klimaat- en biodiversiteitscrisis gecoördineerd aan te pakken.",
+      "summary": "Nieuwe wethouder Klimaat & Biodiversiteit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "klimaat",
+        "biodiversiteit",
+        "college"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 8",
+      "originalQuote": "Er komt een wethouder voor Klimaat & Biodiversiteit."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-003",
+      "text": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Den Haag ten minste 65% minder energie dan in 1990. De gemeente stelt hiertoe een ambitieus Actieplan Besparen op met concrete en controleerbare tussendoelen.",
+      "summary": "65% minder energiegebruik in 2030 t.o.v. 1990",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energiebesparing",
+        "65%",
+        "2030",
+        "actieplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 9",
+      "originalQuote": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Den Haag ten minste 65% minder energie dan in 1990. De gemeente stelt hiertoe een ambitieus Actieplan Besparen op met concrete en controleerbare tussendoelen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-004",
+      "text": "Den Haag heeft een lage onroerendzakenbelasting. Om de energietransitie rechtvaardig te laten plaatsvinden wordt de onroerendzakenbelasting verhoogd. Zo kan geïnvesteerd worden in het verduurzamen van de huizen met de slechtste energielabels.",
+      "summary": "OZB wordt verhoogd voor energietransitie",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onroerendzaakbelasting",
+        "ozb",
+        "verhoging",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 11",
+      "originalQuote": "Den Haag heeft een lage onroerendzakenbelasting. Om de energietransitie rechtvaardig te laten plaatsvinden wordt de onroerendzakenbelasting verhoogd."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-005",
+      "text": "Alle daken van gemeentelijke gebouwen moeten vol komen te liggen met zonnepanelen of groen zijn. De gemeente geeft zo het goede voorbeeld.",
+      "summary": "Alle gemeentelijke daken krijgen zonnepanelen of groen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijke gebouwen",
+        "zonnepanelen",
+        "groene daken",
+        "daken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 11",
+      "originalQuote": "Alle daken van gemeentelijke gebouwen moeten vol komen te liggen met zonnepanelen of groen zijn."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-006",
+      "text": "Per 2025 gebruikt de gemeente geen plastic meer in de gemeentelijke organisatie. De gemeente stelt bij haar inkoopbeleid en subsidiebeleid criteria om plastic gebruik te voorkomen.",
+      "summary": "Gemeente plastikvrij in 2025",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "plastic",
+        "2025",
+        "inkoopbeleid",
+        "subsidiebeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 12",
+      "originalQuote": "Per 2025 gebruikt de gemeente geen plastic meer in de gemeentelijke organisatie."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-007",
+      "text": "Gemeentelijke gebouwen zijn uiterlijk 2030 klimaatneutraal, natuurinclusief en fossielvrij. Nog honderden gemeentelijke gebouwen moeten worden aangepakt na de verduurzaming van meer dan vijftig gebouwen.",
+      "summary": "Gemeentelijke gebouwen klimaatneutraal in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijke gebouwen",
+        "klimaatneutraal",
+        "fossielvrij",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 11",
+      "originalQuote": "Gemeentelijke gebouwen zijn uiterlijk 2030 klimaatneutraal, natuurinclusief en fossielvrij."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-008",
+      "text": "Den Haag zorgt voor een vooruitstrevend beleid gericht op dierenrechten en dierenwelzijn dat wordt vastgelegd in een dierenwelzijnsnota waarbij jaarlijks over de voortgang wordt gerapporteerd.",
+      "summary": "Dierenwelzijnsnota opstellen met jaarlijkse voortgangsrapportage",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dierenwelzijnsnota",
+        "voortgangsrapportage",
+        "dierenrechten",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 15",
+      "originalQuote": "Den Haag zorgt voor een vooruitstrevend beleid gericht op dierenrechten en dierenwelzijn dat wordt vastgelegd in een dierenwelzijnsnota waarbij jaarlijks over de voortgang wordt gerapporteerd."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-009",
+      "text": "Den Haag stelt een eigen verbod in op het afsteken van consumentenvuurwerk zolang er nog geen landelijk verbod is.",
+      "summary": "Gemeentelijk vuurwerkverbod instellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vuurwerkverbod",
+        "consumentenvuurwerk",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 15",
+      "originalQuote": "Zolang er nog geen landelijk verbod is op het afsteken van consumentenvuurwerk stelt Den Haag een eigen verbod in."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-010",
+      "text": "Den Haag verbiedt de jacht op zijn gronden en ontmoedigt het op plaatsen waar het geen eigenaar van is. De regels tegen illegale jacht en stroperij worden streng gehandhaafd.",
+      "summary": "Jacht verbieden op gemeentegronden en streng handhaven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jachtverbod",
+        "handhaving",
+        "stroperij",
+        "gemeentegronden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 16",
+      "originalQuote": "Den Haag verbiedt de jacht op zijn gronden en ontmoedigt het op plaatsen waar het geen eigenaar van is. Om illegale jacht en stroperij aan te pakken worden de regels streng gehandhaafd."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-011",
+      "text": "Hengelen wordt niet langer toegestaan. Het verbod op staandwantvissen gaat gelden voor de gehele kustlijn.",
+      "summary": "Hengelen verbieden en staandwantvisverbod uitbreiden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hengelverbod",
+        "staandwantvissen",
+        "kustlijn",
+        "vissen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 16",
+      "originalQuote": "Hengelen wordt niet langer toegestaan. Het verbod op staandwantvissen dat nu geldt bij de boulevard gaat gelden voor de gehele kustlijn."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-012",
+      "text": "Het leefgebied van dieren in het Haagse Bos wordt vergroot door het overkluizen van de Utrechtsebaan en versmallen en vergroenen van de Laan van NOI en de Benoordenhoutseweg.",
+      "summary": "Overkluizing en vergroening voor dierenleefgebieden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overkluizing",
+        "utrechtsebaan",
+        "leefgebied",
+        "haagse bos",
+        "dieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 16",
+      "originalQuote": "Het leefgebied van dieren in het Haagse Bos wordt vergroot door het overkluizen van de Utrechtsebaan en versmallen en vergroenen van de Laan van NOI en de Benoordenhoutseweg."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-013",
+      "text": "Het Westbroekpark wordt beter met de Scheveningse Bosjes verbonden door overkluizing van de Teldersweg.",
+      "summary": "Teldersweg overkluizen voor natuurverbinding",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overkluizing",
+        "teldersweg",
+        "westbroekpark",
+        "scheveningse bosjes",
+        "natuurverbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 16",
+      "originalQuote": "Ook wordt het Westbroekpark beter met de Scheveningse Bosjes verbonden door overkluizing van de Teldersweg."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-014",
+      "text": "Den Haag heft geen hondenbelasting meer.",
+      "summary": "Hondenbelasting afschaffen",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hondenbelasting",
+        "afschaffen",
+        "honden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 17",
+      "originalQuote": "Den Haag heft geen hondenbelasting meer."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-015",
+      "text": "De verkoop van levende krabben en kreeften op de visafslag in Scheveningen en op markten in Den Haag wordt verboden.",
+      "summary": "Verkoop levende krabben en kreeften verbieden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkoop",
+        "krabben",
+        "kreeften",
+        "visafslag",
+        "scheveningen",
+        "markten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 18",
+      "originalQuote": "De verkoop van levende krabben en kreeften op de visafslag in Scheveningen en op markten in Den Haag wordt verboden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-016",
+      "text": "Op de Haagse markt worden bont, angorawol, dons en exotische leersoorten zoals huiden van pythons, krokodillen en andere reptielen verboden.",
+      "summary": "Bont en exotische dierproducten verbieden op markt",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "markt",
+        "bont",
+        "angorawol",
+        "exotisch leer",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 19",
+      "originalQuote": "Op de Haagse markt worden deze producten verboden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-017",
+      "text": "Sea Life wordt omgevormd tot een tijdelijke opvang voor dieren in nood, in beslag genomen dieren, of dieren die niet naar hun oorspronkelijke leefgebied terug kunnen.",
+      "summary": "Sea Life omvormen tot dierenopvang",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sea life",
+        "omvormen",
+        "dierenopvang",
+        "dieren in nood"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 19",
+      "originalQuote": "Sea Life wordt omgevormd tot een tijdelijke opvang voor dieren in nood, in beslag genomen dieren, of dieren die niet naar hun oorspronkelijke leefgebied terug kunnen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-018",
+      "text": "Den Haag gaat zich inzetten om alle riooloverstorten te ontmantelen.",
+      "summary": "Ontmanteling alle riooloverstorten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "riooloverstorten",
+        "ontmantelen",
+        "vervuiling",
+        "oppervlaktewater"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 24",
+      "originalQuote": "Den Haag gaat zich inzetten om alle riooloverstorten te ontmantelen. Zo voorkomen we vervuiling van het oppervlaktewater."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-019",
+      "text": "Het groenbudget gaat omhoog omdat het onderhoudsbudget voor groen in Den Haag te laag is.",
+      "summary": "Verhoging groenbudget voor onderhoud",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groenbudget",
+        "onderhoud",
+        "verhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 25",
+      "originalQuote": "Het onderhoudsbudget voor groen is in Den Haag te laag. Daardoor liggen groengebieden er treurig bij, worden dode bomen niet vervangen en ligt er vaak plastic in de natuur. Het groenbudget gaat daarom omhoog."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-020",
+      "text": "Bladblazers op fossiele brandstof worden verboden vanwege schadelijke effecten op luchtkwaliteit en geluidsoverlast.",
+      "summary": "Verbod bladblazers fossiele brandstof",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bladblazers",
+        "fossiele brandstof",
+        "verbod",
+        "luchtkwaliteit",
+        "geluidsoverlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 25",
+      "originalQuote": "Bladblazers op fossiele brandstof worden verboden vanwege de schadelijke effecten op de luchtkwaliteit en geluidsoverlast."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-021",
+      "text": "Uiterlijk in 2030 is Den Haag afvalvrij: alle grondstoffen worden hergebruikt.",
+      "summary": "Afvalvrije stad in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalvrij",
+        "2030",
+        "grondstoffen",
+        "hergebruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 28",
+      "originalQuote": "Uiterlijk in 2030 is Den Haag afvalvrij: alle grondstoffen worden hergebruikt."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-022",
+      "text": "De gemeente koopt 100% circulair in.",
+      "summary": "100% circulaire gemeentelijke inkoop",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulair",
+        "inkoop",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 28",
+      "originalQuote": "De gemeente geeft het goede voorbeeld en koopt 100% circulair in."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-023",
+      "text": "Er komt een reclamebelasting voor reclame in de openbare ruimte. Reclamezuilen en banners worden verboden in groene gebieden.",
+      "summary": "Reclamebelasting en verbod reclame groen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reclamebelasting",
+        "verbod",
+        "reclamezuilen",
+        "banners",
+        "groene gebieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 30",
+      "originalQuote": "Er komt een reclamebelasting voor reclame in de openbare ruimte. Reclamezuilen en banners worden verboden in groene gebieden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-024",
+      "text": "Er komen meer betaalbare woningen: fors meer sociale huurwoningen en meer betaalbare middenhuur. Ook komen er (nieuwe) plannen voor betaalbare koopwoningen.",
+      "summary": "Meer sociale huurwoningen, betaalbare middenhuur en koopwoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale huurwoningen",
+        "betaalbare middenhuur",
+        "koopwoningen",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "Er komen meer betaalbare woningen: fors meer sociale huurwoningen en meer betaalbare middenhuur. Ook komen er (nieuwe) plannen voor betaalbare koopwoningen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-025",
+      "text": "Plannen om sociale woningen te slopen, bijvoorbeeld in de Venen, worden stopgezet.",
+      "summary": "Stop met sloop van sociale woningen in de Venen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale woningen",
+        "sloop",
+        "venen",
+        "woningbehoud"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "Tegelijkertijd zijn er juist plannen om sociale woningen te slopen, bijvoorbeeld in de Venen. Met dit soort plannen stoppen we."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-026",
+      "text": "De pandbrigade krijgt meer capaciteit en gaat sneller handhaven om verkrotting en overbewoning tegen te gaan.",
+      "summary": "Meer capaciteit pandbrigade en snellere handhaving",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "handhaving",
+        "verkrotting",
+        "overbewoning",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "De pandbrigade krijgt daarom meer capaciteit en gaat sneller handhaven."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-027",
+      "text": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd tenzij deze minstens één-op-één worden vervangen.",
+      "summary": "Geen verkoop sociale huur zonder één-op-één vervanging",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "verkoop",
+        "liberalisering",
+        "vervanging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd tenzij deze minstens één-op-één worden vervangen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-028",
+      "text": "Verhuurders moeten een verhuurdersvergunning met beperkte geldigheid aanvragen. Bij overtreding raken zij de vergunning kwijt.",
+      "summary": "Verhuurdersvergunning met beperkte geldigheid verplicht",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verhuurders",
+        "verhuurdersvergunning",
+        "handhaving",
+        "goed verhuurderschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "Verhuurders moeten een verhuurdersvergunning met een beperkte geldigheid aanvragen. Wanneer zij niet voldoen aan de regels voor goed verhuurderschap, raken zij die vergunning kwijt."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-029",
+      "text": "Bij sloop en nieuwbouw moeten minimaal evenveel sociale huurwoningen en betaalbare koopwoningen worden teruggebouwd.",
+      "summary": "Minimaal behoud aantal sociale huur en betaalbare koop bij herstructurering",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sloop",
+        "nieuwbouw",
+        "sociale huurwoningen",
+        "betaalbare koopwoningen",
+        "herstructurering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "Bij sloop- en nieuwbouw van een wijk moeten er minimaal evenveel sociale huurwoningen en betaalbare koopwoningen worden teruggebouwd om verdrijving van mensen met lagere inkomens te voorkomen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-030",
+      "text": "Er komt een maximum aantal panden dat een individu of onderneming in de gemeente mag bezitten.",
+      "summary": "Maximum aantal panden per eigenaar ingevoerd",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigendom",
+        "maximum",
+        "panden",
+        "speculatie",
+        "opkoopbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 35",
+      "originalQuote": "We stellen een maximum aan het aantal panden dat een individu of onderneming in een gemeente mag bezitten."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-031",
+      "text": "Woningcorporaties moeten uiterlijk in 2030 energieneutraal zijn volgens harde prestatieafspraken met de gemeente.",
+      "summary": "Woningcorporaties energieneutraal voor 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningcorporaties",
+        "energieneutraal",
+        "prestatieafspraken",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 37",
+      "originalQuote": "De gemeente maakt harde prestatieafspraken met woningcorporaties: om uiterlijk in 2030 energieneutraal te zijn en voor het bouwen van voldoende betaalbare en goede huizen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-032",
+      "text": "Bij nieuwbouw en transformatie wordt minimaal 30% sociale huur en 20% middeldure huur toegevoegd.",
+      "summary": "Minimum 30% sociale huur en 20% middeldure huur bij nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "transformatie",
+        "sociale huur",
+        "middeldure huur",
+        "percentage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 37",
+      "originalQuote": "Bij nieuwbouw en transformatie wordt minimaal 30% sociale huur toegevoegd en 20% middeldure huur."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-033",
+      "text": "Er komen vrijliggende fietspaden bij Plein 1813, Paul Krugerlaan, Goudenregenstraat, Diamanthorst, Doorniksestraat, Hofzichtlaan en Eisenhowerlaan.",
+      "summary": "Nieuwe vrijliggende fietspaden op 7 specifieke locaties",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrijliggende fietspaden",
+        "plein 1813",
+        "paul krugerlaan",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 41",
+      "originalQuote": "Er komen vrijliggende fietspaden bij onder meer Plein 1813, de Paul Krugerlaan, de Goudenregenstraat, de Diamanthorst, de Doorniksestraat, de Hofzichtlaan en de Eisenhowerlaan."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-034",
+      "text": "Scooters, brom- en snorfietsen zijn niet langer welkom op fietspaden binnen de bebouwde kom.",
+      "summary": "Verbod scooters en bromfietsen op fietspaden",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scooters",
+        "bromfietsen",
+        "snorfietsen",
+        "fietspaden",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 41",
+      "originalQuote": "Scooters, brom- en snorfietsen zijn niet langer welkom op fietspaden binnen de bebouwde kom."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-035",
+      "text": "Voor gemotoriseerd verkeer geldt binnen de bebouwde kom een maximumsnelheid van 30 km/h.",
+      "summary": "Maximumsnelheid 30 km/h binnen bebouwde kom",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "30 km/h",
+        "gemotoriseerd verkeer",
+        "bebouwde kom"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 41",
+      "originalQuote": "In principe geldt er voor gemotoriseerd verkeer binnen de bebouwde kom een maximumsnelheid van 30 km/h."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-036",
+      "text": "Al het openbaar vervoer en gemeentelijke voertuigen zijn vanaf 2030 100% duurzaam aangedreven en emissievrij.",
+      "summary": "OV en gemeentevoertuigen 100% duurzaam vanaf 2030",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "duurzaam",
+        "emissievrij",
+        "2030",
+        "gemeentevoertuigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 42",
+      "originalQuote": "Vanaf uiterlijk 2030 zijn alle bussen en trams 100% duurzaam aangedreven en emissievrij."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-037",
+      "text": "Er komen geen nieuwe autoparkeerplekken bij op straat. Overbodige parkeerplaatsen worden omgevormd tot voetpaden, speelplekken en groen.",
+      "summary": "Stop nieuwe parkeerplekken, omvorming naar groen en speelruimte",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerplekken",
+        "omvorming",
+        "voetpaden",
+        "speelplekken",
+        "groen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 42",
+      "originalQuote": "Er komen geen nieuwe autoparkeerplekken bij op straat. Overbodige parkeerplaatsen worden omgevormd tot bredere voetpaden, kinderspeelplekken, bloemrijke bermen, kleine parken of fietsparkeerplekken."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-038",
+      "text": "Betaald parkeren gaat gelden voor de hele stad. Kosten voor tweede parkeervergunning gaan omhoog, derde wordt afgeschaft.",
+      "summary": "Betaald parkeren hele stad, duurder tweede vergunning, geen derde",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "betaald parkeren",
+        "parkeervergunning",
+        "tweede vergunning",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 42",
+      "originalQuote": "Betaald parkeren gaat gelden voor de hele stad. De gemeente verhoogt de kosten voor een tweede parkeervergunning en schaft de derde af."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-039",
+      "text": "Er komt een milieuzone op het water: vanaf 2030 alleen nog boten zonder verbrandingsmotor in binnenstad en natuurgebieden.",
+      "summary": "Milieuzone water vanaf 2030: geen verbrandingsmotoren",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "milieuzone",
+        "water",
+        "2030",
+        "verbrandingsmotor",
+        "binnenstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 43",
+      "originalQuote": "Er komt een milieuzone op het water: in de binnenstad en in natuurgebieden zijn vanaf 2030 alleen nog boten zonder verbrandingsmotor welkom."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-040",
+      "text": "Den Haag stelt een plan op om te voldoen aan de luchtkwaliteitsnormen van de Wereldgezondheidsorganisatie door het weren van gemotoriseerd verkeer, instellen van milieuzones en beperken van houtstook.",
+      "summary": "Plan voor luchtkwaliteit volgens WHO-normen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "luchtkwaliteit",
+        "who-normen",
+        "milieuzones",
+        "houtstook",
+        "gemotoriseerd verkeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 46",
+      "originalQuote": "De Partij voor de Dieren wil dat Den Haag een plan opstelt om ervoor te zorgen dat de gemeente voldoet aan de luchtkwaliteitsnormen van de Wereldgezondheidsorganisatie."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-041",
+      "text": "Er komt een gemeentelijk stookverbod wanneer een stookalert is afgegeven en een meldpunt bij de gemeente waar stookoverlast gemeld kan worden.",
+      "summary": "Stookverbod bij stookalert en meldpunt voor overlast",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stookverbod",
+        "stookalert",
+        "meldpunt",
+        "houtstook",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 46",
+      "originalQuote": "Er komt een gemeentelijk stookverbod wanneer een stookalert is afgegeven en een meldpunt bij de gemeente waar stookoverlast gemeld kan worden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-042",
+      "text": "Er komt een lokaal meldpunt waar misstanden op het gebied van natuur en milieu ook anoniem gemeld kunnen worden, en meer capaciteit bij toezichthouders voor intensievere controles.",
+      "summary": "Meldpunt milieu en meer toezichtcapaciteit",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meldpunt",
+        "milieuvervuiling",
+        "toezichthouders",
+        "handhaving",
+        "controle"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 46",
+      "originalQuote": "Er komt meer capaciteit bij de toezichthouders zodat zij intensiever kunnen controleren, ook om milieuvervuiling te voorkomen. Er komt een lokaal meldpunt waar misstanden op het gebied van natuur en milieu ook anoniem gemeld kunnen worden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-043",
+      "text": "Er komen meer openbare tappunten voor drinkwater in het centrum, bij stations en op andere drukke plekken.",
+      "summary": "Meer openbare drinkwatertappunten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drinkwater",
+        "tappunten",
+        "stations",
+        "centrum",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 46",
+      "originalQuote": "Er komen meer openbare tappunten voor drinkwater in het centrum, bij stations en op andere drukke plekken."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-044",
+      "text": "In stadsdeel Laak opent een nieuw duurzaam zwembad. De openingstijden voor Haagse zwembaden worden verruimd.",
+      "summary": "Nieuw zwembad in Laak en verruimde openingstijden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwembad",
+        "laak",
+        "openingstijden",
+        "duurzaam",
+        "zwemles"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 47",
+      "originalQuote": "De openingstijden voor Haagse zwembaden moeten worden verruimd en in het stadsdeel Laak opent een nieuw duurzaam zwembad."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-045",
+      "text": "Bestaande kunstgrasvelden worden bij vervanging vervangen door echt gras. Op alle kunstgrasvelden met rubbergranulaat wordt het granulaat opgeruimd en vervangen door niet-giftig materiaal.",
+      "summary": "Vervanging kunstgras door echt gras",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstgrasvelden",
+        "echt gras",
+        "rubbergranulaat",
+        "kurk",
+        "kokosvezels"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 47",
+      "originalQuote": "Er worden geen nieuwe kunstgrasvelden aangelegd. Als bestaande kunstgrasvelden aan vervanging toe zijn, worden ze vervangen door echt gras. Op alle kunstgrasvelden waar gebruik wordt gemaakt van rubbergranulaat, wordt het rubbergranulaat opgeruimd en zonodig vervangen door een niet giftig en schadelijk materiaal, zoals kurk en kokosvezels."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-046",
+      "text": "De gemeente subsidieert geen commerciële topsportorganisaties, zoals ADO Den Haag. De inzet gaat naar breedtesport en sporten in de wijk.",
+      "summary": "Geen subsidie voor commerciële topsport",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "topsport",
+        "ado",
+        "breedtesport",
+        "wijksporten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 47",
+      "originalQuote": "De gemeente subsidieert geen commerciële topsportorganisaties, zoals ADO Den Haag. De gemeente zet in op breedtesport en sporten in de wijk."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-047",
+      "text": "In de eigen organisatie voert de gemeente het concept 'Carnivoor? Geef het door!' in: plantaardig voedsel wordt de norm en dierlijk voedsel de uitzondering.",
+      "summary": "Plantaardig voedsel als norm in gemeentelijke organisatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "plantaardig voedsel",
+        "carnivoor",
+        "gemeentelijke organisatie",
+        "dierlijk voedsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 47",
+      "originalQuote": "In de eigen organisatie voert de gemeente het succesvolle concept 'Carnivoor? Geef het door!' in: plantaardig voedsel wordt de norm en dierlijk voedsel de uitzondering, iets wat van tevoren besteld moet worden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-048",
+      "text": "Den Haag weert snoepautomaten en reclame voor ongezond voedsel van stations en openbare voorzieningen.",
+      "summary": "Verbod snoepautomaten en ongezonde voedselreclame",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "snoepautomaten",
+        "voedselreclame",
+        "stations",
+        "openbare voorzieningen",
+        "ongezond voedsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 47",
+      "originalQuote": "Den Haag weert snoepautomaten en reclame voor ongezond voedsel van stations en openbare voorzieningen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-049",
+      "text": "Er komen geen nieuwe casino's of gokhallen. Er komt een preventiecampagne over lachgas en een verbod op lachgas in de openbare ruimte.",
+      "summary": "Geen nieuwe casino's en lachgasverbod openbare ruimte",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "casino's",
+        "gokhallen",
+        "lachgas",
+        "preventiecampagne",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 50",
+      "originalQuote": "Er komen geen nieuwe casino's of gokhallen. [...] Vanwege milieu-, klimaat- en gezondheidsrisico's, is lachgas in de openbare ruimte ook verboden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-050",
+      "text": "Er wordt niet meer gerookt bij scholen, op kinderspeelplaatsen en bij sportgelegenheden. Er komen meer rookvrije zones in de openbare ruimte, bijvoorbeeld bij bushaltes en ziekenhuizen.",
+      "summary": "Uitbreiding rookvrije zones in openbare ruimte",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rookvrij",
+        "scholen",
+        "speelplaatsen",
+        "bushaltes",
+        "ziekenhuizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 50",
+      "originalQuote": "Er wordt niet meer gerookt bij scholen, op kinderspeelplaatsen en bij sportgelegenheden. Er komen meer rookvrije zones in de openbare ruimte, bijvoorbeeld bij bushaltes en ziekenhuizen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-051",
+      "text": "Zolang er geen landelijk verbod is stelt Den Haag een eigen verbod in op consumentenvuurwerk. Ook carbidschieten wordt verboden. Nieuwe verkooppunten worden niet vergund.",
+      "summary": "Gemeentelijk vuurwerkverbod en carbidverbod",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vuurwerkverbod",
+        "carbidschieten",
+        "verkooppunten",
+        "consumentenvuurwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 51",
+      "originalQuote": "Zolang er nog geen landelijk verbod is op het afsteken van consumentenvuurwerk stelt Den Haag een eigen verbod in. Ook carbidschieten wordt verboden. Nieuwe verkooppunten voor consumentenvuurwerk worden niet vergund."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-052",
+      "text": "Er komen meer handhavers (BOA's) om de veiligheid op straat te verbeteren en overlast in de natuurgebieden tegen te gaan.",
+      "summary": "Meer BOA's voor veiligheid en natuurbescherming",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boa's",
+        "handhavers",
+        "straatveiliheid",
+        "natuurgebieden",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 51",
+      "originalQuote": "Er komen meer handhavers (boa's) om de veiligheid op straat te verbeteren en overlast in de natuurgebieden tegen te gaan."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-053",
+      "text": "Den Haag maakt excuses voor het slavernijverleden en er komt een volwaardig Haags slavernijmonument.",
+      "summary": "Excuses slavernij en nieuw monument",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slavernijverleden",
+        "excuses",
+        "slavernijmonument",
+        "herdenking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 54",
+      "originalQuote": "Den Haag maakt excuses voor het slavernijverleden en er komt een volwaardig Haags slavernijmonument."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-054",
+      "text": "Den Haag zorgt voor een genderneutraal toilet op het gemeentehuis en stimuleert instellingen zoals bibliotheken en buurthuizen om hetzelfde te doen.",
+      "summary": "Genderneutrale toiletten gemeentehuis en instellingen",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "genderneutraal toilet",
+        "gemeentehuis",
+        "bibliotheken",
+        "buurthuizen",
+        "lhbti"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 54",
+      "originalQuote": "Den Haag zorgt voor een genderneutraal toilet op het gemeentehuis en stimuleert instellingen zoals de bibliotheek en buurthuizen om hetzelfde te doen."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-055",
+      "text": "De situatie in de bestaande seksstraten in de Doublet- en Geleenstraat wordt aanzienlijk verbeterd door te zorgen voor duidelijkheid en financiële stimulans.",
+      "summary": "Verbetering situatie seksstraten Doublet- en Geleenstraat",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "seksstraten",
+        "doubletstraat",
+        "geleenstraat",
+        "financiële stimulans",
+        "verbetering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 55",
+      "originalQuote": "De situatie in de bestaande seksstraten in de Doublet- en Geleenstraat wordt aanzienlijk verbeterd. Door jarenlange onzekerheid over sluiting en verplaatsing zijn de huidige locaties in verval geraakt. Door te zorgen voor duidelijkheid en financiële stimulans kunnen in beide straten de omstandigheden snel worden verbeterd."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-056",
+      "text": "Den Haag biedt kleinschalige opvang aan asielzoekers verspreid over de gemeente met mogelijkheden voor taalcursussen, onderwijs, werk en goede zorg.",
+      "summary": "Kleinschalige asielopvang verspreid over gemeente",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielopvang",
+        "kleinschalig",
+        "taalcursussen",
+        "onderwijs",
+        "integratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 55",
+      "originalQuote": "Den Haag biedt kleinschalige opvang aan asielzoekers verspreid over de gemeente. Asielzoekers worden opgevangen op een wijze die hen in staat stelt zich te ontplooien door middel van taalcursussen, onderwijs, werk en goede zorg."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-057",
+      "text": "Het gebruik en de toewijzing van parkeerplaatsen voor mensen met een beperking wordt gratis.",
+      "summary": "Gratis parkeerplaatsen voor mensen met beperking",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerplaatsen",
+        "gehandicapten",
+        "gratis",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 55-56",
+      "originalQuote": "De gemeente is ruimhartig in het toekennen van hulpmiddelen. Het gebruik en de toewijzing van parkeerplaatsen voor mensen met een beperking wordt gratis."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-058",
+      "text": "Mensen met een bijstandsuitkering mogen giften tot 20% van hun uitkering behouden zonder gekort te worden op hun uitkering.",
+      "summary": "Bijstandsgerechtigden mogen 20% giften behouden",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "giften",
+        "twintig procent",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 57",
+      "originalQuote": "Mensen met een bijstandsuitkering mogen giften tot 20% van hun uitkering behouden zonder hierdoor gekort te worden op hun uitkering."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-059",
+      "text": "Den Haag Zuidwest (Escamp) krijgt een Havo/VWO-school.",
+      "summary": "Nieuwe Havo/VWO-school in Escamp",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "havo",
+        "vwo",
+        "escamp",
+        "zuidwest",
+        "middelbare school"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 60",
+      "originalQuote": "Den Haag Zuidwest (Escamp) krijgt een Havo/VWO-school."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-060",
+      "text": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd naar een vergelijkbaar niveau als in de andere G4 steden.",
+      "summary": "Cultuurbudget verhogen naar G4-niveau",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurbudget",
+        "g4",
+        "verhoging",
+        "kunst",
+        "erfgoed"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 61",
+      "originalQuote": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd, niet alleen om meer te kunnen programmeren, maar ook om de Fair Practice Code voor eerlijke beloning in de culturele sector te kunnen realiseren. Het budget komt op een vergelijkbaar niveau als in de andere G4 steden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-061",
+      "text": "Musea zijn minstens één dag in de week gratis toegankelijk voor inwoners van de gemeente.",
+      "summary": "Musea minimaal één dag per week gratis voor inwoners",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "musea",
+        "gratis",
+        "één dag",
+        "week",
+        "inwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 62",
+      "originalQuote": "Musea zijn minstens één dag in de week gratis toegankelijk voor inwoners van de gemeente."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-062",
+      "text": "Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook worden wijkreferenda mogelijk gemaakt.",
+      "summary": "Invoering raadgevende referenda en wijkreferenda",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "wijkreferendum",
+        "bouwprojecten",
+        "herindeling",
+        "burgerparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 65",
+      "originalQuote": "Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook maken we wijkreferenda mogelijk."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-063",
+      "text": "Er wordt meer geld vrijgemaakt om uitzendingen van lokale media toegankelijk te maken voor mensen met een auditieve beperking.",
+      "summary": "Meer geld voor toegankelijke lokale media-uitzendingen voor auditief beperkten",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lokale media",
+        "toegankelijkheid",
+        "auditieve beperking",
+        "uitzendingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 66",
+      "originalQuote": "Er wordt meer geld vrijgemaakt om de uitzendingen toegankelijk te maken voor mensen met een auditieve beperking."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-064",
+      "text": "Er komt een breed toegankelijk lokaal mediafonds om onafhankelijke onderzoeksjournalistiek te bevorderen.",
+      "summary": "Lokaal mediafonds voor onafhankelijke journalistiek",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mediafonds",
+        "onderzoeksjournalistiek",
+        "lokale media",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 66",
+      "originalQuote": "Om onafhankelijke (onderzoeks-)journalistiek te bevorderen komt er een breed toegankelijk lokaal mediafonds."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-065",
+      "text": "Er komt een gemeentelijk, openbaar lobbyregister. Bij raadsvoorstellen wordt standaard vermeld welke betrokkenheid lobbyisten hebben gehad. Het college rapporteert jaarlijks over het lobbyregister.",
+      "summary": "Gemeentelijk lobbyregister met jaarrapportage",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lobbyregister",
+        "transparantie",
+        "raadsvoorstellen",
+        "jaarrapportage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 66",
+      "originalQuote": "Er komt een gemeentelijk, openbaar lobbyregister. Bij raadsvoorstellen en beleidskaders wordt standaard vermeld welke betrokkenheid lobbyisten en belangenbehartigers op de voorstellen hebben gehad. Het college rapporteert jaarlijks over het lobbyregister."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-066",
+      "text": "De afspraken die gemaakt worden tijdens de formatie van het college worden openbaar gemaakt.",
+      "summary": "Openbare coalitieafspraken na formatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "formatie",
+        "coalitieafspraken",
+        "openbaar",
+        "college"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 66",
+      "originalQuote": "De afspraken die gemaakt worden tijdens de formatie van het college worden openbaar gemaakt."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-067",
+      "text": "Advertentieborden met gezichtsherkenning of andere 'slimme' camera's worden verboden.",
+      "summary": "Verbod op advertentieborden met gezichtsherkenning",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "advertentieborden",
+        "gezichtsherkenning",
+        "camera's",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 67",
+      "originalQuote": "Advertentieborden met gezichtsherkenning of andere 'slimme' camera's worden verboden."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-068",
+      "text": "Den Haag verbiedt wifi-tracking van inwoners in de openbare ruimte.",
+      "summary": "Verbod op wifi-tracking in openbare ruimte",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wifi-tracking",
+        "openbare ruimte",
+        "privacy",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 67",
+      "originalQuote": "Den Haag verbiedt wifi-tracking van inwoners in de openbare ruimte."
+    },
+    {
+      "promiseCode": "PvdD-DH-2022-069",
+      "text": "De reactietermijn van drie maanden bij vragen over persoonsgegevens wordt aanzienlijk verkort.",
+      "summary": "Verkorting reactietermijn vragen persoonsgegevens",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "reactietermijn",
+        "persoonsgegevens",
+        "privacy",
+        "verkorten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD den-haag 2022, p. 67",
+      "originalQuote": "Momenteel hanteert Den Haag een reactietermijn van drie maanden bij vragen over persoonsgegevens. Dat is te veel te lang. Daarom moet deze termijn aanzienlijk worden verkort."
+    }
+  ]
+}

@@ -1,0 +1,1501 @@
+{
+  "party": "SP",
+  "partySlug": "sp",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verkiezingsprogramma SP Amsterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "sp_amsterdam_2026.pdf",
+  "extractedAt": "2026-03-03T11:26:57.237Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "GVB gratis maken voor iedereen, zowel Amsterdammers als bezoekers",
+      "originalText": "We maken in Amsterdam het GVB gratis. We willen dat openbaar vervoer voor iedereen toegankelijk is. Niet alleen voor Amsterdammers, maar voor iedereen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gvb",
+        "gratis",
+        "openbaar vervoer"
+      ]
+    },
+    {
+      "text": "25.000 betaalbare woningen bouwen in 4 jaar tijd",
+      "originalText": "25000 BETAALBARE WONINGEN IN 4 JAAR",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "woningen",
+        "betaalbaar",
+        "bouwen"
+      ]
+    },
+    {
+      "text": "300 miljoen euro investeren in radicale vergroening van Amsterdam",
+      "originalText": "300 MILJOEN VOOR RADICALE VERGROENING",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "vergroening",
+        "investering",
+        "klimaat"
+      ]
+    },
+    {
+      "text": "Toeristenbelasting verhogen van 12,5% naar 50%",
+      "originalText": "Wij verhogen de toeristenbelasting van 12,5% naar 50%.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "verhogen",
+        "toerisme"
+      ]
+    },
+    {
+      "text": "Aantal hotelovernachtingen terugdringen tot onder de 12 miljoen per jaar",
+      "originalText": "We gaan het aantal hotelovernachtingen in Amsterdam terugdringen tot onder de 12 miljoen per jaar.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "hotels",
+        "overnachtingen",
+        "terugdringen"
+      ]
+    },
+    {
+      "text": "Gemeentelijk woonbedrijf oprichten voor publieke huisvesting bouwen, opkopen en verhuren",
+      "originalText": "We richten een gemeentelijk woonbedrijf op waarmee we als gemeente zelf publieke huisvesting bouwen, opkopen en verhuren in zowel de sociale sector als voor mensen met een middeninkomen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonbedrijf",
+        "publieke huisvesting",
+        "verhuren"
+      ]
+    },
+    {
+      "text": "Publieke volkstuinen aanleggen waar lokaal eten wordt verbouwd en via buurthuizen beschikbaar gesteld",
+      "originalText": "We gaan armoede en de klimaatverandering tegen met publieke volkstuinen, waar lokaal eten wordt verbouwd. Vervolgens stellen we dit eten beschikbaar via buurthuizen aan iedereen die in onze stad wil mee-eten.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "volkstuinen",
+        "lokaal voedsel",
+        "buurthuizen"
+      ]
+    },
+    {
+      "text": "Hotels sluiten als onderdeel van maatregelen tegen toerisme",
+      "originalText": "Wij gaan de uitverkoop van onze stad tegen met directe, concrete maatregelen zoals hogere toeristenbelasting, het sluiten van hotels, het sturen op specifieke winkelbestemmingen en het verplaatsen of hervormen van publiekstrekkers.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotels",
+        "sluiten",
+        "toerisme"
+      ]
+    },
+    {
+      "text": "Demonstraties worden maximaal gefaciliteerd en in principe nooit verboden of ontraden.",
+      "originalText": "Demonstraties worden maximaal gefaciliteerd in plaats van verboden of verplaatst. In principe wordt een demonstratie nooit verboden of ontraden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "demonstraties",
+        "faciliteren",
+        "demonstratierecht"
+      ]
+    },
+    {
+      "text": "Onafhankelijk onderzoek bij verbod van demonstraties om te toetsen of dit terecht was.",
+      "originalText": "Als een demonstratie wel wordt verboden, komt er onafhankelijk onderzoek om te toetsen of dit terecht was en hoe een verbod in de toekomst voorkomen kan worden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onafhankelijk onderzoek",
+        "demonstraties",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Alle agenten in Amsterdam krijgen zichtbare nummers voor identificatie.",
+      "originalText": "We zorgen dat alle agenten in Amsterdam identificeerbaar zijn met een zichtbaar nummer, zoals dat ook in Groot-Brittannië, Frankrijk en Duitsland normaal is.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "agenten",
+        "identificatie",
+        "zichtbaar nummer"
+      ]
+    },
+    {
+      "text": "Buurtactivisten leveren in stadsdeelcommissies in plaats van politici.",
+      "originalText": "We leveren in de stadsdeelcommissies buurtactivisten aan in plaats van politici.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadsdeelcommissies",
+        "buurtactivisten",
+        "politici"
+      ]
+    },
+    {
+      "text": "Lokale buurtraden bouwen met echte zeggenschap en reëel mandaat en budget.",
+      "originalText": "We bouwen aan lokale buurtraden, met echte zeggenschap en een reëel mandaat en budget.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buurtraden",
+        "zeggenschap",
+        "mandaat",
+        "budget"
+      ]
+    },
+    {
+      "text": "Wethouders en stadsdeelbestuurders krijgen verplichte openbare spreekuren in wijken.",
+      "originalText": "We verplichten wethouders en stadsdeelbestuurders tot openbare spreekuren in de wijk, waarin zij direct verantwoording afleggen aan bewoners.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wethouders",
+        "spreekuren",
+        "verantwoording",
+        "bewoners"
+      ]
+    },
+    {
+      "text": "Bindend buurtreferendum organiseren wordt makkelijker gemaakt.",
+      "originalText": "We maken het makkelijker om een bindend buurtreferendum te organiseren. Een plan waar de buurt nee tegen zegt, gaat van tafel.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buurtreferendum",
+        "bindend",
+        "buurt"
+      ]
+    },
+    {
+      "text": "Afdwingbaar 'Recht op Buurtinitiatief' invoeren waarbij gemeente verplicht is plannen uit te voeren.",
+      "originalText": "We voeren een afdwingbaar 'Recht op Buurtinitiatief' in. Als bewoners een concreet plan indienen en genoeg daar genoeg draagvlak voor hebben, is de gemeente verplicht dit in behandeling te nemen en uit te voeren.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "recht op buurtinitiatief",
+        "afdwingbaar",
+        "bewoners"
+      ]
+    },
+    {
+      "text": "Elke buurt krijgt standaard wijkbudget waar bewoners via stemming over beslissen.",
+      "originalText": "Elke buurt krijgt een standaard wijkbudget waar bewoners via stemming direct over beslissen. Zo bepalen zij aan welke lokale projecten hun geld wordt besteed.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wijkbudget",
+        "bewoners",
+        "stemming",
+        "buurt"
+      ]
+    },
+    {
+      "text": "Fonds oprichten voor lokale journalistieke initiatieven.",
+      "originalText": "We richten een fonds op voor lokale journalistieke initiatieven.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fonds",
+        "journalistiek",
+        "lokaal"
+      ]
+    },
+    {
+      "text": "Gratis onafhankelijk nieuws financieren en beschikbaar stellen voor alle Amsterdammers.",
+      "originalText": "We zorgen voor gratis onafhankelijk nieuws voor alle Amsterdammers, door het financieren en beschikbaar stellen van kritische onderzoeksjournalistiek.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gratis nieuws",
+        "onafhankelijk",
+        "onderzoeksjournalistiek"
+      ]
+    },
+    {
+      "text": "Gemeente stopt gebruik van algoritmen en AI zolang mensenrechten niet gewaarborgd zijn.",
+      "originalText": "De gemeente en haar uitvoeringsorganisaties stoppen het gebruik van algoritmen, kunstmatige intelligentie en geautomatiseerde besluitvorming zolang mensenrechten niet gewaarborgd kunnen worden.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "algoritmen",
+        "ai",
+        "stoppen",
+        "mensenrechten"
+      ]
+    },
+    {
+      "text": "Gevoelige digitale data lokaal opslaan als gemeente.",
+      "originalText": "Als gemeente slaan we gevoelige digitale data lokaal op.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "data",
+        "lokaal opslaan",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "Het openbaar vervoer voor iedereen in Amsterdam gratis maken.",
+      "originalText": "We maken het OV voor iedereen in Amsterdam gratis.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "openbaar vervoer",
+        "gratis",
+        "ov"
+      ]
+    },
+    {
+      "text": "Bussen en trams vaker en langer laten rijden.",
+      "originalText": "We laten bussen en trams vaker en langer rijden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bussen",
+        "trams",
+        "rijden"
+      ]
+    },
+    {
+      "text": "Op drukke lijnen met grotere bussen gaan rijden.",
+      "originalText": "Op drukke lijnen gaan we met grotere bussen rijden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "drukke lijnen",
+        "grotere bussen"
+      ]
+    },
+    {
+      "text": "Metro's 's nachts laten blijven rijden.",
+      "originalText": "We zorgen dat metro's 's nachts blijven rijden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "metro",
+        "nachtdienst"
+      ]
+    },
+    {
+      "text": "Stations aangename plekken maken met meer zitplekken, aanspreekpunten, overzicht en voorzieningen.",
+      "originalText": "We maken van stations aangename plekken; meer zitplekken, aanspreekpunten, overzicht en voorzieningen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stations",
+        "zitplekken",
+        "voorzieningen"
+      ]
+    },
+    {
+      "text": "Het GVB in publieke handen houden.",
+      "originalText": "We houden het GVB in publieke handen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gvb",
+        "publieke handen"
+      ]
+    },
+    {
+      "text": "De gemeente laat de deelmobiliteit in de stad overnemen.",
+      "originalText": "De gemeente neemt de deelmobiliteit in de stad over.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "deelmobiliteit",
+        "gemeente",
+        "overnemen"
+      ]
+    },
+    {
+      "text": "Nieuwe en grotere P+R-locaties aan de rand van de stad inrichten en bestaande locaties uitbreiden.",
+      "originalText": "We richten nieuwe en grotere P+R-locaties in aan de rand van de stad. Bestaande locaties, zoals die in Noord, breiden we uit.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "p+r",
+        "uitbreiden",
+        "rand van de stad"
+      ]
+    },
+    {
+      "text": "Ervoor zorgen dat metro 51 en 53 naar Centraal Station blijven rijden.",
+      "originalText": "We zorgen ervoor dat metro 51 en 53 naar Centraal Station blijven rijden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "metro 51",
+        "metro 53",
+        "centraal station"
+      ]
+    },
+    {
+      "text": "Parkeren op P+R-locaties buiten de ring gratis maken.",
+      "originalText": "We maken parkeren op P+R-locaties buiten de ring gratis.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeren",
+        "p+r",
+        "gratis"
+      ]
+    },
+    {
+      "text": "De gemeente wordt zelf uitbater van parkeergarages in het centrum.",
+      "originalText": "De gemeente wordt zelf uitbater van de parkeergarages in het centrum. Op die manier verdwijnen de opbrengsten van het parkeren in de binnenstad niet in de handen van buitenlandse investeringsfondsen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeergarages",
+        "centrum",
+        "gemeente uitbater"
+      ]
+    },
+    {
+      "text": "Een door de gemeente beheerde taxiorganisatie als alternatief voor Uber zorgen.",
+      "originalText": "We zorgen voor een door de gemeente beheerde taxiorganisatie als alternatief voor Uber.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "taxiorganisatie",
+        "gemeente",
+        "uber alternatief"
+      ]
+    },
+    {
+      "text": "Een brug over het IJ bouwen.",
+      "originalText": "We bouwen een brug over het IJ.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "brug",
+        "ij",
+        "bouwen"
+      ]
+    },
+    {
+      "text": "Alle OV-haltes toegankelijk maken voor mensen met beperkingen.",
+      "originalText": "We maken alle OV-haltes toegankelijk voor mensen met beperkingen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ov-haltes",
+        "toegankelijk",
+        "beperkingen"
+      ]
+    },
+    {
+      "text": "Publieke Amsterdamse zorgbuurthuizen voor ouderen zorgen.",
+      "originalText": "We zorgen voor publieke Amsterdamse zorgbuurthuizen voor ouderen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zorgbuurthuizen",
+        "ouderen",
+        "publiek"
+      ]
+    },
+    {
+      "text": "Initiatieven als Jeugdtandverzorging Amsterdam uitbreiden.",
+      "originalText": "We breiden initiatieven als Jeugdtandverzorging Amsterdam uit.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdtandverzorging",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Marktwerking in de jeugdzorg stoppen en een einde maken aan wildgroei van aanbieders.",
+      "originalText": "We stoppen met marktwerking in de jeugdzorg en maken een einde aan de wildgroei van aanbieders.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdzorg",
+        "marktwerking stoppen",
+        "aanbieders"
+      ]
+    },
+    {
+      "text": "Een gratis publiek alternatief voor bijles bieden.",
+      "originalText": "We bieden een gratis publiek alternatief voor bijles.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bijles",
+        "gratis",
+        "publiek alternatief"
+      ]
+    },
+    {
+      "text": "Ervoor zorgen dat schoolzwemmen beschikbaar blijft.",
+      "originalText": "We zorgen dat schoolzwemmen beschikbaar blijft.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolzwemmen",
+        "beschikbaar"
+      ]
+    },
+    {
+      "text": "De leeftijd voor de voorschool op 2 jaar houden.",
+      "originalText": "De leeftijd voor de voorschool blijft op 2 jaar, omdat voorscholen onze jongste Amsterdammers kunnen bijbrengen wat ze van huis uit niet mee kunnen krijgen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "voorschool",
+        "2 jaar",
+        "leeftijd"
+      ]
+    },
+    {
+      "text": "Een complete cultuurketen opzetten in elke buurt.",
+      "originalText": "We zetten een complete cultuurketen op in elke buurt.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuurketen",
+        "elke buurt"
+      ]
+    },
+    {
+      "text": "Toegang tot kunst en cultuur, muziekscholen en bibliotheken zoveel mogelijk gratis maken.",
+      "originalText": "We maken toegang tot kunst en cultuur, muziekscholen en bibliotheken zoveel mogelijk gratis. Hiervoor verlagen we de huisvestingskosten van culturele instellingen met behulp van het gemeentelijk woonbedrijf.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kunst",
+        "cultuur",
+        "gratis toegang",
+        "muziekscholen"
+      ]
+    },
+    {
+      "text": "Ervoor zorgen dat elk Amsterdams kind tenminste één keer per jaar een theatervoorstelling en een museum bezoekt.",
+      "originalText": "We zorgen ervoor dat elk Amsterdams kind tenminste één keer per jaar een theatervoorstelling en een museum bezoekt.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "kinderen",
+        "theater",
+        "museum",
+        "één keer per jaar"
+      ]
+    },
+    {
+      "text": "Mensen van stadsreiniging onderdeel maken van gemeentelijke organisatie met vast contract en de stadsreiniging uitbouwen en vaker inzetten.",
+      "originalText": "We maken de mensen van stadsreiniging onderdeel van de gemeentelijke organisatie, met een vast contract. We bouwen de stadsreiniging uit en zetten deze vaker in.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadsreiniging",
+        "gemeentelijke organisatie",
+        "vast contract"
+      ]
+    },
+    {
+      "text": "Grofvuil twee keer per week bij elke afvalcontainer ophalen.",
+      "originalText": "We zorgen ervoor dat grofvuil altijd twee keer per week bij elke afvalcontainer wordt opgehaald.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "grofvuil",
+        "twee keer per week",
+        "afvalcontainer"
+      ]
+    },
+    {
+      "text": "Hotelstop in de stad absoluut maken en zorgen dat deze wordt gehandhaafd.",
+      "originalText": "We maken de hotelstop in de stad absoluut en zorgen ervoor dat deze wordt gehandhaafd.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotelstop",
+        "handhaving",
+        "hotels"
+      ]
+    },
+    {
+      "text": "Hotels die in verkoop komen ombouwen naar woningen.",
+      "originalText": "Als hotels in de verkoop komen, bouwen we ze om naar woningen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotels",
+        "ombouwen",
+        "woningen"
+      ]
+    },
+    {
+      "text": "Vakantieverhuur terugbrengen tot 24 dagen per jaar en handhaving intensiveren.",
+      "originalText": "Vakantieverhuur brengen we terug tot 24 dagen per jaar. De handhaving hiervan intensiveren we en bij overlast trekken we de vergunning in.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "vakantieverhuur",
+        "24 dagen",
+        "handhaving"
+      ]
+    },
+    {
+      "text": "Stoppen met Amsterdam Marketing.",
+      "originalText": "We stoppen met 'Amsterdam Marketing'.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "amsterdam marketing",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "Toeristenbelasting zo snel mogelijk verhogen naar 50%.",
+      "originalText": "We verhogen de toeristenbelasting zo snel mogelijk naar 50%.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "50%",
+        "verhogen"
+      ]
+    },
+    {
+      "text": "Toewerken naar 12 miljoen toeristenovernachtingen per jaar.",
+      "originalText": "We werken toe naar 12 miljoen toeristenovernachtingen per jaar.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "12 miljoen",
+        "toeristenovernachtingen",
+        "per jaar"
+      ]
+    },
+    {
+      "text": "Gemeentelijk woonbedrijf oprichten en zelf 25.000 woningen bouwen per vier jaar.",
+      "originalText": "We richten een gemeentelijk woonbedrijf op waardoor we als gemeente zelf 25.000 woningen gaan bouwen per vier jaar en aanbieden voor betaalbare huren.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gemeentelijk woonbedrijf",
+        "25.000 woningen",
+        "vier jaar"
+      ]
+    },
+    {
+      "text": "Gemeentelijk woonbedrijf oprichten en woningen bouwen in sociale sector en voor middeninkomen.",
+      "originalText": "We richten een gemeentelijk woonbedrijf op en bouwen zelf woningen in de sociale sector en voor mensen met een middeninkomen. De financiering hiervan is te realiseren middels o.a. een gemeentelijk hypotheek, tweede-huis-tax en OZB.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeentelijk woonbedrijf",
+        "sociale sector",
+        "middeninkomen"
+      ]
+    },
+    {
+      "text": "Stoppen met verkoop van sociale huurwoningen.",
+      "originalText": "We stoppen met de verkoop van sociale huurwoningen. We hebben elke sociale huurwoning immers ontzettend hard nodig.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "verkoop",
+        "sociale huurwoningen",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "Minimaal 200 rolstoelwoningen bij- of ombouwen in komende jaren.",
+      "originalText": "We werken het tekort aan rolstoelwoningen versneld weg. Dat betekent dat we in de komende jaren minimaal 200 rolstoelwoningen bij- of ombouwen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "200 rolstoelwoningen",
+        "bijbouwen",
+        "ombouwen"
+      ]
+    },
+    {
+      "text": "Daklozenopvang uitbreiden.",
+      "originalText": "We breiden de daklozenopvang uit.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "daklozenopvang",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "In ieder stadsdeel een loket openen waar daklozen briefadres kunnen aanvragen.",
+      "originalText": "We openen in ieder stadsdeel een loket waar daklozen een briefadres kunnen aanvragen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stadsdeel",
+        "loket",
+        "briefadres"
+      ]
+    },
+    {
+      "text": "Samen met onderwijsinstellingen 10.000 extra studentenwoningen bouwen.",
+      "originalText": "We werken samen met de onderwijsinstellingen en betrokken partijen zoals DUWO en Lieven de Key aan de bouw van 10.000 extra studentenwoningen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "10.000",
+        "studentenwoningen",
+        "onderwijsinstellingen"
+      ]
+    },
+    {
+      "text": "Tweede-huis-tax invoeren voor pied-à-terre of tweede woning in Amsterdam.",
+      "originalText": "We starten direct met het belasten van een pied-à-terre of tweede woning in Amsterdam, met een tweede-huis-tax.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tweede-huis-tax",
+        "pied-à-terre",
+        "tweede woning"
+      ]
+    },
+    {
+      "text": "Bij nieuwbouw minimaal 40% sociale huur en 40% betaalbare huur bouwen, anders geen bouwvergunning.",
+      "originalText": "We bouwen bij ieder bouwproject minimaal 40% sociale huur en 40% betaalbare huur anders wordt er geen bouwvergunning afgegeven.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "40% sociale huur",
+        "40% betaalbare huur",
+        "bouwvergunning"
+      ]
+    },
+    {
+      "text": "Afspraken maken met corporaties om sociale huur bij nieuwbouw te maximeren op 800 euro.",
+      "originalText": "We maken afspraken met corporaties om bij nieuwbouw sociale huur te maximeren op 800 euro.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "corporaties",
+        "sociale huur",
+        "800 euro"
+      ]
+    },
+    {
+      "text": "Anoniem solliciteren wordt de norm bij gesubsidieerde instellingen en gemeentediensten.",
+      "originalText": "We maken anoniem solliciteren de norm bij gesubsidieerde instellingen en gemeentediensten.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "anoniem solliciteren",
+        "gesubsidieerde instellingen",
+        "gemeentediensten"
+      ]
+    },
+    {
+      "text": "De openbare ruimte, het openbaar vervoer en gemeentelijke gebouwen worden fysiek toegankelijk gemaakt voor iedereen.",
+      "originalText": "De openbare ruimte, het openbaar vervoer en gemeentelijke gebouwen worden fysiek toegankelijk gemaakt voor iedereen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toegankelijkheid",
+        "openbare ruimte",
+        "openbaar vervoer",
+        "gemeentelijke gebouwen"
+      ]
+    },
+    {
+      "text": "De gemeente zorgt voor betaalbare woonwagens voor reizigers (woonwagenbewoners) in hun eigen woongemeenschap.",
+      "originalText": "De gemeente draagt zorgt voor betaalbare woonwagens voor 'reizigers' (woonwagenbewoners) in hun eigen woongemeenschap.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonwagens",
+        "reizigers",
+        "woonwagenbewoners",
+        "betaalbaar"
+      ]
+    },
+    {
+      "text": "Alle Amsterdamse kinderen krijgen les over het koloniale verleden en hoe dat tegenwoordig nog doorwerkt.",
+      "originalText": "We zorgen er in samenwerking met scholen voor dat alle Amsterdamse kinderen les krijgen over ons koloniale verleden en hoe dat tegenwoordig nog doorwerkt.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "koloniale verleden",
+        "onderwijs",
+        "amsterdamse kinderen",
+        "geschiedenisles"
+      ]
+    },
+    {
+      "text": "Elk Amsterdams kind bezoekt tenminste één keer het Holocaustmuseum, het Wereldmuseum en het toekomstige Slavernijmuseum.",
+      "originalText": "We zorgen ervoor dat elk Amsterdams kind tenminste één keer in zijn leven het Holocaustmuseum, het Wereldmuseum en het toekomstige Slavernijmuseum bezoekt.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "museumbezoek",
+        "holocaustmuseum",
+        "wereldmuseum",
+        "slavernijmuseum",
+        "kinderen"
+      ]
+    },
+    {
+      "text": "De ambtswoning van de burgemeester wordt beschikbaar gesteld als locatie voor een culturele instelling.",
+      "originalText": "We stellen de ambtswoning van de burgemeester beschikbaar als locatie voor een culturele instelling.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ambtswoning",
+        "burgemeester",
+        "culturele instelling"
+      ]
+    },
+    {
+      "text": "Amsterdam zorgt voor onvoorwaardelijke daklozenopvang.",
+      "originalText": "Amsterdam zorgt voor onvoorwaardelijke daklozenopvang.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "daklozenopvang",
+        "onvoorwaardelijk",
+        "opvang"
+      ]
+    },
+    {
+      "text": "De stad Amsterdam zet een eigen zorgvoorziening op voor onverzekerden.",
+      "originalText": "Voor onverzekerden zet de stad Amsterdam een eigen zorgvoorziening op.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zorgvoorziening",
+        "onverzekerden",
+        "eigen zorg"
+      ]
+    },
+    {
+      "text": "Noodopvanglocaties worden omgezet naar permanente azc's.",
+      "originalText": "Noodopvanglocaties zetten we om naar permanente azc's",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "noodopvang",
+        "permanente azc",
+        "asielzoekers"
+      ]
+    },
+    {
+      "text": "Het wordt mogelijk om bij het GVB te betalen met contant geld.",
+      "originalText": "Wij zorgen dat het mogelijk wordt om bij het GVB te betalen met contant geld.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gvb",
+        "contant geld",
+        "betaling",
+        "openbaar vervoer"
+      ]
+    },
+    {
+      "text": "De gemeente zorgt voor gratis taalles.",
+      "originalText": "We zorgen voor gratis taalles.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gratis",
+        "taalles",
+        "taalonderwijs"
+      ]
+    },
+    {
+      "text": "Keti Koti wordt een gemeentelijke feestdag waarbij iedereen in dienst van de gemeente vrij heeft.",
+      "originalText": "We maken van Keti Koti een gemeentelijke feestdag. Op deze dag heeft iedereen in dienst van de gemeente vrij en we roepen als gemeente bedrijven op hun werknemers vrij te geven.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "keti koti",
+        "gemeentelijke feestdag",
+        "vrije dag",
+        "gemeentepersoneel"
+      ]
+    },
+    {
+      "text": "Een jaarlijkse Oma en Opaweekend wordt geïntroduceerd in Amsterdam.",
+      "originalText": "We introduceren een jaarlijkse Oma en Opaweekend in Amsterdam, vergelijkbaar met Vaderdag en Moederdag, om grootouders te eren en te verwennen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "oma en opaweekend",
+        "grootouders",
+        "jaarlijks evenement"
+      ]
+    },
+    {
+      "text": "Een jaarlijkse Multiculturele Dag wordt georganiseerd gericht op het vieren van diverse culturen binnen de stad.",
+      "originalText": "Daarnaast beginnen we met een jaarlijkse 'Multiculturele Dag' in Amsterdam, gericht op het vieren van de diverse culturen binnen de stad.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "multiculturele dag",
+        "diverse culturen",
+        "jaarlijks",
+        "cultuurviering"
+      ]
+    },
+    {
+      "text": "Amsterdam vergroot de capaciteit voor transzorg.",
+      "originalText": "Amsterdam zal de capaciteit voor transzorg vergroten.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "transzorg",
+        "capaciteit",
+        "lhbtqia+",
+        "zorguitbreiding"
+      ]
+    },
+    {
+      "text": "Actieve steun bieden aan elke werkzoekende bij het vinden van werk of omscholing",
+      "originalText": "We zorgen voor actieve steun voor elke werkzoekende bij het vinden van werk of omscholing.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "werkzoekende",
+        "werk",
+        "omscholing",
+        "steun"
+      ]
+    },
+    {
+      "text": "Een gemeentelijk platform oprichten voor flexibel vrijwilligerswerk in buurten met subsidie voor wijkschoonmaak",
+      "originalText": "De Gemeente voorziet in een platform waardoor het voor iedereen mogelijk wordt om in zijn of haar eigen buurt flexibel vrijwilligerswerk te doen. Wanneer vrijwilligers helpen om de wijk schoon te houden komen we met een subsidieregeling daarvoor.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "platform",
+        "vrijwilligerswerk",
+        "subsidie",
+        "wijkschoonmaak"
+      ]
+    },
+    {
+      "text": "Structurele financiering van opbouwwerk, buurtwerk en welzijnswerk herstellen door onderbrenging bij gemeente",
+      "originalText": "We herstellen structurele financiering van opbouwwerk, buurtwerk en welzijnswerk door deze weer onder te brengen bij de gemeente.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "opbouwwerk",
+        "buurtwerk",
+        "welzijnswerk",
+        "financiering"
+      ]
+    },
+    {
+      "text": "Aanbestedingen afschaffen waar mogelijk, te beginnen in welzijn en zorg",
+      "originalText": "Waar mogelijke schaffen we aanbestedingen af. Te beginnen in welzijn en zorg.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "aanbestedingen",
+        "afschaffen",
+        "welzijn",
+        "zorg"
+      ]
+    },
+    {
+      "text": "Een gemeentelijk fonds oprichten voor ondersteuning van startende coöperaties met kapitaal en advies",
+      "originalText": "We richten een gemeentelijk fonds op dat startende werknemers-, buurt- en energiecoöperaties actief ondersteunt met startkapitaal, garantstellingen en juridisch advies.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeentelijk fonds",
+        "coöperaties",
+        "startkapitaal",
+        "advies"
+      ]
+    },
+    {
+      "text": "Onderzoek starten naar oprichting van een gemeentelijke investeringsbank voor lokale maatschappelijke ondernemingen",
+      "originalText": "We starten een onderzoek naar de oprichting van een gemeentelijke investeringsbank. Deze bank verstrekt kapitaal aan lokale, maatschappelijke en duurzame ondernemingen die door commerciële banken worden genegeerd, en investeert de winst terug in de stad.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeringsbank",
+        "onderzoek",
+        "lokale ondernemingen",
+        "kapitaal"
+      ]
+    },
+    {
+      "text": "80% van alle gemeentelijke inkopen en aanbestedingen laten terechtkomen bij kleine ondernemers en coöperaties",
+      "originalText": "De gemeente stelt als harde eis dat minimaal 80% van alle gemeentelijke inkopen en aanbestedingen terechtkomt bij kleine ondernemers, coöperaties en non-profits.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "80%",
+        "gemeentelijke inkopen",
+        "kleine ondernemers",
+        "coöperaties"
+      ]
+    },
+    {
+      "text": "Van een vast contract de norm maken bij gemeente Amsterdam",
+      "originalText": "We maken van een vast contract de norm bij gemeente Amsterdam.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vast contract",
+        "norm",
+        "gemeente amsterdam"
+      ]
+    },
+    {
+      "text": "Voedselbanken toegankelijk maken voor iedereen",
+      "originalText": "Voedselbanken maken we toegankelijk voor iedereen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voedselbanken",
+        "toegankelijk",
+        "iedereen"
+      ]
+    },
+    {
+      "text": "Een gemeentelijke kledingbank en kledingbibliotheek oprichten",
+      "originalText": "De gemeente zorgt voor de oprichting van een gemeentelijke kledingbank en kledingbibliotheek.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kledingbank",
+        "kledingbibliotheek",
+        "oprichting"
+      ]
+    },
+    {
+      "text": "Kosteloze fietslessen aanbieden door de gemeente",
+      "originalText": "De gemeente gaat kosteloze fietslessen aanbieden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kosteloze fietslessen",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "Niet-opgehaalde fietsen uit het fietsdepot gratis aanbieden",
+      "originalText": "Niet-opgehaalde fietsen uit het fietsdepot biedt de gemeente gratis aan.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietsdepot",
+        "gratis",
+        "fietsen"
+      ]
+    },
+    {
+      "text": "Fietsreparaties tot honderd euro aanbieden in samenwerking met het fietsdepot",
+      "originalText": "Fietsreparaties tot honderd euro gaat de gemeente aanbieden in samenwerking met het fietsdepot.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "fietsreparaties",
+        "honderd euro",
+        "fietsdepot"
+      ]
+    },
+    {
+      "text": "Ruimhartige kwijtscheldingen van gemeentelijke belastingen voor mensen met weinig inkomen",
+      "originalText": "Voor mensen met weinig inkomsten zorgen we voor ruimhartige kwijtscheldingen van gemeentelijke belastingen.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kwijtschelding",
+        "gemeentelijke belastingen",
+        "weinig inkomen"
+      ]
+    },
+    {
+      "text": "Stoppen met de verspilling aan externe consultants en eigen ambtelijke expertise weer opbouwen",
+      "originalText": "We stoppen de verspilling aan externe consultants, en bouwen de eigen ambtelijke expertise weer op.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "externe consultants",
+        "stoppen",
+        "ambtelijke expertise"
+      ]
+    },
+    {
+      "text": "Stoppen met uitverkoop van publiek bezit en minimaal huidig belang in organisaties behouden",
+      "originalText": "We stoppen met de uitverkoop van publiek bezit. We behouden minimaal het huidige belang dat we hebben in organisaties (deelnemingen).",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "publiek bezit",
+        "stoppen",
+        "deelnemingen",
+        "behouden"
+      ]
+    },
+    {
+      "text": "Lokale ondernemers voorrang geven boven multinationals bij vergunningen en ruimte",
+      "originalText": "We gaan net als San Francisco lokale ondernemers voorrang geven boven multinationals wanneer het gaat om vergunningen en ruimte.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lokale ondernemers",
+        "voorrang",
+        "vergunningen",
+        "multinationals"
+      ]
+    },
+    {
+      "text": "Geen toestemming geven voor vestiging van nieuwe brievenbusfirma's",
+      "originalText": "We geven geen toestemming voor de vestiging van nieuwe brievenbusfirma's.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "brievenbusfirma's",
+        "toestemming",
+        "vestiging"
+      ]
+    },
+    {
+      "text": "Het gemeentelijk woonbedrijf de verantwoordelijkheid geven om alle huizen in Amsterdam te isoleren en de daken te voorzien van zonnepanelen en groen.",
+      "originalText": "We geven het gemeentelijk woonbedrijf de verantwoordelijkheid om alle huizen in Amsterdam te isoleren en de daken te voorzien van zonnepanelen en groen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningisolatie",
+        "zonnepanelen",
+        "gemeentelijk woonbedrijf"
+      ]
+    },
+    {
+      "text": "Het GVB gratis maken als eerste in Nederland om het OV het beste alternatief voor de auto te maken.",
+      "originalText": "We zorgen voor een bereikbare stad waar de auto overbodig wordt gemaakt, omdat we met het gratis maken van het GVB als eersten in dit land het OV het beste alternatief maken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gratis ov",
+        "gvb",
+        "openbaar vervoer"
+      ]
+    },
+    {
+      "text": "Duurzame, biologische voedselbossen inrichten en bestaande initiatieven steunen, met oogst beschikbaar via buurthuizen.",
+      "originalText": "We richten duurzame, biologische voedselbossen in en steunen bestaande initiatieven. De oogst wordt beschikbaar gesteld aan Amsterdammers via buurthuizen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voedselbossen",
+        "biologisch",
+        "buurthuizen"
+      ]
+    },
+    {
+      "text": "Alle voedselparken in Amsterdam behouden en uitbreiden.",
+      "originalText": "We zorgen dat alle voedselparken in Amsterdam behouden blijven en breiden ze uit.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voedselparken",
+        "uitbreiden",
+        "behouden"
+      ]
+    },
+    {
+      "text": "De 3-30-300-regel verplicht maken voor nieuwe wijken: 3 bomen vanuit elk raam, 30% bladerdek per buurt, groenvoorziening binnen 300 meter.",
+      "originalText": "We gaan de 3-30-300-regel onderdeel maken van de eisen aan nieuw aan te leggen wijken. Dat houdt in dat iedereen vanuit zijn raam 3 bomen moet kunnen zien, elke buurt 30 procent bladerdek moet hebben, en iedereen op 300 meter van zijn voordeur een kwalitatieve groen voorziening moet hebben.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "3-30-300-regel",
+        "bomen",
+        "bladerdek",
+        "groenvoorziening"
+      ]
+    },
+    {
+      "text": "Van de Ring West een stadspark en woongebied maken.",
+      "originalText": "We maken van de Ring West een stadspark en woongebied. Op deze manier ontstaat er een sensationeel stadspark, meer woonruimte en wordt de gezondheid van omwonenden ook nog eens vooruit geholpen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ring west",
+        "stadspark",
+        "woongebied"
+      ]
+    },
+    {
+      "text": "Plekken met risico op oververhitting in kaart brengen en daar intensief vergroenen.",
+      "originalText": "We brengen plekken in de openbare ruimte met risico op oververhitting in kaart en gaan hier intensief vergroenen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "oververhitting",
+        "vergroenen",
+        "klimaatadaptatie"
+      ]
+    },
+    {
+      "text": "Overal waar mogelijk tegels vervangen door groen.",
+      "originalText": "Overal waar dit mogelijk is vervangen we tegels door groen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onttegelen",
+        "groen",
+        "tegels"
+      ]
+    },
+    {
+      "text": "Een gemeentelijk verbod op voedselverspilling door bedrijven invoeren.",
+      "originalText": "We zorgen voor een gemeentelijk verbod op voedselverspilling door bedrijven.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "voedselverspilling",
+        "verbod",
+        "bedrijven"
+      ]
+    },
+    {
+      "text": "Overgebleven voedselproducten verzamelen en beschikbaar stellen via buurthuizen.",
+      "originalText": "Als gemeente verzamelen we overgebleven voedselproducten en stellen die beschikbaar via buurthuizen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voedselproducten",
+        "buurthuizen",
+        "voedselverspilling"
+      ]
+    },
+    {
+      "text": "Structureel vervuilende bedrijven geen ruimte bieden in Amsterdam.",
+      "originalText": "We bieden geen ruimte aan structureel vervuilende bedrijven in Amsterdam.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vervuilende bedrijven",
+        "vestigingsbeleid",
+        "milieu"
+      ]
+    },
+    {
+      "text": "Cruiseschepen weren uit Amsterdam.",
+      "originalText": "Cruiseschepen worden geweerd uit Amsterdam.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "cruiseschepen",
+        "weren",
+        "toerisme"
+      ]
+    },
+    {
+      "text": "Een minimumpercentage houtbouw verplichten voor elk nieuwbouwproject.",
+      "originalText": "Elk nieuwbouwproject moet een minimumpercentage houtbouw bevatten.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "houtbouw",
+        "nieuwbouw",
+        "duurzaam bouwen"
+      ]
+    },
+    {
+      "text": "Zonnepanelen verplicht maken op nieuwe gebouwen en stimuleren op bestaande gebouwen.",
+      "originalText": "Zonnepanelen maken we verplicht op nieuwe gebouwen en we stimuleren de toepassing op bestaande gebouwen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zonnepanelen",
+        "verplicht",
+        "nieuwe gebouwen"
+      ]
+    },
+    {
+      "text": "Stadswarmte in publieke handen brengen.",
+      "originalText": "We brengen stadswarmte in publieke handen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stadswarmte",
+        "publieke handen",
+        "energie"
+      ]
+    },
+    {
+      "text": "Een gemeentelijk energiebedrijf oprichten voor decentrale energieopwekking, energieopslag en netwerkversterking.",
+      "originalText": "We richten een gemeentelijk energiebedrijf op dat zich specifiek gaat bezighouden met decentrale energieopwekking en energieopslag en de versterking van het Amsterdamse energienetwerk.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gemeentelijk energiebedrijf",
+        "decentrale energie",
+        "energieopslag"
+      ]
+    },
+    {
+      "text": "Ondergrondse waterbergingen aanleggen onder alle door de gemeente beheerde locaties en verplichten voor nieuwbouw.",
+      "originalText": "We leggen ondergrondse waterbergingen aan onder alle door de gemeente beheerde locaties. We verplichten hetzelfde voor alle nieuwbouwprojecten.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "waterberging",
+        "ondergronds",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Het rioolsysteem versterken om opgewassen te zijn tegen piekbuien.",
+      "originalText": "We versterken ons rioolsysteem om opgewassen te zijn tegen piekbuien.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rioolsysteem",
+        "piekbuien",
+        "klimaatadaptatie"
+      ]
+    },
+    {
+      "text": "Het Westelijk Havengebied aanwijzen als locatie voor windmolens.",
+      "originalText": "We wijzen het Westelijk Havengebied aan als locatie voor windmolens.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "windmolens",
+        "westelijk havengebied",
+        "duurzame energie"
+      ]
+    },
+    {
+      "text": "Voorkomen dat Amsterdam wordt volgeplempt met nieuwe datacentra.",
+      "originalText": "We voorkomen dat Amsterdam en haar omgeving wordt volgeplempt met nieuwe datacentra.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "datacentra",
+        "beperking",
+        "energieverbruik"
+      ]
+    },
+    {
+      "text": "Toeristenbelasting verhogen naar 25 euro gemiddeld per overnachting om gratis openbaar vervoer te financieren, met als doel het aantal hotelovernachtingen terug te brengen tot onder de 12 miljoen per jaar.",
+      "originalText": "Door alle toeristische overnachtingen 25,- euro gemiddeld extra aan te slaan kunnen we de gehele netto omzet van het GVB (=600 miljoen) dragen als gemeente zonder dat daarbij nog inkomsten nodig zijn vanuit kaartjes (= 350 miljoen). Ons uiteindelijke doel is om het aantal hotelovernachtingen terugdringen tot onder de 12 miljoen per jaar.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "gratis",
+        "openbaar vervoer",
+        "hotelovernachtingen"
+      ]
+    },
+    {
+      "text": "Een gemeentelijk woonbedrijf oprichten dat 25.000 extra woningen per bestuursperiode aanbiedt in de huursector voor betaalbaar wonen.",
+      "originalText": "We richten een gemeentelijk woonbedrijf op dat 25.000 extra woningen gaat aanbieden per bestuursperiode in de huursector. Hiermee maken we het mogelijk voor alle Amsterdammers om betaalbaar te wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gemeentelijk woonbedrijf",
+        "25000 woningen",
+        "huursector",
+        "betaalbaar wonen"
+      ]
+    },
+    {
+      "text": "De onroerend zaakbelasting (OZB) verhogen naar 0,15% van de WOZ-waarde om het gemeentelijk woonbedrijf te financieren.",
+      "originalText": "de onroerend zaakbelasting (OZB) wordt in lijn met steden als Arnhem en Groningen gebaseerd op 0,15% van de WOZ. Hiermee zorgen we voor enkele honderden miljoenen euro's per jaar extra voor het gemeentelijk woonbedrijf.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ozb",
+        "0,15%",
+        "woz",
+        "woonbedrijf"
+      ]
+    },
+    {
+      "text": "Een tweede-huis-tax (forensenbelasting) invoeren waarmee 7 miljoen euro per jaar wordt opgehaald voor organisatorische kosten van het woonbedrijf.",
+      "originalText": "Voor het dekken van de organisatorische kosten willen we een 'tweede-huis-tax' (forensenbelasting) heffen, waarmee we 7 miljoen euro verwachten op te halen op jaarbasis.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tweede-huis-tax",
+        "forensenbelasting",
+        "7 miljoen euro",
+        "woonbedrijf"
+      ]
+    },
+    {
+      "text": "De Meervaart sober renoveren en stoppen met Smart Mobility Hub (84 miljoen), Erotisch Centrum en Noord-Zuidlijn naar Schiphol (120 miljoen) om geld vrij te maken voor vergroening.",
+      "originalText": "De gemeente Amsterdam betaalt momenteel aan drie grote prestigeprojecten die grotendeels niet in het belang zijn van de Amsterdamse werkende klasse: De Meervaart (75 miljoen), Erotisch Centrum (kosten onbekend), Smart Mobility Hub (84 miljoen) en het doortrekken van de Noord-Zuidlijn naar Schiphol (120 miljoen). Wij zijn er voor om de Meervaart sober te renoveren, maar willen de rest van deze projecten een halt toeroepen en de daarmee vrijgekomen honderden miljoenen euro's gebruiken voor de verg",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "meervaart",
+        "smart mobility hub",
+        "noord-zuidlijn",
+        "vergroening",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "Stadsbossen en pluktuinen inrichten met de vrijgekomen honderden miljoenen van gestopte prestigeprojecten voor gezondheid en klimaatadaptatie.",
+      "originalText": "Dat betekent dat er financiële ruimte vrijkomt voor de inrichting van stadsbossen en pluktuinen waarmee de gezondheid van de stad toeneemt en de stad zich voorbereid op toenemende warmte en regenpiekbelasting als gevolg van klimaatverandering.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadsbossen",
+        "pluktuinen",
+        "klimaatverandering",
+        "gezondheid"
+      ]
+    },
+    {
+      "text": "De nationale 'realisatiestimulans' als gemeente afstaan aan woningcorporaties met 7.000 euro compensatie per gebouwde woning.",
+      "originalText": "Doordat de verhoging van het OZB ook de woningcorporaties treffen, staan we de nationale 'realisatiestimulans' als gemeente af aan de woningcorporaties. Hierdoor worden ze per gebouwde woning 7.000,- euro gecompenseerd.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "realisatiestimulans",
+        "woningcorporaties",
+        "7000 euro",
+        "compensatie"
+      ]
+    }
+  ]
+}

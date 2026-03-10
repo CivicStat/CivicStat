@@ -1,0 +1,824 @@
+{
+  "party": "PVV",
+  "partySlug": "pvv",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "PVV Den Haag Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 57,
+  "promises": [
+    {
+      "promiseCode": "PVV-DH-2022-001",
+      "text": "De PVV wil stoppen met het bouwen van nieuwe sociale huurwoningen in Den Haag.",
+      "summary": "Bouwstop nieuwe sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "bouwstop",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Stop met het bouwen van nieuwe sociale huurwoningen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-002",
+      "text": "Hagenezen krijgen voorrang op de sociale woningmarkt: hoe langer iemand in Den Haag woont, hoe hoger op de lijst voor sociale huurwoningen.",
+      "summary": "Voorrang sociale woningmarkt voor langdurige Haagse inwoners",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorrang",
+        "sociale woningmarkt",
+        "hagenezen",
+        "woningtoewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Voorrangsverklaring op de sociale woningmarkt voor Hagenezen: hoe langer iemand in Den Haag woont, hoe hoger hij/zij op de lijst staat voor een vrijkomende sociale huurwoning."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-003",
+      "text": "Er komt een grootschalige renovatie van de huidige corporatiewoningen.",
+      "summary": "Grootschalige renovatie corporatiewoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "renovatie",
+        "corporatiewoningen",
+        "woningvoorraad"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Grootschalige renovatie van de huidige corporatiewoningen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-004",
+      "text": "Er worden meer eengezinswoningen gebouwd in het middensegment.",
+      "summary": "Meer eengezinswoningen middensegment",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eengezinswoningen",
+        "middensegment",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Meer eengezinswoningen bouwen in het middensegment."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-005",
+      "text": "Er worden meer seniorvriendelijke complexen gebouwd om eengezinswoningen vrij te spelen voor andere bewoners.",
+      "summary": "Meer seniorvriendelijke complexen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "seniorencomplexen",
+        "eengezinswoningen",
+        "doorstroming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Meer seniorvriendelijke complexen bouwen om eengezinswoningen vrij te spelen waar nu vaak senioren tegen wil en dank blijven wonen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-006",
+      "text": "Camera-inzet wordt ingevoerd tegen afvaldumpers in de stad.",
+      "summary": "Camera's tegen afvaldumpers",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "camera's",
+        "afvaldumpers",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Camera-inzet tegen afvaldumpers."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-007",
+      "text": "Gele vuilniszakken worden verplicht voor het aanbieden van huisvuil zonder kliko, supermarkten moeten deze verkopen.",
+      "summary": "Verplichte gele vuilniszakken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gele vuilniszakken",
+        "huisvuil",
+        "verplicht",
+        "supermarkten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 9",
+      "originalQuote": "Gele vuilniszakken worden verplicht voor het aanbieden van huisvuil zonder kliko; met supermarkten wordt geregeld dat zij deze verkopen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-008",
+      "text": "Er wordt stadsbrede preventief fouilleren ingevoerd.",
+      "summary": "Stadsbrede preventief fouilleren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "preventief fouilleren",
+        "stadsbrede",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 13",
+      "originalQuote": "Stadsbreed preventief fouilleren."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-009",
+      "text": "Het cameratoezicht in de stad wordt uitgebreid.",
+      "summary": "Uitbreiding cameratoezicht",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cameratoezicht",
+        "uitbreiding",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 13",
+      "originalQuote": "Uitbreiden cameratoezicht."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-010",
+      "text": "Er komen meer handhavers, uitgerust met body-cam en wapenstok.",
+      "summary": "Meer handhavers met body-cam en wapenstok",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhavers",
+        "body-cam",
+        "wapenstok",
+        "uitrusting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 13",
+      "originalQuote": "Meer handhavers, uitgerust met body-cam en wapenstok."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-011",
+      "text": "Alle shishalounges in de stad worden gesloten.",
+      "summary": "Sluiting alle shishalounges",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "shishalounges",
+        "sluiting",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 13",
+      "originalQuote": "Alle shishalounges sluiten."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-012",
+      "text": "Er worden hogere bestuurlijke boetes opgelegd voor overtreders.",
+      "summary": "Hogere bestuurlijke boetes",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestuurlijke boetes",
+        "overtreders",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 13",
+      "originalQuote": "Hogere bestuurlijke boetes voor overtreders."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-013",
+      "text": "Criminelen die een taakstraf uitvoeren krijgen roze overalls aan met het delict op de achterkant gedrukt.",
+      "summary": "Roze overalls voor taakstraffen met delict erop",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstraf",
+        "roze overalls",
+        "delict",
+        "criminelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 13",
+      "originalQuote": "Criminelen die een taakstraf uitvoeren krijgen roze overalls aan met het delict dat zij hebben gepleegd op de achterkant gedrukt."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-014",
+      "text": "Er komt een samenscholingsverbod op de boulevard van Scheveningen en op het Kaapseplein.",
+      "summary": "Samenscholingsverbod boulevard en Kaapseplein",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "samenscholingsverbod",
+        "boulevard",
+        "kaapseplein",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 14",
+      "originalQuote": "Samenscholingsverbod op de boulevard van Scheveningen en op het Kaapseplein."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-015",
+      "text": "Alle Haagse huishoudens krijgen eenmalig €2500 uit de Eneco-verkoop opbrengsten",
+      "summary": "Eenmalige uitkering van €2500 per huishouden uit Eneco-geld",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eneco",
+        "huishoudens",
+        "uitkering",
+        "eenmalig"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 15",
+      "originalQuote": "Zo zorgen we voor extra financiële slagkracht voor alle Haagse inwoners in een tijd van hoge inflatie en dalende koopkracht."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-016",
+      "text": "De OZB wordt verlaagd",
+      "summary": "Lagere OZB-tarieven",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "belasting",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 17",
+      "originalQuote": "Lagere OZB."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-017",
+      "text": "Parkeertarieven worden verlaagd",
+      "summary": "Lagere parkeertarieven",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeren",
+        "tarieven",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 17",
+      "originalQuote": "Lagere parkeertarieven."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-018",
+      "text": "De binnenhavenbelasting wordt verlaagd",
+      "summary": "Lagere binnenhavenbelasting",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "binnenhaven",
+        "belasting",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 17",
+      "originalQuote": "Lagere binnenhavenbelasting."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-019",
+      "text": "Kwijtscheldingen worden afgeschaft en in plaats daarvan komt 10% lagere afvalstoffenheffing voor iedereen",
+      "summary": "Afvalstoffenheffing 10% omlaag, kwijtscheldingen weg",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalstoffenheffing",
+        "kwijtschelding",
+        "10%"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 17",
+      "originalQuote": "Afschaffen kwijtscheldingen en in plaats daarvan 10% lagere afvalstoffenheffing voor iedereen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-020",
+      "text": "De hondenbelasting wordt afgeschaft",
+      "summary": "Afschaffing hondenbelasting",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hondenbelasting",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 17",
+      "originalQuote": "Afschaffen hondenbelasting."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-021",
+      "text": "Er komt flink snijden in subsidies voor kunst en cultuur, met uitzondering van musea en bibliotheken",
+      "summary": "Subsidiëring kunst en cultuur wordt flink gekort, behalve musea en bibliotheken",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "kunst",
+        "cultuur",
+        "musea",
+        "bibliotheken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 17",
+      "originalQuote": "Flink snijden in subsidies voor kunst en cultuur m.u.v. musea en bibliotheken."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-022",
+      "text": "De Ooievaarspas wordt afgeschaft en vervangen door een ouderenpas",
+      "summary": "Ooievaarspas weg, ouderenpas voor ouderen in armoede",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ooievaarspas",
+        "ouderenpas",
+        "ouderen",
+        "armoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 18",
+      "originalQuote": "Afschaffen ooievaarspas en invoeren ouderenpas."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-023",
+      "text": "De verzorgingshuizen moeten terugkomen",
+      "summary": "Herintroductie verzorgingshuizen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verzorgingshuizen",
+        "ouderenzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 21",
+      "originalQuote": "De verzorgingshuizen moeten terug."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-024",
+      "text": "Buurtzorg komt in plaats van grootschalige thuiszorg",
+      "summary": "Kleinschalige buurtzorg ipv grootschalige thuiszorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtzorg",
+        "thuiszorg",
+        "kleinschalig"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 21",
+      "originalQuote": "Buurtzorg in plaats van grootschalige thuiszorg."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-025",
+      "text": "De mantelzorgparkeervergunning wordt gratis verstrekt",
+      "summary": "Gratis mantelzorgparkeervergunning",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mantelzorg",
+        "parkeervergunning",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 21",
+      "originalQuote": "Extra steun voor (overbelaste) mantelzorgers, de mantelzorgparkeervergunning wordt gratis verstrekt."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-026",
+      "text": "Financiële voordelen worden gegeven aan leraren om ze naar de stad te lokken",
+      "summary": "Financiële incentives voor leraren om naar Den Haag te komen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leraren",
+        "financiële voordelen",
+        "lerarentekort"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 25",
+      "originalQuote": "Financiële voordelen om leraren naar onze stad te lokken"
+    },
+    {
+      "promiseCode": "PVV-DH-2022-027",
+      "text": "Schoolzwemmen wordt verplicht voor alle kinderen van alle Haagse basisscholen",
+      "summary": "Verplicht schoolzwemmen op alle basisscholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "basisscholen",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 25",
+      "originalQuote": "Schoolzwemmen voor alle kinderen van alle Haagse basisscholen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-028",
+      "text": "Er komt een HAVO/VWO-school in Den Haag Zuid-West",
+      "summary": "Nieuwe HAVO/VWO-school in Zuid-West",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "havo",
+        "vwo",
+        "school",
+        "zuid-west"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 25",
+      "originalQuote": "Er komt een HAVO/VWO school in Den Haag Zuid-West."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-029",
+      "text": "Er komen meer omheinde hondenvelden in de stad, met een budget voor elke wijk",
+      "summary": "Meer omheinde hondenuitlaatplaatsen per wijk",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hondenvelden",
+        "wijken",
+        "budget",
+        "uitlaatplek"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 29",
+      "originalQuote": "Meer omheinde hondenvelden."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-030",
+      "text": "Den Haag stopt met de inzet van politiepaarden en gebruikt spuitkanonnen",
+      "summary": "Politiepaarden vervangen door spuitkanonnen bij demonstraties",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politiepaarden",
+        "spuitkanonnen",
+        "demonstraties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 29",
+      "originalQuote": "Den Haag stopt met de inzet van politiepaarden en gebruikt in plaats daarvan spuitkanonnen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-031",
+      "text": "De Doubletstraat wordt gesloten en de prostitutiezone wordt geconcentreerd rond de Geleenstraat",
+      "summary": "Sluiting Doubletstraat, prostitutiezone naar Geleenstraat",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "doubletstraat",
+        "prostitutiezone",
+        "geleenstraat"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 33",
+      "originalQuote": "Sluiten Doubletstraat en prostitutiezone clusteren rondom Geleenstraat."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-032",
+      "text": "Er komt een ADO-fanshop in het centrum van Den Haag",
+      "summary": "ADO-fanshop in centrum",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ado",
+        "fanshop",
+        "centrum"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 34",
+      "originalQuote": "Realiseren van een ADO-fanshop in het centrum van Den Haag."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-033",
+      "text": "De grachten gaan weer open",
+      "summary": "Heropening grachten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grachten",
+        "heropening"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 34",
+      "originalQuote": "Grachten weer open."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-034",
+      "text": "Geen wegversmallingen en geen inperking van parkeerplekken voor automobilisten.",
+      "summary": "Geen wegversmallingen en inperking parkeerplekken",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wegversmallingen",
+        "parkeerplekken",
+        "automobilisten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 35",
+      "originalQuote": "De PVV wil daarom dat automobilisten ruim baan krijgen, dus geen wegversmallingen en geen inperking van parkeerplekken."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-035",
+      "text": "Ieder huishouden moet de mogelijkheid hebben om in ieder geval één bewonersvergunning te krijgen.",
+      "summary": "Minimaal één bewonersvergunning per huishouden",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bewonersvergunning",
+        "huishouden",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 35",
+      "originalQuote": "Ieder huishouden moet de mogelijkheid hebben om in ieder geval één bewonersvergunning te krijgen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-036",
+      "text": "Parkeertarieven rond winkelcentra moeten omlaag om ze aantrekkelijk te houden.",
+      "summary": "Lagere parkeertarieven bij winkelcentra",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeertarieven",
+        "winkelcentra",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 35",
+      "originalQuote": "Parkeertarieven rond winkelcentra moeten omlaag om ze aantrekkelijk te houden."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-037",
+      "text": "Jaarlijks een fors bedrag reserveren om te investeren in ondergrondse parkeergarages.",
+      "summary": "Jaarlijkse investering in ondergrondse parkeergarages",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondergrondse",
+        "parkeergarages",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 35",
+      "originalQuote": "Om het aanzicht in de buitenruimte te verbeteren wil de PVV jaarlijks een fors bedrag reserveren om te investeren in ondergrondse parkeergarages."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-038",
+      "text": "Een nachtnet opzetten in Den Haag waarmee ook Scheveningen meer onderdeel wordt van het nachtleven.",
+      "summary": "Opzetten nachtnet openbaar vervoer",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nachtnet",
+        "openbaar vervoer",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 35",
+      "originalQuote": "Daarnaast willen we een nachtnet opzetten in Den Haag waarmee ook Scheveningen meer onderdeel wordt van het nachtleven."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-039",
+      "text": "Herstel parkeernorm: minimaal één openbare parkeerplaats per nieuwbouwwoning.",
+      "summary": "Parkeernorm: één parkeerplaats per nieuwbouwwoning",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeernorm",
+        "nieuwbouwwoning",
+        "parkeerplaats"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Herstel parkeernorm: minimaal één openbare parkeerplaats per nieuwbouwwoning."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-040",
+      "text": "Vaste parkeervakken voor Felyx en andere deelscooters; parkeren buiten vakken verboden.",
+      "summary": "Vaste parkeervakken voor deelscooters",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervakken",
+        "deelscooters",
+        "felyx"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Vaste parkeervakken voor Felyx en andere deelscooters; parkeren buiten vakken verboden."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-041",
+      "text": "Parkeertarieven omlaag en een stop op de uitbreiding van betaald parkeren.",
+      "summary": "Lagere parkeertarieven en stop uitbreiding betaald parkeren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeertarieven",
+        "betaald parkeren",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Parkeertarieven omlaag en een stop op de uitbreiding van betaald parkeren."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-042",
+      "text": "Geen betaald parkeren in Loosduinen en Nieuw-Waldeck.",
+      "summary": "Geen betaald parkeren in Loosduinen en Nieuw-Waldeck",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "betaald parkeren",
+        "loosduinen",
+        "nieuw-waldeck"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Geen betaald parkeren in Loosduinen en Nieuw-Waldeck."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-043",
+      "text": "Terugkeer tweebaanswegen Machiel Vrijenhoeklaan, Segbroeklaan en Sportlaan.",
+      "summary": "Tweebaanswegen terugbrengen op drie straten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tweebaanswegen",
+        "machiel vrijenhoeklaan",
+        "segbroeklaan",
+        "sportlaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Terugkeer tweebaanswegen Machiel Vrijenhoeklaan, Segbroeklaan en Sportlaan."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-044",
+      "text": "Einde aan de fietspadterreur in de Grote Marktstraat.",
+      "summary": "Fietspad wegpalen in Grote Marktstraat",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietspad",
+        "grote marktstraat",
+        "terreur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Einde aan de fietspadterreur in de Grote Marktstraat."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-045",
+      "text": "Maak van de Gedempte Gracht een fietsdoorgang tussen het Spui en de Grote Markt.",
+      "summary": "Fietsdoorgang Gedempte Gracht tussen Spui en Grote Markt",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gedempte gracht",
+        "fietsdoorgang",
+        "spui",
+        "grote markt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Maak van de Gedempte Gracht een fietsdoorgang tussen het Spui en de Grote Markt."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-046",
+      "text": "Lagere tarieven OV en een uitgebreid nachtnet.",
+      "summary": "Lagere OV-tarieven en uitgebreid nachtnet",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ov-tarieven",
+        "nachtnet",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 37",
+      "originalQuote": "Lagere tarieven OV en een uitgebreid nachtnet."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-047",
+      "text": "Zebrapaden bij gevaarlijke oversteekplaatsen, zoals op de Oude Haagweg / Medemblikstraat.",
+      "summary": "Zebrapaden bij gevaarlijke oversteekplaatsen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zebrapaden",
+        "oversteekplaatsen",
+        "oude haagweg",
+        "medemblikstraat"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 38",
+      "originalQuote": "Zebrapaden bij gevaarlijke oversteekplaatsen, zoals op de Oude Haagweg / Medemblikstraat."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-048",
+      "text": "De volgende burgemeester wordt door de Haagse bevolking gekozen.",
+      "summary": "Burgemeester door bevolking laten kiezen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeester",
+        "verkiezing",
+        "bevolking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 41",
+      "originalQuote": "De volgende burgemeester wordt door de Haagse bevolking gekozen."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-049",
+      "text": "Invoeren bindend (wijk)referendum.",
+      "summary": "Bindende referenda invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend",
+        "referendum",
+        "wijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 41",
+      "originalQuote": "Invoeren bindend (wijk)referendum."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-050",
+      "text": "Gemeente organiseert Sinterklaasintocht mét zwarte piet.",
+      "summary": "Sinterklaasintocht met zwarte piet organiseren",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sinterklaasintocht",
+        "zwarte piet",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 41",
+      "originalQuote": "Gemeente organiseert Sinterklaasintocht mét zwarte piet."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-051",
+      "text": "5 mei is ieder jaar een gemeentelijke feestdag.",
+      "summary": "5 mei als jaarlijkse gemeentelijke feestdag",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "5 mei",
+        "gemeentelijke",
+        "feestdag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 41",
+      "originalQuote": "5 mei is ieder jaar een gemeentelijke feestdag."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-052",
+      "text": "Wethouders en ambtenaren minimaal één dag per week de stad in om gevolgen van hun beleid te aanschouwen en met inwoners te bespreken.",
+      "summary": "Wethouders en ambtenaren één dag per week de stad in",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouders",
+        "ambtenaren",
+        "stad",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 41",
+      "originalQuote": "Wethouders en ambtenaren achter het bureau vandaan: minimaal één dag per week de stad in om gevolgen van hun beleid te aanschouwen en met inwoners te bespreken."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-053",
+      "text": "Afschaffen wachtgeldregeling voor wethouders: WW, net als voor werknemers.",
+      "summary": "Wachtgeldregeling wethouders vervangen door WW",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wachtgeldregeling",
+        "wethouders",
+        "ww"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 41",
+      "originalQuote": "Afschaffen wachtgeldregeling voor wethouders: WW, net als voor werknemers."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-054",
+      "text": "Scheveningen krijgt een eigen deelraad met 15 zetels en decentralisatie van bevoegdheden zoals toerisme, woningbouw, sport, cultuur en sociale voorzieningen.",
+      "summary": "Deelraad Scheveningen met 15 zetels en gedecentraliseerde bevoegdheden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scheveningen",
+        "deelraad",
+        "15 zetels",
+        "decentralisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 43-45",
+      "originalQuote": "Decentralisatie naar een deelraad 15 zetels, waarvoor tijdens de gemeenteraadsverkiezingen van 2026 voor het eerst verkiezingen zullen worden gehouden."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-055",
+      "text": "Belastinginkomsten die op Scheveningen worden verdiend worden tenminste voor 80% aan Scheveningen uitgegeven.",
+      "summary": "80% belastinginkomsten Scheveningen blijft in Scheveningen",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastinginkomsten",
+        "scheveningen",
+        "80 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 45",
+      "originalQuote": "Belastinginkomsten die op Scheveningen worden verdiend worden tenminste voor 80% aan Scheveningen uitgegeven."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-056",
+      "text": "Sociale huurwoningen voor 90% ter beschikking stellen aan mensen met Scheveningse wortels.",
+      "summary": "90% sociale huurwoningen voor mensen met Scheveningse wortels",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "90 procent",
+        "scheveningse wortels"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 45",
+      "originalQuote": "Sociale huurwoningen voor 90% ter beschikking stellen aan mensen met Scheveningse wortels."
+    },
+    {
+      "promiseCode": "PVV-DH-2022-057",
+      "text": "Verbod op verkamering koopwoningen.",
+      "summary": "Verkamering koopwoningen verbieden",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkamering",
+        "koopwoningen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV den-haag 2022, p. 46",
+      "originalQuote": "Verbod op verkamering koopwoningen."
+    }
+  ]
+}

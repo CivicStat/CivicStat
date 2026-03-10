@@ -1,0 +1,978 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "DENK Amsterdam Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 65,
+  "promises": [
+    {
+      "promiseCode": "DENK-AMS-2022-001",
+      "text": "25% van de sociale huurwoningen wordt gereserveerd voor Amsterdamse jongeren en 50% van de sociale huur wordt gereserveerd voor alle Amsterdammers.",
+      "summary": "25% sociale huur voor jongeren, 50% voor Amsterdammers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "reservering",
+        "jongeren",
+        "amsterdammers",
+        "woningtoewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 4",
+      "originalQuote": "25% VAN DE SOCIALE HUURWONINGEN WORDT GERESERVEERD VÓÓR AMSTERDAMSE JONGEREN & 50% VAN DE SOCIALE HUUR VÓÓR ALLE AMSTERDAMMERS"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-002",
+      "text": "De gemeente Amsterdam moet meer gekleurde diversiteit creëren in het midden- en hogere segment van de organisatie, inclusief bij bedrijven die eigendom zijn van Amsterdam.",
+      "summary": "Meer gekleurde diversiteit in midden- en hoger segment gemeente en gemeentebedrijven",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diversiteit",
+        "gemeentepersoneel",
+        "gemeentebedrijven",
+        "werving"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 8",
+      "originalQuote": "De gemeente Amsterdam zelf moet meer gekleurde diversiteit creëren in met name in het midden- en hogere segment, waarbij ook bedrijven in eigendom van Amsterdam in wordt meegenomen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-003",
+      "text": "Woningmarktdiscriminatie wordt integraal opgenomen in de aanpak tegen discriminatie door de gemeente Amsterdam.",
+      "summary": "Woningmarktdiscriminatie integraal opnemen in antidiscriminatiebeleid",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningmarktdiscriminatie",
+        "antidiscriminatie",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 8",
+      "originalQuote": "De woningmarktdiscriminatie wordt integraal opgenomen in de aanpak tegen discriminatie"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-004",
+      "text": "De gemeente reserveert 25% van alle sociale huurwoningen (zowel nieuwbouw als bestaande voorraad) voor Amsterdamse jongeren, met extra aandacht voor stadsdelen Noord, Oost, West, Zuidoost en Nieuw-West. Ook worden afspraken gemaakt met woningcorporaties en beleggers voor quota bij middeldure huurwoningen.",
+      "summary": "25% sociale huurwoningen voor Amsterdamse jongeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "jongeren",
+        "quota",
+        "woningcorporaties",
+        "stadsdelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 12",
+      "originalQuote": "25% van de sociale huurwoningen reserveren we vóór Amsterdamse jongeren"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-005",
+      "text": "Via sociale koopwoningen worden betaalbare koopwoningen beschikbaar gesteld vanaf 150.000 euro voor jongeren en starters in Amsterdam.",
+      "summary": "Betaalbare koopwoningen vanaf €150.000 voor jongeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale koopwoningen",
+        "jongeren",
+        "starters",
+        "betaalbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 12",
+      "originalQuote": "Betaalbare koopwoningen vanaf 150.000 euro voor jongeren en starters"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-006",
+      "text": "Het aantal gemeentelijke traineeships wordt uitgebreid en 25% daarvan wordt gereserveerd voor Amsterdamse jongeren, met name uit achtergestelde wijken.",
+      "summary": "25% traineeships voor Amsterdamse jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "traineeships",
+        "jongeren",
+        "gemeentepersoneel",
+        "achtergestelde wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 12",
+      "originalQuote": "25% van de traineeships reserveren we voor Amsterdamse jongeren!"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-007",
+      "text": "Er komen gemeentelijke traineeships ook voor praktisch opgeleiden (mbo kader en hoger), met focus op verduurzaming en in samenwerking met GVB en Havenbedrijf.",
+      "summary": "Traineeships voor praktisch opgeleiden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "traineeships",
+        "mbo",
+        "praktisch opgeleiden",
+        "gvb",
+        "havenbedrijf"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 12",
+      "originalQuote": "Er komen gemeentelijke traineeships óók vóór praktisch opgeleiden"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-008",
+      "text": "Bedrijven die opdrachten krijgen van de gemeente moeten banen en stageplekken creëren, waarvan een deel wordt gereserveerd voor Amsterdamse jongeren, inclusief jongeren zonder VOG.",
+      "summary": "Banen en stageplekken via inkoop voor jongeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inkoop",
+        "stageplekten",
+        "banen",
+        "jongeren",
+        "opdrachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 12",
+      "originalQuote": "We dwingen banen en stageplekken af vóór Amsterdamse jongeren via inkoop"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-009",
+      "text": "Het openbaar vervoer wordt gratis gemaakt voor alle jongeren tot 18 jaar in Amsterdam.",
+      "summary": "Gratis OV voor jongeren tot 18 jaar",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "gratis",
+        "jongeren",
+        "mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 14",
+      "originalQuote": "OV wordt gratis voor jongeren tot 18 jaar"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-010",
+      "text": "De gemeente koopt schulden op van jongeren en breidt deze regeling uit. Er komt een speciaal team voor 'spookjongeren' dat schulden overneemt en begeleiding biedt naar woning en werk.",
+      "summary": "Schuldenopkoop en begeleiding voor jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schulden",
+        "opkoop",
+        "jongeren",
+        "begeleiding",
+        "spookjongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 14",
+      "originalQuote": "We kopen schulden op van jongeren"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-011",
+      "text": "De gemeente organiseert een jaarlijkse 'Champions League Amsterdam' voetbaltoernooi voor jongeren uit verschillende buurten, met mogelijkheid tot scouting. Bij succes uitbreiding naar vierjaarlijkse 'Amsterdamse Spelen'.",
+      "summary": "Jaarlijks voetbaltoernooi Champions League Amsterdam",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voetbaltoernooi",
+        "jongeren",
+        "champions league",
+        "scouting",
+        "sport"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 15",
+      "originalQuote": "DENK organiseert een jaarlijkse voetbaltoernooi: de \"Champions League Amsterdam\""
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-012",
+      "text": "Er komt minstens in elk stadsdeel een inclusieve speeltuin voor kinderen die mindervalide zijn.",
+      "summary": "Inclusieve speeltuinen in elk stadsdeel",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inclusieve speeltuinen",
+        "stadsdeel",
+        "mindervalide kinderen",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 16",
+      "originalQuote": "We zorgen dat er minstens in elk stadsdeel inclusieve speeltuinen komen voor kinderen die mindervalide zijn"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-013",
+      "text": "Discriminerende bedrijven worden opgenomen in een online racisme-register dat nog wordt opgericht.",
+      "summary": "Online racisme-register voor discriminerende bedrijven",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "racisme-register",
+        "discriminatie",
+        "bedrijven",
+        "online"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 16",
+      "originalQuote": "De discriminerende bedrijven worden op een online racisme-register geplaatst"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-014",
+      "text": "De jongerenburgemeester krijgt een formele positie binnen de gemeenteorganisatie met budget en ambtelijke en facilitaire ondersteuning.",
+      "summary": "Formele positie voor jongerenburgemeester",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jongerenburgemeester",
+        "formele positie",
+        "budget",
+        "ambtelijke ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 16",
+      "originalQuote": "Daarnaast verhogen we de politieke zeggenschap van jongeren door de jongerenburgemeester een formele positie te geven binnen de gemeenteorganisatie"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-015",
+      "text": "Er komt een gemeentelijke coördinator discriminatie en racisme die als kritische waakhond het beleid volgt, evalueert en aanbevelingen doet.",
+      "summary": "Gemeentelijke coördinator discriminatie en racisme",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coördinator",
+        "discriminatie",
+        "racisme",
+        "waakhond",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 19",
+      "originalQuote": "Daarom stellen we een gemeentelijke coördinator discriminatie en racisme voor"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-016",
+      "text": "Amsterdam stopt met preventief fouilleren omdat het in de praktijk leidt tot etnisch profileren en discriminatie.",
+      "summary": "Stoppen met preventief fouilleren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "preventief fouilleren",
+        "etnisch profileren",
+        "discriminatie",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 20",
+      "originalQuote": "In Amsterdam doen wij niet aan preventief fouilleren"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-017",
+      "text": "Religieuze instellingen die worden bedreigd krijgen beveiliging tegen diefstal, brand en mogelijke aanslagen, inclusief joodse, islamitische en andere gebedshuizen.",
+      "summary": "Beveiliging voor bedreigde religieuze instellingen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "religieuze instellingen",
+        "beveiliging",
+        "bedreiging",
+        "gebedshuizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 22",
+      "originalQuote": "Religieuze instellingen die worden bedreigd gaan we beveiligen, net zolang dat nodig"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-018",
+      "text": "Er komt een migratiemonument waar Amsterdammers de migratiegeschiedenis van de stad kunnen herdenken.",
+      "summary": "Migratiemonument voor Amsterdam",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "migratiemonument",
+        "migratiegeschiedenis",
+        "herdenken",
+        "monument"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 23",
+      "originalQuote": "DENK stelt daarom een migratiemonument voor waar Amsterdammers trots op mogen zijn"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-019",
+      "text": "De gemeente hanteert een laag handhavingsniveau voor de coronapas, tenzij er concrete signalen zijn van regelovertreding.",
+      "summary": "Laag handhavingsniveau coronapas zonder concrete overtredingen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "coronapas",
+        "regelovertreding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 24",
+      "originalQuote": "Zolang er geen concrete signalen komen van het overtreden van de regels, zetten wij de handhaving hiervan op het laagste niveau."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-020",
+      "text": "Alle basisschoolkinderen van Amsterdam brengen tenminste één keer een bezoek aan het nationaal slavernijmuseum.",
+      "summary": "Alle basisschoolkinderen bezoeken minimaal één keer het slavernijmuseum",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisschoolkinderen",
+        "slavernijmuseum",
+        "museumbezoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 25",
+      "originalQuote": "We zorgen ervoor dat alle basisschoolkinderen van Amsterdam tenminste één keer een bezoek brengen aan het museum."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-021",
+      "text": "Een sociale huurwoning bemachtigen duurt maximaal 5 jaar wachttijd. De gemeente realiseert dit binnen 10 jaar.",
+      "summary": "Maximaal 5 jaar wachttijd sociale huurwoning binnen 10 jaar gerealiseerd",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoning",
+        "wachttijd",
+        "vijf jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 26",
+      "originalQuote": "Een sociale huurwoning bemachtigen mag niet langer dan 5 jaar op zich laten wachten. De gemeente dient dit binnen 10 jaar gerealiseerd te hebben"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-022",
+      "text": "Bouwverdeling wordt 60% sociaal, 30% middenhuur en 10% koop.",
+      "summary": "Bouwverdeling 60% sociaal, 30% middenhuur, 10% koop",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwverdeling",
+        "sociale huur",
+        "middenhuur",
+        "koop"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 26",
+      "originalQuote": "Een bouwverdeling van 60% sociaal, 30% middenhuur en 10% koop"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-023",
+      "text": "Jaarlijks worden 4500 sociale huurwoningen bijgebouwd.",
+      "summary": "Jaarlijks 4500 nieuwe sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "nieuwbouw",
+        "vierdui­zend­vijfhonderd"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 26",
+      "originalQuote": "We streven ernaar om jaarlijks 4500 sociale huurwoningen bij te bouwen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-024",
+      "text": "De helft van nieuwe sociale huurwoningen wordt gereserveerd voor Amsterdammers.",
+      "summary": "50% nieuwe sociale huurwoningen voor Amsterdammers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "reservering",
+        "amsterdammers"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 26",
+      "originalQuote": "De helft van de sociale huurwoningen van nieuwbouwprojecten wordt gereserveerd voor Amsterdammers"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-025",
+      "text": "Er komt een stop op het verkopen van sociale huurwoningen.",
+      "summary": "Stop op verkoop sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkoop",
+        "sociale huurwoningen",
+        "stop"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 27",
+      "originalQuote": "Er komt een stop op het verkopen van sociale huurwoningen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-026",
+      "text": "Individuele prestatieafspraken worden gemaakt met woningcorporaties in plaats van collectieve afspraken.",
+      "summary": "Individuele prestatieafspraken per woningcorporatie",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prestatieafspraken",
+        "woningcorporaties",
+        "individueel"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 27",
+      "originalQuote": "Er worden individuele prestatieafspraken met individuele woningcorporaties gemaakt in plaats van collectieve prestatieafspraken met de gehele sector."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-027",
+      "text": "Het aantal woningen met enkelglas wordt na 4 jaar verlaagd van 100.000 naar minstens 50.000.",
+      "summary": "Enkelglaswoningen binnen 4 jaar van 100.000 naar 50.000",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "enkelglas",
+        "woningisolatie",
+        "energiearmoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 28",
+      "originalQuote": "Door het aantal na 4 jaar te verlagen naar minstens 50.000"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-028",
+      "text": "Jaarlijks worden 2250 middenhuurwoningen gebouwd.",
+      "summary": "Jaarlijks 2250 nieuwe middenhuurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "middenhuur",
+        "nieuwbouw",
+        "tweeduizend­tweehonderd­vijftig"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 28",
+      "originalQuote": "We bouwen jaarlijks 2250 midden huurwoningen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-029",
+      "text": "Woningen tot €1.500 per maand worden gereserveerd voor Amsterdammers.",
+      "summary": "Woningen tot €1500 per maand voor Amsterdammers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningreservering",
+        "amsterdammers",
+        "huurprijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 28",
+      "originalQuote": "Woningen tot €1.500,- per maand worden gereserveerd zodat onze burgers daar als eerst aanspraak op maken"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-030",
+      "text": "Pandeigenaren krijgen maximaal 1 jaar om leegstaande woningen te verhuren, anders volgen boetes.",
+      "summary": "Maximaal 1 jaar om leegstand te beëindigen anders boetes",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leegstand",
+        "verhuur",
+        "boetes",
+        "één jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 29",
+      "originalQuote": "We geven pandeigenaren maximaal 1 jaar om hun woningen te verhuren. Dan zullen boetes volgen."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-031",
+      "text": "Een algemene woonplicht wordt ingevoerd voor zowel nieuwe als bestaande bouw.",
+      "summary": "Algemene woonplicht voor nieuwe en bestaande bouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woonplicht",
+        "nieuwbouw",
+        "bestaande bouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 29",
+      "originalQuote": "DENK wil deze algemene woonplicht invoeren voor zowel nieuwe als bestaande bouw."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-032",
+      "text": "Sociale koopwoningen vanaf €150.000 worden aangeboden met rentevrije starterslening.",
+      "summary": "Sociale koopwoningen vanaf €150.000 met rentevrije lening",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale koop",
+        "starterslening",
+        "rentevrij"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 30",
+      "originalQuote": "Middels sociale koop (zie hierboven) betaalbare koopwoningen vanaf €150.000,- aanbieden met een rentevrije starterslening"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-033",
+      "text": "Verkamering wordt begrensd op maximaal 3 inwonenden om rechten van huurders te waarborgen.",
+      "summary": "Verkamering maximaal 3 inwonenden voor huurdersbescherming",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkamering",
+        "inwonenden",
+        "huurdersbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 31",
+      "originalQuote": "De verkamering van woningen blijven we begrenzen op maximaal 3 inwonenden om de rechten als huurder van deze vaak kwetsbare studenten te kunnen waarborgen."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-034",
+      "text": "Er komt een Wethouder Wijkenaanpak verantwoordelijk voor alle inspanningen in achtergestelde gebieden.",
+      "summary": "Nieuwe Wethouder Wijkenaanpak voor achtergestelde gebieden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "wijkenaanpak",
+        "achtergestelde wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 32",
+      "originalQuote": "Daarvoor komt een Wethouder Wijkenaanpak die verantwoordelijk wordt voor alle inspanningen om de achtergestelde gebieden te ondersteunen."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-035",
+      "text": "Straatcoaches worden omgezet in buurtcoaches die dagelijks in de wijk aanwezig zijn als verlengstuk van de wijkagent.",
+      "summary": "Straatcoaches worden buurtcoaches die dagelijks aanwezig zijn",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buurtcoaches",
+        "wijkagent",
+        "dagelijks aanwezig"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 33-34",
+      "originalQuote": "Daarnaast zetten we de straatcoaches om in buurtcoaches, die als verlengstuk van de wijkagent gaan opereren. Zij zijn dagelijks in de wijk aanwezig"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-036",
+      "text": "De openbare ruimte wordt heringericht zodat publieke voorzieningen binnen 15 minuten bereikbaar zijn.",
+      "summary": "Publieke voorzieningen binnen 15 minuten bereikbaar",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbare ruimte",
+        "publieke voorzieningen",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 35",
+      "originalQuote": "Daarnaast herinrichten we de openbare ruimte zodanig dat publieke voorzieningen binnen maximaal 15 minuten afstand – al dan niet te voet, per fiets of OV – bereikbaar zijn voor alle burgers."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-037",
+      "text": "Witgoedregeling wordt uitgebreid naar huishoudens tot 250% van het wettelijk sociaal minimum.",
+      "summary": "Witgoedregeling tot 250% wettelijk sociaal minimum",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "witgoed",
+        "regeling",
+        "sociaal minimum"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 36",
+      "originalQuote": "Wij maken de witgoed-regeling mogelijk voor huishoudens tot 250% van het wettelijk sociaal minimum"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-038",
+      "text": "Amsterdammers met inkomen tot 130% WSM krijgen energiecompensatie van maximaal €200 bij energie-armoede.",
+      "summary": "Energiecompensatie €200 voor inkomens tot 130% WSM",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energiecompensatie",
+        "energie-armoede",
+        "tweehonderd euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 36",
+      "originalQuote": "Amsterdammers met een inkomen tot 130% van het WSM gaan daarom aanspraak maken op een energiecompensatie van maximaal €200,-"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-039",
+      "text": "De gemeente schaart zich niet toe tot de kostendelersnorm en maakt gebruik van uitzonderingsregels om deze niet toe te passen op bijstandsgerechtigden.",
+      "summary": "Kostendelersnorm niet toepassen via uitzonderingsregels",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kostendelersnorm",
+        "uitzonderingsregels",
+        "bijstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 37",
+      "originalQuote": "We maken gebruik van de uitzonderingsregels van de kostendelersnorm om deze niet toe te passen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-040",
+      "text": "Het Meldpunt Bijstandsfraude wordt afgeschaft omdat de gemeente al voldoende mogelijkheden heeft om fraude op te sporen.",
+      "summary": "Meldpunt Bijstandsfraude afschaffen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meldpunt",
+        "bijstandsfraude",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 37",
+      "originalQuote": "Omdat we uitgaan van vertrouwen in de burger schaffen we het Meldpunt Bijstandsfraude af"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-041",
+      "text": "Er wordt een app ontwikkeld waarmee bijstandsgerechtigden inzage krijgen in hun verrekeningen en vorderingen om verrassingen te voorkomen.",
+      "summary": "App voor inzage bijstandsverrekeningen ontwikkelen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "app",
+        "bijstand",
+        "verrekeningen",
+        "inzage"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 37",
+      "originalQuote": "We ontwikkelen een app waarmee bijstandsgerechtigden inzage krijgen in hun verrekeningen en vorderingen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-042",
+      "text": "Bijstandsgerechtigden ouder dan 50 jaar hoeven niet meer te solliciteren.",
+      "summary": "Geen sollicitatieplicht voor bijstandsgerechtigden boven 50",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "sollicitatieplicht",
+        "ouderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 37",
+      "originalQuote": "bijstandsgerechtigden ouder dan 50 jaar hoeven niet meer te solliciteren"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-043",
+      "text": "Er komt een proef met basisinkomen voor 1.000 werklozen en 1.000 alleenstaande ouders, verdeeld over stadsdelen, met €1.500 onbelaste uitkering gedurende 4 jaar.",
+      "summary": "Basisinkomenproef voor 2.000 mensen met €1.500 voor 4 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisinkomen",
+        "proef",
+        "werklozen",
+        "alleenstaande ouders"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 39",
+      "originalQuote": "We houden een proef met 1.000 werklozen van verscheidene achtergronden en problematiek; als controlegroep wordt ook 1.000 alleenstaande ouders meegenomen zonder werk. [...] Zij krijgen een onbelaste basisuitkering van ongeveer € 1.500,- zonder enige verplichting. [...] De proef duurt 4 jaren."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-044",
+      "text": "Gratis bijles wordt beschikbaar gesteld voor elk kind uit achtergestelde wijken dat dit nodig heeft.",
+      "summary": "Gratis bijles voor alle kinderen uit achtergestelde wijken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijles",
+        "gratis",
+        "achtergestelde wijken",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 41",
+      "originalQuote": "Deze achterstanden wil DENK corrigeren door voor elk kind die dat nodig heeft uit de achtergestelde wijken bijles gratis te maken"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-045",
+      "text": "Er komt in elke buurt, op 5 minuten loopafstand, een veilige studiezaal voor scholieren om rustig te kunnen studeren.",
+      "summary": "Studiezaal in elke buurt op 5 minuten loopafstand",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studiezaal",
+        "buurt",
+        "scholieren",
+        "loopafstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 41",
+      "originalQuote": "willen wij zodanig uitbreiden dat er in elke buurt, op 5 minuten loopafstand, een veilige leerwerkplek is voor scholieren om rustig te kunnen studeren"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-046",
+      "text": "Scholen met veel leerlingen die zonder ontbijt komen krijgen subsidie voor een gratis gezond ontbijt.",
+      "summary": "Subsidie voor gratis gezond schoolontbijt",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontbijt",
+        "gratis",
+        "scholen",
+        "subsidie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 41",
+      "originalQuote": "We subsidiëren een gratis gezond ontbijt voor die scholen waar er veel leerlingen met een hongerige maag aan de lessen beginnen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-047",
+      "text": "Voor leraren in scholen met het grootste tekort komen er stimuleringsmaatregelen: woonurgentie, parkeerontheffing en salaristeoelagen.",
+      "summary": "Stimuleringsmaatregelen voor leraren in tekortsscholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leraren",
+        "stimuleringsmaatregelen",
+        "woonurgentie",
+        "parkeerontheffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 43",
+      "originalQuote": "Maatregelen als woonurgentie voor leraren, een parkeerontheffing en een extra toelage op hun salarissen gaan met voorrang gelden voor leraren op scholen waar het tekort het grootst is"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-048",
+      "text": "Er komt een hartstarter binnen maximaal 5 minuten radius overal in Amsterdam, met kostenvergoeding voor bijbehorende EHBO-cursussen.",
+      "summary": "Hartstarters binnen 5 minuten radius en EHBO-kostenvergoeding",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hartstarters",
+        "ehbo",
+        "kostenvergoeding",
+        "radius"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 47",
+      "originalQuote": "DENK gaat zich inzetten op een dergelijke hartstarter binnen maximaal 5 minuten radius. Burgers met een AED krijgen een tegemoetkoming in de kosten van de daarmee gepaard gaande EHBO cursus"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-049",
+      "text": "Geen snackbars in de buurt van scholen, rookvrije openbare ruimte met uitzondering van rookzones, en aanzienlijke vermindering van slijterijen en sigarettenaanbod.",
+      "summary": "Ongezond voedsel- en rookaanbod bij scholen beperken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "snackbars",
+        "scholen",
+        "rookvrij",
+        "slijterijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 46",
+      "originalQuote": "Net als coffeeshops willen we ook geen snackbars in de buurt hebben van scholen. Ook wordt de openbare ruimte standaard rookvrij met hier en daar enkele rookzones. De slijterijen en het sigarettenaanbod verminderen we aanzienlijk in de stad"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-050",
+      "text": "Stadsdeelcommissies krijgen gedelegeerde bevoegdheden om beleid van het Dagelijks Bestuur te controleren, corrigeren en ongedaan te maken, plus eigen budgetten.",
+      "summary": "Meer bevoegdheden en budgetten voor stadsdeelcommissies",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdeelcommissies",
+        "bevoegdheden",
+        "budgetten",
+        "controle"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 50",
+      "originalQuote": "Daarom willen we dat de stadsdeelcommissies die bevoegdheid krijgen gedelegeerd. Het beleid dat wordt gevoerd door het Dagelijks Bestuur kan dan uitvoerig worden gecontroleerd, gecorrigeerd en in bijzondere gevallen zelfs ongedaan gemaakt"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-051",
+      "text": "Er wordt een Raads020-app ontwikkeld naar voorbeeld van 'Debat Direct' zodat burgers de gemeenteraad beter kunnen volgen.",
+      "summary": "Raads020-app ontwikkelen voor betere raadsvolging",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "app",
+        "gemeenteraad",
+        "burgers",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 50",
+      "originalQuote": "We ontwikkelen een Raads020-app geïnspireerd op de Tweede Kamer-variant 'Debat Direct', zodat burgers de raad beter kunnen volgen"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-052",
+      "text": "Structureel wordt een deel van het stadsdeelbudget gereserveerd voor bewonerscollectieven, die vier jaar lang niet herhaaldelijk hoeven te bewijzen voor subsidies.",
+      "summary": "Structureel stadsdeelbudget voor bewonerscollectieven",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdeelbudget",
+        "bewonerscollectieven",
+        "subsidies"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 48",
+      "originalQuote": "we reserveren structureel een deel van het stadsdeelbudget voor bewonerscollectieven. [...] Deze goedkeuringen zijn geldig voor 4 jaren"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-053",
+      "text": "Er komen 20.000 extra parkeerplaatsen door het besluit om 10.000 parkeerplaatsen te schrappen terug te draaien en daarbovenop nog 10.000 extra plekken te creëren. Ook worden er voldoende parkeerplaatsen gebouwd in nieuw te bouwen wijken.",
+      "summary": "20.000 extra parkeerplaatsen door terugdraaien schrapping en nieuwe plekken",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerplaatsen",
+        "nieuwbouw",
+        "wijken",
+        "schrapping"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 56",
+      "originalQuote": "We draaien het besluit om 10.000 parkeerplaatsen te schrappen terug en creëren daarbovenop nog extra 10.000 plekken."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-054",
+      "text": "Gratis parkeren wordt mogelijk gemaakt op de twee islamitische feestdagen (Eid al-Fitr en al-Adha) én Keti Koti ter benadrukking van de vieringen en om elkaar zonder grote kosten op te kunnen zoeken.",
+      "summary": "Gratis parkeren op islamitische feestdagen en Keti Koti",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis parkeren",
+        "islamitische feestdagen",
+        "keti koti",
+        "parkeertarieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 56-57",
+      "originalQuote": "Daarom wil DENK gratis parkeren mogelijk maken op de twee islamitische feestdagen (Eid al-Fitr en al-Adha) én Keti Koti"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-055",
+      "text": "Elke wijk krijgt binnen een radius van 400 meter een OV halte, waarbij in het bijzonder wordt gelet op afstanden tot bejaardentehuizen en zorginstellingen waar haltes zoveel mogelijk voor de deur moeten komen.",
+      "summary": "OV halte binnen 400 meter van elke wijk",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ov haltes",
+        "400 meter",
+        "bejaardentehuizen",
+        "zorginstellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 55",
+      "originalQuote": "We zorgen er daarom voor dat elke wijk binnen een radius van 400 meter een OV halte moet zijn."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-056",
+      "text": "€2.500 subsidie voor lagere inkomensgroepen (tot 250% van het wettelijk sociaal minimum) om vervuilende diesel of benzine auto's in te ruilen voor zuinige benzine, hybride of elektrische auto's.",
+      "summary": "€2.500 subsidie voor inruilen vervuilende auto's voor minima en middenklasse",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidie",
+        "vervuilende auto",
+        "elektrisch",
+        "minima",
+        "middenklasse"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 61",
+      "originalQuote": "€2.500,- subsidie om vervuilende auto's in te ruilen voor minima en de middenklasse"
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-057",
+      "text": "De korting op de bezoekersvergunning wordt verhoogd naar 100% en de dienst wordt gebruiksvriendelijker gemaakt door aanmelding en beheer via een mobiele app mogelijk te maken.",
+      "summary": "100% korting bezoekersvergunning en beheer via app",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bezoekersvergunning",
+        "100% korting",
+        "app",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 57",
+      "originalQuote": "Daarom verhogen we de korting op de bezoekersvergunning naar 100%. Ook maken we deze dienst gebruiksvriendelijker door aanmelding en beheer van het bezoekersaccount via een (mobiele) app mogelijk te maken."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-058",
+      "text": "Alle huurwoningen in Amsterdam worden op minimaal energielabel B gebracht. Er worden concrete afspraken gemaakt met huiseigenaren, VvE's en woningcorporaties, waarbij woningen met het laagste energielabel als eerste worden aangepakt. Financiële voordelen worden ingezet om dit te realiseren.",
+      "summary": "Alle huurwoningen naar minimaal energielabel B brengen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huurwoningen",
+        "energielabel",
+        "isolatie",
+        "woningcorporaties",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 63",
+      "originalQuote": "huurwoningen op minimaal energielabel B te brengen. We maken concrete afspraken met huiseigenaren/VvE's/woningcorporaties en maken desnoods gebruik van financiële voordelen om die als eerst te isoleren naar minimaal energielabel B. Daarbij worden de woningen c.q. panden met het laagste energielabel als eerste aangepakt."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-059",
+      "text": "Hulporganisatie !WOON krijgt meer subsidie van de gemeente om huurders persoonlijke begeleiding en ondersteuning te bieden bij woningisolatie en het aanbrengen van dubbelglas in samenspraak met verhuurders.",
+      "summary": "Meer subsidie voor !WOON voor begeleiding woningisolatie",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidie",
+        "!woon",
+        "huurders",
+        "begeleiding",
+        "isolatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 63",
+      "originalQuote": "Hiervoor kunnen ze persoonlijke begeleiding en ondersteuning ontvangen van hulporganisaties zoals !WOON die DENK meer wil gaan subsidiëren."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-060",
+      "text": "Amsterdam neemt zo snel mogelijk afscheid van houtige biomassa en zet meer in op alternatieve warmtebronnen zoals geothermie. De stad wordt minder afhankelijk van warmtenetten van hoge en midden temperatuur.",
+      "summary": "Afscheid van biomassa, meer inzet op geothermie",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "biomassa",
+        "geothermie",
+        "warmtebronnen",
+        "warmtenetten",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 63",
+      "originalQuote": "Houtige biomassa is helemaal niet duurzaam en daarom nemen we zo snel mogelijk afscheid ervan. We zetten in plaats daarvan meer in op alternatieve warmtebronnen zoals geothermie en dienen minder afhankelijk te worden van warmtenetten van hoge en midden temperatuur."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-061",
+      "text": "De infrastructuur van Amsterdamse warmtenetten komt in overheidshanden. Het gebruik door warmteleveranciers wordt aanbesteed om energievoorzieningen goedkoper aan te bieden voor Amsterdamse consumenten.",
+      "summary": "Warmtenet-infrastructuur naar overheidshanden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "warmtenetten",
+        "infrastructuur",
+        "overheidshanden",
+        "aanbesteding",
+        "energievoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 63",
+      "originalQuote": "Door de infrastructuur in overheidshanden te nemen, kan het mogelijk worden om het gebruik hiervan door warmteleveranciers aan te besteden. Hierdoor kunnen we energievoorzieningen goedkoper aanbieden voor de Amsterdamse consument."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-062",
+      "text": "Tot de energietransitie is voltooid worden geen nieuwe datacenters meer aangetrokken en wordt actief gestuurd op vermindering van het huidige aantal datacenters in Amsterdam.",
+      "summary": "Stop met nieuwe datacenters tot energietransitie voltooid",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "datacenters",
+        "energietransitie",
+        "vermindering",
+        "vestigingsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 63",
+      "originalQuote": "Totdat aan de energietransitie is voldaan trekken we géén datacenters meer aan en sturen actief aan op vermindering van het huidige aantal datacenters in onze stad."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-063",
+      "text": "Nieuwe datacenters moeten aantoonbaar 50% minder drinkwater verbruiken dan bestaande datacenters en vervuild water zuiveren of via extra belasting meebetalen aan zuiveringskosten van Waternet.",
+      "summary": "50% minder waterverbruik voor nieuwe datacenters + vervuiler betaalt",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "datacenters",
+        "drinkwater",
+        "watervervuiling",
+        "belasting",
+        "waternet"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 63",
+      "originalQuote": "Datacenters die nog geplaatst mogen worden, moeten aantoonbaar laten zien dat zij minstens 50% minder drinkwater zullen verbruiken dan de reeds bestaande datacenters in de stad. Ook moeten zij het water dat zij vervuilen ofwel (laten) zuiveren ofwel via een extra belasting meebetalen aan de zuiveringskosten door Waternet."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-064",
+      "text": "Het programma Autoluw wordt stopgezet en verkeersprojecten die niet gereserveerd zijn voor het verbeteren van verkeersveiligheid worden getemporiseerd.",
+      "summary": "Stop programma Autoluw behalve verkeersveiligheidsprojecten",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "autoluw",
+        "verkeersprojecten",
+        "verkeersveiligheid",
+        "temporiseren"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 64",
+      "originalQuote": "DENK wil stoppen met het programma Autoluw en verkeersprojecten temporiseren die niet zijn gereserveerd voor het verbeteren van de verkeersveiligheid."
+    },
+    {
+      "promiseCode": "DENK-AMS-2022-065",
+      "text": "Het besluit om 10.000 parkeerplaatsen te verwijderen wordt teruggedraaid en er komen in totaal 20.000 nieuwe parkeerplaatsen, wat tientallen miljoenen euro's structurele opbrengst kan betekenen.",
+      "summary": "20.000 nieuwe parkeerplaatsen ipv 10.000 weggehaalde plekken",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerplaatsen",
+        "terugdraaien",
+        "opbrengst",
+        "miljoenen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK amsterdam 2022, p. 64",
+      "originalQuote": "Verder zijn we vóór het terugdraaien van de beslissing om 10.000 parkeerplaatsen te verwijderen en het aanleggen van in totaal 20.000 parkeerplaatsen. Dit zal afhankelijk van het aantal fiscale plekken een structurele opbrengst kunnen betekenen van tientallen miljoenen euro's."
+    }
+  ]
+}

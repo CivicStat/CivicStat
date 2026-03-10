@@ -1,0 +1,4177 @@
+{
+  "party": "CU",
+  "partySlug": "cu",
+  "program": "Opstaan voor het goede",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-17",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88763/",
+  "pdfHash": "8dd6397bedd6b8b93b477fda9ab2f18d74dd22b3dce488a9b27b5ed296153ca8",
+  "totalPromises": 270,
+  "promises": [
+    {
+      "promiseCode": "CU-2025-001",
+      "text": "Er worden 100.000 woningen per jaar gebouwd, waarvan ten minste tweederde betaalbaar is voor mensen met een gewoon inkomen.",
+      "summary": "100.000 woningen per jaar bouwen, tweederde betaalbaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningen",
+        "woningbouw",
+        "betaalbaar",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "We bouwen 100.000 woningen per jaar, waarvan ten minste tweederde goed te betalen is voor mensen met een gewoon inkomen."
+    },
+    {
+      "promiseCode": "CU-2025-002",
+      "text": "Nederland geeft 3,5% van het nationale inkomen uit aan defensie en 0,7% aan ontwikkelingssamenwerking voor de allerarmsten wereldwijd.",
+      "summary": "3,5% van nationaal inkomen aan defensie, 0,7% aan ontwikkelingssamenwerking",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "ontwikkelingssamenwerking",
+        "nationaal inkomen",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "Daarom geven we 3,5% van ons nationale inkomen uit aan defensie en 0,7% aan de allerarmsten wereldwijd."
+    },
+    {
+      "promiseCode": "CU-2025-003",
+      "text": "Voor elk kind komt er €4.500 per jaar beschikbaar ter vervanging van de huidige kinderbijslag en kindgebonden budget.",
+      "summary": "€4.500 per kind per jaar als nieuwe kindsteun",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebonden budget",
+        "kinderen",
+        "financiële steun"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "In plaats van de huidige kinderbijslag en kindgebonden budget, komt er voor elk kind €4.500 euro per jaar beschikbaar."
+    },
+    {
+      "promiseCode": "CU-2025-004",
+      "text": "Het verlagen van kinderarmoede wordt een wettelijk doel.",
+      "summary": "Kinderarmoede verlagen wordt wettelijk vastgelegd",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderarmoede",
+        "wettelijk doel",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "Het verlagen van kinderarmoede wordt een wettelijk doel."
+    },
+    {
+      "promiseCode": "CU-2025-005",
+      "text": "De wirwar van toeslagen wordt vervangen door een eenvoudige belastingkorting, waarbij de eerste €30.000 die je per jaar verdient belastingvrij blijft.",
+      "summary": "Toeslagen vervangen door belastingkorting, €30.000 belastingvrij",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeslagen",
+        "belastingkorting",
+        "belastingvrij",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "De wirwar van toeslagen vervangen we door een eenvoudige belastingkorting. Zo blijft gegarandeerd de eerste €30.000 die je per jaar verdient belastingvrij"
+    },
+    {
+      "promiseCode": "CU-2025-006",
+      "text": "Iedere Nederlander vervult een periode maatschappelijke of militaire dienstplicht, waarbij jongeren kiezen voor de krijgsmacht of een rol elders in de samenleving.",
+      "summary": "Invoering maatschappelijke of militaire dienstplicht voor alle Nederlanders",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienstplicht",
+        "krijgsmacht",
+        "maatschappelijke dienst",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "Jongeren vervullen een maatschappelijke of militaire dienstplicht en kiezen daarbij, vanuit hun motivatie, voor de krijgsmacht of voor een rol elders in de samenleving."
+    },
+    {
+      "promiseCode": "CU-2025-007",
+      "text": "Euthanasie bij ernstig psychisch lijden voor jongeren onder de dertig wordt stopgezet totdat betere zorg en begeleiding geregeld is.",
+      "summary": "Stop euthanasie bij psychisch lijden jongeren onder 30",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "euthanasie",
+        "psychisch lijden",
+        "jongeren",
+        "ggz"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "Totdat dit goed geregeld is, wordt euthanasie bij ernstig psychisch lijden voor jongeren onder de dertig stopgezet."
+    },
+    {
+      "promiseCode": "CU-2025-008",
+      "text": "Niet-repareerbare gebruiksproducten worden geweerd en fabrikanten moeten tot tien jaar verplicht reserveonderdelen aanhouden en service bieden.",
+      "summary": "Verbod niet-repareerbare producten, 10 jaar onderdelen verplicht",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reparatie",
+        "reserveonderdelen",
+        "fabrikanten",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 5",
+      "originalQuote": "Niet-repareerbare gebruiksproducten worden geweerd en fabrikanten moeten tot tien jaar verplicht reserveonderdelen aanhouden en hierbij service bieden."
+    },
+    {
+      "promiseCode": "CU-2025-009",
+      "text": "De ChristenUnie neemt regie in de volkshuisvesting om betaalbaar en toekomstbestendig te bouwen.",
+      "summary": "Overheidsregie in volkshuisvesting voor betaalbaar bouwen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regie",
+        "volkshuisvesting",
+        "betaalbaar",
+        "toekomstbestendig",
+        "bouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 9",
+      "originalQuote": "De ChristenUnie kiest voor een overheid die regie neemt in de volkshuisvesting om betaalbaar en toekomstbestendig te bouwen."
+    },
+    {
+      "promiseCode": "CU-2025-010",
+      "text": "De woningmarkt wordt rechtvaardiger gemaakt zodat woningzoekenden en huurders niet langer benadeeld worden.",
+      "summary": "Rechtvaardiger woningmarkt voor zoekenden en huurders",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningmarkt",
+        "rechtvaardig",
+        "woningzoekenden",
+        "huurders",
+        "benaderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 9",
+      "originalQuote": "We zorgen voor een rechtvaardiger woningmarkt die woningzoekenden en huurders niet langer benadeelt."
+    },
+    {
+      "promiseCode": "CU-2025-011",
+      "text": "Er wordt geïnvesteerd in betaalbare woningen voor jong en oud, en gebouwd aan gemengde wijken en dorpen.",
+      "summary": "Investeren in betaalbare woningen en gemengde wijken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeren",
+        "betaalbare",
+        "woningen",
+        "gemengde",
+        "wijken",
+        "dorpen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 9",
+      "originalQuote": "We investeren in betaalbare woningen voor jong en oud, bouwen aan gemengde wijken en dorpen waar mensen elkaar kennen en omzien naar elkaar."
+    },
+    {
+      "promiseCode": "CU-2025-012",
+      "text": "Elk jaar 100.000 nieuwe woningen bouwen om het woningtekort van 400.000 woningen in te lopen",
+      "summary": "100.000 nieuwe woningen per jaar bouwen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningen",
+        "bouw",
+        "woningtekort",
+        "tempo"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "Er is een groot tekort aan woningen: naar schatting 400.000. Om dat in te lopen, moeten we elk jaar 100.000 nieuwe woningen bouwen."
+    },
+    {
+      "promiseCode": "CU-2025-013",
+      "text": "20 miljard euro extra vrijmaken voor woningbouw het komende decennium: 10 miljard extra investeringen en structureel een miljard per jaar door woningcorporaties meer investeringsruimte te bieden",
+      "summary": "20 miljard euro extra voor woningbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouw",
+        "investeringen",
+        "woningcorporaties",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "De ChristenUnie wil dat dit tempo echt gehaald wordt, en maakt daar het komende decennium 20 miljard euro extra voor vrij: 10 miljard extra investeringen en structureel een miljard per jaar door woningcorporaties meer investeringsruimte te bieden"
+    },
+    {
+      "promiseCode": "CU-2025-014",
+      "text": "Minstens twee derde van nieuw te bouwen huizen moet betaalbaar zijn, waaronder 30 procent sociale huur",
+      "summary": "2/3 nieuwbouw betaalbaar, 30% sociale huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "betaalbare",
+        "woningen",
+        "sociale",
+        "huur",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "Daarom zorgen we dat minstens twee derde van de nieuw te bouwen huizen betaalbaar is, waaronder 30 procent sociale huur."
+    },
+    {
+      "promiseCode": "CU-2025-015",
+      "text": "Woningcorporaties mogen een deel van hun winst opnieuw investeren in nieuwe woningen via de herbestedingsreserve, wat elk jaar een miljard euro extra oplevert",
+      "summary": "Herbestedingsreserve levert miljard euro extra op",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningcorporaties",
+        "herbestedingsreserve",
+        "investeringen",
+        "winst"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "Ze mogen een deel van hun winst opnieuw investeren in nieuwe woningen (de herbestedingsreserve), dat levert elk jaar een miljard euro extra op voor meer betaalbare huizen."
+    },
+    {
+      "promiseCode": "CU-2025-016",
+      "text": "Het Nationaal Fonds Betaalbare Koopwoningen wordt uitgebreid zodat starters een kans krijgen op de koopmarkt",
+      "summary": "Uitbreiding Nationaal Fonds Betaalbare Koopwoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "koopwoningen",
+        "starters",
+        "koopmarkt",
+        "fonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "Daarom breiden we het Nationaal Fonds Betaalbare Koopwoningen uit, zodat ook starters eindelijk een kans krijgen op de koopmarkt."
+    },
+    {
+      "promiseCode": "CU-2025-017",
+      "text": "Vergunningsprocedures worden versimpeld en versneld, en landelijke en Europese regels over natuurbescherming worden hierop aangepast",
+      "summary": "Versimpeling en versnelling vergunningsprocedures",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningen",
+        "procedures",
+        "natuurbescherming",
+        "regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "We versimpelen en versnellen daarom vergunningprocedures, zodat de meeste tijd van een bouwproject niet meer in procedures zit. Landelijke en Europese regels over natuurbescherming passen we hierop aan."
+    },
+    {
+      "promiseCode": "CU-2025-018",
+      "text": "Er komt een wet of tijdelijke regeling om sneller belangrijke infrastructuur aan te leggen zoals elektriciteitsvoorzieningen en overstromingsbescherming",
+      "summary": "Wet voor snellere aanleg belangrijke infrastructuur",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infrastructuur",
+        "wet",
+        "elektriciteit",
+        "overstromingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "We maken het mogelijk om sneller belangrijke infrastructuur aan te leggen, zoals elektriciteitsvoorzieningen of bescherming tegen overstromingen. Hiervoor komt een wet of tijdelijke regeling."
+    },
+    {
+      "promiseCode": "CU-2025-019",
+      "text": "De Raad van State gaat werken met een snelle toets vooraf om onnodige rechtszaken eruit te filteren, zoals in Duitsland",
+      "summary": "Snelle voortoets Raad van State naar Duits model",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raad",
+        "state",
+        "voortoets",
+        "rechtszaken",
+        "duitsland"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "De Raad van State gaat werken met een snelle toets vooraf (zoals in Duitsland), om onnodige rechtszaken eruit te filteren."
+    },
+    {
+      "promiseCode": "CU-2025-020",
+      "text": "Rijk en gemeenten kijken minimaal 50 jaar vooruit bij keuzes waar wel en niet wordt gebouwd",
+      "summary": "Minimaal 50 jaar vooruitkijken bij bouwlocaties",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwlocaties",
+        "planning",
+        "toekomst",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 11",
+      "originalQuote": "Rijk en gemeenten kijken minimaal 50 jaar vooruit in de keuzes waar wel en niet wordt gebouwd."
+    },
+    {
+      "promiseCode": "CU-2025-021",
+      "text": "Het Rijk komt met een 'Nota Ruimte' waarin grote structuurkeuzes worden gemaakt, zoals de Lelylijn, Nedersaksenlijn, aanwijzen van grootschalige nieuwbouwlocaties, Deltawind21 met een derde Maasvlakte en natuurontwikkeling.",
+      "summary": "Nota Ruimte met Lelylijn, Nedersaksenlijn, nieuwbouwlocaties en Deltawind21",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nota",
+        "ruimte",
+        "lelylijn",
+        "nedersaksenlijn",
+        "nieuwbouwlocaties",
+        "deltawind21",
+        "maasvlakte"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "Het Rijk komt daarom eindelijk met de langverwachte 'Nota Ruimte'. Daarin worden grote structuurkeuzes gemaakt, zoals de Lelylijn, Nedersaksenlijn, het aanwijzen van grootschalige nieuwbouwlocaties, Deltawind21 in combinatie met een derde Maasvlakte en natuurontwikkeling."
+    },
+    {
+      "promiseCode": "CU-2025-022",
+      "text": "Er komt een landelijke aanpak voor grote woningbouwopgaven, vergelijkbaar met de VINEX-wijken, om bouwen sneller en beter te laten gebeuren op toekomstbestendige en bereikbare plekken.",
+      "summary": "Landelijke aanpak woningbouw zoals bij VINEX-wijken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbouw",
+        "vinex",
+        "landelijke",
+        "aanpak",
+        "bouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "Voor grote woningbouwopgaven komt een landelijke aanpak, zoals eerder bij de VINEX-wijken. Zo zorgen we dat bouwen sneller en beter gebeurt, op plekken die toekomstbestendig en bereikbaar zijn."
+    },
+    {
+      "promiseCode": "CU-2025-023",
+      "text": "Er komt een belasting op de winst die ontstaat als grond bouwgrond wordt (planbatenheffing) om waardestijging eerlijker te verdelen.",
+      "summary": "Belasting op bouwgrondwinst (planbatenheffing)",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belasting",
+        "winst",
+        "bouwgrond",
+        "planbatenheffing",
+        "waardestijging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "Daarom zijn we voor een belasting op de winst die ontstaat als grond bouwgrond wordt (planbatenheffing)."
+    },
+    {
+      "promiseCode": "CU-2025-024",
+      "text": "De hypotheekrenteaftrek wordt de komende decennia geleidelijk afgebouwd als onderdeel van herziening van het belastingstelsel.",
+      "summary": "Geleidelijke afbouw hypotheekrenteaftrek",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "afbouw",
+        "belastingstelsel",
+        "herziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "In het kader van haar algehele herziening van het belastingstelsel, wil de ChristenUnie deze regeling de komende decennia geleidelijk afbouwen."
+    },
+    {
+      "promiseCode": "CU-2025-025",
+      "text": "Het eigenwoningforfait wordt afgeschaft over de eerste miljoen euro, zodat over de eerste miljoen euro aan woningwaarde geen belasting meer hoeft te worden betaald.",
+      "summary": "Afschaffing eigenwoningforfait tot €1 miljoen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigenwoningforfait",
+        "miljoen",
+        "euro",
+        "woningwaarde",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "Tegelijkertijd schaffen we het eigenwoningforfait af over de eerste miljoen euro, zodat over de eerste miljoen euro aan woningwaarde geen belasting meer hoeft te worden betaald."
+    },
+    {
+      "promiseCode": "CU-2025-026",
+      "text": "In alle dorpen en steden wordt twee derde betaalbare koop- en huurwoningen gebouwd, waaronder 30 procent sociale huur.",
+      "summary": "2/3 betaalbare woningen waarvan 30% sociale huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "betaalbare",
+        "woningen",
+        "sociale",
+        "huur",
+        "procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "Om dat aan te moedigen bouwen we in alle dorpen en steden twee derde betaalbare koop- en huurwoningen, waaronder 30 procent sociale huur."
+    },
+    {
+      "promiseCode": "CU-2025-027",
+      "text": "De kostendelersnorm in de Participatiewet wordt afgeschaft voor mensen die onderdak bieden aan iemand in nood of bereid zijn hun woning te delen.",
+      "summary": "Afschaffing kostendelersnorm voor onderdak verlening",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "participatiewet",
+        "onderdak",
+        "woning",
+        "delen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "Daarom schaffen we de kostendelersnorm in de Participatiewet af voor mensen die onderdak bieden aan iemand in nood of bereid zijn om hun woning te delen met iemand anders."
+    },
+    {
+      "promiseCode": "CU-2025-028",
+      "text": "De huurtoeslag wordt omgezet in een huursubsidie gebaseerd op het inkomen van twee jaar geleden, zodat er geen risico meer is op naheffingen en schulden.",
+      "summary": "Huurtoeslag wordt huursubsidie op basis inkomen 2 jaar terug",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurtoeslag",
+        "huursubsidie",
+        "inkomen",
+        "naheffingen",
+        "schulden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "De huurtoeslag wordt omgezet in een huursubsidie, gebaseerd op het inkomen van twee jaar geleden, zodat er geen risico meer is op naheffingen en schulden"
+    },
+    {
+      "promiseCode": "CU-2025-029",
+      "text": "Huren worden niet meer gekoppeld aan loonstijgingen maar aan de gemiddelde prijsontwikkeling over meerdere jaren om minder hard te stijgen.",
+      "summary": "Huren gekoppeld aan prijsontwikkeling ipv loonstijging",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huren",
+        "loonstijgingen",
+        "prijsontwikkeling",
+        "koppeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "De huren moeten minder hard stijgen dan in voorgaande jaren, door ze niet meer te koppelen aan loonstijgingen maar aan de gemiddelde prijsontwikkeling over meerdere jaren."
+    },
+    {
+      "promiseCode": "CU-2025-030",
+      "text": "Het nationaal actieplan dakloosheid wordt uitgevoerd zodat in 2030 niemand meer op straat hoeft te slapen.",
+      "summary": "Einde dakloosheid in 2030 via nationaal actieplan",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dakloosheid",
+        "actieplan",
+        "2030",
+        "straat",
+        "slapen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 13",
+      "originalQuote": "We voeren het nationaal actieplan dakloosheid uit, zodat in 2030 niemand meer op straat hoeft te slapen."
+    },
+    {
+      "promiseCode": "CU-2025-031",
+      "text": "Gemeenten moeten zich inspannen om alle mensen die dakloos zijn te huisvesten, ook de niet-zichtbare daklozen die bijvoorbeeld bij vrienden op de bank slapen volgens de EHTOS-light definitie.",
+      "summary": "Huisvesting van alle daklozen inclusief niet-zichtbare daklozen door gemeenten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dakloosheid",
+        "huisvesting",
+        "gemeenten",
+        "ehtos-light",
+        "niet-zichtbare daklozen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Gemeenten moeten zich inspannen om alle mensen die dakloos zijn te huisvesten, ook de niet-zichtbare daklozen omdat ze bijvoorbeeld bij vrienden op de bank slapen (EHTOS-light definitie)."
+    },
+    {
+      "promiseCode": "CU-2025-032",
+      "text": "Bij woningbouwprojecten moet vanaf het begin ruimte worden gereserveerd voor ontmoeting: kerken, buurthuizen, verenigingsgebouwen en maatschappelijk vastgoed zoals huisarts- en hulpverleningspraktijken.",
+      "summary": "Reservering ruimte voor ontmoeting en voorzieningen bij woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbouw",
+        "ontmoetingsruimte",
+        "kerken",
+        "buurthuizen",
+        "maatschappelijk vastgoed"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Bij woningbouwprojecten moet vanaf het begin ruimte worden gereserveerd voor ontmoeting: kerken, buurthuizen, verenigingsgebouwen en maatschappelijk vastgoed zoals huisarts- en hulpverleningspraktijken."
+    },
+    {
+      "promiseCode": "CU-2025-033",
+      "text": "Het Nationaal Programma Leefbaarheid en Veiligheid wordt uitgebreid naar regio's die nu buiten de boot vallen, zoals Zeeuws-Vlaanderen, de Veenkoloniën, Twente en voormalige groeikernen zoals Zoetermeer.",
+      "summary": "Uitbreiding NPLV naar meer regio's waaronder Zeeuws-Vlaanderen en Twente",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nplv",
+        "leefbaarheid",
+        "zeeuws-vlaanderen",
+        "veenkoloniën",
+        "twente",
+        "groeikernen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "We breiden dit programma uit naar regio's die nu nog buiten de boot vallen, zoals Zeeuws-Vlaanderen, de Veenkoloniën, Twente en zogenaamde New Towns (voormalige groeikernen zoals Zoetermeer)."
+    },
+    {
+      "promiseCode": "CU-2025-034",
+      "text": "Regels zoals de AVG worden gewijzigd zodat deze niet meer tot onnodige regeldurk bij kleinere vrijwilligersorganisaties leiden.",
+      "summary": "Wijziging AVG-regels voor vermindering regeldruk bij vrijwilligersorganisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "avg",
+        "regeldruk",
+        "vrijwilligersorganisaties",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Daarom willen we regels zoals de AVG zo wijzigen dat deze niet meer tot onnodige regeldurk bij kleinere vrijwilligersorganisaties leidt."
+    },
+    {
+      "promiseCode": "CU-2025-035",
+      "text": "De giftenaftrek wordt in stand gehouden om doneren aan goede doelen en vrijwilligersorganisaties aan te moedigen.",
+      "summary": "Behoud giftenaftrek voor donaties aan goede doelen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "giftenaftrek",
+        "donaties",
+        "goede doelen",
+        "vrijwilligersorganisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "De giftenaftrek houden we in stand om doneren aan goede doelen en vrijwilligersorganisaties aan te moedigen."
+    },
+    {
+      "promiseCode": "CU-2025-036",
+      "text": "De toeslag voor kleine scholen wordt behouden.",
+      "summary": "Behoud toeslag voor kleine scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslag",
+        "kleine scholen",
+        "onderwijsvoorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "We behouden de toeslag voor kleine scholen."
+    },
+    {
+      "promiseCode": "CU-2025-037",
+      "text": "Hogescholen krijgen geld om kleine en kwetsbare opleidingen in de regio overeind te houden.",
+      "summary": "Financiering hogescholen voor behoud kleine opleidingen in regio",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hogescholen",
+        "opleidingen",
+        "regio",
+        "financiering",
+        "onderwijsvoorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Hogescholen krijgen geld om kleine en kwetsbare opleidingen in de regio overeind te houden."
+    },
+    {
+      "promiseCode": "CU-2025-038",
+      "text": "Posten voor spoedeisende hulp en andere vormen van acute zorg worden door het hele land opengehouden.",
+      "summary": "Behoud spoedeisende hulp en acute zorg in alle regio's",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "spoedeisende hulp",
+        "acute zorg",
+        "zorgvoorzieningen",
+        "regio"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "We houden posten voor spoedeisende hulp en andere vormen van acute zorg open door het hele land."
+    },
+    {
+      "promiseCode": "CU-2025-039",
+      "text": "De Rijksoverheid stopt met het overhevelen van taken aan gemeenten zonder toereikend budget en herstelt waar dit de afgelopen jaren is misgegaan volgens het principe 'geen taken zonder knaken'.",
+      "summary": "Stop overheveling taken naar gemeenten zonder adequate financiering",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "takenoverheveling",
+        "gemeenten",
+        "budget",
+        "financiering",
+        "decentralisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "De Rijksoverheid stopt met het overhevelen van taken aan gemeenten zonder toereikend budget en herstelt waar dit de afgelopen jaren is misgegaan: geen taken zonder knaken."
+    },
+    {
+      "promiseCode": "CU-2025-040",
+      "text": "Er wordt geen gas meer gewonnen uit de Groninger gasvelden.",
+      "summary": "Stop gaswinning uit Groninger gasvelden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "groningen",
+        "gasvelden",
+        "aardgas"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Er wordt geen gas meer gewonnen uit de Groninger gasvelden."
+    },
+    {
+      "promiseCode": "CU-2025-041",
+      "text": "Er wordt 1,8 miljard euro beschikbaar gesteld om onuitlegbare verschillen in het aardbevingsgebied conform het rapport Van Geel weg te nemen.",
+      "summary": "1,8 miljard euro voor wegwerken verschillen aardbevingsgebied Groningen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aardbevingsgebied",
+        "groningen",
+        "1,8 miljard euro",
+        "rapport van geel",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Onuitlegbare verschillen in het aardbevingsgebied worden conform het rapport Van Geel weggenomen. Hiervoor stellen we 1,8 miljard euro beschikbaar."
+    },
+    {
+      "promiseCode": "CU-2025-042",
+      "text": "Er komt een Groningenfonds om het geld langjarig beschikbaar te houden voor Groningen.",
+      "summary": "Oprichting Groningenfonds voor langjarige financiering",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groningenfonds",
+        "groningen",
+        "langjarige financiering",
+        "fonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 15",
+      "originalQuote": "Er komt een Groningenfonds om het geld langjarig beschikbaar te houden voor Groningen."
+    },
+    {
+      "promiseCode": "CU-2025-043",
+      "text": "Bij de verdeling van overheidssubsidies voor culturele instellingen wordt gestreefd naar een eerlijker geografische spreiding over Nederland.",
+      "summary": "Eerlijkere verdeling culturele subsidies over het land",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidssubsidies",
+        "culturele instellingen",
+        "verdeling",
+        "geografische spreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 17",
+      "originalQuote": "Bij de verdeling van overheidssubsidies voor culturele instellingen willen we een eerlijker verdeling over het land."
+    },
+    {
+      "promiseCode": "CU-2025-044",
+      "text": "Kinderen blijven tot hun 18e levensjaar gratis lid van de openbare bibliotheek.",
+      "summary": "Gratis bibliotheeklidmaatschap voor kinderen tot 18 jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderen",
+        "bibliotheek",
+        "gratis lidmaatschap",
+        "18 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 17",
+      "originalQuote": "Kinderen zijn tot hun 18e jaar gratis lid van de bibliotheek."
+    },
+    {
+      "promiseCode": "CU-2025-045",
+      "text": "De overheid blijft structureel financiële middelen beschikbaar stellen voor onderhoud aan Rijksmonumenten en voor herbestemming van deze monumenten.",
+      "summary": "Blijvende financiering onderhoud en herbestemming Rijksmonumenten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksmonumenten",
+        "onderhoud",
+        "herbestemming",
+        "overheidsfinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 17",
+      "originalQuote": "De overheid stelt blijvend geld beschikbaar om onderhoud aan Rijksmonumenten te plegen en herbestemming mogelijk te maken."
+    },
+    {
+      "promiseCode": "CU-2025-046",
+      "text": "De stikstofuitstoot wordt de komende tien jaar gehalveerd ten opzichte van 2019, zowel de uitstoot van stikstofoxiden in de mobiliteit en industrie als ammoniakuitstoot in de landbouw. Alle sectoren dragen naar rato bij aan deze reductiedoelstelling.",
+      "summary": "Stikstofuitstoot halveren in tien jaar ten opzichte van 2019",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofuitstoot",
+        "halvering",
+        "stikstofoxiden",
+        "ammoniakuitstoot",
+        "sectoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "De stikstofuitstoot wordt de komende tien jaar gehalveerd ten opzichte van 2019, zowel de uitstoot van stikstofoxiden in de mobiliteit en industrie als ammoniakuitstoot in de landbouw. Alle sectoren dragen naar rato bij."
+    },
+    {
+      "promiseCode": "CU-2025-047",
+      "text": "Er wordt overgestapt van sturen op middelen naar sturen op doelen. Elk boerenbedrijf krijgt een bedrijfsspecifiek doel dat is afgeleid van de landelijke opgave en sectorale emissieplafonds.",
+      "summary": "Bedrijfsspecifieke stikstof doelen voor alle boerenbedrijven",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doelsturing",
+        "boerenbedrijf",
+        "emissieplafond",
+        "stikstof"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Daarom stappen we zo veel mogelijk over van sturen op middelen naar sturen op doelen. Elk boerenbedrijf krijgt een bedrijfsspecifiek doel dat is afgeleid van de landelijke opgave en sectorale emissieplafonds."
+    },
+    {
+      "promiseCode": "CU-2025-048",
+      "text": "Er komt een agarische hoofdstructuur met ruimte voor hoogproductieve landbouw en overgangszones rond natuurgebieden waarin sprake is van extensivering van veehouderij en landgebruik.",
+      "summary": "Agarische hoofdstructuur met extensivering rond natuurgebieden",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "agarische hoofdstructuur",
+        "hoogproductieve landbouw",
+        "extensivering",
+        "veehouderij"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Er komt een agarische hoofdstructuur, waar ruimte blijft voor hoogproductieve landbouw, en overgangszones rond natuurgebieden, waarin sprake is van extensivering van veehouderij en landgebruik."
+    },
+    {
+      "promiseCode": "CU-2025-049",
+      "text": "Grondgebondenheid in de melkveehouderij wordt na decennia van discussie eindelijk wettelijk vastgelegd als randvoorwaarde.",
+      "summary": "Wettelijke vastlegging grondgebondenheid melkveehouderij",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondgebondenheid",
+        "melkveehouderij",
+        "wettelijk",
+        "vastlegging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Grondgebondenheid in de melkveehouderij is een randvoorwaarde en gaan we na decennia van discussie eindelijk wettelijk vastleggen."
+    },
+    {
+      "promiseCode": "CU-2025-050",
+      "text": "Er wordt 5 miljard euro extra uitgetrokken om boeren te helpen bij doelsturing, extensivering, agrarisch natuurbeheer en natuurherstel.",
+      "summary": "5 miljard euro extra voor boeren voor stikstof- en natuurmaatregelen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "5 miljard euro",
+        "doelsturing",
+        "extensivering",
+        "agrarisch natuurbeheer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Daartegenover staat dat er 5 miljard euro extra uitgetrokken wordt om boeren te helpen bij doelsturing, extensivering, agrarisch natuurbeheer en natuurherstel."
+    },
+    {
+      "promiseCode": "CU-2025-051",
+      "text": "Het aantal vliegbewegingen in Nederland gaat naar beneden als onderdeel van de stikstofaanpak.",
+      "summary": "Aantal vliegbewegingen wordt verminderd",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vliegbewegingen",
+        "reductie",
+        "stikstofaanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Het aantal vliegbewegingen in Nederland gaat naar beneden, ook de automobiliteit draagt bij."
+    },
+    {
+      "promiseCode": "CU-2025-052",
+      "text": "Industrieën met een hoge stikstofuitstoot krijgen naast klimaatdoelen ook bindende stikstofdoelen opgelegd. Er komen regionale stikstofbalansen zoals in Rijnmond en Chemelot.",
+      "summary": "Bindende stikstofdoelen voor industrie en regionale stikstofbalansen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "industrie",
+        "bindende stikstofdoelen",
+        "regionale stikstofbalansen",
+        "rijnmond",
+        "chemelot"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Industrieën met een hoge stikstofuitstoot krijgen, naast klimaatdoelen, bindende stikstofdoelen opgelegd. [...] Ook worden er regionale stikstofbalansen opgesteld, zoals in Rijnmond en Chemelot, waar gebiedsspecifieke emissieplafonds gaan gelden."
+    },
+    {
+      "promiseCode": "CU-2025-053",
+      "text": "Er wordt een houdbare NOx-bouwvrijstelling ingevoerd om de bouw van woningen en wegen los te trekken van stikstofberekeningen.",
+      "summary": "NOx-bouwvrijstelling voor woningen en wegen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nox-bouwvrijstelling",
+        "woningbouw",
+        "wegen",
+        "vergunningverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 19",
+      "originalQuote": "Om de bouw van woningen en wegen los te trekken voeren we een houdbare NOx-bouwvrijstelling in."
+    },
+    {
+      "promiseCode": "CU-2025-054",
+      "text": "De overheid neemt nationale regie over de energie-infrastructuur en vereenvoudigt vergunnings- en beroepsprocedures voor netverzwaring.",
+      "summary": "Nationale regie energie-infrastructuur en vereenvoudiging vergunningsprocedures",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energie-infrastructuur",
+        "vergunningsprocedures",
+        "netverzwaring",
+        "nationale regie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "De overheid neemt nationale regie over de energie-infrastructuur, zet in op het vereenvoudigen van de vergunnings- en beroepsprocedures"
+    },
+    {
+      "promiseCode": "CU-2025-055",
+      "text": "Extra geld uit het Klimaatfonds wordt beschikbaar gesteld om netverzwaring en de warmtetransitie een impuls te geven.",
+      "summary": "Extra geld Klimaatfonds voor netverzwaring en warmtetransitie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatfonds",
+        "netverzwaring",
+        "warmtetransitie",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "We stellen extra geld uit het Klimaatfonds beschikbaar om netverzwaring en de warmtetransitie een noodzakelijke impuls te geven."
+    },
+    {
+      "promiseCode": "CU-2025-056",
+      "text": "Projecten die de energietransitie bevorderen en het elektriciteitsnet ontlasten krijgen een lager nettarief.",
+      "summary": "Lager nettarief voor energietransitie-projecten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nettarief",
+        "energietransitie",
+        "elektriciteitsnet",
+        "waterstofproductie",
+        "batterijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "Projecten die de energietransitie bevorderen en het elektriciteitsnet ontlasten, zoals waterstofproductie en batterijen, krijgen een lager nettarief."
+    },
+    {
+      "promiseCode": "CU-2025-057",
+      "text": "Voor thuisbatterijen komt een helder kader voor brandveiligheid, garanties en levensduur, en verplichte aan- en afschakelmogelijkheid voor netbeheerders.",
+      "summary": "Kader voor thuisbatterijen met verplichte schakelmogelijkheid",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "thuisbatterijen",
+        "brandveiligheid",
+        "garanties",
+        "netbeheerder",
+        "schakelmogelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "Voor thuisbatterijen komt een helder kader voor brandveiligheid, garanties en levensduur, normering voor het gebruik van zeldzame materialen en verplichte mogelijkheid voor de netbeheerder om aan- en af te schakelen."
+    },
+    {
+      "promiseCode": "CU-2025-058",
+      "text": "Er wordt een prioriteringssysteem ingevoerd: ziekenhuizen krijgen gegarandeerd vermogen, gevolgd door woningen, industrie, utiliteit en laadvoorzieningen.",
+      "summary": "Prioriteringssysteem elektriciteitsnet met ziekenhuizen voorop",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prioriteringssysteem",
+        "ziekenhuizen",
+        "woningen",
+        "industrie",
+        "laadvoorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "Een andere prioritering en zekerheidsklassen is nodig: ziekenhuizen krijgen gegarandeerd vermogen, gevolgd door woningen, industrie, utiliteit en tot slot laadvoorzieningen."
+    },
+    {
+      "promiseCode": "CU-2025-059",
+      "text": "Warmtepompen, laadpalen en batterijen krijgen een verplichte schakelmogelijkheid voor netbeheerders om lokaal, regionaal en landelijk te kunnen sturen.",
+      "summary": "Verplichte schakelmogelijkheid warmtepompen, laadpalen en batterijen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "warmtepompen",
+        "laadpalen",
+        "batterijen",
+        "schakelmogelijkheid",
+        "netbeheerder"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "Warmtepompen, laadpalen en batterijen krijgen een verplichte schakelmogelijkheid waardoor de netbeheerder lokaal, regionaal en landelijk stuurmogelijkheden krijgt."
+    },
+    {
+      "promiseCode": "CU-2025-060",
+      "text": "De ChristenUnie stelt via een kapitaalstorting 10 miljard euro extra beschikbaar voor netbeheerders om financieringskosten laag te houden.",
+      "summary": "10 miljard euro kapitaalstorting voor netbeheerders",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kapitaalstorting",
+        "netbeheerders",
+        "financieringskosten",
+        "10 miljard euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 21",
+      "originalQuote": "De ChristenUnie stelt via een kapitaalstorting 10 miljard euro extra beschikbaar voor de netbeheerders, zodat hun financieringskosten laag blijven."
+    },
+    {
+      "promiseCode": "CU-2025-061",
+      "text": "Niemand betaalt belasting over de eerste €30.000 aan inkomen. Belastingtarieven worden 33,3% tot €45.000, 41,6% tussen €45.000-€90.000, en 49,9% daarboven.",
+      "summary": "Geen belasting over eerste €30.000, nieuwe belastingtarieven 33,3%/41,6%/49,9%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingtarief",
+        "inkomstenbelasting",
+        "belastingvrije",
+        "voet",
+        "schijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "Stelregel is dat onderaan de streep niemand belasting betaalt over de eerste € 30.000 euro aan inkomen. En we verlagen het belastingtarief naar 33,3% op het inkomen tot € 45.000 van het inkomen, 41,6% op het inkomen tussen € 45.000 en € 90.000, en 49,9% daarboven."
+    },
+    {
+      "promiseCode": "CU-2025-062",
+      "text": "Het toeslagenstelsel wordt vervangen door slimmere alternatieven. Huurtoeslag wordt omgezet in huursubsidie, andere toeslagen vervangen door verzilverbare belastingkorting.",
+      "summary": "Toeslagenstelsel wordt vervangen door huursubsidie en verzilverbare belastingkorting",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslagen",
+        "huursubsidie",
+        "belastingkorting",
+        "stelselwijziging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "Daarom vervangen we de toeslagen door slimmere alternatieven. De huurtoeslag wordt omgezet in huursubsidie, waarbij op basis van het inkomen van twee jaar geleden (inclusief vangnetregeling) huurders met lage inkomens worden geholpen om de huur te kunnen betalen. De andere toeslagen vervangen we door een verzilverbare belastingkorting."
+    },
+    {
+      "promiseCode": "CU-2025-063",
+      "text": "Verzilverbare belastingkorting wordt ingevoerd: €5.000 per jaar voor eerste persoon in huishouden, €2.500 per jaar voor tweede volwassene.",
+      "summary": "Verzilverbare belastingkorting €5.000/€2.500 per persoon per jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingkorting",
+        "verzilverbaar",
+        "huishouden",
+        "bedragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "De eerste persoon in het huishouden krijgt € 5.000 per jaar, de tweede volwassene € 2.500 per jaar."
+    },
+    {
+      "promiseCode": "CU-2025-064",
+      "text": "Kinderbijslag en kindgebonden budget worden omgevormd tot inkomensonafhankelijke regeling van €4.500 per kind per jaar (€375 per maand).",
+      "summary": "Kinderbijslag wordt €4.500 per kind per jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebonden",
+        "budget",
+        "inkomensonafhankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "We vormen de kinderbijslag en het kindgebonden budget om tot een inkomensonafhankelijke regeling, als onderdeel van de verzilverbare belastingkorting. Het bedrag per kind is € 4500 per jaar (€ 375 per maand)."
+    },
+    {
+      "promiseCode": "CU-2025-065",
+      "text": "Arbeidskorting en ondernemersregelingen worden omgevormd naar één werkendenkorting met maximum van €5.000 per jaar.",
+      "summary": "Één werkendenkorting van maximaal €5.000 per jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "arbeidskorting",
+        "werkendenkorting",
+        "ondernemersregelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "De arbeidskorting, die de afgelopen jaren tot onverantwoordelijke proporties is opgeblazen, wordt samen met de ondernemersregelingen in de inkomstenbelasting omgevormd naar één werkendenkorting, met een maximum van € 5.000 per jaar."
+    },
+    {
+      "promiseCode": "CU-2025-066",
+      "text": "Hypotheekrenteaftrek wordt geleidelijk afgeschaft.",
+      "summary": "Hypotheekrenteaftrek wordt geleidelijk afgeschaft",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "afschaffing",
+        "geleidelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "De hypotheekrenteaftrek schaffen we geleidelijk af."
+    },
+    {
+      "promiseCode": "CU-2025-067",
+      "text": "Vermogensbelasting van 1% op vermogens boven 1 miljoen euro wordt ingevoerd voor extra bijdrage aan defensie-investeringen.",
+      "summary": "Vermogensbelasting 1% op vermogens boven €1 miljoen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vermogensbelasting",
+        "miljoen",
+        "defensie",
+        "vermogens"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "In het licht van de grote investeringen die nodig zijn in defensie, vragen we van de grootste vermogens een extra bijdrage met een vermogensbelasting van 1% op vermogens boven de 1 miljoen euro."
+    },
+    {
+      "promiseCode": "CU-2025-068",
+      "text": "Vliegbelasting wordt verhoogd en accijns of btw op vliegtuigbrandstof en -tickets wordt ingevoerd na verdragswijziging.",
+      "summary": "Vliegbelasting omhoog, accijns/btw op vliegtuigbrandstof en tickets",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vliegbelasting",
+        "accijns",
+        "vliegtuigbrandstof",
+        "tickets"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "Op vliegtuigbrandstof en -tickets moet na de benodigde verdragswijziging accijns of btw betaald worden. Ook verhogen we de vliegbelasting."
+    },
+    {
+      "promiseCode": "CU-2025-069",
+      "text": "NOx-heffing wordt ingevoerd, belasting op vervuilende verpakkingen, hogere accijnzen op tabak en alcohol, heffingen op suiker en ongezonde producten, verbruiksbelasting op e-sigaretten en hogere kansspelbelasting.",
+      "summary": "NOx-heffing, belasting vervuilende verpakkingen, hogere accijnzen tabak/alcohol/suiker",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nox-heffing",
+        "verpakkingen",
+        "accijnzen",
+        "tabak",
+        "alcohol",
+        "suiker",
+        "e-sigaretten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 23",
+      "originalQuote": "Milieuvervuiling gaat steviger belast worden, bijvoorbeeld met een NOx-heffing. We belonen duurzamere productie door het invoeren van een belasting op vervuilende verpakkingen. Accijnzen op tabak en alcohol gaan verder omhoog. Op suiker en andere ongezonde producten worden heffingen ingevoerd om voedselproducenten te stimuleren gezondere producten te maken. We introduceren een verbruiksbelasting op e-sigaretten en verhogen de kansspelbelasting."
+    },
+    {
+      "promiseCode": "CU-2025-070",
+      "text": "300 miljoen euro per jaar beschikbaar stellen voor versterking van het aanbod van busvervoer en goedkopere kaartjes, ter vervanging van de bezuinigingen op het openbaar vervoer",
+      "summary": "€300 miljoen per jaar extra voor busvervoer en goedkopere kaartjes",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "busvervoer",
+        "300 miljoen",
+        "kaartjes",
+        "bezuiniging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 25",
+      "originalQuote": "We draaien de bezuiniging op het openbaar vervoer terug en stellen in navolging van de Bikker-gelden 300 miljoen euro per jaar beschikbaar voor versterking van het aanbod van busvervoer en goedkopere kaartjes."
+    },
+    {
+      "promiseCode": "CU-2025-071",
+      "text": "Er komt een landelijk netwerk van frequente snelle busverbindingen tussen middelgrote steden",
+      "summary": "Landelijk netwerk van snelle busverbindingen tussen middelgrote steden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "busverbindingen",
+        "middelgrote steden",
+        "landelijk netwerk",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 25",
+      "originalQuote": "Er komt een landelijk netwerk van frequente snelle busverbindingen tussen middelgrote steden."
+    },
+    {
+      "promiseCode": "CU-2025-072",
+      "text": "Een jaarlijkse vereenvoudigingsdag wordt geïntroduceerd waarbij de regering verplicht wordt elk jaar een pakket met kleinere vereenvoudigingen van het regelwoud, de fiscaliteit en de sociale zekerheid uit te werken en door te voeren",
+      "summary": "Jaarlijkse vereenvoudigingsdag voor regelwoud, fiscaliteit en sociale zekerheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vereenvoudigingsdag",
+        "regelwoud",
+        "fiscaliteit",
+        "sociale zekerheid",
+        "vereenvoudiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 25",
+      "originalQuote": "Om geen tijd te verliezen introduceren we een jaarlijkse vereenvoudigingsdag en verplichten we de regering om elk jaar een pakket met kleinere vereenvoudigingen van het regelwoud, de fiscaliteit en de sociale zekerheid uit te werken en door te voeren."
+    },
+    {
+      "promiseCode": "CU-2025-073",
+      "text": "13 miljard euro beschikbaar stellen voor de realisatie van de Lelylijn",
+      "summary": "€13 miljard voor realisatie Lelylijn",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelylijn",
+        "13 miljard",
+        "spoorinfrastructuur",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "We gaan door met de aanleg van de Nedersaksenlijn en stellen de benodigde 13 miljard beschikbaar voor de realisatie van de Lelylijn."
+    },
+    {
+      "promiseCode": "CU-2025-074",
+      "text": "Jaarlijks 120 miljoen euro investeren om treinkaartjes goedkoper te maken en de jongerendagkaart terug te laten keren",
+      "summary": "€120 miljoen per jaar voor goedkopere treinkaartjes en jongerendagkaart",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "treinkaartjes",
+        "jongerendagkaart",
+        "120 miljoen",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Om de treinkaartjes goedkoper te maken en de jongerendagkaart terug te laten keren, investeren we jaarlijks 120 miljoen euro."
+    },
+    {
+      "promiseCode": "CU-2025-075",
+      "text": "Jaarlijks 500 miljoen euro uittrekken voor investeringen in spoorverdubbelingen, extra perrons, nieuwe keersporen en verbetering van de spoorinfrastructuur voor meer en langere treinen",
+      "summary": "€500 miljoen per jaar voor uitbreiding spoorinfrastructuur",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spoorverdubbelingen",
+        "perrons",
+        "keersporen",
+        "spoorinfrastructuur",
+        "500 miljoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "We investeren in spoorverdubbelingen, extra, langere en bredere perrons, nieuwe keersporen en het verbeteren van de fundering van het spoor, zodat er meer en langere treinen kunnen gaan rijden. [...] Jaarlijks trekken we hiervoor 500 miljoen euro uit."
+    },
+    {
+      "promiseCode": "CU-2025-076",
+      "text": "Er komt een landelijk netwerk van overslaglocaties om duurzaam transport over water aantrekkelijker te maken.",
+      "summary": "Landelijk netwerk overslaglocaties binnenvaart",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overslaglocaties",
+        "binnenvaart",
+        "duurzaam",
+        "transport",
+        "netwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Om duurzaam transport over water aantrekkelijker te maken, komt er een landelijk netwerk van overslaglocaties."
+    },
+    {
+      "promiseCode": "CU-2025-077",
+      "text": "Het aantal vluchten in Nederland wordt beperkt en Schiphol krimpt om te voldoen aan de rechtsbescherming van omwonenden.",
+      "summary": "Beperking vluchten en krimp Schiphol",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vluchten",
+        "schiphol",
+        "krimp",
+        "omwonenden",
+        "rechtsbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Het aantal vluchten in Nederland wordt beperkt. Schiphol krimpt om te voldoen aan de rechtsbescherming van omwonenden."
+    },
+    {
+      "promiseCode": "CU-2025-078",
+      "text": "Er komt een nachtsluiting op Schiphol.",
+      "summary": "Nachtsluiting Schiphol",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nachtsluiting",
+        "schiphol",
+        "vluchten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Er komt een nachtsluiting."
+    },
+    {
+      "promiseCode": "CU-2025-079",
+      "text": "Schiphol krijgt een normenkader voor uitstoot van CO2, NOx en zeer zorgwekkende stoffen.",
+      "summary": "Normenkader uitstoot Schiphol",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "normenkader",
+        "uitstoot",
+        "co2",
+        "nox",
+        "schiphol"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Schiphol krijgt een normenkader voor uitstoot van CO2, NOx en zeer zorgwekkende stoffen."
+    },
+    {
+      "promiseCode": "CU-2025-080",
+      "text": "Lelystad Airport wordt niet geopend voor burgerluchtvaart en gedane investeringen worden ruimhartig gecompenseerd.",
+      "summary": "Lelystad Airport blijft gesloten voor burgerluchtvaart",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelystad airport",
+        "burgerluchtvaart",
+        "compensatie",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Lelystad Airport wordt niet geopend voor burgerluchtvaart. De gedane publieke en private investeringen worden ruimhartige gecompenseerd."
+    },
+    {
+      "promiseCode": "CU-2025-081",
+      "text": "Jaarlijks 200 miljoen euro investering in verkeersveiligheid en fietsinfrastructuur.",
+      "summary": "200 miljoen euro voor verkeersveiligheid en fietsinfrastructuur",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investering",
+        "verkeersveiligheid",
+        "fietsinfrastructuur",
+        "miljoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Daarom investeren we jaarlijks 200 miljoen euro in verkeersveiligheid en fietsinfrastructuur."
+    },
+    {
+      "promiseCode": "CU-2025-082",
+      "text": "Op elk station zijn deelfietsen beschikbaar.",
+      "summary": "Deelfietsen op elk station",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deelfietsen",
+        "station",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Op elk station zijn deelfietsen beschikbaar."
+    },
+    {
+      "promiseCode": "CU-2025-083",
+      "text": "De 17 gepauzeerde infrastructuurprojecten worden uitgevoerd met een investering van 5 miljard euro.",
+      "summary": "5 miljard euro voor 17 gepauzeerde projecten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "infrastructuur",
+        "projecten",
+        "investering",
+        "miljard",
+        "euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "De 17 gepauzeerde projecten worden uitgevoerd. Daarvoor investeren we 5 miljard euro."
+    },
+    {
+      "promiseCode": "CU-2025-084",
+      "text": "Voor de A27 Ring Utrecht wordt het regionale alternatief gevolgd in plaats van de route door Amelisweerd.",
+      "summary": "Regionaal alternatief A27 Ring Utrecht",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "a27",
+        "ring utrecht",
+        "amelisweerd",
+        "alternatief"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "Voor de A27 Ring Utrecht (Amelisweerd) wordt het regionale alternatief gevolgd."
+    },
+    {
+      "promiseCode": "CU-2025-085",
+      "text": "Er wordt een kilometerprijs voor auto's ingevoerd, gedifferentieerd naar milieukenmerken, tijd en plaats.",
+      "summary": "Invoering kilometerprijs voor auto's",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kilometerprijs",
+        "auto",
+        "milieukenmerken",
+        "gedifferentieerd"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 27",
+      "originalQuote": "We introduceren voor de auto een kilometerprijs, gedifferentieerd naar milieukenmerken, tijd en plaats: op het platteland laag, op drukke momenten in de brede Randstad hoger."
+    },
+    {
+      "promiseCode": "CU-2025-086",
+      "text": "De positie en bescherming van het gezin wordt verankerd in de Nederlandse Grondwet.",
+      "summary": "Positie en bescherming gezin verankerd in Grondwet",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwet",
+        "gezin",
+        "bescherming",
+        "verankering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Ook wordt de positie en bescherming van het gezin verankerd in de Grondwet."
+    },
+    {
+      "promiseCode": "CU-2025-087",
+      "text": "Er komt een minister die expliciet verantwoordelijk wordt voor het realiseren van samenhangend gezinsbeleid.",
+      "summary": "Minister verantwoordelijk voor samenhangend gezinsbeleid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "gezinsbeleid",
+        "verantwoordelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Een minister wordt weer expliciet verantwoordelijk voor het realiseren van samenhangend gezinsbeleid."
+    },
+    {
+      "promiseCode": "CU-2025-088",
+      "text": "Er komt een jaarlijkse 'Staat van het gezin' waarin wordt gemonitord hoe gebruik wordt gemaakt van kind- en verlofregelingen, kinderopvang, het aanbod van GGD, Jeugdgezondheidszorg en lokale teams.",
+      "summary": "Jaarlijkse 'Staat van het gezin' voor monitoring gezinsbeleid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staat van het gezin",
+        "monitoring",
+        "verlofregelingen",
+        "kinderopvang",
+        "jeugdgezondheidszorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Er komt een jaarlijkse 'Staat van het gezin' waarin wordt gemonitord hoe gebruik wordt gemaakt van kind- en verlofregelingen, kinderopvang, het aanbod van GGD, Jeugdgezondheidszorg en lokale teams."
+    },
+    {
+      "promiseCode": "CU-2025-089",
+      "text": "De ChristenUnie verhoogt de kinderbijslag naar €4500 per kind per jaar.",
+      "summary": "Kinderbijslag verhogen naar €4500 per kind per jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderbijslag",
+        "verhoging",
+        "4500 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Daarom verhoogt de ChristenUnie de kinderbijslag naar € 4500 per kind per jaar"
+    },
+    {
+      "promiseCode": "CU-2025-090",
+      "text": "Kinderopvang en gastouderopvang worden (zo goed als) gratis gemaakt.",
+      "summary": "Kinderopvang en gastouderopvang (zo goed als) gratis maken",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "gastouderopvang",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "maken we de kinderopvang en gastouderopvang (zo goed als) gratis"
+    },
+    {
+      "promiseCode": "CU-2025-091",
+      "text": "Sociale media mogen niet toegankelijk zijn voor kinderen jonger dan 14 jaar.",
+      "summary": "Sociale media verbieden voor kinderen onder 14 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale media",
+        "leeftijdsgrens",
+        "14 jaar",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Dat betekent dat sociale media niet toegankelijk mogen zijn voor kinderen jonger dan 14 jaar."
+    },
+    {
+      "promiseCode": "CU-2025-092",
+      "text": "Adequate leeftijdsverificatie wordt verplicht voor sociale media, platformen met expliciete content, goksites, kopen van alcohol en BNPL-diensten.",
+      "summary": "Verplichte leeftijdsverificatie voor sociale media en andere platforms",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsverificatie",
+        "sociale media",
+        "goksites",
+        "alcohol",
+        "bnpl"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Adequate leeftijdsverificatie is noodzakelijk voor sociale media, platformen met expliciete content (porno, geweld), goksites, kopen van alcohol, BNPL-diensten."
+    },
+    {
+      "promiseCode": "CU-2025-093",
+      "text": "Het wordt mogelijk voor 18-jarigen om op een toegankelijke manier hun gegevens permanent te kunnen wissen.",
+      "summary": "18-jarigen kunnen hun gegevens permanent wissen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "18-jarigen",
+        "gegevens wissen",
+        "privacy",
+        "permanent"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Ook moet het mogelijk zijn voor 18-jarigen om op een toegankelijke manier hun gegevens permanent te kunnen wissen."
+    },
+    {
+      "promiseCode": "CU-2025-094",
+      "text": "Sociale mediabedrijven worden verplicht hun producten minder verslavend te maken.",
+      "summary": "Sociale mediabedrijven verplicht producten minder verslavend maken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale mediabedrijven",
+        "verslaving",
+        "verplichting",
+        "producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Sociale mediabedrijven worden verplicht hun producten minder verslavend te maken."
+    },
+    {
+      "promiseCode": "CU-2025-095",
+      "text": "Smartphones worden geweerd uit scholen.",
+      "summary": "Smartphones verbieden op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "smartphones",
+        "scholen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Smartphones worden geweerd uit scholen"
+    },
+    {
+      "promiseCode": "CU-2025-096",
+      "text": "Alle kinderopvangorganisaties worden non-profit, wat een einde betekent van private equity partijen in de kinderopvang.",
+      "summary": "Kinderopvangorganisaties worden non-profit, einde private equity",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "non-profit",
+        "private equity",
+        "winstoogmerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Alle kinderopvangorganisaties worden daarom non-profit. Dit betekent ook een einde van private equity partijen in de kinderopvang."
+    },
+    {
+      "promiseCode": "CU-2025-097",
+      "text": "Er wordt één regeling ingevoerd voor maatschappelijk verlof, voor zorg voor kinderen, naasten en jezelf.",
+      "summary": "Eén regeling voor maatschappelijk verlof invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maatschappelijk verlof",
+        "regeling",
+        "zorg",
+        "vereenvoudiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "We voeren één regeling in voor maatschappelijk verlof, voor zorg voor kinderen, naasten en jezelf."
+    },
+    {
+      "promiseCode": "CU-2025-098",
+      "text": "Er komt een langduriger betaald mantelzorgverlof waarbij mantelzorgers twee maanden verlof kunnen opnemen met maximaal 70% van het loon.",
+      "summary": "Twee maanden betaald mantelzorgverlof met 70% loon",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mantelzorgverlof",
+        "twee maanden",
+        "70 procent",
+        "loon"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Mantelzorgers kunnen twee maanden mantelzorgverlof (verspreid) opnemen. De maximale uitkering is 70% van het loon."
+    },
+    {
+      "promiseCode": "CU-2025-099",
+      "text": "Er wordt rouwverlof geïntroduceerd zodat iedere werknemer tijd en ruimte krijgt om te rouwen bij het verlies van een dierbare.",
+      "summary": "Invoering van rouwverlof voor werknemers",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rouwverlof",
+        "werknemers",
+        "verlies",
+        "dierbare"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Bij de verdrietige omstandigheid van het verlies van een dierbare, krijgt iedere werknemer tijd en ruimte om te rouwen en te zorgen met de introductie van rouwverlof."
+    },
+    {
+      "promiseCode": "CU-2025-100",
+      "text": "Ouderschapsverlof mag worden opgenomen voor kinderen tot en met 12 jaar.",
+      "summary": "Ouderschapsverlof uitbreiden tot kinderen van 12 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderschapsverlof",
+        "12 jaar",
+        "kinderen",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Ouderschapsverlof mag opgenomen worden voor kinderen tot en met 12 jaar."
+    },
+    {
+      "promiseCode": "CU-2025-101",
+      "text": "Relatietherapie wordt voortaan vergoed.",
+      "summary": "Vergoeding voor relatietherapie invoeren",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "relatietherapie",
+        "vergoeding",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 29",
+      "originalQuote": "Relatietherapie wordt daarom voortaan vergoed."
+    },
+    {
+      "promiseCode": "CU-2025-102",
+      "text": "Er komt een verbod op internationaal draagmoederschap en spermadonatie, om misbruik, misstanden (zoals massadonaties) en kinderhandel te voorkomen.",
+      "summary": "Verbod op internationaal draagmoederschap en spermadonatie",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "internationaal",
+        "draagmoederschap",
+        "spermadonatie",
+        "misbruik",
+        "kinderhandel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 31",
+      "originalQuote": "Er komt een verbod op internationaal draagmoederschap en spermadonatie, om misbruik, misstanden (zoals massadonaties) en kinderhandel te voorkomen."
+    },
+    {
+      "promiseCode": "CU-2025-103",
+      "text": "Gemeenten krijgen structureel voldoende financiële middelen voor passende inzet van jeugdhulp.",
+      "summary": "Structureel voldoende financiële middelen voor gemeenten voor jeugdhulp",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "financiële",
+        "middelen",
+        "jeugdhulp",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 31",
+      "originalQuote": "Gemeenten krijgen structureel voldoende financiële middelen krijgen voor passende inzet van jeugdhulp."
+    },
+    {
+      "promiseCode": "CU-2025-104",
+      "text": "De ChristenUnie is tegen de invoering van een eigen bijdrage in de jeugdzorg.",
+      "summary": "Tegen invoering eigen bijdrage jeugdzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen",
+        "bijdrage",
+        "jeugdzorg",
+        "tegen",
+        "invoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 31",
+      "originalQuote": "De ChristenUnie is tegen de invoering van een eigen bijdrage in de jeugdzorg."
+    },
+    {
+      "promiseCode": "CU-2025-105",
+      "text": "Gesloten jeugdzorg wordt zorgvuldig afgebouwd.",
+      "summary": "Gesloten jeugdzorg wordt afgebouwd",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gesloten",
+        "jeugdzorg",
+        "afbouw",
+        "zorgvuldig"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 31",
+      "originalQuote": "Gesloten jeugdzorg wordt zorgvuldig afgebouwd."
+    },
+    {
+      "promiseCode": "CU-2025-106",
+      "text": "Pleegouders krijgen zo nodig een financiële compensatie tot maximaal 26 jaar voor kinderen die zij opvoeden ook na het 18e levensjaar.",
+      "summary": "Financiële compensatie pleegouders tot 26 jaar",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pleegouders",
+        "financiële",
+        "compensatie",
+        "26",
+        "jaar",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 31",
+      "originalQuote": "Pleegouders kunnen ook na het 18e levensjaar van de kinderen die zij opvoeden een belangrijke rol vervullen en krijgen zo nodig een financiële compensatie tot maximaal 26 jaar."
+    },
+    {
+      "promiseCode": "CU-2025-107",
+      "text": "Scholen behouden hun vrijheid in inrichting zonder meer wettelijke deugdelijkheidseisen, personeelsbeleid en financiering via lumpsum, met extra middelen voor identiteit en kleine scholen.",
+      "summary": "Onderwijsvrijheid beschermen met lumpsum financiering en extra middelen kleine scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderwijsvrijheid",
+        "lumpsum",
+        "financiering",
+        "kleine scholen",
+        "identiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 33",
+      "originalQuote": "Scholen behouden hun vrijheid in inrichting (dus niet nog meer wettelijke deugdelijkheidseisen), personeelsbeleid en financiering via lumpsum, met extra middelen voor identiteit en kleine scholen."
+    },
+    {
+      "promiseCode": "CU-2025-108",
+      "text": "Budgetten van gemeenten, onderwijs en samenwerkingsverbanden worden samengevoegd en er wordt gewerkt zonder indicatiestelling voor passend onderwijs.",
+      "summary": "Budgetten samenvoegen en werken zonder indicatiestelling passend onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "budgetten",
+        "gemeenten",
+        "samenwerkingsverbanden",
+        "indicatiestelling",
+        "passend onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 33",
+      "originalQuote": "Dit doen we door budgetten van gemeenten, onderwijs en samenwerkingsverbanden samen te voegen en te werken zonder indicatiestelling"
+    },
+    {
+      "promiseCode": "CU-2025-109",
+      "text": "Iedere jongere moet een keer in zijn schooltijd het Nationaal Holocaustmuseum of één van de herdenkingscentra zoals kamp Amersfoort of Westerbork bezoeken.",
+      "summary": "Verplicht bezoek Holocaustmuseum of herinneringscentra voor alle jongeren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "holocaustmuseum",
+        "herdenkingscentra",
+        "amersfoort",
+        "westerbork",
+        "schoolbezoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 33",
+      "originalQuote": "Iedere jongere moet een keer in zijn schooltijd het Nationaal Holocaustmuseum of één van de herdenkingscentra zoals kamp Amersfoort of Westerbork bezoeken."
+    },
+    {
+      "promiseCode": "CU-2025-110",
+      "text": "Kamp Amersfoort, Kamp Westerbork, Kamp Vught, het Oranjehotel, het Nationaal Holocaustmuseum en het Indisch Herinneringscentrum krijgen structurele financiering.",
+      "summary": "Structurele financiering voor zes herinneringscentra Tweede Wereldoorlog",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "structurele financiering",
+        "herinneringscentra",
+        "holocaustmuseum",
+        "westerbork",
+        "amersfoort",
+        "vught"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 33",
+      "originalQuote": "Daarom krijgen Kamp Amersfoort, Kamp Westerbork, Kamp Vught, het Oranjehotel, het Nationaal Holocaustmuseum en het Indisch Herinneringscentrum structurele financiering"
+    },
+    {
+      "promiseCode": "CU-2025-111",
+      "text": "Het mbo moet toegankelijk zijn voor instromers zonder startkwalificatie na beoordeling door de opleiding.",
+      "summary": "MBO toegankelijk maken voor instromers zonder startkwalificatie",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mbo",
+        "toegankelijkheid",
+        "startkwalificatie",
+        "instromers",
+        "beoordeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 33",
+      "originalQuote": "Het mbo moet toegankelijk zijn voor instromers zonder startkwalificatie na beoordeling door de opleiding."
+    },
+    {
+      "promiseCode": "CU-2025-112",
+      "text": "Investeringen in wetenschap en onderzoek worden verhoogd naar 3% van het BBP, conform de Lissabondoelstelling, om de omslag naar een ecologisch verantwoorde en competitieve economie te financieren.",
+      "summary": "Onderzoeksinvesteringen naar 3% BBP volgens Lissabondoelstelling",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wetenschap",
+        "onderzoek",
+        "investeringen",
+        "lissabondoelstelling",
+        "bbp",
+        "economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 35",
+      "originalQuote": "Investeringen in wetenschap en onderzoek zijn nodig als we ons als land willen blijven ontwikkelen, in lijn met de Lissabondoelstelling van 3%."
+    },
+    {
+      "promiseCode": "CU-2025-113",
+      "text": "Nederlandstalig bacheloronderwijs wordt het uitgangspunt om het aantal studiemigranten te verminderen. Het financieringsmodel wordt aangepast zodat internationale studenten niet nodig zijn voor het voortbestaan van studies of instellingen.",
+      "summary": "Nederlandstalig onderwijs als uitgangspunt, minder studiemigranten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlands",
+        "bacheloronderwijs",
+        "studiemigranten",
+        "financieringsmodel",
+        "internationale studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 35",
+      "originalQuote": "Het aanbieden van Nederlandstalig bacheloronderwijs is het uitgangspunt. [...] We passen het financieringsmodel aan om te voorkomen dat internationale studenten nodig zijn voor het voortbestaan van studies of instellingen."
+    },
+    {
+      "promiseCode": "CU-2025-114",
+      "text": "Er komt gerichte ondersteuning en coördinatie om kleine studies in het hbo en wo, zoals talen en techniek, te behouden. Bepaalde disciplines in de geesteswetenschappen worden specifiek behouden voor Nederland.",
+      "summary": "Gerichte ondersteuning voor kleine studies en geesteswetenschappen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kleine studies",
+        "ondersteuning",
+        "coördinatie",
+        "geesteswetenschappen",
+        "disciplines"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 35",
+      "originalQuote": "Er is gerichte ondersteuning en coördinatie nodig om bepaalde disciplines, bijvoorbeeld in de geesteswetenschappen, te behouden voor Nederland."
+    },
+    {
+      "promiseCode": "CU-2025-115",
+      "text": "Theologische en andere levensbeschouwelijke universiteiten worden afdoende gefinancierd zodat ze kunnen blijven voortbestaan. Ook in het hbo wordt de positie van instellingen met levensbeschouwelijke identiteit verstevigd.",
+      "summary": "Financiering theologische universiteiten en levensbeschouwelijke hbo-instellingen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "theologische universiteiten",
+        "levensbeschouwelijke instellingen",
+        "financiering",
+        "hbo",
+        "identiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 35",
+      "originalQuote": "We zorgen dat deze instellingen afdoende gefinancierd worden en kunnen blijven voortbestaan. Ook in het hbo wordt de positie van instellingen met een levensbeschouwelijke identiteit verstevigd."
+    },
+    {
+      "promiseCode": "CU-2025-116",
+      "text": "Nederland verhoogt defensie-uitgaven naar 3,5% van het BBP in 2035 volgens de NAVO-norm, plus 1,5% voor defensie-gerelateerde infrastructuur.",
+      "summary": "Defensie-uitgaven naar 3,5% BBP in 2035 + 1,5% infrastructuur",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "uitgaven",
+        "bbp",
+        "navo-norm",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "We investeren de komende jaren fors in defensie om te kunnen voldoen aan de NAVO-norm om in 2035 3,5% van ons BBP uit te geven aan defensie en daarnaast 1,5% aan bijvoorbeeld infrastructuur die ook defensie ten goede komt."
+    },
+    {
+      "promiseCode": "CU-2025-117",
+      "text": "Het dienjaar bij defensie wordt uitgebreid naar Zweeds model waarbij alle achttienjarigen een enquête invullen en gemotiveerde jongeren worden uitgenodigd voor een dienjaar.",
+      "summary": "Uitbreiding dienjaar defensie naar Zweeds model voor achttienjarigen",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienjaar",
+        "defensie",
+        "zweeds",
+        "achttienjarigen",
+        "enquête"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "In aanloop naar deze dienstplicht breiden we het dienjaar bij defensie uit naar Zweeds voorbeeld. Alle achttienjarigen vullen een enquête in en de gemotiveerde jongeren worden uitgenodigd voor een dienjaar."
+    },
+    {
+      "promiseCode": "CU-2025-118",
+      "text": "Nederland steunt Oekraïne in het traject naar lidmaatschap van de NAVO en de EU, waarbij Oekraïne zal moeten voldoen aan de reguliere voorwaarden.",
+      "summary": "Nederland steunt Oekraïense NAVO- en EU-lidmaatschap",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederland",
+        "oekraïne",
+        "navo",
+        "eu",
+        "lidmaatschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "Nederland steunt Oekraïne in het traject naar lidmaatschap van de NAVO en de EU. Oekraïne zal hiervoor moeten voldoen aan de reguliere voorwaarden."
+    },
+    {
+      "promiseCode": "CU-2025-119",
+      "text": "Nederland zet zich in om Europese cloudoplossingen te realiseren voor het waarborgen van strategische autonomie en vermindering van afhankelijkheid van partijen buiten Europa.",
+      "summary": "Inzet voor Europese cloudoplossingen en strategische autonomie",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europese",
+        "cloudoplossingen",
+        "strategische",
+        "autonomie",
+        "cybersecurity"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "Voor het waarborgen van onze strategische autonomie is het hebben van een Europese cloudoplossingen noodzakelijk. Nederland zet zich in om dit te realiseren."
+    },
+    {
+      "promiseCode": "CU-2025-120",
+      "text": "De EU-commandostructuur wordt uitgebreid om daadkrachtig Europees optreden en snelle operationele inzet mogelijk te maken, waarbij voor Nederlandse troepen altijd expliciete Nederlandse instemming vereist blijft.",
+      "summary": "Uitbreiding EU-commandostructuur met Nederlandse vetorecht",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eu",
+        "commandostructuur",
+        "europees",
+        "optreden",
+        "nederlandse",
+        "instemming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "We willen de EU-commandostructuur uitbreiden om daadkrachtig Europees optreden en een snelle operationele inzet mogelijk te maken. Voor de inzet van Nederlandse troepen blijft altijd expliciete Nederlandse instemming vereist."
+    },
+    {
+      "promiseCode": "CU-2025-121",
+      "text": "Er komt een strategie om met bondgenoten de vitale onderdelen van de infrastructuur op de Noordzee, zoals zeekabels, te beschermen.",
+      "summary": "Strategie voor bescherming vitale infrastructuur Noordzee",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "strategie",
+        "bondgenoten",
+        "infrastructuur",
+        "noordzee",
+        "zeekabels"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "Er komt een strategie om met bondgenoten de vitale onderdelen van de infrastructuur, zoals zeekabels, te beschermen."
+    },
+    {
+      "promiseCode": "CU-2025-122",
+      "text": "Nederland keert terug naar de internationale norm om 0,7% van het bruto nationaal inkomen uit te geven aan ontwikkelingssamenwerking.",
+      "summary": "Terugkeer naar 0,7% BNI voor ontwikkelingssamenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "0,7%",
+        "bruto",
+        "nationaal",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 37",
+      "originalQuote": "Dit is een extra reden voor ontwikkelingssamenwerking en daarom keren we terug naar de internationale norm om hier 0,7% van het bruto nationaal inkomen aan uit te geven."
+    },
+    {
+      "promiseCode": "CU-2025-123",
+      "text": "De procesregie over kabinetsformaties gaat terug naar het staatshoofd (de koning) om ellenlange formaties en politiek getouwtrek te voorkomen.",
+      "summary": "Procesregie kabinetsformaties gaat terug naar koning",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "procesregie",
+        "kabinetsformatie",
+        "staatshoofd",
+        "koning"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Er is behoefte aan een stabiele en onafhankelijke regie op kabinetsformaties, om ellenlange formaties en politiek getouwtrek te voorkomen. De procesregie over de formatie gaat daarom terug naar ons staatshoofd."
+    },
+    {
+      "promiseCode": "CU-2025-124",
+      "text": "De voorwaarden om te demonstreren worden aangescherpt, inclusief een verbod op gezichtsbedekkende kleding en het verhalen van schade op organisatoren waar mogelijk.",
+      "summary": "Voorwaarden demonstreren aangescherpt met gezichtsbedekking-verbod",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "demonstratierecht",
+        "gezichtsbedekkende kleding",
+        "verbod",
+        "organisatoren",
+        "schade"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Om dit gerichter aan te kunnen pakken, moeten de voorwaarden om te kunnen demonstreren waar nodig aangescherpt. Onderdeel daarvan is het verbod op gezichtsbedekkende kleding en het zo mogelijk verhalen van schade op de organisatoren."
+    },
+    {
+      "promiseCode": "CU-2025-125",
+      "text": "Het verbod op constitutionele toetsing wordt afgeschaft zodat rechters wetten ook aan de grondwet kunnen toetsen.",
+      "summary": "Afschaffing verbod constitutionele toetsing",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "constitutionele toetsing",
+        "rechters",
+        "grondwet",
+        "wetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Het verbod op constitutionele toetsing wordt afgeschaft zodat rechters wetten ook aan de grondwet kunnen toetsen."
+    },
+    {
+      "promiseCode": "CU-2025-126",
+      "text": "De Tweede Kamer wordt niet langer automatisch ontbonden als een regering valt, omdat het mandaat van de kiezers voor vier jaar geldt.",
+      "summary": "Tweede Kamer niet automatisch ontbonden bij regeringsval",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tweede kamer",
+        "ontbinding",
+        "regeringsval",
+        "mandaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "De Tweede Kamer wordt als gekozen volksvertegenwoordiging niet langer automatisch ontbonden als een regering valt. Het mandaat van de kiezers geldt voor vier jaar."
+    },
+    {
+      "promiseCode": "CU-2025-127",
+      "text": "Digitale platforms die door overheden worden ingezet om heimelijk de publieke opinie te beïnvloeden of desinformatie te verspreiden, worden verboden.",
+      "summary": "Verbod overheidsplatforms voor opiniebeinvloeding en desinformatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale platforms",
+        "overheden",
+        "publieke opinie",
+        "desinformatie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Digitale platforms die door overheden worden ingezet om heimelijk de publieke opinie te beïnvloeden of desinformatie te verspreiden, worden verboden."
+    },
+    {
+      "promiseCode": "CU-2025-128",
+      "text": "Er komt een stevige Europese zorgplicht voor digitale platforms en hostingbedrijven om op te treden tegen strafbare uitingen en gedragingen.",
+      "summary": "Europese zorgplicht digitale platforms tegen strafbare uitingen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europese zorgplicht",
+        "digitale platforms",
+        "hostingbedrijven",
+        "strafbare uitingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Er komt een stevige Europese zorgplicht voor digitale platforms en hostingbedrijven om op te treden tegen strafbare uitingen en gedragingen wanneer die op of door middel van deze platforms plaatsvinden."
+    },
+    {
+      "promiseCode": "CU-2025-129",
+      "text": "Via het auteursrecht krijgen Nederlanders, naar Deens voorbeeld, copyright op hun eigen lichaam, gezichtskenmerken en stem als bescherming van lichamelijke integriteit.",
+      "summary": "Auteursrecht op eigen lichaam naar Deens voorbeeld",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "auteursrecht",
+        "copyright",
+        "lichaam",
+        "gezichtskenmerken",
+        "stem",
+        "deens voorbeeld"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Via het auteursrecht krijgen Nederlanders, naar Deens voorbeeld, copyright op hun eigen lichaam, gezichtskenmerken en stem, als vorm van bescherming van de lichamelijke integriteit."
+    },
+    {
+      "promiseCode": "CU-2025-130",
+      "text": "Er komt een beter wettelijk geborgd recht op een schone lei, zodat consumenten op een duidelijke plek een verzoek kunnen indienen om al hun data te laten vernietigen.",
+      "summary": "Wettelijk recht op schone lei voor datavernietiging",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "recht",
+        "schone lei",
+        "consumenten",
+        "data",
+        "vernietiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 39",
+      "originalQuote": "Er komt een beter wettelijk geborgd recht op een schone lei, zodat consumenten op een duidelijke plek een verzoek kunnen indienen om al hun data te laten vernietigen."
+    },
+    {
+      "promiseCode": "CU-2025-131",
+      "text": "De ChristenUnie investeert in de politiecapaciteit om de politie zichtbaar en aanspreekbaar te houden in wijken en dorpen, ook in minder bevolkte gebieden.",
+      "summary": "Investering in politiecapaciteit voor zichtbaarheid in wijken en dorpen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politiecapaciteit",
+        "investering",
+        "wijken",
+        "dorpen",
+        "zichtbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 41",
+      "originalQuote": "De ChristenUnie investeert daarom in de politiecapaciteit, zodat de politie zichtbaar en aanspreekbaar blijft in wijken en dorpen, ook in minder bevolkte gebieden."
+    },
+    {
+      "promiseCode": "CU-2025-132",
+      "text": "Het aantal politievrijwilligers wordt uitgebreid.",
+      "summary": "Uitbreiding aantal politievrijwilligers",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politievrijwilligers",
+        "uitbreiding",
+        "aantal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 41",
+      "originalQuote": "Het aantal politievrijwilligers wordt uitgebreid."
+    },
+    {
+      "promiseCode": "CU-2025-133",
+      "text": "Er wordt onderzocht of intimiderend groepsgedrag strafbaar gesteld kan worden.",
+      "summary": "Onderzoek naar strafbaarstelling intimiderend groepsgedrag",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "intimiderend groepsgedrag",
+        "strafbaar",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 41",
+      "originalQuote": "We onderzoeken of intimiderend groepsgedrag strafbaar gesteld kan worden."
+    },
+    {
+      "promiseCode": "CU-2025-134",
+      "text": "Het actieplan Bestrijding Antisemitisme wordt doorgezet en waar nodig uitgebreid.",
+      "summary": "Doorzetting en uitbreiding actieplan Bestrijding Antisemitisme",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "antisemitisme",
+        "bestrijding",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 41",
+      "originalQuote": "Het actieplan Bestrijding Antisemitisme wordt doorgezet en waar nodig uitgebreid."
+    },
+    {
+      "promiseCode": "CU-2025-135",
+      "text": "De extra financiering voor ondersteuning van het Joodse leven wordt voortgezet.",
+      "summary": "Voortzetting financiering ondersteuning Joodse leven",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financiering",
+        "joodse leven",
+        "ondersteuning",
+        "voortzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 41",
+      "originalQuote": "De extra financiering voor ondersteuning van het Joodse leven wordt voortgezet."
+    },
+    {
+      "promiseCode": "CU-2025-136",
+      "text": "De overheid draagt de beveiligingskosten voor Joodse instellingen.",
+      "summary": "Overheid betaalt beveiligingskosten Joodse instellingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beveiligingskosten",
+        "joodse instellingen",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 41",
+      "originalQuote": "De overheid draagt hiervoor de beveiligingskosten."
+    },
+    {
+      "promiseCode": "CU-2025-137",
+      "text": "Geldstromen uit onvrije landen worden aan banden gelegd om ongewenste beïnvloeding tegen te gaan.",
+      "summary": "Aan banden leggen geldstromen uit onvrije landen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geldstromen",
+        "onvrije landen",
+        "beïnvloeding",
+        "banden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "Om dit tegen te gaan leggen we geldstromen uit onvrije landen aan banden."
+    },
+    {
+      "promiseCode": "CU-2025-138",
+      "text": "Landen die onvrijheid of terrorisme subsidiëren worden gesanctioneerd.",
+      "summary": "Sancties tegen landen die terrorisme subsidiëren",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sancties",
+        "terrorisme",
+        "subsidiëren",
+        "landen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "Landen die onvrijheid of terrorisme subsidiëren worden gesanctioneerd."
+    },
+    {
+      "promiseCode": "CU-2025-139",
+      "text": "De Nederlandse regering stuurt geen afvaardiging naar sportevenementen in landen die onvrijheid of terrorisme subsidiëren.",
+      "summary": "Geen afvaardiging naar sportevenementen in onvrije landen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvaardiging",
+        "sportevenementen",
+        "onvrije landen",
+        "regering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "De Nederlandse regering stuurt geen afvaardiging naar sportevenementen in dergelijke landen."
+    },
+    {
+      "promiseCode": "CU-2025-140",
+      "text": "Grootschalige commerciële evenementen dragen zelf zorg voor de veiligheid en betalen de rekening voor eventuele politie-inzet bij ongeregeldheden.",
+      "summary": "Evenementen betalen voor eigen veiligheid en politie-inzet",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "commerciële evenementen",
+        "veiligheid",
+        "politie-inzet",
+        "betaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "Grootschalige commerciële evenementen als voetbalwedstrijden dragen zelf zorg voor de veiligheid. Eventuele politie-inzet bij ongeregeldheden wordt uiteraard niet geweigerd, maar de rekening gaat naar de organisatoren."
+    },
+    {
+      "promiseCode": "CU-2025-141",
+      "text": "Er wordt geïnvesteerd in meer en betere gevangenissen om het cellentekort op te lossen zodat rechterlijke vonnissen kunnen worden uitgevoerd.",
+      "summary": "Investering in meer gevangenissen tegen cellentekort",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gevangenissen",
+        "investering",
+        "cellentekort",
+        "vonnissen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "Daarom investeren we in meer en betere gevangenissen."
+    },
+    {
+      "promiseCode": "CU-2025-142",
+      "text": "De overheid draagt meer bij aan de financiering van sociale advocatuur.",
+      "summary": "Meer overheidsfinanciering voor sociale advocatuur",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheid",
+        "financiering",
+        "sociale advocatuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "De overheid draagt meer bij aan de financiering van sociale advocatuur."
+    },
+    {
+      "promiseCode": "CU-2025-143",
+      "text": "Dubbele importtarieven die de kosten van levensonderhoud onnodig opvoeren worden zoveel mogelijk geschrapt op de BES-eilanden.",
+      "summary": "Schrapping dubbele importtarieven BES-eilanden",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "importtarieven",
+        "levensonderhoud",
+        "bes-eilanden",
+        "kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "We schrappen zoveel mogelijk dubbele importtarieven die de kosten van levensonderhoud onnodig opvoeren."
+    },
+    {
+      "promiseCode": "CU-2025-144",
+      "text": "Er wordt een WW-uitkering geïntroduceerd op de BES-eilanden.",
+      "summary": "Introductie WW-uitkering BES-eilanden",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ww-uitkering",
+        "bes-eilanden",
+        "werkloosheid",
+        "sociale zekerheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "We introduceren een WW-uitkering op de BES"
+    },
+    {
+      "promiseCode": "CU-2025-145",
+      "text": "De onderstand (bijstand) en AOV (AOW) op de BES-eilanden worden in lijn gebracht met de regelingen zoals die in Europees Nederland gelden.",
+      "summary": "Gelijkstelling bijstand en AOW BES met Nederland",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "aow",
+        "bes-eilanden",
+        "regelingen",
+        "gelijkstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "streven ernaar de onderstand (bijstand) en AOV (AOW) in lijn te brengen met de regelingen zoals die in Europees Nederland gelden"
+    },
+    {
+      "promiseCode": "CU-2025-146",
+      "text": "Er komt een tbs-kliniek voor het Caribisch Koninkrijksdeel.",
+      "summary": "TBS-kliniek voor Caribisch deel Koninkrijk",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tbs-kliniek",
+        "caribisch",
+        "koninkrijk",
+        "forensische zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "bijvoorbeeld via een tbs-kliniek voor het Caribisch Koninkrijksdeel"
+    },
+    {
+      "promiseCode": "CU-2025-147",
+      "text": "Het mandaat van de Nationaal Rapporteur Mensenhandel wordt uitgebreid, in ieder geval naar de BES-eilanden.",
+      "summary": "Uitbreiding mandaat Nationaal Rapporteur Mensenhandel naar BES",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaal rapporteur",
+        "mensenhandel",
+        "mandaat",
+        "bes-eilanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 43",
+      "originalQuote": "Het mandaat van de Nationaal Rapporteur Mensenhandel wordt daarvoor uitgebreid, in ieder geval naar de BES-eilanden."
+    },
+    {
+      "promiseCode": "CU-2025-148",
+      "text": "Overnames van huisartsenpraktijken door investeringsmaatschappijen worden gestopt. Winstuitkering wordt beperkt tot het gebruikelijk loon voor eigenaren.",
+      "summary": "Stoppen overnames huisartsenpraktijken door investeringsmaatschappijen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huisartsenpraktijken",
+        "investeringsmaatschappijen",
+        "winstuitkering",
+        "overnames"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "We maken er prioriteit van om de overnames van huisartsenpraktijken door investeringsmaatschappijen te stoppen. We beperken de winstuitkering tot het gebruikelijk loon voor eigenaren."
+    },
+    {
+      "promiseCode": "CU-2025-149",
+      "text": "Het basispakket wordt uitgebreid met periodieke controle en het herstellen van gaatjes bij de tandarts.",
+      "summary": "Basispakket uitbreiden met tandheelkundige zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basispakket",
+        "tandarts",
+        "periodieke controle",
+        "gaatjes"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Het basispakket wordt uitgebreid met periodieke controle en het herstellen van gaatjes bij de tandarts om te voorkomen dat kleine problemen uitgroeien tot grote gezondheidsproblemen."
+    },
+    {
+      "promiseCode": "CU-2025-150",
+      "text": "Er komt een totaalverbod op de verkoop van vapes.",
+      "summary": "Totaalverbod verkoop vapes",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "totaalverbod",
+        "verkoop",
+        "vapes"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Daarom willen wij een totaalverbod op de verkoop van vapes."
+    },
+    {
+      "promiseCode": "CU-2025-151",
+      "text": "Voor het roken van tabak wordt het Nieuw-Zeelandse rookbeleid ingevoerd: verkoop van tabak blijvend verbieden aan iedereen geboren na 2008, en stapsgewijs de leeftijdsgrens verhogen.",
+      "summary": "Nieuw-Zeelands rookbeleid: verkoop tabak verbieden geboren na 2008",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rookbeleid",
+        "tabak",
+        "verkoop",
+        "leeftijdsgrens",
+        "2008"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Voor het roken van tabak kiezen we voor het Nieuw-Zeelandse rookbeleid. Dat richt zich op een rookvrije generatie door de verkoop van tabak blijvend te verbieden aan iedereen geboren na 2008, en stapsgewijs de leeftijdsgrens te verhogen."
+    },
+    {
+      "promiseCode": "CU-2025-152",
+      "text": "De bureaucratie van een mantelzorgverklaring wordt geschrapt.",
+      "summary": "Schrappen bureaucratie mantelzorgverklaring",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bureaucratie",
+        "mantelzorgverklaring",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Mantelzorgers krijgen meer vertrouwen en minder controle, door de bureaucratie van een mantelzorgverklaring te schrappen."
+    },
+    {
+      "promiseCode": "CU-2025-153",
+      "text": "Elke gemeente maakt afspraken met zorg- en welzijnsorganisaties, kerken, woningcorporaties en verenigingen over geclusterd wonen van ouderen en gezamenlijke zorgfinanciering.",
+      "summary": "Gemeenten maken afspraken over geclusterd wonen ouderen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeente",
+        "geclusterd wonen",
+        "ouderen",
+        "zorgfinanciering",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Daarom maakt elke gemeente afspraken met zorg- en welzijnsorganisaties, kerken, woningcorporaties en verenigingen over huisvesting, zinvolle dagbesteding, bestrijding van eenzaamheid en de invulling van zorg en ondersteuning."
+    },
+    {
+      "promiseCode": "CU-2025-154",
+      "text": "Per wijk komt er één herkenbaar en aanspreekbaar wijkverpleegkundig team. Wijkverpleegkundigen krijgen een bedrag per cliënt in plaats van tijdgebonden financiering.",
+      "summary": "Eén wijkverpleegkundig team per wijk, financiering per cliënt",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkverpleegkundig team",
+        "wijk",
+        "financiering",
+        "cliënt"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Per wijk is er één herkenbaar en aanspreekbaar wijkverpleegkundig team. Wijkverpleegkundigen krijgen een bedrag per cliënt in plaats van tijdgebonden financiering."
+    },
+    {
+      "promiseCode": "CU-2025-155",
+      "text": "De eigen bijdrage voor huishoudelijke hulp wordt zo snel mogelijk inkomensafhankelijk.",
+      "summary": "Eigen bijdrage huishoudelijke hulp wordt inkomensafhankelijk",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen bijdrage",
+        "huishoudelijke hulp",
+        "inkomensafhankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "De eigen bijdrage wordt zo snel mogelijk inkomensafhankelijk."
+    },
+    {
+      "promiseCode": "CU-2025-156",
+      "text": "De bezuiniging op de gehandicaptenzorg wordt teruggedraaid. Het VN-verdrag Handicap wordt volledig ingevoerd.",
+      "summary": "Bezuiniging gehandicaptenzorg terugdraaien, VN-verdrag Handicap invoeren",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bezuiniging",
+        "gehandicaptenzorg",
+        "vn-verdrag",
+        "handicap"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "De bezuiniging op de gehandicaptenzorg wordt teruggedraaid. [...] Het VN-verdrag Handicap wordt volledig ingevoerd."
+    },
+    {
+      "promiseCode": "CU-2025-157",
+      "text": "Er komt een einde aan de cherry-picking door GGZ-instellingen.",
+      "summary": "Einde cherry-picking GGZ-instellingen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cherry-picking",
+        "ggz-instellingen",
+        "patiënten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Er komt een einde aan de cherry-picking door GGZ-instellingen."
+    },
+    {
+      "promiseCode": "CU-2025-158",
+      "text": "Geestelijke verzorging wordt vastgelegd in de wet en krijgt financiering.",
+      "summary": "Geestelijke verzorging vastleggen in wet met financiering",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geestelijke verzorging",
+        "wet",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 45",
+      "originalQuote": "Daarom zorgen we voor geld voor geestelijke verzorging en leggen we dit ook vast in de wet."
+    },
+    {
+      "promiseCode": "CU-2025-159",
+      "text": "Het eigen risico blijft € 385. Mensen die altijd hun eigen risico moeten opmaken, zoals chronisch zieken en gehandicapten, krijgen een tegemoetkoming.",
+      "summary": "Eigen risico blijft €385, tegemoetkoming voor chronisch zieken",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "chronisch zieken",
+        "gehandicapten",
+        "tegemoetkoming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 47",
+      "originalQuote": "Het eigen risico blijft € 385. We zorgen ervoor dat mensen die altijd hun eigen risico moeten opmaken, zoals chronisch zieken en gehandicapten, een tegemoetkoming krijgen."
+    },
+    {
+      "promiseCode": "CU-2025-160",
+      "text": "De maandelijkse zorgpremie wordt gehalveerd. Het resterende deel wordt verrekend via de loonstrook, zodat mensen met een lager inkomen minder betalen en mensen met een hoger inkomen iets meer.",
+      "summary": "Zorgpremie wordt gehalveerd, herverdeeld via loonstrook",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgpremie",
+        "loonstrook",
+        "herverdeeld",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 47",
+      "originalQuote": "We halveren de maandelijkse zorgpremie. Het resterende deel van onze financiële bijdrage aan de zorgkosten wordt verrekend via de loonstrook."
+    },
+    {
+      "promiseCode": "CU-2025-161",
+      "text": "Alle medisch specialisten komen in loondienst. De Wet normering topinkomens (Wnt) gaat gelden voor iedereen in de gezondheidszorg.",
+      "summary": "Medisch specialisten in loondienst, WNT geldt voor hele zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "medisch specialisten",
+        "loondienst",
+        "wnt",
+        "gezondheidszorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 47",
+      "originalQuote": "Alle medisch specialisten komen in loondienst. Dit vermindert de prikkel om zo veel mogelijk behandelingen uit te voeren. De Wet normering topinkomens (Wnt) gaat gelden voor iedereen in de gezondheidszorg."
+    },
+    {
+      "promiseCode": "CU-2025-162",
+      "text": "Gespecialiseerde privéklinieken worden afgebouwd, doordat zorgverzekeraars alleen behandeling in ziekenhuizen vergoeden.",
+      "summary": "Privéklinieken afgebouwd via vergoedingsbeperking zorgverzekeraars",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "privéklinieken",
+        "zorgverzekeraars",
+        "ziekenhuizen",
+        "vergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 47",
+      "originalQuote": "Gespecialiseerde privéklinieken die hoogrenderende inkomsten bij de publieke zorgketen weghouden worden afgebouwd, doordat zorgverzekeraars alleen behandeling in ziekenhuizen vergoeden."
+    },
+    {
+      "promiseCode": "CU-2025-163",
+      "text": "Bij mensen met een fysieke beperking vindt controle en herindicatie van het pgb één keer per vier jaar plaats, in plaats van jaarlijks.",
+      "summary": "PGB-controle fysiek gehandicapten elke 4 jaar ipv jaarlijks",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pgb",
+        "fysieke beperking",
+        "controle",
+        "herindicatie",
+        "vier jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 47",
+      "originalQuote": "We verminderen de regelgeving door bij mensen met een fysieke beperking de controle (en herindicatie) één keer per vier jaar te laten plaatsvinden, in plaats van jaarlijks."
+    },
+    {
+      "promiseCode": "CU-2025-164",
+      "text": "De zwangerschapsafbreking wordt niet uit het Wetboek van Strafrecht gehaald, als bescherming van het ongeboren leven en tegen gedwongen abortus.",
+      "summary": "Abortus blijft in Wetboek van Strafrecht",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwangerschapsafbreking",
+        "wetboek",
+        "strafrecht",
+        "abortus",
+        "ongeboren leven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 49",
+      "originalQuote": "De zwangerschapsafbreking wordt niet uit het Wetboek van Strafrecht gehaald. Dit is een bescherming van het ongeboren leven en het beschermt de vrouw tegen een gedwongen abortus."
+    },
+    {
+      "promiseCode": "CU-2025-165",
+      "text": "Vormen van anticonceptie die bijdragen aan een afname van ongewenste zwangerschappen en abortussen worden opgenomen in het basispakket.",
+      "summary": "Anticonceptie in basispakket tegen ongewenste zwangerschappen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "anticonceptie",
+        "basispakket",
+        "ongewenste zwangerschappen",
+        "abortussen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 49",
+      "originalQuote": "Vormen van anticonceptie die bijdragen aan een afname van ongewenste zwangerschappen en abortussen worden opgenomen in het basispakket."
+    },
+    {
+      "promiseCode": "CU-2025-166",
+      "text": "De ChristenUnie wil de beraadtermijn voor abortus herinvoeren.",
+      "summary": "Herinvoering beraadtermijn abortus",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beraadtermijn",
+        "abortus",
+        "herinvoering",
+        "zorgvuldigheidseisen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 49",
+      "originalQuote": "We zijn voor herinvoering van de beraadtermijn."
+    },
+    {
+      "promiseCode": "CU-2025-167",
+      "text": "De NIPT-test en de 13-weken echo behoren geen vast onderdeel van reguliere prenatale zorg te zijn.",
+      "summary": "NIPT en 13-weken echo niet standaard in prenatale zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nipt-test",
+        "13-weken echo",
+        "prenatale zorg",
+        "zwangerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 49",
+      "originalQuote": "De NIPT-test en de 13-weken echo behoren geen vast onderdeel van reguliere prenatale zorg te zijn."
+    },
+    {
+      "promiseCode": "CU-2025-168",
+      "text": "De ChristenUnie houdt vast aan het huidig verbod op genetische modificatie van embryo's en kiembaanmodificatie in de Embryowet.",
+      "summary": "Handhaving verbod genetische modificatie embryo's",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "genetische modificatie",
+        "embryo's",
+        "kiembaanmodificatie",
+        "embryowet",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 49",
+      "originalQuote": "De ChristenUnie houdt daarom vast aan het huidig verbod hierop in de Embryowet."
+    },
+    {
+      "promiseCode": "CU-2025-169",
+      "text": "De ChristenUnie kiest voor een ruimtelijke ordening waarin water en bodem sturend zijn, om verstandig om te gaan met de beschikbare ruimte en toekomst te bieden voor natuur, landbouw, wonen en energie.",
+      "summary": "Water en bodem worden sturend in ruimtelijke ordening",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ruimtelijke ordening",
+        "water",
+        "bodem",
+        "natuur",
+        "landbouw",
+        "wonen",
+        "energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 51",
+      "originalQuote": "Tegelijkertijd kiezen we voor een ruimtelijke ordening waarin water en bodem sturend zijn. Zo gaan we verstandig om met de ruimte die we hebben en is er toekomst voor natuur, landbouw, wonen en energie."
+    },
+    {
+      "promiseCode": "CU-2025-170",
+      "text": "De ChristenUnie richt zich op een hogere CO2-reductie dan de wettelijke 55% in 2030 ten opzichte van 1990, om tegenvallers op te vangen.",
+      "summary": "Hogere CO2-reductie dan 55% in 2030 om tegenvallers op te vangen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "co2-reductie",
+        "klimaatdoelen",
+        "2030",
+        "tegenvallers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 53",
+      "originalQuote": "De ChristenUnie richt zich op een hogere reductie in 2030, zodat tegenvallers er niet direct toe leiden dat we het minimale doel niet halen."
+    },
+    {
+      "promiseCode": "CU-2025-171",
+      "text": "Het energiesysteem wordt aangevuld met twee nieuwe grote kerncentrales naast wind- en zonne-energie.",
+      "summary": "Twee nieuwe grote kerncentrales worden gebouwd",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "energiesysteem",
+        "wind",
+        "zonne-energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 53",
+      "originalQuote": "We faseren de gas- en kolencentrales uit, en vullen het energiesysteem aan met twee nieuwe grote kerncentrales."
+    },
+    {
+      "promiseCode": "CU-2025-172",
+      "text": "De geschrapte normering voor hybride warmtepompen wordt weer ingevoerd per 2029.",
+      "summary": "Normering hybride warmtepompen wordt heringevoerd per 2029",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hybride warmtepompen",
+        "normering",
+        "2029",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 53",
+      "originalQuote": "De geschrapte normering voor hybride warmtepompen voeren we weer in per 2029."
+    },
+    {
+      "promiseCode": "CU-2025-173",
+      "text": "Nieuwbouw is altijd gasloos, voorziet in ecologische oplossingen en is klimaatbestendig.",
+      "summary": "Nieuwbouw wordt altijd gasloos en klimaatbestendig",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "gasloos",
+        "klimaatbestendig",
+        "ecologische oplossingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 53",
+      "originalQuote": "Nieuwbouw is altijd gasloos, voorziet in ecologische oplossingen en is klimaatbestendig."
+    },
+    {
+      "promiseCode": "CU-2025-174",
+      "text": "Bij duurzame energieprojecten wordt ten minste 50% lokaal eigenaarschap het uitgangspunt voor lokale participatie.",
+      "summary": "Minimaal 50% lokaal eigenaarschap bij duurzame energieprojecten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lokaal eigenaarschap",
+        "energieprojecten",
+        "participatie",
+        "energiecoöperaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 53",
+      "originalQuote": "We willen dat lokale participatie in duurzame energieprojecten wordt gestimuleerd, waarbij ten minste 50% lokaal eigenaarschap het uitgangspunt is."
+    },
+    {
+      "promiseCode": "CU-2025-175",
+      "text": "Ketenafspraken met onvoldoende resultaat, zoals statiegeld op blikjes, worden dwingender opgelegd.",
+      "summary": "Dwingend opleggen van ketenafspraken circulaire economie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ketenafspraken",
+        "statiegeld",
+        "blikjes",
+        "dwingend",
+        "circulaire economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Ketenafspraken met onvoldoende resultaat, zoals statiegeld op blikjes, worden dwingender opgelegd."
+    },
+    {
+      "promiseCode": "CU-2025-176",
+      "text": "Er komt een integrale aanpak voor natuurherstel, gericht op het tegengaan van versnippering, vermesting en verdroging.",
+      "summary": "Integrale aanpak natuurherstel tegen versnippering en verdroging",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "integrale aanpak",
+        "natuurherstel",
+        "versnippering",
+        "vermesting",
+        "verdroging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Daarom komt er een integrale aanpak voor natuurherstel, gericht op het tegengaan van versnippering, vermesting en verdroging."
+    },
+    {
+      "promiseCode": "CU-2025-177",
+      "text": "Gaswinning onder de Waddenzee wordt stopgezet.",
+      "summary": "Stopzetting gaswinning Waddenzee",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "waddenzee",
+        "stopzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Gaswinning onder de Waddenzee wordt stopgezet."
+    },
+    {
+      "promiseCode": "CU-2025-178",
+      "text": "Het Natuurnetwerk Nederland wordt voltooid met speciale aandacht voor bosaanplant, kruidenrijk grasland, houtwallen en moerassen.",
+      "summary": "Voltooiing Natuurnetwerk Nederland met bosaanplant",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "natuurnetwerk nederland",
+        "bosaanplant",
+        "kruidenrijk grasland",
+        "houtwallen",
+        "moerassen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Het Natuurnetwerk Nederland wordt voltooid met speciale aandacht voor bosaanplant, kruidenrijk grasland, houtwallen en moerassen."
+    },
+    {
+      "promiseCode": "CU-2025-179",
+      "text": "De populatie wolven wordt actief beheerd, met een zorgvuldig vastgesteld quotum en gecontroleerd afschot. Wolven die mensen aanvallen worden afgeschoten.",
+      "summary": "Actief beheer wolven met quotum en afschot",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wolven",
+        "populatiebeheer",
+        "quotum",
+        "afschot",
+        "wolfenbeheer"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "We gaan de populatie wolven actief beheren, met een zorgvuldig vastgesteld quotum en, als het niet anders kan, gecontroleerd afschot. Wolven die mensen aanvallen worden afgeschoten."
+    },
+    {
+      "promiseCode": "CU-2025-180",
+      "text": "Zodra er van een product een PFAS-vrij alternatief is, wordt het PFAS-houdende product verboden.",
+      "summary": "Verbod PFAS-producten bij beschikbaar alternatief",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pfas",
+        "verbod",
+        "alternatief",
+        "product",
+        "milieuvervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Zodra er van een product een PFAS-vrij alternatief is, verbieden we het PFAS-houdende product."
+    },
+    {
+      "promiseCode": "CU-2025-181",
+      "text": "Het gebruik van staalslakken in de openbare ruimte wordt verboden vanwege gezondheids- en milieuschade.",
+      "summary": "Verbod staalslakken openbare ruimte",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staalslakken",
+        "verbod",
+        "openbare ruimte",
+        "gezondheidsschade",
+        "milieuschade"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Vanwege gezondheids- en milieuschade wordt het gebruik van staalslakken in de openbare ruimte verboden."
+    },
+    {
+      "promiseCode": "CU-2025-182",
+      "text": "Milieu wordt weer toegevoegd aan het ministerie van VRO en het succesvolle model van het voormalige ministerie van VROM wordt hersteld.",
+      "summary": "Herstel ministerie VROM met milieu bij VRO",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "vro",
+        "vrom",
+        "milieu",
+        "bestuurlijke organisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 55",
+      "originalQuote": "Daarom voegen we milieu weer toe aan het ministerie van VRO en herstellen we het succesvolle model van het voormalige ministerie van VROM."
+    },
+    {
+      "promiseCode": "CU-2025-183",
+      "text": "Het Deltaprogramma wordt voorzien van voldoende middelen om het veilig voortbestaan van Nederland te garanderen.",
+      "summary": "Deltaprogramma krijgt voldoende middelen voor veilig voortbestaan Nederland",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deltaprogramma",
+        "middelen",
+        "waterveiligheid",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 57",
+      "originalQuote": "Het Deltaprogramma wordt voorzien van voldoende middelen om het veilig voortbestaan van ons land te garanderen."
+    },
+    {
+      "promiseCode": "CU-2025-184",
+      "text": "De Hollandkering wordt gerealiseerd om dijkverhogingen in het achterland te beperken.",
+      "summary": "Realisatie Hollandkering om dijkverhogingen achterland te beperken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hollandkering",
+        "dijkverhogingen",
+        "waterkering",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 57",
+      "originalQuote": "We realiseren de Hollandkering om dijkverhogingen in het achterland te beperken."
+    },
+    {
+      "promiseCode": "CU-2025-185",
+      "text": "Water en bodem worden sturend in het ruimtelijk beleid van Nederland: de structurerende keuzes uit de beleidsbrief Water en Bodem Sturend worden uitgevoerd.",
+      "summary": "Water en bodem worden sturend in ruimtelijk beleid",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "water",
+        "bodem",
+        "ruimtelijk beleid",
+        "beleidsbrief"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 57",
+      "originalQuote": "Water en bodem worden sturend in het ruimtelijk beleid (en landgebruik) van Nederland: de structurerende keuzes uit de beleidsbrief Water en Bodem Sturend worden uitgevoerd."
+    },
+    {
+      "promiseCode": "CU-2025-186",
+      "text": "Het Actieprogramma beschikbaarheid drinkwater wordt snel uitgevoerd.",
+      "summary": "Snelle uitvoering Actieprogramma beschikbaarheid drinkwater",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "actieprogramma",
+        "drinkwater",
+        "beschikbaarheid",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 57",
+      "originalQuote": "We voeren het Actieprogramma beschikbaarheid drinkwater snel uit."
+    },
+    {
+      "promiseCode": "CU-2025-187",
+      "text": "In 2027 moet Nederland voldoen aan de Europese kaderrichtlijn water door een snelle en geïntegreerde aanpak om de KRW-doelen te halen.",
+      "summary": "Nederland moet in 2027 voldoen aan Europese kaderrichtlijn water",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kaderrichtlijn water",
+        "krw-doelen",
+        "waterkwaliteit",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 57",
+      "originalQuote": "In 2027 moeten we voldoen aan de Europese kaderrichtlijn water (KRW). Er komt een snelle en geïntegreerde aanpak om de KRW-doelen te halen."
+    },
+    {
+      "promiseCode": "CU-2025-188",
+      "text": "De KRW-doelen en bijbehorende normen worden expliciet en bindend opgenomen in wet- en regelgeving en in besluitvorming op alle relevante beleidsterreinen.",
+      "summary": "KRW-doelen worden bindend opgenomen in wet- en regelgeving",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "krw-doelen",
+        "normen",
+        "wetgeving",
+        "regelgeving",
+        "bindend"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 57",
+      "originalQuote": "De KRW-doelen en bijbehorende normen worden expliciet en bindend opgenomen in wet- en regelgeving en in besluitvorming op alle relevante beleidsterreinen."
+    },
+    {
+      "promiseCode": "CU-2025-189",
+      "text": "De overheid reduceert de regeldruk en wordt een stabiele en betrouwbare partner voor bedrijven.",
+      "summary": "Regeldruk wordt verminderd door de overheid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheid",
+        "regeldruk",
+        "bedrijven",
+        "reductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "De overheid reduceert de regeldruk en wordt een stabiele en betrouwbare partner voor bedrijven."
+    },
+    {
+      "promiseCode": "CU-2025-190",
+      "text": "Obstakels zoals het uitblijven van snelle vergunningverlening, gebrek aan netcapaciteit en veel regeldruk worden met vaart aangepakt.",
+      "summary": "Vergunningverlening en netcapaciteit worden verbeterd",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningverlening",
+        "netcapaciteit",
+        "regeldruk",
+        "ondernemersklimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Het uitblijven van (snelle) vergunningverlening, een gebrek aan netcapaciteit en veel regeldruk staan een goed ondernemersklimaat in de weg. Deze obstakels worden met vaart aangepakt"
+    },
+    {
+      "promiseCode": "CU-2025-191",
+      "text": "Regeldruk voor ondernemers wordt verminderd. De overheid stuurt op doelen in plaats van middelvoorschriften, waarbij ondernemers zelf bepalen hoe ze doelen bereiken.",
+      "summary": "Minder regeldruk voor ondernemers, sturen op doelen ipv middelen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeldruk",
+        "ondernemers",
+        "doelen",
+        "middelvoorschriften",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Deze onnodige regeldruk moet minder, of het nu om mkb-bedrijven, financiële instellingen of beursgenoteerde ondernemingen gaat. Wat de ChristenUnie betreft stuurt de overheid op doelen in plaats van middelvoorschriften, waarbij ondernemers zelf aan het stuur zitten om deze te bereiken"
+    },
+    {
+      "promiseCode": "CU-2025-192",
+      "text": "Regels en belastingtarieven worden voor langere periodes vastgesteld om meer zekerheid te bieden aan ondernemers.",
+      "summary": "Langere vaststelling regels en belastingtarieven voor zekerheid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regels",
+        "belastingtarieven",
+        "zekerheid",
+        "ondernemers",
+        "overheidsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Regels en belastingtarieven moeten daarom voor langere periodes worden vastgesteld. Dat leidt tot meer zekerheid en draagt bij aan een gezond vestigingsklimaat."
+    },
+    {
+      "promiseCode": "CU-2025-193",
+      "text": "Er komen Europese ondergrenzen en een vergelijkbaar Europees fiscaal speelveld met handhaafbare kaders voor nationale staatssteun.",
+      "summary": "Europese ondergrenzen en gelijk fiscaal speelveld met staatssteunkaders",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europa",
+        "ondergrenzen",
+        "fiscaal",
+        "speelveld",
+        "staatssteun",
+        "kaders"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Er komen Europese ondergrenzen en een vergelijkbaar én mondiaal aantrekkelijk Europees (fiscaal) speelveld met duidelijke en handhaafbare kaders voor nationale staatssteun."
+    },
+    {
+      "promiseCode": "CU-2025-194",
+      "text": "Fabrikanten worden verplicht om tien jaar reserveonderdelen aan te houden en hierbij service te bieden voor repareerbare producten.",
+      "summary": "Verplichte tien jaar reserveonderdelen en service voor fabrikanten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fabrikanten",
+        "reserveonderdelen",
+        "service",
+        "reparatie",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Niet-repareerbare gebruiksproducten worden geweerd van de Nederlandse markt: fabrikanten worden verplicht om tien jaar reserveonderdelen aan te houden en hierbij service te bieden."
+    },
+    {
+      "promiseCode": "CU-2025-195",
+      "text": "Producten en online aanbieders met minder dan 5 jaar garantie kunnen worden verboden op de Nederlandse markt.",
+      "summary": "Verbod producten en aanbieders met minder dan 5 jaar garantie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "garantie",
+        "verbod",
+        "producten",
+        "online",
+        "aanbieders",
+        "markt"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "We maken ons hard voor een Europese wettelijke grondslag die regelt dat producten én (online aanbieders) met minder dan 5 jaar garantie kunnen worden verboden op de Nederlandse markt."
+    },
+    {
+      "promiseCode": "CU-2025-196",
+      "text": "De Wet Zorgplicht Kinderarbeid wordt met spoed uitgevoerd. Producten die in strijd zijn met mensenrechten worden geweerd, ook als dat exit van platforms als Temu en AliExpress betekent.",
+      "summary": "Uitvoering Wet Zorgplicht Kinderarbeid en weren producten tegen mensenrechten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderarbeid",
+        "mensenrechten",
+        "producten",
+        "platforms",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "De Wet Zorgplicht Kinderarbeid, die al door beide Kamers is aangenomen, wordt met spoed uitgevoerd. Producten waarvan de productie in strijd is met internationale afspraken op het gebied van mensenrechten, kinderarbeid of milieu, worden geweerd, óók als dat de exit van platforms als Temu en AliExpress uit Nederland betekent."
+    },
+    {
+      "promiseCode": "CU-2025-197",
+      "text": "Er komt een nationale investeringsbank als voortzetting van InvestNL. Publieke en private uitgaven aan innovatie bedragen op termijn 3% van het nationaal inkomen.",
+      "summary": "Nationale investeringsbank en 3% nationaal inkomen voor innovatie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investeringsbank",
+        "innovatie",
+        "nationaal inkomen",
+        "uitgaven",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Er komt een nationale investeringsbank, als voortzetting van InvestNL. Op macroniveau bedragen op termijn de publieke en private uitgaven aan innovatie en onderzoek 3% van het nationaal inkomen."
+    },
+    {
+      "promiseCode": "CU-2025-198",
+      "text": "Elke provincie krijgt een techniekhavo en technasia. Bedrijven worden actief betrokken bij onderwijs in voortgezet en vervolgonderwijs.",
+      "summary": "Techniekhavo en technasia per provincie, bedrijven bij onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "provincie",
+        "techniekhavo",
+        "technasia",
+        "bedrijven",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "Elke provincie verdient een techniekhavo en technasia. Bedrijven worden via samenwerkingen actief betrokken bij het onderwijs, zowel in het voortgezet als vervolgonderwijs."
+    },
+    {
+      "promiseCode": "CU-2025-199",
+      "text": "De grens voor directe gunning aan het mkb wordt verhoogd en aanbestedingsteksten worden leesbaar gemaakt.",
+      "summary": "Hogere grens directe gunning mkb en leesbare aanbestedingsteksten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gunning",
+        "mkb",
+        "aanbestedingen",
+        "teksten",
+        "grens"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 59",
+      "originalQuote": "de grens voor directe gunning aan het mkb wordt verhoogd, teksten bij aanbestedingen worden leesbaar en we stellen praktijkvoorbeelden van eenvoudiger inkopen ter beschikking."
+    },
+    {
+      "promiseCode": "CU-2025-200",
+      "text": "Er komt zoveel mogelijk doelsturing in plaats van middelvoorschriften voor boeren",
+      "summary": "Doelsturing in plaats van middelvoorschriften voor boeren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doelsturing",
+        "middelvoorschriften",
+        "boeren",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Er komt daarom zoveel mogelijk doelsturing in plaats van middelvoorschriften."
+    },
+    {
+      "promiseCode": "CU-2025-201",
+      "text": "Het stikstofbeleid wordt omgeschakeld van sturing op depositie naar sturing op emissies",
+      "summary": "Stikstofbeleid wordt omgeschakeld naar emissiesturing",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstofbeleid",
+        "emissies",
+        "depositie",
+        "aerius-model"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Het huidige stikstofbeleid is te veel gericht op de neerslag (depositie) van stikstof. Daar willen we van af. Om ondernemers aan de slag te laten gaan met stikstofreductie wordt er gestuurd op emissies."
+    },
+    {
+      "promiseCode": "CU-2025-202",
+      "text": "Duurzaamheidsdashboards zoals de Kringloopwijzer worden verder uitgerold met eerst beloningen en op termijn heffingen of sancties",
+      "summary": "Uitrol duurzaamheidsdashboards met beloningen en later sancties",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "duurzaamheidsdashboards",
+        "kringloopwijzer",
+        "beloningen",
+        "heffingen",
+        "sancties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Duurzaamheidsdashboards zoals de Kringloopwijzer in de melkveehouderij en benchmarkingsinitiatieven in onder andere de akkerbouwsector worden verder uitgerold. Aan dergelijke instrumenten worden eerst beloningen en op termijn heffingen of sancties verbonden."
+    },
+    {
+      "promiseCode": "CU-2025-203",
+      "text": "Kortlopende, vrije pacht wordt ontmoedigd en langlopende, loopbaanbestendige pacht gestimuleerd",
+      "summary": "Kortlopende pacht ontmoedigen, langlopende pacht stimuleren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pacht",
+        "kortlopend",
+        "langlopend",
+        "loopbaanbestendig"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Kortlopende, vrije pacht wordt ontmoedigd en langlopende, loopbaanbestendige pacht gestimuleerd."
+    },
+    {
+      "promiseCode": "CU-2025-204",
+      "text": "Extra middelen worden uitgetrokken voor agrarisch natuur- en landschapsbeheer door boeren met langjarige vergoeding",
+      "summary": "Extra middelen voor agrarisch natuur- en landschapsbeheer",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "natuurbeheer",
+        "landschapsbeheer",
+        "boeren",
+        "vergoeding",
+        "middelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Hier zetten we vol op in en trekken we extra middelen voor uit zodat natuur- en landschapsbeheer door boeren wordt uitgebreid en boeren een passende langjarige vergoeding ontvangen voor hun werk."
+    },
+    {
+      "promiseCode": "CU-2025-205",
+      "text": "Er komt een onderbouwde norm voor de verhouding tussen productie en bijbehorende grond per bedrijf in de melkveesector",
+      "summary": "Norm voor productie-grond verhouding in melkveesector",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "melkveesector",
+        "norm",
+        "productie",
+        "grond",
+        "grondgebondenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Daarom komt er een onderbouwde norm voor de verhouding tussen productie en bijbehorende grond per bedrijf."
+    },
+    {
+      "promiseCode": "CU-2025-206",
+      "text": "Een systeem van inputs en outputs wordt heringevoerd waardoor het mineralenoverschot per bedrijf inzichtelijk en handhaafbaar wordt",
+      "summary": "Herinvoering input-output systeem voor mineralenoverschot",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inputs",
+        "outputs",
+        "mineralenoverschot",
+        "handhaving",
+        "bedrijf"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Om bedrijfsgericht te kunnen sturen op een duurzame kringloop zetten we in op het herinvoeren van een systeem van inputs en outputs, waardoor het mineralenoverschot per bedrijf inzichtelijk en handhaafbaar wordt."
+    },
+    {
+      "promiseCode": "CU-2025-207",
+      "text": "Er komt een gericht verbod op het gebruik van glyfosaat voor grasland en groenbemesters",
+      "summary": "Gericht verbod glyfosaat voor grasland en groenbemesters",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "glyfosaat",
+        "verbod",
+        "grasland",
+        "groenbemesters",
+        "gewasbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "We willen een gericht verbod op het gebruik van glyfosaat voor grasland en groenbemesters."
+    },
+    {
+      "promiseCode": "CU-2025-208",
+      "text": "De landbouwsector krijgt toegang tot het Klimaatfonds",
+      "summary": "Landbouwsector krijgt toegang tot Klimaatfonds",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landbouwsector",
+        "klimaatfonds",
+        "toegang",
+        "klimaatdoelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Daarom krijgt de landbouwsector toegang tot het Klimaatfonds."
+    },
+    {
+      "promiseCode": "CU-2025-209",
+      "text": "Via gerichte nieuwbouw- en ombouwsubsidies wordt geïnvesteerd in een toekomstbestendige CO2-neutrale vloot voor de visserij",
+      "summary": "Subsidies voor CO2-neutrale visserijvloot",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "visserij",
+        "subsidies",
+        "nieuwbouw",
+        "ombouw",
+        "co2-neutraal",
+        "vloot"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 61",
+      "originalQuote": "Via gerichte nieuwbouw- en ombouwsubsidies wordt geïnvesteerd in een toekomstbestendige CO2-neutrale vloot."
+    },
+    {
+      "promiseCode": "CU-2025-210",
+      "text": "De ChristenUnie laat het verkiezingsprogramma doorrekenen door onafhankelijke experts van het CPB om transparantie en budgettaire degelijkheid te waarborgen.",
+      "summary": "CPB doorrekening verkiezingsprogramma voor transparantie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cpb",
+        "doorrekening",
+        "verkiezingsprogramma",
+        "transparantie",
+        "budgettaire degelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 63",
+      "originalQuote": "Daarom laten we onze keuzes in kaart brengen door de onafhankelijke experts van het CPB."
+    },
+    {
+      "promiseCode": "CU-2025-211",
+      "text": "De ChristenUnie wil het automatisme loslaten dat landen die toetreden tot de EU automatisch ook toetreden tot de Europese Monetaire Unie (EMU).",
+      "summary": "Automatische EMU-toetreding bij EU-lidmaatschap afschaffen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu",
+        "emu",
+        "europese monetaire unie",
+        "toetreding",
+        "automatisme"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 63",
+      "originalQuote": "De ChristenUnie wil het automatisme dat landen die toetreden tot de EU automatisch ook toetreden tot de Europese Monetaire Unie (EMU) loslaten."
+    },
+    {
+      "promiseCode": "CU-2025-212",
+      "text": "De ChristenUnie is tegen het huidige voorstel voor een digitale euro vanwege bezwaren rond onder andere privacywaarborgen.",
+      "summary": "Tegen voorstel digitale euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale euro",
+        "privacy",
+        "waarborgen",
+        "voorstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 63",
+      "originalQuote": "Het huidige voorstel voor een digitale euro is een oplossing op zoek naar een probleem, waar de ChristenUnie vooral bezwaren tegen heeft (bijvoorbeeld als het gaat om privacywaarborgen)."
+    },
+    {
+      "promiseCode": "CU-2025-213",
+      "text": "De eerste € 30.000 inkomen wordt belastingvrij gemaakt voor werkenden met gewone inkomens van minimumloon tot circa twee keer modaal.",
+      "summary": "Eerste € 30.000 inkomen wordt belastingvrij",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingvrij",
+        "inkomen",
+        "30000",
+        "euro",
+        "minimumloon",
+        "modaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 65",
+      "originalQuote": "Voor inkomen uit werk betekent dit concreet dat de eerste € 30.000 inkomen belastingvrij is."
+    },
+    {
+      "promiseCode": "CU-2025-214",
+      "text": "In het nieuwe belastingstelsel van de ChristenUnie wordt de marginale belastingdruk altijd lager dan 50% gehouden.",
+      "summary": "Marginale belastingdruk maximaal 50%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "marginale",
+        "druk",
+        "belasting",
+        "50",
+        "procent",
+        "belastingstelsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 65",
+      "originalQuote": "In het door het CPB doorgerekende nieuwe belastingstelsel van de ChristenUnie is de marginale druk altijd lager dan 50%."
+    },
+    {
+      "promiseCode": "CU-2025-215",
+      "text": "De aof- en awf-premies worden verlaagd om het voor werkgevers financieel aantrekkelijker te maken mensen in vaste dienst te nemen.",
+      "summary": "Verlaging aof- en awf-premies",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aof",
+        "awf",
+        "premies",
+        "verlaging",
+        "werkgevers",
+        "vaste",
+        "dienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 65",
+      "originalQuote": "Daarom verlagen we de aof- en awf-premies."
+    },
+    {
+      "promiseCode": "CU-2025-216",
+      "text": "Een verplichte verzekering tegen arbeidsongeschiktheid wordt ingevoerd voor zzp'ers.",
+      "summary": "Verplichte arbeidsongeschiktheidsverzekering zzp'ers",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verplichte",
+        "verzekering",
+        "arbeidsongeschiktheid",
+        "zzp",
+        "zelfstandigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 65",
+      "originalQuote": "Een verplichte verzekering tegen arbeidsongeschiktheid is noodzakelijk."
+    },
+    {
+      "promiseCode": "CU-2025-217",
+      "text": "De Wet normering topinkomens wordt uitgebreid naar semi-publieke sectoren zoals pensioenfondsen, overheidsbedrijven, de gehele gezondheidszorg en alle staatsdeelnemingen.",
+      "summary": "Uitbreiding Wnt naar semi-publieke sectoren",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "normering",
+        "topinkomens",
+        "pensioenfondsen",
+        "gezondheidszorg",
+        "staatsdeelnemingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 65",
+      "originalQuote": "De Wet normering topinkomens (Wnt) moet strakker gehandhaafd worden en ook van toepassing worden op semi-publieke sectoren zoals pensioenfondsen (en -uitvoerders), overheidsbedrijven, de gehele gezondheidszorg en alle staatsdeelnemingen."
+    },
+    {
+      "promiseCode": "CU-2025-218",
+      "text": "Sectoren die geen verbetering laten zien in de behandeling van arbeidsmigranten krijgen een uitzendverbod opgelegd.",
+      "summary": "Uitzendverbod bij slechte behandeling arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzendverbod",
+        "arbeidsmigranten",
+        "sectoren",
+        "verbetering",
+        "behandeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 65",
+      "originalQuote": "Sectoren die geen verbetering laten zien in hoe ze met mensen omgaan (zoals de vleessector), krijgen een uitzendverbod opgelegd."
+    },
+    {
+      "promiseCode": "CU-2025-219",
+      "text": "Er komt een wettelijk verbod op huisontruimingen en afsluiting van nutsvoorzieningen (water, gas en elektra) bij huishoudens met kinderen, gecombineerd met vroegtijdige schuldhulpverlening en begeleiding.",
+      "summary": "Wettelijk verbod huisontruiming en afsluiting nutsvoorzieningen bij gezinnen met kinderen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huisontruimingen",
+        "nutsvoorzieningen",
+        "kinderen",
+        "wettelijk verbod",
+        "schuldhulpverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 67",
+      "originalQuote": "Geen huisontruimingen en afsluiting van water, gas en elektra bij huishoudens met kinderen. Kinderen mogen niet de dupe worden van de financiële situatie van hun ouders. Er komt een wettelijk verbod gecombineerd met vroegtijdige schuldhulpverlening en begeleiding."
+    },
+    {
+      "promiseCode": "CU-2025-220",
+      "text": "De kostendelersnorm in de Participatiewet wordt afgeschaft voor mensen die tijdelijk of structureel onderdak bieden aan iemand in nood of bereid zijn hun woning te delen.",
+      "summary": "Afschaffing kostendelersnorm Participatiewet voor mensen die onderdak bieden",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "participatiewet",
+        "onderdak",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 68",
+      "originalQuote": "Afschaffen kostendelersnorm. We schaffen de kostendelersnorm in de Participatiewet af voor mensen die tijdelijk of structureel onderdak bieden aan iemand in nood of bereid zijn om hun woning te delen met iemand anders."
+    },
+    {
+      "promiseCode": "CU-2025-221",
+      "text": "De verkorting van de WW-duur met 6 maanden wordt teruggedraaid en de duur van de WW wordt gehandhaafd op twee jaar.",
+      "summary": "WW-duur blijft twee jaar, verkorting met 6 maanden wordt teruggedraaid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ww",
+        "uitkeringsduur",
+        "twee jaar",
+        "terugdraaien",
+        "werkloosheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 68",
+      "originalQuote": "Het huidige kabinet heeft aangekondigd de duur van de WW met 6 maanden te verlagen. De ChristenUnie draait deze bezuiniging terug en handhaaft de duur van de WW op twee jaar."
+    },
+    {
+      "promiseCode": "CU-2025-222",
+      "text": "In Europees verband wordt gepleit voor een verbod op Buy Now, Pay Later-diensten zoals Klarna en flitskredieten.",
+      "summary": "Verbod op BNPL-diensten zoals Klarna in Europees verband",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bnpl",
+        "klarna",
+        "flitskredieten",
+        "verbod",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "In Europees verband pleiten we voor een verbod op BNPL-diensten, zoals Klarna en flitskredieten."
+    },
+    {
+      "promiseCode": "CU-2025-223",
+      "text": "BNPL-bedrijven mogen boven een openstaand bedrag van €100 geen nieuwe aankoop accepteren en in fysieke winkels mag BNPL helemaal niet meer worden aangeboden.",
+      "summary": "€100-limiet voor BNPL en verbod in fysieke winkels",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bnpl",
+        "100 euro",
+        "fysieke winkels",
+        "limiet",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "boven een openstaand bedrag van € 100 mogen zij geen nieuwe aankoop accepteren. In fysieke winkels mag BNPL helemaal niet meer worden aangeboden als betaalmogelijkheid"
+    },
+    {
+      "promiseCode": "CU-2025-224",
+      "text": "In Europa wordt gepleit voor een verbod op het op afbetaling kopen van consumptiegoederen voor aankopen tot €1000.",
+      "summary": "Verbod afbetaling consumptiegoederen tot €1000",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afbetaling",
+        "consumptiegoederen",
+        "1000 euro",
+        "verbod",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "pleiten we in Europa daarnaast voor een aanscherping van de Richtlijn Consumentenkrediet door een verbod op het op afbetaling kopen van consumptiegoederen voor aankopen tot € 1000"
+    },
+    {
+      "promiseCode": "CU-2025-225",
+      "text": "Het verdienmodel van deurwaarders wordt geïnspireerd op het Belgische model.",
+      "summary": "Belgisch model voor deurwaarders verdienmodel",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deurwaarders",
+        "verdienmodel",
+        "belgië",
+        "hervorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "Het verdienmodel van deurwaarders wordt daarom geïnspireerd op het model uit België."
+    },
+    {
+      "promiseCode": "CU-2025-226",
+      "text": "Vorderingen mogen maximaal één keer worden doorverkocht en de oorspronkelijke eigenaar houdt een zorgplicht.",
+      "summary": "Maximaal één keer doorverkopen schulden met zorgplicht",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vorderingen",
+        "doorverkopen",
+        "zorgplicht",
+        "schulden",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "Vorderingen mogen maximaal één keer worden doorverkocht, en de oorspronkelijke eigenaar houdt een zorgplicht."
+    },
+    {
+      "promiseCode": "CU-2025-227",
+      "text": "Het sociaal minimum wordt de absolute ondergrens voor beslagleggingen.",
+      "summary": "Sociaal minimum als ondergrens voor beslag",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociaal minimum",
+        "beslaglegging",
+        "ondergrens",
+        "schulden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "Het sociaal minimum wordt de absolute ondergrens voor beslagleggingen."
+    },
+    {
+      "promiseCode": "CU-2025-228",
+      "text": "De kredietpercentages mogen voortaan maximaal 3% meer dan de kapitaalmarktrente bedragen.",
+      "summary": "Maximaal 3% boven kapitaalmarktrente voor kredieten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kredietrente",
+        "3 procent",
+        "kapitaalmarktrente",
+        "maximum"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 69",
+      "originalQuote": "De kredietpercentages mogen voortaan maximaal 3% meer dan de kapitaalmarktrente bedragen."
+    },
+    {
+      "promiseCode": "CU-2025-229",
+      "text": "Het gedoogbeleid voor softdrugs wordt beëindigd en alle coffeeshops worden gesloten.",
+      "summary": "Einde gedoogbeleid softdrugs, alle coffeeshops dicht",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gedoogbeleid",
+        "softdrugs",
+        "coffeeshops",
+        "sluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "Er komt een einde aan het gedoogbeleid van soft-drugs. Ook het heilloze wiet-experiment wordt per direct stopgezet."
+    },
+    {
+      "promiseCode": "CU-2025-230",
+      "text": "Er komt een blowverbod in de openbare ruimte en blowen onder de 21 jaar wordt verboden.",
+      "summary": "Blowverbod openbare ruimte en onder 21 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "blowverbod",
+        "openbare ruimte",
+        "leeftijdsgrens",
+        "21 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "Vooruitlopend op het stoppen met gedogen komt er op korte termijn een blowverbod in de openbare ruimte. Daarnaast wordt blowen onder de 21 jaar verboden."
+    },
+    {
+      "promiseCode": "CU-2025-231",
+      "text": "Coffeeshops mogen alleen nog verkopen aan inwoners van de gemeente (ingezetenencriterium).",
+      "summary": "Ingezetenencriterium voor coffeeshops tegen wiettoerisme",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coffeeshops",
+        "ingezetenencriterium",
+        "wiettoerisme",
+        "gemeenteinwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "Ook wordt wiettoerisme beperkt: coffeeshops mogen voortaan alleen verkopen aan inwoners van de gemeente (ingezetenencriterium)."
+    },
+    {
+      "promiseCode": "CU-2025-232",
+      "text": "Er komt een landelijk prostitutieverbod waarbij klanten strafbaar worden gesteld, naar Zweeds model.",
+      "summary": "Landelijk prostitutieverbod met strafbaarstelling klanten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prostitutieverbod",
+        "strafbaarstelling",
+        "klanten",
+        "zweeds model"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "De beste manier om een verbod vorm te geven is niet de prostituee maar de klant strafbaar stellen, zoals ook in Zweden, Noorwegen en Frankrijk het geval is."
+    },
+    {
+      "promiseCode": "CU-2025-233",
+      "text": "De minimumleeftijd voor klant en prostituee wordt verhoogd naar 24 jaar.",
+      "summary": "Minimumleeftijd prostitutie verhoogd naar 24 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumleeftijd",
+        "prostitutie",
+        "24 jaar",
+        "klanten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "het verhogen van de minimumleeftijd van klant en prostituee naar 24 jaar"
+    },
+    {
+      "promiseCode": "CU-2025-234",
+      "text": "Er komt een pooierverbod en thuisprostitutie en escortdiensten worden aan banden gelegd.",
+      "summary": "Pooierverbod en beperking thuisprostitutie en escortdiensten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pooierverbod",
+        "thuisprostitutie",
+        "escortdiensten",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "het instellen van een pooierverbod, en het aan banden leggen van thuisprostitutie en escortdiensten."
+    },
+    {
+      "promiseCode": "CU-2025-235",
+      "text": "Er wordt leeftijdsverificatie ingevoerd bij pornosites, naar Frans voorbeeld.",
+      "summary": "Leeftijdsverificatie pornosites naar Frans model",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsverificatie",
+        "pornosites",
+        "frans model",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "Zolang er geen algeheel pornoverbod is, maken we werk van leeftijdsverificatie bij pornosites, in navolging van het voorbeeld in Frankrijk."
+    },
+    {
+      "promiseCode": "CU-2025-236",
+      "text": "Hostingbedrijven en datacenters worden direct verantwoordelijk gesteld voor het hosten van kinderporno.",
+      "summary": "Directe verantwoordelijkheid hostingbedrijven voor kinderporno",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hostingbedrijven",
+        "datacenters",
+        "verantwoordelijkheid",
+        "kinderporno"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "Het direct verantwoordelijk stellen van hostingbedrijven is nodig om dit onrecht een halt toe te roepen."
+    },
+    {
+      "promiseCode": "CU-2025-237",
+      "text": "De opvang van slachtoffers van mensenhandel wordt landelijk geregeld.",
+      "summary": "Landelijke regeling opvang slachtoffers mensenhandel",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opvang",
+        "slachtoffers",
+        "mensenhandel",
+        "landelijke regeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 73",
+      "originalQuote": "De opvang van slachtoffers wordt landelijk geregeld. Dit om beschikbaarheid van plaatsen, kennis en expertise van hulp te vergroten."
+    },
+    {
+      "promiseCode": "CU-2025-238",
+      "text": "Het aanbieden van gokken in Nederland wordt illegaal, inclusief online gokken, gokautomaten, sportweddenschappen, casino's en commerciële loterijen.",
+      "summary": "Totaalverbod op alle vormen van gokken in Nederland",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gokverbod",
+        "online gokken",
+        "gokautomaten",
+        "sportweddenschappen",
+        "casino's",
+        "loterijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "Daarom wordt het aanbieden van gokken in Nederland illegaal. Dat geldt voor online gokken, gokautomaten, sportweddenschappen en casino's, maar ook voor andere vormen van gokken zoals commerciële (kras)loterijen."
+    },
+    {
+      "promiseCode": "CU-2025-239",
+      "text": "Zolang gokken nog niet is uitgebannen, geldt een minimumleeftijd van 24 jaar voor alle gokactiviteiten.",
+      "summary": "Minimumleeftijd van 24 jaar voor gokken",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumleeftijd",
+        "gokken",
+        "24 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "Zolang gokken nog niet is uitgebannen, gaat een minimumleeftijd van 24 jaar gelden."
+    },
+    {
+      "promiseCode": "CU-2025-240",
+      "text": "Gokelementen in online games worden verboden.",
+      "summary": "Verbod op gokelementen in online games",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gokelementen",
+        "online games",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "Gokelementen in online games worden verboden."
+    },
+    {
+      "promiseCode": "CU-2025-241",
+      "text": "Er komt een totaalverbod voor alle vormen van gokreclame en een lobbyverbod voor de gokindustrie.",
+      "summary": "Totaalverbod op gokreclames en goklobby",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gokreclame",
+        "totaalverbod",
+        "lobbyverbod",
+        "gokindustrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "komt er een totaalverbod voor alle vormen van gokreclame. Er komt, net zoals nu voor de tabaksindustrie al geldt, een lobbyverbod voor de gokindustrie."
+    },
+    {
+      "promiseCode": "CU-2025-242",
+      "text": "Staatsgokbedrijven Holland Casino, Toto en Eurojackpot worden gesloten.",
+      "summary": "Sluiting van staatsgokbedrijven",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "holland casino",
+        "toto",
+        "eurojackpot",
+        "sluiting",
+        "staatsgokbedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "Toch is zij eigenaar van gokbedrijven als Holland Casino, Toto en Eurojackpot. Deze bedrijven worden gesloten."
+    },
+    {
+      "promiseCode": "CU-2025-243",
+      "text": "De kansspelbelasting voor overgebleven gokbedrijven wordt fors verhoogd voorafgaand aan het totaalverbod.",
+      "summary": "Forse verhoging kansspelbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kansspelbelasting",
+        "verhoging",
+        "gokbedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "Voorafgaand aan het totaalverbod op gokken verhogen we de kansspelbelasting voor de overgebleven gokbedrijven fors."
+    },
+    {
+      "promiseCode": "CU-2025-244",
+      "text": "De Kansspelautoriteit wordt versterkt met meer middelen voor handhaving en bredere bevoegdheden voor hogere boetes en het blokkeren van illegale goksites.",
+      "summary": "Versterking Kansspelautoriteit met meer handhavingsmiddelen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kansspelautoriteit",
+        "handhaving",
+        "boetes",
+        "illegale goksites",
+        "middelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 75",
+      "originalQuote": "De Kansspelautoriteit wordt versterkt, krijgt meer middelen om te handhaven en een bredere grondslag om hogere boetes uit te schrijven en illegale goksites op zwart te zetten."
+    },
+    {
+      "promiseCode": "CU-2025-245",
+      "text": "Nederland groeit weer toe naar de internationale norm om 0,7% van het bruto nationaal inkomen uit te geven aan ontwikkelingssamenwerking en handhaaft de aloude bni-koppeling.",
+      "summary": "Ontwikkelingssamenwerking naar 0,7% van BNI verhogen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "bni",
+        "internationale norm",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 77",
+      "originalQuote": "Nederland groeit weer toe naar de internationale norm om 0,7% van het bruto nationaal inkomen (bni) uit te geven aan ontwikkelingssamenwerking en handhaaft de aloude bni-koppeling."
+    },
+    {
+      "promiseCode": "CU-2025-246",
+      "text": "Minstens 50% van het ontwikkelingsbudget wordt besteed aan verbetering van de leefomstandigheden en het bestrijden van ziekten in landen met de grootste armoede en achterstanden.",
+      "summary": "50% ontwikkelingsbudget naar armste landen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingsbudget",
+        "armoede",
+        "ziekten",
+        "leefomstandigheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 77",
+      "originalQuote": "We besteden minstens 50% van het ontwikkelingsbudget aan verbetering van de leefomstandigheden en het bestrijden van ziekten in landen met de grootste armoede en achterstanden."
+    },
+    {
+      "promiseCode": "CU-2025-247",
+      "text": "Er komt een permanent mandaat voor de speciaal gezant voor godsdienstvrijheid in Nederland en de EU.",
+      "summary": "Permanent mandaat speciaal gezant godsdienstvrijheid",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "speciaal gezant",
+        "godsdienstvrijheid",
+        "mandaat",
+        "eu"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 77",
+      "originalQuote": "Er komt een permanent mandaat voor de speciaal gezant voor godsdienstvrijheid in Nederland en de EU."
+    },
+    {
+      "promiseCode": "CU-2025-248",
+      "text": "Het nieuwe kabinet erkent de Armeense genocide.",
+      "summary": "Erkenning Armeense genocide",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "armeense genocide",
+        "erkenning",
+        "kabinet"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 77",
+      "originalQuote": "De ChristenUnie wil dat het nieuwe kabinet de Armeense genocide erkent."
+    },
+    {
+      "promiseCode": "CU-2025-249",
+      "text": "Surinamers mogen visumvrij reizen naar Nederland.",
+      "summary": "Visumvrij reizen voor Surinamers",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "suriname",
+        "visumvrij",
+        "reizen",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 77",
+      "originalQuote": "bijvoorbeeld door Surinamers visumvrij te laten reizen naar Nederland."
+    },
+    {
+      "promiseCode": "CU-2025-250",
+      "text": "De revolutionaire garde van Iran moet op de Europese terreurlijst worden geplaatst als onderdeel van de isolatie van het Iraanse regime.",
+      "summary": "Revolutionaire garde Iran op Europese terreurlijst",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "revolutionaire garde",
+        "iran",
+        "europese terreurlijst",
+        "isolatie",
+        "regime"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 79",
+      "originalQuote": "Het Iraans regime moet daarom zoveel mogelijk worden geïsoleerd. Hiervoor dient de revolutionaire garde op de Europese terreurlijst te komen."
+    },
+    {
+      "promiseCode": "CU-2025-251",
+      "text": "Het nucleaire programma van Iran moet worden ontmanteld.",
+      "summary": "Ontmanteling nucleair programma Iran",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nucleair programma",
+        "iran",
+        "ontmanteling",
+        "ontwapening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 79",
+      "originalQuote": "Het nucleair programma dient ontmanteld te worden."
+    },
+    {
+      "promiseCode": "CU-2025-252",
+      "text": "Terreurorganisatie Hamas moet worden ontwapend en ontmanteld.",
+      "summary": "Ontwapening en ontmanteling Hamas",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hamas",
+        "terreurorganisatie",
+        "ontwapening",
+        "ontmanteling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 79",
+      "originalQuote": "Terreurorganisatie Hamas moet ontwapend en ontmanteld worden."
+    },
+    {
+      "promiseCode": "CU-2025-253",
+      "text": "De ChristenUnie steunt persoonsgerichte sancties tegen kolonisten die veroordeeld zijn voor terreurdaden op de Westelijke Jordaanoever.",
+      "summary": "Sancties tegen veroordeelde kolonisten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "persoonsgerichte sancties",
+        "kolonisten",
+        "terreurdaden",
+        "westelijke jordaanoever"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 79",
+      "originalQuote": "De ChristenUnie steunt persoonsgerichte sancties tegen kolonisten die veroordeeld zijn voor terreurdaden."
+    },
+    {
+      "promiseCode": "CU-2025-254",
+      "text": "Er wordt een Staatscommissie Demografische Ontwikkelingen 2050 ingesteld om advies te geven over gecontroleerde migratie.",
+      "summary": "Staatscommissie Demografische Ontwikkelingen 2050",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staatscommissie",
+        "demografische ontwikkelingen",
+        "2050",
+        "gecontroleerde migratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 79",
+      "originalQuote": "Op basis van het advies van de Staatscommissie kiest de ChristenUnie voor gematigde groei door gecontroleerde migratie"
+    },
+    {
+      "promiseCode": "CU-2025-255",
+      "text": "Het toezicht op de naleving van wetgeving zoals de Wet goed verhuurderschap en Arbowetgeving wordt aangescherpt voor arbeidsmigranten.",
+      "summary": "Aanscherping toezicht wetgeving arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toezicht",
+        "wetgeving",
+        "wet goed verhuurderschap",
+        "arbowetgeving",
+        "arbeidsmigranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 79",
+      "originalQuote": "Het toezicht op de naleving van wetgeving (zoals de Wet goed verhuurderschap of de Arbowetgeving) wordt aangescherpt."
+    },
+    {
+      "promiseCode": "CU-2025-256",
+      "text": "Om meer grip te krijgen op arbeidsmigratie moet er een einde komen aan slechte arbeidsvoorwaarden en worden aparte Schengen-afspraken en een arbeidsmigratiepact in de EU ontwikkeld.",
+      "summary": "Einde slechte arbeidsvoorwaarden, nieuwe Schengen-afspraken en EU arbeidsmigratiepact",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmigratie",
+        "arbeidsvoorwaarden",
+        "schengen-afspraken",
+        "arbeidsmigratiepact",
+        "europese unie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "Om meer grip te krijgen op arbeidsmigratie moet er allereerst een einde komen aan de slechte arbeidsvoorwaarden. Daarnaast zijn er aparte Schengen-afspraken en een arbeidsmigratiepact in de Europese Unie nodig."
+    },
+    {
+      "promiseCode": "CU-2025-257",
+      "text": "Binnen de Europese Unie wordt de invoering van tewerkstellingsvergunningen bepleit, in eerste instantie voor bepaalde sectoren zoals de bouw of uitzendsector.",
+      "summary": "Invoering tewerkstellingsvergunningen EU voor bouw en uitzendsector",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tewerkstellingsvergunningen",
+        "europese unie",
+        "bouw",
+        "uitzendsector",
+        "arbeidsmigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "Binnen de Europese Unie pleiten we voor de invoering van tewerkstellingsvergunningen, in eerste instantie voor bepaalde sectoren zoals de bouw of uitzendsector."
+    },
+    {
+      "promiseCode": "CU-2025-258",
+      "text": "In Europees verband worden belastingvoordelen voor expats gezamenlijk afgeschaft.",
+      "summary": "Afschaffing belastingvoordelen expats in Europa",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingvoordelen",
+        "expats",
+        "afschaffing",
+        "europees verband"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "In Europees verband zetten we ons in om belastingvoordelen voor expats gezamenlijk af te schaffen."
+    },
+    {
+      "promiseCode": "CU-2025-259",
+      "text": "Er wordt ingezet op vermindering van het aantal studiemigranten omdat Nederlandse studenten opleiden de kerntaak van Nederlandse universiteiten vormt.",
+      "summary": "Vermindering aantal studiemigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studiemigranten",
+        "vermindering",
+        "universiteiten",
+        "nederlandse studenten",
+        "kerntaak"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "Het opleiden van Nederlandse studenten vormt de kerntaak van Nederlandse universiteiten; we zetten daarom in op vermindering van het aantal studiemigranten."
+    },
+    {
+      "promiseCode": "CU-2025-260",
+      "text": "Er wordt een systeem ingevoerd waarbij asielzoekers zich buiten Europa kunnen aanmelden om levensgevaarlijke oversteek over de Middellandse zee te voorkomen.",
+      "summary": "Systeem voor asielaanmelding buiten Europa",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielzoekers",
+        "aanmelding",
+        "europa",
+        "middellandse zee",
+        "systeem"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "We willen een einde aan de levensgevaarlijke oversteek over de Middellandse zee, die mensensmokkel in de hand werkt. We pleiten voor een systeem waarbij asielzoekers zich buiten Europa kunnen aanmelden."
+    },
+    {
+      "promiseCode": "CU-2025-261",
+      "text": "IND en COA worden voldoende en stabiel gefinancierd voor hun taak en ondersteund bij de inrichting van een efficiëntere asielprocedure.",
+      "summary": "Stabiele financiering IND en COA voor efficiëntere asielprocedure",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ind",
+        "coa",
+        "financiering",
+        "asielprocedure",
+        "efficiëntie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "IND en COA worden voldoende en stabiel gefinancierd voor hun taak en ondersteund bij de inrichting van een efficiëntere asielprocedure."
+    },
+    {
+      "promiseCode": "CU-2025-262",
+      "text": "In Nederland gewortelde kinderen worden niet uitgezet.",
+      "summary": "Geen uitzetting gewortelde kinderen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gewortelde kinderen",
+        "uitzetting",
+        "nederland",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "In Nederland gewortelde kinderen zetten we niet uit."
+    },
+    {
+      "promiseCode": "CU-2025-263",
+      "text": "De spreidingswet blijft van kracht om te voorzien in voldoende kleinschalige opvanglocaties en alle gemeenten blijven verplicht om statushouders te huisvesten.",
+      "summary": "Handhaving spreidingswet en gemeentelijke huisvestingsplicht statushouders",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spreidingswet",
+        "opvanglocaties",
+        "gemeenten",
+        "statushouders",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "De spreidingswet blijft van kracht om te kunnen voorzien in voldoende kleinschalige opvanglocaties, passend bij de omvang van de gemeente of buurt. Ook blijven alle gemeenten verplicht om statushouders te huisvesten."
+    },
+    {
+      "promiseCode": "CU-2025-264",
+      "text": "Aan verblijfsvergunningen voor niet-EU arbeidsmigranten worden voorwaarden verbonden voor integratie, zoals het leren van de Nederlandse taal.",
+      "summary": "Integratievoorwaarden aan verblijfsvergunningen niet-EU arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verblijfsvergunningen",
+        "niet-eu",
+        "arbeidsmigranten",
+        "integratie",
+        "nederlandse taal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "aan verblijfsvergunningen voor niet EU-arbeidsmigranten verbinden we voorwaarden aan integratie, zoals het leren van de Nederlandse taal."
+    },
+    {
+      "promiseCode": "CU-2025-265",
+      "text": "De bestaande eisen voor naturalisatie worden kritisch bekeken en waar nodig aangescherpt, waarbij het spreken van Nederlands en onderschrijven van grondwettelijke waarden randvoorwaarden zijn.",
+      "summary": "Aanscherping naturalisatie-eisen Nederlands en grondwettelijke waarden",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "naturalisatie",
+        "aanscherping",
+        "nederlands",
+        "grondwettelijke waarden",
+        "eisen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 81",
+      "originalQuote": "Daarom kijken we kritisch naar de bestaande eisen en scherpen we deze waar nodig aan. Het spreken van het Nederlands en het onderschrijven van de waarden zoals vastgelegd in de grondwet is daarvoor randvoorwaarde."
+    },
+    {
+      "promiseCode": "CU-2025-266",
+      "text": "Het Europees Parlement vergadert voortaan alleen nog in Brussel en reist niet meer tussen Brussel en Straatsburg.",
+      "summary": "Europees Parlement vergadert alleen nog in Brussel",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europees parlement",
+        "brussel",
+        "straatsburg",
+        "vergaderingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 83",
+      "originalQuote": "Het Europees Parlement vergadert voortaan alleen nog in Brussel. Reizen tussen Brussel en Straatsbourg is kostbaar en inefficiënt."
+    },
+    {
+      "promiseCode": "CU-2025-267",
+      "text": "Bij wijzigingen in de EU-verdragen besluit de Tweede Kamer met tweederdemeerderheid.",
+      "summary": "Tweede Kamer besluit over EU-verdragwijzigingen met tweederdemeerderheid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-verdragen",
+        "tweede kamer",
+        "tweederdemeerderheid",
+        "besluitvorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 83",
+      "originalQuote": "Bij wijzigingen in de EU-verdragen besluit de Tweede Kamer met tweederdemeerderheid."
+    },
+    {
+      "promiseCode": "CU-2025-268",
+      "text": "Bij ernstige bedreiging van de rechtsstaat moet de Europese Raad met een vier vijfde meerderheid kunnen beslissen over sancties in plaats van alleen unaniem.",
+      "summary": "Europese Raad beslist over sancties rechtsstaat met vier vijfde meerderheid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese raad",
+        "rechtsstaat",
+        "sancties",
+        "vier vijfde meerderheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 83",
+      "originalQuote": "Bij ernstige bedreiging van de rechtsstaat of ernstige corruptie moet de Europese Raad niet slechts unaniem maar ook met een vier vijfde meerderheid beslissen dat een land in aanmerking komt voor stevige sancties."
+    },
+    {
+      "promiseCode": "CU-2025-269",
+      "text": "Invoering van besluitvorming met een gekwalificeerde meerderheid voor het Europese buitenlandbeleid in plaats van vetorecht van één lidstaat.",
+      "summary": "Gekwalificeerde meerderheid voor Europees buitenlandbeleid",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buitenlandbeleid",
+        "gekwalificeerde meerderheid",
+        "vetorecht",
+        "besluitvorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 83",
+      "originalQuote": "Het vetorecht van een enkele lidstaat op Europees buitenlands beleid verzwakt die daadkracht. Daarom is de ChristenUnie voorstander van het invoeren van besluitvorming met een gekwalificeerde meerderheid voor het Europese buitenlandbeleid."
+    },
+    {
+      "promiseCode": "CU-2025-270",
+      "text": "De toetredingsonderhandelingen met Turkije worden gestaakt.",
+      "summary": "Toetredingsonderhandelingen met Turkije worden gestaakt",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "turkije",
+        "toetredingsonderhandelingen",
+        "eu-uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CU 2025, p. 83",
+      "originalQuote": "De toetredingsonderhandelingen met Turkije worden gestaakt."
+    }
+  ]
+}

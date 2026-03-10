@@ -1,0 +1,586 @@
+{
+  "party": "SP",
+  "partySlug": "sp",
+  "program": "Nu de mensen",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "eed57b828564e55d814fe28ca221e2e406a5e1e3ba9931cd148d4cf387786dfd",
+  "totalPromises": 37,
+  "promises": [
+    {
+      "promiseCode": "SP-2023-001",
+      "text": "De bevolking krijgt het recht om bindende en correctieve referenda te houden op nationaal, provinciaal en lokaal niveau. Ook internationale verdragen die de Nederlandse soevereiniteit raken worden in een referendum aan de bevolking voorgelegd.",
+      "summary": "Invoering bindende en correctieve referenda op alle bestuursniveaus",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "referendum",
+        "bindend",
+        "correctief",
+        "soevereiniteit",
+        "verdragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 11",
+      "originalQuote": "Een bindend en correctief referendum op nationaal, provin- ciaal en lokaal niveau is een speerpunt van onze partij. Ook als internationale verdragen worden gesloten die onze eigen soevereiniteit raken, worden die in een referendum aan de bevolking voorgelegd."
+    },
+    {
+      "promiseCode": "SP-2023-002",
+      "text": "In bedrijven met meer dan honderd medewerkers krijgen werknemers net zoveel zeggenschap als aandeelhouders over onderwerpen als grote investeringen, beloningen, fusies of verkoop.",
+      "summary": "Werknemers krijgen 50% zeggenschap in bedrijven met 100+ medewerkers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werknemersmedezeggenschap",
+        "aandeelhouders",
+        "investeringen",
+        "beloningen",
+        "fusies"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 11",
+      "originalQuote": "In bedrijven met meer dan honderd medewerkers krijgen werknemers net zoveel te zeggen als aandeelhouders, over onderwerpen als grote investeringen, beloningen, fusies of verkoop."
+    },
+    {
+      "promiseCode": "SP-2023-003",
+      "text": "Bij bedrijven die publieke diensten uitvoeren mogen inkomens en vergoedingen aan de top niet hoger zijn dan die van de minister-president.",
+      "summary": "Topinkomens bij staatsdeelnemingen maximeren op MP-salaris",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "topinkomens",
+        "staatsdeelnemingen",
+        "minister-president",
+        "vergoedingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 11",
+      "originalQuote": "Alle bedrijven waar de overheid aandeelhouder is (zogeheten staatsdeel- nemingen) of waar de overheid financieel te hulp schiet, hebben een voorbeeldfunctie. Zo mogen daar de inkomens en vergoedingen aan de top niet hoger zijn dan die van de minister-president."
+    },
+    {
+      "promiseCode": "SP-2023-004",
+      "text": "De wachtgeldregeling voor politici wordt afgeschaft, evenals andere bijzondere regelingen zoals te ruime vergoedingen voor reizen en verblijf.",
+      "summary": "Afschaffing wachtgeldregeling en riante vergoedingen voor politici",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wachtgeld",
+        "politici",
+        "vergoedingen",
+        "reizen",
+        "verblijf"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 11",
+      "originalQuote": "Daarom maken we een einde aan de wachtgeldregeling. Ook andere bijzondere regelingen voor politici schaffen we af, zoals de te ruime vergoedingen voor reizen en verblijf."
+    },
+    {
+      "promiseCode": "SP-2023-005",
+      "text": "Er komt een verbod op sponsoring van politieke partijen door bedrijven en op financiering vanuit het buitenland. Alle giften moeten volledig openbaar gemaakt worden.",
+      "summary": "Verbod bedrijfssponsoring en buitenlandse financiering politieke partijen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sponsoring",
+        "bedrijven",
+        "buitenland",
+        "financiering",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 11",
+      "originalQuote": "we voeren een verbod in op sponsoring door bedrijven en op financiering vanuit het buitenland"
+    },
+    {
+      "promiseCode": "SP-2023-006",
+      "text": "Er komt een wettelijk maximum voor de inhuur van externen bij alle overheden en organisaties die publieke diensten uitvoeren (de 'Roemer-norm').",
+      "summary": "Wettelijk maximum voor inhuur externe consultants bij overheid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "consultants",
+        "externen",
+        "overheid",
+        "maximum",
+        "Roemer-norm"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 12",
+      "originalQuote": "Er komt een wettelijk maximum voor de inhuur van externen bij alle overheden en bedrijven en organi saties die publieke diensten uitvoeren (de 'Roemer-norm')."
+    },
+    {
+      "promiseCode": "SP-2023-007",
+      "text": "Het wordt voor iedere gemeente verplicht om een openbare bibliotheek beschikbaar te stellen voor haar inwoners.",
+      "summary": "Verplichting openbare bibliotheek in elke gemeente",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheek",
+        "gemeente",
+        "verplicht",
+        "voorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 12",
+      "originalQuote": "Het zal voor iedere gemeente verplicht worden om een openbare bibliotheek beschikbaar te stellen voor haar inwoners."
+    },
+    {
+      "promiseCode": "SP-2023-008",
+      "text": "Artikel 120 van de Grondwet wordt afgeschaft en er komt een constitutioneel hof dat wetten kan toetsen aan de Grondwet.",
+      "summary": "Afschaffing artikel 120 Grondwet en invoering constitutioneel hof",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel",
+        "Grondwet",
+        "constitutioneel",
+        "hof",
+        "toetsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 12",
+      "originalQuote": "We pleiten voor het afschaffen van artikel 120 van de Grondwet en de komst van een constitutio- neel hof."
+    },
+    {
+      "promiseCode": "SP-2023-009",
+      "text": "Alle werknemers krijgen wettelijk recht op een deel van de winst wanneer dividend wordt uitgekeerd aan aandeelhouders. Het minimale percentage wordt vastgelegd in een wet.",
+      "summary": "Wettelijk recht op winstdeling voor alle werknemers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "winstdeling",
+        "werknemers",
+        "dividend",
+        "percentage",
+        "wet"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "ook alle medewerkers krijgen voortaan recht op een deel van de winst. Zo profiteren alle werk- nemers collectief, op het moment dat dividend wordt uitgekeerd aan aandeelhouders. Dit komt bovenop het reguliere salaris. Het minimale percentage van deze winstdeling leggen we vast in een wet."
+    },
+    {
+      "promiseCode": "SP-2023-010",
+      "text": "Bij bedrijven met commissarissen kiezen werknemers de helft van de commissarissen, aandeelhouders de andere helft. Aandeelhouders met langdurig bezit krijgen dubbel stemrecht.",
+      "summary": "50/50 verdeling commissarissen tussen werknemers en aandeelhouders",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "commissarissen",
+        "werknemers",
+        "aandeelhouders",
+        "stemrecht",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "Bij bedrijven met commissarissen kiezen werknemers de ene helft, de andere helft van de commissarissen wordt gekozen door de aandeelhouders."
+    },
+    {
+      "promiseCode": "SP-2023-011",
+      "text": "Bestuurders van bedrijven die belasting ontduiken worden strafrechtelijk vervolgd. Geheime afspraken tussen multinationals en belastingdienst worden afgeschaft.",
+      "summary": "Strafrechtelijke vervolging bestuurders bij belastingontduiking",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingontduiking",
+        "strafrechtelijk",
+        "multinationals",
+        "belastingdienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "De bestuur- ders van bedrijven die belasting ontduiken worden strafrechtelijk vervolgd. Geheime afspraken tussen multinationals en belastingdienst schaffen we af"
+    },
+    {
+      "promiseCode": "SP-2023-012",
+      "text": "Er komt een miljonairsbelasting en vermogensinkomsten worden minstens even zwaar belast als arbeidsinkomen. Hogere inkomens gaan meer belasting betalen, lagere inkomens minder.",
+      "summary": "Miljonairsbelasting en gelijke belasting op vermogen en arbeid",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "miljonairsbelasting",
+        "vermogen",
+        "arbeidsinkomen",
+        "belastingtarieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "Mensen die geld verdienen met vermogen, zoals aandeelhouders en vastgoedbeleggers, gaan we min- stens even zwaar belasten als inkomen uit arbeid. Tegelijkertijd laten we met een 'miljonairs- belasting' ook de allerrijksten hun eerlijke deel betalen."
+    },
+    {
+      "promiseCode": "SP-2023-013",
+      "text": "Vitale infrastructuur zoals energievoorziening wordt genationaliseerd. De zorg wordt volledig van de markt gehaald. Openbaar vervoer en post komen in publieke handen.",
+      "summary": "Nationalisatie energievoorziening, zorg, OV en post",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationalisatie",
+        "energievoorziening",
+        "zorg",
+        "openbaar vervoer",
+        "post"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "We stoppen de uitverkoop van publieke diensten en nationaliseren onze vitale infrastructuur, zoals de energievoorziening. De zorg halen wij volledig van de markt. We brengen het openbaar vervoer en de post weer in publieke handen."
+    },
+    {
+      "promiseCode": "SP-2023-014",
+      "text": "De BTW op voedingsmiddelen en openbaar vervoer wordt volledig afgeschaft. De winstbelasting voor grote bedrijven wordt verhoogd tot minimaal het niveau van werknemersbelasting.",
+      "summary": "Afschaffing BTW op voedsel en OV, hogere winstbelasting grote bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BTW",
+        "voedingsmiddelen",
+        "openbaar vervoer",
+        "winstbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "Wij verlagen de prijzen door de BTW op voedingsmiddelen en openbaar vervoer geheel te schrappen. Tegelijkertijd verhogen wij de winstbelasting voor grote bedrijven, zodat die minstens zo zwaar worden belast als het inkomen van werknemers."
+    },
+    {
+      "promiseCode": "SP-2023-015",
+      "text": "Er wordt een nationale betaal- en spaarbank opgericht als publieke bank. Er komt een acceptatieplicht voor contant geld. Betaalgegevens mogen niet commercieel gebruikt worden.",
+      "summary": "Oprichting nationale publieke bank en acceptatieplicht contant geld",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale bank",
+        "spaarbank",
+        "contant geld",
+        "acceptatieplicht",
+        "betaalgegevens"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 13",
+      "originalQuote": "We richten een nationale betaal- en spaarbank op, een publieke bank waar ons spaargeld en betaalverkeer veilig zijn. Er komt een acceptatie- plicht voor contant geld."
+    },
+    {
+      "promiseCode": "SP-2023-016",
+      "text": "Alle studenten krijgen een hogere studiebeurs, zodat ze meer tijd hebben om te studeren.",
+      "summary": "Hogere studiebeurs voor alle studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studiebeurs",
+        "studenten",
+        "hoger",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 22",
+      "originalQuote": "Alle studenten krijgen een hogere studiebeurs, zodat ze meer tijd hebben om te studeren."
+    },
+    {
+      "promiseCode": "SP-2023-017",
+      "text": "De generatie studenten die onder het leenstelsel heeft gestudeerd, wordt ruimhartig gecompenseerd.",
+      "summary": "Compensatie voor studenten uit leenstelsel",
+      "theme": "ONDERWIJS",
+      "specificity": "VAAG",
+      "keywords": [
+        "compensatie",
+        "studenten",
+        "leenstelsel",
+        "studieschuld"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 22",
+      "originalQuote": "De generatie studenten die onder het leenstelsel heeft gestudeerd, wordt ruimhartig gecompenseerd."
+    },
+    {
+      "promiseCode": "SP-2023-018",
+      "text": "Het aantal studenten uit het buitenland wordt beperkt, om opleidingen en studentenhuisvesting voor jongeren uit Nederland toegankelijk te houden.",
+      "summary": "Beperking van buitenlandse studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenlandse",
+        "studenten",
+        "beperking",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 22",
+      "originalQuote": "Het aantal studenten uit het buitenland is de afgelopen jaren veel te hard gestegen en moet worden beperkt, om opleidingen en studentenhuisvesting voor jongeren uit Nederland toegankelijk te houden."
+    },
+    {
+      "promiseCode": "SP-2023-019",
+      "text": "Door de invoering van een minimumtarief kunnen freelance journalisten en fotografen een fatsoenlijke boterham verdienen.",
+      "summary": "Minimumtarief voor freelance journalisten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumtarief",
+        "journalisten",
+        "fotografen",
+        "freelance"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 23",
+      "originalQuote": "Door de invoering van een minimumtarief kunnen (freelance) journalisten en fotografen een fatsoenlijke boterham verdienen."
+    },
+    {
+      "promiseCode": "SP-2023-020",
+      "text": "Een ministerie van wonen krijgt regie over de huisvesting en maakt een nationaal bouwplan voor de bouw van duurzame en betaalbare woningen.",
+      "summary": "Ministerie van wonen en nationaal bouwplan",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ministerie",
+        "wonen",
+        "nationaal",
+        "bouwplan",
+        "duurzame",
+        "betaalbare"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "Een ministerie van wonen krijgt regie over de huisvesting en maakt een nationaal bouwplan voor de bouw van duurzame en betaalbare woningen."
+    },
+    {
+      "promiseCode": "SP-2023-021",
+      "text": "De huren gaan de komende jaren niet omhoog, maar juist omlaag. Dat geldt ook voor de zogenaamde geliberaliseerde huren.",
+      "summary": "Huren gaan omlaag inclusief geliberaliseerde huren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huren",
+        "verlaging",
+        "geliberaliseerde",
+        "woningmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "De huren gaan de komende jaren niet omhoog, maar juist omlaag. Dat geldt ook voor de zogenaamde geliberaliseerde huren."
+    },
+    {
+      "promiseCode": "SP-2023-022",
+      "text": "We verbieden verkoop van sociale huurwoningen door woningcorporaties.",
+      "summary": "Verbod op verkoop sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "verkoop",
+        "sociale",
+        "huurwoningen",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "We verbieden verkoop van sociale huurwoningen door woning corporaties"
+    },
+    {
+      "promiseCode": "SP-2023-023",
+      "text": "Voor alle soorten woningen voeren we een maximale huurprijs in.",
+      "summary": "Maximale huurprijs voor alle woningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maximale",
+        "huurprijs",
+        "woningen",
+        "huurregulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "Om de huurders minder afhankelijk te maken van de markt voeren we voor alle soorten woningen een maximale huurprijs in."
+    },
+    {
+      "promiseCode": "SP-2023-024",
+      "text": "De vennootschapsbelasting voor woningcorporaties schaffen we af. Die wordt omgezet in een investeringsplicht voor de bouw van huizen.",
+      "summary": "Afschaffing vennootschapsbelasting corporaties, omzetten naar investeringsplicht",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vennootschapsbelasting",
+        "woningcorporaties",
+        "investeringsplicht",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "De vennootschapsbelasting voor woningcorporaties schaffen we af. Die wordt omgezet in een investeringsplicht voor de bouw van huizen"
+    },
+    {
+      "promiseCode": "SP-2023-025",
+      "text": "We voeren een woonplicht in bij alle woningen en hogere overdrachtsbelasting vanaf het tweede huis.",
+      "summary": "Woonplicht en hogere overdrachtsbelasting tweede huizen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woonplicht",
+        "overdrachtsbelasting",
+        "tweede",
+        "huis",
+        "speculatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "Het beleggen in vastgoed pakken we aan door een 'woonplicht' in te voeren bij alle woningen (zodat je ook echt in een huis moet gaan wonen) en hogere overdrachtsbelasting vanaf het tweede huis."
+    },
+    {
+      "promiseCode": "SP-2023-026",
+      "text": "Het verbod op kraken heffen we op.",
+      "summary": "Opheffing van het kraakverbod",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "kraken",
+        "opheffing",
+        "leegstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "Het verbod op kraken heffen we op."
+    },
+    {
+      "promiseCode": "SP-2023-027",
+      "text": "Voor huizen boven de nationale hypotheekgarantie (momenteel 405 duizend euro) schaffen we de hypotheekrenteaftrek af.",
+      "summary": "Afschaffing hypotheekrenteaftrek boven 405.000 euro",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "405",
+        "duizend",
+        "euro",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 24",
+      "originalQuote": "Voor huizen met een aankoopwaarde tot de nationale hypotheekgarantie (momenteel 405 duizend euro) laten wij alles hetzelfde, zodat het kopen van een woning om zelf in te wonen aantrekkelijk blijft en de kosten voor het merendeel van de bevolking niet zullen stijgen. Daarboven schaffen we deze renteaftrek af."
+    },
+    {
+      "promiseCode": "SP-2023-028",
+      "text": "De teelt en de verkoop van softdrugs voor gebruik in Nederland gaan we reguleren en legaliseren.",
+      "summary": "Regulering en legalisering van softdrugs",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "teelt",
+        "verkoop",
+        "softdrugs",
+        "regulering",
+        "legalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 26",
+      "originalQuote": "De teelt en de verkoop van softdrugs voor gebruik in Nederland gaan we reguleren en legaliseren."
+    },
+    {
+      "promiseCode": "SP-2023-029",
+      "text": "We gaan het verbod op online gokreclames uitbreiden naar een totaalverbod op gokreclames.",
+      "summary": "Totaalverbod op gokreclames",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "totaalverbod",
+        "gokreclames",
+        "gokken",
+        "reclame"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 26",
+      "originalQuote": "Wij gaan dit verbod uitbreiden naar een totaalverbod op gokreclames."
+    },
+    {
+      "promiseCode": "SP-2023-030",
+      "text": "De rechtspraak krijgt een aparte begroting.",
+      "summary": "Aparte begroting voor rechtspraak",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechtspraak",
+        "aparte",
+        "begroting",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 27",
+      "originalQuote": "Daarom krijgt de rechtspraak een aparte begroting."
+    },
+    {
+      "promiseCode": "SP-2023-031",
+      "text": "Boetes worden inkomensafhankelijk, zodat ook rijken die gaan voelen in hun portemonnee.",
+      "summary": "Inkomensafhankelijke boetes",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boetes",
+        "inkomensafhankelijk",
+        "rijken",
+        "portemonnee"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 27",
+      "originalQuote": "Boetes worden inkomensafhankelijk, zodat ook rijken die gaan voelen in hun portemonnee."
+    },
+    {
+      "promiseCode": "SP-2023-032",
+      "text": "De griffierechten gaan omlaag en de vergoedingen voor sociaal advocaten worden verhoogd.",
+      "summary": "Lagere griffierechten en hogere vergoedingen sociaal advocaten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "griffierechten",
+        "vergoedingen",
+        "sociaal",
+        "advocaten",
+        "rechtshulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 28",
+      "originalQuote": "De griffie rechten gaan omlaag. Sociaal advocaten zijn onmisbaar voor mensen die geen dure advo- caat kunnen betalen. Om te voorkomen dat de sociaal advocaten stoppen, verhogen we de vergoedingen"
+    },
+    {
+      "promiseCode": "SP-2023-033",
+      "text": "Er wordt een sociaal notariaat opgericht, zodat iedereen zijn zaken goed vast kan leggen.",
+      "summary": "Oprichting sociaal notariaat",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal",
+        "notariaat",
+        "oprichting",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 28",
+      "originalQuote": "Er wordt een 'sociaal notariaat' opgericht, zodat iedereen z'n zaken goed vast kan leggen."
+    },
+    {
+      "promiseCode": "SP-2023-034",
+      "text": "Artikel 23 van de Grondwet gaat op de schop. Elke school dient iedere leerling of docent in principe te accepteren.",
+      "summary": "Herziening artikel 23 Grondwet, acceptatieplicht scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "artikel",
+        "23",
+        "Grondwet",
+        "school",
+        "acceptatieplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 29",
+      "originalQuote": "Artikel 23 van de Grondwet gaat op de schop. De vrijheid om een school te stichten mag geen vrijbrief zijn om jongeren uit te sluiten. Elke school dient iedere leerling of docent in principe te accepteren."
+    },
+    {
+      "promiseCode": "SP-2023-035",
+      "text": "We ondertekenen het VN-verdrag voor het verbod op kernwapens. Op Nederlands grondgebied is dan ook geen plek voor kernwapens.",
+      "summary": "Ondertekening VN-verdrag verbod kernwapens",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "VN-verdrag",
+        "verbod",
+        "kernwapens",
+        "ondertekening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 30",
+      "originalQuote": "We ondertekenen het VN-verdrag voor het verbod op kernwapens. Op Nederlands grondgebied is dan ook geen plek voor kernwapens."
+    },
+    {
+      "promiseCode": "SP-2023-036",
+      "text": "We starten onderhandelingen over ordentelijke ontvlechting van de euro en treffen voorbereidingen voor alternatieven.",
+      "summary": "Onderhandelingen over ontvlechting van de euro",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderhandelingen",
+        "ontvlechting",
+        "euro",
+        "alternatieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 30",
+      "originalQuote": "We starten daarom onderhandelingen over ordentelijke ontvlechting en treffen voorbereidingen voor alternatieven die beter zijn voor alle economieën van de aangesloten landen."
+    },
+    {
+      "promiseCode": "SP-2023-037",
+      "text": "Een nieuw Europees Verdrag zal in een referendum worden voorgelegd aan de Nederlandse bevolking.",
+      "summary": "Referendum over nieuw Europees Verdrag",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "Europees",
+        "Verdrag",
+        "Nederlandse",
+        "bevolking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2023, p. 30",
+      "originalQuote": "Dit nieuwe verdrag zal in een referendum worden voorgelegd aan de Nederlandse bevolking."
+    }
+  ]
+}

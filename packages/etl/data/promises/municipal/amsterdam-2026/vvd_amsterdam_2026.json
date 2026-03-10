@@ -1,0 +1,122 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verkiezingsprogramma VVD Amsterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "vvd_amsterdam_2026.pdf",
+  "extractedAt": "2026-03-03T11:56:44.719Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "Investeren in extra schoonmakers en vuilnisophalers voor schonere straten en nettere openbare ruimtes.",
+      "originalText": "Daarom investeren we stevig in extra schoonmakers en vuilnisophalers, komt er meer handhaving en verhogen we boetes op afvaloverlast. Amsterdam moet schone straten en nette openbare ruimtes hebben. Meer schoonmakers, betere afvalinzameling, hogere boetes op zwerfafval en snelle reactie op meldingen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoonmakers",
+        "vuilnisophalers",
+        "afvalinzameling"
+      ]
+    },
+    {
+      "text": "Boetes op afvaloverlast en zwerfafval verhogen.",
+      "originalText": "Daarom investeren we stevig in extra schoonmakers en vuilnisophalers, komt er meer handhaving en verhogen we boetes op afvaloverlast. Meer schoonmakers, betere afvalinzameling, hogere boetes op zwerfafval en snelle reactie op meldingen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "boetes",
+        "afvaloverlast",
+        "zwerfafval"
+      ]
+    },
+    {
+      "text": "OZB en afvalstoffenheffing verlagen door te snijden in het ambtenarenapparaat.",
+      "originalText": "Door te snijden in het ambtenarenapparaat realiseren wij een stevige lastenverlichting voor Amsterdammers door de OZB en de afvalstoffenheffing te verlagen. Verlaging van lokale belastingen zoals OZB en afvalstoffenheffing om de inkomensdruk op bewoners te verlichten.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ozb",
+        "afvalstoffenheffing",
+        "belastingen"
+      ]
+    },
+    {
+      "text": "Meer handhavers, politie, straatcoaches en camera's in de openbare ruimte inzetten tegen intimidatie en criminaliteit.",
+      "originalText": "Meer handhavers, politie, straatcoaches en camera's in de openbare ruimte om intimidatie, criminaliteit en geweld aan te pakken.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhavers",
+        "politie",
+        "camera's",
+        "criminaliteit"
+      ]
+    },
+    {
+      "text": "Versnelling van woningbouw, met name betaalbare koopwoningen voor middeninkomens, gezinnen, studenten en ouderen.",
+      "originalText": "We gaan sneller en meer bouwen. We zetten vol in op betaalbare (koop)woningen voor middeninkomens, gezinnen, ouderen en studenten. Versnelling van woningbouw, met name betaalbare koopwoningen voor middeninkomens, gezinnen, studenten en ouderen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningbouw",
+        "betaalbare woningen",
+        "koopwoningen"
+      ]
+    },
+    {
+      "text": "Bouwpercentages loslaten en belemmerende bouwregels versoepelen.",
+      "originalText": "We laten de bouwpercentages los en stoppen met andere belemmerende regels. Bouwvoorwaarden aantrekkelijker maken door beperkende regels te versoepelen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bouwpercentages",
+        "bouwregels",
+        "versoepelen"
+      ]
+    },
+    {
+      "text": "Investeren in ondergronds parkeren en uitbreiding van P+R-faciliteiten.",
+      "originalText": "Om de stad bereikbaar te houden investeren we in ondergronds parkeren, het doortrekken van de Noord-Zuidlijn en twee bruggen over het IJ. Investeren in vervoersinfrastructuur: uitbreiding P+R-faciliteiten, meer ondergronds parkeren.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ondergronds parkeren",
+        "p+r",
+        "parkeren"
+      ]
+    },
+    {
+      "text": "Het doortrekken van de Noord-Zuidlijn realiseren.",
+      "originalText": "Om de stad bereikbaar te houden investeren we in ondergronds parkeren, het doortrekken van de Noord-Zuidlijn en twee bruggen over het IJ. steun voor belangrijke OV-projecten (o.a. doortrekken metrolijnen).",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "noord-zuidlijn",
+        "metro",
+        "doortrekken"
+      ]
+    },
+    {
+      "text": "Twee bruggen over het IJ bouwen.",
+      "originalText": "Om de stad bereikbaar te houden investeren we in ondergronds parkeren, het doortrekken van de Noord-Zuidlijn en twee bruggen over het IJ. Twee bruggen over het IJ.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bruggen",
+        "ij",
+        "infrastructuur"
+      ]
+    }
+  ]
+}

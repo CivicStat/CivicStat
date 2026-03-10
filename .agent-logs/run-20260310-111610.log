@@ -1,0 +1,23 @@
+2026-03-10T11:16:10+01:00 === Agent loop starting ===
+2026-03-10T11:16:11+01:00 Picked task: P1.5 Add TK2025 promise extraction + seeding for all 15 parties
+2026-03-10T11:16:11+01:00 Invoking Claude Code...
+Done. Here's what was done for **P1.5 — TK2025 promise seeding**:
+
+**What already existed:**
+- All 15 TK2025 promise JSON files (`vvd`, `pvv`, `gl-pvda`, `nsc`, `bbb`, `cda`, `d66`, `sp`, `pvdd`, `cu`, `fvd`, `sgp`, `denk`, `volt`, `ja21`) with 125–652 promises each (3,238 total)
+- The `seed-promises-json` command supporting `--year` flag
+
+**What was blocking seeding:**
+- `seedPromisesFromJson` hard-failed when no `Program` record existed for year 2025 — TK2025 program records had never been ingested via `ingestProgrammas`
+
+**Changes made:**
+1. **`packages/etl/src/scripts/seed-promises-json.ts`** — Replaced `findProgram` (which returned null → fail) with `findOrCreateProgram` that auto-creates a `Program` record from the JSON file's metadata (`title`, `sourceUrl`, `pdfHash`) when one doesn't exist, linking it to the `tweede-kamer` parliament
+2. **`packages/etl/src/index.ts`** — Added `seed-promises-tk2025` convenience command and updated help text
+
+**To seed all TK2025 promises, run:**
+```bash
+pnpm dev -- seed-promises-tk2025
+# or with options:
+pnpm dev -- seed-promises-json --year 2025 --dry-run
+```
+2026-03-10T11:18:58+01:00 Committing changes...

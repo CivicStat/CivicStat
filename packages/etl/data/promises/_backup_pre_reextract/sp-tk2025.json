@@ -1,0 +1,2571 @@
+{
+  "party": "SP",
+  "partySlug": "sp",
+  "program": "Super sociaal",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88738/",
+  "pdfHash": "e6f0c20bd2a5d20a2c2bdf4d360a67ca1f40993a01c077b5f739258c0691c78d",
+  "totalPromises": 166,
+  "promises": [
+    {
+      "promiseCode": "SP-2025-001",
+      "text": "Een miljoen extra betaalbare huurwoningen realiseren met een maximale huur van 800 euro via nieuwbouw, ombouw van leegstaande panden, splitsen, optoppen, terugkopen van dure huurwoningen en het voorkomen van sloop.",
+      "summary": "Een miljoen betaalbare huurwoningen met maximaal 800 euro huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurwoningen",
+        "nieuwbouw",
+        "maximumhuur",
+        "woningbouw",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 8",
+      "originalQuote": "We zorgen voor één miljoen extra betaalbare huurwoningen, met een maximale huur van 800 euro. Dat doen we via nieuwbouw, het ombouwen van leegstaande panden, splitsen, optoppen, het terugkopen van te dure huurwoningen en door sloop te voorkomen."
+    },
+    {
+      "promiseCode": "SP-2025-002",
+      "text": "Een Nationaal Woonfonds oprichten met 30 miljard euro investering in volkshuisvesting, gefinancierd door verhoging staatsschuld, voor het bouwen van betaalbare duurzame huurwoningen zonder winstoogmerk.",
+      "summary": "Nationaal Woonfonds van 30 miljard euro voor sociale woningbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaal woonfonds",
+        "staatsschuld",
+        "volkshuisvesting",
+        "investering",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 8",
+      "originalQuote": "Wij richten een Nationaal Woonfonds op en investeren 30 miljard euro in volkshuisvesting. Dit komt bovenop de al bestaande investeringen en dit doen we door de staatsschuld iets op te laten lopen."
+    },
+    {
+      "promiseCode": "SP-2025-003",
+      "text": "Huren bevriezen en het puntensysteem aanpassen zodat huurprijzen gebaseerd zijn op woningkwaliteit in plaats van WOZ-waarde schommelingen.",
+      "summary": "Huurbevriezing en aanpassing puntensysteem op basis van woningkwaliteit",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huurbevriezing",
+        "puntensysteem",
+        "woningkwaliteit",
+        "woz-waarde",
+        "huurprijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 8",
+      "originalQuote": "Om het tij te keren bevriezen wij daarom de huren. Ook passen we het puntensysteem aan: het gaat weer over de kwaliteit van de woning, niet over schommelingen in de WOZ-waarde die de huren kunstmatig opdrijven."
+    },
+    {
+      "promiseCode": "SP-2025-004",
+      "text": "De winstbelasting en ATAD-heffing voor woonverenigingen afschaffen zodat huurdersgeld weer geïnvesteerd kan worden in betaalbare huurwoningen, renovatie en verduurzaming.",
+      "summary": "Afschaffing winstbelasting en ATAD-heffing voor woonverenigingen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "winstbelasting",
+        "atad-heffing",
+        "woonverenigingen",
+        "renovatie",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 8",
+      "originalQuote": "Wij schaffen de oneerlijke winstbelasting en zogenaamde ATAD-heffing voor woonverenigingen af. Dat is geld van huurders en moet ook ten goede komen aan huurders, niet aan de staat."
+    },
+    {
+      "promiseCode": "SP-2025-005",
+      "text": "Sociale huur weer toegankelijk maken voor middeninkomens door de inperkingen van minister Blok terug te draaien, waarbij alleen de hoogste 25 procent van de inkomens wordt uitgesloten.",
+      "summary": "Sociale huur toegankelijk voor middeninkomens, alleen hoogste 25% uitgesloten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huur",
+        "middeninkomens",
+        "toegankelijkheid",
+        "inkomensgrens",
+        "woningtoewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 8",
+      "originalQuote": "In landen als Oostenrijk is dit al jaren de norm: in Wenen komt iedereen in aanmerking voor sociale huur, behalve de hoogste 25 procent van de inkomens. Dat werkt en dat willen wij ook in Nederland. We draaien de inperkingen van minister Blok terug."
+    },
+    {
+      "promiseCode": "SP-2025-006",
+      "text": "Van woningcorporaties weer verenigingen maken met een bestuur dat verantwoording aflegt aan huurders, zodat bewoners kunnen meebeslissen over renovatie, verduurzaming, verkoop en sloop.",
+      "summary": "Corporaties omvormen tot verenigingen met huurderszeggenschap",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningcorporaties",
+        "verenigingen",
+        "huurderszeggenschap",
+        "democratisering",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 8",
+      "originalQuote": "We maken van woningcorporaties weer verenigingen, met een bestuur dat verantwoording aflegt aan de huurders. Zo zorgen we dat bewoners samen beslissen over investeringen, onderhoud en toekomstige plannen."
+    },
+    {
+      "promiseCode": "SP-2025-007",
+      "text": "Nieuwe wet om het oprichten van wooncoöperaties te vereenvoudigen, zodat groepen mensen eenvoudig een eigen wooncoöperatie kunnen starten.",
+      "summary": "Nieuwe wet voor eenvoudigere oprichting wooncoöperaties",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wooncoöperatie",
+        "wet",
+        "oprichting",
+        "bewoners",
+        "zeggenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 9",
+      "originalQuote": "Met een nieuwe wet zorgen we ervoor dat groepen mensen eenvoudig een eigen wooncoöperatie kunnen starten."
+    },
+    {
+      "promiseCode": "SP-2025-008",
+      "text": "Gemeenten krijgen financiële ondersteuning om woningen te realiseren en meer bevoegdheden om de markt opzij te zetten.",
+      "summary": "Financiële steun en meer bevoegdheden voor gemeenten bij woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "financiële ondersteuning",
+        "woningen",
+        "bevoegdheden",
+        "markt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 9",
+      "originalQuote": "Wij ondersteunen gemeenten financieel om woningen te realiseren en geven ze meer bevoegdheden om de markt opzij te zetten"
+    },
+    {
+      "promiseCode": "SP-2025-009",
+      "text": "Tijdelijke huurcontracten worden afgeschaft om woonzekerheid te garanderen.",
+      "summary": "Afschaffing tijdelijke huurcontracten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tijdelijke huurcontracten",
+        "afschaffing",
+        "woonzekerheid",
+        "huren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 9",
+      "originalQuote": "Tijdelijke huurcontracten zorgen voor stress, onzekerheid en uitsluiting. Wij schaffen ze af"
+    },
+    {
+      "promiseCode": "SP-2025-010",
+      "text": "Huurders krijgen het recht om verduurzaming van hun woning af te dwingen en zelf verbeteringen voor te stellen als verhuurders niet in actie komen.",
+      "summary": "Recht voor huurders om verduurzaming af te dwingen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurders",
+        "verduurzaming",
+        "recht",
+        "verhuurder",
+        "verbeteringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 9",
+      "originalQuote": "Huurders krijgen het recht om verduurzaming van hun woning af te dwingen. Als een verhuurder niet in actie komt, moeten huurders zelf verbeteringen kunnen voorstellen en laten uitvoeren."
+    },
+    {
+      "promiseCode": "SP-2025-011",
+      "text": "Hypotheekrenteaftrek wordt direct versneld afgebouwd voor woningen boven 600 duizend euro, waardoor jaarlijks 5 tot 6 miljard euro vrijkomt voor betaalbare huurwoningen en startershuisvesting.",
+      "summary": "Afbouw hypotheekrenteaftrek boven €600k, opbrengst naar betaalbare woningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "afbouw",
+        "600 duizend euro",
+        "5-6 miljard",
+        "betaalbare huurwoningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "boven dit bedrag bouwen we de hypotheekrenteaftrek direct versneld af. Zo komt er jaarlijks 5 tot 6 miljard euro vrij. Dat geld investeren we in betaalbare huurwoningen"
+    },
+    {
+      "promiseCode": "SP-2025-012",
+      "text": "Speculanten die onnodig wachten met bouwen worden onteigend en grondeigenaren die grond vasthouden voor winst worden zwaarder belast.",
+      "summary": "Onteigening speculanten en zwaardere belasting grondbezitters",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onteigening",
+        "speculanten",
+        "grondeigenaren",
+        "belasting",
+        "grond"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "Speculanten die onnodig wachten met bouwen en hun belang boven die van de samenleving zetten zullen wij onteigenen. Grondeigenaren die grond vasthouden om winst te maken belasten we zwaarder."
+    },
+    {
+      "promiseCode": "SP-2025-013",
+      "text": "Leegstaande panden worden extra belast en gemeenten kunnen deze onteigenen als eigenaren geen plannen hebben om de panden geschikt te maken voor bewoning.",
+      "summary": "Extra belasting leegstand en onteigeningsmogelijkheid voor gemeenten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leegstand",
+        "belasting",
+        "onteigening",
+        "gemeenten",
+        "panden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "Leegstaande panden worden extra belast, zodat speculatie niet langer loont. Als eigenaren geen plannen hebben om de panden te gebruiken of geschikt te maken voor bewoning, kunnen gemeenten deze onteigenen."
+    },
+    {
+      "promiseCode": "SP-2025-014",
+      "text": "Landelijke woonplicht wordt ingevoerd en beleggers gaan meer overdrachtsbelasting betalen vanaf hun tweede huis.",
+      "summary": "Landelijke woonplicht en hogere overdrachtsbelasting voor beleggers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woonplicht",
+        "landelijk",
+        "beleggers",
+        "overdrachtsbelasting",
+        "tweede huis"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "We voeren een landelijke woonplicht in. Beleggers gaan meer overdrachtsbelasting betalen vanaf hun tweede huis."
+    },
+    {
+      "promiseCode": "SP-2025-015",
+      "text": "Het kraakverbod wordt opgeheven zodat leegstaande panden weer bewoond kunnen worden.",
+      "summary": "Opheffing kraakverbod",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kraakverbod",
+        "opheffing",
+        "leegstaande panden",
+        "bewoning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "Tot slot heffen we het kraakverbod op, zodat leegstaande panden weer bewoond kunnen worden."
+    },
+    {
+      "promiseCode": "SP-2025-016",
+      "text": "Dakloosheid wordt uitgebannen voor 2030 door Housing First-principe en wettelijke voorrang voor dakloze mensen bij sociale huurwoningen.",
+      "summary": "Uitbannen dakloosheid voor 2030 via Housing First",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dakloosheid",
+        "2030",
+        "housing first",
+        "voorrang",
+        "sociale huurwoningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "Wij kiezen wel voor een rechtvaardig en doortastend beleid met één helder doel: dakloosheid uitbannen voor 2030. We maken daarom wettelijk mogelijk dat alle dakloze mensen, ongeacht hun situatie, voorrang krijgen bij de toewijzing van sociale huurwoningen."
+    },
+    {
+      "promiseCode": "SP-2025-017",
+      "text": "Huisuitzettingen zonder alternatief worden verboden, kostendelersnorm en zelfredzaamheidscriterium worden afgeschaft.",
+      "summary": "Verbod huisuitzetting zonder alternatief, afschaffing kostendelersnorm",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huisuitzettingen",
+        "verbod",
+        "kostendelersnorm",
+        "zelfredzaamheidscriterium",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 10",
+      "originalQuote": "we verbieden huisuitzettingen zonder alternatief, schaffen de kostendelersnorm en het zelfredzaamheidscriterium af"
+    },
+    {
+      "promiseCode": "SP-2025-018",
+      "text": "Vergunningplicht voor verhuurders wordt ingesteld, gekoppeld aan kwaliteitseisen, waarbij huisjesmelkers hun vergunning verliezen bij misstanden.",
+      "summary": "Vergunningplicht verhuurders met kwaliteitseisen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningplicht",
+        "verhuurders",
+        "kwaliteitseisen",
+        "huisjesmelkers",
+        "misstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 11",
+      "originalQuote": "We stellen een vergunningplicht in voor verhuurders, gekoppeld aan duidelijke kwaliteitseisen. Bij misstanden moeten gemeenten direct ingrijpen. Huisjesmelkers verliezen hun vergunning."
+    },
+    {
+      "promiseCode": "SP-2025-019",
+      "text": "Aanbestedingen in de zorg worden gestopt, budgetplafonds en winstuitkering in de zorg worden verboden.",
+      "summary": "Stop aanbestedingen, verbod winstuitkering zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aanbestedingen",
+        "budgetplafonds",
+        "winstuitkering",
+        "zorg",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 12",
+      "originalQuote": "We stoppen met aanbestedingen, verbieden budgetplafonds, verbieden winstuitkering in de zorg"
+    },
+    {
+      "promiseCode": "SP-2025-020",
+      "text": "Zorgbestuurders en verleners verdienen nooit meer dan de minister-president.",
+      "summary": "Salarisnorm zorgbestuurders op niveau minister-president",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgbestuurders",
+        "salaris",
+        "minister-president",
+        "maximum"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 12",
+      "originalQuote": "Zorgbestuurders en verleners verdienen nooit meer dan de minister-president."
+    },
+    {
+      "promiseCode": "SP-2025-021",
+      "text": "De rijksoverheid krijgt wettelijke plicht om te zorgen voor evenwichtige spreiding van toegankelijke zorgvoorzieningen in alle regio's.",
+      "summary": "Wettelijke plicht rijksoverheid voor zorgverdeling over regio's",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rijksoverheid",
+        "wettelijke plicht",
+        "zorgvoorzieningen",
+        "spreiding",
+        "regio's"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 12",
+      "originalQuote": "De rijksoverheid krijgt de wettelijke plicht om te zorgen voor een evenwichtige spreiding van toegankelijke zorgvoorzieningen in alle regio's."
+    },
+    {
+      "promiseCode": "SP-2025-022",
+      "text": "Eigen bijdrage voor kraamzorg wordt afgeschaft.",
+      "summary": "Afschaffing eigen bijdrage kraamzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen bijdrage",
+        "kraamzorg",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 12",
+      "originalQuote": "schaffen de eigen bijdrage voor kraamzorg af"
+    },
+    {
+      "promiseCode": "SP-2025-023",
+      "text": "Totaalverbod op private equity in de zorg wordt ingevoerd.",
+      "summary": "Totaalverbod private equity in zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "totaalverbod",
+        "private equity",
+        "zorg",
+        "commerciële bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 12",
+      "originalQuote": "Er komt een totaalverbod op private equity in de zorg."
+    },
+    {
+      "promiseCode": "SP-2025-024",
+      "text": "De SP wil een investeringskabinet dat fors en duurzaam investeert in cruciale infrastructuur, volkshuisvesting, onderwijs en innovatie via de rijksbegroting, een Nationale Investeringsbank en een Investeringsfonds voor Vooruitgang.",
+      "summary": "Investeringskabinet met Nationale Investeringsbank en Investeringsfonds voor Vooruitgang",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringskabinet",
+        "infrastructuur",
+        "investeringsbank",
+        "investeringsfonds",
+        "volkshuisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 16",
+      "originalQuote": "Nederland heeft een regering nodig die fors en duurzaam gaat investeren in cruciale infrastructuur, volkshuisvesting, onderwijs en innovatie. En zo de economie en de positie van werknemers structureel versterkt. Dit doen we onder andere via de rijksbegroting, een Nationale Investeringsbank en een Investeringsfonds voor Vooruitgang."
+    },
+    {
+      "promiseCode": "SP-2025-025",
+      "text": "De SP voert een groot infrastructureel investeringsplan door dat procedures versnelt en de bouw van woningen, energievoorziening, spoor en drinkwatervoorziening versnelt.",
+      "summary": "Groot infrastructureel investeringsplan voor woningen, energie, spoor en water",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infrastructuur",
+        "investeringsplan",
+        "woningbouw",
+        "energievoorziening",
+        "spoor",
+        "drinkwater"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 16",
+      "originalQuote": "We voeren een groot infrastructureel investeringsplan door. Dit investeringsplan versnelt procedures en de bouw van woningen, de energievoorziening, het spoor en de drinkwatervoorziening, waarmee structureel de toekomstige economie van het moderne Nederland wordt versterkt."
+    },
+    {
+      "promiseCode": "SP-2025-026",
+      "text": "De SP accepteert geen privatiseringen en pakt waar nodig zeggenschap weer terug om de schokbestendigheid van de economie te waarborgen.",
+      "summary": "Geen privatiseringen, terugpakken zeggenschap voor economische stabiliteit",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "privatiseringen",
+        "zeggenschap",
+        "leveringszekerheid",
+        "schokbestendigheid",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 16",
+      "originalQuote": "We accepteren daarom geen privatiseringen. Die maken op de lange termijn de veiligheid en leveringszekerheid van cruciale producten en diensten onzeker, waardoor de schokbestendigheid van onze economie onder druk komt te staan. Waar nodig pakken we zeggenschap weer terug."
+    },
+    {
+      "promiseCode": "SP-2025-027",
+      "text": "De SP gaat prijzen van basisproducten zoals gezond eten, medicijnen, energie en internet controleren, reguleren en blokkeren om hoge monopolieprijzen tegen te gaan.",
+      "summary": "Prijscontrole en -regulatie voor basisproducten tegen monopolieprijzen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "prijscontrole",
+        "basisproducten",
+        "monopolie",
+        "voedsel",
+        "medicijnen",
+        "energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 16",
+      "originalQuote": "We gaan de prijzen van basisproducten, zoals gezond eten, medicijnen, energie en internet, controleren, reguleren en blokkeren. In goede samenwerking met de verkopers als het kan, of met overheidsingrijpen als het moet."
+    },
+    {
+      "promiseCode": "SP-2025-028",
+      "text": "De SP versterkt de Autoriteit Consument en Markt (ACM) met meer bevoegdheden en plichten om marktconcentratie tegen te gaan en innovatie te bevorderen.",
+      "summary": "Versterking ACM met meer bevoegdheden tegen marktconcentratie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "acm",
+        "marktmacht",
+        "concentratie",
+        "bevoegdheden",
+        "innovatie",
+        "toezichthouders"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 16",
+      "originalQuote": "Daarom versterken we de Autoriteit Consument en Markt (ACM) en geven dit instituut meer bevoegdheden en plichten om op te treden. Ook worden andere toezichthouders versterkt om misstanden aan te pakken, zodat de goeden niet onder de kwaden lijden."
+    },
+    {
+      "promiseCode": "SP-2025-029",
+      "text": "De SP schaft geheime belastingafspraken en -kortingen voor multinationals af en vervolgt bestuurders die belasting ontduiken strafrechtelijk.",
+      "summary": "Afschaffen geheime belastingdeals multinationals, strafrechtelijke vervolging ontduikers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "multinationals",
+        "belastingafspraken",
+        "belastingontduiking",
+        "strafrechtelijk",
+        "bestuurders"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 16",
+      "originalQuote": "We schaffen geheime afspraken en belasting kortingen af. De bestuurders van bedrijven die belasting ontduiken worden strafrechtelijk vervolgd."
+    },
+    {
+      "promiseCode": "SP-2025-030",
+      "text": "Private equity wordt verboden in cruciale publieke sectoren zoals zorg, farmacie, kinderopvang, volkshuisvesting, energie, openbaar vervoer en onderwijs om deze te beschermen tegen overnames door private equity-beleggers die op korte termijn hoge rendementen nastreven.",
+      "summary": "Verbod private equity in publieke sectoren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "private equity",
+        "publieke sector",
+        "zorg",
+        "kinderopvang",
+        "energie",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 17",
+      "originalQuote": "We verbieden private equity in de publieke sector. Cruciale en publieke sectoren zoals de zorg, farmacie, kinderopvang, volkshuisvesting, energie, openbaar vervoer en ons onderwijs moeten beschermd worden tegen overnames door private equity­beleggers."
+    },
+    {
+      "promiseCode": "SP-2025-031",
+      "text": "Een Nationaal Onderzoeksfonds Geneesmiddelen oprichten waarbij ontwikkelde medicijnen in publieke handen blijven. Ook wordt een strategische voorraad aangelegd voor beschermingsmiddelen en cruciale medicijnen.",
+      "summary": "Nationaal Onderzoeksfonds Geneesmiddelen oprichten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderzoeksfonds",
+        "geneesmiddelen",
+        "strategische voorraad",
+        "medicijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 17",
+      "originalQuote": "Een Nationaal Onderzoeksfonds Geneesmiddelen oprichten. We richten een Nationaal Onderzoeksfonds Geneesmiddelen op. De medicijnen die daar worden ontwikkeld, blijven in publieke handen. Ook leggen we een strategische voorraad aan voor beschermingsmiddelen en cruciale medicijnen."
+    },
+    {
+      "promiseCode": "SP-2025-032",
+      "text": "Een Nationale Betaal- en Spaarbank oprichten als publieke bank waar spaargeld veilig is en niet wordt gespeculeerd. Ook komt er acceptatieplicht voor contant geld en kunnen mensen hun rekeningnummer meenemen bij bankwissel.",
+      "summary": "Nationale Betaal- en Spaarbank oprichten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "publieke bank",
+        "spaarbank",
+        "betaalbank",
+        "acceptatieplicht",
+        "contant geld"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 17",
+      "originalQuote": "Een Nationale Betaal- en Spaarbank. We richten een Nationale Betaal­ en Spaarbank op, een publieke bank waar ons spaargeld en betaalverkeer veilig zijn en waar niet met ons geld wordt gespeculeerd."
+    },
+    {
+      "promiseCode": "SP-2025-033",
+      "text": "Een vierdaagse werkweek invoeren waarbij het salaris gelijk blijft en deeltijders naar verhouding een salarisverhoging krijgen om een einde te maken aan doorgeslagen werkdruk en burnouts te voorkomen.",
+      "summary": "Vierdaagse werkweek invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vierdaagse werkweek",
+        "salaris",
+        "werkdruk",
+        "burnout"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 17",
+      "originalQuote": "We voeren een 4-daagse werkweek in. We leven niet om te werken. We werken om te leven. Een echte vierdaagse werkweek maakt een einde aan de doorgeslagen werkdruk."
+    },
+    {
+      "promiseCode": "SP-2025-034",
+      "text": "Kinderopvang wordt gratis gemaakt voor alle kinderen. Het werk in de kinderopvang moet aantrekkelijker en kleinschaliger worden met betere lonen en lagere werkdruk.",
+      "summary": "Gratis kinderopvang invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis kinderopvang",
+        "kleinschalig",
+        "lonen",
+        "werkdruk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 17",
+      "originalQuote": "Gratis kinderopvang. Alle kinderen hebben recht om een goede en sociale basis mee te krijgen op de kinderopvang. En ouders moeten de ruimte hebben voor werk, zorg en elkaar. Daarom maken we de kinderopvang gratis."
+    },
+    {
+      "promiseCode": "SP-2025-035",
+      "text": "Een Innovatiewet invoeren die inzet op onderzoek, onderwijs, vakopleidingen, AI, automatisering en robotisering voor zwaar en repeterend werk om arbeidsproductiviteit te verhogen.",
+      "summary": "Innovatiewet voor sterke economie invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "innovatiewet",
+        "onderzoek",
+        "vakopleidingen",
+        "automatisering",
+        "arbeidsproductiviteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 17",
+      "originalQuote": "Een innovatiewet voor een sterke economie. Met een Innovatiewet zetten we in op onderzoek, onderwijs en vakopleidingen, AI, automatisering en robotisering voor zwaar en repeterend werk."
+    },
+    {
+      "promiseCode": "SP-2025-036",
+      "text": "Een Nationale Investeringsbank voor het mkb oprichten zodat kleine en startende bedrijven gemakkelijker kunnen lenen en ondersteund worden bij opbouw van hun zaak en innovatie.",
+      "summary": "Nationale Investeringsbank voor mkb oprichten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringsbank",
+        "mkb",
+        "kleine bedrijven",
+        "innovatie",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 18",
+      "originalQuote": "Een investeringbank voor het mkb. Met een Nationale Investeringsbank voor het mkb kunnen kleine en startende bedrijven, evenals bedrijven die hun succesvolle diensten willen opschalen, gemakkelijker lenen."
+    },
+    {
+      "promiseCode": "SP-2025-037",
+      "text": "Het wettelijk minimumloon verhogen naar 18 euro per uur met een wettelijke ondergrens van 60 procent van het mediane loon van voltijds werkenden. Alle gekoppelde uitkeringen stijgen mee.",
+      "summary": "Minimumloon naar 18 euro per uur verhogen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "18 euro",
+        "mediane loon",
+        "uitkeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 19",
+      "originalQuote": "We verhogen het minimumloon direct naar 18 euro per uur en er komt een wettelijke ondergrens van 60 procent van het mediane loon van voltijds werkenden. Alle gekoppelde uitkeringen stijgen mee."
+    },
+    {
+      "promiseCode": "SP-2025-038",
+      "text": "De AOW-leeftijd verlagen naar 65 jaar zodat iedereen het recht heeft om te kunnen stoppen met werken vanaf 65 jaar. Werknemers krijgen het recht om ook na hun 65ste door te kunnen werken als ze daar zelf voor kiezen.",
+      "summary": "AOW-leeftijd naar 65 jaar verlagen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow-leeftijd",
+        "65 jaar",
+        "pensioen",
+        "doorwerken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 19",
+      "originalQuote": "We verlagen de AOW-leeftijd naar 65 jaar. Iedereen moet het recht hebben om te kunnen stoppen met werken vanaf 65 jaar."
+    },
+    {
+      "promiseCode": "SP-2025-039",
+      "text": "3 miljard euro aan problematische schulden kwijtschelden en een landelijk aanvalsplan opstellen om schulden te voorkomen en bestrijden. Verdienmodellen achter commerciële schuldenindustrie worden verboden.",
+      "summary": "3 miljard schulden kwijtschelden en aanvalsplan",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schulden",
+        "3 miljard",
+        "kwijtschelding",
+        "aanvalsplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 20",
+      "originalQuote": "We schelden 3 miljard euro aan problematische schulden van mensen kwijt en er komt een landelijk aanvalsplan om schulden te voorkomen en te bestrijden."
+    },
+    {
+      "promiseCode": "SP-2025-040",
+      "text": "Investeren in werkontwikkelbedrijven om minimaal 40 duizend extra banen te creëren binnen deze bedrijven met volwaardig loon en goede cao voor mensen op beschutte werkplekken.",
+      "summary": "40 duizend extra banen in werkontwikkelbedrijven",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkontwikkelbedrijven",
+        "40 duizend banen",
+        "beschutte werkplekken",
+        "cao"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 20",
+      "originalQuote": "We investeren in werkontwikkelbedrijven waarmee we zorgen voor minimaal 40 duizend extra banen binnen deze bedrijven."
+    },
+    {
+      "promiseCode": "SP-2025-041",
+      "text": "In bedrijven moet altijd ten minste één bestuurder zitten die is verkozen door werknemers. In bedrijven met meer dan honderd werknemers krijgen werknemers allemaal één stem om de helft van de raad van commissarissen te kiezen, de andere helft wordt gekozen door aandeelhouders.",
+      "summary": "Werknemersvertegenwoordiging in bedrijfsbestuur en raad van commissarissen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werknemersvertegenwoordiging",
+        "bedrijfsbestuur",
+        "commissarissen",
+        "democratisering",
+        "medezeggenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 21",
+      "originalQuote": "in het bestuur van een bedrijf altijd ten minste één bestuurder moet zitten die is verkozen door de werknemers die aan hen verantwoording moet afleggen. Werknemers krijgen in bedrijven met meer dan honderd werknemers allemaal één stem waarmee ze de raad van commissarissen mogen kiezen."
+    },
+    {
+      "promiseCode": "SP-2025-042",
+      "text": "Werknemers krijgen een gouden aandeel in hun bedrijf, wat betekent dat zij een beslissende stem krijgen bij strategisch cruciale beslissingen zoals sluiting, verplaatsing en fusies.",
+      "summary": "Gouden aandeel werknemers bij strategische bedrijfsbeslissingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gouden aandeel",
+        "werknemers",
+        "bedrijfssluiting",
+        "fusies",
+        "medezeggenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 21",
+      "originalQuote": "Werknemers krijgen een gouden aandeel in het bedrijf waar zij werken. Dit betekent dat zij een beslissende stem krijgen bij strategisch cruciale beslissingen zoals sluiting, verplaatsing en fusies."
+    },
+    {
+      "promiseCode": "SP-2025-043",
+      "text": "CAO-afspraken kunnen alleen namens werknemers gemaakt worden door vakbonden waarvan de inkomsten voor meer dan 40 procent uit contributie afkomstig zijn. CAO's kunnen alleen algemeen verbindend worden verklaard wanneer betrokken vakbonden minimaal 25 procent van de vakbondsleden in de sector vertegenwoordigen.",
+      "summary": "Strengere eisen voor cao-onderhandelingen door onafhankelijke vakbonden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cao",
+        "vakbonden",
+        "contributie",
+        "algemeen verbindend",
+        "vertegenwoordiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 21",
+      "originalQuote": "cao-afspraken alleen namens werknemers gemaakt kunnen worden in een vakbond met inkomsten die voor meer dan 40 procent uit contributie afkomstig zijn [...] een cao alleen algemeen verbindend kan worden verklaard wanneer de betrokken vakbond(en) alleen of gezamenlijk minimaal 25 procent van de bij een vakbond aangesloten leden in de sector vertegenwoordigen."
+    },
+    {
+      "promiseCode": "SP-2025-044",
+      "text": "Salarissen, bonussen en overige beloningen van alle bestuurders mogen opgeteld nooit meer zijn dan tien keer de beloning van de laagstbetaalde werknemer. Topbestuurderssalarissen worden onder een cao gebracht.",
+      "summary": "Maximumverhouding van 1:10 tussen top- en laagste salarissen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "topbestuurders",
+        "salarissen",
+        "beloningsverhoudingen",
+        "cao",
+        "inkomensongelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 21",
+      "originalQuote": "Salarissen, bonussen en overige beloningen van alle bestuurders mogen opgeteld nooit méér zijn dan tien keer de beloning van de laagstbetaalde werknemer."
+    },
+    {
+      "promiseCode": "SP-2025-045",
+      "text": "Nederland weigert de nieuwe NAVO-norm waarbij 5% van het BNI wordt uitgegeven aan defensie. Deze 'Trump-norm' leidt tot een wereldwijde wapenwedloop en komt vooral de Amerikaanse wapenindustrie ten goede.",
+      "summary": "Afwijzing NAVO-norm van 5% BNI voor defensie-uitgaven",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "navo-norm",
+        "defensie-uitgaven",
+        "bni",
+        "wapenwedloop",
+        "trump-norm"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 22",
+      "originalQuote": "De SP is tegen de nieuwe NAVO-norm voor defensie-uitgaven waarbij de Amerikaanse president Trump van ons eist dat wij 5% van alles wat we samen in Nederland verdienen uitgeven aan wapens."
+    },
+    {
+      "promiseCode": "SP-2025-046",
+      "text": "Nederland ondertekent het VN-verdrag voor het verbod op kernwapens en verwijdert Amerikaanse kernwapens van Nederlandse bodem. Er moet een verbod komen op dodelijke autonome wapens.",
+      "summary": "Ondertekening kernwapenverbod en verwijdering Amerikaanse kernwapens",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kernwapens",
+        "vn-verdrag",
+        "autonome wapens",
+        "ontwapening",
+        "nucleair"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 23",
+      "originalQuote": "We ondertekenen het VN-verdrag voor het verbod op kernwapens. Wij verwijderen de Amerikaanse kernwapens van de Nederlandse bodem. Er moet een verbod komen op dodelijke autonome wapens"
+    },
+    {
+      "promiseCode": "SP-2025-047",
+      "text": "Volledig wapenembargo tegen Israël, opschorting EU-associatieakkoord, algeheel handelsboycot, opschorting belastingverdrag en sancties tegen alle leden van het kabinet Netanyahu om genocide te stoppen.",
+      "summary": "Uitgebreide sancties tegen Israël wegens genocide in Gaza",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wapenembargo",
+        "israël",
+        "sancties",
+        "handelsboycot",
+        "genocide",
+        "gaza"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 23",
+      "originalQuote": "een volledig wapenembargo, opschorting van het EU-associatieakkoord met Israël en een algeheel handelsboycot [...] We schorten het belastingverdrag met Israël op [...] sancties komen specifiek gericht tegen alle leden van het kabinet Netanyahu."
+    },
+    {
+      "promiseCode": "SP-2025-048",
+      "text": "Nederland moet minstens 0,7 procent van het BNI uitgeven aan ontwikkelingssamenwerking voor democratisering, vredesopbouw, ondersteuning werkende klasse, mensenrechten, onderwijs, zorg en infrastructuur.",
+      "summary": "Minimaal 0,7% BNI voor ontwikkelingssamenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "bni",
+        "democratisering",
+        "vredesopbouw",
+        "mensenrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 24",
+      "originalQuote": "Nederland moet minstens 0,7 procent van het BNI uitgeven aan ontwikkelingssamenwerking"
+    },
+    {
+      "promiseCode": "SP-2025-049",
+      "text": "Er moet nationale antiwegkijk wetgeving (IMVO) komen die grote bedrijven verantwoordelijk maakt voor ernstige misstanden in hun toeleveringsketen, inclusief schendingen van mensen- en arbeidsrechten en milieuverontreiniging.",
+      "summary": "Nationale wetgeving tegen misstanden in bedrijfsketens",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "imvo",
+        "toeleveringsketen",
+        "bedrijven",
+        "mensenrechten",
+        "arbeidsrechten",
+        "milieuverontreiniging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 24",
+      "originalQuote": "Tot die tijd moet er nationale antiwegkijk wetgeving (IMVO) komen [...] Er moet wetgeving komen die grote bedrijven verantwoordelijk maakt voor ernstige misstanden in hun toeleveringsketen."
+    },
+    {
+      "promiseCode": "SP-2025-050",
+      "text": "Een nieuw democratisch EU-verdrag waarbij de Europese Commissie wordt verkleind en bevoegdheden afstaat aan het Europees Parlement en lidstaten. Het nieuwe verdrag wordt in een referendum aan de bevolking voorgelegd.",
+      "summary": "Nieuw EU-verdrag met verkleinde Commissie en referendum",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eu-verdrag",
+        "europese commissie",
+        "europees parlement",
+        "referendum",
+        "democratisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 24-25",
+      "originalQuote": "De Europese Commissie wordt verkleind en moet bevoegdheden afstaan aan het Europees Parlement en de lidstaten [...] Het nieuwe verdrag wordt in een referendum voorgelegd aan de bevolking."
+    },
+    {
+      "promiseCode": "SP-2025-051",
+      "text": "Het netto migratiesaldo verlagen tot circa 40 duizend per jaar om bevolkingsgroei beheersbaar te houden en voorzieningen op peil te laten blijven.",
+      "summary": "Migratiesaldo verlagen naar 40.000 per jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "migratiesaldo",
+        "bevolkingsgroei",
+        "voorzieningen",
+        "beheersbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 26",
+      "originalQuote": "Daarom is het nodig om het totale netto 'migratiesaldo' te verlagen tot circa 40 duizend per jaar."
+    },
+    {
+      "promiseCode": "SP-2025-052",
+      "text": "De voorstellen van de commissie Roemer per direct doorvoeren en de aantallen arbeidsmigranten fors terugschroeven.",
+      "summary": "Voorstellen commissie Roemer direct doorvoeren",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "commissie",
+        "roemer",
+        "arbeidsmigranten",
+        "voorstellen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 26",
+      "originalQuote": "Daarom worden de voorstellen van de commissie Roemer per direct doorgevoerd en ook de aantallen arbeidsmigranten fors teruggeschroefd."
+    },
+    {
+      "promiseCode": "SP-2025-053",
+      "text": "Werkvergunningen invoeren voor arbeidsmigranten, waarbij het maximaal aantal gebaseerd wordt op de capaciteit van de arbeidsinspectie.",
+      "summary": "Werkvergunningen invoeren voor arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkvergunningen",
+        "arbeidsmigranten",
+        "arbeidsinspectie",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 26",
+      "originalQuote": "Het maximaal aantal arbeidsmigranten wordt gebaseerd op basis van de capaciteit van de arbeidsinspectie. We moeten arbeidsmigranten weer registeren en zo snel als mogelijk werkvergunningen invoeren."
+    },
+    {
+      "promiseCode": "SP-2025-054",
+      "text": "Werkgevers verplichten aan te tonen dat zij beslist mensen uit andere landen nodig hebben en er voldoende en goede huisvesting beschikbaar is.",
+      "summary": "Werkgevers moeten noodzaak arbeidsmigranten aantonen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkgevers",
+        "noodzaak",
+        "huisvesting",
+        "aantonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 26",
+      "originalQuote": "Werkgevers worden verplicht om aan te tonen dat zij beslist mensen uit andere landen nodig hebben en er voldoende en goede huisvesting beschikbaar is."
+    },
+    {
+      "promiseCode": "SP-2025-055",
+      "text": "Werkgevers of bemiddelaars die arbeidsmigranten naar Nederland halen worden verantwoordelijk voor kosten van huisvesting en zorgverzekering, ook na afloop van het werk. Ketenaansprakelijkheid wordt toegepast.",
+      "summary": "Werkgevers verantwoordelijk voor huisvesting en zorg arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkgevers",
+        "bemiddelaars",
+        "huisvesting",
+        "zorgverzekering",
+        "ketenaansprakelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 26",
+      "originalQuote": "Werkgevers of bemiddelaars die arbeidsmigranten naar Nederland halen zijn verantwoordelijk voor de kosten van huisvesting en zorgverzekering zolang de arbeidsmigrant in Nederland verblijft, dus ook na afloop van het werk. Hierbij wordt ketenaansprakelijkheid toegepast."
+    },
+    {
+      "promiseCode": "SP-2025-056",
+      "text": "De Arbeidsinspectie uitbreiden en een vergunningstelsel voor uitzendbureaus invoeren. Bij misstanden worden bedrijven of uitzendbureaus gesloten.",
+      "summary": "Arbeidsinspectie uitbreiden en vergunningstelsel uitzendbureaus",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsinspectie",
+        "vergunningstelsel",
+        "uitzendbureaus",
+        "misstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 27",
+      "originalQuote": "De Arbeidsinspectie moet uitgebreid worden en er komt een vergunningstelsel voor uitzendbureaus. Bij misstanden sluiten we bedrijven of uitzendbureaus."
+    },
+    {
+      "promiseCode": "SP-2025-057",
+      "text": "Een verbod invoeren op de bouw van nog meer grootschalige huisvestingslocaties voor arbeidsmigranten. Inzetten op kleinere en verspreide huisvesting.",
+      "summary": "Verbod grootschalige huisvesting arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbod",
+        "grootschalige",
+        "huisvesting",
+        "kleinschalige"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 27",
+      "originalQuote": "Er moet een verbod komen op de bouw van nog meer grootschalige huisvestingslocaties. We zetten in op kleinere en verspreide huisvesting met de menselijke maat, integratie en verbinding met de omgeving voorop."
+    },
+    {
+      "promiseCode": "SP-2025-058",
+      "text": "Een deel van het studieaanbod, vooral bacheloropleidingen, moet verplicht in het Nederlands gegeven worden.",
+      "summary": "Deel studieaanbod verplicht in Nederlands",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studieaanbod",
+        "bacheloropleidingen",
+        "nederlands",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 27",
+      "originalQuote": "Daarnaast moet een deel van het studieaanbod, vooral wat betreft bacheloropleidingen, verplicht in het Nederlands gegeven worden."
+    },
+    {
+      "promiseCode": "SP-2025-059",
+      "text": "Belastingvoordelen voor expats afschaffen. Expats krijgen nu bijna een derde van hun loon onbelast uitbetaald.",
+      "summary": "Belastingvoordelen expats afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingvoordelen",
+        "expats",
+        "afschaffen",
+        "onbelast"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 27",
+      "originalQuote": "Belastingvoordelen voor expats schaffen we af. Expats die in Nederland werken, krijgen bijna een derde van hun loon onbelast uitbetaald."
+    },
+    {
+      "promiseCode": "SP-2025-060",
+      "text": "De wettelijke beslistermijn voor een asielprocedure moet in maximaal zes maanden zijn afgerond.",
+      "summary": "Asielprocedures maximaal zes maanden",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielprocedures",
+        "beslistermijn",
+        "zes maanden",
+        "afgerond"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 27",
+      "originalQuote": "De wettelijke beslistermijn voor een asielprocedure moet in maximaal zes maanden zijn afgerond."
+    },
+    {
+      "promiseCode": "SP-2025-061",
+      "text": "Het aanmeldcentrum in Ter Apel wordt zorgvuldig afgebouwd tot een schaal die beter past bij de omgeving. Twee kleinere aanmeldcentra overwegen.",
+      "summary": "Ter Apel afschalen naar kleinere omvang",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ter apel",
+        "afschalen",
+        "aanmeldcentrum",
+        "kleinere"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 27",
+      "originalQuote": "Het aanmeldcentrum in Ter Apel wordt zorgvuldig afgebouwd tot een schaal die beter past bij de omgeving. Te denken valt aan twee kleinere aanmeldcentra."
+    },
+    {
+      "promiseCode": "SP-2025-062",
+      "text": "Nieuwe opvanglocaties worden niet groter dan vijftig tot honderd bewoners. Bij behoefte aan nieuwe opvanglocaties starten bij de rijkste gemeenten.",
+      "summary": "Opvanglocaties maximaal 50-100 bewoners",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opvanglocaties",
+        "vijftig",
+        "honderd",
+        "bewoners",
+        "rijkste gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 28",
+      "originalQuote": "Nieuwe opvanglocaties worden niet groter dan vijftig tot honderd bewoners. Bij behoefte aan nieuwe opvanglocaties starten we bij de rijkste gemeenten."
+    },
+    {
+      "promiseCode": "SP-2025-063",
+      "text": "De afspraken uit de Kinderpardonregeling moeten worden nagekomen. In Nederland gewortelde kinderen moeten alsnog een verblijfsvergunning krijgen.",
+      "summary": "Kinderpardonregeling nakomen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderpardonregeling",
+        "afspraken",
+        "gewortelde kinderen",
+        "verblijfsvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 28",
+      "originalQuote": "De afspraken uit de Kinderpardonregeling moeten worden nagekomen. De in ons land gewortelde kinderen die nog steeds niet weten waar ze aan toe zijn, moeten alsnog een verblijfsvergunning krijgen."
+    },
+    {
+      "promiseCode": "SP-2025-064",
+      "text": "Meer capaciteit bij de Dienst Terugkeer en Vertrek. Over terugkeer worden, indien mogelijk in EU-verband, afspraken gemaakt met de landen van herkomst.",
+      "summary": "Meer capaciteit Dienst Terugkeer en Vertrek",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "capaciteit",
+        "dienst",
+        "terugkeer",
+        "vertrek",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 28",
+      "originalQuote": "Meer capaciteit bij de Dienst Terugkeer en Vertrek is nodig. Over terugkeer worden, indien mogelijk in EU-verband, afspraken gemaakt met de landen van herkomst."
+    },
+    {
+      "promiseCode": "SP-2025-065",
+      "text": "Iedereen die naar Nederland komt en hier komt wonen moet vanaf dag één de Nederlandse taal leren en toewerken naar taalniveau B1.",
+      "summary": "Nederlandse taal leren vanaf dag één, niveau B1",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlandse taal",
+        "dag één",
+        "taalniveau",
+        "b1"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 29",
+      "originalQuote": "Daarom is het belangrijk dat iedereen die naar Nederland komt en hier komt wonen, ongeacht of je vluchteling, expat, arbeids-, kennis- of studiemigrant bent, vanaf dag één de taal leert. Iedereen moet toewerken naar taalniveau B1."
+    },
+    {
+      "promiseCode": "SP-2025-066",
+      "text": "Het lumpsumsysteem wordt afgeschaft. De overheid gaat opnieuw rechtstreeks investeren in personeel, materiaal en huisvesting op basis van transparante en controleerbare afspraken.",
+      "summary": "Lumpsumfinanciering afschaffen voor directe overheidsfinanciering",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lumpsum",
+        "onderwijsfinanciering",
+        "overheidsregie",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 30",
+      "originalQuote": "Wij schaffen de lumpsumfinanciering af en zorgen ervoor dat onderwijsgeld weer daar terechtkomt waar het hoort: in de klas. De overheid gaat opnieuw rechtstreeks investeren in personeel, materiaal en huisvesting, op basis van transparante en controleerbare afspraken."
+    },
+    {
+      "promiseCode": "SP-2025-067",
+      "text": "De maximale klassengrootte wordt verlaagd naar maximaal 21 leerlingen per klas in het basis- en voortgezet onderwijs binnen enkele jaren, te beginnen op scholen met de grootste achterstanden.",
+      "summary": "Maximaal 21 leerlingen per klas binnen enkele jaren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klassengrootte",
+        "leerlingen",
+        "basisonderwijs",
+        "voortgezet onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 30",
+      "originalQuote": "Ons doel: binnen enkele jaren maximaal 21 leerlingen per klas in het basis­ en voortgezet onderwijs."
+    },
+    {
+      "promiseCode": "SP-2025-068",
+      "text": "Een gratis, gezond ontbijt en lunch wordt ingevoerd op alle basisscholen zodat elk kind de energie krijgt om te leren, spelen en groeien.",
+      "summary": "Gratis ontbijt en lunch op alle basisscholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolmaaltijden",
+        "basisscholen",
+        "voeding",
+        "gelijke kansen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "Daarom zorgen we voor een gratis, gezond ontbijt én lunch op alle basisscholen. Zo krijgt elk kind de energie om te leren, spelen en groeien."
+    },
+    {
+      "promiseCode": "SP-2025-069",
+      "text": "Er komt een wettelijk recht op minimaal één bibliotheek per gemeente. In grotere gemeenten worden voldoende vestigingen gerealiseerd voor bereikbaarheid.",
+      "summary": "Wettelijk recht op minimaal één bibliotheek per gemeente",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheek",
+        "wettelijk recht",
+        "gemeente",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "Daarom komt er een wettelijk recht op minstens één bibliotheek per gemeente. In grotere gemeenten zorgen we voor voldoende vestigingen, zodat bibliotheken voor iedereen bereikbaar zijn."
+    },
+    {
+      "promiseCode": "SP-2025-070",
+      "text": "Schoolzwemmen wordt teruggebracht op elke basisschool, publiek georganiseerd zodat scholen niet extra belast worden.",
+      "summary": "Schoolzwemmen terug op elke basisschool",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "basisscholen",
+        "publieke organisatie",
+        "zwemvaardigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "Daarom brengen we schoolzwemmen terug op elke basisschool. Dit organiseren we publiek, zodat scholen niet extra belast worden."
+    },
+    {
+      "promiseCode": "SP-2025-071",
+      "text": "De vrijwillige ouderbijdrage wordt volledig afgeschaft. Scholen krijgen hiervoor een eerlijk bedrag van de overheid om activiteiten voor alle kinderen te organiseren.",
+      "summary": "Ouderbijdrage volledig afgeschaft",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderbijdrage",
+        "overheidsfinanciering",
+        "schoolactiviteiten",
+        "gelijke kansen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "Daarom schaffen we de vrijwillige ouderbijdrage volledig af. Scholen krijgen hiervoor een eerlijk bedrag van de overheid om activiteiten voor alle kinderen te organiseren, zonder uitsluiting."
+    },
+    {
+      "promiseCode": "SP-2025-072",
+      "text": "Een maximale reistijd van 45 minuten wordt ingesteld voor leerlingenvervoer in het speciaal onderwijs. De marktwerking in het leerlingenvervoer wordt gestopt.",
+      "summary": "Maximale reistijd 45 minuten voor speciaal onderwijs leerlingenvervoer",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leerlingenvervoer",
+        "speciaal onderwijs",
+        "reistijd",
+        "marktwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "We stoppen de marktwerking in het leerlingenvervoer en stellen een maximale reistijd van 45 minuten in."
+    },
+    {
+      "promiseCode": "SP-2025-073",
+      "text": "Een algemene acceptatieplicht wordt ingevoerd zodat elke school ieder kind moet accepteren, ongeacht geloof, afkomst, beperking of inkomen.",
+      "summary": "Algemene acceptatieplicht voor alle scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "acceptatieplicht",
+        "toegankelijkheid",
+        "discriminatie",
+        "gelijke behandeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "Elke school moet ieder kind accepteren, ongeacht geloof, afkomst, beperking of inkomen. We voeren daarom een algemene acceptatieplicht in."
+    },
+    {
+      "promiseCode": "SP-2025-074",
+      "text": "Een begin wordt gemaakt met de modernisering van artikel 23 van de grondwet om overal voldoende openbaar primair en voortgezet onderwijs te waarborgen.",
+      "summary": "Modernisering artikel 23 grondwet voor meer openbaar onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel 23",
+        "grondwet",
+        "openbaar onderwijs",
+        "modernisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 31",
+      "originalQuote": "We maken daarom een begin met de modernisering van artikel 23 van de grondwet. Overal in het land moet voldoende openbaar primair en voortgezet onderwijs zijn."
+    },
+    {
+      "promiseCode": "SP-2025-075",
+      "text": "Privéscholen worden afgeschaft omdat onderwijs een publieke taak is. Begeleiding en extra ondersteuning vinden plaats op school voor ieder kind zonder kosten.",
+      "summary": "Privéscholen worden afgeschaft",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "privéscholen",
+        "publieke taak",
+        "onderwijs",
+        "gelijke toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 32",
+      "originalQuote": "Onderwijs is een publieke taak. Privéscholen waar alleen wie het kan betalen goed onderwijs krijgt, worden afgeschaft."
+    },
+    {
+      "promiseCode": "SP-2025-076",
+      "text": "Het lesgeld voor mbo-studenten wordt geschrapt en daarna wordt studeren op hogescholen en universiteiten ook gratis gemaakt.",
+      "summary": "Lesgeld mbo geschrapt, hoger onderwijs gratis maken",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lesgeld",
+        "mbo",
+        "hoger onderwijs",
+        "gratis studeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 32",
+      "originalQuote": "We beginnen met het schrappen van het lesgeld voor mbo­studenten en maken daarna ook studeren op hogescholen en universiteiten gratis."
+    },
+    {
+      "promiseCode": "SP-2025-077",
+      "text": "Het leenstelsel wordt definitief afgeschaft. Studenten krijgen een hogere basisbeurs en de generatie onder het leenstelsel krijgt ruimhartige compensatie. De rente op studieleningen wordt permanent op 0 procent gezet.",
+      "summary": "Leenstelsel afschaffen, hogere basisbeurs, compensatie slachtoffers",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leenstelsel",
+        "basisbeurs",
+        "studieleningen",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 32",
+      "originalQuote": "Iedere student krijgt een hogere basisbeurs, zodat studeren geen schuldenval meer is. Het leenstelsel schaffen we definitief af. De generatie die daaronder viel krijgt een ruimhartige compensatie. De rente op studieleningen wordt permanent op 0 procent gezet."
+    },
+    {
+      "promiseCode": "SP-2025-078",
+      "text": "Een onafhankelijk onderzoeksfonds wordt opgericht waarin bedrijven geen zeggenschap hebben over de uitvoering of uitkomst van het onderzoek.",
+      "summary": "Onafhankelijk onderzoeksfonds zonder bedrijfsinvloed oprichten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoeksfonds",
+        "onafhankelijkheid",
+        "bedrijfsinvloed",
+        "wetenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 32",
+      "originalQuote": "Daarom richten we een onafhankelijk fonds op waarin bedrijven geen zeggenschap hebben over de uitvoering of uitkomst van het onderzoek."
+    },
+    {
+      "promiseCode": "SP-2025-079",
+      "text": "Stagiairs krijgen voortaan een minimale stagevergoeding zodat zij geen schulden hoeven te maken. Kleine ondernemers die dit niet kunnen betalen krijgen steun.",
+      "summary": "Minimale stagevergoeding invoeren met steun voor kleine ondernemers",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "stagiairs",
+        "kleine ondernemers",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 33",
+      "originalQuote": "Stagiairs krijgen voortaan een minimale stagevergoeding, zodat zij geen schulden hoeven te maken. Kleine ondernemers die dit niet kunnen betalen krijgen hierbij steun."
+    },
+    {
+      "promiseCode": "SP-2025-080",
+      "text": "Er komen geen btw-verhogingen voor de kunst- en cultuursector om toegankelijkheid en betaalbaarheid te waarborgen.",
+      "summary": "Geen btw-verhogingen voor kunst- en cultuursector",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "kunst",
+        "cultuur",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 33",
+      "originalQuote": "Er komen geen btw­verhogingen voor de kunst­ en cultuursector."
+    },
+    {
+      "promiseCode": "SP-2025-081",
+      "text": "Wettelijke maatregelen worden genomen tegen woekerwinsten op doorverkoop van tickets voor culturele evenementen en sportevenementen.",
+      "summary": "Wettelijke maatregelen tegen woekerwinsten ticketdoorverkoop",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ticketdoorverkoop",
+        "woekerwinsten",
+        "wettelijke maatregelen",
+        "evenementen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 33",
+      "originalQuote": "We nemen wettelijke maatregelen tegen de woekerwinsten die worden gemaakt op de doorverkoop van tickets voor culturele evenementen en sportevenementen."
+    },
+    {
+      "promiseCode": "SP-2025-082",
+      "text": "Rijksmusea worden gratis toegankelijk gemaakt, te beginnen minimaal één dag per week. Ook regionale musea worden minstens één dag per week gratis toegankelijk.",
+      "summary": "Rijksmusea gratis, minimaal één dag per week",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rijksmusea",
+        "gratis toegang",
+        "regionale musea",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 33",
+      "originalQuote": "Daarom maken we rijksmusea gratis, te beginnen minimaal één dag per week. Ook regionale musea worden minstens één dag per week gratis toegankelijk."
+    },
+    {
+      "promiseCode": "SP-2025-083",
+      "text": "Een Nationaal Historisch Museum wordt opgericht dat laat zien hoe Nederland is ontstaan en welke waarden en strijd van gewone mensen hieraan ten grondslag liggen.",
+      "summary": "Nationaal Historisch Museum oprichten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "historisch museum",
+        "nationaal",
+        "nederlandse geschiedenis",
+        "oprichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 33",
+      "originalQuote": "We richten een Nationaal Historisch Museum op dat laat zien hoe Nederland is ontstaan en welke waarden en strijd van gewone mensen hieraan ten grondslag liggen."
+    },
+    {
+      "promiseCode": "SP-2025-084",
+      "text": "Het Duitse 50+1-model wordt ingevoerd in het voetbal zodat de meerderheid van de zeggenschap altijd bij de leden en supporters blijft.",
+      "summary": "Duitse 50+1-model invoeren in Nederlands voetbal",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voetbal",
+        "50+1-model",
+        "zeggenschap",
+        "supporters"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 34",
+      "originalQuote": "Daarom willen we het Duitse 50+1­model invoeren: de meerderheid van de zeggenschap blijft altijd bij de leden en supporters."
+    },
+    {
+      "promiseCode": "SP-2025-085",
+      "text": "De SP wil het stemrecht verlagen naar 16 jaar zodat jongeren kunnen meebeslissen over hun toekomst, klimaat, onderwijs en zorg.",
+      "summary": "Stemrecht vanaf 16 jaar invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stemrecht",
+        "leeftijdsgrens",
+        "democratie",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 35",
+      "originalQuote": "We maken het mogelijk dat jongeren vanaf hun zestiende mogen stemmen, zodat zij kunnen meebeslissen over hun toekomst, klimaat, onderwijs en zorg."
+    },
+    {
+      "promiseCode": "SP-2025-086",
+      "text": "Het minimumjeugdloon wordt vanaf 18 jaar afgeschaft zodat jongeren een volwaardig loon krijgen. Vanaf 15 jaar moet minimaal 75 procent van het minimumloon worden verdiend.",
+      "summary": "Jeugdloon afschaffen vanaf 18 jaar, 75% minimumloon vanaf 15 jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jeugdloon",
+        "minimumloon",
+        "arbeidsvoorwaarden",
+        "loon"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 35",
+      "originalQuote": "Nu gaan we het minimumjeugdloon vanaf 18 jaar afschaffen, zodat je vanaf die leeftijd een volwaardig loon krijgt. Vanaf 15 jaar moet je ten minste 75 procent van het minimumloon verdienen."
+    },
+    {
+      "promiseCode": "SP-2025-087",
+      "text": "De rente op studieleningen gaat naar 0 procent en langstudeerboetes worden afgeschaft.",
+      "summary": "0% rente studieleningen en afschaffen langstudeerboetes",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studielening",
+        "rente",
+        "langstudeerboete",
+        "studiefinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 35",
+      "originalQuote": "de rente moet naar 0 procent. Ook langstudeerboetes hebben hun langste tijd wel gehad."
+    },
+    {
+      "promiseCode": "SP-2025-088",
+      "text": "Het eigen risico in de zorgverzekering wordt afgeschaft zodat iedereen de zorg krijgt die nodig is.",
+      "summary": "Afschaffen eigen risico zorgverzekering",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering",
+        "toegankelijkheid",
+        "zorgkosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 35",
+      "originalQuote": "We stoppen met het eigen risico zodat iedereen de zorg krijgt die nodig is."
+    },
+    {
+      "promiseCode": "SP-2025-089",
+      "text": "Er komt een sportpas met een budget van 240 euro per jaar voor kinderen en jongeren tot 23 jaar.",
+      "summary": "Sportpas 240 euro per jaar tot 23 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sportpas",
+        "budget",
+        "sport",
+        "jeugd"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 36",
+      "originalQuote": "Daarom komt er een sportpas met een budget van 240 euro per jaar voor kinderen en jongeren tot 23 jaar."
+    },
+    {
+      "promiseCode": "SP-2025-090",
+      "text": "De SP nationaliseert de energievoorzieningen om ze weer betaalbaar en duurzaam te maken met publieke zeggenschap.",
+      "summary": "Nationalisatie energievoorziening",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationalisatie",
+        "energievoorziening",
+        "publieke zeggenschap",
+        "energiebedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 37",
+      "originalQuote": "De SP nationaliseert de energievoorzieningen en maakt ze daarmee weer betaalbaar én duurzaam, met publieke zeggenschap en solidariteit als uitgangspunt."
+    },
+    {
+      "promiseCode": "SP-2025-091",
+      "text": "1,5 miljoen slecht geïsoleerde huur- en koopwoningen worden aangepakt voor 2030 met een Nationaal Isolatie Programma.",
+      "summary": "1,5 miljoen woningen isoleren voor 2030",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningisolatie",
+        "energiebesparing",
+        "nationaal programma",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 37",
+      "originalQuote": "Wij pakken 1,5 miljoen slecht geïsoleerde huur- en koopwoningen aan voor 2030 met een Nationaal Isolatie Programma."
+    },
+    {
+      "promiseCode": "SP-2025-092",
+      "text": "Huurders in woningen met energielabel E, F of G krijgen automatisch lagere huur zonder procedure bij de Huurcommissie.",
+      "summary": "Automatische huurverlaging bij slecht energielabel",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurverlaging",
+        "energielabel",
+        "woningwaardering",
+        "automatisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 37",
+      "originalQuote": "Daarom zorgen wij ervoor dat huurders in woningen met een slecht energielabel (E, F of G) automatisch minder huur gaan betalen zolang de woning nog niet is verduurzaamd."
+    },
+    {
+      "promiseCode": "SP-2025-093",
+      "text": "Nederland wordt klimaatneutraal en klimaatrechtvaardig in 2040.",
+      "summary": "Klimaatneutraliteit in 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraliteit",
+        "deadline",
+        "klimaatdoelen",
+        "klimaatrechtvaardigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 37",
+      "originalQuote": "Ons doel is daarom om in 2040 een klimaatneutrale én klimaatrechtvaardige samenleving te realiseren."
+    },
+    {
+      "promiseCode": "SP-2025-094",
+      "text": "Voor elke Nederlander wordt een boom geplant met een Nationaal Bomenplan van meer dan 100 duizend hectare bos.",
+      "summary": "Een boom per Nederlander, 100 duizend hectare bos bijplanten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bomenplan",
+        "bebossing",
+        "biodiversiteit",
+        "klimaatmaatregel"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 38",
+      "originalQuote": "Met een Nationaal Bomenplan planten we voor elke Nederlander een boom. Zo kunnen we meer dan 100 duizend hectare bos bijplanten."
+    },
+    {
+      "promiseCode": "SP-2025-095",
+      "text": "Elke wijk krijgt minimaal 30 procent groenoppervlak, elke woning ligt op maximaal 300 meter van groen, en drie bomen moeten zichtbaar zijn vanuit elk huis.",
+      "summary": "Groennorm: 30% groen per wijk, max 300m tot groen, 3 bomen per huis zichtbaar",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groennorm",
+        "groenoppervlak",
+        "leefomgeving",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 38",
+      "originalQuote": "Elke wijk krijgt minimaal 30 procent groenoppervlak, elke woning ligt op maximaal driehonderd meter van een groene plek, en drie bomen moeten zichtbaar zijn vanuit elk huis."
+    },
+    {
+      "promiseCode": "SP-2025-096",
+      "text": "De gaswinning in Groningen, Noord-Drenthe en kleine gasvelden wordt definitief gestopt.",
+      "summary": "Definitief stoppen gaswinning Groningen en kleine velden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "groningen",
+        "kleine gasvelden",
+        "stopzetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 39",
+      "originalQuote": "Gaswinning mag nooit meer. Niet in Groningen, niet in Noord-Drenthe en niet in kleine gasvelden."
+    },
+    {
+      "promiseCode": "SP-2025-097",
+      "text": "Geen nieuwe olie- en gasprojecten krijgen meer vergunning en bestaande projecten worden zo snel mogelijk afgebouwd.",
+      "summary": "Stop nieuwe olie/gasvergunningen, afbouw bestaande projecten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "olie",
+        "gasprojecten",
+        "vergunningen",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 39",
+      "originalQuote": "Er komt een stop op olie- en gasprojecten. We verlenen geen vergunningen meer voor het uitbouwen van olie- en gasprojecten en bouwen onze huidige olie- en gasproductie zo snel mogelijk af."
+    },
+    {
+      "promiseCode": "SP-2025-098",
+      "text": "Houtgestookte biomassacentrales worden gestopt omdat ze zorgen voor vieze lucht en extra CO2-uitstoot.",
+      "summary": "Stoppen houtgestookte biomassacentrales",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "biomassa",
+        "centrales",
+        "luchtkwaliteit",
+        "co2-uitstoot"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 39",
+      "originalQuote": "We stoppen met houtgestookte biomassacentrales. Die zorgen voor vieze lucht, gezondheidsschade bij omwonenden en extra CO₂-uitstoot."
+    },
+    {
+      "promiseCode": "SP-2025-099",
+      "text": "Openbaar vervoer wordt gratis toegankelijk voor iedereen gemaakt. In de overgangsperiode worden prijzen met 25 procent verlaagd en komt er een goedkoop maandabonnement vergelijkbaar met het Duitsland-ticket. Stads- en streekvervoer wordt direct gratis voor ouderen (65+), kinderen (12-), scholieren en mensen met een beperking.",
+      "summary": "Gratis openbaar vervoer voor iedereen, direct voor bepaalde groepen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "prijsverlaging",
+        "maandabonnement",
+        "doelgroepen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 41",
+      "originalQuote": "Gratis openbaar vervoer, toegankelijk voor iedereen... In opmaat hiernaartoe maken we het openbaar vervoer direct goedkoper door de prijzen met 25 procent te verlagen en een goedkoop maandabonnement (zoals het Duitsland­ticket) in te voeren. Ook maken we stads­ en streekvervoer meteen gratis voor ouderen (65+), kinderen (12­), scholieren en mensen met een beperking."
+    },
+    {
+      "promiseCode": "SP-2025-100",
+      "text": "NS en ProRail worden samengevoegd tot één publiek spoorbedrijf dat verantwoordelijk is voor het volledige spoorvervoer. Concurrentie op het spoor wordt stopgezet.",
+      "summary": "NS en ProRail worden één publiek spoorbedrijf",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ns",
+        "prorail",
+        "publiek spoorbedrijf",
+        "concurrentie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 41",
+      "originalQuote": "We stoppen met concurrentie op het spoor en verschillende bedrijven met eigen tarieven en paaltjes. De NS en ProRail worden één publiek spoorbedrijf dat verantwoordelijk is voor het hele spoor­vervoer"
+    },
+    {
+      "promiseCode": "SP-2025-101",
+      "text": "Investeren in sterke binnenlandse treinverbindingen zoals de Lelylijn, Maaslijn en Nedersaksenlijn om alle regio's goed bereikbaar te maken.",
+      "summary": "Investering in Lelylijn, Maaslijn en Nedersaksenlijn",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "treinverbindingen",
+        "lelylijn",
+        "maaslijn",
+        "nedersaksenlijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 41",
+      "originalQuote": "We investeren in sterke binnenlandse treinverbindingen, zoals de Lelylijn, Maaslijn en Nedersaksenlijn."
+    },
+    {
+      "promiseCode": "SP-2025-102",
+      "text": "Het openbaar vervoer wordt 100 procent toegankelijk gemaakt voor mindervaliden en mensen met een beperking, inclusief stations en haltes.",
+      "summary": "100% toegankelijk openbaar vervoer voor gehandicapten",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toegankelijkheid",
+        "mindervaliden",
+        "stations",
+        "haltes"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 42",
+      "originalQuote": "Het openbaar vervoer wordt 100 procent toegankelijk voor mindervaliden en mensen met een beperking. Dit geldt ook voor de stations en ov­haltes."
+    },
+    {
+      "promiseCode": "SP-2025-103",
+      "text": "Vluchten korter dan 500 kilometer worden verboden zodra goede en betrouwbare trein-alternatieven beschikbaar zijn.",
+      "summary": "Verbod op vluchten onder 500km bij treinalternatief",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vluchten",
+        "verbod",
+        "kilometers",
+        "treinalternatief"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 41",
+      "originalQuote": "Zodra deze goede en betrouwbare alternatieven beschikbaar zijn moeten vluchten van minder dan 500km verboden worden."
+    },
+    {
+      "promiseCode": "SP-2025-104",
+      "text": "Alle nieuwe auto's moeten uiterlijk in 2035 emissievrij zijn. Er wordt onderzocht hoe dit het beste kan worden bereikt.",
+      "summary": "Emissievrije nieuwe auto's vanaf 2035",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "auto's",
+        "emissievrij",
+        "deadline",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 42",
+      "originalQuote": "We steunen de verplichting dat alle nieuwe auto's uiterlijk in 2035 emissievrij zijn en onderzoeken tot die tijd hoe dit het beste kan worden bereikt."
+    },
+    {
+      "promiseCode": "SP-2025-105",
+      "text": "Alle wegen in Nederland worden tolvrij gemaakt zodat iedereen vrij kan reizen zonder extra kosten.",
+      "summary": "Tolvrije wegen in heel Nederland",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tolvrije wegen",
+        "reiskosten",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 42",
+      "originalQuote": "Tolvrije wegen. Alle wegen in Nederland worden tolvrij, zodat iedereen vrij kan reizen zonder extra kosten."
+    },
+    {
+      "promiseCode": "SP-2025-106",
+      "text": "Privéjets worden volledig verboden vanwege vervuiling en klimaatimpact.",
+      "summary": "Volledig verbod op privéjets",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "privéjets",
+        "verbod",
+        "vervuiling",
+        "klimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "We verbieden privéjets, want vliegen is geen privilege voor enkelen ten koste van iedereen."
+    },
+    {
+      "promiseCode": "SP-2025-107",
+      "text": "Nachtvluchten worden per direct stopgezet om overlast te verminderen.",
+      "summary": "Direct einde aan nachtvluchten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nachtvluchten",
+        "stoppen",
+        "overlast",
+        "geluidshinder"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "Nachtvluchten worden per direct stopgezet."
+    },
+    {
+      "promiseCode": "SP-2025-108",
+      "text": "Lelystad Airport blijft gesloten en er komen geen nieuwe aanvliegroutes voor Schiphol. De hubfunctie van Schiphol wordt afgebouwd.",
+      "summary": "Lelystad Airport gesloten, geen nieuwe Schiphol-routes",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelystad airport",
+        "schiphol",
+        "aanvliegroutes",
+        "hubfunctie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "Lelystad Airport blijft gesloten en er komen geen nieuwe aanvliegroutes voor Schiphol. We bouwen de hubfunctie van Schiphol juist af"
+    },
+    {
+      "promiseCode": "SP-2025-109",
+      "text": "Een kerosinebelasting wordt ingevoerd zodat de luchtvaartsector eerlijk bijdraagt en wordt aangezet tot verduurzaming.",
+      "summary": "Invoering kerosinebelasting luchtvaart",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerosinebelasting",
+        "luchtvaartsector",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "Daarnaast voeren we een kerosinebelasting in, zodat de luchtvaartsector eindelijk eerlijk bijdraagt en wordt aangespoord om te verduurzamen."
+    },
+    {
+      "promiseCode": "SP-2025-110",
+      "text": "Het gebruik van microplastics wordt beëindigd en er komt per direct een verbod op het uitstoten van PFAS.",
+      "summary": "Verbod microplastics en directe PFAS-uitstootstop",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "microplastics",
+        "pfas",
+        "verbod",
+        "uitstoot"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "Daarom maken we een einde aan het gebruik van microplastics en komt er per direct een verbod op het uitstoten van PFAS."
+    },
+    {
+      "promiseCode": "SP-2025-111",
+      "text": "Alle asbestdaken en gevaarlijke asbesttoepassingen worden verwijderd in Nederland, met overheidsfinanciering voor collectieve sanering van daken op schuurtjes en carports.",
+      "summary": "Verwijdering alle asbestdaken met overheidsfinanciering",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asbestdaken",
+        "sanering",
+        "overheidsfinanciering",
+        "verwijdering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "We zorgen voor de verwijdering van alle asbestdaken en andere gevaarlijke toepas­singen van asbest in Nederland... We vervangen asbestdaken op schuurtjes en carports door op kosten van de overheid deze collectief, straat voor straat, te laten verwijderen"
+    },
+    {
+      "promiseCode": "SP-2025-112",
+      "text": "Een Nationaal Asbestfonds wordt opgericht voor hulp aan asbestslachtoffers, waarbij kosten worden verhaald op de industrie die eraan heeft verdiend.",
+      "summary": "Oprichting Nationaal Asbestfonds met kostenverhaal",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asbestfonds",
+        "slachtoffers",
+        "kostenverhaal",
+        "industrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 43",
+      "originalQuote": "We richten een Nationaal Asbestfonds op, want asbestslachtoffers verdienen goede hulp, zonder juridische lijdensweg. De kosten moet de overheid gaan verhalen op de industrie die eraan verdiend heeft."
+    },
+    {
+      "promiseCode": "SP-2025-113",
+      "text": "Er wordt een toxiciteitsbelasting ingevoerd om vervuiling van oppervlaktewater verder terug te dringen.",
+      "summary": "Toxiciteitsbelasting tegen watervervuiling",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toxiciteitsbelasting",
+        "oppervlaktewater",
+        "vervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 44",
+      "originalQuote": "er komt een toxiciteitsbelasting om vervuiling verder terug te dringen"
+    },
+    {
+      "promiseCode": "SP-2025-114",
+      "text": "Het recht op reparatie wordt ingevoerd waarbij fabrikanten verplicht reserveonderdelen en reparatie-instructies beschikbaar moeten stellen.",
+      "summary": "Wettelijk recht op reparatie voor consumenten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "recht op reparatie",
+        "reserveonderdelen",
+        "reparatie-instructies",
+        "fabrikanten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 44",
+      "originalQuote": "We voeren het right to repair in, zodat fabrikanten verplicht reserveonderdelen en reparatie­instructies beschikbaar stellen."
+    },
+    {
+      "promiseCode": "SP-2025-115",
+      "text": "Afvalinzameling en -verwerking worden weer onderdeel van de publieke sector in plaats van private marktpartijen.",
+      "summary": "Afvalinzameling en -verwerking terug naar publieke sector",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalinzameling",
+        "afvalverwerking",
+        "publieke sector",
+        "privatisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 44",
+      "originalQuote": "Afvalverwerking en inzameling worden weer onderdeel van de publieke sector."
+    },
+    {
+      "promiseCode": "SP-2025-116",
+      "text": "De overheid grijpt actief in op de grondmarkt zodat gronden beschikbaar blijven voor duurzaam werkende boeren.",
+      "summary": "Actieve overheidsinterventie op agrarische grondmarkt",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondmarkt",
+        "overheidsinterventie",
+        "duurzame landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 45",
+      "originalQuote": "De overheid grijpt actief in op de grondmarkt, zodat gronden beschikbaar blijven voor boeren die duurzaam en in balans met hun omgeving willen werken."
+    },
+    {
+      "promiseCode": "SP-2025-117",
+      "text": "Landbouwsubsidies worden volledig ingezet voor omschakeling naar duurzame en biologische landbouw, met financiële steun voor omschakelaars in de eerste jaren.",
+      "summary": "Landbouwsubsidies alleen voor duurzame omschakeling",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landbouwsubsidies",
+        "biologische landbouw",
+        "omschakeling",
+        "financiële steun"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 45",
+      "originalQuote": "Landbouwsubsidies worden volledig ingezet voor omschakeling naar duurzame en biologische landbouw. Omschakelaars krijgen de eerste jaren financiële steun."
+    },
+    {
+      "promiseCode": "SP-2025-118",
+      "text": "De maximumgrens voor veebezetting wordt verlaagd van twee naar 1,5 grootvee-eenheid per hectare. Kunstmest en landbouwgif worden afgebouwd, mestvergisting en andere technologische trucs worden gestopt.",
+      "summary": "Veebezetting naar max 1,5 grootvee-eenheid/hectare, afbouw kunstmest en landbouwgif",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veebezetting",
+        "grootvee-eenheid",
+        "hectare",
+        "kunstmest",
+        "landbouwgif",
+        "mestvergisting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 46",
+      "originalQuote": "De maximumgrens gaat omlaag, van twee naar 1,5 grootvee­eenheid per hectare. Kunstmest en landbouwgif worden afgebouwd, mestvergisting en andere mislukte technologische trucs worden gestopt."
+    },
+    {
+      "promiseCode": "SP-2025-119",
+      "text": "Het gebruik van chemische bestrijdingsmiddelen wordt zo snel mogelijk afgebouwd. Glyfosaat wordt verboden.",
+      "summary": "Afbouw chemische bestrijdingsmiddelen, verbod glyfosaat",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestrijdingsmiddelen",
+        "glyfosaat",
+        "verbod",
+        "pesticiden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 46",
+      "originalQuote": "Het gebruik van chemische bestrijdingsmiddelen wordt zo snel mogelijk afgebouwd. Glyfosaat wordt verboden."
+    },
+    {
+      "promiseCode": "SP-2025-120",
+      "text": "Er komt een minimale afstand van 1.200 meter tussen veehouderijen en dorpskernen.",
+      "summary": "Minimale afstand 1.200 meter tussen veehouderijen en dorpskernen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afstand",
+        "veehouderijen",
+        "dorpskernen",
+        "meter"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 46",
+      "originalQuote": "Er komt een minimale afstand van 1.200 meter tussen veehouderijen en dorpskernen."
+    },
+    {
+      "promiseCode": "SP-2025-121",
+      "text": "Nieuwe stallen worden alleen gebouwd als oude stallen worden gesloopt.",
+      "summary": "Nieuwe stallen alleen bij sloop oude stallen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stallen",
+        "nieuwbouw",
+        "sloop",
+        "veehouderij"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 46",
+      "originalQuote": "Nieuwe stallen worden alleen gebouwd als oude stallen worden gesloopt."
+    },
+    {
+      "promiseCode": "SP-2025-122",
+      "text": "Er komt een Publiek Landfonds dat landbouwgrond opkoopt en beschikbaar stelt aan jonge en startende boeren die willen werken aan een circulaire en duurzame landbouw.",
+      "summary": "Publiek Landfonds voor grondaankoop en -verstrekking aan jonge boeren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "publiek landfonds",
+        "landbouwgrond",
+        "jonge boeren",
+        "grondaankoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 47",
+      "originalQuote": "Er komt een Publiek Landfonds dat landbouwgrond opkoopt en beschikbaar stelt aan jonge en startende boeren die willen werken aan een circulaire en duurzame landbouw."
+    },
+    {
+      "promiseCode": "SP-2025-123",
+      "text": "Speculatie op landbouwgrond door banken, pensioenfondsen en buitenlandse investeerders wordt verboden.",
+      "summary": "Verbod grondspeculatie door financiële investeerders",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondspeculatie",
+        "verbod",
+        "banken",
+        "pensioenfondsen",
+        "buitenlandse investeerders"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 47",
+      "originalQuote": "Speculatie op landbouwgrond door banken, pensioenfondsen en buitenlandse investeerders wordt verboden."
+    },
+    {
+      "promiseCode": "SP-2025-124",
+      "text": "Vaste, lage maximumtarieven worden ingevoerd voor dierenartsbehandelingen. Het btw-tarief op dierenartszorg wordt verlaagd van 21 procent naar 9 procent.",
+      "summary": "Maximumtarieven dierenarts, btw-verlaging naar 9%",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumtarieven",
+        "dierenarts",
+        "btw-tarief",
+        "procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 47",
+      "originalQuote": "Wij voeren vaste, lage maximumtarieven in voor dierenartsbehandelingen. Ook pleiten we voor het verlagen van het btw­tarief op dierenartszorg van 21 procent naar 9 procent."
+    },
+    {
+      "promiseCode": "SP-2025-125",
+      "text": "De overname van dierenartsenpraktijken door private equity en commerciële ketens wordt verboden.",
+      "summary": "Verbod overname dierenartspraktijken door private equity",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "overname",
+        "dierenartspraktijken",
+        "private equity",
+        "commerciële ketens"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 47",
+      "originalQuote": "We verbieden de overname van dierenartsenpraktijken door private equity en commerciële ketens."
+    },
+    {
+      "promiseCode": "SP-2025-126",
+      "text": "Weidegang wordt wettelijk verplicht voor koeien en andere grazende dieren.",
+      "summary": "Wettelijke verplichting weidegang voor grazers",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "weidegang",
+        "wettelijk verplicht",
+        "koeien",
+        "grazende dieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 47",
+      "originalQuote": "Weidegang wordt wettelijk verplicht voor koeien en andere grazende dieren, zodat zij buiten kunnen lopen en natuurlijk gedrag kunnen vertonen."
+    },
+    {
+      "promiseCode": "SP-2025-127",
+      "text": "Slachten zonder verdoving wordt verboden.",
+      "summary": "Verbod slachten zonder verdoving",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slachten",
+        "verdoving",
+        "verbod",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 47",
+      "originalQuote": "Slachten zonder verdoving wordt verboden om onnodig lijden van dieren tegen te gaan, met respect voor dierenwelzijn als hoogste norm."
+    },
+    {
+      "promiseCode": "SP-2025-128",
+      "text": "Veetransporten langer dan acht uur of verder dan vijfhonderd km worden verboden.",
+      "summary": "Verbod veetransporten >8 uur of >500 km",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veetransporten",
+        "verbod",
+        "acht uur",
+        "vijfhonderd kilometer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 48",
+      "originalQuote": "We verbieden veetransporten langer dan acht uur of verder dan vijfhonderd km, en maken een einde aan de massale export van levende dieren."
+    },
+    {
+      "promiseCode": "SP-2025-129",
+      "text": "Op tien procent van de landbouwgrond komt ruimte voor natuur: houtwallen, schone sloten, bloemrijke bermen en akkerranden.",
+      "summary": "10% landbouwgrond voor natuur (houtwallen, sloten, bermen)",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tien procent",
+        "landbouwgrond",
+        "natuur",
+        "houtwallen",
+        "bermen",
+        "akkerranden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 48",
+      "originalQuote": "Op tien procent van de landbouwgrond komt ruimte voor natuur: houtwallen, schone sloten, bloemrijke bermen en akkerranden versterken het netwerk van natuurgebieden."
+    },
+    {
+      "promiseCode": "SP-2025-130",
+      "text": "Er komt een nieuwe Kampeerwet met huurbescherming en contracten voor onbepaalde tijd met minimaal twee jaar opzegtermijn voor vaste standplaatsen.",
+      "summary": "Kampeerwet met huurbescherming en 2 jaar opzegtermijn",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kampeerwet",
+        "huurbescherming",
+        "standplaatsen",
+        "opzegtermijn",
+        "twee jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 48",
+      "originalQuote": "Er komt een nieuwe Kampeerwet. We leggen daarin vast dat recreanten met een vaste standplaats recht hebben op huurbescherming en een contract voor onbepaalde tijd met een opzegtermijn van minimaal twee jaar."
+    },
+    {
+      "promiseCode": "SP-2025-131",
+      "text": "Er komt een bindend correctief referendum op nationaal, provinciaal en lokaal niveau.",
+      "summary": "Bindend correctief referendum op alle bestuursniveaus",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend referendum",
+        "correctief referendum",
+        "nationaal",
+        "provinciaal",
+        "lokaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 50",
+      "originalQuote": "Er komt een bindend correctief referendum op nationaal, provinciaal en lokaal niveau."
+    },
+    {
+      "promiseCode": "SP-2025-132",
+      "text": "Het verbod voor rechters om wetten te toetsen aan de grondwet wordt afgeschaft.",
+      "summary": "Afschaffing verbod grondwettelijke toetsing door rechters",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rechters",
+        "grondwettelijke toetsing",
+        "verbod",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 50",
+      "originalQuote": "Het verbod voor rechters om wetten te toetsen aan de grondwet schaffen we af."
+    },
+    {
+      "promiseCode": "SP-2025-133",
+      "text": "Riante vergoedingen voor politici worden teruggebracht naar een redelijk niveau en de wachtgeldregeling wordt afgeschaft. Politici krijgen aan het einde van hun Kamerwerk gewoon recht op WW, net als iedereen.",
+      "summary": "Politieke vergoedingen verlagen en wachtgeld vervangen door WW",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergoedingen",
+        "wachtgeldregeling",
+        "ww",
+        "politici"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 51",
+      "originalQuote": "riante vergoedingen brengen we terug naar een redelijk niveau en we maken een einde aan de wachtgeldregeling waarmee politici tonnen kunnen opstrijken in de jaren nádat ze al uit de Kamer zijn. In plaats van belastinggeld binnenharken moeten zij aan het einde van hun werk in de Kamer gewoon recht op WW hebben, net als iedereen."
+    },
+    {
+      "promiseCode": "SP-2025-134",
+      "text": "Grote donaties vanuit het bedrijfsleven aan politieke partijen worden gestopt. Voortaan kunnen alleen natuurlijke personen doneren aan politieke partijen.",
+      "summary": "Bedrijfsdonaties verbieden, alleen individuele donaties toestaan",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "donaties",
+        "bedrijfsleven",
+        "natuurlijke personen",
+        "politieke partijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 51",
+      "originalQuote": "Grote donaties vanuit het bedrijfsleven stoppen we. Voortaan kunnen alleen natuurlijke personen doneren aan politieke partijen."
+    },
+    {
+      "promiseCode": "SP-2025-135",
+      "text": "Het salarisniveau van de minister-president wordt het maximum dat je kunt verdienen in de publieke sector en bij staatsbedrijven. Het overschrijden van deze WNT wordt strafbaar gesteld.",
+      "summary": "Premierssalaris als maximum voor publieke sector, overschrijding strafbaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister-president",
+        "salaris",
+        "publieke sector",
+        "wnt",
+        "strafbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 51",
+      "originalQuote": "maken we het salarisniveau van de minister-president het maximum dat je kunt verdienen in de publieke sector en bij staatsbedrijven. Het overschrijden van deze WNT (Wet Normering Topinkomens) wordt strafbaar gesteld."
+    },
+    {
+      "promiseCode": "SP-2025-136",
+      "text": "Bevrijdingsdag, Keti Koti en Dag van de Arbeid worden nationale feestdagen, iedereen krijgt op die dagen vrij.",
+      "summary": "Drie nieuwe nationale feestdagen invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bevrijdingsdag",
+        "keti koti",
+        "dag van de arbeid",
+        "nationale feestdagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 51",
+      "originalQuote": "Bevrijdingsdag, Keti Koti en Dag van de Arbeid worden nationale feestdagen, iedereen krijgt op die dagen vrij."
+    },
+    {
+      "promiseCode": "SP-2025-137",
+      "text": "Nederland wordt zo snel als mogelijk een republiek met een gekozen staatshoofd. Leden van het koninklijk huis betalen voortaan zelf hun privékosten, krijgen een salaris niet hoger dan dat van de premier en gaan belasting betalen over hun inkomen, erfenis en vermogen.",
+      "summary": "Nederland republiek maken, koninklijke uitgaven en belastingen normaliseren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "republiek",
+        "staatshoofd",
+        "koninklijk huis",
+        "belasting",
+        "salaris"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 51",
+      "originalQuote": "daarom wordt Nederland zo snel als mogelijk een republiek. [...] Leden van het koninklijk huis betalen voortaan zelf hun privékosten, krijgen een salaris dat niet hoger is dan dat van de premier en gaan netjes belasting betalen over hun inkomen, erfenis en vermogen."
+    },
+    {
+      "promiseCode": "SP-2025-138",
+      "text": "Er wordt fors geïnvesteerd in meer politiebureaus en wijkagenten. Politiebureaus sluiten wordt voorkomen, juist in gebieden waar de capaciteit al beperkt is.",
+      "summary": "Investeren in politiebureaus en wijkagenten, sluiting voorkomen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politiebureaus",
+        "wijkagenten",
+        "investering",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 52",
+      "originalQuote": "We investeren fors in een politie die dichtbij en betrokken is in de wijk en het dorp. [...] We voorkomen dat meer politiebureaus sluiten, juist in die gebieden waar de capaciteit al beperkt is."
+    },
+    {
+      "promiseCode": "SP-2025-139",
+      "text": "Er komt meer capaciteit bij de politie en het Openbaar Ministerie om aangiften in behandeling te nemen en onderzoeken af te ronden. Voor ingewikkelde zaken krijgen politie, OM en rechters meer mensen. Extra rechters worden aangesteld.",
+      "summary": "Meer capaciteit bij politie, OM en rechtspraak voor alle soorten zaken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "capaciteit",
+        "politie",
+        "openbaar ministerie",
+        "rechters",
+        "aangiften"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 52",
+      "originalQuote": "Er komt meer capaciteit bij de politie en het Openbaar Ministerie (OM) om aangiften in behandeling te nemen en onderzoeken af te ronden. Voor ingewikkelde zaken, zoals kinderporno, cybercrime, fraude, milieudelicten, mensenhandel en zedendelicten, krijgen politie, OM en rechters meer mensen. [...] Om de werkdruk bij de zittende mensen te verlagen worden extra rechters aangesteld."
+    },
+    {
+      "promiseCode": "SP-2025-140",
+      "text": "Geplande bezuinigingen op de brandweer gaan definitief van tafel en er wordt geïnvesteerd in extra personeel en materieel. Ook wordt geïnvesteerd in de vrijwillige brandweer.",
+      "summary": "Brandweerbezuinigingen schrappen, investeren in personeel en materieel",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandweer",
+        "bezuinigingen",
+        "personeel",
+        "materieel",
+        "vrijwillige brandweer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 52",
+      "originalQuote": "Daarom gaan geplande bezuinigingen op de brandweer definitief van tafel en investeren we waar nodig juist in extra personeel en materieel, zodat de brandweer altijd en overal op tijd kan komen. Ook investeren we in de vrijwillige brandweer."
+    },
+    {
+      "promiseCode": "SP-2025-141",
+      "text": "Boetes worden afhankelijk gemaakt van het inkomen en vermogen dat iemand heeft om klassenverschillen in rechtsgevolgen te voorkomen.",
+      "summary": "Inkomensafhankelijke boetes invoeren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boetes",
+        "inkomen",
+        "vermogen",
+        "inkomensafhankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 52",
+      "originalQuote": "Daarom maken we boetes afhankelijk van het inkomen en vermogen dat iemand heeft."
+    },
+    {
+      "promiseCode": "SP-2025-142",
+      "text": "Er wordt geïnvesteerd in het gevangeniswezen, personeel, de gebouwen en reclassering. Privatisering in het gevangeniswezen mag nooit aan de orde zijn.",
+      "summary": "Investeren in gevangenissen en reclassering, privatisering verbieden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gevangeniswezen",
+        "personeel",
+        "reclassering",
+        "privatisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 52",
+      "originalQuote": "We investeren in het gevangenis wezen, personeel, de gebouwen en reclassering. Privatisering in het gevangeniswezen mag nooit aan de orde zijn."
+    },
+    {
+      "promiseCode": "SP-2025-143",
+      "text": "Het totaalverbod op gokreclames wordt ingevoerd. Het absolute boetemaximum voor gokbedrijven wordt verhoogd van een miljoen naar vijf miljoen euro. Er wordt toegewerkt naar een volledig verbod op particuliere gokbedrijven.",
+      "summary": "Totaalverbod gokreclames, hogere boetes, richting verbod particuliere gokbedrijven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gokreclames",
+        "totaalverbod",
+        "boetemaximum",
+        "vijf miljoen euro",
+        "gokbedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 53",
+      "originalQuote": "Dit gaan we uitbreiden naar een totaalverbod op gokreclames. [...] Het absolute boetemaximum voor gokbedrijven die zich niet houden aan de regels wordt verhoogd van een miljoen naar vijf miljoen euro. [...] Ook werken we toe naar een volledig verbod op particuliere gokbedrijven."
+    },
+    {
+      "promiseCode": "SP-2025-144",
+      "text": "Softdrugs worden gereguleerd en gelegaliseerd voor betere controle op veiligheid en kwaliteit. De lijst met harddrugs wordt geregeld vernieuwd op basis van wetenschappelijke inzichten.",
+      "summary": "Softdrugs legaliseren, hardrugslijst wetenschappelijk updaten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "softdrugs",
+        "legaliseren",
+        "reguleren",
+        "harddrugs",
+        "wetenschappelijke inzichten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 53",
+      "originalQuote": "Softdrugs gaan we reguleren en legaliseren. Hierdoor kunnen we de veiligheid en kwaliteit van softdrugs beter controleren. De lijst met harddrugs wordt geregeld vernieuwd op basis van de laatste wetenschappelijke inzichten."
+    },
+    {
+      "promiseCode": "SP-2025-145",
+      "text": "De Huizen van het Recht worden verder uitgebreid zodat er een landelijk dekkend netwerk komt voor laagdrempelige sociale en juridische hulp.",
+      "summary": "Landelijk netwerk Huizen van het Recht uitbouwen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huizen van het recht",
+        "landelijk netwerk",
+        "juridische hulp",
+        "uitbreiden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 53",
+      "originalQuote": "Het Huis van het Recht is in diverse gemeenten al een groot succes en moet verder uitgebreid worden, zodat er een landelijk dekkend netwerk komt."
+    },
+    {
+      "promiseCode": "SP-2025-146",
+      "text": "Er wordt geïnvesteerd in de sociaal advocatuur door vergoedingen te verhogen, eigen bijdragen te verlagen en inkomensgrenzen te verruimen. Ook wordt er een sociaal notariaat opgericht.",
+      "summary": "Sociaal advocatuur versterken, sociaal notariaat oprichten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal advocatuur",
+        "vergoedingen",
+        "inkomensgrenzen",
+        "sociaal notariaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 53",
+      "originalQuote": "Daarom investeren we in de sociaal advocatuur. We verhogen de vergoedingen, verlagen de eigen bijdragen en verruimen de inkomensgrenzen. [...] Ook wordt er een sociaal notariaat opgericht"
+    },
+    {
+      "promiseCode": "SP-2025-147",
+      "text": "De rechtsprekende taak wordt weggehaald bij de Raad van State en de bestuursrechtspraak wordt in het geheel ondergebracht bij de gewone rechterlijke macht. De rechtspraak krijgt een eigen aparte begroting.",
+      "summary": "Bestuursrechtspraak overbrengen naar gewone rechters, aparte begroting",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raad van state",
+        "bestuursrechtspraak",
+        "rechterlijke macht",
+        "begroting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 54",
+      "originalQuote": "De rechtsprekende taak wordt weggehaald bij de Raad van State en de bestuursrechtspraak wordt in het geheel ondergebracht bij de gewone rechterlijke macht. De rechtspraak is een onafhankelijke staatsmacht die een eigen aparte begroting verdient"
+    },
+    {
+      "promiseCode": "SP-2025-148",
+      "text": "Er komt een wettelijk verbod op gepersonaliseerde advertenties, advertentieveilingen en de grootschalige dataverzameling en handel door techbedrijven.",
+      "summary": "Verbod op gepersonaliseerde advertenties en grootschalige dataverzameling",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gepersonaliseerde advertenties",
+        "advertentieveilingen",
+        "dataverzameling",
+        "techbedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 55",
+      "originalQuote": "Daar moet een grote aanpak voorkomen, met als eerste kleine stappen een wettelijk verbod op gepersonaliseerde advertenties, advertentieveilingen en de grootschalige dataverzameling en handel."
+    },
+    {
+      "promiseCode": "SP-2025-149",
+      "text": "Sociale media worden verboden voor kinderen onder de vijftien jaar. Op scholen geldt voor mobiele telefoons het principe 'thuis of in de kluis', ook tijdens pauzes.",
+      "summary": "Sociale media verbod onder 15 jaar, telefoons op school in kluis",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale media",
+        "kinderen",
+        "vijftien jaar",
+        "mobiele telefoons",
+        "scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 55",
+      "originalQuote": "We verbieden sociale media voor kinderen onder de vijftien jaar. [...] Op scholen moet voor mobiele telefoons het principe gehanteerd worden van 'thuis of in de kluis', ook tijdens de pauzes."
+    },
+    {
+      "promiseCode": "SP-2025-150",
+      "text": "Kunstmatige Intelligentie streng reguleren met transparantieplicht voor AI-gegenereerde content, training alleen met publieke informatie, bescherming auteursrechten, en auteursrechten voor mensen over eigen stem en gezichtskenmerken.",
+      "summary": "AI reguleren met transparantieplicht en auteursrechtenbescherming",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kunstmatige intelligentie",
+        "regulering",
+        "transparantie",
+        "auteursrechten",
+        "deepfake"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Kunstmatige Intelligentie reguleren. [...] Het moet altijd duidelijk zijn wanneer iets door AI is gemaakt. Daarnaast mag AI alleen worden getraind met publieke informatie en mag het geen inbreuk maken op auteursrechten. Mensen krijgen auteursrechten over hun eigen stem, gezichtskenmerken en lichaam."
+    },
+    {
+      "promiseCode": "SP-2025-151",
+      "text": "Grote energieverslindende datacentra weren en alle datacentra onderwerpen aan strenge regels voor zuinig omgaan met stroom, water en grondstoffen om milieuschade te voorkomen.",
+      "summary": "Energieverslindende datacentra weren en strenge milieuregels invoeren",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "datacentra",
+        "energieverbruik",
+        "milieuregels",
+        "stroom",
+        "water",
+        "grondstoffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Grote, energieverslindende datacentra worden geweerd. Alle datacentra moeten voldoen aan strenge regels, zodat ze zuinig omgaan met stroom, water en grondstoffen en zo min mogelijk schade aan het milieu veroorzaken."
+    },
+    {
+      "promiseCode": "SP-2025-152",
+      "text": "Bij overheidsdiensten altijd niet-digitale alternatieven behouden, blauwe envelop voor belastingaangifte en contant geld blijven bestaan, nutsbedrijven en overheid weer telefonisch bereikbaar maken.",
+      "summary": "Offline alternatieven behouden bij digitalisering overheidsdiensten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitalisering",
+        "offline alternatieven",
+        "blauwe envelop",
+        "contant geld",
+        "telefonische bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Wanneer de overheid digitaliseert, blijft er een niet-digitaal alternatief over voor wie niet kan of wil meegaan in digitalisering. [...] De blauwe envelop voor belastingaangifte blijft bestaan en het recht op het gebruik van contant geld. Nutsbedrijven zoals PostNL en overheidsinstellingen worden weer telefonisch bereikbaar."
+    },
+    {
+      "promiseCode": "SP-2025-153",
+      "text": "Bij beslissingen met impact op iemands leven zoals uitkeringsaanvragen altijd mensen betrokken houden en volledig geautomatiseerde besluitvorming via algoritmes niet toestaan.",
+      "summary": "Menselijke betrokkenheid verplichten bij belangrijke overheidsbeslissingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "algoritmes",
+        "geautomatiseerde besluitvorming",
+        "uitkeringen",
+        "menselijke betrokkenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Bij beslissingen die impact hebben op iemands leven, bijvoorbeeld bij de aanvraag voor een uitkering, blijven altijd mensen betrokken. We staan niet toe dat dergelijke beslissingen volledig geautomatiseerd worden via algoritmes."
+    },
+    {
+      "promiseCode": "SP-2025-154",
+      "text": "Inzet van algoritmen en AI door overheidsorganisaties voor fraudeopsporing niet meer toestaan wanneer mensenrechten niet gewaarborgd kunnen worden, discriminatie via profileringsalgoritmes stoppen.",
+      "summary": "AI-fraudeopsporing stoppen als mensenrechten niet gewaarborgd zijn",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "profileringsalgoritmes",
+        "fraudeopsporing",
+        "discriminatie",
+        "mensenrechten",
+        "overheidsorganisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "De inzet van algoritmen, Kunstmatige Intelligentie en geautomatiseerde besluitvorming om fraude op te sporen en besluiten te nemen is niet langer toegestaan wanneer mensenrechten niet gewaarborgd kunnen worden."
+    },
+    {
+      "promiseCode": "SP-2025-155",
+      "text": "Tegen EU-plan voor verplichte chatcontrole in apps zoals WhatsApp en Signal, versleuteling van informatie door burgers stimuleren in plaats van verbieden.",
+      "summary": "Chatcontrole tegenhouden en versleuteling stimuleren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "chatcontrole",
+        "versleuteling",
+        "whatsapp",
+        "signal",
+        "privégesprekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "We zijn tegen het EU-voornemen om chatcontrole verplicht te stellen. [...] Versleutelen van informatie door burgers wordt niet verboden, maar moeten we juist stimuleren."
+    },
+    {
+      "promiseCode": "SP-2025-156",
+      "text": "Zonder concrete verdenking geen gegevensverzameling toestaan, ook AIVD geen vrijbrief geven voor massale gegevensverzameling van burgers, sleepnetten niet meer toelaten.",
+      "summary": "Gegevensverzameling alleen bij concrete verdenking toestaan",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gegevensverzameling",
+        "aivd",
+        "sleepnetten",
+        "verdenking",
+        "privacy"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Als er geen concrete verdenking tegen iemand bestaat, mogen er geen gegevens binnengehaald worden. Ook de AIVD heeft geen vrijbrief om massaal gegevens van burgers te verzamelen. [...] zulke sleepnetten laten we dus niet meer toe."
+    },
+    {
+      "promiseCode": "SP-2025-157",
+      "text": "Investeren in Nederlandse en Europese alternatieven voor Amerikaanse digitale producten, overheden maximaal gebruik laten maken van open source, publieke data veilig opslaan in Nederlandse datacentra.",
+      "summary": "Digitale onafhankelijkheid van VS vergroten via open source en eigen datacentra",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "digitale autonomie",
+        "open source",
+        "datacentra",
+        "amerikaanse afhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "We moeten investeren in alternatieven in Nederland en Europa, zodat we de afhankelijkheid van de VS kunnen verminderen. Overheden maken zo veel mogelijk gebruik van open source [...] Publieke data wordt veilig opgeslagen in publieke datacentra in Nederland."
+    },
+    {
+      "promiseCode": "SP-2025-158",
+      "text": "Ministerie van Digitale Zaken oprichten voor gerichte aanpak van digitalisering binnen en buiten de overheid.",
+      "summary": "Ministerie van Digitale Zaken oprichten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "digitale zaken",
+        "digitalisering",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Een ministerie van Digitale Zaken zorgt voor een gerichte aanpak om zowel de digitalisering binnen de overheid als daarbuiten in goede banen te leiden."
+    },
+    {
+      "promiseCode": "SP-2025-159",
+      "text": "Permanent onderzoeksinstituut oprichten dat adviseert over maatschappelijke gevolgen van technologie, nieuwe technologieën onderwerpen aan ethische toets voordat zij toetreden tot markt.",
+      "summary": "Onderzoeksinstituut voor technologie-ethiek en verplichte ethische toets",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderzoeksinstituut",
+        "technologie",
+        "ethische toets",
+        "maatschappelijke gevolgen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Wij versterken de volksvertegenwoordiging met een permanent onderzoeksinstituut dat adviseert over de maatschappelijke gevolgen van technologische ontwikkelingen [...] Nieuwe technologieën worden eerst onderworpen aan een ethische toets, voordat zij kunnen toetreden tot de markt."
+    },
+    {
+      "promiseCode": "SP-2025-160",
+      "text": "Autoriteit Persoonsgegevens versterken om privacy-misstanden aan te pakken, consumenten bij 'gratis' diensten dezelfde bescherming geven als bij betaalde diensten.",
+      "summary": "Autoriteit Persoonsgegevens versterken en gelijke bescherming bij gratis diensten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "autoriteit persoonsgegevens",
+        "privacy",
+        "gratis diensten",
+        "consumentenbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 56",
+      "originalQuote": "Wij versterken de Autoriteit Persoonsgegevens om misstanden aan te pakken [...] Consumenten krijgen bij het gebruik van 'gratis' diensten (waarbij ze betalen met data, zoals op sociale media) dezelfde bescherming als wanneer ze zouden betalen met geld."
+    },
+    {
+      "promiseCode": "SP-2025-161",
+      "text": "Winstbelasting voor grote bedrijven verhogen naar ten minste het niveau van inkomstenbelasting voor gewone mensen, bestuurders die belasting ontduiken strafrechtelijk vervolgen.",
+      "summary": "Winstbelasting verhogen en strafrechtelijke vervolging bij belastingontduiking",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstbelasting",
+        "grote bedrijven",
+        "strafrechtelijke vervolging",
+        "belastingontduiking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 58",
+      "originalQuote": "Daarom verhogen we de winstbelasting naar ten minste het niveau van de inkomstenbelasting die gewone mensen betalen. De bestuurders van bedrijven die belasting ontduiken worden strafrechtelijk vervolgd."
+    },
+    {
+      "promiseCode": "SP-2025-162",
+      "text": "Vermogensbelasting van vijf procent invoeren voor rijkste 0,3 procent met eerste vijf miljoen euro vrijgesteld, vertrekbelasting invoeren om wegsluizen naar belastingparadijzen te voorkomen.",
+      "summary": "Vermogensbelasting 5% voor miljardairs met vrijstelling tot 5 miljoen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vermogensbelasting",
+        "vijf procent",
+        "vijf miljoen",
+        "vertrekbelasting",
+        "miljardairs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 58",
+      "originalQuote": "Door doelgericht de vermogens van de rijkste 0,3 procent miljonairs en miljardairs te belasten tegen een fair tarief van vijf procent [...] Voor deze redelijke belasting is de eerste vijf miljoen euro vermogen vrijgesteld"
+    },
+    {
+      "promiseCode": "SP-2025-163",
+      "text": "Vermogensplafond van vijftig miljoen euro invoeren, vermogen daarboven inzetten voor publieke voorzieningen zoals onderwijs, zorg en infrastructuur.",
+      "summary": "Vermogensplafond van 50 miljoen euro invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vermogensplafond",
+        "vijftig miljoen",
+        "publieke voorzieningen",
+        "onderwijs",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 58",
+      "originalQuote": "Hiervoor voeren we een vermogensplafond in, waarmee we het vermogen bóven 50 miljoen euro kunnen inzetten voor beter onderwijs, onderzoek, infrastructuur, zorg, politie"
+    },
+    {
+      "promiseCode": "SP-2025-164",
+      "text": "Erfbelasting hervormen: honderdduizend euro belastingvrij voor kinderen, tarief tussen honderdduizend en vijfhonderdduizend euro gelijk aan inkomstenbelasting, zwaarder belasten boven half miljoen.",
+      "summary": "Erfbelasting hervormen met 100k vrijstelling en hogere tarieven voor miljoenen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfbelasting",
+        "honderdduizend euro",
+        "vrijstelling",
+        "inkomstenbelasting",
+        "half miljoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 59",
+      "originalQuote": "wij willen dat je dit bedrag belastingvrij kunt doorgeven aan je kinderen. Voor erfenissen tussen de honderd en vijfhonderdduizend stellen we het tarief gelijk met de inkomstenbelasting [...] Boven de half miljoen [...] dat gaan we zwaarder belasten"
+    },
+    {
+      "promiseCode": "SP-2025-165",
+      "text": "Financial Transaction Tax (Tobin-taks) invoeren op financiële transacties samen met gelijkgezinde Europese lidstaten om speculatie te beperken.",
+      "summary": "Financial Transaction Tax invoeren tegen financiële speculatie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financial transaction tax",
+        "tobin-taks",
+        "financiële transacties",
+        "speculatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 59",
+      "originalQuote": "Wij willen daarom een kleine belasting op financiële transacties, vaak een Tobin-taks genoemd. Daarbij zetten wij ons in voor het Europese voorstel voor een Financial Transaction Tax (FTT), samen met gelijkgezinde lidstaten."
+    },
+    {
+      "promiseCode": "SP-2025-166",
+      "text": "Criminele vermogens systematisch afpakken en opbrengst inzetten voor aanpak van grondoorzaken criminaliteit zoals armoede.",
+      "summary": "Criminele vermogens afpakken voor bestrijding armoede",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "criminele vermogens",
+        "afpakken",
+        "grondoorzaken",
+        "criminaliteit",
+        "armoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP 2025, p. 59",
+      "originalQuote": "Dit moet gestopt worden en het geld dat hiermee verdiend is, moet worden afgepakt. Daarmee kunnen we de grondoorzaken van criminaliteit, zoals armoede, aanpakken."
+    }
+  ]
+}

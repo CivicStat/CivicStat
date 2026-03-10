@@ -1,0 +1,286 @@
+{
+  "description": "Verkiezingsprogramma's voor CivicStat ingest. Primaire bron: DNPP (Rijksuniversiteit Groningen). Secundaire bron: partijwebsites.",
+  "lastUpdated": "2026-02-06",
+  "programs": {
+    "2023": {
+      "election": "Tweede Kamerverkiezingen 22 november 2023",
+      "parties": [
+        {
+          "abbreviation": "PVV",
+          "title": "Nederland weer op 1",
+          "dnppId": "87730",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87730/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87730/1/PVV%20Verkiezingsprogramma%202023.pdf",
+          "secondaryUrl": "https://pvv.nl/verkiezingsprogramma",
+          "notes": "Kort programma (~1 A4)"
+        },
+        {
+          "abbreviation": "GL-PvdA",
+          "title": "Samen voor een hoopvolle toekomst",
+          "dnppId": "87717",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87717/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87717/13/GL-PvdA%20Verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://groenlinks-pvda.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "VVD",
+          "title": "Ruimte geven. Grenzen stellen.",
+          "dnppId": "87710",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87710/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87710/7/VVD%20Verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://www.vvd.nl/content/uploads/2023/11/Verkiezingsprogramma-2024-2028.pdf",
+          "notes": ""
+        },
+        {
+          "abbreviation": "NSC",
+          "title": "Tijd voor herstel. Vertrouwen. Zekerheid. Perspectief.",
+          "dnppId": "87814",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87814/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87814/1/NSC%20Verkiezingsprogramma%202023.pdf",
+          "secondaryUrl": "https://partijnieuwsociaalcontract.nl/verkiezingsprogramma",
+          "notes": "Nieuw in 2023"
+        },
+        {
+          "abbreviation": "D66",
+          "title": "Nieuwe energie voor Nederland",
+          "dnppId": "87786",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87786/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87786/7/D66%20Verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://d66.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "BBB",
+          "title": "Iedere dag BBBeter. Van Vertrouwenscrisis naar Noaberstaat.",
+          "dnppId": "87720",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87720/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87720/7/BBB%20Verkiezingsprogramma%20TK%202023%20def.pdf",
+          "secondaryUrl": "https://www.boerburgerbeweging.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "CDA",
+          "title": "Recht doen",
+          "dnppId": "87714",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87714/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87714/7/CDA%20Verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://www.cda.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "SP",
+          "title": "Nu de mensen",
+          "dnppId": "87716",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87716/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87716/7/SP%20Verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://www.sp.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "PvdD",
+          "title": "Een wereld te herwinnen!",
+          "dnppId": "87718",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87718/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87718/7/PvdD%20Verkiezingsprogramma%20Tweede%20Kamer%202023.pdf",
+          "secondaryUrl": "https://www.partijvoordedieren.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "CU",
+          "title": "Nieuwe verbondenheid",
+          "dnppId": "87723",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87723/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87723/7/CU%20Verkiezingsprogramma%202023-2028.pdf",
+          "secondaryUrl": "https://www.christenunie.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "FVD",
+          "title": "Het programma van hoop, optimisme en herstel 2023-2027",
+          "dnppId": "87726",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87726/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87726/1/FVD%20Het%20programma%20van%20hoop%20optimisme%20en%20herstel%202023-2027.pdf",
+          "secondaryUrl": "https://fvd.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "SGP",
+          "title": "Woord houden",
+          "dnppId": "87771",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87771/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87771/1/SGP%20Compact%20verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://www.sgp.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "DENK",
+          "title": "Nu is het moment",
+          "dnppId": "87815",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87815/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87815/7/DENK%20Verkiezingsprogramma%202023-2027.pdf",
+          "secondaryUrl": "https://www.bewegingdenk.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "Volt",
+          "title": "Toekomst, nu. Een Europees verhaal van optimisme.",
+          "dnppId": "87719",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87719/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87719/7/VoltNL%20Verkiezingsprogramma%202023.pdf",
+          "secondaryUrl": "https://voltnederland.org/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "JA21",
+          "title": "Nederland weer op de rit",
+          "dnppId": "87715",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/87715/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/87715/7/JA21%20Verkiezingsprogramma%20TK%202023_A4_v2.pdf",
+          "secondaryUrl": "https://ja21.nl/verkiezingsprogramma",
+          "notes": ""
+        }
+      ]
+    },
+    "2025": {
+      "election": "Tweede Kamerverkiezingen 29 oktober 2025",
+      "parties": [
+        {
+          "abbreviation": "PVV",
+          "title": "Dit is uw land!",
+          "dnppId": "88766",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88766/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88766/1/PVV%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://pvv.nl",
+          "notes": ""
+        },
+        {
+          "abbreviation": "GL-PvdA",
+          "title": "Een nieuwe start voor Nederland",
+          "dnppId": "88754",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88754/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88754/7/GL-PvdA%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+          "secondaryUrl": "https://groenlinks-pvda.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "VVD",
+          "title": "Sterker uit de storm",
+          "dnppId": "88735",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88735/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88735/1/VVD%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://www.vvd.nl/nieuws/verkiezingsprogramma-tweede-kamerverkiezingen-2025/",
+          "notes": ""
+        },
+        {
+          "abbreviation": "NSC",
+          "title": "Zorgen voor zekerheid!",
+          "dnppId": "88758",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88758/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88758/7/NSC%20Verkiezingsprogramma%20TK%202025%20definitief.pdf",
+          "secondaryUrl": "https://partijnieuwsociaalcontract.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "D66",
+          "title": "Het kan wél",
+          "dnppId": "88770",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88770/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88770/43/D66%20Verkiezingsprogramma%20TK%202025-2030.pdf",
+          "secondaryUrl": "https://d66.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "BBB",
+          "title": "BBB levert",
+          "dnppId": "88739",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88739/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88739/7/BBB%20Verkiezingsprogramma%20TK2025.pdf",
+          "secondaryUrl": "https://www.boerburgerbeweging.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "CDA",
+          "title": "Bouwen op vertrouwen",
+          "dnppId": "88765",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88765/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88765/7/CDA%20Verkiezingsprogramma%20TK%202025%20Definitief.pdf",
+          "secondaryUrl": "https://www.cda.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "SP",
+          "title": "Super sociaal",
+          "dnppId": "88738",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88738/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88738/7/SP-verkiezingsprogramma-TK2025.pdf",
+          "secondaryUrl": "https://www.sp.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "PvdD",
+          "title": "Natuurlijk.",
+          "dnppId": "88761",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88761/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88761/7/PvdD%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://www.partijvoordedieren.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "CU",
+          "title": "Opstaan voor het goede",
+          "dnppId": "88763",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88763/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88763/1/CU%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://www.christenunie.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "FVD",
+          "title": "Een nieuwe kans voor Nederland",
+          "dnppId": "88769",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88769/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88769/1/FVD%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://fvd.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "SGP",
+          "title": "Stem christelijk voor Nederland",
+          "dnppId": "88768",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88768/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88768/7/SGP%20Verkiezingsprogramma%20TK%202025-2029.pdf",
+          "secondaryUrl": "https://www.sgp.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "DENK",
+          "title": "Nu is het moment meer dan ooit!",
+          "dnppId": "88779",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88779/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88779/1/DENK%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://www.bewegingdenk.nl/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "Volt",
+          "title": "Doe iets nieuws",
+          "dnppId": "88740",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88740/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88740/13/Volt%20Verkiezingsprogramma%20TK%202025.pdf",
+          "secondaryUrl": "https://voltnederland.org/verkiezingsprogramma",
+          "notes": ""
+        },
+        {
+          "abbreviation": "JA21",
+          "title": "De juiste aanpak voor Nederland",
+          "dnppId": "88762",
+          "dnppUrl": "https://dnpprepo.ub.rug.nl/88762/",
+          "pdfUrl": "https://dnpprepo.ub.rug.nl/88762/7/JA21%20Verkiezingsprogramma%20TK%202025%20definitief.pdf",
+          "secondaryUrl": "https://ja21.nl/verkiezingsprogramma",
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

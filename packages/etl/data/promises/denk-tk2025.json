@@ -1,0 +1,2691 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "program": "Nu is het moment meer dan ooit!",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88779/",
+  "pdfHash": "0e3ef94b58ff2f226f9c83a21fb2b18e588f01da1b7b806a91a08f80ca21ffa1",
+  "totalPromises": 176,
+  "promises": [
+    {
+      "promiseCode": "DENK-2025-001",
+      "text": "DENK wil een rode lijn trekken tegen alle uitwassen van de huidige politiek op 29 oktober 2025.",
+      "summary": "Rode lijn trekken tegen uitwassen huidige politiek",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "politiek",
+        "uitwassen",
+        "bestrijding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 2",
+      "originalQuote": "Op 29 oktober moeten we een rode lijn trekken tegen alle uitwassen van de huidige politiek: Nooit meer is nu!"
+    },
+    {
+      "promiseCode": "DENK-2025-002",
+      "text": "DENK wil keiharde sancties tegen Israël eisen om de militaire acties in Gaza te stoppen.",
+      "summary": "Keiharde sancties tegen Israël eisen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sancties",
+        "israël",
+        "gaza",
+        "buitenlandbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 3",
+      "originalQuote": "Wij moeten keiharde sancties tegen \"Israël\" eisen om de genocide in Gaza te stoppen."
+    },
+    {
+      "promiseCode": "DENK-2025-003",
+      "text": "DENK wil de armoede in Nederland een halt toeroepen door concrete maatregelen.",
+      "summary": "Armoede in Nederland een halt toeroepen",
+      "theme": "SOCIAAL",
+      "specificity": "VAAG",
+      "keywords": [
+        "armoede",
+        "armoedebestrijding",
+        "sociaalbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 3",
+      "originalQuote": "Wij moeten alles geven om de armoede in ons land een halt toe te roepen"
+    },
+    {
+      "promiseCode": "DENK-2025-004",
+      "text": "DENK wil de crisis op de woningmarkt oplossen.",
+      "summary": "Crisis op woningmarkt oplossen",
+      "theme": "WONEN",
+      "specificity": "VAAG",
+      "keywords": [
+        "woningmarkt",
+        "woningcrisis",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 3",
+      "originalQuote": "de crisis op de woningmarkt op te lossen"
+    },
+    {
+      "promiseCode": "DENK-2025-005",
+      "text": "DENK wil zorgen dat iedereen een betaalbaar huis heeft door de welvaart eerlijk te delen.",
+      "summary": "Iedereen een betaalbaar huis",
+      "theme": "WONEN",
+      "specificity": "VAAG",
+      "keywords": [
+        "betaalbaar",
+        "woning",
+        "welvaart",
+        "eerlijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 3",
+      "originalQuote": "Een land waarin we de welvaart eerlijk delen en iedereen een betaalbaar huis heeft."
+    },
+    {
+      "promiseCode": "DENK-2025-006",
+      "text": "De zwaarste sancties tegen Netanyahu en alle leden van de Israëlische regering, inclusief het bevriezen van tegoeden, beslag op inkomsten en inreisverboden.",
+      "summary": "Zwaarste sancties tegen Netanyahu en Israëlische regering",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sancties",
+        "netanyahu",
+        "regering",
+        "tegoeden",
+        "inreisverboden"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "De zwaarste sancties tegen de oorlogsmisdadiger Netanyahu en alle andere leden van de \"Israëlische\" regering. Alle tegoeden van leden van de \"Israëlische\" regering worden bevroren, er wordt beslag gelegd op hun inkomsten en er worden inreisverboden ingesteld."
+    },
+    {
+      "promiseCode": "DENK-2025-007",
+      "text": "Nederland stopt alle vormen van militaire samenwerking met Israël, verscheurt het militaire verdrag en deelt geen inlichtingen meer.",
+      "summary": "Stop alle militaire samenwerking met Israël",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "militaire",
+        "samenwerking",
+        "verdrag",
+        "inlichtingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Nederland stopt alle vormen van militaire samenwerking met \"Israël\". Het militaire verdrag tussen Nederland en \"Israël\" gaat door de shredder en er worden geen inlichtingen meer met \"Israël\" gedeeld."
+    },
+    {
+      "promiseCode": "DENK-2025-008",
+      "text": "Een volledig en permanent wapenembargo tegen Israël, inclusief wapens, onderdelen en dual-use goederen.",
+      "summary": "Volledig en permanent wapenembargo tegen Israël",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wapenembargo",
+        "wapens",
+        "onderdelen",
+        "dual-use"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Er komt een volledig en permanent wapen embargo tegen \"Israël\". Nederland levert geen wapens, onderdelen voor wapens of dual­use goederen meer aan \"Israël\"."
+    },
+    {
+      "promiseCode": "DENK-2025-009",
+      "text": "Alle wapeninkoop vanuit Israël wordt permanent gestopt en bestaande contracten worden beëindigd.",
+      "summary": "Stop wapeninkoop uit Israël, beëindig contracten",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wapeninkoop",
+        "contracten",
+        "beëindigd",
+        "permanent"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Alle wapeninkoop vanuit \"Israël\" wordt permanent en volledig gestopt, bestaande contracten worden beëindigd."
+    },
+    {
+      "promiseCode": "DENK-2025-010",
+      "text": "Een categorisch inreisverbod voor al het personeel van de Israeli Occupation Forces.",
+      "summary": "Inreisverbod voor Israëlisch militair personeel",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inreisverbod",
+        "personeel",
+        "leger",
+        "categorisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Het \"Israëlische\" leger is een bezettingsleger, er komt een categorisch inreisverbod voor al het personeel van de Israeli Occupation Forces (IOF)."
+    },
+    {
+      "promiseCode": "DENK-2025-011",
+      "text": "Nederland stelt een totaal handelsembargo in tegen Israël, met uitzondering van humanitaire hulp voor Palestijnen.",
+      "summary": "Totaal handelsembargo tegen Israël",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handelsembargo",
+        "economische",
+        "sancties",
+        "humanitaire"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "De zwaarste economische sancties tegen \"Israël\" in de vorm van boycot en desinvesteringen. Nederland stelt een totaal handels­embargo in tegen \"Israël\", met uitzondering van humanitaire hulp voor de Palestijnen."
+    },
+    {
+      "promiseCode": "DENK-2025-012",
+      "text": "Nederland stopt alle economische samenwerking, handelsbevordering en sluit de handelspost in Tel Aviv permanent.",
+      "summary": "Stop economische samenwerking, sluit handelspost Tel Aviv",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "economische",
+        "handelsbevordering",
+        "handelspost",
+        "ambassade"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Alle economische samenwerking met \"Israël\" wordt gestopt. Handelsbevordering vanuit de Nederlandse overheid wordt gestaakt en de handelspost in de ambassade in Tel Aviv wordt permanent gesloten."
+    },
+    {
+      "promiseCode": "DENK-2025-013",
+      "text": "Nederland zet zich in de EU in voor het stoppen van alle Europese handelsbetrekkingen en opzegging van het EU-associatieakkoord met Israël.",
+      "summary": "Inzet EU voor stop handel en opzegging associatieakkoord Israël",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eu",
+        "handelsbetrekkingen",
+        "associatieakkoord",
+        "opzegging"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Nederland maakt zich in de EU hard voor het stoppen van alle Europese handelsbetrekkingen met \"Israël\" en het EU­associatieakkoord met \"Israël\" moet worden opgezegd."
+    },
+    {
+      "promiseCode": "DENK-2025-014",
+      "text": "Inzetten op verwijdering van Israël uit de VN, opzegging van alle EU-verdragen en verbreken van alle Nederlandse verdragen met Israël.",
+      "summary": "Israël uit VN, opzeggen alle verdragen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vn",
+        "verdragen",
+        "opzegging",
+        "internationale"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Inzetten op verwijdering van \"Israël\" uit alle internationale sa­menwerkingsorganisaties en opzegging van alle verdragen met \"Israël\". Dat betekent dat \"Israël\" uit de VN moet worden gezet, dat alle EU-verdragen met \"Israël\" worden opgezegd en dat alle verdragen tussen Nederland en \"Israël\" worden verbroken."
+    },
+    {
+      "promiseCode": "DENK-2025-015",
+      "text": "Een sportieve, culturele en academische boycot van Israël, inclusief verbod op samenwerking met Israëlische onderwijsinstellingen.",
+      "summary": "Sportieve, culturele en academische boycot Israël",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boycot",
+        "academische",
+        "onderwijsinstellingen",
+        "culturele"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "Er komt een sportieve, culturele en academische boycot van \"Israël\". Samen werking met \"Israëlische\" onderwijsinstellingen wordt verboden en \"Israël\" wordt uitgesloten van de deelname van culturele­ en sportevenementen."
+    },
+    {
+      "promiseCode": "DENK-2025-016",
+      "text": "Israëlische bedrijven worden uitgesloten van overheidsaanbestedingen en pensioenfondsen stoten beleggingen in Israëlische organisaties per direct af.",
+      "summary": "Uitsluiten Israëlische bedrijven van aanbestedingen en pensioenbeleggingen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aanbestedingen",
+        "pensioenfondsen",
+        "beleggingen",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 6",
+      "originalQuote": "\"Israëlische\" bedrijven en organisaties worden uitgesloten van aanbestedingen en contracten bij de Nederlandse overheid. Pensioenfondsen stoten hun beleggingen in \"Israëlische\" organisaties per direct af."
+    },
+    {
+      "promiseCode": "DENK-2025-017",
+      "text": "Nederland richt een ruimhartig fonds op voor langdurige humanitaire hulp en wederopbouw voor Palestijnen en brengt internationaal een kopgroep bij elkaar.",
+      "summary": "Oprichting fonds humanitaire hulp en wederopbouw Palestijnen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fonds",
+        "humanitaire",
+        "wederopbouw",
+        "kopgroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 7",
+      "originalQuote": "Nederland gaat een ruimhartig fonds voor langdurige humanitaire hulp en wederopbouw voor de Palestijnen oprichten. Internationaal gaat Nederland hiervoor een kopgroep van landen en bedrijven bij elkaar brengen."
+    },
+    {
+      "promiseCode": "DENK-2025-018",
+      "text": "De steun aan VN-hulporganisatie UNRWA wordt volledig hervat en het bedrag wordt verviervoudigd.",
+      "summary": "Hervatten en verviervoudigen steun aan UNRWA",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "unrwa",
+        "steun",
+        "verviervoudigd",
+        "hervat"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 7",
+      "originalQuote": "De steun aan de VN-hulporganisatie UNRWA wordt volledig hervat en het bedrag dat Nederland uitkeert wordt verviervoudigd."
+    },
+    {
+      "promiseCode": "DENK-2025-019",
+      "text": "Nederland neemt verantwoordelijkheid om Palestijnen op te vangen en draagt ruimhartig bij aan medisch evacueren van zorgbehoevende Palestijnen.",
+      "summary": "Opvang Palestijnen en medische evacuatie",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opvang",
+        "palestijnen",
+        "medisch",
+        "evacueren"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 7",
+      "originalQuote": "Nederland neemt de verantwoordelijkheid om Palestijnen in Nederland op te vangen en draagt ruimhartig bij aan het medisch evacueren van zorgbehoevende Palestijnen."
+    },
+    {
+      "promiseCode": "DENK-2025-020",
+      "text": "Er wordt een langdurige samenwerkingsovereenkomst gesloten met Palestijnse autoriteiten om het Palestijnse zelfbestuur te ondersteunen.",
+      "summary": "Samenwerkingsovereenkomst met Palestijnse autoriteiten",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "samenwerkingsovereenkomst",
+        "palestijnse",
+        "autoriteiten",
+        "zelfbestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 7",
+      "originalQuote": "Er wordt een langdurige samenwerkingsovereenkomst gesloten met de Palestijnse autoriteiten om het Palestijnse zelfbestuur te ondersteunen."
+    },
+    {
+      "promiseCode": "DENK-2025-021",
+      "text": "Nederland erkent het zionisme als een extremistische en racistische ideologie die tot rassenscheiding en Apartheid heeft geleid.",
+      "summary": "Erkenning zionisme als extremistische ideologie",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zionisme",
+        "extremistische",
+        "ideologie",
+        "apartheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 8",
+      "originalQuote": "Nederland erkent het zionisme als een extremistische en racisti-sche ideologie die tot rassenscheiding en Apartheid heeft geleid."
+    },
+    {
+      "promiseCode": "DENK-2025-022",
+      "text": "De handel in producten uit illegale nederzettingen wordt strafbaar gesteld en tegen bouwers, ondersteuners en bewoners worden sancties getroffen.",
+      "summary": "Strafbaarstelling handel nederzettingsproducten en sancties",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strafbaar",
+        "nederzettingen",
+        "handel",
+        "sancties"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 8",
+      "originalQuote": "De handel in producten uit illegale nederzettingen wordt straf­baar gesteld en tegen alle bouwers, ondersteuners en bewoners van de illegale nederzettingen worden sancties getroffen."
+    },
+    {
+      "promiseCode": "DENK-2025-023",
+      "text": "Nederland biedt excuses aan voor de VN-stem in 1947 die bijdroeg aan het stelen van Palestijns land voor de oprichting van Israël.",
+      "summary": "Excuses voor VN-stem 1947",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "excuses",
+        "vn-stem",
+        "1947",
+        "palestijns"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 8",
+      "originalQuote": "Nederland biedt excuses aan voor de VN­stem in 1947 die bijdroeg aan het stelen van Palestijns land voor de oprichting van de entiteit \"Israël\"."
+    },
+    {
+      "promiseCode": "DENK-2025-024",
+      "text": "De Nakba uit 1948 wordt erkend als historisch onrecht en de Palestijnse gemeenschap wordt betrokken bij meer aandacht voor herdenking.",
+      "summary": "Erkenning Nakba 1948 als historisch onrecht",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nakba",
+        "1948",
+        "historisch",
+        "herdenking"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 8",
+      "originalQuote": "De Nakba uit 1948 wordt erkend als historisch onrecht tegen de Palestijnen. De Palestijnse gemeenschap wordt betrokken om de herdenking van de Nakba meer aandacht in Nederland te geven."
+    },
+    {
+      "promiseCode": "DENK-2025-025",
+      "text": "Nederland erkent de Palestijnse staat zoals een groeiende groep Europese landen dat reeds heeft gedaan.",
+      "summary": "Erkenning Palestijnse staat",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erkenning",
+        "palestijnse",
+        "staat",
+        "europese"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 8",
+      "originalQuote": "Nederland erkent de Palestijnse staat zoals een groeiende groep Europese landen dat reeds heeft gedaan."
+    },
+    {
+      "promiseCode": "DENK-2025-026",
+      "text": "Er komt een parlementaire enquête naar de rol van de Nederlandse regering in de genocide in Gaza en onderdrukking van Palestijnen.",
+      "summary": "Parlementaire enquête Nederlandse rol genocide Gaza",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parlementaire",
+        "enquête",
+        "genocide",
+        "regering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 9",
+      "originalQuote": "Er komt een parlementaire enquête naar de rol van de Nederlandse regering in de genocide in Gaza en de onderdrukking van de Palestijnen."
+    },
+    {
+      "promiseCode": "DENK-2025-027",
+      "text": "Er komt een Israël-tribunaal om zittende en voormalige bewindslieden te berechten voor mogelijke medeplichtigheid aan internationale misdrijven.",
+      "summary": "Israël-tribunaal voor berechting Nederlandse bewindslieden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tribunaal",
+        "bewindslieden",
+        "medeplichtigheid",
+        "misdrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 9",
+      "originalQuote": "Er komt een \"Israël\"-tribunaal om zittende en voormalige be­windslieden te berechten voor mogelijke medeplichtigheid aan internationale misdrijven."
+    },
+    {
+      "promiseCode": "DENK-2025-028",
+      "text": "Nederland onderzoekt actief welke Nederlanders in het Israëlische leger hebben gediend en deelt informatie met OM voor strafrechtelijke vervolging.",
+      "summary": "Onderzoek Nederlanders in Israëlisch leger voor vervolging",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderzoek",
+        "leger",
+        "vervolging",
+        "openbaar ministerie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 9",
+      "originalQuote": "Nederland gaat actief onderzoeken welke Nederlanders in het \"Israëlische\" leger hebben gediend en deze informatie met het Openbaar Ministerie delen zodat die over kan gaan tot strafrechtelijke vervolging."
+    },
+    {
+      "promiseCode": "DENK-2025-029",
+      "text": "Het Israëlische leger wordt op de lijst van terroristische organisaties geplaatst.",
+      "summary": "Israëlisch leger op terrorismelijst",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leger",
+        "terroristische",
+        "organisaties",
+        "lijst"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 9",
+      "originalQuote": "Het \"Israëlische\" leger wordt op de lijst van terroristische organisaties geplaatst."
+    },
+    {
+      "promiseCode": "DENK-2025-030",
+      "text": "Het wettelijke doel wordt dat in 2030 de ervaren discriminatie in de samenleving 0% is.",
+      "summary": "Discriminatiedeadline: 0% ervaren discriminatie in 2030",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "discriminatie",
+        "deadline",
+        "doelstelling",
+        "samenleving"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Een discriminatiedeadline. Het wettelijke doel wordt dat in 2030 de ervaren discriminatie in de samenleving 0% is."
+    },
+    {
+      "promiseCode": "DENK-2025-031",
+      "text": "In de Grondwet wordt expliciet opgenomen dat Nederland het fascisme en extreemrechtse politiek afwijst en kiest voor een pluriforme rechtsstaat waarin iedereen gelijkwaardig is.",
+      "summary": "Antifascisme expliciet opnemen in de Grondwet",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwet",
+        "antifascisme",
+        "grondwetswijziging",
+        "rechtsstaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Antifascisme in de Grondwet. Nooit meer is nu: in de Grondwet wordt expliciet opgenomen dat Nederland het fascisme en extreemrechtse politiek afwijst en kiest voor een pluriforme rechtsstaat waarin iedereen gelijkwaardig is."
+    },
+    {
+      "promiseCode": "DENK-2025-032",
+      "text": "Er komt een Autoriteit tegen Discriminatie en Racisme (AR) die de Nationaal Coördinator vervangt en krijgt échte macht, een onafhankelijk budget en ruime bevoegdheden.",
+      "summary": "Oprichting Autoriteit tegen Discriminatie en Racisme met echte macht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "autoriteit",
+        "discriminatie",
+        "racisme",
+        "bevoegdheden",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "De Autoriteit tegen Discriminatie en Racisme (AR). Deze Autoriteit vervangt de Nationaal Coördinator tegen Discriminatie en Racisme en krijgt iets wat nu ontbreekt: échte macht, een onafhankelijk budget en ruime bevoegdheden."
+    },
+    {
+      "promiseCode": "DENK-2025-033",
+      "text": "Alle overheidsinstanties worden grondig doorgelicht op discriminerend beleid en discriminerende algoritmes.",
+      "summary": "Volledige doorlichting overheid op discriminerend beleid en algoritmes",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheid",
+        "doorlichting",
+        "discriminatie",
+        "algoritmes",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Volledige doorlichting van de overheid. Alle overheidsinstanties worden grondig doorgelicht op discriminerend beleid en discriminerende algoritmes."
+    },
+    {
+      "promiseCode": "DENK-2025-034",
+      "text": "Overheidsmede­werkers die zich schuldig maken aan welke vorm van discriminatie dan ook, krijgen strafontslag. Daarnaast wordt elke ambtenaar verplicht om trainingen over inclusie en diversiteit te volgen.",
+      "summary": "Zero tolerance-beleid overheid: strafontslag en verplichte trainingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambtenaren",
+        "strafontslag",
+        "discriminatie",
+        "trainingen",
+        "diversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Zero tolerance-beleid binnen de overheid. Overheids mede­werkers die zich schuldig maken aan welke vorm van discriminatie dan ook, krijgen strafontslag. Daarnaast wordt elke ambtenaar verplicht om trainingen over inclusie en diversiteit te volgen."
+    },
+    {
+      "promiseCode": "DENK-2025-035",
+      "text": "De boetes en celstraffen voor discriminatiedelicten gaan flink omhoog.",
+      "summary": "Zwaardere straffen tegen discriminatie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boetes",
+        "celstraffen",
+        "discriminatie",
+        "strafverzwaring"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Zwaardere straffen tegen discriminatie. De boetes en celstraffen voor discriminatiedelicten gaan flink omhoog."
+    },
+    {
+      "promiseCode": "DENK-2025-036",
+      "text": "Tienduizend politiemedewerkers worden opgeleid en bijgeschoold om discriminatie effectiever te herkennen en aan te pakken, met een evenwichtige spreiding over gemeenten.",
+      "summary": "10.000 politiemedewerkers opleiden voor discriminatieaanpak",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politie",
+        "discriminatie",
+        "opleiding",
+        "bijscholing",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Discriminatiepolitie. Tienduizend politiemedewerkers worden opgeleid en bijgeschoold om discriminatie effectiever te herkennen en aan te pakken, met een evenwichtige spreiding over gemeenten."
+    },
+    {
+      "promiseCode": "DENK-2025-037",
+      "text": "Wanneer er signalen van institutionele discriminatie zijn, moet de organisatie aantonen dat er géén sprake van is.",
+      "summary": "Omkering bewijslast bij institutionele discriminatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bewijslast",
+        "discriminatie",
+        "organisaties",
+        "institutioneel"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Omkering van de bewijslast. Burgers staan vaak machteloos tegen over een organisatie. Daarom draaien we de bewijslast om: wanneer er signalen van institutionele discriminatie zijn, moet de organisatie aantonen dat er géén sprake van is."
+    },
+    {
+      "promiseCode": "DENK-2025-038",
+      "text": "Er komt een permanente Discriminatiemonitor waarin de ervaren discriminatie onder­zocht wordt. Online komt er een hatespeech detector die door middel van een algoritme online discriminatie opspoort.",
+      "summary": "Permanente discriminatiemonitor en online hatespeech detector",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "discriminatiemonitor",
+        "hatespeech",
+        "detector",
+        "algoritme",
+        "monitoring"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 13",
+      "originalQuote": "Permanente monitoring. Er komt een permanente Discriminatiemonitor waarin de ervaren discriminatie onder­zocht wordt. Online komt er een hatespeech detector die door middel van een algoritme online discriminatie opspoort."
+    },
+    {
+      "promiseCode": "DENK-2025-039",
+      "text": "Personen die onherroepelijk veroordeeld zijn voor racistische of discriminerende daden komen in een register en mogen vijf jaar lang niet in overheidsdienst treden.",
+      "summary": "Racismeregister met 5-jarig verbod op overheidsdienst",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "racismeregister",
+        "overheidsdienst",
+        "verbod",
+        "veroordeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 14",
+      "originalQuote": "Een Racismeregister. Personen die onherroepelijk veroordeeld zijn voor racistische of discriminerende daden komen in een register en mogen vijf jaar lang niet in overheidsdienst treden."
+    },
+    {
+      "promiseCode": "DENK-2025-040",
+      "text": "Door middel van quota breken wij het glazen plafond af binnen de overheid en het bedrijfsleven.",
+      "summary": "Diversiteitsquota voor overheid en bedrijfsleven",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diversiteitsquota",
+        "overheid",
+        "bedrijfsleven",
+        "glazenplafond"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 14",
+      "originalQuote": "Diversiteitsquota. Door middel van quota breken wij het glazen plafond af binnen de overheid en het bedrijfsleven."
+    },
+    {
+      "promiseCode": "DENK-2025-041",
+      "text": "Er komen rechters die zijn gespeci­aliseerd in gelijke behandeling. Daarnaast investeren wij in meer expertise bij het Openbaar Ministerie over discriminatie.",
+      "summary": "Specialisatie gelijke behandelingsrechters en OM-expertise discriminatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rechters",
+        "gelijkebehandeling",
+        "openbaarministerie",
+        "discriminatie",
+        "expertise"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 14",
+      "originalQuote": "Gelijke behandelingsrechters. Er komen rechters die zijn gespeci­aliseerd in gelijke behandeling. Daarnaast investeren wij in meer expertise bij het Openbaar Ministerie over discriminatie."
+    },
+    {
+      "promiseCode": "DENK-2025-042",
+      "text": "Het vernietigen, verbranden of verscheuren van de Bijbel, Thora, Koran, Veda's of welke heilige geschriften dan ook, wordt strafbaar gesteld.",
+      "summary": "Wettelijk verbod op verbranding heilige boeken",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "heiligeboeken",
+        "koranverbranding",
+        "strafbaarstelling",
+        "religies"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 14",
+      "originalQuote": "Wettelijk verbod Koranverbranding en schennis van heilige boeken. Het vernietigen, verbranden of verscheuren van de Bijbel, Thora, Koran, Veda's of welke heilige geschriften dan ook, wordt strafbaar gesteld."
+    },
+    {
+      "promiseCode": "DENK-2025-043",
+      "text": "De wet die informeel onderwijs onder toezicht stelt, het niqaabverbod en de wet toezicht op maatschappelijke organisaties worden per direct ingetrokken.",
+      "summary": "Intrekking islamofobe pestwetten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pestwetten",
+        "niqaabverbod",
+        "informeelonderwijs",
+        "maatschappelijkeorganisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 14",
+      "originalQuote": "Islamofobe pestwetten worden per direct ingetrokken. Dit geldt bijvoorbeeld voor de wet die informeel onderwijs onder toezicht stelt, het niqaabverbod en de wet toezicht op maatschappelijke organisaties."
+    },
+    {
+      "promiseCode": "DENK-2025-044",
+      "text": "Voor de illegale spionage bij moskeeën, het plaatsen van moslims op lijsten en de discriminerende uitwerking van wetten en regels biedt de Nederlandse regering excuses aan.",
+      "summary": "Regeringsexcuses voor anti-moslimbeleid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "excuses",
+        "moskeeën",
+        "spionage",
+        "moslimlijsten",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 14",
+      "originalQuote": "Excuses voor het anti-moslimbeleid. Voor de illegale spionage bij moskeeën, het plaatsen van moslims op lijsten en de discriminerende uitwerking van wetten en regels biedt de Nederlandse regering excuses aan."
+    },
+    {
+      "promiseCode": "DENK-2025-045",
+      "text": "In samenwerking met maatschappelijke organisaties stelt de overheid een fonds voor herstelbetalingen voor het slavernijverleden ter beschikking, gericht op het vergroten van de kansengelijkheid in de samenleving.",
+      "summary": "Herstelfonds slavernijverleden voor kansengelijkheid",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "herstelfonds",
+        "slavernijverleden",
+        "herstelbetalingen",
+        "kansengelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "Na excuses, komt herstel. In samenwerking met maatschappelijke organisaties stelt de overheid een fonds voor herstelbetalingen voor het slavernijverleden ter beschikking, gericht op het vergroten van de kansengelijkheid in de samenleving."
+    },
+    {
+      "promiseCode": "DENK-2025-046",
+      "text": "Er komt een wettelijke erkenning van het slavernijverleden als misdaad tegen de mensheid.",
+      "summary": "Wettelijke erkenning slavernij als misdaad tegen menselijkheid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slavernij",
+        "misdaad",
+        "menselijkheid",
+        "wettelijkeerkenning"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "Slavernij als misdaad tegen de menselijkheid. Er komt een wettelijke erkenning van het slavernijverleden als misdaad tegen de mensheid."
+    },
+    {
+      "promiseCode": "DENK-2025-047",
+      "text": "Deze racistische karikatuur wordt verboden. Gemeenten mogen hem niet langer faciliteren in de openbare ruimte of via publieke middelen.",
+      "summary": "Verbod Zwarte Piet in openbare ruimte",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwartepiet",
+        "verbod",
+        "gemeenten",
+        "openbareruimte",
+        "publiekemiddelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "'Zwarte Piet' wordt uitgebannen. Deze racistische karikatuur wordt verboden. Gemeenten mogen hem niet langer faciliteren in de openbare ruimte of via publieke middelen."
+    },
+    {
+      "promiseCode": "DENK-2025-048",
+      "text": "Surinaams­Nederlandse ouderen die onterecht zijn benadeeld in hun AOW­opbouw, krijgen volledige compensatie.",
+      "summary": "Volledige compensatie AOW-gat Surinaamse ouderen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow",
+        "surinaamsouderen",
+        "compensatie",
+        "ouderdomsvoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "Het AOW-gat voor Surinaamse ouderen wordt gerepareerd. Surinaams­Nederlandse ouderen die onterecht zijn benadeeld in hun AOW­opbouw, krijgen volledige compensatie."
+    },
+    {
+      "promiseCode": "DENK-2025-049",
+      "text": "1 juli wordt erkend als nationale dag van herdenking en bevrijding.",
+      "summary": "Keti Koti nationale feestdag op 1 juli",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ketikoti",
+        "feestdag",
+        "herdenking",
+        "bevrijding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "Keti Koti/Emancipation Day wordt een nationale feestdag. 1 juli wordt erkend als nationale dag van herdenking en bevrijding."
+    },
+    {
+      "promiseCode": "DENK-2025-050",
+      "text": "De strenge asielwetten van de extreemrechtse regering gaan de prullenbak in. Dit betekent dat de rechtspositie van vluchtelingen niet wordt beperkt, de duur van verblijfsvergunningen niet wordt ingeperkt, gezinshereniging niet moeilijker wordt gemaakt en er geen tweestatusstelsel komt.",
+      "summary": "Intrekking strenge asielwetten kabinet-Schoof",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielwetten",
+        "vluchtelingen",
+        "verblijfsvergunningen",
+        "gezinshereniging",
+        "tweestatusstelsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "De strenge asielwetten van de extreemrechtse regering gaan de prullenbak in. Dit betekent dat de rechtspositie van vluchtelingen niet wordt beperkt, de duur van verblijfsvergunningen niet wordt ingeperkt, gezinshereniging niet moeilijker wordt gemaakt en er geen tweestatusstelsel komt."
+    },
+    {
+      "promiseCode": "DENK-2025-051",
+      "text": "DENK wil meer investeren in langdurige, kleinschalige opvang­voorzieningen door heel het land. De Spreidingswet moet behouden blijven.",
+      "summary": "Investering kleinschalige opvang en behoud Spreidingswet",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opvang",
+        "kleinschalig",
+        "spreidingswet",
+        "vluchtelingen",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 15",
+      "originalQuote": "DENK wil meer investeren in langdurige, kleinschalige opvang­voorzieningen door heel het land. De Spreidingswet moet behouden blijven."
+    },
+    {
+      "promiseCode": "DENK-2025-052",
+      "text": "Gemeenten krijgen structureel meer middelen om kleinschalige, taalrijke en mensgerichte trajecten in te kopen. Wij zetten ons in om de werkdruk van taalcoaches en klantmanagers te verlagen om zo ruimte te maken voor echte begeleiding.",
+      "summary": "Meer geld gemeenten voor inburgering en verlaging werkdruk",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inburgering",
+        "gemeenten",
+        "taalcoaches",
+        "werkdruk",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 16",
+      "originalQuote": "Meer geld voor inburgering. Gemeenten krijgen structureel meer middelen om kleinschalige, taalrijke en mensgerichte trajecten in te kopen. Wij zetten ons in om de werkdruk van taalcoaches en klantmanagers te verlagen om zo ruimte te maken voor echte begeleiding."
+    },
+    {
+      "promiseCode": "DENK-2025-053",
+      "text": "DENK wil dat elke inburgeraar wordt ondersteund met een persoonlijke begeleider die meeloopt van dag één tot afronding van het traject.",
+      "summary": "Persoonlijke begeleider voor elke inburgeraar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inburgering",
+        "persoonlijkebegeleider",
+        "traject",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 16",
+      "originalQuote": "De inburgeraar wordt actief ontzorgd. Veel nieuwkomers verdwalen in het systeem. DENK wil dat elke inburgeraar wordt ondersteund met een persoonlijke begeleider die meeloopt van dag één tot afronding van het traject."
+    },
+    {
+      "promiseCode": "DENK-2025-054",
+      "text": "We investeren in de IND, het COA en gemeentelijke uitvoering om procedures te versnellen. Vluchtelingen krijgen zo snel mogelijk de noodzakelijke documenten en registraties om mee te kunnen doen, de achterstanden op dit gebied worden snel weggewerkt.",
+      "summary": "Investering IND en COA voor versnelde procedures",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ind",
+        "coa",
+        "procedures",
+        "vluchtelingen",
+        "documenten",
+        "achterstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 16",
+      "originalQuote": "Versnelde procedures, zonder afbraak van menswaardigheid. We investeren in de IND, het COA en gemeentelijke uitvoering om procedures te versnellen. Vluchtelingen krijgen zo snel mogelijk de noodzakelijke documenten en registraties om mee te kunnen doen, de achterstanden op dit gebied worden snel weggewerkt."
+    },
+    {
+      "promiseCode": "DENK-2025-055",
+      "text": "Naast de be­staande christelijke feestdagen moeten ook feestdagen van andere religies wettelijk erkend worden: Waaronder het Ramadanfeest (Eid ul-Fitr), Holi, Diwali, Jom Kipoer, Vaisakhi en het Offerfeest (Eid ul­Adha).",
+      "summary": "Wettelijke erkenning diverse religieuze feestdagen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "feestdagen",
+        "religies",
+        "ramadanfeest",
+        "diwali",
+        "holi",
+        "jomkipoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 16",
+      "originalQuote": "Erkenning van de diverse religieuze feestdagen. Naast de be­staande christelijke feestdagen moeten ook feestdagen van andere religies wettelijk erkend worden: Waaronder het Ramadanfeest (Eid ul-Fitr), Holi, Diwali, Jom Kipoer, Vaisakhi en het Offerfeest (Eid ul­Adha)."
+    },
+    {
+      "promiseCode": "DENK-2025-056",
+      "text": "In gebouwen met een publieke functie en binnen het onderwijs worden stilteruimtes verplicht gesteld, zodat mensen hun geloof kunnen belijden of tot rust kunnen komen.",
+      "summary": "Verplichte stilteruimtes in publieke gebouwen en onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stilteruimtes",
+        "publiekgebouwen",
+        "onderwijs",
+        "geloof",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 16",
+      "originalQuote": "Stilteruimtes in publieke instellingen. In gebouwen met een publieke functie en binnen het onderwijs worden stilteruimtes verplicht gesteld, zodat mensen hun geloof kunnen belijden of tot rust kunnen komen."
+    },
+    {
+      "promiseCode": "DENK-2025-057",
+      "text": "Er komt een algoritmewet. In deze wet worden waarborgen voor mensenrechten bij algoritmen verplicht. Het gebruik van afkomstgerelateerde kenmerken in algoritmen en risicoprofielen wordt verboden.",
+      "summary": "Algoritmewet met mensenrechtenwaarborgen en afkomstverbod",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "algoritmewet",
+        "mensenrechten",
+        "algoritmen",
+        "afkomst",
+        "risicoprofielen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 17",
+      "originalQuote": "Er komt een algoritmewet. In deze wet worden waarborgen voor mensenrechten bij algoritmen verplicht. Het gebruik van afkomstgerelateerde kenmerken in algoritmen en risicoprofielen wordt verboden."
+    },
+    {
+      "promiseCode": "DENK-2025-058",
+      "text": "Er komt een verplicht algoritme register, dat geldt voor zowel overheden als bedrijven die algoritmen inzetten.",
+      "summary": "Verplicht algoritmeregister voor overheden en bedrijven",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "algoritmeregister",
+        "overheden",
+        "bedrijven",
+        "algoritmen",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 17",
+      "originalQuote": "Algoritmes worden transparant. Er komt een verplicht algoritme register, dat geldt voor zowel overheden als bedrijven die algoritmen inzetten."
+    },
+    {
+      "promiseCode": "DENK-2025-059",
+      "text": "De AP krijgt extra middelen, bredere bevoegdheden en diepgaande expertise op het gebied van kunstmatige intelligentie.",
+      "summary": "Versterking Autoriteit Persoonsgegevens met AI-expertise",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "autoriteitpersoonsgegevens",
+        "kunstmatigeintelligentie",
+        "bevoegdheden",
+        "expertise",
+        "middelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 17",
+      "originalQuote": "Sterker toezicht door de Autoriteit Persoonsgegevens. De AP krijgt extra middelen, bredere bevoegdheden en diepgaande expertise op het gebied van kunstmatige intelligentie."
+    },
+    {
+      "promiseCode": "DENK-2025-060",
+      "text": "DENK wil jaarlijks 100.000 woningen bouwen om het woningtekort op te lossen.",
+      "summary": "Jaarlijks 100.000 woningen bouwen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouw",
+        "100.000",
+        "woningtekort",
+        "jaarlijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "Het doel is om jaarlijks 100.000 woningen te bouwen."
+    },
+    {
+      "promiseCode": "DENK-2025-061",
+      "text": "DENK wil een Rijkswoningbouwfonds oprichten waarin meer geld wordt gereserveerd om de bouw van betaalbare woningen te stimuleren.",
+      "summary": "Oprichten Rijkswoningbouwfonds voor betaalbare woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijkswoningbouwfonds",
+        "betaalbare woningen",
+        "woningbouw",
+        "stimuleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "Er komt een Rijkswoningbouwfonds waarin we meer geld reserveren om de bouw van betaalbare woningen te stimuleren."
+    },
+    {
+      "promiseCode": "DENK-2025-062",
+      "text": "DENK wil een Rijksbouwbedrijf oprichten dat de verantwoordelijkheid krijgt om woningbouwprojecten te ontwikkelen.",
+      "summary": "Oprichten Rijksbouwbedrijf voor woningbouwprojecten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksbouwbedrijf",
+        "woningbouwprojecten",
+        "ontwikkelen",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "We richten een Rijksbouwbedrijf op dat de verantwoordelijkheid krijgt om woningbouwprojecten te ontwikkelen."
+    },
+    {
+      "promiseCode": "DENK-2025-063",
+      "text": "DENK wil een fulltime Minister van Volkshuisvesting met verregaande bevoegdheden, zoals het bindend kunnen aanwijzen van locaties voor woningbouw.",
+      "summary": "Fulltime Minister Volkshuisvesting met bindende bevoegdheden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minister",
+        "volkshuisvesting",
+        "bevoegdheden",
+        "woningbouw",
+        "locaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "Er komt een fulltime Minister van Volkshuisvesting. Deze Minister krijgt verregaande bevoegdheden, zoals het bindend kunnen aanwijzen van locaties waar woningbouw gerealiseerd moet worden."
+    },
+    {
+      "promiseCode": "DENK-2025-064",
+      "text": "DENK wil een wettelijke norm invoeren voor betaalbare woningen: 50% sociale huur en koop, 40% betaalbare middenhuur en -koop, 10% hoger segment.",
+      "summary": "Wettelijke norm: 50% sociale huur/koop, 40% middensegment, 10% hoger",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijke norm",
+        "sociale huur",
+        "middenhuur",
+        "percentages"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "Een wettelijke norm in te voeren voor meer betaalbare woningen. Hierbij moet 50% bestaan uit sociale huur­ en koopwoningen, 40% betaalbare middenhuur en ­koop, en 10% hoger segment."
+    },
+    {
+      "promiseCode": "DENK-2025-065",
+      "text": "DENK wil huren bevriezen indien huurstijgingen te veel drukken op de koopkracht en op lange termijn mogen huren niet harder stijgen dan het inkomen.",
+      "summary": "Huren bevriezen en koppelen aan inkomensontwikkeling",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huurbevriezing",
+        "huurstijging",
+        "koopkracht",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "De huren worden bevroren indien de huurstijgingen te veel op de koopkracht van mensen drukken. Op de langere termijn mogen de huren niet harder stijgen dan het inkomen van mensen."
+    },
+    {
+      "promiseCode": "DENK-2025-066",
+      "text": "DENK wil heffingen voor woningcorporaties zoals de ATAD afschaffen en inkomensgrenzen voor sociale huurwoningen verruimen.",
+      "summary": "ATAD-heffing afschaffen en inkomensgrenzen sociale huur verruimen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "atad",
+        "woningcorporaties",
+        "inkomensgrenzen",
+        "sociale huur"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "Heffingen voor woningcorporaties, zoals de ATAD, worden afgeschaft. Meer mensen komen in aanmerking voor een sociale huurwoning. De inkomensgrenzen worden verruimd."
+    },
+    {
+      "promiseCode": "DENK-2025-067",
+      "text": "DENK wil de OZB-belasting maximeren zodat deze niet meer als lokale melkkoe gebruikt kan worden.",
+      "summary": "OZB-belasting maximeren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb-belasting",
+        "maximeren",
+        "gemeenten",
+        "woonlasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "De OZB­belasting mag niet meer gebruikt worden als een lokale melkkoe. De OZB-belasting wordt gemaximeerd."
+    },
+    {
+      "promiseCode": "DENK-2025-068",
+      "text": "DENK wil de hypotheekrenteaftrek behouden maar afschaffen voor ultrarijken met superdure woningen.",
+      "summary": "Hypotheekrenteaftrek beperken voor ultrarijken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "ultrarijken",
+        "superdure woningen",
+        "beperken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 21",
+      "originalQuote": "De hypotheekrenteaftrek blijft bestaan, om woningbezitters tegemoet te komen. We maken het systeem wel doelmatiger, door de aftrek af te schaffen voor ultrarijken met superdure woningen."
+    },
+    {
+      "promiseCode": "DENK-2025-069",
+      "text": "DENK wil rentevrije hypotheken (halalhypotheken) voor iedereen beschikbaar maken.",
+      "summary": "Rentevrije hypotheken voor iedereen beschikbaar maken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rentevrije hypotheken",
+        "halalhypotheken",
+        "toegankelijkheid",
+        "woningkoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 21",
+      "originalQuote": "Om ervoor te zorgen dat een koopwoning voor iedereen beschikbaar is, gaat de overheid er zorg voor dragen dat er ook rentevrije hypotheken beschikbaar komen. Deze rentevrije – of halalhypotheek wordt voor iedereen beschikbaar."
+    },
+    {
+      "promiseCode": "DENK-2025-070",
+      "text": "DENK wil de kostendelersnorm afschaffen en andere regels die woningdelen belemmeren om meer woningruimte beschikbaar te maken.",
+      "summary": "Kostendelersnorm en belemmeringen woningdelen afschaffen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "woningdelen",
+        "afschaffen",
+        "woningruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 20",
+      "originalQuote": "We schaffen de kostendelersnorm af en andere regels die woningdelen belemmeren worden ook afgeschaft."
+    },
+    {
+      "promiseCode": "DENK-2025-071",
+      "text": "DENK wil zwaardere straffen en boetes invoeren voor woningmarktdiscriminatie en jaarlijks grootschalig mysteryguest onderzoek uitvoeren.",
+      "summary": "Zwaardere straffen discriminatie en mysteryguest onderzoek",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningmarktdiscriminatie",
+        "straffen",
+        "boetes",
+        "mysteryguest"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 21",
+      "originalQuote": "Voor woningmarktdiscriminatie komen zwaardere straffen en boetes. Met jaarlijks en grootschalig mysteryguest onderzoek worden discriminerende makelaars opgespoord en aangepakt."
+    },
+    {
+      "promiseCode": "DENK-2025-072",
+      "text": "Het minimumloon verhogen naar 18 euro per uur voor alle Nederlanders om een eerlijk loon te waarborgen.",
+      "summary": "Minimumloon verhogen naar 18 euro per uur",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "verhoging",
+        "loon",
+        "uurloon"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Wij willen een eerlijk loon voor alle Nederlanders. Daarom zijn wij voor een verhoging van het minimumloon naar 18 euro per uur."
+    },
+    {
+      "promiseCode": "DENK-2025-073",
+      "text": "Een energietoeslag invoeren voor mensen met een laag inkomen zolang de energieprijzen op hoog niveau blijven.",
+      "summary": "Energietoeslag voor lage inkomens",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energietoeslag",
+        "energieprijzen",
+        "inkomen",
+        "toeslag"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Zolang de energieprijzen op hoog niveau blijven, is een energie­toeslag noodzakelijk voor mensen met een laag inkomen."
+    },
+    {
+      "promiseCode": "DENK-2025-074",
+      "text": "BTW verlagen en prijsmaatregelen nemen om de prijzen van boodschappen te verlagen.",
+      "summary": "BTW verlagen en prijsmaatregelen voor boodschappen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "btw",
+        "verlaging",
+        "prijsmaatregelen",
+        "boodschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Wij willen dat de prijzen van boodschappen omlaag gaan. Dit doen wij door het nemen van prijsmaatregelen en het verlagen van de BTW."
+    },
+    {
+      "promiseCode": "DENK-2025-075",
+      "text": "Een fulltime Minister voor Armoedebestrijding aanstellen en extra investeringen doen in armoedebestrijding met ambitieuze doelen.",
+      "summary": "Fulltime Minister voor Armoedebestrijding aanstellen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "armoedebestrijding",
+        "investeringen",
+        "doelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Er komt een fulltime Minister voor Armoedebestrijding. De nieuwe regering legt zichzelf ambitieuze doelen op het gebied van het terugdringen van de armoede op."
+    },
+    {
+      "promiseCode": "DENK-2025-076",
+      "text": "De beslagvrije voet verhogen en menswaardig incasseren als keiharde norm invoeren, waarbij de overheid zich voorbeeldig opstelt als schuldeiser.",
+      "summary": "Beslagvrije voet verhogen en menswaardig incasseren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beslagvrije",
+        "voet",
+        "incasseren",
+        "schuldeiser"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Menswaardig incasseren wordt een keiharde norm, waarbij de beslagvrije voet wordt verhoogd. Wij moeten waarborgen dat de overheid zich als grootste schuldeiser voorbeeldig gaat opstellen."
+    },
+    {
+      "promiseCode": "DENK-2025-077",
+      "text": "Buy-now-pay-later zo veel mogelijk verboden en publiekscampagnes tegen niet-gebruik van regelingen.",
+      "summary": "Buy-now-pay-later verbieden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buy-now-pay-later",
+        "verbod",
+        "publiekscampagnes",
+        "regelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Buy­ now-pay later wordt zo veel mogelijk verboden. Met publiekscampagnes gaan wij niet­gebruik van regelingen tegen."
+    },
+    {
+      "promiseCode": "DENK-2025-078",
+      "text": "Kinderbijslag verhogen en maandelijks uitbetalen in plaats van per kwartaal, net als in Duitsland en België. Ook het kindgebonden budget verhogen.",
+      "summary": "Kinderbijslag verhogen en maandelijks uitbetalen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebonden",
+        "budget",
+        "maandelijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Wij willen gezinnen ondersteunen met een hogere kinderbijslag en een hoger kindgebonden budget. En in plaats van één keer per drie maanden, wordt de kinderbijslag elke maand uitbetaald."
+    },
+    {
+      "promiseCode": "DENK-2025-079",
+      "text": "Het toeslagenstelsel vervangen door een eenvoudiger stelsel en fraudebestrijding uitvoeren met menselijke maat, zonder afkomstgerelateerde gegevens.",
+      "summary": "Toeslagenstelsel vervangen door eenvoudiger stelsel",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "toeslagenstelsel",
+        "vervanging",
+        "fraudebestrijding",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "Wij willen dat het toeslagenstelsel vervangen wordt door een stelsel dat eenvoudiger is. Fraudebestrijding in de sociale zekerheid moet altijd met de menselijke maat voorop en afkomstgerelateerde gegevens worden hier nooit voor gebruikt."
+    },
+    {
+      "promiseCode": "DENK-2025-080",
+      "text": "Belasting verlagen voor lage- en middeninkomens en een extra bijdrage vragen aan mensen met heel hoog inkomen of vermogen.",
+      "summary": "Belasting verlagen voor lage inkomens, verhogen voor hoge inkomens",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belasting",
+        "verlaging",
+        "middeninkomens",
+        "vermogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "We verlagen de belasting voor lage- en middeninkomens. Mensen met een heel hoog inkomen of vermogen kunnen een extra bijdrage leveren."
+    },
+    {
+      "promiseCode": "DENK-2025-081",
+      "text": "De expatregeling afschaffen en de belasting op banken verhogen. Belastingontwijking steviger aanpakken.",
+      "summary": "Expatregeling afschaffen en bankenbelasting verhogen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "expatregeling",
+        "afschaffing",
+        "bankenbelasting",
+        "belastingontwijking"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 24",
+      "originalQuote": "We verhogen de belasting op banken en schaffen ondoelmatige belastingvoordelen af, zoals de expat­regeling. We pakken belastingontwijking steviger aan."
+    },
+    {
+      "promiseCode": "DENK-2025-082",
+      "text": "De loonkloof wettelijk dichten door het verschil in beloning tussen mannen en vrouwen, en tussen mensen met en zonder migratieachtergrond op te heffen.",
+      "summary": "Loonkloof wettelijk dichten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "loonkloof",
+        "wettelijk",
+        "discriminatie",
+        "beloning"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 25",
+      "originalQuote": "Wij willen dat de loonkloof wordt gedicht. Wij gaan wettelijk borgen dat het verschil in beloning tussen mannen en vrouwen, en tussen mensen met en zonder een migratieachtergrond, wordt opgeheven."
+    },
+    {
+      "promiseCode": "DENK-2025-083",
+      "text": "Een vergunningensysteem invoeren voor de uitzendbranche om uitbuiting van arbeidsmigranten en discriminatie aan te pakken.",
+      "summary": "Vergunningensysteem voor uitzendbranche tegen uitbuiting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningensysteem",
+        "uitzendbranche",
+        "arbeidsmigranten",
+        "uitbuiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 25",
+      "originalQuote": "Uitwassen in uitzendbranche gaan wij tegen met een vergunningensysteem. Zo pakken wij uitbuiting van arbeidsmigranten en discriminatie aan."
+    },
+    {
+      "promiseCode": "DENK-2025-084",
+      "text": "Een publieke kredietbank oprichten voor kleine ondernemers die eerlijke leningen verstrekt aan ondernemers die bij gewone banken geen kans krijgen.",
+      "summary": "Publieke kredietbank oprichten voor kleine ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "publieke",
+        "kredietbank",
+        "ondernemers",
+        "leningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 25",
+      "originalQuote": "We richten een publieke kredietbank op voor kleine ondernemers. Die verstrekt eerlijke leningen aan ondernemers die bij gewone banken geen kans krijgen."
+    },
+    {
+      "promiseCode": "DENK-2025-085",
+      "text": "Een betaalbaar vangnet invoeren voor loondoorbetaling bij ziekte voor kleinere ondernemers zonder de rechten van werknemers in te perken.",
+      "summary": "Betaalbaar vangnet voor loondoorbetaling bij ziekte",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vangnet",
+        "loondoorbetaling",
+        "ziekte",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 25",
+      "originalQuote": "We zorgen voor een betaalbaar vangnet voor de loondoorbetaling bij ziekte voor kleinere ondernemers. Hiermee komen we ondernemers tegemoet, zonder de rechten van werknemers in te perken."
+    },
+    {
+      "promiseCode": "DENK-2025-086",
+      "text": "Belastingen en lasten verlagen voor kleinere ondernemingen.",
+      "summary": "Belastingen verlagen voor kleinere ondernemingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingen",
+        "lasten",
+        "verlaging",
+        "ondernemingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 25",
+      "originalQuote": "Wij willen een verlaging van de belastingen en lasten voor kleinere ondernemingen."
+    },
+    {
+      "promiseCode": "DENK-2025-087",
+      "text": "DENK draait bezuinigingen op het onderwijs terug en herstelt investeringen in kansengelijkheid.",
+      "summary": "Terugdraaien bezuinigingen onderwijs, herstellen investeringen kansengelijkheid",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezuinigingen",
+        "onderwijs",
+        "investeringen",
+        "kansengelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 28",
+      "originalQuote": "Wij draaien de bezuinigingen op het onderwijs terug, herstellen de investeringen in kansengelijkheid"
+    },
+    {
+      "promiseCode": "DENK-2025-088",
+      "text": "DENK breidt de brede brugklas uit om vroege selectie tegen te gaan.",
+      "summary": "Uitbreiding brede brugklas tegen vroege selectie",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brugklas",
+        "selectie",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 28-29",
+      "originalQuote": "breiden de brede brugklas uit"
+    },
+    {
+      "promiseCode": "DENK-2025-089",
+      "text": "DENK investeert in het onderwijsachterstandenbeleid met prioriteit voor scholen in kwetsbare wijken.",
+      "summary": "Investeren onderwijsachterstandenbeleid kwetsbare wijken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderwijsachterstanden",
+        "investering",
+        "kwetsbare",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 29",
+      "originalQuote": "Investeren in het onderwijsachterstandenbeleid met prioriteit voor scholen in kwetsbare wijken."
+    },
+    {
+      "promiseCode": "DENK-2025-090",
+      "text": "DENK kent hogere salarissen toe aan leraren in kwetsbare wijken.",
+      "summary": "Hogere salarissen leraren kwetsbare wijken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salarissen",
+        "leraren",
+        "kwetsbare",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 29",
+      "originalQuote": "Hogere salarissen voor leraren in de kwetsbare wijken."
+    },
+    {
+      "promiseCode": "DENK-2025-091",
+      "text": "DENK voert een maximale klassengrootte in voor meer tijd en aandacht voor begeleiding.",
+      "summary": "Maximale klassengrootte voor meer begeleiding",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klassengrootte",
+        "maximum",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 29",
+      "originalQuote": "Een maximale klassengrootte, zodat er meer tijd en aandacht is voor begeleiding."
+    },
+    {
+      "promiseCode": "DENK-2025-092",
+      "text": "DENK pakt het lerarentekort aan door voorrang op woningen, goedkopere lerarenopleiding en omscholing.",
+      "summary": "Aanpak lerarentekort via woningen, goedkopere opleiding, omscholing",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lerarentekort",
+        "woningen",
+        "lerarenopleiding",
+        "omscholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 29",
+      "originalQuote": "Het terugdringen van het lerarentekort door voorrang op woningen, goedkopere lerarenopleiding, omscholing en het activeren van de reserve aan leraren."
+    },
+    {
+      "promiseCode": "DENK-2025-093",
+      "text": "DENK maakt onderwijsmateriaal gratis voor alle leerlingen in het primair en voortgezet onderwijs.",
+      "summary": "Gratis onderwijsmateriaal primair en voortgezet onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderwijsmateriaal",
+        "gratis",
+        "primair",
+        "voortgezet"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 29",
+      "originalQuote": "Gratis onderwijsmateriaal voor alle leerlingen in het primair en voortgezet onderwijs."
+    },
+    {
+      "promiseCode": "DENK-2025-094",
+      "text": "DENK voorziet in gratis ontbijt en lunch op school in kwetsbare wijken.",
+      "summary": "Gratis ontbijt en lunch op scholen kwetsbare wijken",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontbijt",
+        "lunch",
+        "gratis",
+        "kwetsbare",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 29",
+      "originalQuote": "Gratis ontbijt en lunch op school in kwetsbare wijken."
+    },
+    {
+      "promiseCode": "DENK-2025-095",
+      "text": "DENK introduceert een wettelijk recht op passende stagevergoeding van €750 bij een fulltime stage.",
+      "summary": "Wettelijk recht stagevergoeding €750 bij fulltime stage",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "wettelijk",
+        "recht",
+        "€750",
+        "fulltime"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 30",
+      "originalQuote": "Er komt een wettelijk recht op passende stagevergoeding. Studenten krijgen recht op €750 bij een fulltime stage."
+    },
+    {
+      "promiseCode": "DENK-2025-096",
+      "text": "DENK regelt een stageplek voor elke student via een landelijke stagegarantie.",
+      "summary": "Landelijke stagegarantie voor elke student",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stageplek",
+        "landelijke",
+        "stagegarantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 30",
+      "originalQuote": "Een stageplek, geregeld via een landelijke stagegarantie."
+    },
+    {
+      "promiseCode": "DENK-2025-097",
+      "text": "DENK pakt stagediscriminatie aan met mysteryguest-onderzoeken, sancties en naming & shaming.",
+      "summary": "Aanpak stagediscriminatie via onderzoeken, sancties, naming & shaming",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagediscriminatie",
+        "mysteryguest",
+        "sancties",
+        "naming",
+        "shaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 30",
+      "originalQuote": "Stagediscriminatie keihard aanpakken, met mysteryguestonderzoeken, sancties voor bedrijven en naming & shaming bij bewezen discriminatie."
+    },
+    {
+      "promiseCode": "DENK-2025-098",
+      "text": "DENK investeert in kwaliteitsvol leerlingenvervoer voor het speciaal onderwijs.",
+      "summary": "Investeringen kwalitatief leerlingenvervoer speciaal onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerlingenvervoer",
+        "speciaal",
+        "onderwijs",
+        "kwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 30",
+      "originalQuote": "Wij gaan ook meer investeren in kwalitatief hoogwaardig leerlingenvervoer."
+    },
+    {
+      "promiseCode": "DENK-2025-099",
+      "text": "DENK voegt meer aandacht in het curriculum toe voor koloniaal verleden, slavernij, migratiegeschiedenis en non-discriminatie.",
+      "summary": "Meer curriculum-aandacht koloniaal verleden, slavernij, migratie, non-discriminatie",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "curriculum",
+        "koloniaal",
+        "slavernij",
+        "migratiegeschiedenis",
+        "non-discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 31",
+      "originalQuote": "Meer aandacht in het curriculum voor koloniaal verleden, slavernij verleden, migratiegeschiedenis en burgerschap"
+    },
+    {
+      "promiseCode": "DENK-2025-100",
+      "text": "DENK zorgt voor stilteruimtes op scholen en religieus verlof voor leerlingen en medewerkers.",
+      "summary": "Stilteruimtes en religieus verlof op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stilteruimtes",
+        "religieus",
+        "verlof",
+        "scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 31",
+      "originalQuote": "Stilteruimtes op scholen en het recht op religieus verlof voor leerlingen én medewerkers."
+    },
+    {
+      "promiseCode": "DENK-2025-101",
+      "text": "DENK stimuleert meertaligheid door lessen in Turks, Marokkaans-Arabisch en Pools aan te bieden.",
+      "summary": "Stimuleren meertaligheid via lessen Turks, Arabisch, Pools",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meertaligheid",
+        "turks",
+        "arabisch",
+        "pools",
+        "lessen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 31",
+      "originalQuote": "Meertaligheid stimuleren, door het aanbieden van lessen in veel gesproken talen in Nederland zoals het Turks, Marokkaans-Arabisch en Pools."
+    },
+    {
+      "promiseCode": "DENK-2025-102",
+      "text": "DENK trekt de wet toezicht op informeel onderwijs zo snel mogelijk in.",
+      "summary": "Intrekken wet toezicht informeel onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "toezicht",
+        "informeel",
+        "onderwijs",
+        "intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 31",
+      "originalQuote": "De wet toezicht op informeel onderwijs wordt zo snel mogelijk ingetrokken."
+    },
+    {
+      "promiseCode": "DENK-2025-103",
+      "text": "DENK stelt een Minister voor de Jongerenagenda aan die het jongerenbeleid coördineert.",
+      "summary": "Minister Jongerenagenda voor coördinatie jongerenbeleid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "jongerenagenda",
+        "coördinatie",
+        "jongerenbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 31",
+      "originalQuote": "Een Minister voor de Jongerenagenda die het jongerenbeleid coördineert, van onderwijs tot arbeid, wonen en mentale zorg."
+    },
+    {
+      "promiseCode": "DENK-2025-104",
+      "text": "DENK verhoogt het minimumjeugdloon zodat 18-jarigen het wettelijk minimumloon verdienen.",
+      "summary": "Verhoging minimumjeugdloon, 18-jarigen krijgen minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumjeugdloon",
+        "18-jarigen",
+        "minimumloon"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 31",
+      "originalQuote": "Een verhoging van het minimumjeugdloon, zodat jongeren eerlijk worden beloond voor hun werk. 18-jarigen gaan gewoon het wettelijk minimumloon verdienen."
+    },
+    {
+      "promiseCode": "DENK-2025-105",
+      "text": "DENK schaft rente op studieschulden af en houdt deze op nul procent.",
+      "summary": "Afschaffen rente studieschulden, blijft op nul procent",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rente",
+        "studieschulden",
+        "nul",
+        "procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 32",
+      "originalQuote": "Afschaffen van rente op studieschulden. Die moet terug naar nul procent en daar blijven."
+    },
+    {
+      "promiseCode": "DENK-2025-106",
+      "text": "DENK geeft volledige compensatie aan de pechgeneratie studenten.",
+      "summary": "Volledige compensatie pechgeneratie studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "compensatie",
+        "pechgeneratie",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 32",
+      "originalQuote": "Volledige compensatie voor de pechgeneratie. Gedeeltelijke compensatie doet geen recht aan het onrecht."
+    },
+    {
+      "promiseCode": "DENK-2025-107",
+      "text": "DENK verhoogt de basisbeurs en verruimt inkomensgrenze n voor de aanvullende beurs.",
+      "summary": "Verhoging basisbeurs en verruiming inkomensgrenze n aanvullende beurs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbeurs",
+        "verhoging",
+        "inkomensgrenze n",
+        "aanvullende"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 32",
+      "originalQuote": "Verhoging van de basisbeurs en verruiming van inkomensgrenze n voor de aanvullende beurs, zodat meer studenten hiervoor in aanmerking komen."
+    },
+    {
+      "promiseCode": "DENK-2025-108",
+      "text": "DENK verplicht hbo- en wo-instellingen hun selectie-instrumenten te toetsen op bias en ongelijkheid.",
+      "summary": "Verplichte toetsing selectie-instrumenten op bias en ongelijkheid",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "selectie-instrumenten",
+        "toetsing",
+        "bias",
+        "ongelijkheid",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 32",
+      "originalQuote": "Hbo en wo-instellingen worden verplicht om hun selectie-instrumenten te toetsen op bias en ongelijkheid."
+    },
+    {
+      "promiseCode": "DENK-2025-109",
+      "text": "DENK beëindigt alle samenwerking met Israëlische universiteiten via een academische boycot.",
+      "summary": "Academische boycot Israëlische universiteiten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "samenwerking",
+        "israëlische",
+        "universiteiten",
+        "academische",
+        "boycot"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 32",
+      "originalQuote": "Alle samenwerking met \"Israëlische\" universiteiten wordt beëindigd. Een academische boycot van \"Israël\"."
+    },
+    {
+      "promiseCode": "DENK-2025-110",
+      "text": "Het eigen risico in de zorg volledig afschaffen.",
+      "summary": "Eigen risico zorg volledig afschaffen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorg",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Het volledig afschaffen van het eigen risico in de zorg."
+    },
+    {
+      "promiseCode": "DENK-2025-111",
+      "text": "De zorgpremie verlagen, met name voor lage- en middeninkomens door winsten medische industrie te beperken, centrale inkoop geneesmiddelen, aanpassing referentieprijzen en medisch specialisten in dienst nemen.",
+      "summary": "Zorgpremie verlagen voor lage- en middeninkomens",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgpremie",
+        "verlagen",
+        "centrale inkoop",
+        "geneesmiddelen",
+        "medisch specialisten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Het verlagen van de zorgpremie, met name voor lage- en middeninkomens. Dit gaan we doen door het beperken van de winsten in de medische industrie en de big pharma. We verlagen de prijzen voor geneesmiddelen met centrale inkoop en met een aanpassing van de referentieprijzen in de wet."
+    },
+    {
+      "promiseCode": "DENK-2025-112",
+      "text": "Het basispakket uitbreiden met mondzorg, tandheelkundige controles en fysiotherapie.",
+      "summary": "Basispakket uitbreiden met mondzorg en fysiotherapie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basispakket",
+        "mondzorg",
+        "tandheelkunde",
+        "fysiotherapie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Wij breiden het basispakket uit. Mondzorg, tandheelkundige controles en fysiotherapie komen terug in het pakket."
+    },
+    {
+      "promiseCode": "DENK-2025-113",
+      "text": "Het winstverbod uitbreiden en activiteiten van commerciële partijen in de zorg beperken.",
+      "summary": "Winstverbod uitbreiden in zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstverbod",
+        "commerciële partijen",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Met een uitbreiding van het winstverbod zorgen wij ervoor dat geld beschikbaar blijft voor de zorg. We gaan ook de activiteiten van commerciële partijen beperken die de zorg alleen maar gebruiken om geld te verdienen."
+    },
+    {
+      "promiseCode": "DENK-2025-114",
+      "text": "Marktwerking in zorg beperken door verplichte transparantie zorgverzekeraars, wettelijke winstbegrenzingen, verbod bonussen bestuurders en extra bevoegdheden toezichthouder.",
+      "summary": "Marktwerking zorg beperken met meer toezicht",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "marktwerking",
+        "transparantie",
+        "zorgverzekeraars",
+        "winstbegrenzingen",
+        "toezichthouder"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "We gaan de marktwerking in de zorg beperken met meer marktmeesterschap. Door verplichte transparantie maken we inzichtelijk hoe het geld van zorgverzekeraars wordt besteed. We leggen de winsten van zorgverzekeraars wettelijk aan banden, gaan bonussen voor bestuurders tegen"
+    },
+    {
+      "promiseCode": "DENK-2025-115",
+      "text": "Een gemeentelijke basisnorm invoeren om te borgen dat elke gemeente een basisniveau van toegankelijke en kwalitatieve zorg biedt, met extra budget beschikbaar stellen.",
+      "summary": "Gemeentelijke basisnorm voor zorg invoeren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeentelijke basisnorm",
+        "gemeente",
+        "toegankelijke zorg",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Met een gemeentelijke basisnorm willen wij borgen dat iedere gemeente een basisniveau van toegankelijke en kwalitatieve zorg biedt. Wij stellen hier extra budget voor beschikbaar."
+    },
+    {
+      "promiseCode": "DENK-2025-116",
+      "text": "Het schoolzwemmen weer invoeren en gemeenten budget geven om kinderen uit arme gezinnen gratis te laten sporten.",
+      "summary": "Schoolzwemmen terugbrengen en gratis sporten arme kinderen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "gemeente",
+        "budget",
+        "armoede",
+        "gratis sporten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Het schoolzwemmen komt terug. Gemeenten krijgen budget om kinderen uit gezinnen in armoede gratis te kunnen laten sporten."
+    },
+    {
+      "promiseCode": "DENK-2025-117",
+      "text": "Geen btw heffen op groente en fruit.",
+      "summary": "BTW-vrijstelling groente en fruit",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "groente",
+        "fruit",
+        "gezonde voeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Geen btw op groente en fruit, want gezonde voeding moet goedkoper worden."
+    },
+    {
+      "promiseCode": "DENK-2025-118",
+      "text": "Verbod invoeren op alcohol- en gokreclames.",
+      "summary": "Verbod alcohol- en gokreclames",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "alcoholreclame",
+        "gokreclame"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Verbod op alcohol- en gokreclames."
+    },
+    {
+      "promiseCode": "DENK-2025-119",
+      "text": "Verbod invoeren op coffeeshops in woonwijken.",
+      "summary": "Verbod coffeeshops in woonwijken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "coffeeshops",
+        "woonwijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Verbod op coffeeshops in woonwijken."
+    },
+    {
+      "promiseCode": "DENK-2025-120",
+      "text": "De verkoop van tabak verbieden voor jongeren die na een bepaald jaar geboren zijn en de volwassen leeftijd nog moeten bereiken voor een rookvrije generatie.",
+      "summary": "Tabakverbod voor bepaalde geboortejaren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tabakverbod",
+        "jongeren",
+        "rookvrije generatie",
+        "geboortejaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 34",
+      "originalQuote": "Wij gaan voor een rookvrije generatie door de verkoop van tabak te verbieden voor jongeren die na een bepaald jaar geboren zijn en de volwassen leeftijd nog moeten bereiken."
+    },
+    {
+      "promiseCode": "DENK-2025-121",
+      "text": "De leeftijd voor verkoop van sigaretten en alcohol verhogen naar 21 jaar.",
+      "summary": "Leeftijdsgrens sigaretten en alcohol naar 21 jaar",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "sigaretten",
+        "alcohol",
+        "21 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Wij verhogen per direct de leeftijd voor de verkoop van sigaretten en alcohol naar 21 jaar."
+    },
+    {
+      "promiseCode": "DENK-2025-122",
+      "text": "De accijns op alcohol en tabak verhogen.",
+      "summary": "Accijns alcohol en tabak verhogen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "accijns",
+        "alcohol",
+        "tabak",
+        "verhogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Wij verhogen de accijns op alcohol en tabak."
+    },
+    {
+      "promiseCode": "DENK-2025-123",
+      "text": "Een leeftijdsgrens van 15 jaar instellen voor social media waarbij schadelijke content voor kinderen wordt afgeschermd.",
+      "summary": "Leeftijdsgrens 15 jaar voor social media",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "15 jaar",
+        "social media",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Dat betekent dat wij voor een leeftijdsgrens zijn van 15 jaar, waarbij voor kinderen schadelijke content onder die leeftijd wordt afgeschermd."
+    },
+    {
+      "promiseCode": "DENK-2025-124",
+      "text": "Een Taskforce Inclusieve Zorg oprichten die cultuursensitieve en inclusieve zorg stimuleert.",
+      "summary": "Taskforce Inclusieve Zorg oprichten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taskforce",
+        "inclusieve zorg",
+        "cultuursensitief"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "We richten een Taskforce Inclusieve Zorg op die stimuleert dat zorg cultuursensitief en inclusief is."
+    },
+    {
+      "promiseCode": "DENK-2025-125",
+      "text": "Cultuursensitieve en inclusieve zorg een harde eis maken binnen wettelijke normen en aanbestedingsbeleid.",
+      "summary": "Cultuursensitieve zorg harde eis in aanbesteding",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuursensitieve zorg",
+        "aanbestedingsbeleid",
+        "wettelijke normen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Binnen de wettelijke normen en het aanbestedingsbeleid wordt cultuursensitieve en inclusieve zorg een harde eis."
+    },
+    {
+      "promiseCode": "DENK-2025-126",
+      "text": "Meer financiële tegemoetkomingen, verlofmogelijkheden en ondersteuning voor mantelzorgers invoeren.",
+      "summary": "Meer ondersteuning voor mantelzorgers",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mantelzorgers",
+        "financiële tegemoetkoming",
+        "verlofmogelijkheden",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Wij willen dat er meer financiële tegemoetkomingen komen voor mantelzorgers, meer verlofmogelijkheden en meer ondersteuning."
+    },
+    {
+      "promiseCode": "DENK-2025-127",
+      "text": "Hogere beloningen voor zorgpersoneel invoeren en administratieve lasten terugdringen.",
+      "summary": "Hogere beloningen zorgpersoneel en minder administratie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgpersoneel",
+        "beloningen",
+        "administratieve lasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Dat betekent dat er hogere beloningen komen en we fiks gaan inzetten op het terugdringen van de administratieve lasten."
+    },
+    {
+      "promiseCode": "DENK-2025-128",
+      "text": "Een verplichte bedenktermijn en raadgeving bij abortus invoeren en de wekengrens meer in lijn brengen met buurlanden.",
+      "summary": "Verplichte bedenktermijn abortus en aanpassing wekengrens",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bedenktermijn",
+        "abortus",
+        "raadgeving",
+        "wekengrens",
+        "buurlanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 35",
+      "originalQuote": "Wij zijn voor een verplichte bedenktermijn en raadgeving bij abortus en willen de wekengrens meer in lijn brengen met onze buurlanden."
+    },
+    {
+      "promiseCode": "DENK-2025-129",
+      "text": "Investeren in meer wijkagenten. In elke wijk komt een vaste wijkagent: herkenbaar, aanspreekbaar en dichtbij. Extra capaciteit bij de politie, met prioriteit voor kwetsbare wijken.",
+      "summary": "In elke wijk komt een vaste wijkagent, extra politiecapaciteit voor kwetsbare wijken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkagenten",
+        "politiecapaciteit",
+        "kwetsbare wijken",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 38",
+      "originalQuote": "Wij willen investeren in meer wijkagenten. In elke wijk komt een vaste wijkagent: herkenbaar, aanspreekbaar en dichtbij. We investeren in extra capaciteit bij de politie, met prioriteit voor kwetsbare wijken."
+    },
+    {
+      "promiseCode": "DENK-2025-130",
+      "text": "Een einde aan etnisch profileren. 'Ras' of herkomst mag nooit onderdeel zijn van risicoprofielen bij politie. Agenten die zich onverbeterlijk schuldig maken aan discriminatie worden ontslagen.",
+      "summary": "Verbod etnisch profileren, ontslag discriminerende agenten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "etnisch profileren",
+        "discriminatie",
+        "risicoprofielen",
+        "ontslag"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 38",
+      "originalQuote": "Wij willen een einde aan etnisch profileren. 'Ras' of herkomst mag nooit onderdeel zijn van risicoprofielen bij politie. Agenten die zich onverbeterlijk schuldig maken aan discriminatie worden ontslagen."
+    },
+    {
+      "promiseCode": "DENK-2025-131",
+      "text": "Diversiteitsquota bij de politie invoeren. Agenten en boa's mogen zichtbare geloofsuitingen dragen, zoals een hoofddoek of keppeltje.",
+      "summary": "Diversiteitsquota politie, toestaan zichtbare geloofsuitingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diversiteitsquota",
+        "politie",
+        "geloofsuitingen",
+        "hoofddoek",
+        "keppeltje"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 38",
+      "originalQuote": "De politieorganisatie wordt een afspiegeling van de samenleving door het invoeren van diversiteitsquota. Agenten en boa's mogen zichtbare geloofsuitingen dragen, zoals een hoofddoek of keppeltje."
+    },
+    {
+      "promiseCode": "DENK-2025-132",
+      "text": "Zwaardere straffen voor pedoseksuelen en meer investeringen in opsporingscapaciteit. Zededelinquenten krijgen altijd een levenslang beroepsverbod voor sectoren waar contact met kinderen is.",
+      "summary": "Zwaardere straffen pedoseksuelen, levenslang beroepsverbod zededelinquenten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pedoseksuelen",
+        "straffen",
+        "opsporingscapaciteit",
+        "beroepsverbod",
+        "kindermisbruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 39",
+      "originalQuote": "Er komen zwaardere straffen voor pedoseksuelen en er wordt meer geïnvesteerd in opsporingscapaciteit. Zededelinquenten krijgen altijd een levenslang beroepsverbod voor sectoren waar contact met kinderen is."
+    },
+    {
+      "promiseCode": "DENK-2025-133",
+      "text": "Een Nationaal Coördinator tegen Geweld tegen Vrouwen die een nationaal plan gaat opstellen. Zwaardere straffen en meer investeringen in handhaving.",
+      "summary": "Nationaal Coördinator tegen Geweld tegen Vrouwen, nationaal plan opstellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaal coördinator",
+        "geweld tegen vrouwen",
+        "nationaal plan",
+        "straffen",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 39",
+      "originalQuote": "Er komt een Nationaal Coördinator tegen Geweld tegen Vrouwen die een nationaal plan gaat opstellen. Er komen veel zwaardere straffen en er wordt geïnvesteerd in handhaving."
+    },
+    {
+      "promiseCode": "DENK-2025-134",
+      "text": "Een Nationaal Programma Aanpak Rechts-extremisme komt, gericht op preventie, handhaving en deradicalisering.",
+      "summary": "Nationaal Programma Aanpak Rechts-extremisme voor preventie en handhaving",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaal programma",
+        "rechts-extremisme",
+        "preventie",
+        "handhaving",
+        "deradicalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 39",
+      "originalQuote": "Er moet een Nationaal Programma Aanpak Rechts-extremisme komen, gericht op preventie, handhaving en deradicalisering."
+    },
+    {
+      "promiseCode": "DENK-2025-135",
+      "text": "Structureel investeren in de sociale advocatuur. Sociale advocaten krijgen een passendere toelage. Het systeem van voorschotregelingen moet terugkeren.",
+      "summary": "Structurele investeringen sociale advocatuur, hogere toelage, voorschotregelingen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale advocatuur",
+        "toelage",
+        "voorschotregelingen",
+        "rechtsbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 39",
+      "originalQuote": "Er moet structureel geïnvesteerd worden in de sociale advocatuur om de uitstroom van sociaal advocaten tegen te gaan. Sociale advocaten krijgen een passendere toelage. Het systeem van voorschotregelingen moet terugkeren."
+    },
+    {
+      "promiseCode": "DENK-2025-136",
+      "text": "Risicomodellen met afkomstgerelateerde gegevens worden verboden. Beroepsmatige discriminatie door ambtenaren wordt zwaarder bestraft.",
+      "summary": "Verbod risicomodellen met afkomstgegevens, zwaardere straffen discriminatie ambtenaren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "risicomodellen",
+        "afkomstgegevens",
+        "discriminatie",
+        "ambtenaren",
+        "straffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "Beroepsmatige discriminatie door ambtenaren moet zwaarder worden bestraft en risicomodellen met afkomstgerelateerde gegevens worden verboden."
+    },
+    {
+      "promiseCode": "DENK-2025-137",
+      "text": "DUO-schulden van uithuisgeplaatste kinderen worden volledig kwijtgescholden.",
+      "summary": "Volledige kwijtschelding DUO-schulden uithuisgeplaatste kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "duo-schulden",
+        "uithuisgeplaatste kinderen",
+        "kwijtschelding"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "DUO-schulden van uithuisgeplaatste kinderen worden volledig kwijtgescholden."
+    },
+    {
+      "promiseCode": "DENK-2025-138",
+      "text": "Burgemeesters worden voortaan rechtstreeks gekozen door de bevolking.",
+      "summary": "Rechtstreekse verkiezing burgemeesters door bevolking",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeesters",
+        "rechtstreekse verkiezing",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "Burgemeesters worden voortaan rechtstreeks gekozen door de bevolking."
+    },
+    {
+      "promiseCode": "DENK-2025-139",
+      "text": "Het kiesrecht gaat naar 16 jaar.",
+      "summary": "Kiesrecht vanaf 16 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesrecht",
+        "16 jaar",
+        "stemrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "Het kiesrecht gaat naar 16 jaar."
+    },
+    {
+      "promiseCode": "DENK-2025-140",
+      "text": "Er komt een Constitutioneel Hof dat wetten toetst aan de Grondwet.",
+      "summary": "Oprichting Constitutioneel Hof voor grondwetstoetsing",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "constitutioneel hof",
+        "grondwetstoetsing",
+        "wetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "Er komt een Constitutioneel Hof dat wetten toetst aan de Grondwet."
+    },
+    {
+      "promiseCode": "DENK-2025-141",
+      "text": "De Tweede Kamer wordt uitgebreid naar 250 zetels om de overheid beter te kunnen controleren.",
+      "summary": "Uitbreiding Tweede Kamer naar 250 zetels",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tweede kamer",
+        "250 zetels",
+        "uitbreiding",
+        "controle"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "De Tweede Kamer wordt uitgebreid naar 250 zetels om de overheid beter te kunnen controleren."
+    },
+    {
+      "promiseCode": "DENK-2025-142",
+      "text": "De koninklijke familie gaat belasting betalen. Koninklijke paleizen en landgoederen worden publiek bezit. Bezuinigen op de uitgaven voor de monarchie.",
+      "summary": "Belastingplicht koninklijke familie, paleizen worden publiek bezit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koninklijke familie",
+        "belasting",
+        "paleizen",
+        "publiek bezit",
+        "monarchie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "De koninklijke familie gaat belasting betalen, net als iedere Nederlander. Koninklijke paleizen en landgoederen worden publiek bezit. Wij willen bezuinigen op de uitgaven voor de monarchie."
+    },
+    {
+      "promiseCode": "DENK-2025-143",
+      "text": "Er komt een verplicht lobbyregister voor de regering. Oud-bewindspersonen krijgen een volledig lobbyverbod.",
+      "summary": "Verplicht lobbyregister regering, volledig lobbyverbod oud-bewindspersonen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lobbyregister",
+        "regering",
+        "lobbyverbod",
+        "oud-bewindspersonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 40",
+      "originalQuote": "Er komt een verplicht lobbyregister voor de regering. Er komt meer toezicht op de draaideurconstructie en oud-bewindspersonen krijgen een volledig lobbyverbod."
+    },
+    {
+      "promiseCode": "DENK-2025-144",
+      "text": "Een fatsoenlijk sociaal minimum op de BES-eilanden en meer investeringen in basisvoorzieningen.",
+      "summary": "Sociaal minimum BES-eilanden, meer investeringen basisvoorzieningen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal minimum",
+        "bes-eilanden",
+        "basisvoorzieningen",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 41",
+      "originalQuote": "Komt er een fatsoenlijk sociaal minimum op de BES-eilanden en meer investeringen in basisvoorzieningen."
+    },
+    {
+      "promiseCode": "DENK-2025-145",
+      "text": "Caribische studenten krijgen makkelijker toegang tot Nederland en tot onderwijsinstellingen om te kunnen studeren.",
+      "summary": "Makkelijkere toegang Caribische studenten tot Nederlands onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "caribische studenten",
+        "toegang",
+        "onderwijsinstellingen",
+        "nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 41",
+      "originalQuote": "Krijgen Caribische studenten makkelijker toegang tot Nederland en tot onderwijsinstellingen om te kunnen studeren."
+    },
+    {
+      "promiseCode": "DENK-2025-146",
+      "text": "Een toereikend Klimaatfonds oprichten waaruit investeringen voor verduurzaming van Nederland kunnen worden gedaan, waarbij uitgaven aantoonbaar duurzaamheid moeten bevorderen.",
+      "summary": "Oprichting toereikend Klimaatfonds voor verduurzamingsinvesteringen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatfonds",
+        "investeringen",
+        "verduurzaming",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Een toereikend Klimaatfonds waaruit de noodzakelijke investeringen gedaan kunnen worden voor de verduurzaming van ons land. DENK staat pal voor voldoende investeringen in de vergroening van onze economie en in de energietransitie. De uitgaven uit dit fonds moeten aantoonbaar de duurzaamheid bevorderen."
+    },
+    {
+      "promiseCode": "DENK-2025-147",
+      "text": "Nederland klimaatneutraal maken in 2050 en uitstoot beperken met 55% in 2030. Indien mogelijk ambitieuzere doelen vaststellen.",
+      "summary": "Klimaatneutraal 2050, 55% uitstootreductie 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "uitstoot",
+        "doelen",
+        "2050",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Wij staan voor de klimaatdoelen. Dat betekent dat Nederland klimaatneutraal is in 2050 en dat wij de uitstoot met 55% beperken in 2030. Indien mogelijk gaan wij ambitieuzere doelen vaststellen."
+    },
+    {
+      "promiseCode": "DENK-2025-148",
+      "text": "CO2-heffing invoeren voor grootste vervuilers en bedrijven in commerciële sector meer energiebelasting en opslag voor duurzame energie laten betalen.",
+      "summary": "CO2-heffing grote vervuilers, meer energiebelasting commerciële sector",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "co2-heffing",
+        "vervuilers",
+        "energiebelasting",
+        "commerciële sector"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Grote vervuilers gaan eerlijker bijdragen. Bedrijven in de commerciële sector die veel energie verbruiken, gaan relatief méér energiebelasting en opslag voor duurzame energie betalen. Met een CO2-heffing voor de grootste vervuilers geven we een extra stimulans om te verduurzamen."
+    },
+    {
+      "promiseCode": "DENK-2025-149",
+      "text": "Energiebedrijven wettelijk verplichten een groeiend aandeel duurzame energie op te wekken, waarbij het verplichte aandeel elk jaar stijgt tot volledige duurzaamheid is bereikt.",
+      "summary": "Wettelijke verplichting groeiend aandeel duurzame energie energiebedrijven",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiebedrijven",
+        "wettelijk",
+        "duurzame energie",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Energiebedrijven worden wettelijk verplicht een groeiend aandeel duurzame energie op te wekken. Elk jaar stijgt dat verplichte aandeel, totdat volledige duurzaamheid is bereikt."
+    },
+    {
+      "promiseCode": "DENK-2025-150",
+      "text": "Meer subsidies beschikbaar stellen voor isoleren van huurwoningen en zonnepanelen voor particulieren. Salderingsregeling behouden.",
+      "summary": "Meer subsidies isolatie huurwoningen en zonnepanelen, salderingsregeling behouden",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "isolatie",
+        "huurwoningen",
+        "zonnepanelen",
+        "salderingsregeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "De overheid ondersteunt dit actief, met name door méér subsidies beschikbaar te stellen voor het isoleren van huurwoningen en zonnepanelen voor particulieren. Dat betekent ook dat de salderingsregeling moet blijven."
+    },
+    {
+      "promiseCode": "DENK-2025-151",
+      "text": "Investeren in zonne-energie en windenergie op zee. Kolencentrales zo snel mogelijk laten verdwijnen. Kernenergie niet uitsluiten met veilige opslag kernafval als randvoorwaarde.",
+      "summary": "Investeren zon-/windenergie, kolencentrales sluiten, kernenergie mogelijk",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zonne-energie",
+        "windenergie",
+        "kolencentrales",
+        "kernenergie",
+        "kernafval"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Massaal inzetten op schonere energie. Wij willen investeren in zonne-energie en windenergie op zee. Kolencentrales verdwijnen zo snel mogelijk. Kernenergie sluiten wij niet uit, omdat het schoner is dan andere energiebronnen. Veilige opslag van kernafval is een harde randvoorwaarde voor elke kernenergie-optie."
+    },
+    {
+      "promiseCode": "DENK-2025-152",
+      "text": "Geen belasting op vlees, geen extra heffing op suiker en geen toeslag op plastic verpakkingen invoeren.",
+      "summary": "Geen belasting vlees, suiker en plastic verpakkingen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belasting",
+        "vlees",
+        "suiker",
+        "plastic",
+        "verpakkingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Daarom komt er géén belasting op vlees, géén extra heffing op suiker en géén toeslag op plastic verpakkingen."
+    },
+    {
+      "promiseCode": "DENK-2025-153",
+      "text": "Toegankelijke regeling invoeren om elektrisch rijden betaalbaar te maken voor lage- en middeninkomens.",
+      "summary": "Toegankelijke regeling betaalbaar elektrisch rijden lage/middeninkomens",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeling",
+        "elektrisch rijden",
+        "betaalbaar",
+        "lage inkomens",
+        "middeninkomens"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44",
+      "originalQuote": "Wij gaan investeren in elektrisch rijden. Er komt een toegankelijke regeling om elektrisch rijden betaalbaar te maken voor lage- en middeninkomens."
+    },
+    {
+      "promiseCode": "DENK-2025-154",
+      "text": "Vrijwillige uitkoopregelingen in landbouw hanteren, waarbij gedwongen uitkoop als ultimum remedium niet wordt uitgesloten voor stikstofuitstootvermindering.",
+      "summary": "Vrijwillige uitkoop landbouw, gedwongen uitkoop als laatste optie",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitkoopregelingen",
+        "landbouw",
+        "stikstofuitstoot",
+        "vrijwillig",
+        "gedwongen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 44-45",
+      "originalQuote": "Handhaving van de doelen om de stikstofuitstoot te verminderen. Wij gaan inzetten op vrijwillige uitkoopregelingen in de landbouw, waarbij als ultimum remedium gedwongen uitkoop niet door ons wordt uitgesloten."
+    },
+    {
+      "promiseCode": "DENK-2025-155",
+      "text": "Schadelijke stoffen en bestrijdingsmiddelen zoals PFAS sneller verboden.",
+      "summary": "Sneller verbod schadelijke stoffen en bestrijdingsmiddelen zoals PFAS",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schadelijke stoffen",
+        "bestrijdingsmiddelen",
+        "pfas",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 45",
+      "originalQuote": "Schadelijke stoffen en bestrijdingsmiddelen, zoals PFAS, worden sneller verboden."
+    },
+    {
+      "promiseCode": "DENK-2025-156",
+      "text": "Gratis openbaar vervoer invoeren voor lage inkomens, ouderen (65+), kinderen en jongeren.",
+      "summary": "Gratis OV lage inkomens, 65+, kinderen en jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis",
+        "openbaar vervoer",
+        "lage inkomens",
+        "ouderen",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 45",
+      "originalQuote": "Gratis openbaar vervoer voor lage inkomens, ouderen (65+), kinderen en jongeren."
+    },
+    {
+      "promiseCode": "DENK-2025-157",
+      "text": "Accijns op benzine en diesel verlagen. Geen rekeningrijden invoeren.",
+      "summary": "Lagere accijns benzine/diesel, geen rekeningrijden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "accijns",
+        "benzine",
+        "diesel",
+        "rekeningrijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 45",
+      "originalQuote": "Autorijden maken wij betaalbaar. De accijns op benzine en diesel moeten omlaag. Wij gaan geen rekeningrijden invoeren."
+    },
+    {
+      "promiseCode": "DENK-2025-158",
+      "text": "Gemeentelijke parkeertarieven wettelijk maximeren.",
+      "summary": "Wettelijke maximering gemeentelijke parkeertarieven",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeertarieven",
+        "wettelijk",
+        "maximering",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 45",
+      "originalQuote": "Gemeentelijke parkeertarieven worden wettelijk gemaximeerd."
+    },
+    {
+      "promiseCode": "DENK-2025-159",
+      "text": "Vliegtaks afschaffen om betaalbare vliegtickets te behouden.",
+      "summary": "Afschaffing vliegtaks voor betaalbare vliegtickets",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegtaks",
+        "betaalbare",
+        "vliegtickets",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 45",
+      "originalQuote": "Betaalbare vliegtickets. Wij zijn tegen de vliegtaks."
+    },
+    {
+      "promiseCode": "DENK-2025-160",
+      "text": "Belasting op kerosine heffen om schoner vliegen te stimuleren en middelen beschikbaar stellen voor investeringen in schoner vliegen.",
+      "summary": "Kerosinebelasting en investeringen voor schoner vliegen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerosine",
+        "belasting",
+        "schoner vliegen",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 45",
+      "originalQuote": "De overheid stelt middelen beschikbaar om te investeren in schoner vliegen. Op kerosine wordt een belasting geheven om schoner vliegen te stimuleren."
+    },
+    {
+      "promiseCode": "DENK-2025-161",
+      "text": "Europese defensiesamenwerking ondersteunen, maar tegen een Europees leger zijn. Nederland moet zelf blijven bepalen of militairen worden ingezet.",
+      "summary": "Voor Europese defensiesamenwerking, tegen Europees leger",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensiesamenwerking",
+        "europees leger",
+        "militairen",
+        "inzet",
+        "soevereiniteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 48",
+      "originalQuote": "Wij zijn een voorstander van Europese defensiesamenwerking, maar geen voorstander van een Europees leger. Wij moeten altijd zelf blijven bepalen of onze militairen worden ingezet."
+    },
+    {
+      "promiseCode": "DENK-2025-162",
+      "text": "Alleen defensie-uitgaven steunen die aantoonbaar nodig zijn voor goede huisvesting, fatsoenlijk salaris en goede uitrusting. Miljardeninvesteringen zonder aantoonbare noodzaak niet steunen.",
+      "summary": "Alleen noodzakelijke defensie-uitgaven steunen",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensie-uitgaven",
+        "huisvesting",
+        "salaris",
+        "uitrusting",
+        "militairen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 48",
+      "originalQuote": "Wij steunen alleen defensie-uitgaven die aantoonbaar nodig zijn om de basis op orde te hebben bij Defensie. Dit betekent goede huisvesting van onze militairen, een fatsoenlijk salaris en een goede uitrusting. Miljardeninvesteringen zonder aantoonbare noodzaak steunen wij niet."
+    },
+    {
+      "promiseCode": "DENK-2025-163",
+      "text": "Gedwongen dienstplicht is onacceptabel. Het forceren van jonge mensen in een militair systeem dat niet hun keuze is, past niet bij idealen van DENK.",
+      "summary": "Tegen gedwongen dienstplicht",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dienstplicht",
+        "militair systeem",
+        "jonge mensen",
+        "gedwongen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 48",
+      "originalQuote": "Een gedwongen dienstplicht is voor DENK onacceptabel. Het forceren van jonge mensen in een militair systeem dat niet hun keuze is, past niet bij de idealen van DENK."
+    },
+    {
+      "promiseCode": "DENK-2025-164",
+      "text": "Alle kernwapens verdwijnen uit Nederland. Militaire systemen worden niet uitgerust met lanceersystemen voor kernwapens.",
+      "summary": "Alle kernwapens uit Nederland verwijderen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kernwapens",
+        "lanceersystemen",
+        "militaire systemen",
+        "nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 48",
+      "originalQuote": "Alle kernwapens verdwijnen uit ons land. Onze militaire systemen worden niet uitgerust met lanceersystemen voor kernwapens."
+    },
+    {
+      "promiseCode": "DENK-2025-165",
+      "text": "Bezuinigingen op ontwikkelingssamenwerking terugdraaien. Meer budget voor humanitaire hulp en noodhulp.",
+      "summary": "Bezuinigingen ontwikkelingssamenwerking terugdraaien",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "bezuinigingen",
+        "humanitaire hulp",
+        "noodhulp",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 49",
+      "originalQuote": "De bezuinigingen op ontwikkelingssamenwerking worden teruggedraaid. Wij willen dat er meer budget komt voor humanitaire hulp en noodhulp."
+    },
+    {
+      "promiseCode": "DENK-2025-166",
+      "text": "BNI-koppeling voor ontwikkelingshulp herstellen zodat hoeveelheid ontwikkelingshulp proportioneel blijft aan economische groei.",
+      "summary": "BNI-koppeling ontwikkelingshulp herstellen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bni-koppeling",
+        "ontwikkelingshulp",
+        "economische groei",
+        "proportioneel"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 49",
+      "originalQuote": "De BNI-koppeling voor ontwikkelingshulp wordt hersteld zodat de hoeveelheid ontwikkelingshulp proportioneel blijft aan de economische groei."
+    },
+    {
+      "promiseCode": "DENK-2025-167",
+      "text": "Uit MERCOSUR, CETA en FTA stappen omdat principes van fairtrade, mensenrechten en natuurbescherming onvoldoende geborgd zijn in deze handelsverdragen.",
+      "summary": "Uit MERCOSUR, CETA en FTA stappen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mercosur",
+        "ceta",
+        "fta",
+        "handelsverdragen",
+        "fairtrade",
+        "mensenrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 49",
+      "originalQuote": "Wij stappen daarom uit MERCOSUR, CETA en FTA, omdat deze principes onvoldoende geborgd zijn in deze handelsverdragen."
+    },
+    {
+      "promiseCode": "DENK-2025-168",
+      "text": "Vaart zetten achter oprichten nationaal monument ter herdenking genocide Srebrenica. Gebouw voormalig Joegoslavië-tribunaal behouden voor educatie en bewustwording.",
+      "summary": "Nationaal monument Srebrenica oprichten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "monument",
+        "srebrenica",
+        "genocide",
+        "joegoslavië-tribunaal",
+        "educatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 49",
+      "originalQuote": "Er wordt vaart gezet achter het oprichten van een nationaal monument ter herdenking van de genocide in Srebrenica, als blijvende plek van reflectie en erkenning voor de slachtoffers en de Bosnische gemeenschap. Het gebouw van het voormalig Joegoslavië-tribunaal wordt behouden en ingezet voor educatie en bewustwording."
+    },
+    {
+      "promiseCode": "DENK-2025-169",
+      "text": "Sancties tegen Syrië wegnemen zodat Syrische economie zich kan ontwikkelen en land kans krijgt op wederopbouw.",
+      "summary": "Sancties tegen Syrië wegnemen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sancties",
+        "syrië",
+        "economie",
+        "wederopbouw",
+        "ontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 50",
+      "originalQuote": "Het wegnemen van de sancties voor Syrië. Door het wegnemen van de sancties kan de Syrische economie zich ontwikkelen en krijgt het land de kans om de wederopbouw vorm te geven."
+    },
+    {
+      "promiseCode": "DENK-2025-170",
+      "text": "Tegen gedwongen terugkeer van Syriërs uit Nederland. Asielprocedure voor Syriërs mag niet worden aangescherpt vanwege humanitaire situatie.",
+      "summary": "Tegen gedwongen terugkeer Syriërs",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terugkeer",
+        "syriërs",
+        "asielprocedure",
+        "humanitaire situatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 50",
+      "originalQuote": "Wij zijn tegen gedwongen terugkeer van Syriërs uit Nederland. De asielprocedure voor Syriërs mag ook niet worden aangescherpt. De humanitaire situatie staat dit niet toe."
+    },
+    {
+      "promiseCode": "DENK-2025-171",
+      "text": "Geen Nederlandse troepen naar Oekraïne sturen. Speculatie daarover is onverantwoord.",
+      "summary": "Geen Nederlandse troepen naar Oekraïne",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlandse troepen",
+        "oekraïne",
+        "militaire inzet"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 50",
+      "originalQuote": "Geen Nederlandse troepen naar Oekraïne. Speculatie daarover is onverantwoord."
+    },
+    {
+      "promiseCode": "DENK-2025-172",
+      "text": "Sancties tegen China instellen vanwege behandeling Oeigoeren. Boycot van producten met Oeigoerse dwangarbeid. Genocide tegen Oeigoeren erkennen.",
+      "summary": "Sancties tegen China wegens Oeigoeren",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sancties",
+        "china",
+        "oeigoeren",
+        "dwangarbeid",
+        "genocide",
+        "boycot"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 51",
+      "originalQuote": "Nederland moet sancties tegen China instellen op basis van de behandeling van de Oeigoeren en andere minderheden. Er komt een boycot van producten die tot stand zijn gekomen met Oeigoerse dwangarbeid. Nederland gaat de misdaden tegen de Oeigoeren erkennen als genocide."
+    },
+    {
+      "promiseCode": "DENK-2025-173",
+      "text": "Myanmar aanvullend sanctioneren vanwege schending rechten Rohingya. Meer geld voor humanitaire hulp voor Rohingya.",
+      "summary": "Myanmar sanctioneren wegens Rohingya",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "myanmar",
+        "sancties",
+        "rohingya",
+        "humanitaire hulp",
+        "mensenrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 51",
+      "originalQuote": "Myanmar wordt aanvullend gesanctioneerd vanwege de schending van de rechten van de Rohingya. Wij willen meer geld voor humanitaire hulp voor Rohingya."
+    },
+    {
+      "promiseCode": "DENK-2025-174",
+      "text": "Onderhandelingen over toetreding Turkije tot EU hervatten. Nederland spant zich hiervoor diplomatiek in.",
+      "summary": "Turkije EU-toetredingsonderhandelingen hervatten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "turkije",
+        "eu-toetreding",
+        "onderhandelingen",
+        "diplomatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 51",
+      "originalQuote": "Nederland spant zich in voor het hervatten van de onderhandelingen over de toetreding van Turkije tot de EU."
+    },
+    {
+      "promiseCode": "DENK-2025-175",
+      "text": "Visumregels tussen Nederland en Marokko, Turkije en Suriname versoepelen om werken en wonen in Nederland te vergemakkelijken.",
+      "summary": "Visumregels bindingslanden versoepelen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "visumregels",
+        "marokko",
+        "turkije",
+        "suriname",
+        "werken",
+        "wonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 51",
+      "originalQuote": "Wij versoepelen de visumregels tussen Nederland en Marokko, Turkije en Suriname om werken en wonen in Nederland te vergemakkelijken."
+    },
+    {
+      "promiseCode": "DENK-2025-176",
+      "text": "Winstbelasting voor grote bedrijven verhogen en ondoelmatige belastingvoordelen die ongelijkheid vergroten afschaffen.",
+      "summary": "Winstbelasting grote bedrijven verhogen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstbelasting",
+        "grote bedrijven",
+        "belastingvoordelen",
+        "ongelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma DENK 2025, p. 54",
+      "originalQuote": "Wij verhogen daarom de winstbelasting voor grote bedrijven en schaffen ondoelmatige belastingvoordelen die de ongelijkheid vergroten af."
+    }
+  ]
+}

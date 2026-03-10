@@ -1,0 +1,1691 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Voor een Veilig en Vrij Den Haag",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 109,
+  "promises": [
+    {
+      "promiseCode": "VVD-DH-2022-001",
+      "text": "De VVD wil doorgaan met het concentreren van nieuwe woningbouw rond belangrijke OV-knooppunten, de Laakhavens en op de Binckhorst. Door hier onder strikte voorwaarden bouwprojecten toe te staan, ontstaan nieuwe, aantrekkelijke en duurzame woonwijken in een groene buitenruimte.",
+      "summary": "Nieuwe woningbouw concentreren rond OV-knooppunten, Laakhavens en Binckhorst",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbouw",
+        "ov-knooppunten",
+        "laakhavens",
+        "binckhorst",
+        "woonwijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 7",
+      "originalQuote": "De VVD wil doorgaan met het ingezette beleid om nieuwe woningbouw te concentreren rond de belangrijke OV-knooppunten, de Laakhavens en op de Binckhorst. Door hier onder strikte voorwaarden bouwprojecten toe te staan, ontstaan nieuwe, aantrekkelijke en duurzame woonwijken in een groene buitenruimte."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-002",
+      "text": "De VVD wil wijkgerichte gebiedsvisies opstellen waarin beschreven wordt wat het karakter van de wijk is en hoe de beeldkwaliteit van die wijk behouden kan worden. Zo is mogelijk kleinschalige nieuwbouw en verbouwplannen te realiseren die passen binnen het wijkkarakter.",
+      "summary": "Wijkgerichte gebiedsvisies opstellen voor behoud wijkkarakter",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gebiedsvisies",
+        "wijkkarakter",
+        "beeldkwaliteit",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 7",
+      "originalQuote": "Om bestaande wijken met rust te kunnen laten wil de VVD wijkgerichte gebiedsvisies opstellen waarin beschreven wordt wat het karakter van de wijk is en hoe de beeldkwaliteit van die wijk behouden kan worden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-003",
+      "text": "De VVD wil de raamprostitutie van de Doublet- en Geleenstraat verplaatsen naar een nieuwe locatie aan de Sporendriehoek. In de Doublet- en Geleenstraat ontstaat zo ruimte voor aantrekkelijke nieuwe stadswoningen en commerciële ontwikkeling.",
+      "summary": "Raamprostitutie verplaatsen van Doublet-/Geleenstraat naar Sporendriehoek",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raamprostitutie",
+        "doublet-straat",
+        "geleenstraat",
+        "sporendriehoek",
+        "stadswoningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 8",
+      "originalQuote": "De VVD wil met de hoogste prioriteit de raamprostitutie van de Doublet- en Geleenstraat verplaatsen naar een nieuwe locatie aan de Sporendriehoek."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-004",
+      "text": "De VVD wil het Bernhardviaduct voor de helft afbreken en grondig renoveren. Zo ontstaat er ruimte voor nieuwe hoogbouw, voor uitbreiding van de Haagse campus van de Universiteit Leiden en extra woningen, onder andere voor studenten.",
+      "summary": "Bernhardviaduct voor helft afbreken en renoveren voor woningbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bernhardviaduct",
+        "afbreken",
+        "renoveren",
+        "hoogbouw",
+        "woningen",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 9",
+      "originalQuote": "De VVD wil het Bernhardviaduct voor de helft afbreken en grondig renoveren. Zo ontstaat er ruimte voor nieuwe hoogbouw, voor uitbreiding van de Haagse campus van de Universiteit Leiden en extra woningen, onder andere voor studenten."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-005",
+      "text": "De VVD wil een onderzoek naar ondertunneling van het Schenkviaduct om er een stadspark van te maken. Afbreken en vergroenen van de vrijgevallen ruimte wordt als optie meegenomen.",
+      "summary": "Onderzoek ondertunneling Schenkviaduct voor stadspark",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schenkviaduct",
+        "ondertunneling",
+        "stadspark",
+        "vergroenen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 9",
+      "originalQuote": "De VVD wil een onderzoek naar ondertunneling van het Schenkviaduct om er een stadspark van te maken. Afbreken en vergroenen van de vrijgevallen ruimte wordt als optie meegenomen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-006",
+      "text": "De VVD wil de Haagse Pandbrigade verder versterken om woonoverlast, verloedering, overbewoning, onmenselijke huisvesting en andere wanpraktijken aan te pakken. Een intensieve handhavingscampagne wordt ingezet in wijken waar dit het meest speelt zoals Laak, Spoorwijk en Moerwijk.",
+      "summary": "Haagse Pandbrigade versterken voor handhaving woonoverlast",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "woonoverlast",
+        "verloedering",
+        "overbewoning",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 9",
+      "originalQuote": "De VVD wil de Haagse Pandbrigade verder versterken om woonoverlast, verloedering, overbewoning, onmenselijke huisvesting en andere wanpraktijken aan te pakken."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-007",
+      "text": "Nieuwbouw wordt gasloos gebouwd, maar bestaande woningen blijven aangesloten op gas. Het gasleidingennetwerk in de stad wordt behouden voor toekomstige energietransitie met bio/groen/waterstofgas.",
+      "summary": "Nieuwbouw gasloos, gasleidingennetwerk behouden voor groene gassen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nieuwbouw",
+        "gasloos",
+        "gasleidingennetwerk",
+        "energietransitie",
+        "waterstofgas"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 10",
+      "originalQuote": "De VVD wil dat nieuwbouw gasloos wordt gebouwd, maar het is niet effectief en ook nog eens erg duur om bestaande woningen van het gas af te halen. De VVD wil dat het gasleidingennetwerk in de stad behouden blijft."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-008",
+      "text": "Resterende Eneco-middelen worden ingezet voor een revolverend Haags Duurzaamheidsfonds waar bewoners geld kunnen lenen voor isolatie en verduurzaming. De lening wordt terugbetaald met energiebesparing.",
+      "summary": "Haags Duurzaamheidsfonds met Eneco-middelen voor isolatieleningen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eneco-middelen",
+        "duurzaamheidsfonds",
+        "isolatie",
+        "verduurzaming",
+        "leenfonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 10",
+      "originalQuote": "De VVD wil de resterende Eneco-middelen die zijn gereserveerd voor de energietransitie inzetten om geld aan te trekken voor een revolverend 'Haags Duurzaamheidsfonds'."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-009",
+      "text": "Er komt een subsidie voor het plaatsen van filters bij houthaarden die fijnstof uit de rook filteren voor schonere lucht.",
+      "summary": "Subsidie voor fijnstoffilters bij houthaarden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidie",
+        "houthaard",
+        "fijnstoffilter",
+        "luchtkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 10",
+      "originalQuote": "Daarom introduceren we een subsidie voor het plaatsen van een filter dat fijnstof uit de rook filtert."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-010",
+      "text": "Alle gemeentelijke publieke panden worden in 2030 CO2-neutraal als voorbeeldfunctie voor de energietransitie.",
+      "summary": "Gemeentelijke panden CO2-neutraal in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijke panden",
+        "co2-neutraal",
+        "2030",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 10",
+      "originalQuote": "De VVD wil dat de gemeente het goede voorbeeld geeft door deze in 2030 CO2-neutraal te laten zijn."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-011",
+      "text": "De vijf meest versteende plekken in de stad worden deze collegeperiode vergroend om hittestress aan te pakken, met bewonersparticipatie bij de invulling.",
+      "summary": "Vijf meest versteende plekken vergroenen tegen hittestress",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "versteende plekken",
+        "vergroening",
+        "hittestress",
+        "collegeperiode",
+        "bewonersparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 10",
+      "originalQuote": "Deze collegeperiode wil de VVD de vijf meest versteende plekken vergroenen. Bewoners worden betrokken bij de invulling hiervan."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-012",
+      "text": "Bij nieuwbouw wordt voortaan waterbesparend gebouwd met gescheiden systeem van drinkwater en grijswater. Bij herontwikkelingen worden leidingen zo min mogelijk verlegd.",
+      "summary": "Waterbesparend bouwen met gescheiden drinkwater en grijswater",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nieuwbouw",
+        "waterbesparend",
+        "drinkwater",
+        "grijswater",
+        "herontwikkelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 10",
+      "originalQuote": "Bij nieuwbouw wordt voortaan waterbesparend gebouwd, met een gescheiden systeem van drinkwater en grijswater."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-013",
+      "text": "In het hart van het centrum komt een groene stadstuin van Spuiplein tot Nieuwe Kerk, verbonden als Haagse Lanen met Lange Vijverberg en Voorhout. Verharding rond tramrails wordt vervangen door schelpen.",
+      "summary": "Groene stadstuin centrum met Haagse Lanen en schelpen bij tramrails",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groene stadstuin",
+        "spuiplein",
+        "haagse lanen",
+        "tramrails",
+        "schelpen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 11",
+      "originalQuote": "De VVD wil dat in het hart van het centrum van Den Haag een groene stadstuin komt die zich uitstrekt vanaf het Spuiplein tot rond de Nieuwe Kerk... De verharding rond de tramrails wordt vervangen door schelpen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-014",
+      "text": "Bij bouwprojecten en herinrichtingen geldt een herplantplicht als bomen niet behouden kunnen worden of ziek zijn.",
+      "summary": "Herplantplicht bij kap van bomen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwprojecten",
+        "herplantplicht",
+        "bomen",
+        "herplanten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 11",
+      "originalQuote": "Als dat om zwaarwegende redenen niet mogelijk is of als bomen ziek zijn, geldt een herplantplicht."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-015",
+      "text": "Er wordt een meerjarenplan water gemaakt om wateroverlast aan te pakken met waterbergingen, waterdoorlatende bestrating en vergroening, gebruikmakend van klimaatadaptatiesubsidies.",
+      "summary": "Meerjarenplan water met waterbergingen en doorlatende bestrating",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerjarenplan water",
+        "waterbergingen",
+        "waterdoorlatende bestrating",
+        "klimaatadaptatiesubsidies"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 12",
+      "originalQuote": "De VVD wil een 'meerjarenplan water' om de grootste problemen aan te pakken... Hiervoor wordt gebruik gemaakt van landelijke klimaatadaptatiesubsidies."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-016",
+      "text": "Onderzoek wordt gedaan of de Paviljoensgracht, Prinsegracht en gracht tussen Waldeck Pyrmontkade en Koningin Emmakade kunnen terugkomen, inclusief ondergronds parkeren voor ruimte.",
+      "summary": "Onderzoek terugkeer drie grachten in de stad",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "paviljoensgracht",
+        "prinsegracht",
+        "grachten",
+        "onderzoek",
+        "ondergronds parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 12",
+      "originalQuote": "De VVD wil een onderzoek of de Paviljoensgracht, de Prinsegracht en de gracht tussen de Waldeck Pyrmontkade en Koningin Emmakade terug kunnen komen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-017",
+      "text": "Volle kracht door met meerjarige onderhoudsprogramma's voor straatverlichting, kademuren en riolering. Riolering op Scheveningen Dorp wordt met prioriteit aangepakt.",
+      "summary": "Voortzetting onderhoudsprogramma's infrastructuur, prioriteit Scheveningen Dorp",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderhoudsprogramma",
+        "straatverlichting",
+        "kademuren",
+        "riolering",
+        "scheveningen dorp"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 12",
+      "originalQuote": "De VVD wil volle kracht door met de meerjarige onderhoudsprogramma's voor straatverlichting, kademuren en de riolering. De problemen met riolering op Scheveningen Dorp moeten met prioriteit worden aangepakt."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-018",
+      "text": "Structureel geld wordt beschikbaar gesteld voor regulier onderhoud van woonwijken met een meerjarenonderhoudsplan, waarbij prioritering gebeurt op basis van objectieve criteria uit inspecties.",
+      "summary": "Structureel budget woonwijkonderhoud met meerjarenplan",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "structureel budget",
+        "woonwijken",
+        "meerjarenonderhoudsplan",
+        "objectieve criteria",
+        "inspecties"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 12",
+      "originalQuote": "Daarom wil de VVD voortaan structureel geld beschikbaar stellen voor regulier onderhoud van woonwijken, waarmee een meerjarenonderhoudsplan... kan worden gemaakt."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-019",
+      "text": "Zerotoleranceaanpak van afvalhufters met meer gerichte handhaving in burger, extra handhavers en binnen 48 uur persoonlijke boete-overhandiging bij bewijs uit afval.",
+      "summary": "Zerotoleranceaanpak afvalhufters met 48-uur boete-overhandiging",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zerotolerantie",
+        "afvalhufters",
+        "handhaving",
+        "48 uur",
+        "boete-overhandiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 12-13",
+      "originalQuote": "De VVD wil dat de gemeente overgaat tot een zerotoleranceaanpak van afvalhufters... moet een speciaal handhavingsteam binnen 48 uur bij die persoon op de stoep staan om de boete persoonlijk te overhandigen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-020",
+      "text": "Bij afvalmeldingen moet binnen 8 uur een opruimingsteam ter plekke zijn om troep op te ruimen en verspreiding door de wijk te voorkomen.",
+      "summary": "Binnen 8 uur opruimteam bij afvalmeldingen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalmeldingen",
+        "8 uur",
+        "opruimingsteam",
+        "verspreiding",
+        "wijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 13",
+      "originalQuote": "Voortaan moet bij meldingen van afvaldumping binnen 8 uur een opruimingsteam ter plekke zijn om de troep op te ruimen en verspreiding door de wijk te voorkomen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-021",
+      "text": "ORAC-sensoren die aangeven wanneer containers vol zijn worden zo snel mogelijk uitgerold, met binnen twee uur een vrijwilliger of Troephulptroep ter plaatse voor oplossing.",
+      "summary": "Uitrol ORAC-sensoren met 2-uur responstijd",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "orac-sensoren",
+        "uitrollen",
+        "twee uur",
+        "vrijwilliger",
+        "troephulptroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 13",
+      "originalQuote": "De proef met sensoren die aangeven wanneer ORAC's vol zijn... wil de VVD zo snel mogelijk over alle ORAC's uitrollen... om binnen twee uur een vrijwilliger of Troephulptroep ter plaatse te hebben."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-022",
+      "text": "Jaarlijks wordt een planning gemaakt voor weesfietsenaanpak op basis van overlast, die kan worden bijgestuurd bij extra problemen. Ook aandacht voor boulevard en strandopgangen.",
+      "summary": "Jaarlijkse planning weesfietsenaanpak op basis van overlast",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jaarlijkse planning",
+        "weesfietsen",
+        "overlast",
+        "boulevard",
+        "strandopgangen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 14",
+      "originalQuote": "De VVD wil de weesfietsenaanpak intensiveren op basis van de aanwezige overlast. Hiervoor dient de gemeente jaarlijks een planning te maken die kan worden bijgestuurd als er extra overlast wordt geconstateerd."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-023",
+      "text": "De hondenbelasting wordt afgeschaft en er komen voldoende veilige losloopgebieden die goed worden onderhouden, met handhaving op opruimplicht.",
+      "summary": "Afschaffing hondenbelasting en goede losloopgebieden",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hondenbelasting",
+        "afschaffing",
+        "losloopgebieden",
+        "onderhoud",
+        "opruimplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 14",
+      "originalQuote": "De VVD is voor afschaffing van de hondenbelasting en wil dat er voldoende veilige en goede losloopgebieden zijn in Den Haag. Deze losloopplekken moeten goed worden onderhouden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-024",
+      "text": "Bij het opknappen van de openbare ruimte of bij nieuwe ontwikkelingen zoals het Central Innovation District of de Binckhorst zorgt de gemeente altijd voor veilige en aangename looproutes met goede bewegwijzering naar bezienswaardigheden en winkelstraten.",
+      "summary": "Veilige looproutes bij alle nieuwbouw en openbare ruimte-projecten",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "looproutes",
+        "openbare ruimte",
+        "bewegwijzering",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 15",
+      "originalQuote": "Waar de openbare ruimte wordt opgeknapt of in gebieden die (op)nieuw worden ontwikkeld, zoals het Central Innovation District of de Binckhorst zorgen we altijd voor veilige en aangename looproutes. We denken daarbij aan een goede markering, bijvoorbeeld richting bezienswaardigheden en de winkelstraten."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-025",
+      "text": "Vanuit de stadsdelen worden bestaande budgetten ingezet om samen met bewoners en ondernemers straat voor straat maatwerkoplossingen te zoeken voor begaanbare stoepen, zoals vaste fietsparkeerplekken.",
+      "summary": "Straat voor straat maatwerkoplossingen voor begaanbare stoepen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stoepen",
+        "stadsdelen",
+        "fietsparkeren",
+        "maatwerkoplossingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 15",
+      "originalQuote": "De VVD wil dat vanuit de stadsdelen bestaande budgetten worden ingezet om samen met bewoners en ondernemers straat voor straat maatwerkoplossingen te zoeken, zoals vaste fietsparkeerplekken."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-026",
+      "text": "Met mensen met een beperking worden problemen in de openbare ruimte in kaart gebracht en oplossingen opgenomen in een meerjarig plan. Stoepen krijgen op- en afritten en routes met obstakels worden goed aangegeven.",
+      "summary": "Meerjarig plan voor toegankelijkheid openbare ruimte",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toegankelijkheid",
+        "meerjarig plan",
+        "stoepen",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 15",
+      "originalQuote": "De VVD wil met mensen met een beperking dergelijke problemen in kaart brengen en de oplossingen opnemen in een meerjarig plan."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-027",
+      "text": "Er wordt extra geld uitgetrokken voor veilige schoolroutes door gebruik van cofinanciering van de Rijksoverheid, waardoor elke gemeentelijke euro wordt verdubbeld. Tijdelijke sluiting van schoolstraten wordt voortgezet.",
+      "summary": "Extra geld voor veilige schoolroutes met Rijkscofinanciering",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolroutes",
+        "cofinanciering",
+        "verkeersveiligheid",
+        "schoolstraten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 15",
+      "originalQuote": "De VVD wil extra geld uittrekken voor veilige schoolroutes. Door gebruik van cofinanciering van de Rijksoverheid voor verkeersveiligheid wordt elke gemeentelijke euro verdubbeld. Tijdelijke sluiting van schoolstraten voor auto's bij de in- en uitloop van scholen moet worden voortgezet."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-028",
+      "text": "Den Haag wordt voorloper in registratie van data over verkeersongevallen en het werken aan slimme oplossingen door bijvoorbeeld startups. Het budget voor verkeersveiligheid wordt besteed aan de meest gevaarlijke plekken.",
+      "summary": "Voorloperrol in data-registratie verkeersongevallen en slimme oplossingen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkeersongevallen",
+        "data",
+        "startups",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 15",
+      "originalQuote": "Den Haag moet vooroplopen met de registratie van data over verkeersongevallen en het werken aan slimme oplossingen door bijvoorbeeld startups."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-029",
+      "text": "Doorgaande fietsroutes met klinkers worden vervangen door asfalt. De asfalteermachine moet overuren draaien voor veiliger en comfortabeler fietsen.",
+      "summary": "Klinkers op fietsroutes vervangen door asfalt",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietsroutes",
+        "asfalt",
+        "klinkers",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "Nog steeds zijn er doorgaande fietsroutes met klinkers in plaats van asfalt. De asfalteermachine moet overuren draaien."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-030",
+      "text": "Samen met weggebruikers wordt een verbeterplan gemaakt voor betere afstelling van verkeerslichten om wachttijden op kruispunten te verkorten.",
+      "summary": "Verbeterplan voor betere afstelling verkeerslichten",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkeerslichten",
+        "kruispunten",
+        "verbeterplan",
+        "doorstroming"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "We maken met weggebruikers een verbeterplan om tot een betere afstelling van verkeerslichten te komen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-031",
+      "text": "De fietsenstallingen op het Plein en de Plaats komen onder de grond of in bestaande gebouwen.",
+      "summary": "Ondergrondse fietsenstallingen op Plein en Plaats",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietsenstallingen",
+        "plein",
+        "plaats",
+        "ondergronds"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "De fietsenstallingen op het Plein en de Plaats komen onder de grond of in bestaande gebouwen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-032",
+      "text": "Bij alle nieuwbouw van woningen worden inpandig aantrekkelijke fietsparkeerplaatsen gebouwd. Ontwikkelaars krijgen voordelen zoals bonuspunten in aanbestedingen voor extra fietsplekken.",
+      "summary": "Verplichte inpandige fietsparkering bij nieuwbouw",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "fietsparkering",
+        "inpandig",
+        "aanbestedingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "De VVD wil dat bij alle nieuwbouw van woningen inpandig aantrekkelijke fietsparkeerplaatsen worden gebouwd. Als een ontwikkelaar meer (fiets)parkeerplekken maakt dan nodig voor zijn project, moet de gemeente daar voordelen tegenoverstellen zoals bonuspunten in een aanbesteding."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-033",
+      "text": "Bij nieuwe kantoorpanden wordt een ruimere fietsparkeernorm gehanteerd en werkgevers moeten zorgen voor voldoende fietsparkeerplaatsen voor werknemers.",
+      "summary": "Ruimere fietsparkeernorm bij nieuwe kantoren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kantoorpanden",
+        "fietsparkeernorm",
+        "werkgevers",
+        "werknemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "Werkgevers moeten zorgen voor voldoende fietsparkeerplaatsen voor hun werknemers. Bij nieuwe kantoorpanden wordt een ruimere fietsparkeernorm gehanteerd."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-034",
+      "text": "In iedere nieuwe woning ligt een tijdelijk Haags OV-abonnement in het welkomstpakket om gebruik van openbaar vervoer te stimuleren.",
+      "summary": "Tijdelijk OV-abonnement bij elke nieuwe woning",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ov-abonnement",
+        "nieuwe woningen",
+        "welkomstpakket",
+        "htm"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "De VVD wil dat samen met HTM in iedere nieuwe woning in het welkomstpakket een tijdelijk Haags OV-abonnement klaarligt om het gebruik van het openbaar vervoer te stimuleren."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-035",
+      "text": "Er wordt geëxperimenteerd met kleinere elektrische bussen op vaste tijden aangevuld met elektrische busjes op afroep. Daarbij wordt onderzoek gedaan naar meenemen van speciaal deelvervoer zoals WMO, scholieren en ouderen onder één vlag.",
+      "summary": "Experiment kleinere elektrische bussen en busjes op afroep",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "elektrische bussen",
+        "busjes op afroep",
+        "deelvervoer",
+        "wmo"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "De VVD wil experimenteren met kleinere elektrische bussen op vaste tijden op rustige lijnen, aangevuld met elektrische busjes die op afroep vaste plekken in de wijk aandoen. We onderzoeken daarbij het onder één vlag meenemen van speciaal deelvervoer, zoals WMO, scholieren en ouderen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-036",
+      "text": "Station Laan van NOI wordt verbeterd in dezelfde lijn als andere stations. In en rond stations krijgen looproutes een impuls en komen er meer fietsparkeerplekken.",
+      "summary": "Verbetering station Laan van NOI met meer fietsplekken",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "station",
+        "laan van noi",
+        "looproutes",
+        "fietsparkeerplekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 16",
+      "originalQuote": "Station Laan van NOI moet in dezelfde lijn worden verbeterd. In en rond de stations verdienen de looproutes een impuls en moeten meer fietsparkeerplekken komen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-037",
+      "text": "Er wordt een versnellingsprogramma bij verkeerslichten ingevoerd voor openbaar vervoer om doorrijden te bevorderen.",
+      "summary": "Versnellingsprogramma verkeerslichten voor openbaar vervoer",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkeerslichten",
+        "openbaar vervoer",
+        "versnelling",
+        "doorrijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 17",
+      "originalQuote": "We zetten in op een versnellingsprogramma bij verkeerslichten voor openbaar vervoer."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-038",
+      "text": "Een werkend Park+Ride-plan bij de Uithof met shuttles voor minimale bijdrage naar binnenstad, Scheveningen en Kijkduin wordt ingevoerd naast aansluiting op de huidige Bikinilijn.",
+      "summary": "Park+Ride-plan Uithof met shuttles",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "park+ride",
+        "uithof",
+        "shuttles",
+        "bikinilijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 17",
+      "originalQuote": "De VVD wil een werkend Park+Ride-plan invoeren bij de Uithof. Naast een aansluiting op de huidige Bikinilijn komen er shuttles die voor een minimale bijdrage van en naar de binnenstad, Scheveningen en Kijkduin rijden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-039",
+      "text": "De prijs van de eerste parkeervergunning stijgt niet gedurende de raadsperiode.",
+      "summary": "Eerste parkeervergunning blijft gelijk in prijs",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunning",
+        "prijsstijging",
+        "raadsperiode"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 17",
+      "originalQuote": "De VVD wil dat de prijs van de eerste parkeervergunning niet stijgt"
+    },
+    {
+      "promiseCode": "VVD-DH-2022-040",
+      "text": "De gemeente investeert in geluidsflitspalen en breidt 'noise control'-apparatuur uit van één naar minimaal vier exemplaren voor handhaving op geluidsoverlast. Ook wordt onderzocht of boa's bevoegdheid krijgen voor handhaving geluidsoverlast.",
+      "summary": "Uitbreiding geluidsflitspalen en noise control-apparatuur naar minimaal 4 stuks",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geluidsflitspalen",
+        "noise control",
+        "handhaving",
+        "boa's"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 18",
+      "originalQuote": "De VVD wil dat Den Haag in samenwerking met innovatieve ondernemers investeert in geluidsflitspalen om deze overlast tegen te gaan. Op korte termijn wil de VVD investeren in zogeheten 'noise control'-apparatuur voor mobiele handhaving. De VVD wil van de huidige één naar minimaal vier exemplaren."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-041",
+      "text": "De pilot in Rustenburg Oostbroek waarbij parkeerverbod van busjes wordt gehandhaafd, wordt uitgerold over de hele stad.",
+      "summary": "Uitrol busjes-parkeerverbod over hele stad",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerverbod",
+        "busjes",
+        "handhaving",
+        "rustenburg oostbroek"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 18",
+      "originalQuote": "De pilot in Rustenburg Oostbroek waarbij het parkeerverbod van busjes wordt gehandhaafd, rollen we uit over de hele stad."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-042",
+      "text": "Bij foutparkeren of onbetaalde boetes van niet-Nederlandse kentekens wordt standaard een wielklem geplaatst wanneer verkeersboetes niet geïnd kunnen worden.",
+      "summary": "Wielklemmen bij niet-Nederlandse kentekens met onbetaalde boetes",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wielklem",
+        "foutparkeren",
+        "boetes",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 18",
+      "originalQuote": "Indien verkeersboetes niet geïnd kunnen worden, wil de VVD dat standaard een wielklem wordt geplaatst bij foutparkeren of onbetaalde boetes."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-043",
+      "text": "De gemeente maakt een toekomstbestendig laadplan voor auto's en elektrische scooters en aangevraagde laadpalen worden sneller gerealiseerd. Laadpalen worden geïntegreerd in bestaande infrastructuur.",
+      "summary": "Toekomstbestendig laadplan en snellere realisatie laadpalen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "laadplan",
+        "laadpalen",
+        "elektrisch",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 19",
+      "originalQuote": "De VVD wil dat de gemeente een toekomstbestendig laadplan voor auto's en elektrische scooters maakt. Aangevraagde laadpalen moeten sneller worden gerealiseerd. Laadpalen integreren we zo veel mogelijk in bestaande infrastructuur, zoals in de paaltjes in Bezuidenhout."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-044",
+      "text": "Er komt een nieuwe lokale sloopsubsidie om emissieloos rijden te stimuleren.",
+      "summary": "Nieuwe lokale sloopsubsidie voor schone mobiliteit",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sloopsubsidie",
+        "emissieloos rijden",
+        "subsidie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 19",
+      "originalQuote": "Daarnaast komt er een nieuwe lokale sloopsubsidie."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-045",
+      "text": "Onnodige en onduidelijke regels in de zorg en jeugdhulp worden geschrapt. Den Haag loopt voorop in het schrappen van tijdschrijven en het aantal productcodes voor zorgprofessionals.",
+      "summary": "Schrappen onnodige regels zorg en jeugdhulp, minder tijdschrijven en productcodes",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regels",
+        "zorg",
+        "jeugdhulp",
+        "tijdschrijven",
+        "productcodes"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 21",
+      "originalQuote": "We schrappen onnodige of onduidelijke regels in de zorg en jeugdhulp. De VVD wil dat Den Haag vooroploopt in het schrappen van tijdschrijven en het aantal productcodes."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-046",
+      "text": "Er komt een speciaal team dat veel vaker en gerichter controles uitvoert op het declaratiegedrag van zorgaanbieders. Malafide zorgaanbieders komen op een zwarte lijst zodat zij geen zorg meer mogen aanbieden in Den Haag.",
+      "summary": "Speciaal controleteam en zwarte lijst voor malafide zorgaanbieders",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "controleteam",
+        "zorgaanbieders",
+        "declaratie",
+        "zwarte lijst",
+        "fraude"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 21",
+      "originalQuote": "De VVD is voor een harde aanpak van malafide zorgaanbieders. Deze aanbieders en de personen erachter moeten op een zwarte lijst komen, zodat zij geen zorg meer mogen aanbieden in onze stad. Er moet een speciaal team komen dat veel vaker en gerichter controles uitvoert op het declaratiegedrag van zorgaanbieders."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-047",
+      "text": "Vrijwilligers en mantelzorgers krijgen ondersteuning via een jaarlijkse tegoedbon of andere vorm van waardering. Praktische belemmeringen zoals parkeerkosten worden weggenomen.",
+      "summary": "Jaarlijkse tegoedbon voor mantelzorgers en wegname parkeerkosten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijwilligers",
+        "mantelzorgers",
+        "tegoedbon",
+        "parkeerkosten",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 22",
+      "originalQuote": "Vrijwilligers en mantelzorgers wil de VVD ondersteunen en met een jaarlijkse tegoedbon of in een andere vorm bedanken voor hun goede werk. Daarnaast moet de gemeente praktische belemmeringen, zoals parkeerkosten, zo veel mogelijk wegnemen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-048",
+      "text": "Iedereen betaalt een eigen bijdrage voor geleverde zorg en ondersteuning, inclusief het AV070-vervoer. Dit leidt tot bewuster gebruik van gemeentelijke zorg- en ondersteuningsvoorzieningen.",
+      "summary": "Eigen bijdrage voor alle zorg en ondersteuning inclusief AV070-vervoer",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen bijdrage",
+        "zorg",
+        "ondersteuning",
+        "av070",
+        "vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 23",
+      "originalQuote": "Wel wil de VVD dat iedereen een eigen bijdrage betaalt voor geleverde zorg en ondersteuning. Dit leidt tot bewuster gebruik van de zorg en ondersteuning die de gemeente biedt. Dit geldt over de volle breedte, dus ook voor het AV070-vervoer."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-049",
+      "text": "Haags Ontmoeten wordt uitgebreid over de hele stad als gezellige en laagdrempelige voorziening voor senioren. Dit voorkomt duurdere dagbesteding.",
+      "summary": "Uitbreiding Haags Ontmoeten over hele stad voor senioren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "haags ontmoeten",
+        "senioren",
+        "dagbesteding",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 24",
+      "originalQuote": "De VVD wil Haags Ontmoeten uitbreiden over de hele stad. Senioren, bijvoorbeeld met beginnend regieverlies, ervaren Haags Ontmoeten als een gezellige en laagdrempelige voorziening. Door te investeren in meer Haags Ontmoeten-plekken wordt duurdere dagbesteding voorkomen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-050",
+      "text": "Er komen investeringen in sporthallen in de Binckhorst en Loosduinen om mee te groeien met de stad.",
+      "summary": "Nieuwe sporthallen in Binckhorst en Loosduinen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sporthallen",
+        "binckhorst",
+        "loosduinen",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 24",
+      "originalQuote": "De VVD kiest ervoor te investeren in sporthallen in de Binckhorst en Loosduinen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-051",
+      "text": "Het Beachstadium wordt snel gerealiseerd en er komt investering in een kunstrif voor de kust om het Scheveningse sportstrand te ontwikkelen tot een jaarrond trekpleister.",
+      "summary": "Realisatie Beachstadium en kunstrif voor ontwikkeling sportstrand Scheveningen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beachstadium",
+        "kunstrif",
+        "sportstrand",
+        "scheveningen",
+        "trekpleister"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 25",
+      "originalQuote": "Dit betekent in ieder geval het snel realiseren van het Beachstadium en het investeren in een kunstrif voor de kust."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-052",
+      "text": "De gemeente neemt initiatief om 150 sportclubs en 150 bedrijven een convenant te laten sluiten gericht op sponsoring en bewegen.",
+      "summary": "Convenant tussen 150 sportclubs en 150 bedrijven voor sponsoring en bewegen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "convenant",
+        "sportclubs",
+        "bedrijven",
+        "sponsoring",
+        "bewegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 25",
+      "originalQuote": "Daarnaast wil de VVD dat de gemeente het initiatief neemt om 150 sportclubs en 150 bedrijven een convenant te laten sluiten, gericht op sponsoring en bewegen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-053",
+      "text": "De VVD wil 100 extra handhavers (buitengewoon opsporingsambtenaren/boa's) die worden ingezet op de grootste ergernissen en zoveel mogelijk ook in avond- en nachtelijke uren, zo nodig in burger.",
+      "summary": "100 extra handhavers voor handhaving op straat",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhavers",
+        "boa",
+        "handhaving",
+        "avond",
+        "nacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 27",
+      "originalQuote": "De VVD wil 100 extra handhavers. Deze buitengewoon opsporingsambtenaren (boa's) spelen een belangrijke rol in het handhaven op straat. Ze worden ingezet op de grootste ergernissen. Handhavers worden voor zo ver hun cao dat toelaat ook zo veel mogelijk in de avond- en nachtelijke uren ingezet, zo nodig in burger."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-054",
+      "text": "Meer handhavers die daarvoor zijn opgeleid mogen een wapenstok of pepperspray dragen ter bescherming tegen agressief gedrag en geweld.",
+      "summary": "Bewapening handhavers met wapenstok/pepperspray",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhavers",
+        "wapenstok",
+        "pepperspray",
+        "bewapening",
+        "agressie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 27",
+      "originalQuote": "De VVD wil daarom dat meer handhavers die daarvoor zijn opgeleid, een wapenstok of pepperspray mogen dragen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-055",
+      "text": "Het Actieplan Scheveningen wordt voortgezet om overlast op Scheveningen aan te pakken, samen met bewoners, ondernemers en politie.",
+      "summary": "Voortzetting Actieplan Scheveningen tegen overlast",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "scheveningen",
+        "overlast",
+        "bewoners",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 27",
+      "originalQuote": "De VVD wil blijven inzetten op het aanpakken van overlast op Scheveningen met het Actieplan Scheveningen. Dit doen we samen met bewoners, ondernemers en politie."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-056",
+      "text": "De mobiele politiepost op Scheveningen en Kijkduin blijven bestaan voor politie op en rond de stranden.",
+      "summary": "Behoud mobiele politieposten Scheveningen en Kijkduin",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politiepost",
+        "scheveningen",
+        "kijkduin",
+        "stranden",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 27",
+      "originalQuote": "De mobiele politiepost op Scheveningen moet blijven bestaan. Dat geldt ook voor Kijkduin."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-057",
+      "text": "Bij overlastgevers tijdens de jaarwisseling wordt zo mogelijk huisarrest opgelegd bij de eerstvolgende jaarwisseling.",
+      "summary": "Huisarrest voor overlastgevers tijdens jaarwisseling",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huisarrest",
+        "overlastgevers",
+        "jaarwisseling",
+        "sanctie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 27",
+      "originalQuote": "Overlastgevers krijgen zo mogelijk huisarrest bij de eerstvolgende jaarwisseling."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-058",
+      "text": "De Algemene Plaatselijke Verordening (APV) wordt aangepast om straatintimidatie strafrechtelijk aan te kunnen pakken zodra de seinen op groen staan.",
+      "summary": "APV-aanpassing voor strafrechtelijke aanpak straatintimidatie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "apv",
+        "straatintimidatie",
+        "strafrechtelijk",
+        "verordening"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 27",
+      "originalQuote": "Straatintimidatie is onacceptabel en willen we dan ook strafrechtelijk aanpakken. Zodra de seinen op groen staan, passen we hiertoe de Algemene Plaatselijke Verordening (APV) aan."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-059",
+      "text": "Het aantal integrale handhavingsacties wordt uitgebreid van een tiental naar minimaal vijftien per jaar, met meer nadruk op Scheveningen in het hoogseizoen.",
+      "summary": "Uitbreiding integrale handhavingsacties naar 15 per jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhavingsacties",
+        "integraal",
+        "vijftien",
+        "scheveningen",
+        "hoogseizoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 29",
+      "originalQuote": "De VVD wil van een tiental naar minimaal vijftien integrale handhavingsacties per jaar, met meer nadruk op Scheveningen in het hoogseizoen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-060",
+      "text": "Het vergunningenbeleid zoals toegepast in de Weimarstraat wordt uitgebreid naar andere straten en wijken waar ondermijnende criminaliteit wordt gesignaleerd.",
+      "summary": "Uitbreiding streng vergunningenbeleid naar meer wijken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningenbeleid",
+        "weimarstraat",
+        "ondermijnende",
+        "criminaliteit",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 29",
+      "originalQuote": "Het vergunningenbeleid zoals toegepast in de Weimarstraat wil de VVD uitbreiden naar andere straten en wijken waar ondermijnende criminaliteit wordt gesignaleerd."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-061",
+      "text": "Er komt een bufferzone bij de abortuskliniek in het Statenkwartier in het belang van verkeersveiligheid en om wanorde te voorkomen.",
+      "summary": "Bufferzone rond abortuskliniek Statenkwartier",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bufferzone",
+        "abortuskliniek",
+        "statenkwartier",
+        "verkeersveiligheid",
+        "wanorde"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 30",
+      "originalQuote": "De VVD wil dat er bij de abortuskliniek in het Statenkwartier een bufferzone komt in het belang van de verkeersveiligheid en om wanorde te voorkomen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-062",
+      "text": "Een lerarenopleiding voor het voortgezet onderwijs wordt opgezet in Den Haag, samen met hogescholen en omliggende gemeenten.",
+      "summary": "Opzetten lerarenopleiding voortgezet onderwijs in Den Haag",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lerarenopleiding",
+        "voortgezet",
+        "onderwijs",
+        "hogescholen",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 32",
+      "originalQuote": "De VVD wil dat een lerarenopleiding voor het voortgezet onderwijs in Den Haag wordt opgezet, samen met hogescholen en omliggende gemeenten."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-063",
+      "text": "Doelgroepkinderen worden niet langer apart geplaatst in dezelfde groep bij voor- en vroegschoolse educatie (VVE), zodat kinderen zich aan elkaar kunnen optrekken.",
+      "summary": "Geen aparte plaatsing doelgroepkinderen bij VVE",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doelgroepkinderen",
+        "vve",
+        "vroegschools",
+        "educatie",
+        "integratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 32",
+      "originalQuote": "De VVD wil daarom doelgroepkinderen niet langer apart zetten."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-064",
+      "text": "Onder de naam 'Haagse Huygensbeurs' wordt een prestatiebeurs beschikbaar gesteld voor talentvolle Haagse jongeren om hen aan te moedigen een opleiding in Den Haag te kiezen.",
+      "summary": "Haagse Huygensbeurs als prestatiebeurs voor talent",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huygensbeurs",
+        "prestatiebeurs",
+        "talentvolle",
+        "jongeren",
+        "den haag"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 33",
+      "originalQuote": "Onder de naam de 'Haagse Huygensbeurs' zal daarom een prestatiebeurs beschikbaar worden gesteld om dit talent voor de stad te behouden en verder te ontwikkelen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-065",
+      "text": "Schoolgebouwen worden verduurzaamd met een realistisch tijdspad tot 2050, waarbij dit zo veel mogelijk wordt gecombineerd met nieuwbouw.",
+      "summary": "Schoolgebouwen verduurzamen tot 2050, gekoppeld aan nieuwbouw",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolgebouwen",
+        "verduurzaming",
+        "nieuwbouw",
+        "tijdspad"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "Schoolgebouwen moeten verduurzaamd worden, maar dan wel met een realistisch tijdspad. We nemen tot 2050 om dit te realiseren en pakken dit zo veel mogelijk op tegelijkertijd met nieuwbouw."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-066",
+      "text": "Schoolpleinen worden vergroend door stenen weg te halen en groenblauwe schoolpleinen te creëren voor meer speelruimte en betere regenafvoer.",
+      "summary": "Schoolpleinen vergroenen door ontstening",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolpleinen",
+        "vergroening",
+        "ontstening",
+        "regenwater"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "Schoolpleinen gaan we vergroenen door stenen weg te halen. Met deze groenblauwe schoolpleinen creëren we meer speelruimte, meer groen en kan regenwater makkelijker wegzakken in de grond."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-067",
+      "text": "De VVD kiest ervoor bestaande scholen in het primair onderwijs niet te laten groeien om problemen met ruimtegebrek en weerstand tegen uitbreiding te voorkomen.",
+      "summary": "Niet laten groeien van bestaande basisscholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisscholen",
+        "schoolgrootte",
+        "uitbreiding",
+        "ruimtegebrek"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "De VVD kiest voor het niet laten groeien van bestaande scholen in het primair onderwijs. Scholen worden te groot, de ruimte ontbreekt en uitbreiding stuit steeds vaker op weerstand."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-068",
+      "text": "Er komt een permanent gesprek tussen gemeente en culturele sector, in plaats van eens per vier jaar bepalen of het aanbod in aanmerking komt voor subsidie.",
+      "summary": "Permanent gesprek gemeente en cultuursector ipv vierjaarlijks",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuursector",
+        "subsidie",
+        "permanent gesprek",
+        "beoordeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "De VVD wil een permanent gesprek tussen de gemeente en culturele sector, in plaats van eens per vier jaar bepalen of het aanbod in aanmerking komt voor subsidie."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-069",
+      "text": "Er wordt minder budget besteed aan systeeminstellingen Cultuurschakel en Stroom door strakker te letten op taken en uitvoering.",
+      "summary": "Minder budget voor Cultuurschakel en Stroom",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurbudget",
+        "cultuurschakel",
+        "stroom",
+        "besparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "De VVD wil minder budget besteden aan de systeeminstellingen Cultuurschakel en Stroom. Door strakker te letten op de taken en uitvoering kan hierop bespaard worden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-070",
+      "text": "De helft van het cultuurbudget voor cultuureducatie wordt beschikbaar gesteld aan de cultuursector.",
+      "summary": "Helft cultuureducatiebudget naar cultuursector",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurbudget",
+        "cultuureducatie",
+        "cultuursector",
+        "herverdeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "Het cultuurbudget dat besteed wordt aan cultuureducatie stellen we voor de helft beschikbaar aan de cultuursector."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-071",
+      "text": "Bij instellingen met hoge salarissen wordt 100% van wat boven het maximum van de cao poppodia en festivals uitkomt in mindering gebracht op de subsidie.",
+      "summary": "Subsidiekorting bij te hoge salarissen culturele instellingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidie",
+        "salarissen",
+        "cao",
+        "korting"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 34",
+      "originalQuote": "De VVD wil dat bij instellingen met hoge salarissen gekort wordt op de subsidie: 100% van wat boven het maximum van de cao poppodia en -festivals uitkomt, wordt in mindering gebracht op de subsidie."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-072",
+      "text": "Den Haag profileert zich als ondernemende stad door additioneel 4 miljoen euro te investeren in de Haagse economie en evenementen.",
+      "summary": "€4 miljoen extra investering in economie en evenementen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "economie",
+        "evenementen",
+        "investering",
+        "ondernemerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 36",
+      "originalQuote": "Den Haag profileert zich uitgesproken als ondernemende stad: we investeren additioneel €4 miljoen in de Haagse economie en evenementen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-073",
+      "text": "Voor bedrijventerrein Zichtenburg Kerketuinen Dekkershoek (ZKD) in Zuidwest wordt een herstructureringsplan opgesteld.",
+      "summary": "Herstructureringsplan voor bedrijventerrein ZKD",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bedrijventerrein",
+        "zkd",
+        "herstructurering",
+        "zuidwest"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 36",
+      "originalQuote": "Voor het bedrijventerrein Zichtenburg Kerketuinen Dekkershoek (ZKD) in Zuidwest wordt zoals beloofd een herstructureringsplan opgesteld."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-074",
+      "text": "Ypenburg wordt uitgeroepen tot 'Composite Valley' als innovatief kenniscentrum voor composieten, waarbij kennis van TU Delft, InHolland en andere partijen samenkomt.",
+      "summary": "Ypenburg wordt 'Composite Valley' kenniscentrum",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ypenburg",
+        "composite valley",
+        "kenniscentrum",
+        "composieten"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 36",
+      "originalQuote": "De VVD wil Ypenburg uitroepen tot 'Composite Valley'. In Ypenburg zijn diverse bedrijven gevestigd die zich met deze innovatieve lichtgewicht materialen bezighouden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-075",
+      "text": "Het Centraal Evenementenbureau (CEB) en Bureau Citybranding worden ondergebracht bij The Hague & Partners voor meer slagkracht en efficiëntie.",
+      "summary": "CEB en Bureau Citybranding naar The Hague & Partners",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "evenementenbureau",
+        "citybranding",
+        "the hague partners",
+        "reorganisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 37",
+      "originalQuote": "Het Centraal Evenementenbureau (CEB) en het Bureau Citybranding worden ondergebracht bij The Hague & Partners voor meer slagkracht en efficiëntie."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-076",
+      "text": "Er wordt geïnvesteerd in de Haagse Pandbrigade om scherp te handhaven op illegale verhuur van woningen.",
+      "summary": "Investering in Pandbrigade voor handhaving illegale verhuur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "handhaving",
+        "illegale verhuur",
+        "toeristische verhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 38",
+      "originalQuote": "We investeren in de Haagse Pandbrigade om scherp te handhaven op illegale verhuur."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-077",
+      "text": "De parkeergarage bij het noordelijk havenhoofd op Scheveningen wordt zo snel mogelijk gerealiseerd.",
+      "summary": "Parkeergarage noordelijk havenhoofd Scheveningen realiseren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeergarage",
+        "scheveningen",
+        "havenhoofd",
+        "realisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 38",
+      "originalQuote": "De VVD wil dat de parkeergarage bij het noordelijk havenhoofd op Scheveningen zo snel mogelijk gerealiseerd wordt."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-078",
+      "text": "De VVD wil dat er afspraken worden gemaakt met werkgevers van arbeidsmigranten om te voorkomen dat werkgevers ook de huisbaas zijn, om te grote afhankelijkheid te voorkomen.",
+      "summary": "Afspraken met werkgevers over scheiding van werk en huisvesting arbeidsmigranten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmigranten",
+        "werkgevers",
+        "huisvesting",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 40",
+      "originalQuote": "In lijn met de aanbevelingen van de commissie-Roemer is de VVD er voorstander van dat de werkgever van arbeidsmigranten niet óók de huisbaas is. Dit veroorzaakt namelijk een te grote afhankelijkheid, bijvoorbeeld als je je baan verliest. De gemeente moet hiervoor afspraken maken met werkgevers."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-079",
+      "text": "De Haagse Pandbrigade moet optreden tegen overbewoning bij arbeidsmigranten vanwege schrijnende leefomstandigheden, buurtoverlast en brandveiligheidsrisico's.",
+      "summary": "Pandbrigade treedt op tegen overbewoning arbeidsmigranten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "overbewoning",
+        "arbeidsmigranten",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 40",
+      "originalQuote": "Overbewoning komt helaas nog veel voor onder arbeidsmigranten. Dit levert niet alleen schrijnende leefomstandigheden voor de arbeidsmigrant op, maar kan ook overlast veroorzaken in de buurt en de brandveiligheid in het geding brengen. De VVD wil dat hiertegen wordt opgetreden door de Haagse Pandbrigade."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-080",
+      "text": "De gemeente gaat samen met bewoners en ondernemers kijken naar een betere ophaalplek voor arbeidsmigranten dan het Kaapseplein, bijvoorbeeld aan de Hoefkade of Fruitweg om overlast in Transvaal te verminderen.",
+      "summary": "Verplaatsing ophaalplek arbeidsmigranten van Kaapseplein naar Hoefkade/Fruitweg",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ophaalplek",
+        "arbeidsmigranten",
+        "kaapseplein",
+        "hoefkade",
+        "fruitweg"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 40",
+      "originalQuote": "Iedere ochtend worden veel arbeidsmigranten opgehaald op het Kaapseplein om te gaan werken in het Westland. Dit zorgt voor veel overlast in de wijk Transvaal. De VVD wil dat de gemeente samen met bewoners en ondernemers gaat kijken of hier een betere ophaalplek mogelijk is, bijvoorbeeld aan de Hoefkade of aan de Fruitweg."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-081",
+      "text": "Inschrijving in de gemeentelijke basisadministratie wordt voorwaarde voor arbeidsmigranten om gemeentelijke ondersteuning te krijgen, voor beter toezicht op overbewoning.",
+      "summary": "GBA-inschrijving wordt voorwaarde voor ondersteuning arbeidsmigranten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisadministratie",
+        "inschrijving",
+        "arbeidsmigranten",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 40",
+      "originalQuote": "Arbeidsmigranten moeten zich zo veel mogelijk gaan inschrijven in de gemeentelijke basisadministratie. Zo kan de gemeente toezicht houden op bijvoorbeeld overbewoning. De inschrijving in de gemeente wordt een voorwaarde om gemeentelijke ondersteuning te krijgen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-082",
+      "text": "De gemeente zet tijdelijk in op het mogelijk maken van inschrijven in de administratie bij ophaalplekken, waar arbeidsmigranten ook terecht kunnen voor vragen over huisvesting en het melden van misstanden.",
+      "summary": "Inschrijfmogelijkheden bij ophaalplekken voor arbeidsmigranten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inschrijving",
+        "ophaalplekken",
+        "arbeidsmigranten",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 40",
+      "originalQuote": "Om een slag te slaan met het wegwerken van misstanden en het aantal niet-ingeschreven arbeidsmigranten, moet de gemeente tijdelijk inzetten op het mogelijk maken van inschrijven in de administratie bij ophaalplekken. Hier kunnen arbeidsmigranten dan ook terecht voor vragen over huisvesting en andere zaken, of het melden van misstanden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-083",
+      "text": "Voor benoeming worden wethouders op integriteit gescreend.",
+      "summary": "Integriteitscreening wethouders voor benoeming",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouders",
+        "integriteit",
+        "screening",
+        "benoeming"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 42",
+      "originalQuote": "De VVD staat voor een stadsbestuur dat werkt op basis van stabiliteit, transparantie en integriteit. Voor benoeming worden wethouders op integriteit gescreend."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-084",
+      "text": "De gemeente ontwikkelt één app waar Hagenaars terecht kunnen voor al het contact met de gemeente, van meldingen buitenruimte tot informatie voor ondernemers.",
+      "summary": "Eén gemeente-app voor alle contact met inwoners en ondernemers",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "app",
+        "gemeente",
+        "contact",
+        "dienstverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 42",
+      "originalQuote": "De VVD wil dat de gemeente één app ontwikkelt waar Hagenaars terecht kunnen voor al het contact met de gemeente. Het gaat dan om alles van meldingen over de buitenruimte en woonoverlast tot informatie over participatie, toiletten of voor ondernemers."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-085",
+      "text": "De VVD wil de OZB verlagen omdat zij dit een oneerlijke gemeentelijke belasting vindt die vooral huizenbezitters treft.",
+      "summary": "OZB-verlaging omdat belasting oneerlijk is",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "verlaging",
+        "belasting",
+        "huizenbezitters"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 43",
+      "originalQuote": "De VVD wil de ozb verlagen. Principieel vindt de VVD de ozb een oneerlijke gemeentelijke belasting. De rekening voor voorzieningen wordt zo vooral bij huizenbezitters gelegd."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-086",
+      "text": "Er komt een Haags Investeringsfonds voor investeringen op de langere termijn in ondergrondse parkeergarages, bereikbaarheid en meer groen en water in wijken. Meevallers op projecten zoals de Rotterdamsebaan komen ten goede aan het fonds.",
+      "summary": "Haags Investeringsfonds voor parkeergarages, bereikbaarheid en groen",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investeringsfonds",
+        "parkeergarages",
+        "bereikbaarheid",
+        "groen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 43",
+      "originalQuote": "De VVD wil dat er een Haags Investeringsfonds komt voor investeringen op de langere termijn. Het gaat dan bijvoorbeeld om investeringen in ondergrondse parkeergarages in woonwijken, bereikbaarheid en meer groen en water in de wijken. Meevallers op projecten, zoals bij de Rotterdamsebaan, moeten ten goede komen aan het fonds."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-087",
+      "text": "Er wordt een revolverend duurzaamheidsfonds opgezet waar een groot deel van de resterende Eneco-gelden voor wordt ingezet, waarmee bewoners en ondernemers kunnen investeren in isolatie van woningen en kantoren.",
+      "summary": "Duurzaamheidsfonds uit Eneco-gelden voor isolatie-investeringen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "duurzaamheidsfonds",
+        "eneco-gelden",
+        "isolatie",
+        "energiebesparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 43",
+      "originalQuote": "De VVD wil daarnaast een revolverend duurzaamheidsfonds opzetten waar een groot deel van de resterende Eneco-gelden voor wordt ingezet. Hiermee kunnen bewoners en ondernemers investeringen doen, bijvoorbeeld voor isolatie van woningen en kantoren."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-088",
+      "text": "In het Centrum worden net als op Scheveningen duidelijke plekken aangewezen waar elektrische scooters mogen staan.",
+      "summary": "Aangewezen parkeerplekken voor e-scooters in Centrum",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "elektrische scooters",
+        "parkeren",
+        "centrum",
+        "plekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 49",
+      "originalQuote": "De elektrische scooter is een mooi vervoermiddel, maar we willen meer regie op het parkeerbeleid ervan. De VVD wil dat er net als op Scheveningen door de stad duidelijke plekken worden aangewezen waar elektrische scooters mogen staan."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-089",
+      "text": "In kleine straten en drukke winkelstraten geldt een loopregime tussen 9.00 en 21.00 uur ('winkels open, dan lopen'), maar de Prinsestraat wordt autoluw voor alleen bestemmingsverkeer.",
+      "summary": "Loopregime 9-21u in winkelstraten, Prinsestraat wordt autoluw",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loopregime",
+        "winkelstraten",
+        "prinsestraat",
+        "autoluw"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 49",
+      "originalQuote": "De VVD kiest voor het uitgangspunt 'winkels open, dan lopen'. Dit betekent niet fietsen tussen 9.00 en 21.00 uur. Het gebied waar dit geldt, moet duidelijk aangegeven worden. Met name in kleine straten en drukkewinkelstraten is fietsen niet veilig... De Prinsestraat wordt een autoluwe straat: alleen bestemmingsverkeer (bewoners en leveranciers) wordt nog mogelijk."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-090",
+      "text": "Er komt een wijkcentrum in het Benoordenhout dat sociale ontmoeting faciliteert en een bibliotheekfunctie kan vervullen. In lopende en toekomstige ontwikkelingen worden hiervoor kansen gezocht.",
+      "summary": "Wijkcentrum met bibliotheekfunctie in Benoordenhout",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkcentrum",
+        "bibliotheek",
+        "sociale ontmoeting",
+        "benoordenhout"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 56",
+      "originalQuote": "De VVD vindt het belangrijk dat er in het Benoordenhout een plaats is voor sociale ontmoeting, bijvoorbeeld in de vorm van een wijkcentrum dat ook een bibliotheekfunctie kan vervullen. In lopende en toekomstige ontwikkelingen moeten hiervoor kansen worden gezocht."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-091",
+      "text": "Er wordt een langetermijnvisie voor Laak opgesteld zodat bewoners, ondernemers en ontwikkelaars weten waar ze aan toe zijn. Dit behelst integrale aanpak van ontwikkeling met gelijke tred van voorzieningen en woningbouw.",
+      "summary": "Langetermijnvisie voor stadsdeel Laak",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "langetermijnvisie",
+        "laak",
+        "stadsdeel",
+        "ontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 56",
+      "originalQuote": "De VVD wil dat er een langetermijnvisie ligt zodat bewoners, ondernemers en ontwikkelaars weten waar ze aan toe zijn."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-092",
+      "text": "Er komt een groenplan voor de hele Binckhorst met langetermijnplanning van realisatie, inclusief natuurlijke inrichting van oevers en aandacht voor biodiversiteit, aangesloten bij groene structuur in Laak, Voorburg en Rijswijk.",
+      "summary": "Groenplan voor hele Binckhorst met langetermijnplanning",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groenplan",
+        "binckhorst",
+        "biodiversiteit",
+        "oevers",
+        "langetermijnplanning"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 56",
+      "originalQuote": "Er komt een groenplan voor de hele Binckhorst, met een langetermijnplanning van realisatie. Hierbij wordt ook nagedacht over een natuurlijke inrichting van de aanwezige oevers, met aandacht voor de biodiversiteit in de omgeving."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-093",
+      "text": "Daar waar nog geen ORAC's zijn en nog met vuilniszakken wordt gewerkt, worden zo spoedig mogelijk ORAC's geplaatst. Alle wijken krijgen sensoren in de ORAC's en mogelijkheid tot adoptie van containers.",
+      "summary": "ORAC's plaatsen waar nog vuilniszakken gebruikt worden",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "orac",
+        "vuilniszakken",
+        "sensoren",
+        "afvalcontainers"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 56",
+      "originalQuote": "Daar waar er nog geen ORAC's zijn en nog met vuilniszakken wordt gewerkt, worden zo spoedig mogelijk ORAC's geplaatst."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-094",
+      "text": "Er komt een extra tramhalte bij de rotonde op de Houtkade om Leidschenveen beter te ontsluiten met openbaar vervoer.",
+      "summary": "Extra tramhalte Houtkade voor Leidschenveen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramhalte",
+        "houtkade",
+        "leidschenveen",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 57",
+      "originalQuote": "We willen Leidschenveen beter ontsluiten met een extra tramhalte bij de rotonde op de Houtkade."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-095",
+      "text": "De Driemanspolder wordt beter ontsloten door aanleg van twee extra bruggetjes voor fietsers en voetgangers, zodat Leidschenveen-Ypenburg toegang krijgt tot een park.",
+      "summary": "Twee bruggetjes naar Driemanspolder voor parkfunctie",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "driemanspolder",
+        "bruggetjes",
+        "fietsers",
+        "voetgangers",
+        "park"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 57",
+      "originalQuote": "Daarom wil de VVD kijken of de Driemanspolder beter ontsloten kan worden met de aanleg van twee extra bruggetjes voor fietsers en voetgangers."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-096",
+      "text": "Er wordt onderzocht of een extra middelbare school in Leidschenveen-Ypenburg gebouwd moet worden vanwege veranderende behoeften in het stadsdeel.",
+      "summary": "Onderzoek naar extra middelbare school",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "middelbare school",
+        "leidschenveen-ypenburg",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 57",
+      "originalQuote": "De VVD wil dat onderzocht wordt of een extra middelbare school gebouwd moet worden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-097",
+      "text": "De Lozerlaan wordt ondertunneld of overkluisd om de entree van Loosduinen aantrekkelijker te maken, bereikbaarheid te verbeteren en geluidsoverlast te verminderen.",
+      "summary": "Ondertunneling of overkluizing Lozerlaan",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lozerlaan",
+        "ondertunneling",
+        "overkluizing",
+        "entree",
+        "loosduinen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 58",
+      "originalQuote": "De VVD wil dat de entree van Loosduinen aantrekkelijker wordt door het ondertunnelen of overkluizen van de Lozerlaan."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-098",
+      "text": "Er wordt onderzocht of ondergronds parkeren mogelijk is bij het Loosduinse Hoofdplein, het Alphons Diepenbrockhof en de Machiel Vrijenhoeklaan ter hoogte van strandopgang 2.",
+      "summary": "Onderzoek ondergronds parkeren op drie locaties Loosduinen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondergronds parkeren",
+        "loosduinse hoofdplein",
+        "alphons diepenbrockhof",
+        "machiel vrijenhoeklaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 58",
+      "originalQuote": "Onderzocht moet worden of ondergronds parkeren mogelijk gemaakt kan worden bij het Loosduinse Hoofdplein, het Alphons Diepenbrockhof en de Machiel Vrijenhoeklaan ter hoogte van strandopgang 2."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-099",
+      "text": "De fietspaden in de duinen van Kijkduin krijgen een opknapbeurt vanwege losliggende tegels en overstuivend zand die gevaarlijke situaties veroorzaken.",
+      "summary": "Opknapbeurt fietspaden duinen Kijkduin",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietspaden",
+        "duinen",
+        "kijkduin",
+        "opknapbeurt",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 58",
+      "originalQuote": "De fietspaden in de duinen van Kijkduin verdienen een opknapbeurt, door losliggende tegels en overstuivend zand ontstaan nu gevaarlijke situaties."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-100",
+      "text": "Het Zwarte Pad parking blijft behouden en krijgt overkappingen met zonnepanelen voor duurzame energieopwekking.",
+      "summary": "Zonnepanelen op Zwarte Pad parking",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwarte pad",
+        "parking",
+        "zonnepanelen",
+        "overkappingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 60",
+      "originalQuote": "De Zwarte Pad parking blijft behouden en krijgt overkappingen met zonnepanelen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-101",
+      "text": "Het opknappen van de middenboulevard krijgt prioriteit na zomer 2022. De gemeente faciliteert eventuele private opknapbeurt van Palace Promenade.",
+      "summary": "Opknapbeurt middenboulevard prioriteit na zomer 2022",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "middenboulevard",
+        "opknapbeurt",
+        "palace promenade",
+        "boulevard"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 61",
+      "originalQuote": "Het opknappen van de middenboulevard, verwacht na zomer 2022, moet volgens de VVD prioriteit krijgen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-102",
+      "text": "Ondergronds parkeren realiseren onder pleinen zoals het Goudenregenplein en het Regentesseplein voor meer auto- en fietsparkeerplaatsen in straten met drielaagsappartementen zoals Goudenregenstraat en Fahrenheitstraat",
+      "summary": "Ondergrondse parkeergarages onder pleinen in Segbroek",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondergronds",
+        "parkeren",
+        "pleinen",
+        "goudenregenplein",
+        "regentesseplein"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 62",
+      "originalQuote": "De VVD wil daarom zorgen dat meer auto's ondergronds geparkeerd kunnen worden, bijvoorbeeld onder pleinen zoals het Goudenregenplein en het Regentesseplein."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-103",
+      "text": "(Geluids)flitspalen plaatsen op de Laan van Meerdervoort tegen hardrijden en geluidsoverlast van snelheidsduivels",
+      "summary": "Geluidsflitspalen op Laan van Meerdervoort tegen hardrijders",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geluidsflitspalen",
+        "laan van meerdervoort",
+        "hardrijden",
+        "snelheidsduivels"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 62",
+      "originalQuote": "Hardrijden en de daarmee geluidsoverlast is een serieus probleem, bijvoorbeeld op de Laan van Meerdervoort. De VVD wil hier (geluids)flitspalen."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-104",
+      "text": "Sensoren in alle ORAC's in wijken van Segbroek plaatsen en overal ORAC-adoptie mogelijk maken evenals afvalcontainers voor glas, plastic en papier die vaker geleegd worden",
+      "summary": "ORAC-sensoren en vaker legen afvalcontainers in alle wijken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sensoren",
+        "orac",
+        "afvalcontainers",
+        "glas",
+        "plastic",
+        "papier"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 62",
+      "originalQuote": "Alle wijken krijgen sensoren in de ORAC's en het moet overal mogelijk zijn een ORAC te adopteren, evenals afvalcontainers voor glas, plastic en papier. Deze containers moeten vaker geleegd worden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-105",
+      "text": "Overconcentratie coffeeshops in Weimarstraat terugdringen via afspraken over verplaatsing, verspreiding of stoppen, waarbij uitkopen een serieuze optie is",
+      "summary": "Coffeeshops Weimarstraat terugdringen via verplaatsing of uitkopen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coffeeshops",
+        "weimarstraat",
+        "uitkopen",
+        "verplaatsing",
+        "overconcentratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 63",
+      "originalQuote": "De VVD wil de overconcentratie van coffeeshops in de Weimarstraat terugdringen. Denk hierbij aan afspraken over verplaatsing, verspreiding of stoppen. Uitkopen is een serieuze optie."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-106",
+      "text": "Plan ontwikkelen samen met bewoners, ondernemers en vastgoedeigenaren voor Weimarstraat in balans met divers winkalaanbod, minder coffeeshops en minder horeca via branchering",
+      "summary": "Plan voor Weimarstraat met branchering en minder coffeeshops/horeca",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "weimarstraat",
+        "branchering",
+        "coffeeshops",
+        "horeca",
+        "winkels"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 63",
+      "originalQuote": "De VVD wil dat er met bewoners, ondernemers en vastgoedeigenaren een plan ontwikkeld wordt voor een Weimarstraat in balans. Dit betekent een divers aanbod aan winkels, minder coffeeshops en minder horeca."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-107",
+      "text": "Regentesseplein samen met bewoners opknappen als ontmoetingsplek met meer groen en minder stenen tegen hittestress en voor waterafvoer, met onderzoek naar ondergronds parkeren",
+      "summary": "Opknapbeurt Regentesseplein met meer groen en ondergronds parkeren",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regentesseplein",
+        "opknappen",
+        "groen",
+        "ondergronds parkeren",
+        "hittestress"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 63",
+      "originalQuote": "De VVD wil het Regentesseplein samen met bewoners opknappen. Het plein kan fungeren als ontmoetingsplek met meer groen en minder stenen. Dit komt ten goede aan het afvoeren van water en het tegengaan van hittestress. Ook wil de VVD onderzoeken of hier ondergrondse geparkeerd kan worden."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-108",
+      "text": "Gevel van basisschool De Populier behouden bij verbouwplannen vanwege beeldkwaliteit van de wijk",
+      "summary": "Gevel De Populier behouden bij schoolverbouwing",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gevel",
+        "de populier",
+        "school",
+        "behouden",
+        "beeldkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 63",
+      "originalQuote": "De VVD wil dat de gevel van De Populier behouden blijft. De verbouwplannen van de school kunnen doorgaan, maar zonder de sloop van de gevel."
+    },
+    {
+      "promiseCode": "VVD-DH-2022-109",
+      "text": "Vergunningsparkeren invoeren in Vogelwijk tegen parkeertoeristen en oneigenlijk parkeren door automobilisten die betaald parkeren willen vermijden",
+      "summary": "Vergunningsparkeren Vogelwijk tegen parkeertoeristen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningsparkeren",
+        "vogelwijk",
+        "parkeertoeristen",
+        "betaald parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma VVD den-haag 2022, p. 63",
+      "originalQuote": "VVD wil samen met bewoners kijken naar vergunningsparkeren tegen de parkeertoeristen."
+    }
+  ]
+}

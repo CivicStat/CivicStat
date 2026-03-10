@@ -1,0 +1,38 @@
+import { Controller, Get, Header, Param, Query } from "@nestjs/common";
+import { VotesService } from "./votes.service";
+
+@Controller("votes")
+export class VotesController {
+  constructor(private readonly votesService: VotesService) {}
+
+  @Get("consensus")
+  @Header("Cache-Control", "public, max-age=3600")
+  async consensus() {
+    return this.votesService.getConsensus();
+  }
+
+  @Get()
+  async list(
+    @Query("q") q?: string,
+    @Query("party") party?: string,
+    @Query("result") result?: string,
+    @Query("limit") limit?: string,
+    @Query("offset") offset?: string
+  ) {
+    const parsedLimit = Math.min(Number(limit ?? 20), 100);
+    const parsedOffset = Math.max(Number(offset ?? 0), 0);
+
+    return this.votesService.list({
+      query: q,
+      party,
+      result,
+      limit: Number.isNaN(parsedLimit) ? 20 : parsedLimit,
+      offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset,
+    });
+  }
+
+  @Get(":id")
+  async get(@Param("id") id: string) {
+    return this.votesService.get(id);
+  }
+}

@@ -1,0 +1,2539 @@
+{
+  "party": "Hart voor Den Haag",
+  "partySlug": "hart-voor-den-haag",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Verkiezingsprogramma Hart voor Den Haag Den Haag 2026",
+  "electionYear": 2026,
+  "sourceFile": "hart-voor-den-haag_den-haag_2026.pdf",
+  "extractedAt": "2026-03-03T12:22:56.447Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "De huisvestingsverordening aanpassen om voorrang te geven aan woningzoekenden die economisch en/of maatschappelijk verbonden zijn met de stad",
+      "originalText": "De eerste stap is het aanpassen van de huisvestingsverordening, waarin wat ons betreft voorrang wordt gegeven aan woningzoekenden die economisch en/of maatschappelijk verbonden zijn met de stad. Deze maatregel kan eventueel wijkgebonden worden ingevoerd, bijvoorbeeld in Duindorp, op Scheveningen en in Loosduinen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huisvestingsverordening",
+        "voorrang",
+        "woningzoekenden"
+      ]
+    },
+    {
+      "text": "De Haagse Pandbrigade uitbreiden om overbewoning tegen te gaan",
+      "originalText": "Hart voor Den Haag wil alles op alles zetten om overbewoning tegen te gaan. Daartoe breiden we de Haagse Pandbrigade uit.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pandbrigade",
+        "uitbreiden",
+        "overbewoning"
+      ]
+    },
+    {
+      "text": "De Wet bijzondere maatregelen grootstedelijke problematiek (Rotterdamwet) toepassen in Den Haag om toestroom van kansarmen naar overbelaste wijken te beperken",
+      "originalText": "Wij willen de Wet bijzondere maatregelen grootstedelijke problematiek (de 'Rotterdamwet') toepassen in Den Haag, zodat we de toestroom van kansarmen naar overbelaste wijken fors beperken.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rotterdamwet",
+        "kansarmen",
+        "overbelaste wijken"
+      ]
+    },
+    {
+      "text": "Meer voorrangsverklaringen invoeren voor agenten, leraren en zorgpersoneel bij woningtoewijzing",
+      "originalText": "Ook willen we met meer voorrangsverklaringen voor bijvoorbeeld agenten, leraren en zorgpersoneel de sociale cohesie versterken.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voorrangsverklaringen",
+        "agenten",
+        "leraren",
+        "zorgpersoneel"
+      ]
+    },
+    {
+      "text": "De Onroerendezaakbelasting (OZB) met 20 procent verlagen.",
+      "originalText": "Wij geven de stad ongeveer 35 miljoen euro aan lastenverlichting. Dat betekent dat onder meer de Onroerendezaakbelasting (OZB) met zo'n 20 procent omlaag kan.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ozb",
+        "onroerendezaakbelasting",
+        "verlagen",
+        "20 procent"
+      ]
+    },
+    {
+      "text": "Geen verdere verhogingen van gemeentelijke woonlasten zoals erfpachtcanon, afvalstoffen- en rioolheffing, behoudens inflatiecorrectie.",
+      "originalText": "Hart voor Den Haag is tegen nog verdere verhogingen van alle andere gemeentelijke woonlasten, zoals de erfpachtcanon, de afvalstoffen- en rioolheffing, behoudens inflatiecorrectie.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonlasten",
+        "erfpachtcanon",
+        "afvalstoffenheffing",
+        "rioolheffing"
+      ]
+    },
+    {
+      "text": "Meer hoogbouw realiseren bij de twee grote stations Den Haag Centraal en Hollands Spoor.",
+      "originalText": "Den Haag kan de lucht in bouwen op daarvoor geschikte locaties, zoals in de nabijheid van de twee grote stations, Den Haag Centraal en Hollands Spoor. Dit biedt de mogelijkheid om veel woningen in een relatief klein gebied te realiseren zonder waardevol groen te verliezen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hoogbouw",
+        "stations",
+        "den haag centraal",
+        "hollands spoor"
+      ]
+    },
+    {
+      "text": "Een deel van de A12 overkluizen en daarop duizend woningen bouwen.",
+      "originalText": "een deel van de A12 overkluizen en daarop de bouw van duizend woningen;",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "a12",
+        "overkluizen",
+        "duizend woningen",
+        "bouwen"
+      ]
+    },
+    {
+      "text": "Een leegstandsverordening invoeren tegen bewust gekozen langdurige leegstand.",
+      "originalText": "Er moeten hoge boetes worden opgelegd voor bewust gekozen langdurige leegstand als verkrottingsstrategie en de gemeente moet een leegstandsverordening gaan toepassen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leegstandsverordening",
+        "leegstand",
+        "boetes",
+        "verkrotting"
+      ]
+    },
+    {
+      "text": "Vol eigendom en geen erfpacht bij nieuwbouw invoeren.",
+      "originalText": "vol eigendom en dus geen erfpacht bij nieuwbouw;",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vol eigendom",
+        "erfpacht",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Een ontwikkelperspectief voor Lekstraat realiseren met 500 woningen erbij.",
+      "originalText": "ontwikkelperspectief voor Lekstraat, dat betekent 500 woningen erbij;",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "lekstraat",
+        "500 woningen",
+        "ontwikkeling"
+      ]
+    },
+    {
+      "text": "Verplaatsing afvalcentrale HMS naar Delft voor woningbouw in Binckhorst Noordwest.",
+      "originalText": "verplaatsing afvalcentrale HMS naar Delft, dat maakt woningbouw in Binckhorst Noordwest mogelijk;",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afvalcentrale",
+        "hms",
+        "delft",
+        "binckhorst",
+        "woningbouw"
+      ]
+    },
+    {
+      "text": "Verhoogde politieaanwezigheid in risicowijken, vooral 's nachts, en meer intensief en preventief fouilleren uitvoeren.",
+      "originalText": "Wij willen verhoogde politieaanwezigheid, dus meer politieagenten in risicowijken, vooral 's nachts. Wij willen meer intensief en preventief fouilleren.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "politieaanwezigheid",
+        "risicowijken",
+        "fouilleren"
+      ]
+    },
+    {
+      "text": "Uitbreiding van cameratoezicht, inclusief gezichtsherkenning, kentekenherkenning en geluidsdetectie voor betere opsporing.",
+      "originalText": "Dus uitbreiding van cameratoezicht, inclusief gezichtsherkenning, kentekenherkenning en geluidsdetectie, om de opsporing te verbeteren.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cameratoezicht",
+        "gezichtsherkenning",
+        "kentekenherkenning",
+        "geluidsdetectie"
+      ]
+    },
+    {
+      "text": "Aanstellen van 200 extra handhavers, een verdubbeling van het huidige aantal handhavers.",
+      "originalText": "Wij willen veel meer (wijk)agenten en 200 extra handhavers, een verdubbeling van het huidige aantal.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "handhavers",
+        "200",
+        "verdubbeling"
+      ]
+    },
+    {
+      "text": "Meer wijkagenten en handhavers met vaste spreekuren en lokale meldpunten voor vroegtijdige criminaliteitssignalering.",
+      "originalText": "intensieve wijkgerichte aanpak: meer wijkagenten, meer handhavers, vaste spreekuren en lokale meldpunten om criminaliteit vroegtijdig te signaleren en de betrokkenheid van de gemeenschap te vergroten.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkagenten",
+        "spreekuren",
+        "meldpunten"
+      ]
+    },
+    {
+      "text": "Instellen van een gemeentelijk 'Meldpunt Tegen Radicalisering' voor aanpak van radicaliserende jongeren.",
+      "originalText": "Ook pleit Hart voor Den Haag voor een gemeentelijk 'Meldpunt Tegen Radicalisering' en versterking van de Veiligheidsregio Haaglanden in samenwerking met de departementen Justitie en Veiligheid, Defensie én alle veiligheidsdiensten.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "meldpunt",
+        "radicalisering",
+        "jongeren"
+      ]
+    },
+    {
+      "text": "Handhavers ook na 23.00 uur inzetten voor verhoogde handhaving tijdens avond- en nachturen.",
+      "originalText": "handhavers ook na 23.00 uur inzetten",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhavers",
+        "23.00",
+        "nachtelijke",
+        "handhaving"
+      ]
+    },
+    {
+      "text": "Meer conducteurs en beveiligers aanstellen op trams, vooral op risicolijnen en in de avonden.",
+      "originalText": "Wij zijn voor meer cameratoezicht en het aanstellen van meer conducteurs en beveiligers op trams, zeker op risicolijnen en in de avonden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "conducteurs",
+        "beveiligers",
+        "trams",
+        "openbaar vervoer"
+      ]
+    },
+    {
+      "text": "Aantoonbaar onveilige plekken zoals Zuiderpark en gebied rondom station Hollands Spoor schoonvegen en substantieel bedrag vrijmaken.",
+      "originalText": "aantoonbaar onveilige plekken zoals het Zuiderpark en het gebied rondom station Hollands Spoor voor eens en altijd schoonvegen en daar een substantieel bedrag voor vrijmaken",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zuiderpark",
+        "hollands spoor",
+        "onveilige plekken"
+      ]
+    },
+    {
+      "text": "Afgepakt crimineel vermogen zichtbaar laten terugkomen in wijken via extra jongerenwerk, verlichting, cameratoezicht en sportvoorzieningen.",
+      "originalText": "Hart voor Den Haag wil dat afgepakt crimineel vermogen zichtbaar terugkomt in de stad: in extra jongerenwerk, betere verlichting, cameratoezicht en sportvoorzieningen. Zo profiteert de buurt van het feit dat criminelen zijn aangepakt.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "crimineel vermogen",
+        "jongerenwerk",
+        "sportvoorzieningen",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Alle asiellocaties in Den Haag sluiten (behalve voor Oekraïense vrouwen en kinderen).",
+      "originalText": "Hart voor Den Haag wil stoppen met asielopvang in onze stad. Het absorptievermogen van onze stad is immers meer dan bereikt. We hebben tekorten aan alles: huizen, agenten, leraren, noem maar op. Wij willen daarom alle asiellocaties in de stad sluiten. Alleen voor gevluchte Oekraïense vrouwen en kinderen maken we een uitzondering.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "asiellocaties",
+        "sluiten",
+        "asielopvang"
+      ]
+    },
+    {
+      "text": "Nieuwkomers die geen Nederlands willen leren of werk weigeren uitsluiten van bijstand en inkomensondersteuning.",
+      "originalText": "Wij pleiten voor strikte handhaving van deze normen en willen immigranten die weigeren onze taal te leren, uitsluiten van bijstand en alle verdere inkomensondersteuning. Hetzelfde geldt voor degenen die weigeren te werken.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bijstand",
+        "uitsluiten",
+        "taalvaardigheid",
+        "werk"
+      ]
+    },
+    {
+      "text": "Westerse kernwaarden centraal stellen in burgerschapsonderwijs in Den Haag.",
+      "originalText": "Onze ononderhandelbare, essentiële Westerse waarden moeten centraal staan in het burgerschapsonderwijs. Wij zullen toezien op de naleving hiervan in Den Haag, met extra aandacht voor onder meer het tegengaan van vrouwenhaat, homohaat, racisme, discriminatie en antisemitisme.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "burgerschapsonderwijs",
+        "westerse waarden",
+        "naleving"
+      ]
+    },
+    {
+      "text": "Salafistische geweldspredikers een gebiedsverbod opleggen.",
+      "originalText": "Hart voor Den Haag verwerpt elke vorm van samenwerking met salafistische groeperingen die een bedreiging vormen voor de nationale veiligheid. Salafistische indoctrinatie vormt een existentiële bedreiging voor onze manier van leven. Salafistische geweldspredikers krijgen een gebiedsverbod.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gebiedsverbod",
+        "salafisten",
+        "geweldspredikers"
+      ]
+    },
+    {
+      "text": "De Rotterdamwet toepassen in Den Haag voor verbetering leefbaarheid zwakke wijken.",
+      "originalText": "Wij willen de Rotterdamwet toepassen in Den Haag om de gigantische problematiek in onze achterstandswijken drastisch aan te pakken. Deze wet moet gemeenten in staat stellen om specifieke maatregelen te nemen tegen onveiligheid, afvalproblematiek, het aanpakken van malafide huisjesmelkers en het verbeteren van taalvaardigheid.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rotterdamwet",
+        "achterstandswijken",
+        "leefbaarheid"
+      ]
+    },
+    {
+      "text": "Een Haags Investeringsfonds Bereikbaarheid oprichten gefinancierd uit parkeeropbrengsten en bestaande budgetten.",
+      "originalText": "Hart voor Den Haag pleit voor de oprichting van een Haags Investeringsfonds Bereikbaarheid. Dit fonds kan worden gefinancierd uit bestaande begrotingsmiddelen en opbrengsten uit betaald parkeren, evenals door het herprioriteren van budgetten binnen de programma's verkeer, milieu, wonen en duurzaamheid.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeringsfonds",
+        "bereikbaarheid",
+        "parkeeropbrengsten"
+      ]
+    },
+    {
+      "text": "Het Telderstracé ondertunnelen en onderzoek naar ondertunneling gehele Noordwestelijke Hoofdroute.",
+      "originalText": "Er zijn concrete plannen voor het verbeteren van de verkeersdoorstroming in Den Haag, zoals het ondertunnelen van het Telderstracé. Hart voor Den Haag heeft als doel, als stip aan de horizon, de gehele Noordwestelijke Hoofdroute, dus inclusief de Johan de Wittlaan, de Kennedylaan en de Machiel Vrijenhoeklaan, te ondertunnelen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ondertunneling",
+        "telderstracé",
+        "noordwestelijke hoofdroute"
+      ]
+    },
+    {
+      "text": "Veel extra parkeerplekken aanleggen en nieuwe parkeergarages bouwen zonder ten koste van groen.",
+      "originalText": "Hart voor Den Haag pleit ervoor dat de opbrengsten van betaald parkeren gebruikt worden om de parkeerproblematiek op te lossen. Onder meer door het aanleggen van veel extra parkeerplekken, zonder dat dit ten koste gaat van groen, meer schuinparkeren en het bouwen van nieuwe parkeergarages verhogen wij de parkeercapaciteit fors.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplekken",
+        "parkeergarages",
+        "parkeercapaciteit"
+      ]
+    },
+    {
+      "text": "Een referendum houden over betaald parkeren.",
+      "originalText": "Hart voor Den Haag wil dat er alsnog een referendum wordt gehouden over betaald parkeren, die meer dan 15.000 handtekeningen werden immers niet voor niets opgehaald. Het is schandalig hoe het college het burgerinitiatief hierover heeft afgehandeld. Dat referendum moet er komen!",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "referendum",
+        "betaald parkeren",
+        "burgerinitiatief"
+      ]
+    },
+    {
+      "text": "Alle zero-emissiezones in Den Haag afschaffen.",
+      "originalText": "rijden, worden wat ons betreft per direct afgeschaft. Het was, is en blijft in de kern een speeltje van de groene-betuttel-brigade, dat de stad niet helpt, ondernemers kapotmaakt en concurrentiekracht vernietigt.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zero-emissiezones",
+        "afschaffen",
+        "verkeer"
+      ]
+    },
+    {
+      "text": "De parkeerbelasting met 5 miljoen euro verlagen.",
+      "originalText": "de parkeerbelasting met 5 miljoen verlagen",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeerbelasting",
+        "verlagen",
+        "5 miljoen"
+      ]
+    },
+    {
+      "text": "Een ondergrondse OV-verbinding tussen Den Haag CS en Scheveningen-Bad aanleggen via de Koningscorridor.",
+      "originalText": "Hart voor Den Haag is voorstander van de aanleg van een ondergrondse verbinding tussen Den Haag CS en Scheveningen-Bad, via de Koningscorridor, met haltes bij onder meer Madurodam en de Keizerstraat.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ondergronds",
+        "ov",
+        "den haag cs",
+        "scheveningen"
+      ]
+    },
+    {
+      "text": "RandstadRail 3 doortrekken naar Kijkduin en RandstadRail 2 doortrekken naar Vroondaal.",
+      "originalText": "RandstadRail 3, met wissel, doortrekken naar Kijkduin en RandstadRail 2 doortrekken naar Vroondaal",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "randstadrail",
+        "kijkduin",
+        "vroondaal",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Permanent gratis openbaar vervoer invoeren voor alle Haagse kinderen tussen 4 en 12 jaar.",
+      "originalText": "permanent gratis OV voor alle Haags kinderen tussen 4 en 12 jaar",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gratis",
+        "ov",
+        "kinderen",
+        "4-12 jaar"
+      ]
+    },
+    {
+      "text": "Veel meer ondergrondse fietsenstallingen en fietsparkeerwinkels realiseren.",
+      "originalText": "Daarnaast willen wij meer ondergrondse fietsenstallingen en fietsparkeerwinkels realiseren, waar fietsers terechtkunnen voor reparaties en andere faciliteiten.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietsenstallingen",
+        "ondergronds",
+        "fietsparkeerwinkels"
+      ]
+    },
+    {
+      "text": "Het nachtvervoer uitbreiden.",
+      "originalText": "Wij willen uitbreiding van het nachtvervoer.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nachtvervoer",
+        "uitbreiden",
+        "ov"
+      ]
+    },
+    {
+      "text": "Stoppen met de Metropoolregio Rotterdam Den Haag (MRDH) in haar huidige vorm.",
+      "originalText": "Hart voor Den Haag wil stoppen met de Metropoolregio Rotterdam Den Haag (MRDH) in haar huidige vorm. Vervoerstaken en investeringsfondsen hevelen we over naar de provincie Zuid-Holland.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mrdh",
+        "stoppen",
+        "provincie",
+        "overdragen"
+      ]
+    },
+    {
+      "text": "Winkelcentrum Leyweg transformeren tot grote trekpleister met Eddy Christiani Cultuurhuis, bazaar met foodhall, bioscoop en popmuseum Rockart.",
+      "originalText": "Wij willen Winkelcentrum Leyweg transformeren tot de parel van Zuidwest, een minstens even grote trekpleister als The Mall of the Netherlands in Leidschendam. Aan de Leyweg vestigen we wat ons betreft ook het Eddy Christiani Cultuurhuis, een bazaar met foodhall, een prachtbioscoop en het popmuseum Rockart, met landelijke uitstraling.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leyweg",
+        "winkelcentrum",
+        "transformatie",
+        "cultuurhuis",
+        "bioscoop"
+      ]
+    },
+    {
+      "text": "Een fietsverbinding aanleggen dwars door winkelcentrum Leyweg en de Leyweg verbinden met het nabije Zuiderpark.",
+      "originalText": "Er moet ook een fietsverbinding komen dwars door het winkelcentrum en de Leyweg dient te worden verbonden met het nabije Zuiderpark.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietsverbinding",
+        "leyweg",
+        "zuiderpark"
+      ]
+    },
+    {
+      "text": "Één wethouder aanstellen voor de portefeuille Economische Zaken die actief in gesprek gaat met de bedrijfssector.",
+      "originalText": "De versnippering van de portefeuille Economische Zaken moet worden aangepakt. Hart voor Den Haag pleit voor één wethouder die actief in gesprek gaat met de bedrijfssector en de economische ontwikkeling van de stad stuurt.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wethouder",
+        "economische zaken",
+        "bedrijfssector"
+      ]
+    },
+    {
+      "text": "Parkeertarieven verlagen en gratis parkeertijd verlengen voor winkelstraten, waar mogelijk gratis parkeren terugbrengen.",
+      "originalText": "We pleiten voor lagere parkeertarieven, langere gratis parkeertijd en het verbeteren van de bereikbaarheid van winkelgebieden. Waar mogelijk brengen we gratis parkeren terug of op zijn minst kortparkeren voor een boodschap tegen schappelijke tarieven.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeertarieven",
+        "gratis parkeren",
+        "winkelstraten"
+      ]
+    },
+    {
+      "text": "Automotive vergunningplichtig maken op bedrijventerreinen.",
+      "originalText": "Automotive maken we vergunningplichtig.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "automotive",
+        "vergunningplicht",
+        "bedrijventerreinen"
+      ]
+    },
+    {
+      "text": "Budget voor kunst en cultuur verruimen en grondige renovatie van het Kunstmuseum realiseren.",
+      "originalText": "Hart voor Den Haag wil het budget voor kunst en cultuur verruimen. Wij staan pal voor onze theaters en musea. Wij zijn voorstander van een grondige renovatie van het Kunstmuseum, zodat het icoon van Berlage toekomstbestendig wordt.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kunst",
+        "cultuur",
+        "budget",
+        "kunstmuseum",
+        "renovatie"
+      ]
+    },
+    {
+      "text": "Haags Museumkwartier realiseren met Eschermuseum in voormalige Amerikaanse ambassade, Oranje- en Delfsblauwmuseum en Haags Hopje Museum.",
+      "originalText": "Hart voor Den Haag wil dat onze plannen voor een Haags Museumkwartier alsnog worden gerealiseerd. Met het Mauritshuis op steenworp afstand zou de vestiging van het Eschermuseum in de voormalige Amerikaanse ambassade en de komst van een Oranje- en Delfsblauwmuseum en een Haags Hopje Museum leiden tot de creatie van één van de sterkste museumgebieden in Europa.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "museumkwartier",
+        "eschermuseum",
+        "delfsblauwmuseum",
+        "hopje museum"
+      ]
+    },
+    {
+      "text": "Groots Haags Evenementenfonds opzetten voor behoud en uitbreiding van evenementen en aantrekken nieuwe evenementen.",
+      "originalText": "Hart voor Den Haag zet in op een groots Haags Evenementenfonds. Wij willen nieuwe evenementen aantrekken, zoals een Red Bull Formule 1 Showrun, de start van de Tour de France en een jaarlijks dancefestival.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "evenementenfonds",
+        "evenementen",
+        "tour de france",
+        "dancefestival"
+      ]
+    },
+    {
+      "text": "Monument oprichten ter ere van Golden Earring als erkenning voor hun bijdrage aan de culturele identiteit van de stad.",
+      "originalText": "Golden Earring heeft groot nationaal en internationaal aanzien en is een belangrijk cultureel symbool van Den Haag. Hart voor Den Haag stelt voor om een monument op te richten ter ere van deze Haagse muzieklegende, die maar liefst 23 hits in de Top 2000 op zijn naam heeft staan.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "golden earring",
+        "monument",
+        "muzieklegende"
+      ]
+    },
+    {
+      "text": "Meer dan drieduizend bomen planten en bestaande groene infrastructuren versterken door pleinen te vergroenen.",
+      "originalText": "Daarom is ons doel om – per saldo – meer dan drieduizend bomen te planten en bestaande groene infrastructuren te versterken, bijvoorbeeld door pleinen te vergroenen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bomen",
+        "planten",
+        "vergroenen",
+        "pleinen"
+      ]
+    },
+    {
+      "text": "Het aantal handhavers voor afvalhandhaving fors verhogen en uitrusten met pinapparaten om direct boetes te kunnen innen.",
+      "originalText": "Het aantal handhavers moet daarom fors omhoog, uitgerust met pinapparaten om direct boetes te kunnen innen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhavers",
+        "afval",
+        "boetes",
+        "pinapparaten"
+      ]
+    },
+    {
+      "text": "Het aantal ondergrondse restafvalcontainers (ORAC's) uitbreiden en de leging van containers veel efficiënter maken.",
+      "originalText": "Verder zullen we het aantal ondergrondse restafvalcontainers (ORAC's) uitbreiden en de leging van containers veel efficiënter maken.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afvalcontainers",
+        "orac",
+        "uitbreiden",
+        "leging"
+      ]
+    },
+    {
+      "text": "Gedempte grachten opnieuw openstellen om overtollig water op te vangen.",
+      "originalText": "Gezien de toenemende neerslag, pleiten we ervoor de gedempte grachten opnieuw open te stellen om het overtollige water op te vangen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "grachten",
+        "openstellen",
+        "water",
+        "neerslag"
+      ]
+    },
+    {
+      "text": "De Binckhorst en Laakhaven omvormen tot aantrekkelijke havens met horeca en waterrecreatie.",
+      "originalText": "Wij willen de Binckhorst en Laakhaven omvormen tot aantrekkelijke havens, inclusief horeca en waterrecreatie.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "binckhorst",
+        "laakhaven",
+        "havens",
+        "horeca",
+        "waterrecreatie"
+      ]
+    },
+    {
+      "text": "Het herstel van de Erasmusvaart realiseren voor betere waterafvoer en recreatieve verbindingen.",
+      "originalText": "Verder pleit Hart voor Den Haag voor het herstel van de Erasmusvaart, die kan bijdragen aan een betere waterafvoer bij extreme buien en de toeristische en recreatieve waternetwerken van Den Haag en het Westland verbindt.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "erasmusvaart",
+        "herstel",
+        "waterafvoer",
+        "recreatie"
+      ]
+    },
+    {
+      "text": "Een levenslang houdverbod voor dierenbeulen opnemen in de Algemene Plaatselijke Verordening.",
+      "originalText": "We pleiten voor het opnemen van een levenslang houdverbod voor dierenbeulen in de Algemene Plaatselijke Verordening (APV).",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "houdverbod",
+        "dierenbeulen",
+        "apv"
+      ]
+    },
+    {
+      "text": "Meer geld voor een Haags Evenementenfonds voor het binnenhalen van nieuwe toonaangevende evenementen.",
+      "originalText": "meer geld voor een Haags Evenementenfonds, voor het binnenhalen van nieuwe toonaangevende evenementen die voor werk en inkomsten zorgen",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "evenementenfonds",
+        "evenementen",
+        "geld",
+        "subsidie"
+      ]
+    },
+    {
+      "text": "Het buitenbad in het Zuiderpark verruimen.",
+      "originalText": "het buitenbad in het Zuiderpark verruimen",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buitenbad",
+        "zuiderpark",
+        "verruimen",
+        "zwembad"
+      ]
+    },
+    {
+      "text": "Alle Haagse stadsboerderijen behouden.",
+      "originalText": "Hart voor Den Haag zet zich in voor het behoud van alle stadsboerderijen in Den Haag",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadsboerderijen",
+        "behouden",
+        "cultuur"
+      ]
+    },
+    {
+      "text": "Een wethouder Ouderen aanstellen die volledig verantwoordelijk is voor ouderenbeleid en vergrijzing.",
+      "originalText": "Wij willen dat Den Haag zo snel mogelijk een speciale wethouder Ouderen krijgt, net als in Rotterdam al het geval is. De stad is namelijk onvoldoende voorbereid op de snel toenemende vergrijzing. De aanpak is nu nog versnipperd over verschillende portefeuilles. Het is tijd dat één wethouder hier volledig verantwoordelijkheid voor neemt",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wethouder",
+        "ouderen",
+        "vergrijzing"
+      ]
+    },
+    {
+      "text": "20.000 ouderenwoningen en 5.000 tot 7.000 speciale doelgroepenwoningen bouwen richting 2040.",
+      "originalText": "Ook moet deze wethouder ervoor zorgen dat de bouw van 20.000 ouderenwoningen en 5.000 tot 7.000 speciale doelgroepenwoningen richting 2040 werkelijkheid wordt.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ouderenwoningen",
+        "doelgroepenwoningen",
+        "bouwen"
+      ]
+    },
+    {
+      "text": "Bronovo openhouden als weekziekenhuis voor planbare zorg, met poliklinieken en spoedeisende hulp.",
+      "originalText": "Hart voor Den Haag wil dat Bronovo op z'n minst openblijft als weekziekenhuis voor planbare zorg, met poliklinieken en spoedeisende hulp. Kraamzorg moet weer terugkomen. Bij voorkeur moet er ook een grote huisartsenpost komen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bronovo",
+        "weekziekenhuis",
+        "spoedeisende hulp"
+      ]
+    },
+    {
+      "text": "Haagse verpleeghuizen heropenen en woongroepen oprichten voor kwetsbare ouderen.",
+      "originalText": "Wij pleiten voor de heropening van Haagse verpleeghuizen en de oprichting van woongroepen, wat tegelijkertijd kan bijdragen aan het verlichten van de woningnood.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verpleeghuizen",
+        "woongroepen",
+        "heropening"
+      ]
+    },
+    {
+      "text": "Wijkklinieken oprichten voor medisch-specialistische begeleiding en revalidatie van ouderen.",
+      "originalText": "Wij zijn voor de oprichting van wijkklinieken, zodat ouderen die langer herstellen van ziekte onder medisch-specialistische begeleiding kunnen revalideren.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkklinieken",
+        "revalidatie",
+        "medisch-specialistische begeleiding"
+      ]
+    },
+    {
+      "text": "Verplichte Verklaring Omtrent Gedrag (VOG) invoeren voor alle zorgmedewerkers.",
+      "originalText": "Wij pleiten voor verplichte deelname van zorginstellingen aan het waarschuwingsregister en voor het verplicht stellen van een Verklaring Omtrent Gedrag (VOG) voor alle zorgmedewerkers.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vog",
+        "zorgmedewerkers",
+        "verplicht"
+      ]
+    },
+    {
+      "text": "Een specifiek team oprichten voor het opleiden van werkzoekenden en monitoren van hun voortgang.",
+      "originalText": "Er dient een specifiek team te worden opgericht dat zich richt op het opleiden van werkzoekenden en het permanent monitoren van hun voortgang. Bij terugval moet direct worden ingegrepen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "team",
+        "werkzoekenden",
+        "opleiden",
+        "monitoren"
+      ]
+    },
+    {
+      "text": "Een Haagse Jongerenambassadeur aanstellen om werkloze jongeren te helpen bij het vinden van werk.",
+      "originalText": "Voor werkloze jongeren wordt een Haagse Jongerenambassadeur aangesteld om hen te helpen bij het vinden van werk.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenambassadeur",
+        "werkloze jongeren",
+        "werk"
+      ]
+    },
+    {
+      "text": "Voorlichtingscampagnes over verantwoord omgaan met geld organiseren op alle Haagse scholen in het voortgezet onderwijs.",
+      "originalText": "Daarom moeten op alle Haagse scholen in het voortgezet onderwijs voorlichtingscampagnes worden georganiseerd om jongeren te leren verantwoord met geld om te gaan.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voorlichtingscampagnes",
+        "scholen",
+        "voortgezet onderwijs",
+        "geld"
+      ]
+    },
+    {
+      "text": "Een 'Meldpunt Tegen Armoede' opzetten dat in vrijwel iedere Haagse wijk beschikbaar is.",
+      "originalText": "Hart voor Den Haag is van mening dat dit onacceptabel is en pleit voor een 'Meldpunt Tegen Armoede', dat in vrijwel iedere Haagse wijk beschikbaar moet zijn om armoede te signaleren en zo snel mogelijk gerichte maatregelen te treffen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "meldpunt tegen armoede",
+        "wijken",
+        "armoede"
+      ]
+    },
+    {
+      "text": "STiP uitbreiden van 260 naar 400 plaatsingen per jaar.",
+      "originalText": "meer uit STiP halen: van 260 naar 400 plaatsingen, STiP levert immers bewezen uitstroom, in 2025 stroomde bijna 90 procent door naar werk",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stip",
+        "plaatsingen",
+        "uitstroom"
+      ]
+    },
+    {
+      "text": "Een Haags Social Impact Fonds opzetten dat goed is voor mensen en gemeentelijke financiën.",
+      "originalText": "een Haags Social Impact Fonds, goed voor mensen en goed voor de gemeentelijke financiën",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "social impact fonds",
+        "financiën"
+      ]
+    },
+    {
+      "text": "Top-500 aanpak voor verwarde personen invoeren, zodat de meest verwarde personen beter en sneller geholpen kunnen worden.",
+      "originalText": "Hart voor Den Haag wil een 'Top-500 aanpak' voor verwarde personen, geïnspireerd door initiatieven in andere steden, zodat de meest verwarde personen beter en sneller geholpen kunnen worden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verwarde personen",
+        "top-500 aanpak",
+        "zorgverlening"
+      ]
+    },
+    {
+      "text": "EHBO-cursussen aanbieden in scholen, buurthuizen en sportverenigingen en meer AED-voorzieningen in de stad plaatsen.",
+      "originalText": "Hart voor Den Haag pleit voor het aanbieden van EHBO-cursussen in scholen, buurthuizen en sportverenigingen en voor een grotere en betere spreiding van AED-voorzieningen in de stad.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ehbo-cursussen",
+        "aed-voorzieningen",
+        "eerste hulp"
+      ]
+    },
+    {
+      "text": "Een wethouder Ouderenbeleid aanstellen voor specifieke aandacht voor oudere inwoners.",
+      "originalText": "een wethouder Ouderenbeleid aanstellen",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wethouder",
+        "ouderenbeleid",
+        "college"
+      ]
+    },
+    {
+      "text": "Meer openbare toiletten plaatsen in het centrum en bij toeristische hotspots.",
+      "originalText": "meer openbare toiletten in het centrum en bij toeristische hotspots",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "openbare toiletten",
+        "centrum",
+        "toeristische hotspots"
+      ]
+    },
+    {
+      "text": "Haagse Onderwijscode invoeren in samenwerking met scholen voor gedragsregels leerlingen en ouders.",
+      "originalText": "Daarom pleiten wij voor de invoering van een Haagse Onderwijscode in samenwerking met de scholen, waarin gedragsregels worden vastgelegd voor zowel leerlingen als ouders.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haagse onderwijscode",
+        "gedragsregels",
+        "scholen"
+      ]
+    },
+    {
+      "text": "Klassen op Haagse basisscholen beperken tot maximaal 26 leerlingen per klas.",
+      "originalText": "Wij pleiten ervoor dat de klassen op Haagse basisscholen niet groter zijn dan 26 leerlingen",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "klassengrootte",
+        "26 leerlingen",
+        "basisscholen"
+      ]
+    },
+    {
+      "text": "Verplichte excursies naar Oranjehotel, Westerbork of Holocaust Museum voor alle groep 8 en voortgezet onderwijs leerlingen.",
+      "originalText": "verplichte excursies voor alle leerlingen in groep 8 en in het voortgezet onderwijs naar het Oranjehotel, Herinneringscentrum Kamp Westerbork of het Holocaust Museum in Amsterdam",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "verplichte excursies",
+        "holocaust museum",
+        "antisemitisme"
+      ]
+    },
+    {
+      "text": "Aantal vakdocenten in primair onderwijs uitbreiden en meer klassenassistenten inzetten.",
+      "originalText": "Wij willen het aantal vakdocenten in het primair onderwijs uitbreiden, vooral voor vakken zoals muziek, techniek en gym. Ook pleiten wij voor meer inzet van klassenassistenten om de werkdruk op leraren te verlichten.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vakdocenten",
+        "klassenassistenten",
+        "primair onderwijs"
+      ]
+    },
+    {
+      "text": "Elke school minimaal twee uur cultuurlessen per week laten aanbieden.",
+      "originalText": "Daarnaast vinden wij dat elke school minimaal twee uur cultuurlessen per week zou moeten aanbieden, om zo talenten op het gebied van muziek, toneel en kunst te ontdekken en te ontwikkelen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "cultuurlessen",
+        "twee uur per week",
+        "muziek"
+      ]
+    },
+    {
+      "text": "Voor- en vroegschoolse educatie verplicht stellen voor kinderen met taalachterstand.",
+      "originalText": "Hart voor Den Haag wil dat kinderen met een taalachterstand vanaf jonge leeftijd extra ondersteuning krijgen. Dit willen wij realiseren door voor- en vroegschoolse educatie verplicht te stellen voor kinderen die de Nederlandse taal onvoldoende beheersen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voor- en vroegschoolse educatie",
+        "taalachterstand",
+        "verplicht"
+      ]
+    },
+    {
+      "text": "Gemeentelijke normbekostiging voor onderwijs verhogen met 15 procent.",
+      "originalText": "de gemeentelijke normbekostiging verhogen met 15 procent",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "normbekostiging",
+        "15 procent",
+        "onderwijsfinanciering"
+      ]
+    },
+    {
+      "text": "Verouderde sportaccommodaties opknappen en financiële ondersteuning voor kwaliteit en kwantiteit van sportvoorzieningen structureel dekken.",
+      "originalText": "Hart voor Den Haag zet zich in voor de verdere verbetering van sportaccommodaties. Verouderde accommodaties moeten worden opgeknapt. Wij willen de financiële ondersteuning voor de kwaliteit en kwantiteit van sportvoorzieningen handhaven. Dit moet structureel zijn gedekt.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportaccommodaties",
+        "opknappen",
+        "financiële ondersteuning"
+      ]
+    },
+    {
+      "text": "Meer parkeergelegenheid creëren op en rondom sportcomplexen door slim gebruik van beschikbare ruimte.",
+      "originalText": "Ook bepleiten we het creëren van meer parkeergelegenheid op en rondom sportcomplexen. Slim gebruikmaken van de beschikbare ruimte door bijvoorbeeld schuinparkeren in plaats van fileparkeren, kan al veel extra plekken opleveren.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeergelegenheid",
+        "sportcomplexen",
+        "schuinparkeren"
+      ]
+    },
+    {
+      "text": "Een bindende sportnorm invoeren zodat bij elk ontwerp van openbare ruimte sportfaciliteiten worden meegenomen.",
+      "originalText": "Daarnaast pleiten we voor een bindende sportnorm, zodat bij elk ontwerp van de openbare ruimte sportfaciliteiten worden meegenomen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bindende sportnorm",
+        "openbare ruimte",
+        "sportfaciliteiten"
+      ]
+    },
+    {
+      "text": "Een wethouder voor Sport aanstellen die verantwoordelijk is voor integrale aanpak van bewegen en sporten in de stad.",
+      "originalText": "We willen een wethouder voor Sport die verantwoordelijk is voor een integrale aanpak van bewegen en sporten in de stad.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wethouder sport",
+        "integrale aanpak",
+        "bewegen"
+      ]
+    },
+    {
+      "text": "Een zwarte lijst invoeren voor spelers en toeschouwers die zich schuldig maken aan incidenten bij sportwedstrijden.",
+      "originalText": "Om geweld en wangedrag bij sportwedstrijden te voorkomen, stellen we voor een zwarte lijst in te voeren voor spelers en toeschouwers die zich schuldig maken aan incidenten.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zwarte lijst",
+        "incidenten",
+        "sportwedstrijden"
+      ]
+    },
+    {
+      "text": "Meer blaashallen bouwen om sportclubs snel meer binnensportfaciliteiten te bieden.",
+      "originalText": "We willen meer blaashallen, hetgeen sportclubs snel helpt meer binnensportfaciliteiten te creëren.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "blaashallen",
+        "binnensportfaciliteiten",
+        "sportclubs"
+      ]
+    },
+    {
+      "text": "Een indoor atletiekhal bouwen.",
+      "originalText": "Daarnaast is Hart voor Den Haag voorstander van de bouw van een indoor atletiekhal.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "indoor atletiekhal",
+        "bouwen",
+        "atletiek"
+      ]
+    },
+    {
+      "text": "Meer kunstgrasvelden realiseren.",
+      "originalText": "Wij willen ook meer kunstgrasvelden.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kunstgrasvelden",
+        "sportfaciliteiten"
+      ]
+    },
+    {
+      "text": "Een Haags Gemeenschapsfonds opzetten voor laagdrempelige steun aan verenigingen voor onderhoud, activiteiten en verduurzaming.",
+      "originalText": "Hart voor Den Haag wil een Haags Gemeenschapsfonds opzetten, waarmee verenigingen laagdrempelig steun krijgen voor onderhoud, activiteiten en verduurzaming.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeenschapsfonds",
+        "verenigingen",
+        "steun"
+      ]
+    },
+    {
+      "text": "In elke wijk veilige speel- en sportplekken realiseren met ruimte voor voetbal, basketbal en muzieklessen.",
+      "originalText": "Hart voor Den Haag wil dat in elke wijk veilige speel- en sportplekken komen, met ruimte voor voetbal, basketbal en muzieklessen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "speel- en sportplekken",
+        "wijken",
+        "voetbal"
+      ]
+    },
+    {
+      "text": "Meer speeltuinen en speeltoestellen voor kinderen realiseren.",
+      "originalText": "veel meer speeltuinen en speeltoestellen voor kinderen;",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "speeltuinen",
+        "speeltoestellen",
+        "kinderen"
+      ]
+    },
+    {
+      "text": "Meer sportveldjes realiseren, waaronder meer Cruyff Courts en Krajicek Playgrounds.",
+      "originalText": "veel meer sportveldjes, dus ook meer Cruyff Courts en Krajicek Playgrounds;",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportveldjes",
+        "cruyff courts",
+        "krajicek playgrounds"
+      ]
+    },
+    {
+      "text": "Een nieuw groots zwemparadijs bouwen.",
+      "originalText": "een nieuw groots, prachtig zwemparadijs;",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zwemparadijs",
+        "nieuw",
+        "groots"
+      ]
+    },
+    {
+      "text": "Het raadslidmaatschap in Den Haag een fulltime functie maken.",
+      "originalText": "In grote steden zoals Den Haag moet het raadslidmaatschap een fulltime functie worden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "raadslidmaatschap",
+        "fulltime",
+        "functie"
+      ]
+    },
+    {
+      "text": "Een Wethouder Efficiëntie en Uitvoering aanstellen voor vergroting van arbeidsproductiviteit van de gemeentelijke organisatie.",
+      "originalText": "Voor dit programma wordt een aparte Wethouder Efficiëntie en Uitvoering aangesteld.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wethouder efficiëntie",
+        "arbeidsproductiviteit",
+        "gemeentelijke organisatie"
+      ]
+    },
+    {
+      "text": "Inspraakmomenten en procedures altijd duidelijk vindbaar maken op de gemeente website.",
+      "originalText": "Inspraakmomenten en procedures moeten altijd duidelijk vindbaar zijn op de website van de gemeente.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "inspraak",
+        "procedures",
+        "website",
+        "transparantie"
+      ]
+    },
+    {
+      "text": "Wekelijkse spreekuren instellen zodat gemeentelijke ambtenaren bereikbaar zijn voor gesprekken met burgers.",
+      "originalText": "Het is belangrijk dat gemeentelijke ambtenaren bereikbaar zijn voor gesprekken met de burger, digitaal of via wekelijkse spreekuren.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "spreekuren",
+        "ambtenaren",
+        "bereikbaarheid",
+        "burgers"
+      ]
+    },
+    {
+      "text": "Stadswinkels openen als fysieke locaties waar bewoners terecht kunnen voor gemeentelijke diensten en advies.",
+      "originalText": "Wij stellen voor om stadswinkels te openen als fysieke locaties waar bewoners terecht kunnen voor gemeentelijke diensten en advies.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadswinkels",
+        "dienstverlening",
+        "bewoners",
+        "advies"
+      ]
+    },
+    {
+      "text": "Vrijwilligers en bewonersorganisaties toegang geven tot gemeentelijke voorzieningen en scholing aanbieden.",
+      "originalText": "Daarnaast willen wij vrijwilligers en bewonersorganisaties meer ondersteunen, onder meer door hen toegang te geven tot gemeentelijke voorzieningen en het aanbieden van scholing en begeleiding.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vrijwilligers",
+        "bewonersorganisaties",
+        "voorzieningen",
+        "scholing"
+      ]
+    },
+    {
+      "text": "Haags Uitdaagrecht invoeren zodat inwoners gemeentelijke taken kunnen overnemen als zij dat beter kunnen.",
+      "originalText": "Daarom wil Hart voor Den Haag het 'Haags Uitdaagrecht' invoeren: inwoners mogen een gemeentelijke taak overnemen als zij dat beter, efficiënter en goedkoper kunnen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "uitdaagrecht",
+        "inwoners",
+        "gemeentelijke taken",
+        "participatie"
+      ]
+    },
+    {
+      "text": "Nationaal Ereveld oprichten voor bij de slag om Den Haag gesneuvelde militairen met individuele graven.",
+      "originalText": "Hart voor Den Haag pleit voor de oprichting van een Nationaal Ereveld, waar de gesneuvelde soldaten met individuele graven geëerd worden.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ereveld",
+        "militairen",
+        "graven",
+        "herdenking"
+      ]
+    },
+    {
+      "text": "Uitstrooiplek aan zee realiseren voor de Haagse Hindoegemeenschap.",
+      "originalText": "Hart voor Den Haag blijft pleiten voor een uitstrooiplek aan zee voor de Haagse Hindoegemeenschap.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "uitstrooiplek",
+        "zee",
+        "hindoegemeenschap",
+        "religie"
+      ]
+    },
+    {
+      "text": "Vacaturestop invoeren voor beleidsambtenaren.",
+      "originalText": "een vacaturestop voor beleidsambtenaren;",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vacaturestop",
+        "beleidsambtenaren",
+        "reorganisatie"
+      ]
+    },
+    {
+      "text": "Vaste contactambtenaar toewijzen bij vergunningsaanvragen.",
+      "originalText": "een vaste contactambtenaar bij een vergunningsaanvraag;",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "contactambtenaar",
+        "vergunning",
+        "dienstverlening"
+      ]
+    },
+    {
+      "text": "Integrale actieplan uitvoeren voor Moerwijk stationsgebied met veiligheid, wonen, groen en werk.",
+      "originalText": "Hart voor Den Haag presenteert een integraal actieplan voor het stationsgebied: een plan dat veiligheid, betaalbaar wonen, groen, water, werk en leefbaarheid met elkaar verknoopt.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "actieplan",
+        "moerwijk",
+        "stationsgebied",
+        "integrale aanpak"
+      ]
+    },
+    {
+      "text": "Controles door Haagse Pandbrigade intensiveren en strikte zelfbewoningsplicht invoeren in kwetsbare wijken.",
+      "originalText": "We intensiveren controles door de Haagse Pandbrigade, handhaven op verkamering en splitsing en voeren in kwetsbare wijken een strikte zelfbewoningsplicht in.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pandbrigade",
+        "controles",
+        "zelfbewoningsplicht",
+        "verkamering"
+      ]
+    },
+    {
+      "text": "Meer wijkagenten en handhavers inzetten en heropening wijkpolitiebureaus in Moerwijk en Bouwlust.",
+      "originalText": "We investeren in veiligheid op straat: meer wijkagenten en handhavers die de buurt echt kennen en op termijn heropening van wijkpolitiebureaus in probleemwijken zoals Moerwijk en Bouwlust.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkagenten",
+        "politiebureaus",
+        "moerwijk",
+        "bouwlust"
+      ]
+    },
+    {
+      "text": "De parkeergarage aan de Apeldoornselaan openen voor bewoners van Leyenburg, Rustenburg-Oostbroek en Moerwijk.",
+      "originalText": "De parkeerdruk in Leyenburg, Rustenburg-Oostbroek en Moerwijk is onacceptabel hoog. We willen de parkeergarage aan de Apeldoornselaan openen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeergarage",
+        "apeldoornselaan",
+        "parkeerdruk"
+      ]
+    },
+    {
+      "text": "Bedrijfsbusjes van uitzendbureaus weren uit woonstraten en optreden tegen langdurig geparkeerde voertuigen met buitenlandse kentekens.",
+      "originalText": "We weren bedrijfsbusjes van uitzendbureaus in woonstraten en treden op tegen langdurig geparkeerde voertuigen met buitenlandse kentekens die hier niet thuishoren.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bedrijfsbusjes",
+        "uitzendbureaus",
+        "buitenlandse kentekens"
+      ]
+    },
+    {
+      "text": "Het Eddy Christiani Cultuurhuis realiseren als cultureel ankerpunt op de Leyweg.",
+      "originalText": "De komst van het Eddy Christiani Cultuurhuis als cultureel ankerpunt, een Haagse Designer Outlet naar voorbeeld van Roermond en een multiculturele bazaar met foodhall brengen nieuw elan en bezoekers naar Zuidwest.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "eddy christiani cultuurhuis",
+        "leyweg",
+        "cultureel ankerpunt"
+      ]
+    },
+    {
+      "text": "Een Haagse Designer Outlet naar voorbeeld van Roermond realiseren op de Leyweg.",
+      "originalText": "De komst van het Eddy Christiani Cultuurhuis als cultureel ankerpunt, een Haagse Designer Outlet naar voorbeeld van Roermond en een multiculturele bazaar met foodhall brengen nieuw elan en bezoekers naar Zuidwest.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "designer outlet",
+        "roermond",
+        "leyweg"
+      ]
+    },
+    {
+      "text": "Een multiculturele bazaar met foodhall realiseren in het Leyweg-gebied.",
+      "originalText": "De komst van het Eddy Christiani Cultuurhuis als cultureel ankerpunt, een Haagse Designer Outlet naar voorbeeld van Roermond en een multiculturele bazaar met foodhall brengen nieuw elan en bezoekers naar Zuidwest.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "multiculturele bazaar",
+        "foodhall",
+        "leyweg"
+      ]
+    },
+    {
+      "text": "Doorstroming op de Laan van Wateringse Veld verbeteren met rotondes en snelheidsremmers.",
+      "originalText": "In Wateringse Veld verbeteren we de doorstroming op de Laan van Wateringse Veld met rotondes en snelheidsremmers",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "doorstroming",
+        "rotondes",
+        "snelheidsremmers",
+        "laan van wateringse veld"
+      ]
+    },
+    {
+      "text": "Het parkeerterrein aan de Sylvain Poonsstraat behouden.",
+      "originalText": "blijft het parkeerterrein aan de Sylvain Poonsstraat behouden",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeerterrein",
+        "sylvain poonsstraat",
+        "behouden"
+      ]
+    },
+    {
+      "text": "Het Uithofpark in 2026 daadwerkelijk opknappen door het college.",
+      "originalText": "Verder willen we dat het college het Uithofpark in 2026 daadwerkelijk opknapt.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "uithofpark",
+        "2026",
+        "opknappen"
+      ]
+    },
+    {
+      "text": "Woonbootwrakken weghalen in heel Escamp en meer handhaving op het water invoeren.",
+      "originalText": "In heel Escamp halen we woonbootwrakken weg en we willen meer handhaving op het water.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonbootwrakken",
+        "escamp",
+        "handhaving",
+        "water"
+      ]
+    },
+    {
+      "text": "Een Havo/Vwo-school in Zuidwest realiseren.",
+      "originalText": "een Havo/Vwo-school in Zuidwest",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "havo",
+        "vwo",
+        "school",
+        "zuidwest"
+      ]
+    },
+    {
+      "text": "Wijkpolitiebureaus terugbrengen in Moerwijk en Bouwlust.",
+      "originalText": "meer zichtbare veiligheid door wijkpolitiebureaus terug te brengen in Moerwijk en Bouwlust",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wijkpolitiebureaus",
+        "moerwijk",
+        "bouwlust"
+      ]
+    },
+    {
+      "text": "Een vergunningplicht voor ondernemers op de Dierenselaan invoeren, net als op de Paul Krugerlaan.",
+      "originalText": "een vergunningplicht voor ondernemers op de Dierenselaan, net als op de Paul Krugerlaan",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "vergunningplicht",
+        "dierenselaan",
+        "paul krugerlaan"
+      ]
+    },
+    {
+      "text": "Vaste inloopspreekuren van de politie in Wateringse Veld instellen.",
+      "originalText": "vaste inloopspreekuren van de politie in Wateringse Veld",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "inloopspreekuren",
+        "politie",
+        "wateringse veld"
+      ]
+    },
+    {
+      "text": "Een onderzoek uitvoeren naar een ondergrondse HTM-remise in Zichtenburg, zodat bovengronds kan worden gebouwd.",
+      "originalText": "een onderzoek naar een ondergrondse HTM-remise in Zichtenburg, zodat bovengronds kan worden gebouwd",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderzoek",
+        "ondergrondse",
+        "htm-remise",
+        "zichtenburg"
+      ]
+    },
+    {
+      "text": "Het Vuurwerkfestival in Scheveningen terugbrengen.",
+      "originalText": "Hart voor Den Haag wil het Vuurwerkfestival terug",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "vuurwerkfestival",
+        "scheveningen",
+        "terug"
+      ]
+    },
+    {
+      "text": "De slagboom op de boulevard in Scheveningen wegdoen.",
+      "originalText": "De slagboom op de boulevard gaat wat ons betreft weg: de kust is van iedereen en bereikbaarheid hoort bij leefbaarheid.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "slagboom",
+        "boulevard",
+        "scheveningen"
+      ]
+    },
+    {
+      "text": "De zero-emissiezone in de Scheveningse haven volledig laten verdwijnen.",
+      "originalText": "Hart voor Den Haag wil dat de zero-emissiezone compleet verdwijnt en nooit meer uit de kast wordt getrokken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zero-emissiezone",
+        "scheveningse haven",
+        "verdwijnen"
+      ]
+    },
+    {
+      "text": "Snelheids- en geluidsflitsers plaatsen tegen straatraces in de Haven en Jurriaan Kokstraat.",
+      "originalText": "Ook willen we snelheids- en geluidsflitsers tegen straatraces, met name in de Haven en in de Jurriaan Kokstraat.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "snelheidsflitsers",
+        "geluidsflitsers",
+        "straatraces",
+        "jurriaan kokstraat"
+      ]
+    },
+    {
+      "text": "Een winkelstraatmanager voor Scheveningen aanstellen die samen met pandeigenaren en ondernemers leegstand aanpakt en nieuwe huurders aantrekt.",
+      "originalText": "Hart voor Den Haag wil een winkelstraatmanager Scheveningen die samen met pandeigenaren en ondernemers leegstand aanpakt, nieuwe huurders aantrekt en de straten beter inricht.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "winkelstraatmanager",
+        "scheveningen",
+        "leegstand"
+      ]
+    },
+    {
+      "text": "Voorrang geven aan lokale bewoners en gezinnen bij nieuwbouwprojecten en sociale huurwoningen op Scheveningen en Duindorp.",
+      "originalText": "Hart voor Den Haag wil dat bij nieuwbouwprojecten en bij de verstrekking van sociale huurwoningen op Scheveningen en in Duindorp voorrang wordt gegeven aan lokale bewoners, starters en gezinnen, voorrang dus voor Scheveningers en Duindorpers.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voorrang",
+        "scheveningers",
+        "sociale huurwoningen",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Investeren in sportverenigingen SV Duindorp en SVV Scheveningen.",
+      "originalText": "Wij willen investeren in SV Duindorp en SVV Scheveningen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeren",
+        "sv duindorp",
+        "svv scheveningen",
+        "sport"
+      ]
+    },
+    {
+      "text": "Het complex van tennisvereniging HLTC De Metselaars opknappen.",
+      "originalText": "We staan achter het opknappen van het complex van tennisvereniging HLTC De Metselaars.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "opknappen",
+        "hltc de metselaars",
+        "tennisvereniging"
+      ]
+    },
+    {
+      "text": "Meer openbare douches, toiletten en verlichting aanleggen op de boulevard van Scheveningen.",
+      "originalText": "meer openbare douches, toiletten en verlichting op de boulevard",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "douches",
+        "toiletten",
+        "verlichting",
+        "boulevard"
+      ]
+    },
+    {
+      "text": "Een metroverbinding aanleggen vanaf het centrum naar Scheveningen.",
+      "originalText": "een metroverbinding vanaf het centrum naar Scheveningen",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "metroverbinding",
+        "centrum",
+        "scheveningen"
+      ]
+    },
+    {
+      "text": "Een hellingbaan bij De Waterreus aanleggen voor de KNRM.",
+      "originalText": "een hellingbaan, bij De Waterreus, voor de KNRM",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hellingbaan",
+        "de waterreus",
+        "knrm"
+      ]
+    },
+    {
+      "text": "Een grootschalige opknapbeurt uitvoeren voor de Zwolsestraat en Noordboulevard om grandeur en zeezicht terug te brengen.",
+      "originalText": "een grootschalige opknapbeurt voor de Zwolsestraat en de Noordboulevard om grandeur en zeezicht terug te brengen",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "opknapbeurt",
+        "zwolsestraat",
+        "noordboulevard",
+        "grandeur"
+      ]
+    },
+    {
+      "text": "RandstadRail 3 doortrekken naar het Deltaplein in Kijkduin.",
+      "originalText": "RandstadRail 3 trekken we door naar het Deltaplein",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "randstadrail",
+        "deltaplein",
+        "kijkduin",
+        "doortrekken"
+      ]
+    },
+    {
+      "text": "Een Kustexpress laten rijden tussen Kijkduin en Scheveningen in de zomer.",
+      "originalText": "tussen Kijkduin en Scheveningen rijdt in de zomer een Kustexpress",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kustexpress",
+        "kijkduin",
+        "scheveningen",
+        "zomer"
+      ]
+    },
+    {
+      "text": "Een spreekuur op woensdagmiddag in de bibliotheek instellen waar gemeenteambtenaren inwoners persoonlijk kunnen adviseren.",
+      "originalText": "Hart voor Den Haag naar een spreekuur op de woensdagmiddag in de bibliotheek waar gemeenteambtenaren - bijvoorbeeld van de afdeling Vergunningen & Toezicht - inwoners en ondernemers persoonlijk kunnen adviseren",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "spreekuur",
+        "bibliotheek",
+        "gemeenteambtenaren",
+        "adviseren"
+      ]
+    },
+    {
+      "text": "De loketten voor burgerzaken in het stadsdeelkantoor heropenen.",
+      "originalText": "Ook streeft Hart voor Den Haag naar het heropenen van de loketten voor burgerzaken in het stadsdeelkantoor",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "loketten",
+        "burgerzaken",
+        "stadsdeelkantoor",
+        "heropenen"
+      ]
+    },
+    {
+      "text": "Hekwerken aanbrengen aan weerszijden van het vlonderpad bij de uitkijktoren in Kijkduin voor veiligheid.",
+      "originalText": "Op het vlonderpad bij de uitkijktoren in Kijkduin komen hekwerken aan weerszijden zodat wandelaars en rolstoelgebruikers niet in het prikkeldraad belanden",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hekwerken",
+        "vlonderpad",
+        "uitkijktoren",
+        "kijkduin"
+      ]
+    },
+    {
+      "text": "Een strakke 56-dagen-lijn invoeren voor het versneld weghalen van wrakken en weesauto's op ZKD-terrein.",
+      "originalText": "het versneld weghalen van wrakken en weesauto's (strakke 56-dagen-lijn)",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "56-dagen",
+        "wrakken",
+        "weesauto's",
+        "zkd"
+      ]
+    },
+    {
+      "text": "De Gebiedsvisie ZKD concretiseren in overleg met vastgoedeigenaren en huurders voor herontwikkeling van locaties.",
+      "originalText": "Hart voor Den Haag wil de Gebiedsvisie concretiseren in nauw overleg met de vastgoedeigenaren en de huurders op het terrein. Doel hiervan is het identificeren van locaties op het bedrijventerrein die in aanmerking komen voor herontwikkeling",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gebiedsvisie",
+        "zkd",
+        "herontwikkeling",
+        "vastgoedeigenaren"
+      ]
+    },
+    {
+      "text": "Een Erfgoedpark ontwikkelen rond de Loosduinse molen, het Loosduins Museum en de Abdijkerk inclusief cultuurhuis met horeca.",
+      "originalText": "We werken aan een Erfgoedpark rond deze parels, inclusief een laagdrempelig cultuurhuis met horeca als huiskamer van het dorp",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "erfgoedpark",
+        "loosduinse molen",
+        "cultuurhuis",
+        "horeca"
+      ]
+    },
+    {
+      "text": "De Lozerlaan ongelijkvloers aanleggen waar mogelijk voor betere bereikbaarheid.",
+      "originalText": "We verbeteren de toegangswegen: Lozerlaan ongelijkvloers waar het kan",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lozerlaan",
+        "ongelijkvloers",
+        "toegangswegen",
+        "bereikbaarheid"
+      ]
+    },
+    {
+      "text": "De Loosduinsevaart herstellen voor waterberging, beleving en kleinschalige vaarverbindingen.",
+      "originalText": "Stip op de horizon: het herstel van de Loosduinsevaart voor waterberging, beleving en, waar haalbaar, kleinschalige vaarverbindingen",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "loosduinsevaart",
+        "herstel",
+        "waterberging",
+        "vaarverbindingen"
+      ]
+    },
+    {
+      "text": "De Grote Marktstraat wordt een voetgangersboulevard, fietsers wijken uit naar de Gedempte Gracht en de Gedempte Burgwal.",
+      "originalText": "Een voetgangersvriendelijke Grote Marktstraat, fietsers via de Gedempte Gracht en de Gedempte Burgwal",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "grote marktstraat",
+        "voetgangersboulevard",
+        "fietsers",
+        "gedempte gracht"
+      ]
+    },
+    {
+      "text": "De tramtunnel krijgt een metamorfose met betere verlichting, houten zitbanken ter vervanging van stenen banken en waar mogelijk kiosken.",
+      "originalText": "een warmere, veiligere tramtunnel met betere verlichting, houten zitbanken en (waar mogelijk) kiosken",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "tramtunnel",
+        "verlichting",
+        "houten zitbanken",
+        "kiosken"
+      ]
+    },
+    {
+      "text": "De raamprostitutie in de Doubletstraat wordt volledig gesloten.",
+      "originalText": "lik-op-stuk tegen overlast: sluiting van de raamprostitutie in de Doubletstraat",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "raamprostitutie",
+        "doubletstraat",
+        "sluiting"
+      ]
+    },
+    {
+      "text": "De pollers in de Hoefkade en de Parallelweg worden weggehaald om logische verbindingen te herstellen.",
+      "originalText": "de pollers in de Hoefkade en de Parallelweg weg, herstel van logische verbindingen, aanpak sluipverkeer met maatwerk",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "pollers",
+        "hoefkade",
+        "parallelweg",
+        "logische verbindingen"
+      ]
+    },
+    {
+      "text": "Het Hobbemaplein blijft bereikbaar zonder knip, de tramhalte wordt behouden en parkeren, laden en lossen blijft mogelijk.",
+      "originalText": "het Hobbemaplein bereikbaar houden: geen knip, tramhalte - bij voorkeur ondergronds – behouden en parkeren, laden en lossen blijven mogelijk",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hobbemaplein",
+        "bereikbaarheid",
+        "tramhalte",
+        "parkeren"
+      ]
+    },
+    {
+      "text": "De tijdelijke parkeerplekken in de Morgenzonlaan worden permanente parkeerplekken.",
+      "originalText": "dat de tijdelijke parkeerplekken in de Morgenzonlaan permanente parkeerplekken worden",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplekken",
+        "morgenzonlaan",
+        "permanent"
+      ]
+    },
+    {
+      "text": "Er worden parkeerplekken toegevoegd in de Kempstraat.",
+      "originalText": "parkeerplekken toevoegen in de Kempstraat",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplekken",
+        "kempstraat",
+        "toevoegen"
+      ]
+    },
+    {
+      "text": "Betaald parkeren wordt teruggedraaid of tegengehouden waar draagvlak ontbreekt.",
+      "originalText": "betaald parkeren terugdraaien of tegenhouden waar draagvlak ontbreekt",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "betaald parkeren",
+        "terugdraaien",
+        "draagvlak"
+      ]
+    },
+    {
+      "text": "Het maximum parkeren wordt opgeschroefd van twee uur naar vier uur en parkeertarieven worden verlaagd.",
+      "originalText": "We vergroten de bereikbaarheid van de winkels: het maximum parkeren van twee uur schroeven we op naar vier uur. Verder verlagen we de parkeertarieven.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "maximum parkeren",
+        "vier uur",
+        "parkeertarieven",
+        "verlagen"
+      ]
+    },
+    {
+      "text": "Er komt een bezoekerscentrum in Kijkduin over de 'Slag bij Ter Heijde' en zeehelden.",
+      "originalText": "een bezoekerscentrum in Kijkduin in het teken van de 'Slag bij Ter Heijde' en onze grootste zeehelden",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bezoekerscentrum",
+        "kijkduin",
+        "slag bij ter heijde",
+        "zeehelden"
+      ]
+    },
+    {
+      "text": "Een geluidswal langs de A13 realiseren tussen de oprit bij de Hornbach en het viaduct om geluidsoverlast bij Ypenburg structureel te verminderen",
+      "originalText": "Om geluidsoverlast terug te dringen, willen we dat er eindelijk een geluidswal langs de A13 wordt gerealiseerd, tussen de oprit bij de Hornbach en het viaduct.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "geluidswal",
+        "a13",
+        "geluidsoverlast"
+      ]
+    },
+    {
+      "text": "Extra parkeerplekken aanleggen in De Bras, Waterbuurt, De Singels en Morgenweide om de parkeerdruk te verlichten",
+      "originalText": "In de buurten De Bras, Waterbuurt, De Singels en Morgenweide moeten extra parkeerplekken komen om de druk te verlichten.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplekken",
+        "de bras",
+        "waterbuurt",
+        "de singels",
+        "morgenweide"
+      ]
+    },
+    {
+      "text": "Betaald parkeren bij gezondheidscentrum De Reef afschaffen",
+      "originalText": "Het betaald parkeren bij gezondheidscentrum De Reef moet verdwijnen. Bewoners die afhankelijk zijn van zorg verdienen geen parkeermeter.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "betaald parkeren",
+        "de reef",
+        "gezondheidscentrum"
+      ]
+    },
+    {
+      "text": "Een zebrapad en verkeersremmende maatregelen aanleggen op de Ypenburgse Boslaan bij de derde inrit richting Morgenweide",
+      "originalText": "Met name bij de derde inrit richting Morgenweide ontbreekt een zebrapad, terwijl daar dagelijks veel kinderen oversteken richting school en bushaltes. Een zebrapad en verkeersremmende maatregelen zijn hier broodnodig om ongelukken te voorkomen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zebrapad",
+        "ypenburgse boslaan",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Een extra RandstadRail-halte bij de Houtkade aanleggen met voldoende parkeerplekken",
+      "originalText": "Er moet een extra RandstadRail-halte komen bij de Houtkade, met voldoende parkeerplekken zodat ook de druk op omliggende wijken afneemt.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "randstadrail-halte",
+        "houtkade",
+        "parkeerplekken"
+      ]
+    },
+    {
+      "text": "Een Park & Ride bij het terrein van PostNL aanleggen om verkeer van de Mall of the Netherlands af te vangen",
+      "originalText": "Tegelijkertijd blijven we ons inzetten voor de aanleg van een Park & Ride bij het terrein van PostNL, om verkeer van de Mall of the Netherlands af te vangen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "park & ride",
+        "postnl",
+        "mall of the netherlands"
+      ]
+    },
+    {
+      "text": "Het stadsdeelkantoor in Ypenburg heropenen zodat bewoners hun zaken lokaal kunnen regelen",
+      "originalText": "Hart voor Den Haag wil dat de wijkagent zichtbaar aanwezig is in de wijk en dat het stadsdeelkantoor in Ypenburg op termijn wordt heropend, zodat bewoners hun zaken lokaal kunnen regelen en een gezicht van de gemeente hebben in hun eigen buurt.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadsdeelkantoor",
+        "ypenburg",
+        "lokale dienstverlening"
+      ]
+    },
+    {
+      "text": "Meer handhaving, mobiel cameratoezicht en betere verlichting op onveilige plekken rond winkelcentrum en station Leidschenveen",
+      "originalText": "Hart voor Den Haag wil meer handhavers, mobiel cameratoezicht en betere verlichting op onveilige plekken.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhaving",
+        "cameratoezicht",
+        "verlichting",
+        "veiligheid"
+      ]
+    },
+    {
+      "text": "Een vaste jongerenplek voor sport en muziek investeren om jongeren ruimte te geven zonder overlast te veroorzaken",
+      "originalText": "Wij willen investeren in een vaste jongerenplek voor bijvoorbeeld sport en muziek, zodat jongeren ruimte krijgen zonder overlast te veroorzaken.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenplek",
+        "sport",
+        "muziek",
+        "jeugd"
+      ]
+    },
+    {
+      "text": "Het onderhoud van de openbare ruimte structureel verbeteren met meer veldbloemen, bloemrijke dijken en betere speelplekken",
+      "originalText": "Daarom wil Hart voor Den Haag dat het onderhoud van de openbare ruimte structureel beter en kleurrijker wordt, met meer veldbloemen, bloemrijke dijken en speelplekken die aansluiten op de gebruiksdoelgroep.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderhoud",
+        "veldbloemen",
+        "dijken",
+        "speelplekken"
+      ]
+    },
+    {
+      "text": "Herontwikkeling van leegstaande scholen en kantoren tot nieuwe woningen voor starters en senioren, waaronder de voormalige dependance van De Paradijsvogel.",
+      "originalText": "nieuwe woningen voor starters en senioren via herontwikkeling van leegstaande scholen en kantoren, waaronder de voormalige dependance van De Paradijsvogel",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningen",
+        "starters",
+        "senioren",
+        "herontwikkeling"
+      ]
+    },
+    {
+      "text": "Realisatie van het nieuwbouwproject Madeliefveld in Leidschenveen met horeca of buurtfunctie in de plint.",
+      "originalText": "de realisatie van het nieuwbouwproject Madeliefveld in Leidschenveen met horeca of buurtfunctie in de plint om levendigheid te brengen",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nieuwbouw",
+        "madeliefveld",
+        "leidschenveen",
+        "horeca"
+      ]
+    },
+    {
+      "text": "Ontwikkeling van de Plas van Reef met 1.500 woningen in een groene omgeving.",
+      "originalText": "de ontwikkeling van de Plas van Reef met 1.500 woningen in een groene omgeving",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "plas van reef",
+        "1500 woningen",
+        "groene omgeving"
+      ]
+    },
+    {
+      "text": "Samenhangende ontwikkeling van de GAVI-kavel en de Vlietzone, met een tunnelontsluiting onder de A12 en binnenstedelijke bedrijvigheid.",
+      "originalText": "een samenhangende ontwikkeling van de GAVI-kavel en de Vlietzone, met een tunnelontsluiting onder de A12 en binnenstedelijke bedrijvigheid",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gavi-kavel",
+        "vlietzone",
+        "tunnelontsluiting",
+        "a12"
+      ]
+    },
+    {
+      "text": "Structureel verbeteren van onderhoud van de openbare ruimte: van sloten en heggen tot speelplekken en pleinen, kleurrijk, netjes en uitnodigend.",
+      "originalText": "onderhoud van de openbare ruimte structureel verbeteren: van sloten en heggen tot speelplekken en pleinen, kleurrijk, netjes en uitnodigend",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderhoud",
+        "openbare ruimte",
+        "speelplekken",
+        "pleinen"
+      ]
+    },
+    {
+      "text": "Aanleg van een hondenparadijs aan de Blauwe Loper, met veilige losloopzones en voorzieningen verspreid door het stadsdeel.",
+      "originalText": "een hondenparadijs aan de Blauwe Loper, met veilige losloopzones en voorzieningen verspreid door het stadsdeel",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hondenparadijs",
+        "blauwe loper",
+        "losloopzones"
+      ]
+    },
+    {
+      "text": "Bouw van seniorenwoningen aan de Sportlaan in plaats van opvang.",
+      "originalText": "Hart voor Den Haag wil geen enkele opvang aan de Sportlaan, dus ook geen asielzoekers, maar een invulling die past bij de wijk. De locatie moet, zoals eerder beloofd, worden benut voor seniorenwoningen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "seniorenwoningen",
+        "sportlaan",
+        "opvang"
+      ]
+    },
+    {
+      "text": "Vervanging van het tramgedeelte van lijn 12 door een hoogwaardige elektrische bus tussen de haven, Duindorp, de Goudenregenstraat, het Haga-ziekenhuis en Kijkduin.",
+      "originalText": "De partij kiest voor een hoogwaardige e-busverbinding tussen de haven, Duindorp, de Goudenregenstraat, het Haga-ziekenhuis en Kijkduin.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lijn 12",
+        "elektrische bus",
+        "tram",
+        "goudenregenstraat"
+      ]
+    },
+    {
+      "text": "Terugdringen aantal coffeeshops in de Weimarstraat en zorgen voor betere branchering met meer A-winkels, ambacht en daghoreca.",
+      "originalText": "Hart voor Den Haag wil in dit deel van de stad het aantal coffeeshops terugdringen, zorgen voor een betere branchering en meer ruimte voor A-winkels, ambacht en daghoreca.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coffeeshops",
+        "weimarstraat",
+        "a-winkels",
+        "daghoreca"
+      ]
+    },
+    {
+      "text": "Realisatie van een ongelijkvloerse kruising bij de Zevensprong voor betere doorstroming en minder opstoppingen.",
+      "originalText": "Hart voor Den Haag wil een ongelijkvloerse kruising die zorgt voor een betere doorstroming en minder opstoppingen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ongelijkvloerse kruising",
+        "zevensprong",
+        "doorstroming"
+      ]
+    },
+    {
+      "text": "Nieuwbouw voor middeninkomens op eventueel vrijkomende Maasbach-gronden met levendige plinten voor detailhandel of horeca.",
+      "originalText": "Eventueel vrijkomende Maasbach-gronden kunnen worden benut voor nieuwbouw voor middeninkomens, met levendige plinten voor detailhandel of horeca.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nieuwbouw",
+        "middeninkomens",
+        "maasbach-gronden",
+        "plinten"
+      ]
+    },
+    {
+      "text": "Herstel van parkeerplekken op de Goudsbloemlaan waar onnodig is opgeheven.",
+      "originalText": "Hart voor Den Haag wil feitelijke metingen, maatwerk en herstel van plekken waar onnodig is opgeheven, zoals op de Goudsbloemlaan.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplekken",
+        "goudsbloemlaan",
+        "herstel"
+      ]
+    },
+    {
+      "text": "Kortere venstertijden voor betaald parkeren in de Vogelwijk, Bloemenbuurt en Vruchtenbuurt (bijvoorbeeld van 17.00 uur tot 19.30 uur).",
+      "originalText": "In de Vogelwijk, Bloemenbuurt en Vruchtenbuurt willen wij kortere venstertijden (bijvoorbeeld van 17.00 uur tot 19.30 uur) zodat bezoek en verenigingsleven niet worden belemmerd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "venstertijden",
+        "betaald parkeren",
+        "17.00",
+        "19.30"
+      ]
+    },
+    {
+      "text": "Locatieonderzoek naar een ondergrondse parkeergarage in Segbroek.",
+      "originalText": "een locatieonderzoek naar een ondergrondse parkeergarage in Segbroek",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ondergrondse parkeergarage",
+        "segbroek",
+        "locatieonderzoek"
+      ]
+    },
+    {
+      "text": "Herinrichting van het Kamperfoelieplein tot levendig buurtplein met een fontein, meer groen, zitplekken en ruimte voor ondernemers.",
+      "originalText": "Het Kamperfoelieplein wordt een levendig buurtplein met een fontein, meer groen, zitplekken en ruimte voor ondernemers.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kamperfoelieplein",
+        "fontein",
+        "groen",
+        "zitplekken"
+      ]
+    },
+    {
+      "text": "Extra veldcapaciteit bij het Stokroosveld voor sportclubs en steun voor plannen van HBS voor een nieuw verenigingsgebouw.",
+      "originalText": "Hart voor Den Haag wil extra veldcapaciteit bij het Stokroosveld en steunt de plannen van HBS voor een nieuw verenigingsgebouw.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "veldcapaciteit",
+        "stokroosveld",
+        "hbs",
+        "verenigingsgebouw"
+      ]
+    },
+    {
+      "text": "Herinrichting van het Goudenregenplein.",
+      "originalText": "herinrichting van het Goudenregenplein",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "herinrichting",
+        "goudenregenplein"
+      ]
+    },
+    {
+      "text": "Intensieve, straatgerichte controles door de Haagse Pandbrigade tegen overbewoning en illegale bewoning, met strikte zelfbewoningsplicht in overlastwijken.",
+      "originalText": "Hart voor Den Haag wil intensieve, straatgerichte controles door de Haagse Pandbrigade, een harde lijn richting notoire overtreders en in overlastwijken een strikte zelfbewoningsplicht.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haagse pandbrigade",
+        "overbewoning",
+        "controles",
+        "zelfbewoningsplicht"
+      ]
+    },
+    {
+      "text": "Een gebiedsgerichte volumebegrenzing invoeren voor drankverkoop en vergunningverlening aanscherpen tegen overlast van alcoholverkooppunten.",
+      "originalText": "Daarom voeren een gebiedsgerichte volumebegrenzing in voor drankverkoop, scherpen vergunningverlening en toezicht aan en sturen via branchering in de plint op een gezonde mix van dagelijkse voorzieningen in plaats van nóg een slijter.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "volumebegrenzing",
+        "drankverkoop",
+        "vergunningverlening",
+        "alcoholverkooppunten"
+      ]
+    },
+    {
+      "text": "Ondergrondse parkeergarage onder het trainingsveld van HVV Laakkwartier onderzoeken en verhuren aan bewoners, HVV krijgt extra kunstgrasveld.",
+      "originalText": "We onderzoeken de ondergrondse parkeergarage onder het trainingsveld van HVV Laakkwartier en verhuren de plekken aan bewoners; HVV Laakkwartier krijgt in ruil het broodnodige extra kunstgrasveld.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ondergrondse parkeergarage",
+        "hvv laakkwartier",
+        "parkeerplekken",
+        "kunstgrasveld"
+      ]
+    },
+    {
+      "text": "Meer schuine parkeervakken creëren aan de Linnaeusstraat en Paets van Trooswijkstraat.",
+      "originalText": "Op straat creëren we meer plekken door schuine parkeervakken, onder meer aan de Linnaeusstraat en Paets van Trooswijkstraat.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "schuine parkeervakken",
+        "linnaeusstraat",
+        "paets van trooswijkstraat",
+        "parkeerplekken"
+      ]
+    },
+    {
+      "text": "Een rotonde aanleggen op de kruising De Genestetlaan/Jan van Beerstraat voor betere verkeersveiligheid.",
+      "originalText": "De verkeersveiligheid op de kruising De Genestetlaan/Jan van Beerstraat verbeteren we met een rotonde.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "rotonde",
+        "de genestetlaan",
+        "jan van beerstraat",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Een extra halte voor tramlijn 17 aan de De Genestetlaan aanleggen en verdwenen haltes van tramlijn 16 terugbrengen.",
+      "originalText": "Er komt een extra halte voor tramlijn 17 aan de De Genestetlaan en de verdwenen haltes van tramlijn 16 keren terug.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tramhalte",
+        "tramlijn 17",
+        "de genestetlaan",
+        "tramlijn 16"
+      ]
+    },
+    {
+      "text": "Een voetgangers- en fietsbrug over de Vliet slaan zodat Noordpolderbuurt toegang krijgt tot Waterfrontpark.",
+      "originalText": "over de Vliet slaan we een voetgangers- en fietsbrug zodat ook de Noordpolderbuurt toegang krijgt tot Waterfrontpark.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "voetgangersbrug",
+        "fietsbrug",
+        "vliet",
+        "waterfrontpark",
+        "noordpolderbuurt"
+      ]
+    },
+    {
+      "text": "De Poolsterhaven ontwikkelen tot aantrekkelijke recreatieplek met horeca en rondvaarten.",
+      "originalText": "De Poolsterhaven wordt een aantrekkelijke recreatieplek met horeca en rondvaarten.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "poolsterhaven",
+        "recreatie",
+        "horeca",
+        "rondvaarten"
+      ]
+    },
+    {
+      "text": "De Megastores herbestemmen naar studentenwoningen, foodbeleving, meer horeca en een bioscoop.",
+      "originalText": "De Megastores benutten we beter door delen te herbestemmen naar (studenten)woningen, foodbeleving, meer horeca en een bioscoop.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "megastores",
+        "herbestemming",
+        "studentenwoningen",
+        "horeca",
+        "bioscoop"
+      ]
+    },
+    {
+      "text": "De uitbreiding van betaald parkeren in Laakkwartier definitief schrappen.",
+      "originalText": "de uitbreiding van betaald parkeren definitief schrappen en er komen redelijke parkeerregelingen voor ondernemers, mantelzorgers en vrijwilligers",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "betaald parkeren",
+        "laakkwartier",
+        "schrappen"
+      ]
+    },
+    {
+      "text": "De bouw van woningen in de Petroleumhaven bespoedigen.",
+      "originalText": "de bouw van woningen in de Petroleumhaven bespoedigen",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningen",
+        "petroleumhaven",
+        "bouw",
+        "bespoedigen"
+      ]
+    },
+    {
+      "text": "Herinrichting van het Hildebrandplein uitvoeren.",
+      "originalText": "herinrichting van het Hildebrandplein",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hildebrandplein",
+        "herinrichting",
+        "plein"
+      ]
+    },
+    {
+      "text": "De OZB verlagen met 20 procent voor lastenverlichting van Haagse burgers.",
+      "originalText": "Daarnaast maken wij ongeveer 35 miljoen euro vrij voor lastenverlichting voor Haagse burgers. Wij verlagen de OZB met zo'n 20 procent.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ozb",
+        "verlagen",
+        "belasting",
+        "20 procent"
+      ]
+    },
+    {
+      "text": "De parkeerbelasting structureel verlagen met circa 5 miljoen euro.",
+      "originalText": "Daarnaast gaat de parkeerbelasting structureel met circa 5 miljoen euro omlaag.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeerbelasting",
+        "verlagen",
+        "5 miljoen"
+      ]
+    },
+    {
+      "text": "Een ondergrondse parkeergarage aanleggen onder de Marialaan in Bezuidenhout.",
+      "originalText": "De parkeerdruk verminderen we structureel, onder meer met de aanleg van een ondergrondse parkeergarage onder de Marialaan.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeergarage",
+        "ondergronds",
+        "marialaan",
+        "aanleggen"
+      ]
+    },
+    {
+      "text": "Het Schenkviaduct vervangen door een tunnel op termijn.",
+      "originalText": "We willen dat het Schenkviaduct op termijn wordt vervangen door een tunnel.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schenkviaduct",
+        "tunnel",
+        "vervangen"
+      ]
+    },
+    {
+      "text": "De Schenkkade opnieuw inrichten met meer groen, schuine parkeervakken en een verlengd geluidsscherm.",
+      "originalText": "De Schenkkade in Bezuidenhout West richten we opnieuw in met meer groen en schuine parkeervakken, bovendien wordt het geluidsscherm verlengd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "schenkkade",
+        "herinrichten",
+        "groen",
+        "geluidsscherm"
+      ]
+    },
+    {
+      "text": "Buslijn 18 terugbrengen voor een volwaardige OV-verbinding tussen Benoordenhout en het centrum.",
+      "originalText": "Hart voor Den Haag wil een volwaardige OV-verbinding tussen Benoordenhout en het centrum: buslijn 18 moet terug.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "buslijn 18",
+        "ov-verbinding",
+        "benoordenhout",
+        "centrum"
+      ]
+    },
+    {
+      "text": "Het Willem Royaardsplein herontwikkelen met kwaliteitswinkels, horeca en een ondergrondse parkeergarage.",
+      "originalText": "Het Willem Royaardsplein wordt herontwikkeld in samenspraak met bewoners en ondernemers, met kwaliteitswinkels, horeca en een ondergrondse parkeergarage.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "willem royaardsplein",
+        "herontwikkelen",
+        "parkeergarage",
+        "horeca"
+      ]
+    },
+    {
+      "text": "Winkelcentrum Mariahoeve renoveren met horeca en terrassen voor een levendiger centrum.",
+      "originalText": "We willen een veiliger en levendiger winkelcentrum Mariahoeve, met terrassen en kiosken. een snelle start voor de renovatie van winkelcentrum Mariahoeve, met horeca en terrassen;",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "winkelcentrum mariahoeve",
+        "renoveren",
+        "horeca",
+        "terrassen"
+      ]
+    },
+    {
+      "text": "Interactieve zebrapaden aanleggen op drukke kruispunten zoals Van Alkemadelaan en Benoordenhoutseweg voor verkeersveiligheid.",
+      "originalText": "De verkeersveiligheid in Benoordenhout krijgt prioriteit, met meer handhaving en nieuwe interactieve zebrapaden op drukke kruispunten zoals de Van Alkemadelaan en Benoordenhoutseweg.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "interactieve zebrapaden",
+        "verkeersveiligheid",
+        "van alkemadelaan",
+        "benoordenhoutseweg"
+      ]
+    },
+    {
+      "text": "400 fte vervangen in de gemeentelijke organisatie door technische hulpmiddelen en AI voor meer efficiëntie.",
+      "originalText": "Hart voor Den Haag stelt zich ten doel om in de komende raadsperiode (2026-2030) 400 fte te vervangen. De scope van het Programma 'Doelmatigheid & Arbeidsproductiviteit' is de gedeeltelijke vervanging van taken, rollen en functies op het gebied van beleid, communicatie, financiën, controle, secretariaat en administratie, door technische hulpmiddelen en AI-assistenten.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "400 fte",
+        "vervangen",
+        "ai",
+        "efficiëntie",
+        "gemeentelijke organisatie"
+      ]
+    }
+  ]
+}

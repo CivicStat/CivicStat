@@ -1,6 +1,14 @@
 import { Injectable } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 
+// ─── Weights ─────────────────────────────────────────────────
+
+const MOTION_TYPE_WEIGHTS: Record<string, number> = {
+  'Wetsvoorstel': 2.0,
+  'Amendement': 1.5,
+  'Motie': 1.0,
+};
+
 // ─── Types ───────────────────────────────────────────────────
 
 export interface PartyPredictionResult {
@@ -38,6 +46,7 @@ export class PredictionsService {
         matchType: true,
         confidence: true,
         predictedDirection: true,
+        motion: { select: { soort: true } },
         promise: {
           select: {
             expectedVoteDirection: true,
@@ -174,6 +183,7 @@ export class PredictionsService {
       matchType: string;
       confidence: number;
       predictedDirection: string | null;
+      motion?: { soort: string | null } | null;
       promise: {
         expectedVoteDirection: string | null;
       } | null;
@@ -225,7 +235,8 @@ export class PredictionsService {
         effectiveDirection = matchType === "CONTRADICTS" ? "AGAINST" : "FOR";
       }
 
-      const score = weight * matchConfidence;
+      const motionTypeWeight = MOTION_TYPE_WEIGHTS[match.motion?.soort ?? 'Motie'] ?? 1.0;
+      const score = weight * matchConfidence * motionTypeWeight;
       if (effectiveDirection === "FOR") {
         voorScore += score;
       } else {

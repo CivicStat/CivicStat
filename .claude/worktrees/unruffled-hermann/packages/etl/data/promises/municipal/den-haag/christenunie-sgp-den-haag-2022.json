@@ -1,0 +1,2363 @@
+{
+  "party": "ChristenUnie-SGP",
+  "partySlug": "christenunie-sgp",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "ChristenUnie-SGP Den Haag Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 155,
+  "promises": [
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-001",
+      "text": "Nieuwe bewoners krijgen bij verhuizing naar Den Haag een welkomspakket thuisgestuurd met Haagse woonregels en tips, afvalpas met informatie, jaarabonnement van de bibliotheek, OV-chipkaart met saldo, informatie over vrijwilligerswerk en een Haags product.",
+      "summary": "Welkomspakket voor nieuwe Haagse bewoners met diverse voorzieningen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "welkomspakket",
+        "nieuwe bewoners",
+        "bibliotheek",
+        "ov-chipkaart",
+        "vrijwilligerswerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 8",
+      "originalQuote": "Een Haags welkomspakket voor elke nieuwe Haagse bewoner. Bij de verhuizing naar Den Haag krijgen nieuwe bewoners een welkomspakket thuisgestuurd met daarin Haagse woonregels en tips, een afvalpas met informatie, een jaarabonnement van de bieb, OV-chipkaart met saldo, informatie over vrijwilligerswerk en een Haags product."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-002",
+      "text": "De Nederlandse, Haagse en Scheveningse vlag krijgen een prominente plaats in de gemeenteraadszaal als teken van saamhorigheid in de stad.",
+      "summary": "Prominente plaats voor drie vlaggen in de raadszaal",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vlaggen",
+        "raadszaal",
+        "nederlandse vlag",
+        "haagse vlag",
+        "scheveningse vlag"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 8",
+      "originalQuote": "De Nederlandse, Haagse en de Scheveningse vlag krijgen een prominente plaats in onze raadszaal als teken van saamhorigheid in onze stad."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-003",
+      "text": "Er komt meer geld beschikbaar voor uitstapprogramma's voor mensen die uit de prostitutie willen stappen.",
+      "summary": "Meer financiering voor uitstapprogramma's prostitutie",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitstapprogramma's",
+        "prostitutie",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 9",
+      "originalQuote": "Investeer in uitstapprogramma's. In de coronacrisis zijn meer mensen uit de prostitutie gestapt en deze trend houdt aan. Daarom komt er meer geld voor de uitstapprogramma's."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-004",
+      "text": "Er worden geen nieuwe vergunningen verleend voor bordelen of clubs in woonwijken. Als een vergunninghouder stopt, wordt het pand herbestemd.",
+      "summary": "Geen nieuwe bordelen in woonwijken, herbestemming bij sluiting",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bordelen",
+        "vergunningen",
+        "woonwijken",
+        "herbestemming"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 9",
+      "originalQuote": "Geen bordeel in woonwijk. Er worden geen nieuwe vergunningen verleend voor bordelen of clubs in woonwijken. Als een vergunninghouder ermee stopt, dan wordt het pand herbestemd."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-005",
+      "text": "Er komt een overweeghuis waar mensen uit de prostitutie ongeveer drie maanden kunnen wonen en niet hoeven te werken als 'pauze' om uitstappen makkelijker te maken.",
+      "summary": "Overweeghuis voor tijdelijk verblijf mensen uit prostitutie",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overweeghuis",
+        "prostitutie",
+        "tijdelijk verblijf",
+        "drie maanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 9",
+      "originalQuote": "Er komt een overweeghuis. Veel mensen die in de prostitutie werken willen daarmee stoppen, maar deze stap nemen is erg lastig. Er komt een overweeghuis waar mensen ongeveer drie maanden kunnen wonen en niet hoeven te werken, een 'pauze'. Het maakt de stap om uit te treden makkelijker."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-006",
+      "text": "De minimumleeftijd voor klanten van prostitutie gaat omhoog naar 21 jaar.",
+      "summary": "Minimumleeftijd klanten prostitutie verhoogd naar 21 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumleeftijd",
+        "klanten",
+        "prostitutie",
+        "21 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 9",
+      "originalQuote": "Geen tieners in de prostitutiestraat. In navolging van de minimumleeftijd voor mensen die werken in de prostitutie, gaat ook de leeftijd voor klanten omhoog naar 21 jaar."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-007",
+      "text": "Mensen die uit de prostitutie willen stappen kunnen aanspraak maken op een urgentieverklaring voor een sociale huurwoning.",
+      "summary": "Urgentieverklaring sociale huurwoning bij uitstappen prostitutie",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "urgentieverklaring",
+        "sociale huurwoning",
+        "prostitutie",
+        "uitstappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 9",
+      "originalQuote": "Urgentieverklaring bij uitstappen. Mensen die uit de prostitutie willen stappen voelen zich vaak belemmerd om dit te doen, omdat ze daarmee vaak ook hun woning verliezen. Daarom maken mensen die uit de prostitutie stappen aanspraak op een urgentieverklaring voor een sociale huurwoning."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-008",
+      "text": "De gemeente breidt de vergunningplicht uit naar sectoren waar ondermijning bovengemiddeld voorkomt, zoals massagesalons en belwinkels.",
+      "summary": "Uitbreiding vergunningplicht massagesalons en belwinkels",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningplicht",
+        "ondermijning",
+        "massagesalons",
+        "belwinkels"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 10",
+      "originalQuote": "Breid vergunningplicht uit. In de Weimarstraat wordt op dit moment geëxperimenteerd met het uitbreiden van de vergunningplicht voor ondernemers. Deze aanpak moet de gemeente uitbreiden naar sectoren waar ondermijning bovengemiddeld voorkomt, zoals massagesalons en belwinkels."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-009",
+      "text": "Er komt een verbod op gokreclames in de openbare ruimte van Den Haag. Er komen geen nieuwe casino's bij in Den Haag.",
+      "summary": "Verbod gokreclames openbare ruimte, geen nieuwe casino's",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gokreclames",
+        "verbod",
+        "openbare ruimte",
+        "casino's"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 12",
+      "originalQuote": "Geen gokreclames in Den Haag. Het is bekend dat gokreclames leiden tot meer gokken. Kwetsbare groepen zoals jongeren en (ex-)verslaafden zijn hier extra gevoelig voor. Daarom komt er een verbod op gokreclames in Den Haag in de openbare ruimte. De gemeente gaat in gesprek met casino's over reclame bij casino's. Er komen geen nieuwe casino's bij in Den Haag."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-010",
+      "text": "Den Haag doet niet mee met experimenten om de verkoop van wiet te legaliseren.",
+      "summary": "Geen deelname experimenten legalisering wietverkoop",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wiet",
+        "legalisering",
+        "experimenten",
+        "verkoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 12",
+      "originalQuote": "Geen gemeentewiet. Den Haag doet niet mee met experimenten om de verkoop van wiet te legaliseren."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-011",
+      "text": "Een evenementenvergunning wordt alleen gegeven voor een festival als de organisatie concrete maatregelen treft om het evenement drugsvrij te maken en te houden. Wanneer overtredingen worden geconstateerd kan een ultieme consequentie zijn dat het evenement wordt stilgelegd en/of dat er in het volgende jaar geen vergunning wordt afgegeven.",
+      "summary": "Evenementenvergunning alleen bij concrete maatregelen voor drugsvrij festival",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "evenementenvergunning",
+        "festivals",
+        "drugvrij",
+        "maatregelen",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "Een evenementenvergunning wordt alleen gegeven voor een festival als de organisatie concrete maatregelen treft om het evenement drugsvrij te maken en te houden. Wanneer overtredingen worden geconstateerd kan een ultieme consequentie zijn dat het evenement wordt stilgelegd en/of dat er in het volgende jaar geen vergunning wordt afgegeven."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-012",
+      "text": "We vergroten de afstand tussen coffeeshops en scholen om drugsgebruik door scholieren minder laagdrempelig te maken.",
+      "summary": "Afstand tussen coffeeshops en scholen wordt vergroot",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coffeeshops",
+        "scholen",
+        "afstand",
+        "drugsgebruik",
+        "scholieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "We vergroten de afstand tussen coffeeshops en scholen om drugsgebruik door scholieren minder laagdrempelig te maken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-013",
+      "text": "Er komt meer geld om te handhaven op het lachgasverbod en de boete voor het gebruik of de verkoop van lachgas in de openbare ruimte en in het verkeer gaat omhoog. Daarnaast plaatsen we op hotspots borden waarbij gebruikers op het verbod worden gewezen.",
+      "summary": "Meer geld en hogere boetes voor lachgasverbod, plus borden op hotspots",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lachgasverbod",
+        "handhaving",
+        "boetes",
+        "borden",
+        "hotspots"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "Er komt meer geld om hierop te handhaven en de boete voor het gebruik of de verkoop van lachgas in de openbare ruimte en in het verkeer gaat omhoog. Daarnaast plaatsen we op hotspots borden waarbij gebruikers op het verbod worden gewezen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-014",
+      "text": "Er komen geen nieuwe coffeeshops meer bij in Den Haag, ook niet als een coffeeshopeigenaar stopt (uitsterfbeleid coffeeshops).",
+      "summary": "Uitsterfbeleid coffeeshops: geen nieuwe coffeeshops meer",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitsterfbeleid",
+        "coffeeshops",
+        "nieuwvestiging",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "Er komen geen nieuwe coffeeshops meer bij in Den Haag, ook niet als een coffeeshopeigenaar stopt."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-015",
+      "text": "De gemeente gaat experimenteren met mobiel cameratoezicht rondom coffeeshops waar veel overlast wordt gemeld.",
+      "summary": "Mobiel cameratoezicht bij overlastgevende coffeeshops",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mobiel",
+        "cameratoezicht",
+        "coffeeshops",
+        "overlast",
+        "experiment"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "De gemeente gaat experimenteren met mobiel cameratoezicht rondom coffeeshops waar veel overlast wordt gemeld."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-016",
+      "text": "Er wordt gehandhaafd op het ingezetenencriterium en we onderzoeken of we de verkoop van coffeeshops kunnen beperken tot inwoners van Den Haag.",
+      "summary": "Handhaving ingezetenencriterium en onderzoek beperking tot Haagse inwoners",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ingezetenencriterium",
+        "handhaving",
+        "coffeeshops",
+        "verkoop",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "Er wordt gehandhaafd op het zogenaamde ingezetenencriterium. Coffeeshops mogen geen wiet verkopen aan buitenlandse toeristen en we onderzoeken of we de verkoop kunnen beperken tot inwoners van Den Haag."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-017",
+      "text": "We breiden het blowverbod uit. Het is nergens toegestaan om in de openbare ruimte drugs te gebruiken en ook niet om te blowen.",
+      "summary": "Uitbreiding blowverbod: nergens blowen in openbare ruimte",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "blowverbod",
+        "uitbreiding",
+        "openbare ruimte",
+        "drugsgebruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "We breiden het blowverbod uit. Het is nergens toegestaan om in de openbare ruimte drugs te gebruiken en ook niet om te blowen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-018",
+      "text": "We gaan uit van één wijkagent per 4000 inwoners en de gemeente gaat met de politie in gesprek om wijkagenten zoveel mogelijk voor ten minste zes jaar in dezelfde wijk te stationeren.",
+      "summary": "Één wijkagent per 4000 inwoners, minimaal 6 jaar in zelfde wijk",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkagenten",
+        "4000 inwoners",
+        "zes jaar",
+        "stationering"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 13",
+      "originalQuote": "We gaan uit van één wijkagent per 4000 inwoners. De gemeente gaat met de politie in gesprek om wijkagenten zoveel mogelijk voor ten minste zes jaar in dezelfde wijk te stationeren."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-019",
+      "text": "Handhavers worden uitgerust met bodycam en noodknop.",
+      "summary": "Handhavers krijgen bodycam en noodknop",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhavers",
+        "bodycam",
+        "noodknop",
+        "uitrusting"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 14",
+      "originalQuote": "Zij worden uitgerust met bodycam en noodknop."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-020",
+      "text": "Er komt een verbod op de verkoop van messen aan kinderen jonger dan 16 jaar en er is een vast inleverpunt voor wapens.",
+      "summary": "Verbod messenverkoop aan onder-16 en vast wapeninleverpunt",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "messenverbod",
+        "16 jaar",
+        "inleverpunt",
+        "wapens"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 14",
+      "originalQuote": "Daarom komt er een verbod op de verkoop van messen aan kinderen jonger dan 16 jaar en is er een vast inleverpunt voor wapens."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-021",
+      "text": "De meest kwetsbare wijken krijgen naast wijkagenten een stadsmarinier als pilot om grote problemen aan te pakken.",
+      "summary": "Pilot stadsmariniers voor kwetsbare wijken naast wijkagenten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsmariniers",
+        "pilot",
+        "kwetsbare wijken",
+        "wijkagenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 14",
+      "originalQuote": "Naar Rotterdams voorbeeld krijgen de meest kwetsbare wijken, waar verslavingen en drugscriminaliteit een groot probleem zijn, naast wijkagenten, een stadsmarinier als pilot."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-022",
+      "text": "We hanteren de norm van 30% sociale huur, 20% middeldure huur en 20% betaalbare koop tot maximaal de NHG-grens (€355.000 in 2022).",
+      "summary": "Bouwverhouding: 30% sociale huur, 20% middeldure huur, 20% betaalbare koop",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwverhouding",
+        "sociale huur",
+        "middeldure huur",
+        "betaalbare koop",
+        "nhg-grens"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 16",
+      "originalQuote": "Daarom hanteren we de norm van 30% sociale huur, 20% middeldure huur en 20% betaalbare koop tot maximaal de NHG-grens (€355.000 in 2022)."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-023",
+      "text": "Tot 10% van de sociale huurwoningen in een project wordt gereserveerd voor starters.",
+      "summary": "10% sociale huurwoningen gereserveerd voor starters",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "10 procent",
+        "sociale huurwoningen",
+        "reservering",
+        "starters"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 16",
+      "originalQuote": "Daarom wordt tot 10% van de sociale huurwoningen in een project gereserveerd voor starters."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-024",
+      "text": "We handhaven het beleid om 30% sociale huurwoningen in de hele stad te bouwen. Ook in de duurdere wijken houdt de gemeente zich aan deze norm.",
+      "summary": "30% sociale huurwoningen in hele stad, ook in dure wijken",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "30 procent",
+        "sociale huurwoningen",
+        "hele stad",
+        "duurdere wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 16",
+      "originalQuote": "We handhaven het beleid om 30% sociale huurwoningen in de hele stad te bouwen. Dat is het afgelopen jaar niet gebeurd. Ook in de duurdere wijken houdt de gemeente zich aan deze norm om sociale tweedeling te voorkomen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-025",
+      "text": "De zelfbewoningsplicht wordt ingezet voor woningen met een WOZ-waarde tot en met €500.000. We willen dat er een verbod komt op het flyeren door beleggers.",
+      "summary": "Zelfbewoningsplicht tot €500.000 WOZ en verbod op flyeren door beleggers",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zelfbewoningsplicht",
+        "woz-waarde",
+        "500.000 euro",
+        "flyeren",
+        "beleggers"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 16",
+      "originalQuote": "In eerste instantie voeren we de zelfbewoningsplicht in voor woningen met een WOZ-waarde tot en met €500.000. We willen dat er een verbod komt op het flyeren door beleggers."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-026",
+      "text": "Hoogbouw wordt geconcentreerd rondom de grote stations.",
+      "summary": "Hoogbouw geconcentreerd rond grote stations",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hoogbouw",
+        "concentratie",
+        "grote stations"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 16",
+      "originalQuote": "Hoogbouw wordt daarom geconcentreerd rondom de grote stations."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-027",
+      "text": "In Den Haag Zuidwest wordt een groot deel van de corporatiewoningen gesloopt en vervangen door energieneutrale nieuwbouw. Er wordt een publiekstrekker gerealiseerd in Zuidwest, bijvoorbeeld een museum van nationale allure.",
+      "summary": "Sloop en energieneutrale nieuwbouw in Zuidwest plus publiekstrekker",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zuidwest",
+        "sloop",
+        "energieneutrale nieuwbouw",
+        "publiekstrekker",
+        "museum"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 16",
+      "originalQuote": "Daarom wordt een groot deel van de corporatiewoningen gesloopt en vervangen door energieneutrale nieuwbouw. Daarnaast wordt er een publiekstrekker gerealiseerd in Zuidwest, bijvoorbeeld een museum van nationale allure."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-028",
+      "text": "We zorgen dat er ook een HAVO/VWO school(locatie) in de wijk Zuidwest komt.",
+      "summary": "HAVO/VWO schoollocatie in Zuidwest",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "havo/vwo",
+        "schoollocatie",
+        "zuidwest"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 17",
+      "originalQuote": "We zorgen dat er ook een HAVO/VWO school(locatie) in de wijk komt."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-029",
+      "text": "We reserveren nieuwbouwwoningen voor leraren, zorgpersoneel en politieagenten.",
+      "summary": "Reservering nieuwbouwwoningen voor leraren, zorgpersoneel en politie",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "reservering",
+        "nieuwbouwwoningen",
+        "leraren",
+        "zorgpersoneel",
+        "politieagenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 17",
+      "originalQuote": "Daarom reserveren we nieuwbouwwoningen voor deze onmisbare beroepsgroepen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-030",
+      "text": "We gaan scherper controleren op overbewoning en niet-vergunde kamerbewoning in wijken waar veel arbeidsmigranten wonen.",
+      "summary": "Scherpere controle op overbewoning in wijken met arbeidsmigranten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "controle",
+        "overbewoning",
+        "kamerbewoning",
+        "arbeidsmigranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 18",
+      "originalQuote": "We controleren scherper op overbewoning en niet-vergunde kamerbewoning in wijken waar veel arbeidsmigranten wonen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-031",
+      "text": "Er komt geen nieuwe short stay bij en we kijken of vergunningen kunnen worden afgenomen bij verkoop van het pand.",
+      "summary": "Verbod nieuwe short stay en onderzoek afname vergunningen bij verkoop",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "short stay",
+        "verbod",
+        "vergunningen",
+        "verkoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 19",
+      "originalQuote": "Er komt geen nieuwe short stay bij en we kijken of vergunningen kunnen worden afgenomen bij verkoop van het pand."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-032",
+      "text": "Het wordt mogelijk om je voorkeur uit te spreken voor een stadsdeel bij de zoektocht naar een sociale huurwoning.",
+      "summary": "Voorkeur voor stadsdeel mogelijk bij zoeken sociale huurwoning",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voorkeur",
+        "stadsdeel",
+        "sociale huurwoning",
+        "zoektocht"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 19",
+      "originalQuote": "Het wordt mogelijk om je voorkeur uit te spreken voor een stadsdeel bij de zoektocht naar een sociale huurwoning."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-033",
+      "text": "We geven de Haagse Pandbrigade meer geld om overbewoning tegen te gaan en er komen meer integrale handhavingsacties waarbij alle adressen in een gebied worden gecontroleerd.",
+      "summary": "Meer geld Pandbrigade en integrale controles tegen overbewoning",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "geld",
+        "overbewoning",
+        "handhavingsacties",
+        "controles"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 19",
+      "originalQuote": "We geven de Haagse Pandbrigade meer geld om overbewoning tegen te gaan en er komen meer integrale handhavingsacties waarbij alle adressen in een gebied worden gecontroleerd."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-034",
+      "text": "Er komen normen voor het aantal voorzieningen bij nieuwbouw die in lijn zijn met de behoefte van een wijk. Er wordt een voorzieningenscan gedaan voor bestaande wijken.",
+      "summary": "Normen voorzieningen bij nieuwbouw en voorzieningenscan bestaande wijken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "normen",
+        "voorzieningen",
+        "nieuwbouw",
+        "voorzieningenscan",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 19",
+      "originalQuote": "Er komen normen voor het aantal voorzieningen bij nieuwbouw die in lijn zijn met de behoefte van een wijk en deze normen handhaven we. Daarnaast is er in sommige wijken al een tekort aan deze voorzieningen. Daarom doen we een voorzieningenscan voor bestaande wijken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-035",
+      "text": "Voor kinderen die in hoogbouw wonen, komen er ook speelplekken in het gebouw zelf. Er komen meer skateparken en buitenfitnesstoestellen.",
+      "summary": "Speelplekken in hoogbouw en meer skateparken/buitenfitnesstoestellen",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "speelplekken",
+        "hoogbouw",
+        "skateparken",
+        "buitenfitnesstoestellen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 19",
+      "originalQuote": "Voor kinderen die in hoogbouw wonen, komen er ook speelplekken in het gebouw zelf, zodat ze ook binnen veilig kunnen spelen. Ook komen er meer skateparken en buitenfitnesstoestellen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-036",
+      "text": "Er komt één wethouder die verantwoordelijk is voor de aanpak van het afvalprobleem.",
+      "summary": "Eén wethouder verantwoordelijk voor afvalprobleem",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "verantwoordelijkheid",
+        "afvalprobleem"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 20",
+      "originalQuote": "Er komt één wethouder die verantwoordelijk is voor de aanpak van het afvalprobleem."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-037",
+      "text": "Het plaatsen van ORAC's gebeurt altijd in goed overleg met de buurt. Tussen 23:00-07:00 worden ORAC's gesloten.",
+      "summary": "ORAC-plaatsing in overleg met buurt en sluiting tussen 23:00-07:00",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "orac",
+        "overleg",
+        "buurt",
+        "sluiting",
+        "nachtelijke uren"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 20",
+      "originalQuote": "Het plaatsen van ORAC's gebeurt daarom altijd in goed overleg met de buurt. Tussen 23:00-07:00 worden ORAC's gesloten."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-038",
+      "text": "In wijken met veel overlast door grofvuil wordt geëxperimenteerd met een vaste ophaaldag voor grofvuil op centrale plekken.",
+      "summary": "Experiment vaste grofvuilophaaldag op centrale plekken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "experiment",
+        "grofvuil",
+        "ophaaldag",
+        "centrale plekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 20",
+      "originalQuote": "In wijken met veel overlast door het bijplaatsen van grofvuil naast ORAC's wordt geëxperimenteerd met een vaste ophaaldag voor het grofvuil. Bewoners kunnen dan op één dag hun grofvuil aanbieden op een aantal centrale plekken in de wijk."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-039",
+      "text": "Containers rond scholen worden hotspots, waar nog vaker afval wordt opgehaald en met voorrang bijplaatsingen worden opgehaald.",
+      "summary": "Scholen worden afvalhotspots met vaker ophalen en voorrang bijplaatsingen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scholen",
+        "containers",
+        "hotspots",
+        "afvalophaaldienst",
+        "voorrang"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 20-21",
+      "originalQuote": "Containers rond scholen worden daarom hotspots, waar nog vaker afval wordt opgehaald en met voorrang zogenaamde bijplaatsingen worden opgehaald."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-040",
+      "text": "Containers worden alleen geleegd tussen 08:00 en 21:00.",
+      "summary": "Afvalcontainers alleen legen tussen 08:00 en 21:00",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "containers",
+        "leegtijden",
+        "08:00",
+        "21:00"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 21",
+      "originalQuote": "Containers worden alleen geleegd tussen 08:00 en 21:00."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-041",
+      "text": "Als iemand voor de tweede keer afval naast een ORAC plaatst, wordt een hogere boete uitgedeeld. Op plekken met de meeste overlast komt er mobiel cameratoezicht.",
+      "summary": "Hogere boete bij tweede overtreding en mobiel cameratoezicht op hotspots",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hogere boete",
+        "tweede overtreding",
+        "mobiel cameratoezicht",
+        "hotspots"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 21",
+      "originalQuote": "Als iemand voor de tweede keer afval naast een ORAC plaatst, wordt een hogere boete uitgedeeld. Op plekken met de meeste overlast komt er mobiel cameratoezicht om overlastgevers te beboeten."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-042",
+      "text": "Menschen die een ORAC adopteren kunnen een korting krijgen op de afvalstoffenheffing.",
+      "summary": "Korting afvalstoffenheffing voor ORAC-adopters",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "orac",
+        "adopteren",
+        "korting",
+        "afvalstoffenheffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 21",
+      "originalQuote": "Om dit te stimuleren en uit te breiden, kunnen mensen die een ORAC adopteren een korting krijgen op de afvalstoffenheffing."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-043",
+      "text": "De gemeente faciliteert subsidieaanvragen van kleine vrijwilligersorganisaties door deze te vergemakkelijken en meer samenwerking aan te gaan.",
+      "summary": "Vergemakkelijken subsidieaanvragen kleine vrijwilligersorganisaties",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidieaanvragen",
+        "vrijwilligersorganisaties",
+        "faciliteren",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 23",
+      "originalQuote": "We ondersteunen en faciliteren hen door subsidieaanvragen te vergemakkelijken en met hen samen te werken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-044",
+      "text": "De gemeente biedt ruimtes in de wijk aan voor vrijwilligersinitiatieven zoals Repair Café's en buurtorganisaties, inclusief toegang tot gemeentelijke vergaderruimtes.",
+      "summary": "Wijkruimtes aanbieden voor vrijwilligersinitiatieven",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkruimtes",
+        "vrijwilligers",
+        "repair café",
+        "buurtorganisaties",
+        "vergaderruimtes"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 23",
+      "originalQuote": "Om vrijwilligerswerk maximaal te faciliteren gaat de gemeente ruimtes aanbieden in de wijk voor initiatieven zoals het Repair Café of een buurtorganisatie."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-045",
+      "text": "Ambtenaren van de gemeente Den Haag gaan verplicht één dag per jaar vrijwilligerswerk doen om de binding tussen ambtenaren en de stad te versterken.",
+      "summary": "Verplichte vrijwilligersdag voor gemeenteambtenaren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambtenaren",
+        "vrijwilligerswerk",
+        "één dag",
+        "verplicht",
+        "stadsbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 23",
+      "originalQuote": "Ambtenaren van de gemeente Den Haag gaan verplicht één dag per jaar vrijwilligerswerk doen om de binding tussen ambtenaren op het stadhuis en de stad te versterken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-046",
+      "text": "Er komt een kerkverzamelgebouw in Den Haag voor kerkelijke gemeenschappen die op zoek zijn naar ruimte voor hun bijeenkomsten.",
+      "summary": "Kerkverzamelgebouw realiseren voor kerkelijke gemeenschappen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerkverzamelgebouw",
+        "kerkelijke gemeenschappen",
+        "bijeenkomsten",
+        "ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 23",
+      "originalQuote": "We realiseren samen met hen een kerkverzamelgebouw."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-047",
+      "text": "Er komt specifieke ondersteuning voor jonge mantelzorgers in de vorm van coaching, studiebegeleiding en/of financiële ondersteuning, vooral bij combinatie met school of studie.",
+      "summary": "Specifieke ondersteuning voor jonge mantelzorgers",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jonge mantelzorgers",
+        "coaching",
+        "studiebegeleiding",
+        "financiële ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 23",
+      "originalQuote": "Voor hen komt vanuit de gemeente speciale aandacht in de vorm van coaching, studiebegeleiding en/of financiële ondersteuning."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-048",
+      "text": "In alle nieuwbouwcomplexen komen ruimtes die de functie van een woonkamer vervullen om eenzaamheid tegen te gaan en sociale cohesie tussen bewoners te vergroten.",
+      "summary": "Gemeenschappelijke woonkamerruimtes in nieuwbouwcomplexen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouwcomplexen",
+        "woonkamerruimtes",
+        "eenzaamheid",
+        "sociale cohesie"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 24",
+      "originalQuote": "In alle nieuwbouwcomplexen komen ruimtes die de functie van een woonkamer vervullen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-049",
+      "text": "Welzijnsorganisaties krijgen een rol in huisbezoeken aan mensen van 75 jaar en ouder voor signalering en bestrijding van eenzaamheid.",
+      "summary": "Huisbezoeken voor 75-plussers tegen eenzaamheid",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huisbezoeken",
+        "75-plussers",
+        "welzijnsorganisaties",
+        "eenzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 24",
+      "originalQuote": "Daarbij horen huisbezoeken aan mensen van 75 jaar en ouder."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-050",
+      "text": "Op aanvraag van een straat worden er zwaaitegels gelegd voor meer samenhorigheid en in strijd tegen eenzaamheid.",
+      "summary": "Zwaaitegels leggen op aanvraag van straten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zwaaitegels",
+        "straten",
+        "samenhorigheid",
+        "eenzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 24",
+      "originalQuote": "Op aanvraag van een straat worden er in Den Haag zwaaitegels gelegd voor meer samenhorigheid en in strijd tegen eenzaamheid."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-051",
+      "text": "Den Haag wordt uiterlijk in 2030 100% toegankelijk voor iedereen.",
+      "summary": "100% toegankelijkheid Den Haag voor 2030",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toegankelijkheid",
+        "2030",
+        "iedereen",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Uiterlijk in 2030 is Den Haag 100% toegankelijk voor iedereen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-052",
+      "text": "Bij alle bouwprojecten en openbare gebouwen wordt toegankelijkheid een voorwaarde, met integrale toegankelijkheidstoets voor elk bouwproject.",
+      "summary": "Toegankelijkheidstoets verplicht bij alle bouwprojecten",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bouwprojecten",
+        "toegankelijkheidstoets",
+        "openbare gebouwen",
+        "voorwaarde"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Daarnaast komt er een integrale toegankelijkheidstoets voor elk bouwproject in de stad"
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-053",
+      "text": "Dringende klachten over belemmeringen op het gebied van toegankelijkheid worden gegarandeerd binnen 24 uur opgelost.",
+      "summary": "24-uurs garantie voor toegankelijkheidsklachten",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "24-uurs garantie",
+        "toegankelijkheidsklachten",
+        "belemmeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Dringende klachten over belemmeringen op het gebied van toegankelijkheid binnen de stad worden gegarandeerd binnen 24-uur opgelost."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-054",
+      "text": "Alle strandopgangen bij strandtenten krijgen een hellingbaan en goede leuning, plus voorzieningen voor strandrolstoelen en mindervalidentoiletten.",
+      "summary": "Toegankelijke strandopgangen bij alle strandtenten",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strandopgangen",
+        "hellingbaan",
+        "strandrolstoelen",
+        "mindervalidentoiletten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Strandopgangen bij strandtenten worden allemaal voorzien van een hellingbaan en een goede leuning en op voldoende plekken komen voorzieningen voor strandrolstoelen en mindervalidentoiletten."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-055",
+      "text": "Elke bibliotheek in Den Haag krijgt een Informatiepunt Digitale Overheid voor hulp bij digitale overheidsdiensten.",
+      "summary": "Informatiepunt Digitale Overheid in elke bibliotheek",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheek",
+        "informatiepunt digitale overheid",
+        "digitale overheidsdiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Elke bibliotheek in Den Haag krijgt een Informatiepunt Digitale Overheid"
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-056",
+      "text": "Op het stadhuis komt een speciaal loket waar blinden en doven door specifiek geschoold personeel geholpen kunnen worden.",
+      "summary": "Speciaal blinden- en dovenloket op stadhuis",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadhuis",
+        "blinden",
+        "doven",
+        "speciaal loket",
+        "geschoold personeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Op het stadhuis komt een speciaal loket, waar blinden en doven door specifiek daarvoor geschoold personeel geholpen kunnen worden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-057",
+      "text": "In nieuwbouw van seniorencomplexen komt een inpandige ruimte voor oplaadpunten voor scootmobielen en scootmobielpools met deelscootmobielen.",
+      "summary": "Scootmobielruimtes in seniorencomplexen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "seniorencomplexen",
+        "scootmobiel",
+        "oplaadpunten",
+        "deelscootmobielen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 25",
+      "originalQuote": "Zo komt er in nieuwbouw van seniorencomplexen een inpandige ruimte voor oplaadpunten voor een scootmobiel en scootmobielpools met deelscootmobielen"
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-058",
+      "text": "Den Haag krijgt een samen-naar-schoolklas waar kinderen met en zonder beperking samen naar dezelfde school gaan.",
+      "summary": "Samen-naar-schoolklas voor inclusief onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "samen-naar-schoolklas",
+        "inclusief onderwijs",
+        "beperking",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 26",
+      "originalQuote": "In navolging van andere steden in Nederland krijgt Den Haag ook een samen-naar-schoolklas waar kinderen met een beperking en kinderen zonder beperking samen naar dezelfde school gaan."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-059",
+      "text": "Er komt een onafhankelijke zorgombudsman die kan bemiddelen tussen cliënten en de gemeente in het sociaal domein en zorg.",
+      "summary": "Onafhankelijke zorgombudsman instellen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgombudsman",
+        "bemiddeling",
+        "cliënten",
+        "sociaal domein"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 27",
+      "originalQuote": "De gemeente organiseert een onafhankelijke ombudsfunctie, die kan bemiddelen tussen cliënten en de gemeente in het sociaal domein en in de zorg die bij de gemeente ligt."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-060",
+      "text": "Er komt een preventieakkoord mentale gezondheid met laagdrempelige voorzieningen en ondersteuning van mentale veerkracht.",
+      "summary": "Preventieakkoord mentale gezondheid opstellen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventieakkoord",
+        "mentale gezondheid",
+        "laagdrempelige voorzieningen",
+        "veerkracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 27",
+      "originalQuote": "Er komt een preventieakkoord mentale gezondheid."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-061",
+      "text": "Er komt een zwembad in Laak zodat inwoners van dit stadsdeel in de buurt kunnen zwemmen.",
+      "summary": "Zwembad realiseren in stadsdeel Laak",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zwembad",
+        "laak",
+        "stadsdeel",
+        "zwemmen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 29",
+      "originalQuote": "Daarom komt er een zwembad in Laak, zodat ook de inwoners van dit stadsdeel in de buurt kunnen zwemmen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-062",
+      "text": "Er gaat geen extra gemeenschapsgeld naar ADO Den Haag, wel ondersteuning bij bedrijfsvoering en openheid voor verkoop stadion tegen marktconforme prijs.",
+      "summary": "Geen extra geld naar ADO, wel ondersteuning bedrijfsvoering",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ado den haag",
+        "gemeenschapsgeld",
+        "bedrijfsvoering",
+        "stadion",
+        "marktprijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 29",
+      "originalQuote": "Er gaat geen extra gemeenschapsgeld naar ADO Den Haag. Wel willen we ADO ondersteunen bij de bedrijfsvoering en staan we open voor de verkoop van het stadion voor een marktconforme prijs."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-063",
+      "text": "Er komt een ventilatiebrigade die scholen praktisch en technisch helpt om goed te ventileren.",
+      "summary": "Ventilatiebrigade voor ondersteuning scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ventilatiebrigade",
+        "scholen",
+        "ventilatie",
+        "technische ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 30",
+      "originalQuote": "daarom komt er een ventilatiebrigade in Den Haag die scholen praktisch en technisch helpt en ondersteunt om de school goed te ventileren."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-064",
+      "text": "Schoolzwemmen wordt vervroegd naar groep 4, met het doel dat niemand de basisschool verlaat zonder zwemdiploma.",
+      "summary": "Schoolzwemmen vervroegen naar groep 4",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "groep 4",
+        "zwemdiploma",
+        "basisschool"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 30",
+      "originalQuote": "Schoolzwemmen vervroegen we naar groep 4. We willen dat niemand de basisschool verlaat zonder zwemdiploma."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-065",
+      "text": "Woningen worden gereserveerd voor leraren om het aantrekkelijker te maken in Den Haag te werken.",
+      "summary": "Woningen reserveren voor leraren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningen",
+        "leraren",
+        "reserveren",
+        "aantrekkelijk",
+        "werken"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 31",
+      "originalQuote": "De ChristenUnie/SGP wil woningen reserveren voor leraren, zodat het aantrekkelijker wordt om hier te werken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-066",
+      "text": "Elke wijk krijgt een bibliotheek, met prioriteit voor wijken met veel laaggeletterden. De wijkbibliotheek komt als eerste terug in Moerwijk en Mariahoeve.",
+      "summary": "Bibliotheek in elke wijk, eerst Moerwijk en Mariahoeve",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheek",
+        "elke wijk",
+        "moerwijk",
+        "mariahoeve",
+        "laaggeletterden"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 31",
+      "originalQuote": "Elke wijk krijgt een bibliotheek... De wijkbibliotheek komt als eerste terug in Moerwijk en Mariahoeve."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-067",
+      "text": "Er komt een stadstekenaar die Den Haag een spiegel voorhoudt en kunst toegankelijk maakt voor iedereen.",
+      "summary": "Stadstekenaar aanstellen voor toegankelijke kunst",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadstekenaar",
+        "kunst",
+        "toegankelijk",
+        "spiegel"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 31",
+      "originalQuote": "Daarom komt er een stadstekenaar die Den Haag een spiegel voorhoudt en kunst toegankelijk maakt voor iedereen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-068",
+      "text": "Den Haag wordt in 2030 klimaatneutraal door extra investeringen in isolatie, verduurzaming en vergroening.",
+      "summary": "Klimaatneutraal in 2030 door isolatie en verduurzaming",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "isolatie",
+        "verduurzaming",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 33",
+      "originalQuote": "De doelstelling blijft om in 2030 klimaatneutraal te zijn. Daarvoor moeten er nog flinke stappen gezet worden. We investeren extra in isolatie, verduurzaming en vergroening."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-069",
+      "text": "Er komt een duurzaamheidstoets waarbij in alle relevante beleidsstukken wordt aangegeven hoe bijgedragen wordt aan een duurzamer Den Haag.",
+      "summary": "Duurzaamheidstoets voor alle beleidsstukken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "duurzaamheidstoets",
+        "beleidsstukken",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 33",
+      "originalQuote": "Daarom komt er een duurzaamheidstoets, waarbij in alle relevante beleidsstukken wordt aangegeven hoe bijgedragen wordt aan een duurzamer Den Haag."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-070",
+      "text": "Speeltuinen en pleinen worden vergroend zodat kinderen kunnen klimmen in bomen, spelen in de modder en tussen de struiken.",
+      "summary": "Vergroening van speeltuinen en pleinen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "speeltuinen",
+        "pleinen",
+        "vergroening",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 33",
+      "originalQuote": "Kinderen moeten lekker kunnen buitenspelen en daarom willen we speeltuinen en pleinen vergroenen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-071",
+      "text": "De gemeente breidt de opruimdagen uit en biedt kosteloos benodigdheden aan voor het verzamelen van zwerfafval.",
+      "summary": "Uitbreiding opruimdagen met gratis materialen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opruimdagen",
+        "zwerfafval",
+        "kosteloos",
+        "materialen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 33",
+      "originalQuote": "De gemeente breidt de opruimdagen uit om spullen in te leveren en zwerfafval op te ruimen. Benodigdheden voor het verzamelen van zwerfafval worden kosteloos aangeboden door de gemeente."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-072",
+      "text": "Iedere inwoner kan een compostbak aanvragen en buurten worden ondersteund bij gezamenlijke compostinitiatieven.",
+      "summary": "Gratis compostbakken voor alle inwoners",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "compostbak",
+        "inwoners",
+        "buurten",
+        "groenafval"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 33",
+      "originalQuote": "Iedere inwoner kan een compostbak voor in de keuken, tuin of op het balkon aanvragen. Buurten worden ondersteund bij gezamenlijke initiatieven om uit groen en keukenafval zelf compost te maken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-073",
+      "text": "Bij aanbesteding van het volgende afvalverwerkingscontract wordt ingezet op nascheiding door machines.",
+      "summary": "Nascheiding door machines bij nieuwe afvalcontract",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalverwerkingscontract",
+        "nascheiding",
+        "machines",
+        "aanbesteding"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 34",
+      "originalQuote": "We zetten daarom in op nascheiding bij het aanbesteden van het volgende afvalverwerkingscontract."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-074",
+      "text": "Den Haag verplicht plastic bekers met statiegeld of alternatieven bij kermissen, concerten en festivals.",
+      "summary": "Statiegeldbekers verplicht bij evenementen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "plastic",
+        "statiegeld",
+        "kermis",
+        "festivals",
+        "evenementen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 34",
+      "originalQuote": "Den Haag gaat plastic bekers met statiegeld of alternatieven verplichten om plastic afval tegen te gaan."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-075",
+      "text": "Isolatiebrigades worden uitgebreid en gaan huis-aan-huis met een onweerstaanbaar aanbod om woningen te isoleren.",
+      "summary": "Uitbreiding isolatiebrigades voor huis-aan-huis bezoeken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "isolatiebrigades",
+        "huis-aan-huis",
+        "woningen",
+        "isoleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 34",
+      "originalQuote": "De succesvolle inzet van de isolatieteams wordt uitgebreid. De gemeente ondersteunt lokale initiatieven om straten en buurten te isoleren zoveel mogelijk, benadert zelf actief vve's en gaat huis-aan-huis met een offer-you-can't-refuse om je woning te isoleren."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-076",
+      "text": "Mensen met een kleine beurs krijgen een bedrag om energieverbruik te verlagen op basis van advies van de isolatiebrigade.",
+      "summary": "Financiële steun voor energieverduurzaming lage inkomens",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiearmoede",
+        "bedrag",
+        "energieverbruik",
+        "isolatiebrigade"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 34",
+      "originalQuote": "Mensen met een kleine beurs krijgen een bedrag dat ze kunnen besteden om in hun woning het energieverbruik te verlagen op basis van het advies van de isolatiebrigade."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-077",
+      "text": "Alle sociale huurwoningen zijn in 2040 energieneutraal waarbij de woonlasten gelijk blijven.",
+      "summary": "Sociale huurwoningen energieneutraal in 2040",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "energieneutraal",
+        "woonlasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 35",
+      "originalQuote": "Met woningcorporaties spreken we af dat alle sociale huurwoningen in 2040 energieneutraal (nul-op-de-meter) zijn, waarbij de woonlasten gelijk blijven."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-078",
+      "text": "Particuliere verhuurders krijgen vanaf 2025 geen verhuurdersvergunning meer als zij hun huizen niet verduurzamen.",
+      "summary": "Geen verhuurdersvergunning zonder verduurzaming vanaf 2025",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "particuliere verhuurders",
+        "verhuurdersvergunning",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 35",
+      "originalQuote": "Als zij geen stappen maken om hun huizen te verduurzamen, dan krijgen zij vanaf 2025 geen verhuurdersvergunning meer voor het verhuren van hun panden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-079",
+      "text": "Bewoners en bedrijven kunnen voor 50% eigenaar worden van lokale energie- of warmteopwekkers per wijk.",
+      "summary": "50% eigenaarschap lokale energieopwekking voor bewoners",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bewoners",
+        "bedrijven",
+        "eigenaar",
+        "energie",
+        "warmteopwekker"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 35",
+      "originalQuote": "Wat de ChristenUnie/SGP betreft kunnen bewoners en bedrijven voor 50% eigenaar worden van een lokale energie- of warmteopwekker."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-080",
+      "text": "Extra subsidie van 30% wordt gegeven op zonnepanelen en zonneboiler voor iedereen met een Ooievaarspas.",
+      "summary": "30% extra subsidie zonne-energie voor Ooievaarspashouders",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidie",
+        "zonnepanelen",
+        "zonneboiler",
+        "ooievaarspas"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 36",
+      "originalQuote": "De gemeente stimuleert dat verder met een extra bijdrage van 30% op het subsidiebedrag voor iedereen met een Ooievaarspas."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-081",
+      "text": "Asfalt of klinkerbestrating op parkeervakken wordt vervangen door grastegels.",
+      "summary": "Parkeervakken krijgen grastegels i.p.v. asfalt",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeervakken",
+        "grastegels",
+        "asfalt",
+        "klinkers"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 37",
+      "originalQuote": "Asfalt of klinkerbestrating op parkeervakken wordt vervangen door grastegels."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-082",
+      "text": "Elke straat kan met een goed plan een kleine bijdrage krijgen voor vergroening waarbij bewoners het onderhoud doen.",
+      "summary": "Subsidie stratenvergroening met bewonersonderhoud",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "straat",
+        "bijdrage",
+        "vergroening",
+        "bewoners",
+        "onderhoud"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 37",
+      "originalQuote": "Elke straat maakt, met een goed plan, kans op een kleine bijdrage voor de vergroening voor de straat. Bewoners krijgen dan zelf de taak om het groen bij te houden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-083",
+      "text": "De snorfiets gaat met helm op de rijbaan rijden in plaats van op het fietspad.",
+      "summary": "Snorfiets naar rijbaan met helmplicht",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "snorfiets",
+        "helm",
+        "rijbaan",
+        "fietspad"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 37",
+      "originalQuote": "De snorfiets gaat, met helm, op de rijbaan rijden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-084",
+      "text": "Er komt een integrale scan van alle voetpaden in Den Haag om toegankelijkheid voor rolstoelen en rollators te controleren.",
+      "summary": "Integrale scan toegankelijkheid alle voetpaden",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voetpaden",
+        "scan",
+        "toegankelijkheid",
+        "rolstoelen",
+        "rollators"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 37-38",
+      "originalQuote": "Er komt een integrale scan van alle voetpaden in Den Haag om te zien of ze voor iedereen toegankelijk zijn."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-085",
+      "text": "Tijdens openingstijden van winkels zijn er geen fietsers toegestaan in de Grote Marktstraat, mits het alternatief via de Gedempte Gracht en Gedempte Burgwal is heringericht.",
+      "summary": "Fietsverbod Grote Marktstraat tijdens winkelopening",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grote marktstraat",
+        "fietsers",
+        "openingstijden",
+        "gedempte gracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 38",
+      "originalQuote": "Tijdens de openingstijden van winkels zijn er geen fietsers toegestaan in de Grote Marktstraat, mits het alternatief via de Gedempte Gracht en Gedempte Burgwal heringericht is als fietsstraat."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-086",
+      "text": "De tramtunnel wordt doorgetrokken richting Leyenburg en Kijkduin krijgt een eigen tramhalte na de Heliotrooplaan.",
+      "summary": "Tramtunnel naar Leyenburg en tramhalte Kijkduin",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tramtunnel",
+        "leyenburg",
+        "kijkduin",
+        "tramhalte",
+        "heliotrooplaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 38",
+      "originalQuote": "De tramtunnel wordt op termijn doorgetrokken richting Leyenburg. Kijkduin krijgt een eigen tramhalte, een aftakking na de Heliotrooplaan."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-087",
+      "text": "Er wordt ingezet op een ondergrondse metroverbinding naar Scheveningen langs het Koningstracé met Madurodam als tophalte.",
+      "summary": "Ondergrondse metro naar Scheveningen via Koningstracé",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "metro",
+        "scheveningen",
+        "koningstracé",
+        "madurodam",
+        "ondergronds"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 38",
+      "originalQuote": "We gaan inzetten op een ondergrondse metroverbinding naar Scheveningen langs het Koningstracé. Madurodam wordt daarbij een tophalte."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-088",
+      "text": "30 km/h per uur wordt de norm op niet-doorgaande wegen.",
+      "summary": "30 km/h norm voor niet-doorgaande wegen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "30 km/h",
+        "norm",
+        "niet-doorgaande wegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 39",
+      "originalQuote": "30 km/h per uur wordt de norm op niet-doorgaande wegen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-089",
+      "text": "Parkeren op zon- en feestdagen wordt gratis.",
+      "summary": "Gratis parkeren op zon- en feestdagen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeren",
+        "gratis",
+        "zondag",
+        "feestdagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 39",
+      "originalQuote": "Parkeren op zon- en feestdagen wordt gratis."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-090",
+      "text": "In wijken met een parkeerdruk boven de 90% wordt in principe geen tweede parkeervergunning meer uitgegeven en de tweede vergunning wordt duurder.",
+      "summary": "Geen tweede parkeervergunning bij 90% parkeerdruk",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunning",
+        "parkeerdruk",
+        "90%"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 39",
+      "originalQuote": "In wijken met een parkeerdruk boven de 90% in principe geen tweede parkeervergunning meer uitgegeven. De tweede vergunning wordt bovendien duurder."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-091",
+      "text": "In Scheveningen wordt parkeren in woonstraten in de zomermaanden gemaximeerd tot een half uur en in winkelstraten tot een uur.",
+      "summary": "Parkeerbeperking Scheveningen: 30 min woonstraten, 1 uur winkelstraten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scheveningen",
+        "parkeren",
+        "woonstraten",
+        "winkelstraten",
+        "zomermaanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 39",
+      "originalQuote": "Parkeren in woonstraten wordt in de zomermaanden gemaximeerd tot een half uur en in winkelstraten tot een uur."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-092",
+      "text": "De kiosken komen terug in de Grote Marktstraat en er wordt meer ruimte geboden aan ambulante ondernemers.",
+      "summary": "Terugkeer kiosken Grote Marktstraat en meer ruimte ambulante handel",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kiosken",
+        "grote marktstraat",
+        "ambulante ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 42",
+      "originalQuote": "De kiosken komen terug in de Grote Marktstraat en we bieden meer ruimte aan ambulante ondernemers."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-093",
+      "text": "ZZP'ers kunnen gebruik maken van flexplekken in publieke ruimtes.",
+      "summary": "Flexplekken voor ZZP'ers in publieke ruimte",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zzp'ers",
+        "flexplekken",
+        "publieke ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 42",
+      "originalQuote": "Ze kunnen terecht bij het ondernemersportaal met hun vragen en ze kunnen gebruik maken van flexplekken in publieke ruimtes."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-094",
+      "text": "Gemeentelijke inkoop wordt zoveel mogelijk bij Haagse MKB'ers gedaan om lokale werkgelegenheid te bevorderen en duurzaamheid te stimuleren.",
+      "summary": "Lokale inkoop bij Haagse MKB'ers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inkoop",
+        "mkb",
+        "werkgelegenheid",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "Gemeentelijke inkoop doen we zoveel mogelijk bij Haagse MKB'ers. Lokale inkoop is duurzaam en zorgt voor meer werkgelegenheid dichtbij."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-095",
+      "text": "De gemeente pakt de regie in de keuze over wel of geen droogloop voor de Haagse Markt en zorgt voor meer verblijfsplekken.",
+      "summary": "Gemeente pakt regie over droogloop Haagse Markt",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "markt",
+        "droogloop",
+        "regie",
+        "verblijfsplekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "De gemeente pakt regie in de keuze of er wel of geen droogloop komt. Daarnaast komt de markt meer terug in het Haags toeristisch aanbod."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-096",
+      "text": "Er komt een duidelijk overzicht van vergunningtypes per horecagelegenheid en er wordt strenger gehandhaafd op overtredingen.",
+      "summary": "Overzicht horecavergunningen en strengere handhaving",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "horeca",
+        "vergunningen",
+        "handhaving",
+        "overtredingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "Er komt een duidelijk overzicht van het type vergunning dat op een horecagelegenheid zit en er wordt strenger gehandhaafd op overtredingen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-097",
+      "text": "Via omgevingsplannen wordt gestuurd op het aantal fastfoodketens per gebied om spreiding te bevorderen.",
+      "summary": "Sturing op aantal fastfoodketens per gebied",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fastfood",
+        "omgevingsplannen",
+        "spreiding",
+        "gebied"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "Daarnaast sturen we door omgevingsplannen op het aantal fastfoodketens per gebied."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-098",
+      "text": "Er komt een isolatiefonds waarmee horecagelegenheden geholpen worden bij het isoleren van hun pand voor lagere energierekening en minder geluidsoverlast.",
+      "summary": "Isolatiefonds voor horecagelegenheden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "isolatiefonds",
+        "horeca",
+        "isolatie",
+        "energie",
+        "geluidsoverlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "Ten slotte worden horecagelegenheden, via een isolatiefonds, geholpen bij het isoleren van hun pand. Dit zorgt voor een lagere energierekening en leidt tot minder geluidsoverlast."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-099",
+      "text": "Bij nieuwbouwprojecten experimenteert de gemeente met plintmanagers die het aanbod van winkels in de gaten houden voor meer diversiteit.",
+      "summary": "Experiment met plintmanagers bij nieuwbouw",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "plintmanagers",
+        "nieuwbouw",
+        "winkels",
+        "diversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "Bij nieuwbouwprojecten gaat de gemeente experimenteren met plintmanagers die het aanbod van winkels in de gaten houden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-100",
+      "text": "De gemeente hanteert 'saldo nul' bij nieuwe regels voor bedrijven: voor elke nieuwe regel verdwijnt een oude.",
+      "summary": "Saldo nul principe voor bedrijfsregels",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regels",
+        "bedrijven",
+        "saldo",
+        "bureaucratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 43",
+      "originalQuote": "De gemeente gaat een 'saldo nul' hanteren bij nieuwe regels voor bedrijven. Voor elke nieuwe regel verdwijnt een oude."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-101",
+      "text": "Vanaf 2023 wordt toeristenbelasting procentueel geheven: 5,5% over de kale overnachtingsprijs en 2,75% voor camping en haven.",
+      "summary": "Nieuwe procentuele toeristenbelasting vanaf 2023",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeristenbelasting",
+        "percentage",
+        "overnachting",
+        "camping"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 44",
+      "originalQuote": "Vanaf 2023 wordt de toeristenbelasting procentueel geheven. We rekenen 5,5% belasting over de kale overnachtingsprijs. Voor camping en haven is dit 2,75%."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-102",
+      "text": "Er komt een all-in kaart voor stedelijk openbaar vervoer op de dag van aankomst en vertrek voor congresgangers.",
+      "summary": "All-in OV-kaart voor congresgangers",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "congres",
+        "openbaar vervoer",
+        "kaart",
+        "reisgemak"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 44",
+      "originalQuote": "Er komt een all-in kaart voor het stedelijk openbaar vervoer op de dag van aankomst en vertrek en we zorgen voor beter OV naar congreslocaties."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-103",
+      "text": "De gemeente verstrekt voorlopig geen nieuwe vergunningen voor hotels, hostels of B&B's omdat Den Haag voldoende kamers heeft.",
+      "summary": "Stop op nieuwe hotelvergunningen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hotels",
+        "vergunningen",
+        "hostels",
+        "b&b"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 44",
+      "originalQuote": "Den Haag heeft momenteel voldoende kamers. Nieuwe hotels zijn niet nodig. De gemeente verstrekt daarom voorlopig geen nieuwe vergunningen voor de bouw of vorming van hotels, hostels of B&B's."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-104",
+      "text": "Renovatie van de Visafslag Scheveningen (UFA) wordt zo snel mogelijk uitgevoerd om groei van banen te investeren.",
+      "summary": "Spoedige renovatie Visafslag Scheveningen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "visafslag",
+        "renovatie",
+        "scheveningen",
+        "banen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 45",
+      "originalQuote": "Wat betreft de ChristenUnie/SGP zetten ze deze trend door en wordt de renovatie zo snel mogelijk uitgevoerd. Hiermee investeert de stad Den Haag in groei van banen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-105",
+      "text": "Er wordt een jaarlijkse Haagse-Vakluî-Dag ingesteld waarbij vakmanschap en opleidingen in de spotlights worden gezet.",
+      "summary": "Jaarlijkse Haagse-Vakluî-Dag",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vakmanschap",
+        "dag",
+        "opleidingen",
+        "herwaardeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 46",
+      "originalQuote": "De ChristenUnie/SGP stelt een jaarlijkse Haagse-Vakluî-Dag voor, waarbij we hun werk en opleidingen in de spotlights zetten."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-106",
+      "text": "Het aantal STiP-banen wordt uitgebreid waarbij mensen tijdelijk in dienst van de gemeente klaargestoomd worden voor duurzame banen.",
+      "summary": "Uitbreiding STiP-banen programma",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stip-banen",
+        "gemeente",
+        "werk",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 46",
+      "originalQuote": "Een STiP-baan, waarbij mensen tijdelijk in dienst worden genomen van de gemeente om klaargestoomd te worden voor een duurzame baan, werkt goed. De gemeente gaat daarom door met dit belangrijke werk en breidt het aantal werkplekken uit."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-107",
+      "text": "In 2025 is armoede gehalveerd in Den Haag en in 2050 groeit geen enkel kind meer op in armoede.",
+      "summary": "Concrete doelen armoedebestrijding 2025 en 2050",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "armoede",
+        "doelen",
+        "kinderen",
+        "2025",
+        "2050"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 47",
+      "originalQuote": "In 2025 is armoede gehalveerd in Den Haag en in 2050 groeit geen enkel kind meer op in armoede."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-108",
+      "text": "Menstruatieartikelen worden gratis aangeboden op scholen en bij drogisterijen voor mensen met een Ooievaarspas tegen menstruatiearmoede.",
+      "summary": "Gratis menstruatieartikelen op scholen en drogisterijen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "menstruatiearmoede",
+        "artikelen",
+        "scholen",
+        "drogisterijen",
+        "ooievaarspas"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 47",
+      "originalQuote": "De gemeente doet er alles aan om menstruatiearmoede te voorkomen door menstruatieartikelen gratis aan te bieden op scholen en bij drogisterijen voor mensen met een Ooievaarspas."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-109",
+      "text": "De zoekperiode van vier weken voor jongeren die bijstandsuitkering willen aanvragen wordt afgeschaft.",
+      "summary": "Afschaffing zoekperiode bijstand jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zoekperiode",
+        "bijstand",
+        "jongeren",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 47",
+      "originalQuote": "We schaffen de zoekperiode van vier weken af die nu nog geldt voor jongeren die in aanmerking willen komen voor een bijstandsuitkering, zodat we jongeren snel helpen wanneer ze aankloppen voor bijstand."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-110",
+      "text": "Bellen met schuldhulpverlening wordt gratis gemaakt om drempels voor hulp zoveel mogelijk weg te nemen.",
+      "summary": "Gratis bellen naar schuldhulpverlening",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schuldhulp",
+        "bellen",
+        "gratis",
+        "drempels"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 48",
+      "originalQuote": "Bellen met schuldhulpverlening wordt gratis."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-111",
+      "text": "Het jongerenperspectieffonds wordt uitgebreid waarbij schulden van jongeren worden opgekocht om hen een tweede kans te geven.",
+      "summary": "Uitbreiding jongerenperspectieffonds",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jongerenperspectieffonds",
+        "schulden",
+        "uitbreiding",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 48",
+      "originalQuote": "Het jongerenperspectieffonds, waarbij schulden van jongeren worden opgekocht om hen een tweede kans te geven, wordt uitgebreid."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-112",
+      "text": "De gemeente experimenteert met een financiële praktijkondersteuner bij de huisarts die één keer per week beschikbaar is.",
+      "summary": "Experiment financiële ondersteuner bij huisarts",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "praktijkondersteuner",
+        "huisarts",
+        "financieel",
+        "experiment"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 49",
+      "originalQuote": "De gemeente Den Haag experimenteert met een financiële praktijkondersteuner bij de huisarts die één keer per week in de huisartsenpraktijk te vinden is."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-113",
+      "text": "In elk stadsdeel komt weer een balie waar inwoners terecht kunnen voor vragen, aanvragen en ophalen van documenten.",
+      "summary": "Balie in elk stadsdeel voor loketten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsdeel",
+        "balie",
+        "loket",
+        "documenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 51",
+      "originalQuote": "In elk stadsdeel komt weer een balie waar je terecht kunt voor je vragen of het aanvragen en ophalen van documenten."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-114",
+      "text": "Elke gemeentelijke afdeling reserveert een klein deel van het budget als regelvrij budget voor mensen die tussen wal en schip belanden.",
+      "summary": "Regelvrij budget per afdeling voor maatwerk",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "regelvrij",
+        "maatwerk",
+        "afdeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 51",
+      "originalQuote": "Elke gemeentelijke afdeling reserveert een klein deel van het budget voor mensen die tussen wal en schip belanden. Dit regelvrije budget kan worden ingezet in schrijnende gevallen waar de regels niet in een oplossing voorzien."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-115",
+      "text": "Onder elke brief van de gemeente komt een naam en telefoonnummer van de persoon die kan helpen bij vragen.",
+      "summary": "Naam en telefoonnummer onder elke gemeentebrief",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "brief",
+        "naam",
+        "telefoonnummer",
+        "contact"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 51",
+      "originalQuote": "Daarom komt onder elke brief een naam en telefoonnummer van de persoon die je kan helpen bij vragen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-116",
+      "text": "Het KlantContactCentrum en Klantenservice SZW krijgen een nieuwe naam waarbij wordt gestopt met spreken over klanten en hulpvragers.",
+      "summary": "Naamswijziging klantcontactcentrum en klantenservice",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klantcontactcentrum",
+        "naamswijziging",
+        "burger",
+        "klant"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 51",
+      "originalQuote": "Daarom krijgen het KlantContactCentrum en de Klantenservice SZW een nieuwe naam. Ook intern stappen we af van het spreken over klanten of hulpvragers."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-117",
+      "text": "Eenvoudige taal op maximaal B1-niveau wordt de norm in brieven en op de website, aangevuld met beeldbrieven met pictogrammen en QR-codes.",
+      "summary": "B1-niveau Nederlandse taal en beeldbrieven",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eenvoudige taal",
+        "b1-niveau",
+        "beeldbrieven",
+        "pictogrammen",
+        "qr-codes"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 51",
+      "originalQuote": "Daarom wordt eenvoudige taal, op maximaal B1-niveau, in brieven en op de website de nieuwe norm. Daarnaast worden beeldbrieven ingezet, waarbij pictogrammen en QR-codes met een link naar een filmpje worden ingezet."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-118",
+      "text": "Iedere wethouder organiseert elk jaar een schrapsessie van overbodige regels waarbij mensen die ermee te maken hebben worden uitgenodigd.",
+      "summary": "Jaarlijkse schrapsessies overbodige regels per wethouder",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schrapsessie",
+        "regels",
+        "wethouder",
+        "jaarlijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 51",
+      "originalQuote": "Iedere wethouder organiseert elk jaar een schrapsessie van overbodige regels op diens beleidsterrein. Daarbij worden mensen die in de praktijk met de regels te maken hebben, uitgenodigd."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-119",
+      "text": "Er komt een integraal afwegingskader voor nieuw beleid en nieuwe regels, waarin verschillende toetsen worden samengevoegd. Regels houden zo beter rekening met het algemeen belang.",
+      "summary": "Integraal afwegingskader voor nieuw beleid en regels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afwegingskader",
+        "beleid",
+        "regels",
+        "toetsen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 52",
+      "originalQuote": "De verschillende toetsen voor nieuw beleid worden samengevoegd tot één integraal afwegingskader voor nieuw beleid en nieuwe regels. Regels houden zo beter rekening met het algemeen belang."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-120",
+      "text": "De Ombudsman en Jeugdombudsman krijgen mogelijk de bevoegdheid om bindende adviezen te geven aan de gemeente en maatregelen op te leggen als de gemeente geen gehoor geeft. Ook worden ze beter bereikbaar gemaakt voor burgers.",
+      "summary": "Versterken bevoegdheden Ombudsman met bindende adviezen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ombudsman",
+        "jeugdombudsman",
+        "bindende",
+        "adviezen",
+        "bevoegdheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 52",
+      "originalQuote": "We verkennen de mogelijkheid om hen een bevoegdheid te geven bindende adviezen te geven aan de gemeente en de mogelijkheid om maatregelen op te leggen als de gemeente geen gehoor geeft. Daarnaast zorgen we ervoor dat ze goed en makkelijk te bereiken zijn voor burgers."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-121",
+      "text": "Het right to challenge (uitdaagrecht) wordt verder uitgebreid in Den Haag. De gemeente gaat op meer onderwerpen burgers de kans geven met een initiatief te komen en stelt duidelijkere regels op.",
+      "summary": "Uitbreiding right to challenge voor burgerinitiatieven",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "right to challenge",
+        "uitdaagrecht",
+        "burgerinitiatieven",
+        "regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 52",
+      "originalQuote": "We breiden het right to challenge, ook wel het uitdaagrecht genoemd, verder uit in Den Haag. De gemeente gaat op meer onderwerpen burgers de kans geven met een initiatief te komen en stelt duidelijkere regels op."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-122",
+      "text": "Er komt een jongerenraad die gevraagd en ongevraagd advies geeft over het beleid aan het stadsbestuur en de gemeenteraad. Bij nieuwe plannen wordt door een generatiecheck ook de gevolgen voor jongeren getoetst.",
+      "summary": "Jongerenraad voor advies aan stadsbestuur en generatiecheck",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jongerenraad",
+        "advies",
+        "stadsbestuur",
+        "generatiecheck"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 52",
+      "originalQuote": "Er komt een jongerenraad die gevraagd en ongevraagd advies geeft over het beleid aan het stadsbestuur en de gemeenteraad. Bij nieuwe plannen van de gemeente worden door een generatiecheck ook de gevolgen voor jongeren getoetst."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-123",
+      "text": "Omgevingsplannen en andere gemeenteplannen worden kosteloos fysiek inzichtelijk gemaakt op een relevante plek, bijvoorbeeld in een buurthuis.",
+      "summary": "Kosteloos fysiek inzien van gemeenteplannen in buurthuizen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "omgevingsplannen",
+        "gemeenteplannen",
+        "fysiek",
+        "inzichtelijk",
+        "buurthuis"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 52",
+      "originalQuote": "Omgevingsplannen en andere gemeenteplannen worden kosteloos fysiek inzichtelijk gemaakt op een relevante plek, bijvoorbeeld in een buurthuis."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-124",
+      "text": "Er komt een wethouder die digitale vraagstukken als portefeuille krijgt, waaronder privacy. Zo wordt er meer aandacht besteed aan dit onderwerp binnen college en raad.",
+      "summary": "Wethouder voor digitale vraagstukken en privacy",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "digitale vraagstukken",
+        "privacy",
+        "portefeuille"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 53",
+      "originalQuote": "Er komt een wethouder die digitale vraagstukken als portefeuille krijgt, waaronder privacy. Zo wordt er meer aandacht besteed aan dit onderwerp binnen college en raad."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-125",
+      "text": "Het aantal fractievertegenwoordigers wordt uitgebreid zodat kleinere fracties hun controlerende taak nog beter kunnen uitvoeren.",
+      "summary": "Uitbreiding fractievertegenwoordigers voor kleinere fracties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fractievertegenwoordigers",
+        "kleinere fracties",
+        "controlerende taak"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 54",
+      "originalQuote": "We breiden het aantal fractievertegenwoordigers uit zodat kleinere fracties hun controlerende taak nog beter kunnen uitvoeren."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-126",
+      "text": "Er komt een passende verhoging van het Rekenkamerbudget. Het budget voor politieke fracties blijft in stand om zelf onderzoek te laten uitvoeren.",
+      "summary": "Verhoging Rekenkamerbudget en behoud fractiebudget",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rekenkamer",
+        "budget",
+        "verhoging",
+        "fracties",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 54",
+      "originalQuote": "Er komt een passende verhoging van het Rekenkamerbudget. Daarnaast blijft het budget voor politieke fracties in stand om zelf onderzoek te laten uitvoeren."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-127",
+      "text": "Er komt een onafhankelijk fonds voor Haagse onderzoeksjournalistiek om lokale onderzoeksjournalisten te ondersteunen.",
+      "summary": "Onafhankelijk fonds voor lokale onderzoeksjournalistiek",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fonds",
+        "onderzoeksjournalistiek",
+        "journalisten",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 54",
+      "originalQuote": "Daarom wil de ChristenUnie/SGP lokale onderzoeksjournalisten ondersteunen met een onafhankelijk fonds voor Haagse onderzoeksjournalistiek."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-128",
+      "text": "Het stadsdeelkantoor op Scheveningen wordt voor een aantal uur per week heropend voor publiekszaken. Zo kan iedereen in de buurt bijvoorbeeld een paspoort aanvragen en ophalen.",
+      "summary": "Heropening stadsdeelkantoor Scheveningen voor publiekszaken",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsdeelkantoor",
+        "scheveningen",
+        "heropend",
+        "publiekszaken",
+        "paspoort"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 56",
+      "originalQuote": "Het stadsdeelkantoor op Scheveningen wordt voor een aantal uur per week heropend voor publiekszaken. Zo kan iedereen in de buurt bijvoorbeeld een paspoort aanvragen en ophalen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-129",
+      "text": "Er komen geen nieuwe woningen, hotels, casino's of Popmuseum in de Scheveningse haven. Na afbraak van het Zuiderstrandtheater komt er havengebonden bedrijfsruimte.",
+      "summary": "Geen nieuwe woningen in haven, bedrijfsruimte na Zuiderstrandtheater",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scheveningse haven",
+        "woningen",
+        "zuiderstrandtheater",
+        "bedrijfsruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 55",
+      "originalQuote": "De haven is een haven en moet dat blijven. Daarom komen er geen nieuwe woningen meer bij en ook geen hotels, casino's of een Popmuseum. Nu het Zuiderstrandtheater wordt afgebroken, komt er ruimte vrij in de haven. Deze ruimte wordt benut voor havengebonden bedrijfsruimte, er komt geen woningbouw."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-130",
+      "text": "Er komt geen tram over de Westduinweg. In plaats daarvan wordt er geïnvesteerd in een hoogwaardige busverbinding naar het Norfolkterrein.",
+      "summary": "Geen tram Westduinweg, wel hoogwaardige bus naar Norfolkterrein",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "westduinweg",
+        "tram",
+        "busverbinding",
+        "norfolkterrein"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 56",
+      "originalQuote": "Er komt geen tram over de Westduinweg. In plaats daarvan wordt er geïnvesteerd in een hoogwaardige busverbinding naar het Norfolkterrein."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-131",
+      "text": "De bibliotheek in Moerwijk wordt permanent en biedt naast boeken ook huiswerkbegeleiding en taallessen aan.",
+      "summary": "Permanente bibliotheek Moerwijk met huiswerkbegeleiding en taallessen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheek",
+        "moerwijk",
+        "permanent",
+        "huiswerkbegeleiding",
+        "taallessen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 59",
+      "originalQuote": "De bibliotheek in Moerwijk wordt permanent en biedt naast boeken ook huiswerkbegeleiding en taallessen aan."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-132",
+      "text": "Er komt een vaste dag voor het ophalen van grofvuil. Inwoners kunnen hun vuil dan neerzetten op een daarvoor aangewezen plek.",
+      "summary": "Vaste dag voor grofvuilophaling op aangewezen plek",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grofvuil",
+        "ophaaldag",
+        "vaste dag",
+        "aangewezen plek"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 59",
+      "originalQuote": "Er komt een vaste dag voor het ophalen van grofvuil. Inwoners kunnen hun vuil dan neerzetten op een daarvoor aangewezen plek."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-133",
+      "text": "Tramlijn 3 krijgt bij de Heliotrooplaan een aftakking naar Kijkduin.",
+      "summary": "Aftakking tramlijn 3 naar Kijkduin bij Heliotrooplaan",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramlijn",
+        "heliotrooplaan",
+        "aftakking",
+        "kijkduin"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 61",
+      "originalQuote": "Lijn 3 naar Kijkduin. Deze tramlijn krijgt bij de Heliotrooplaan een aftakking naar Kijkduin."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-134",
+      "text": "Er komen geen nieuwe permanente strandtenten bij op de bestaande locaties en er komen geen strandtenten met een permanente vergunning op het Zuiderstrand.",
+      "summary": "Geen nieuwe permanente strandtenten op Zuiderstrand",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strandtenten",
+        "permanente vergunning",
+        "zuiderstrand"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 62",
+      "originalQuote": "Wat de ChristenUnie/SGP betreft zijn dit er al te veel en komen er zeker geen nieuwe bij. Er komen geen strandtenten met een permanente vergunning op het Zuiderstrand."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-135",
+      "text": "De P&R Uithof wordt aangesloten op Kijkduin om de toegenomen parkeerdruk in omliggende wijken door de vernieuwing van Kijkduin op te lossen.",
+      "summary": "P&R Uithof wordt aangesloten op Kijkduin",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "p&r uithof",
+        "aansluiting",
+        "kijkduin",
+        "parkeerdruk"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 62",
+      "originalQuote": "De P&R Uithof wordt aangesloten op Kijkduin."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-136",
+      "text": "De tramhalte Madurodam wordt een tophalte, van waaruit alle delen van Scheveningen bereikbaar worden.",
+      "summary": "Tramhalte Madurodam wordt tophalte voor heel Scheveningen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tramhalte",
+        "madurodam",
+        "tophalte",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 62",
+      "originalQuote": "De tramhalte Madurodam wordt een tophalte, van waaruit alle delen van Scheveningen bereikbaar worden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-137",
+      "text": "Er komen snelheidsbeperkende maatregelen en zebrapaden op de Benoordenhoutseweg en Van Alkemadelaan om deze veiliger te maken voor fietsers en wandelaars.",
+      "summary": "Snelheidsmaatregelen en zebrapaden op Benoordenhoutseweg en Van Alkemadelaan",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "snelheidsbeperkende maatregelen",
+        "zebrapaden",
+        "benoordenhoutseweg",
+        "van alkemadelaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 62",
+      "originalQuote": "Er komen snelheidsbeperkende maatregelen en zebrapaden."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-138",
+      "text": "De Eisenhowerlaan wordt fietsvriendelijker gemaakt door het fietspad te verbreden of de auto te gast te laten zijn. Op de Statenlaan komt een flitspaal en worden oversteekplaatsen heringericht.",
+      "summary": "Fietsvriendelijkere Eisenhowerlaan en veiligere Statenlaan met flitspaal",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eisenhowerlaan",
+        "fietspad",
+        "statenlaan",
+        "flitspaal",
+        "oversteekplaatsen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 63",
+      "originalQuote": "De Eisenhowerlaan wordt fietsvriendelijker gemaakt. Dit kan door het fietspad te verbreden of de auto te gast te laten zijn in deze straat. Ook de verkeersveiligheid op de Statenlaan behoeft verbetering. Er komt een flitspaal en oversteekplaatsen worden heringericht."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-139",
+      "text": "Er komt een uitsterfbeleid van coffeeshops: er komen geen nieuwe coffeeshops meer bij, ook niet als een coffeeshopeigenaar stopt.",
+      "summary": "Uitsterfbeleid coffeeshops - geen nieuwe vestigingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitsterfbeleid",
+        "coffeeshops",
+        "nieuwe vestigingen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 63",
+      "originalQuote": "De ChristenUnie/SGP is daarom voor een uitsterfbeleid van coffeeshops. Er komen geen nieuwe coffeeshops meer bij, ook niet als een coffeeshops eigenaar stopt."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-140",
+      "text": "Er wordt geëxperimenteerd met mobiel cameratoezicht rondom coffeeshops waar veel overlast wordt gemeld en er komt een blowverbod in de openbare ruimte.",
+      "summary": "Mobiel cameratoezicht bij coffeeshops en blowverbod openbare ruimte",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mobiel cameratoezicht",
+        "coffeeshops",
+        "blowverbod",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 63",
+      "originalQuote": "Er wordt geëxperimenteerd met mobiel cameratoezicht rondom coffeeshops waar veel overlast wordt gemeld. Daarnaast komt er een blowverbod in de openbare ruimte."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-141",
+      "text": "Er wordt een geluidsflitspaal geplaatst op de Waldeck Pyrmontkade/Koningin Emmakade en de Statenlaan zodra dit juridisch mogelijk is.",
+      "summary": "Geluidsflitspaal op Waldeck Pyrmontkade en Statenlaan tegen ronkende motoren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geluidsflitspaal",
+        "waldeck pyrmontkade",
+        "koningin emmakade",
+        "statenlaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 63",
+      "originalQuote": "Er wordt, zodra dit juridisch mogelijk is, een geluidsflitspaal geplaatst op de Waldeck Pyrmontkade/Koningin Emmakade en de Statenlaan."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-142",
+      "text": "Er komen meer doorstroommakelaars die senioren kunnen helpen bij het zoeken van een passende woning in de eigen buurt en meer seniorenwoningen in de wijk.",
+      "summary": "Meer doorstroommakelaars en seniorenwoningen voor ouderen in eigen wijk",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doorstroommakelaars",
+        "senioren",
+        "seniorenwoningen",
+        "doorstroming"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 63",
+      "originalQuote": "Daarom komen er meer doorstroommakelaars, die senioren kunnen helpen bij het zoeken van een passende woning in de eigen buurt. Ook komen er meer seniorenwoningen in de wijk."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-143",
+      "text": "Branches waar ondermijning bovengemiddeld vaak voorkomt, zoals massagesalons en belwinkels, worden verplicht om een vergunning aan te vragen voor ze hun onderneming mogen starten.",
+      "summary": "Vergunningsplicht voor massagesalons en belwinkels tegen ondermijning",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsplicht",
+        "massagesalons",
+        "belwinkels",
+        "ondermijning"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 64",
+      "originalQuote": "Branches waar ondermijning bovengemiddeld vaak voorkomt, zoals massagesalons en belwinkels, worden verplicht om een vergunning aan te vragen voor ze hun onderneming mogen starten."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-144",
+      "text": "Er komt meer geld voor de aanpak van overbewoning en er worden vaker integrale handhavingsacties gehouden om overbewoning en overlast aan te pakken.",
+      "summary": "Meer geld en handhavingsacties tegen overbewoning",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "overbewoning",
+        "integrale handhavingsacties",
+        "pandbrigade"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 64",
+      "originalQuote": "Er komt meer geld voor de aanpak van overbewoning. Daarnaast worden er vaker integrale handhavingsacties gehouden om overbewoning en overlast aan te pakken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-145",
+      "text": "De maximumsnelheid op de Mient wordt 30 km/h en bewoners worden goed betrokken bij besluiten over de bomenkap op de Mient.",
+      "summary": "Maximumsnelheid 30 km/h op de Mient en betrokkenheid bij bomenkap",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "mient",
+        "30 km/h",
+        "bomenkap",
+        "bewoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 64",
+      "originalQuote": "De maximumsnelheid op de Mient wordt 30 km/h. Bewoners worden goed betrokken bij besluiten over de bomenkap op de Mient."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-146",
+      "text": "De beslissing van HTM om de tramhalte Nieuwendamlaan tijdelijk op te heffen wordt teruggedraaid.",
+      "summary": "Tramhalte Nieuwendamlaan wordt heropend",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramhalte",
+        "nieuwendamlaan",
+        "heropening",
+        "htm"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 65",
+      "originalQuote": "De beslissing van HTM om de tramhalte Nieuwendamlaan tijdelijk op te heffen wordt teruggedraaid."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-147",
+      "text": "Mariahoeve krijgt een volwaardige bibliotheek waar naast boeken lenen ook andere activiteiten worden georganiseerd voor de wijk.",
+      "summary": "Volwaardige bibliotheek voor Mariahoeve",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bibliotheek",
+        "mariahoeve",
+        "activiteiten",
+        "wijkvoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 65",
+      "originalQuote": "Mariahoeve krijgt een volwaardige bibliotheek waar naast boeken lenen ook andere activiteiten worden georganiseerd voor de wijk."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-148",
+      "text": "Er wordt geïnvesteerd in een ontmoetingsplek voor jong én oud in Mariahoeve om de sociale cohesie in de buurt te versterken.",
+      "summary": "Ontmoetingsplek voor alle leeftijden in Mariahoeve",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontmoetingsplek",
+        "mariahoeve",
+        "sociale cohesie",
+        "intergenerationeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 65",
+      "originalQuote": "Er wordt geïnvesteerd in een ontmoetingsplek voor jong én oud in Mariahoeve om de sociale cohesie in de buurt te versterken."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-149",
+      "text": "Er wordt vaart gemaakt met een oorlogsmonument in Bezuidenhout om de geschiedenis van de Tweede Wereldoorlog passend te herdenken.",
+      "summary": "Oorlogsmonument voor Bezuidenhout wordt gerealiseerd",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "oorlogsmonument",
+        "bezuidenhout",
+        "tweede wereldoorlog",
+        "herdenking"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 65",
+      "originalQuote": "Daarom wordt er vaart gemaakt met een oorlogsmonument in Bezuidenhout."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-150",
+      "text": "Er komt een zwembad in Laak, zodat ook de inwoners van dit stadsdeel in de buurt kunnen zwemmen.",
+      "summary": "Nieuw zwembad voor stadsdeel Laak",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwembad",
+        "laak",
+        "sportvoorziening",
+        "stadsdeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 66",
+      "originalQuote": "Daarom komt er een zwembad in Laak, zodat ook de inwoners van dit stadsdeel in de buurt kunnen zwemmen."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-151",
+      "text": "Molenwijk en de Binckhorst worden met elkaar verbonden door middel van een brug om de afstand tussen deze twee wijken letterlijk en figuurlijk kleiner te maken.",
+      "summary": "Nieuwe brug tussen Molenwijk en Binckhorst",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "brug",
+        "molenwijk",
+        "binckhorst",
+        "verbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 66",
+      "originalQuote": "Molenwijk en de Binckhorst worden met elkaar verbonden door middel van een brug."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-152",
+      "text": "Elke wijk krijgt weer een bibliotheek. In Spoorwijk wordt als eerste een nieuwe bibliotheek gerealiseerd.",
+      "summary": "Bibliotheek in elke wijk, te beginnen met Spoorwijk",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bibliotheek",
+        "spoorwijk",
+        "wijkbibliotheek",
+        "voorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 67",
+      "originalQuote": "Elke wijk krijgt weer een bibliotheek. In Spoorwijk wordt als eerste een nieuwe bibliotheek gerealiseerd."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-153",
+      "text": "Er komen venstertijden voor het laden en lossen aan de Hoefkade om onveilige situaties met grote vrachtwagens gedurende de dag te voorkomen.",
+      "summary": "Venstertijden voor laden en lossen op Hoefkade",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "venstertijden",
+        "laden",
+        "lossen",
+        "hoefkade",
+        "vrachtwagens"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 67",
+      "originalQuote": "Er komen venstertijden voor het laden en lossen aan de Hoefkade."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-154",
+      "text": "Tijdens de openingstijden van winkels zijn er geen fietsers toegestaan in de Grote Marktstraat. Er komt een alternatieve fietsroute via de Gedempte Gracht en Gedempte Burgwal.",
+      "summary": "Fietsverbod Grote Marktstraat tijdens winkeltijden met alternatieve route",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietsverbod",
+        "grote marktstraat",
+        "alternatieve route",
+        "gedempte gracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 68",
+      "originalQuote": "Tijdens de openingstijden van winkels zijn er geen fietsers toegestaan in de Grote Marktstraat. Er komt een goede alternatieve fietsroute via de Gedempte Gracht en Gedempte Burgwal."
+    },
+    {
+      "promiseCode": "ChristenUnie-SGP-DH-2022-155",
+      "text": "Het Westeinde wordt na het ziekenhuis verkeersluw gemaakt om de veiligheid voor fietsers en voetgangers te verbeteren.",
+      "summary": "Westeinde wordt verkeersluw na ziekenhuis",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "westeinde",
+        "verkeersluw",
+        "fietsveiligheid",
+        "voetgangers"
+      ],
+      "sourceRef": "Verkiezingsprogramma ChristenUnie-SGP den-haag 2022, p. 68",
+      "originalQuote": "Het Westeinde wordt na het ziekenhuis verkeersluw."
+    }
+  ]
+}

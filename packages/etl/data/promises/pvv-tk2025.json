@@ -1,0 +1,2706 @@
+{
+  "party": "PVV",
+  "partySlug": "pvv",
+  "program": "Dit is uw land!",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-17",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88766/",
+  "pdfHash": "18c5aaf35d8030915dfdf9ae36a9d7a1a413312eb2eda7990cccd833afad992d",
+  "totalPromises": 180,
+  "promises": [
+    {
+      "promiseCode": "PVV-2025-001",
+      "text": "De PVV voert onmiddellijk een azc-stop in en gaat bestaande azc's sluiten.",
+      "summary": "Azc-stop invoeren en azc's sluiten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "azc",
+        "stop",
+        "sluiting",
+        "asielcentra"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 3",
+      "originalQuote": "De PVV zet de Nederlanders wél op 1. Wij voeren onmiddellijk een azc-stop in, gaan azc's sluiten"
+    },
+    {
+      "promiseCode": "PVV-2025-002",
+      "text": "Asielzoekers worden aan de grens teruggestuurd.",
+      "summary": "Asielzoekers terugsturen aan grens",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielzoekers",
+        "grens",
+        "terugsturen",
+        "grenscontrole"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 3",
+      "originalQuote": "asielzoekers aan de grens terugsturen"
+    },
+    {
+      "promiseCode": "PVV-2025-003",
+      "text": "Criminele vreemdelingen worden uitgezet.",
+      "summary": "Uitzetting criminele vreemdelingen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "criminele",
+        "vreemdelingen",
+        "uitzetting",
+        "criminaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 3",
+      "originalQuote": "criminele vreemdelingen uitzetten"
+    },
+    {
+      "promiseCode": "PVV-2025-004",
+      "text": "De PVV zal het toenemend antisemitisme in Nederland met kracht bestrijden.",
+      "summary": "Bestrijding antisemitisme",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "antisemitisme",
+        "bestrijding",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 3",
+      "originalQuote": "De PVV zal het toenemend antisemitisme in Nederland met kracht bestrijden."
+    },
+    {
+      "promiseCode": "PVV-2025-005",
+      "text": "Nederland voert een totale asielstop in voor de komende vier jaar. De PVV beroept zich op artikel 72 VWEU om met onmiddellijke ingang asielzoekers aan de grenzen te weigeren.",
+      "summary": "Totale asielstop voor vier jaar, asielzoekers worden aan de grens geweigerd",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielstop",
+        "artikel 72 vweu",
+        "grenzen",
+        "asielzoekers",
+        "vier jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 6",
+      "originalQuote": "Nederland gaat op slot voor asielzoekers – om te beginnen voor de komende vier jaar. [...] wij beroepen ons op artikel 72 VWEU en gaan, net als Duitsland, met onmiddellijke ingang asielzoekers aan onze grenzen weigeren."
+    },
+    {
+      "promiseCode": "PVV-2025-006",
+      "text": "Het leger wordt ingezet voor grensbewaking met gebruik van camera's en drones om de asielinstroom te stoppen.",
+      "summary": "Leger inzetten voor grensbewaking met camera's en drones",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leger",
+        "grensbewaking",
+        "camera's",
+        "drones",
+        "asielinstroom"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 6",
+      "originalQuote": "We zetten het leger in voor grensbewaking met gebruik van camera's en drones."
+    },
+    {
+      "promiseCode": "PVV-2025-007",
+      "text": "Gezinshereniging wordt gestopt op grond van artikel 72 VWEU, naar het voorbeeld van Oostenrijk.",
+      "summary": "Stoppen van gezinshereniging via artikel 72 VWEU",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezinshereniging",
+        "artikel 72 vweu",
+        "stoppen",
+        "asielzoekers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 6",
+      "originalQuote": "Daarom gaan we op grond van artikel 72 VWEU, net als Oostenrijk, ook gezinshereniging stoppen."
+    },
+    {
+      "promiseCode": "PVV-2025-008",
+      "text": "Er komt een noodwet met een asielbehandelstop en het verbod voor asielzoekers om tegen afgewezen asielaanvragen te procederen.",
+      "summary": "Noodwet met asielbehandelstop en verbod op procederen tegen afwijzing",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noodwet",
+        "asielbehandelstop",
+        "asielaanvraag",
+        "procederen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "Tegelijkertijd komen we met een noodwet. Daarin regelen we een asielbehandelstop. Ook leggen we vast dat asielzoekers niet meer tegen een afgewezen asielaanvraag kunnen procederen."
+    },
+    {
+      "promiseCode": "PVV-2025-009",
+      "text": "Door veto's of weigering van Nederlandse EU-bijdrage wordt een opt-out op asiel en immigratie afgedwongen.",
+      "summary": "Opt-out asiel en immigratie afdwingen via veto's of weigeren EU-bijdrage",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veto",
+        "eu-bijdrage",
+        "opt-out",
+        "asiel",
+        "immigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "In Brussel zullen we door het inzetten van veto's of het weigeren van de te hoge Nederlandse bijdrage aan de EU-begroting een opt-out op asiel en immigratie afdwingen."
+    },
+    {
+      "promiseCode": "PVV-2025-010",
+      "text": "Het VN-Vluchtelingenverdrag, Europees Verdrag voor de Rechten van de Mens en Europees Verdrag inzake Nationaliteit worden opgezegd.",
+      "summary": "Opzegging VN-Vluchtelingenverdrag, EVRM en Europees Nationaliteitsverdrag",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vn-vluchtelingenverdrag",
+        "evrm",
+        "nationaliteitsverdrag",
+        "opzeggen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "Ook gaan we alle verdragen die ons dwarsbomen – zoals het VN-Vluchtelingenverdrag, het Europees Verdrag voor de Rechten van de Mens en het Europees Verdrag inzake Nationaliteit – opzeggen."
+    },
+    {
+      "promiseCode": "PVV-2025-011",
+      "text": "De Spreidingswet wordt ingetrokken en azc's die sinds de inwerkingtreding zijn geopend worden gesloten.",
+      "summary": "Intrekking Spreidingswet en sluiting nieuwe azc's",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spreidingswet",
+        "azc",
+        "sluiting",
+        "intrekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "De Spreidingswet wordt meteen ingetrokken. Azc's die sinds de inwerkingtreding van de Spreidingswet zijn geopend, worden gesloten."
+    },
+    {
+      "promiseCode": "PVV-2025-012",
+      "text": "Asielzoekers die overlast veroorzaken of crimineel zijn worden direct uit de asielprocedure gezet en uitgezet.",
+      "summary": "Directe uitzetting criminele/overlastgevende asielzoekers",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "overlast",
+        "crimineel",
+        "uitzetting",
+        "asielprocedure"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "Asielzoekers die overlast veroorzaken of crimineel zijn, worden direct uit de asielprocedure gezet en gaan het land uit."
+    },
+    {
+      "promiseCode": "PVV-2025-013",
+      "text": "Vreemdelingen worden na veroordeling voor één misdrijf direct uitgezet na het uitzitten van de straf en intrekking van verblijfsstatus.",
+      "summary": "Uitzetting vreemdelingen na één misdrijf",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vreemdelingen",
+        "misdrijf",
+        "uitzetting",
+        "verblijfsstatus",
+        "intrekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "Vreemdelingen (waaronder statushouders) worden na veroordeling voor één misdrijf – na het uitzitten van de straf en intrekking van de verblijfsstatus – direct uitgezet."
+    },
+    {
+      "promiseCode": "PVV-2025-014",
+      "text": "De tijdelijke verblijfsvergunningen van de 70.000 Syriërs in Nederland worden ingetrokken en zij moeten terugkeren.",
+      "summary": "Intrekking verblijfsvergunningen 70.000 Syriërs",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "syriërs",
+        "verblijfsvergunning",
+        "intrekking",
+        "terugkeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 7",
+      "originalQuote": "De tijdelijke verblijfsvergunningen van de 70.000 Syriërs in Nederland worden ingetrokken."
+    },
+    {
+      "promiseCode": "PVV-2025-015",
+      "text": "Er wordt een uitzondering gemaakt op de EU Richtlijn tijdelijke bescherming om volwassen mannelijke Oekraïense ontheemden terug te sturen naar Oekraïne.",
+      "summary": "Volwassen mannelijke Oekraïense ontheemden terugsturen naar Oekraïne",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oekraïense",
+        "ontheemden",
+        "mannen",
+        "terugkeer",
+        "eu-richtlijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "Daarom gaan we een uitzondering maken op de Richtlijn tijdelijke bescherming van de EU, waardoor we volwassen mannelijke Oekraïense ontheemden kunnen terugsturen."
+    },
+    {
+      "promiseCode": "PVV-2025-016",
+      "text": "De Vreemdelingenpolitie wordt uitgebreid met 500 agenten.",
+      "summary": "Uitbreiding Vreemdelingenpolitie met 500 agenten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vreemdelingenpolitie",
+        "uitbreiding",
+        "agenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "We gaan de Vreemdelingenpolitie uitbreiden met 500 agenten."
+    },
+    {
+      "promiseCode": "PVV-2025-017",
+      "text": "Alle mogelijke uitzonderingsgronden voor het behouden van een dubbele nationaliteit worden geschrapt.",
+      "summary": "Afschaffing uitzonderingsgronden dubbele nationaliteit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dubbele",
+        "nationaliteit",
+        "uitzonderingsgronden",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "Daarom schrappen we alle mogelijke uitzonderingsgronden voor het behouden van een dubbele nationaliteit."
+    },
+    {
+      "promiseCode": "PVV-2025-018",
+      "text": "Er wordt een vrijwillige remigratieregeling ingesteld waarbij mensen een vliegticket, bagagehulp en administratieve afhandeling krijgen in ruil voor afstand van het Nederlanderschap.",
+      "summary": "Invoering vrijwillige remigratieregeling met vliegticket",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "remigratie",
+        "vliegticket",
+        "nederlanderschap",
+        "vrijwillig"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "De PVV stelt een vrijwillige remigratieregeling in. Wie dit land wil verlaten, krijgt die kans. Geen vertrekpremie, geen beloning, geen douceurtje – maar een vliegticket (enkele reis), bagagehulp en snelle administratieve afhandeling."
+    },
+    {
+      "promiseCode": "PVV-2025-019",
+      "text": "Er wordt een totale asielstop ingevoerd waarbij alle asielzoekers aan de grens worden geweigerd onder artikel 72 VWEU.",
+      "summary": "Totale asielstop met weigering aan de grens",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielstop",
+        "grens",
+        "asielzoekers",
+        "artikel 72"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "Totale asielstop: alle asielzoekers worden aan de grens geweigerd (artikel 72 VWEU)"
+    },
+    {
+      "promiseCode": "PVV-2025-020",
+      "text": "Tussen de grensovergangen patrouilleren het leger met camera's en drones.",
+      "summary": "Legerpatrouilles met camera's en drones bij grenzen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leger",
+        "patrouilles",
+        "camera",
+        "drones",
+        "grens"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "Tussen de grensovergangen patrouilleert het leger met gebruikmaking van camera's en drones"
+    },
+    {
+      "promiseCode": "PVV-2025-021",
+      "text": "Het VN-Vluchtelingenverdrag, Europees Verdrag voor de Rechten van de Mens, Europees Verdrag inzake Nationaliteit en andere verdragen worden opgezegd.",
+      "summary": "Opzegging internationale verdragen over vluchtelingen en mensenrechten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vn-vluchtelingenverdrag",
+        "evrm",
+        "verdragen",
+        "opzeggen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "Opzeggen VN-Vluchtelingenverdrag, Europees Verdrag voor de Rechten van de Mens, Europees Verdrag inzake Nationaliteit en andere verdragen die ons dwarsbomen"
+    },
+    {
+      "promiseCode": "PVV-2025-022",
+      "text": "De Spreidingswet wordt onmiddellijk ingetrokken.",
+      "summary": "Onmiddellijke intrekking Spreidingswet",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spreidingswet",
+        "intrekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "Onmiddellijke intrekking Spreidingswet"
+    },
+    {
+      "promiseCode": "PVV-2025-023",
+      "text": "Alle gemeentelijke besluiten tot opening, verlenging of uitbreiding van azc's sinds de inwerkingtreding van de Spreidingswet worden per wet teruggedraaid.",
+      "summary": "Terugdraaien gemeentelijke azc-besluiten sinds Spreidingswet",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "azc",
+        "gemeentelijke",
+        "besluiten",
+        "spreidingswet",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 8",
+      "originalQuote": "alle gemeentelijke besluiten tot de opening, verlenging of uitbreiding van azc's sinds de inwerkingtreding van de Spreidingswet worden per wet teruggedraaid"
+    },
+    {
+      "promiseCode": "PVV-2025-024",
+      "text": "Vreemdelingen en statushouders worden na veroordeling voor één misdrijf direct uitgezet na het uitzitten van de straf en intrekking van de verblijfsstatus",
+      "summary": "Directe uitzetting na één misdrijf voor vreemdelingen en statushouders",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vreemdelingen",
+        "statushouders",
+        "misdrijf",
+        "uitzetting",
+        "verblijfsstatus"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Vreemdelingen (waaronder statushouders) worden na veroordeling voor één misdrijf – na het uitzitten van de straf en intrekking van de verblijfsstatus – direct uitgezet"
+    },
+    {
+      "promiseCode": "PVV-2025-025",
+      "text": "Mensen met dubbele nationaliteit die zijn veroordeeld voor één ernstig misdrijf worden gedenaturaliseerd en moeten Nederland verlaten na het uitzitten van de straf",
+      "summary": "Denaturalisatie en uitzetting bij één ernstig misdrijf voor dubbele nationaliteit",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dubbele nationaliteit",
+        "denaturalisatie",
+        "ernstig misdrijf",
+        "uitzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Mensen met een dubbele nationaliteit die zijn veroordeeld voor één ernstig misdrijf, worden na het uitzitten van de straf gedenaturaliseerd en moeten Nederland verlaten"
+    },
+    {
+      "promiseCode": "PVV-2025-026",
+      "text": "Statushouders krijgen geen voorrang meer op sociale huurwoningen, ook niet met urgentie",
+      "summary": "Afschaffing voorrang statushouders sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statushouders",
+        "sociale huurwoningen",
+        "voorrang",
+        "urgentie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Nooit meer voorrang op sociale huurwoningen voor statushouders – ook niet met urgentie"
+    },
+    {
+      "promiseCode": "PVV-2025-027",
+      "text": "500 extra agenten worden ingezet voor de Vreemdelingenpolitie",
+      "summary": "500 extra agenten voor Vreemdelingenpolitie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "agenten",
+        "vreemdelingenpolitie",
+        "illegalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "500 extra agenten voor de Vreemdelingenpolitie, alle illegalen eruit"
+    },
+    {
+      "promiseCode": "PVV-2025-028",
+      "text": "Dubbele nationaliteit wordt verboden door het schrappen van uitzonderingsgronden",
+      "summary": "Verbod dubbele nationaliteit door schrappen uitzonderingen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dubbele nationaliteit",
+        "verbod",
+        "uitzonderingsgronden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Verbod dubbele nationaliteit: schrappen uitzonderingsgronden"
+    },
+    {
+      "promiseCode": "PVV-2025-029",
+      "text": "Naturalisatie wordt pas mogelijk na 15 jaar legaal verblijf in plaats van de huidige termijn",
+      "summary": "Naturalisatie pas na 15 jaar legaal verblijf",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "legaal verblijf",
+        "termijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Naturalisatie pas na 15 jaar legaal verblijf"
+    },
+    {
+      "promiseCode": "PVV-2025-030",
+      "text": "Bijstand wordt niet meer verstrekt aan personen die geen Nederlands spreken",
+      "summary": "Geen bijstand zonder Nederlandse taalvaardigheid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "nederlands",
+        "taalvaardigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Geen bijstand voor wie geen Nederlands spreekt"
+    },
+    {
+      "promiseCode": "PVV-2025-031",
+      "text": "Subsidies voor Vluchtelingenwerk en andere NGO's in de asielindustrie worden stopgezet",
+      "summary": "Stoppen subsidies Vluchtelingenwerk en asiel-NGO's",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "vluchtelingenwerk",
+        "ngo",
+        "asielindustrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 9",
+      "originalQuote": "Subsidies voor Vluchtelingenwerk en andere ngo's in de asielindustrie worden stopgezet"
+    },
+    {
+      "promiseCode": "PVV-2025-032",
+      "text": "Er worden 10.000 extra agenten ingezet, met name in probleemwijken, om de veiligheid op straat te verbeteren.",
+      "summary": "10.000 extra agenten, vooral in probleemwijken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "agenten",
+        "politie",
+        "probleemwijken",
+        "veiligheid",
+        "personeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 11",
+      "originalQuote": "Er komt fors meer blauw op straat, met name in probleemwijken. Wij willen 10.000 extra agenten."
+    },
+    {
+      "promiseCode": "PVV-2025-033",
+      "text": "Voor zeden- en zware geweldsmisdrijven wordt het opportuniteitsbeginsel van het OM afgeschaft, zodat het OM altijd tot vervolging overgaat bij deze misdrijven.",
+      "summary": "Afschaffing opportuniteitsbeginsel OM voor zeden- en geweldsmisdrijven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opportuniteitsbeginsel",
+        "openbaar ministerie",
+        "zedenmisdrijven",
+        "geweldsmisdrijven",
+        "vervolging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 11",
+      "originalQuote": "Verder wil de PVV dat het OM altijd overgaat tot vervolging bij zeden- en zware geweldsmisdrijven. Daarom schaffen we voor deze misdrijven, net als Duitsland, het opportuniteitsbeginsel van het OM af."
+    },
+    {
+      "promiseCode": "PVV-2025-034",
+      "text": "Ordeverstorende demonstraties zoals het blokkeren van infrastructuur worden verboden. Klimaatactivisten die snelwegen blokkeren worden direct opgepakt en gestraft.",
+      "summary": "Verbod op ordeverstorende demonstraties en infrastructuurblokkades",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "demonstraties",
+        "infrastructuur",
+        "blokkades",
+        "klimaatactivisten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 11",
+      "originalQuote": "Ordeverstorende demonstraties, zoals het blokkeren van infrastructuur, worden verboden. Klimaatactivisten die de snelweg blokkeren, worden direct opgepakt, vastgezet en gestraft."
+    },
+    {
+      "promiseCode": "PVV-2025-035",
+      "text": "Burgemeesters die weigeren de openbare orde te handhaven worden door de minister van Binnenlandse Zaken oneervol ontslagen.",
+      "summary": "Oneervol ontslag burgemeesters die orde niet handhaven",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeesters",
+        "openbare orde",
+        "ontslag",
+        "minister",
+        "binnenlandse zaken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 11",
+      "originalQuote": "Burgemeesters die weigeren om de orde te handhaven, worden door de minister van Binnenlandse Zaken oneervol ontslagen."
+    },
+    {
+      "promiseCode": "PVV-2025-036",
+      "text": "Pepperspray wordt gelegaliseerd zodat burgers, met name vrouwen, zich kunnen verdedigen tegen misdrijven.",
+      "summary": "Legalisatie van pepperspray voor zelfverdediging",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pepperspray",
+        "legalisatie",
+        "zelfverdediging",
+        "vrouwen",
+        "wapenwet"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 11",
+      "originalQuote": "Verder wil de PVV pepperspray legaliseren. Het kan niet zo zijn dat bijna de helft van de vrouwen 's avonds met een sleutelbos in de hand als wapen over straat loopt, omdat ze bang zijn slachtoffer te worden van een misdrijf."
+    },
+    {
+      "promiseCode": "PVV-2025-037",
+      "text": "Levenslange gevangenisstraf wordt weer echt levenslang gemaakt, zonder mogelijkheid tot vervroegde vrijlating.",
+      "summary": "Levenslange gevangenisstraf wordt echt levenslang",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "levenslang",
+        "gevangenisstraf",
+        "vervroegde vrijlating"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Levenslange gevangenisstraf weer echt levenslang"
+    },
+    {
+      "promiseCode": "PVV-2025-038",
+      "text": "TBS wordt volledig afgeschaft als strafrechtelijke maatregel.",
+      "summary": "TBS wordt afgeschaft",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tbs",
+        "afschaffen",
+        "strafrechtelijke maatregel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Afschaffen TBS"
+    },
+    {
+      "promiseCode": "PVV-2025-039",
+      "text": "Vanaf 14 jaar wordt altijd volwassenstrafrecht toegepast bij zeden- en geweldsdelicten.",
+      "summary": "Volwassenstrafrecht vanaf 14 jaar bij geweld en zedendelicten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "volwassenstrafrecht",
+        "14 jaar",
+        "zedendelicten",
+        "geweldsdelicten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Vanaf 14 jaar altijd volwassenstrafrecht toepassen bij zeden- en geweldsdelicten"
+    },
+    {
+      "promiseCode": "PVV-2025-040",
+      "text": "10.000 extra politieagenten worden aangesteld die zichtbaar op straat werken, met name in probleemwijken.",
+      "summary": "10.000 extra politieagenten op straat",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politieagenten",
+        "10.000",
+        "extra",
+        "probleemwijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "10.000 extra politieagenten – zichtbaar op straat, met name in probleemwijken"
+    },
+    {
+      "promiseCode": "PVV-2025-041",
+      "text": "Verkoop en gebruik van pepperspray wordt gelegaliseerd vanaf 18 jaar.",
+      "summary": "Pepperspray legaliseren vanaf 18 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pepperspray",
+        "legaliseren",
+        "18 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Legaliseren verkoop en gebruik van pepperspray vanaf 18 jaar"
+    },
+    {
+      "promiseCode": "PVV-2025-042",
+      "text": "Verbod op gezichtsbedekkende kleding en gebruik van Arabisch en andere niet-westerse talen bij demonstraties.",
+      "summary": "Verbod gezichtsbedekkende kleding en niet-westerse talen bij demonstraties",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "gezichtsbedekkende kleding",
+        "arabisch",
+        "demonstraties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Verbod op gezichtsbedekkende kleding en gebruik van het Arabisch en andere niet-westerse talen bij demonstraties"
+    },
+    {
+      "promiseCode": "PVV-2025-043",
+      "text": "Gevangenen moeten een uniform dragen en minstens 40 uur per week arbeid verrichten.",
+      "summary": "Gevangenisuniform en 40 uur werk per week voor gevangenen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gevangenen",
+        "uniform",
+        "40 uur",
+        "arbeid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Gevangenen moeten een uniform dragen en minstens 40 uur per week arbeid verrichten"
+    },
+    {
+      "promiseCode": "PVV-2025-044",
+      "text": "Stapelbedden worden geplaatst in 6.000 cellen om meerpersoonscellen de norm te maken in het reguliere regime.",
+      "summary": "Stapelbedden in 6.000 cellen voor meerpersoonscellen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stapelbedden",
+        "6.000 cellen",
+        "meerpersoonscellen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Meerpersoonscellen in regulier regime wordt de norm: stapelbedden in 6.000 cellen"
+    },
+    {
+      "promiseCode": "PVV-2025-045",
+      "text": "Het beklagrecht van gedetineerden wordt afgeschaft.",
+      "summary": "Beklagrecht gedetineerden afschaffen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beklagrecht",
+        "gedetineerden",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Beklagrecht van gedetineerden afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2025-046",
+      "text": "Artikel 137c van het Wetboek van Strafrecht over groepsbelediging wordt afgeschaft.",
+      "summary": "Artikel 137c groepsbelediging afschaffen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel 137c",
+        "groepsbelediging",
+        "wetboek van strafrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 12",
+      "originalQuote": "Afschaffen strafbaarstelling \"Groepsbelediging\" (artikel 137c Wetboek van Strafrecht)"
+    },
+    {
+      "promiseCode": "PVV-2025-047",
+      "text": "De sociale huren worden volgend jaar verlaagd met 10%. Woningcorporaties worden gecompenseerd door voor hen de winstbelasting te schrappen.",
+      "summary": "Sociale huren verlagen met 10%, winstbelasting corporaties schrappen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huren",
+        "verlaging",
+        "woningcorporaties",
+        "winstbelasting",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 14",
+      "originalQuote": "De PVV verlaagt volgend jaar de sociale huren met 10%. Woningcorporaties worden gecompenseerd: door voor hen de winstbelasting te schrappen, komt de bouwopgave niet in gevaar."
+    },
+    {
+      "promiseCode": "PVV-2025-048",
+      "text": "De inkomensgrenzen voor betaalbare huurwoningen worden verhoogd zodat meer woningzoekenden hiervoor in aanmerking komen.",
+      "summary": "Inkomensgrenzen betaalbare huurwoningen verhogen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inkomensgrenzen",
+        "betaalbare huurwoningen",
+        "woningzoekenden",
+        "toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 14",
+      "originalQuote": "Ook verhogen we de inkomensgrenzen voor betaalbare huurwoningen, zodat meer woningzoekenden hiervoor in aanmerking komen."
+    },
+    {
+      "promiseCode": "PVV-2025-049",
+      "text": "De hypotheekrenteaftrek blijft behouden en wordt niet aangepast.",
+      "summary": "Hypotheekrenteaftrek behouden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "behoud",
+        "belastingvoordeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 14",
+      "originalQuote": "De hypotheekrenteaftrek blijft; daar wordt niet aan getornt!"
+    },
+    {
+      "promiseCode": "PVV-2025-050",
+      "text": "Er komt een nationaal crisisplan voor voldoende woningbouw met fors extra geld. De Rijksoverheid grijpt in waar woningbouw niet van de grond komt.",
+      "summary": "Nationaal crisisplan woningbouw met extra budget",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaal crisisplan",
+        "woningbouw",
+        "budget",
+        "rijksoverheid",
+        "interventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 14",
+      "originalQuote": "De PVV wil een nationaal crisisplan voor voldoende woningen. Daar trekken we fors extra geld voor uit... Waar de woningbouw niet van de grond komt, grijpt de Rijksoverheid in."
+    },
+    {
+      "promiseCode": "PVV-2025-051",
+      "text": "Woningbouwcorporaties krijgen de taak om naast sociale huurwoningen ook 67.000 nieuwe middenhuurwoningen te bouwen door vereenvoudiging van Europese staatssteunregels.",
+      "summary": "Corporaties bouwen 67.000 middenhuurwoningen door EU-regelvereenvoudiging",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouwcorporaties",
+        "middenhuurwoningen",
+        "europese regels",
+        "staatssteun"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 14",
+      "originalQuote": "Woningbouwcorporaties krijgen de taak om niet alleen sociale huurwoningen, maar ook middenhuurwoningen te bouwen. Dat kan: door vereenvoudiging van de Europese regels voor staatssteun kunnen corporaties aan de slag met 67.000 nieuwe middenhuurwoningen."
+    },
+    {
+      "promiseCode": "PVV-2025-052",
+      "text": "Sociale huren worden met 10% verlaagd",
+      "summary": "Sociale huren 10% verlagen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huren",
+        "verlaging",
+        "huurprijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Sociale huren met 10% verlagen"
+    },
+    {
+      "promiseCode": "PVV-2025-053",
+      "text": "De hypotheekrenteaftrek blijft ongewijzigd bestaan",
+      "summary": "Hypotheekrenteaftrek blijft ongewijzigd",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "ongewijzigd",
+        "bestaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "De hypotheekrenteaftrek blijft ongewijzigd bestaan"
+    },
+    {
+      "promiseCode": "PVV-2025-054",
+      "text": "Frauderende statushouders die een sociale huurwoning illegaal onderverhuren, betalen alles wat zij daarmee verdiend hebben terug en verliezen hun verblijfsvergunning",
+      "summary": "Statushouders verliezen verblijfsvergunning bij huurfraude",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statushouders",
+        "huurfraude",
+        "verblijfsvergunning",
+        "onderverhuren",
+        "terugbetaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Frauderende statushouders die een sociale huurwoning illegaal onderverhuren, betalen alles wat zij daarmee verdiend hebben terug en verliezen hun verblijfsvergunning"
+    },
+    {
+      "promiseCode": "PVV-2025-055",
+      "text": "De gemeentelijke taakstelling voor de verplichte huisvesting van statushouders wordt geschrapt",
+      "summary": "Taakstelling huisvesting statushouders schrappen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijke taakstelling",
+        "huisvesting",
+        "statushouders",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Gemeentelijke taakstelling voor de verplichte huisvesting van statushouders schrappen"
+    },
+    {
+      "promiseCode": "PVV-2025-056",
+      "text": "De regels voor verbouwingen en aanbouwingen worden verruimd (vergunningvrij)",
+      "summary": "Verruimen regels verbouwingen en aanbouwingen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbouwingen",
+        "aanbouwingen",
+        "vergunningvrij",
+        "regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Verruimen van de regels (vergunningvrij) voor verbouwingen en aanbouwingen"
+    },
+    {
+      "promiseCode": "PVV-2025-057",
+      "text": "Het kraakverbod wordt streng gehandhaafd",
+      "summary": "Kraakverbod streng handhaven",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kraakverbod",
+        "handhaving",
+        "streng"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Kraakverbod streng handhaven"
+    },
+    {
+      "promiseCode": "PVV-2025-058",
+      "text": "De NPO wordt gesaneerd en het Mediapark in Hilversum wordt getransformeerd naar een nieuwe woonwijk",
+      "summary": "NPO saneren en Mediapark Hilversum wordt woonwijk",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "npo",
+        "sanering",
+        "mediapark",
+        "hilversum",
+        "woonwijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "NPO saneren en Mediapark in Hilversum transformeren naar een nieuwe woonwijk"
+    },
+    {
+      "promiseCode": "PVV-2025-059",
+      "text": "Statushouders krijgen nooit meer voorrang op sociale huurwoningen, ook niet met urgentie",
+      "summary": "Geen voorrang meer voor statushouders op sociale huur",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statushouders",
+        "voorrang",
+        "sociale huurwoningen",
+        "urgentie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Nooit meer voorrang op sociale huurwoningen voor statushouders – ook niet met urgentie"
+    },
+    {
+      "promiseCode": "PVV-2025-060",
+      "text": "Er komt een planbatenheffing om grondspeculatie tegen te gaan en meer betaalbare woningen te bouwen",
+      "summary": "Planbatenheffing tegen grondspeculatie invoeren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "planbatenheffing",
+        "grondspeculatie",
+        "betaalbare woningen",
+        "bestemmingswijziging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Met de invoering van een planbatenheffing zetten we een deel daarvan in om méér betaalbare woningen te bouwen en gaan we grondspeculatie tegen"
+    },
+    {
+      "promiseCode": "PVV-2025-061",
+      "text": "Permanent wonen in recreatiewoningen moet volledig worden toegestaan",
+      "summary": "Permanent wonen in recreatiewoningen toestaan",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "recreatiewoningen",
+        "permanent wonen",
+        "toestaan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 15",
+      "originalQuote": "Permanent wonen in recreatiewoningen moet volledig worden toegestaan"
+    },
+    {
+      "promiseCode": "PVV-2025-062",
+      "text": "Het eigen risico wordt volledig afgeschaft zodat niemand zorg mijdt door geldzorgen. De ziektekostenpremie zal hierdoor niet stijgen door volledige compensatie van zorgverzekeraars.",
+      "summary": "Eigen risico volledig afschaffen zonder premiestijging",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "afschaffen",
+        "ziektekostenpremie",
+        "zorgverzekeraars",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 17",
+      "originalQuote": "Daarom schaffen wij het eigen risico volledig af, zodat niemand zorg mijdt door geldzorgen. De PVV zorgt ervoor dat de ziektekostenpremie hierdoor niet zal stijgen. We gaan zorgverzekeraars volledig compenseren."
+    },
+    {
+      "promiseCode": "PVV-2025-063",
+      "text": "De tandarts komt weer in het basispakket omdat een gezond gebit geen luxe is en het mijden van de tandarts negatieve gevolgen heeft voor de algehele gezondheid.",
+      "summary": "Tandartszorg opnieuw opnemen in het basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandarts",
+        "basispakket",
+        "tandartszorg",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 17",
+      "originalQuote": "De tandarts komt weer in het basispakket, omdat een gezond gebit geen luxe is."
+    },
+    {
+      "promiseCode": "PVV-2025-064",
+      "text": "De overheid krijgt zeggenschap over regionale ziekenhuizen zodat belangrijke afdelingen nooit vanwege financiële problemen worden afgeschaald of gesloten. Bij geldnood moet de overheid bijspringen.",
+      "summary": "Overheid krijgt zeggenschap over regionale ziekenhuizen tegen sluiting",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale ziekenhuizen",
+        "overheid",
+        "zeggenschap",
+        "afdelingen",
+        "financiële problemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 17",
+      "originalQuote": "De overheid krijgt hierover weer zeggenschap. Zodra een zorgafdeling in geldnood zit, moet de overheid wat ons betreft bijspringen."
+    },
+    {
+      "promiseCode": "PVV-2025-065",
+      "text": "Een mantelzorgbonus wordt ingevoerd: wie acht uur per week of meer onbetaalde mantelzorg verleent, krijgt een belastingkorting.",
+      "summary": "Mantelzorgbonus als belastingkorting vanaf 8 uur per week",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mantelzorgbonus",
+        "belastingkorting",
+        "mantelzorg",
+        "acht uur per week"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 17",
+      "originalQuote": "De PVV wil hen financieel belonen met een mantelzorgbonus: wie acht uur per week of meer onbetaalde mantelzorg verleent, krijgt een belastingkorting."
+    },
+    {
+      "promiseCode": "PVV-2025-066",
+      "text": "Een meerwerkbonus voor verplegend personeel wordt ingevoerd: parttimers die meer gaan werken, krijgen een bonus zodat meer werken gaat lonen.",
+      "summary": "Meerwerkbonus voor verplegend personeel die meer uren gaat werken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerwerkbonus",
+        "verplegend personeel",
+        "parttimers",
+        "bonus"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 17",
+      "originalQuote": "Daarnaast voeren we een meerwerkbonus voor het verplegend personeel in: parttimers die meer gaan werken, krijgen een bonus."
+    },
+    {
+      "promiseCode": "PVV-2025-067",
+      "text": "Het eigen risico in de zorgverzekering wordt volledig afgeschaft.",
+      "summary": "Eigen risico geheel afschaffen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Eigen risico geheel afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2025-068",
+      "text": "Tandartszorg wordt opgenomen in het basispakket van de zorgverzekering.",
+      "summary": "Tandarts in het basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandarts",
+        "basispakket",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Tandarts in het basispakket"
+    },
+    {
+      "promiseCode": "PVV-2025-069",
+      "text": "Er komt een mantelzorgbonus voor mensen die mantelzorg verlenen.",
+      "summary": "Mantelzorgbonus voor mantelzorgverleners",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mantelzorg",
+        "bonus",
+        "mantelzorgverleners"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Mantelzorgbonus voor mantelzorgverleners"
+    },
+    {
+      "promiseCode": "PVV-2025-070",
+      "text": "Acute zorg wordt uit de marktwerking gehaald.",
+      "summary": "Acute zorg uit de marktwerking halen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "acute zorg",
+        "marktwerking",
+        "zorgbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Acute zorg uit de marktwerking halen"
+    },
+    {
+      "promiseCode": "PVV-2025-071",
+      "text": "Er komt een meerwerkbonus voor verplegend personeel.",
+      "summary": "Meerwerkbonus voor verplegend personeel",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerwerk",
+        "bonus",
+        "verplegend personeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Meerwerkbonus voor verplegend personeel"
+    },
+    {
+      "promiseCode": "PVV-2025-072",
+      "text": "Woekerwinsten in de zorg worden gestopt en private equity wordt geweerd uit de zorg.",
+      "summary": "Stoppen met woekerwinsten in de zorg, weren van private equity",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woekerwinsten",
+        "private equity",
+        "zorgfinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Stoppen met woekerwinsten in de zorg, weren van private equity"
+    },
+    {
+      "promiseCode": "PVV-2025-073",
+      "text": "Zorg voor mensen met een levenslange beperking en ouderenzorg komen weer in één wet.",
+      "summary": "Zorg voor mensen met beperking en ouderenzorg in één wet",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levenslange beperking",
+        "ouderenzorg",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 18",
+      "originalQuote": "Zorg voor mensen met een levenslange beperking weer in één wet; dat geldt ook voor de ouderenzorg"
+    },
+    {
+      "promiseCode": "PVV-2025-074",
+      "text": "De btw op energie wordt verlaagd van 21% naar 9%.",
+      "summary": "BTW op energie van 21% naar 9%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "energie",
+        "belasting",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "De PVV wil de btw op energie verlagen van 21 naar 9%."
+    },
+    {
+      "promiseCode": "PVV-2025-075",
+      "text": "Het ministerie van Klimaat en Groene Groei wordt veranderd in het ministerie van Betaalbare Energie.",
+      "summary": "Ministerie van Klimaat wordt ministerie van Betaalbare Energie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "klimaat",
+        "energie",
+        "hervorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "Het ministerie van Klimaat en Groene Groei veranderen we in het ministerie van Betaalbare Energie"
+    },
+    {
+      "promiseCode": "PVV-2025-076",
+      "text": "Er wordt geen enkele windturbine meer bijgebouwd - niet op land, niet op zee, nergens.",
+      "summary": "Stop met bouwen van nieuwe windturbines",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "bouwstop",
+        "energieproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "De PVV wil dat er geen enkele windturbine meer wordt bijgebouwd – niet op land, niet op zee, nergens."
+    },
+    {
+      "promiseCode": "PVV-2025-077",
+      "text": "Windturbines waar omwonenden last van hebben en/of ziek van worden, worden afgebroken.",
+      "summary": "Afbraak windturbines bij overlast omwonenden",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windturbines",
+        "afbraak",
+        "omwonenden",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "Windturbines waar omwonenden last van hebben en/of ziek van worden, gaan we afbreken"
+    },
+    {
+      "promiseCode": "PVV-2025-078",
+      "text": "Nederland trekt zich terug uit het VN-Klimaatakkoord van Parijs.",
+      "summary": "Terugtrekking uit VN-Klimaatakkoord van Parijs",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatakkoord",
+        "parijs",
+        "terugtrekking",
+        "vn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "We trekken ons terug uit het VN-Klimaatakkoord van Parijs"
+    },
+    {
+      "promiseCode": "PVV-2025-079",
+      "text": "De Klimaatwet wordt ingetrokken.",
+      "summary": "Intrekken van de Klimaatwet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatwet",
+        "intrekken",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "trekken de Klimaatwet in"
+    },
+    {
+      "promiseCode": "PVV-2025-080",
+      "text": "Het Klimaatfonds wordt geschrapt en het Klimaatberaad wordt opgedoekt.",
+      "summary": "Schrappen Klimaatfonds en opdoeken Klimaatberaad",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatfonds",
+        "klimaatberaad",
+        "opdoeken",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 20",
+      "originalQuote": "We schrappen het Klimaatfonds en doeken het Klimaatberaad op."
+    },
+    {
+      "promiseCode": "PVV-2025-081",
+      "text": "Nieuwe kerncentrales worden bijgebouwd, inclusief kleine modulaire reactoren en inzet op thorium.",
+      "summary": "Nieuwe kerncentrales en modulaire reactoren bouwen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerncentrales",
+        "nucleaire",
+        "thorium",
+        "energieproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 21",
+      "originalQuote": "Nieuwe kerncentrales bijbouwen, ook kleine modulaire reactoren; inzet op thorium"
+    },
+    {
+      "promiseCode": "PVV-2025-082",
+      "text": "De Regionale Energiestrategie wordt opgeheven.",
+      "summary": "Regionale Energiestrategie opheffen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energiestrategie",
+        "regionaal",
+        "beleid",
+        "opheffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 21",
+      "originalQuote": "Regionale Energiestrategie opheffen"
+    },
+    {
+      "promiseCode": "PVV-2025-083",
+      "text": "Er komen geen nieuwe windturbines en zonneparken meer bij.",
+      "summary": "Stop met nieuwe windturbines en zonneparken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "zonneparken",
+        "hernieuwbare",
+        "energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 21",
+      "originalQuote": "Geen enkele nieuwe windturbine er meer bij; geen nieuwe zonneparken"
+    },
+    {
+      "promiseCode": "PVV-2025-084",
+      "text": "Het Klimaatfonds wordt geschrapt en het Klimaatberaad wordt opgedoekt.",
+      "summary": "Klimaatfonds en Klimaatberaad afschaffen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatfonds",
+        "klimaatberaad",
+        "afschaffing",
+        "instituten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 21",
+      "originalQuote": "Klimaatfonds schrappen; Klimaatberaad opdoeken"
+    },
+    {
+      "promiseCode": "PVV-2025-085",
+      "text": "SDE++ en andere klimaatsubsidies worden geschrapt.",
+      "summary": "SDE++ en klimaatsubsidies schrappen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sde",
+        "subsidies",
+        "klimaat",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 21",
+      "originalQuote": "SDE++ en andere klimaatsubsidies schrappen"
+    },
+    {
+      "promiseCode": "PVV-2025-086",
+      "text": "De CO2-heffing wordt afgeschaft.",
+      "summary": "CO2-heffing afschaffen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2",
+        "heffing",
+        "belasting",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 21",
+      "originalQuote": "CO2-heffing afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2025-087",
+      "text": "Voor Nederlandse producten wordt het vrijwillige keurmerk Promotie van Vaderlands Voedsel (PVV) geïntroduceerd.",
+      "summary": "Vrijwillig keurmerk PVV voor Nederlandse producten introduceren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "keurmerk",
+        "nederlandse",
+        "producten",
+        "pvv",
+        "voedsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 23",
+      "originalQuote": "Voor Nederlandse producten introduceren we het vrijwillige keurmerk Promotie van Vaderlands Voedsel (PVV)."
+    },
+    {
+      "promiseCode": "PVV-2025-088",
+      "text": "Boerderijwinkels worden vrijgesteld van onnodige regeldruk, registraties en btw-heffingen voor vrije verkoop.",
+      "summary": "Boerderijwinkels vrijstellen van regeldruk en btw",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boerderijwinkels",
+        "btw",
+        "regeldruk",
+        "registraties",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 23",
+      "originalQuote": "De PVV wil vrije verkoop voor boerderijwinkels – vrijgesteld van onnodige regeldruk, registraties en btw-heffingen."
+    },
+    {
+      "promiseCode": "PVV-2025-089",
+      "text": "Het aantal gebieden met Natura 2000-status wordt verminderd of gebieden worden verkleind.",
+      "summary": "Natura 2000-gebieden verminderen of verkleinen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "natura 2000",
+        "gebieden",
+        "verminderen",
+        "verkleinen",
+        "status"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 23",
+      "originalQuote": "Ook willen we het aantal gebieden met een Natura 2000-status verminderen – of gebieden verkleinen."
+    },
+    {
+      "promiseCode": "PVV-2025-090",
+      "text": "De rekenkundige ondergrens wordt direct verhoogd naar minimaal 1 mol en kritische depositiewaarden worden uit de wet gehaald.",
+      "summary": "Rekenkundige ondergrens naar 1 mol, depositiewaarden uit wet",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rekenkundige",
+        "ondergrens",
+        "mol",
+        "depositiewaarden",
+        "wet"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 23",
+      "originalQuote": "Tot die tijd verhogen we direct de rekenkundige ondergrens naar minimaal 1 mol en halen we de kritische depositiewaarden uit de wet."
+    },
+    {
+      "promiseCode": "PVV-2025-091",
+      "text": "PAS-melders worden onmiddellijk gelegaliseerd.",
+      "summary": "PAS-melders onmiddellijk legaliseren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pas-melders",
+        "legaliseren",
+        "onmiddellijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 23",
+      "originalQuote": "PAS-melders gaan we onmiddellijk legaliseren"
+    },
+    {
+      "promiseCode": "PVV-2025-092",
+      "text": "Invoering van het keurmerk 'Promotie van Vaderlands Voedsel (PVV)' voor producten van Nederlandse bodem.",
+      "summary": "Keurmerk PVV voor Nederlandse voedselproducten",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "keurmerk",
+        "voedsel",
+        "nederlandse",
+        "producten",
+        "landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Keurmerk Promotie van Vaderlands Voedsel (PVV) voor producten van eigen bodem"
+    },
+    {
+      "promiseCode": "PVV-2025-093",
+      "text": "Vrije verkoop voor boerderijwinkels zonder onnodige regeldruk, registraties en btw-heffingen.",
+      "summary": "Vrije verkoop boerderijwinkels zonder regeldruk en btw",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boerderijwinkels",
+        "vrije",
+        "verkoop",
+        "regeldruk",
+        "btw",
+        "registraties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Vrije verkoop voor boerderijwinkels – zonder onnodige regeldruk, registraties en btw-heffingen"
+    },
+    {
+      "promiseCode": "PVV-2025-094",
+      "text": "De rekenkundige ondergrens voor stikstof wordt opgehoogd.",
+      "summary": "Rekenkundige ondergrens stikstof ophogen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rekenkundige",
+        "ondergrens",
+        "stikstof",
+        "ophogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Rekenkundige ondergrens voor stikstof ophogen"
+    },
+    {
+      "promiseCode": "PVV-2025-095",
+      "text": "Kritische depositiewaarden worden uit de wet gehaald.",
+      "summary": "Kritische depositiewaarden uit de wet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kritische",
+        "depositiewaarden",
+        "wet",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Kritische depositiewaarden uit de wet"
+    },
+    {
+      "promiseCode": "PVV-2025-096",
+      "text": "PAS-melders krijgen onmiddellijk een vergunning.",
+      "summary": "Onmiddellijke vergunning voor PAS-melders",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pas-melders",
+        "vergunning",
+        "onmiddellijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "PAS-melders krijgen onmiddellijk een vergunning"
+    },
+    {
+      "promiseCode": "PVV-2025-097",
+      "text": "Alle visserijvergunningen worden overdraagbaar gemaakt zodat familiebedrijven blijven bestaan.",
+      "summary": "Visserijvergunningen overdraagbaar maken",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "visserijvergunningen",
+        "overdraagbaar",
+        "familiebedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Alle vergunningen worden overdraagbaar"
+    },
+    {
+      "promiseCode": "PVV-2025-098",
+      "text": "Het verbod op pulsvisserij wordt teruggedraaid.",
+      "summary": "Verbod pulsvisserij terugdraaien",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pulsvisserij",
+        "verbod",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Verbod op pulsvisserij terugdraaien"
+    },
+    {
+      "promiseCode": "PVV-2025-099",
+      "text": "Er komt een verbod op ritueel slachten.",
+      "summary": "Verbod op ritueel slachten",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "ritueel",
+        "slachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Er komt een verbod op ritueel slachten"
+    },
+    {
+      "promiseCode": "PVV-2025-100",
+      "text": "Er komt een professionele Nationale Dierenambulance met uitrijverplichting en opvangmogelijkheden.",
+      "summary": "Professionele Nationale Dierenambulance met uitrijverplichting",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dierenambulance",
+        "nationale",
+        "uitrijverplichting",
+        "opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Daarnaast willen we een professionele Nationale Dierenambulance met uitrijverplichting en opvangmogelijkheden"
+    },
+    {
+      "promiseCode": "PVV-2025-101",
+      "text": "Financiële steun voor ouderen met laag inkomen voor dierenartsenkosten.",
+      "summary": "Financiële steun ouderen voor dierenartsenkosten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financiële",
+        "steun",
+        "ouderen",
+        "dierenartsenkosten",
+        "laag",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 24",
+      "originalQuote": "Daarom wil de PVV financiële steun voor ouderen met een laag inkomen voor dierenartsenkosten"
+    },
+    {
+      "promiseCode": "PVV-2025-102",
+      "text": "Het subsidie-infuus van de NPO moet geheel stoppen.",
+      "summary": "NPO-subsidies volledig stopzetten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "npo",
+        "subsidies",
+        "publieke omroep",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 27",
+      "originalQuote": "Het subsidie-infuus van de NPO moet geheel stoppen."
+    },
+    {
+      "promiseCode": "PVV-2025-103",
+      "text": "In wetten en beleid hoort het biologische geslacht weer leidend te zijn – dus geen 'X' in het paspoort.",
+      "summary": "Biologisch geslacht leidend in wetgeving, geen X-optie in paspoort",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "biologisch geslacht",
+        "paspoort",
+        "wetgeving",
+        "genderregistratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 27",
+      "originalQuote": "In wetten en beleid hoort het biologische geslacht weer leidend te zijn – dus geen \"X\" in het paspoort."
+    },
+    {
+      "promiseCode": "PVV-2025-104",
+      "text": "We stoppen met gesubsidieerd wokebeleid en schrappen de hokjesdenkende genderpropaganda op scholen.",
+      "summary": "Stoppen gesubsidieerd wokebeleid en genderpropaganda op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wokebeleid",
+        "subsidies",
+        "genderpropaganda",
+        "scholen",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 27",
+      "originalQuote": "We stoppen met gesubsidieerd wokebeleid en schrappen de hokjesdenkende genderpropaganda op scholen."
+    },
+    {
+      "promiseCode": "PVV-2025-105",
+      "text": "Wij steunen de nu in het parlement voorliggende Grondwetswijziging voor een bindend correctief referendum.",
+      "summary": "Steun voor Grondwetswijziging bindend correctief referendum",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwetswijziging",
+        "bindend referendum",
+        "correctief referendum",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 27",
+      "originalQuote": "Wij steunen de nu in het parlement voorliggende Grondwetswijziging voor een bindend correctief referendum."
+    },
+    {
+      "promiseCode": "PVV-2025-106",
+      "text": "Daarnaast willen we zoveel mogelijk inspraak via laagdrempelige landelijke én lokale referenda.",
+      "summary": "Invoering laagdrempelige landelijke en lokale referenda",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referenda",
+        "inspraak",
+        "landelijk",
+        "lokaal",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 27",
+      "originalQuote": "Daarnaast willen we zoveel mogelijk inspraak via laagdrempelige landelijke én lokale referenda."
+    },
+    {
+      "promiseCode": "PVV-2025-107",
+      "text": "De PVV wil rechtstreeks gekozen burgemeesters.",
+      "summary": "Invoering rechtstreeks gekozen burgemeesters",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeesters",
+        "rechtstreekse verkiezingen",
+        "democratie",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 27",
+      "originalQuote": "De PVV wil rechtstreeks gekozen burgemeesters."
+    },
+    {
+      "promiseCode": "PVV-2025-108",
+      "text": "Financiering van de NPO (Nederlandse Publieke Omroep) wordt volledig stopgezet.",
+      "summary": "NPO-financiering volledig stoppen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "npo",
+        "financiering",
+        "publieke omroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Financiering van de NPO geheel stoppen"
+    },
+    {
+      "promiseCode": "PVV-2025-109",
+      "text": "Er wordt een algeheel boerkaverbod ingevoerd in Nederland.",
+      "summary": "Algeheel boerkaverbod invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boerka",
+        "verbod",
+        "kledingvoorschriften"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "We voeren een algeheel boerkaverbod in"
+    },
+    {
+      "promiseCode": "PVV-2025-110",
+      "text": "De islamitische gebedsoproep wordt verboden.",
+      "summary": "Verbod op islamitische gebedsoproep",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gebedsoproep",
+        "islam",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Verbod op de islamitische gebedsoproep"
+    },
+    {
+      "promiseCode": "PVV-2025-111",
+      "text": "Een bindend correctief referendum wordt ingevoerd met laagdrempelige landelijke en lokale referenda.",
+      "summary": "Bindend correctief referendum invoeren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "correctief",
+        "democratie",
+        "binding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Bindend correctief referendum invoeren; laagdrempelige landelijke en lokale referenda"
+    },
+    {
+      "promiseCode": "PVV-2025-112",
+      "text": "Burgemeesters worden gekozen in plaats van benoemd.",
+      "summary": "Gekozen burgemeesters invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeester",
+        "verkiezingen",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Gekozen burgemeesters"
+    },
+    {
+      "promiseCode": "PVV-2025-113",
+      "text": "De Eerste Kamer wordt afgeschaft.",
+      "summary": "Eerste Kamer afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eerste kamer",
+        "afschaffen",
+        "parlement"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Eerste Kamer afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2025-114",
+      "text": "Salarissen van bewindslieden, Kamerleden en Europarlementariërs worden met 25% verlaagd en de wachtgeldregeling voor politici wordt afgeschaft.",
+      "summary": "25% salarisverlaging politici en afschaffen wachtgeld",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "salaris",
+        "politici",
+        "wachtgeld",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "25% salarisverlaging voor bewindslieden, Kamerleden en Europarlementariërs; afschaffen wachtgeldregeling voor politici"
+    },
+    {
+      "promiseCode": "PVV-2025-115",
+      "text": "De Algemene Bestuursdienst wordt afgeschaft.",
+      "summary": "Algemene Bestuursdienst afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "algemene bestuursdienst",
+        "afschaffen",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Algemene Bestuursdienst afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2025-116",
+      "text": "De Raad van State wordt ontdaan van politieke benoemingen.",
+      "summary": "Politieke benoemingen Raad van State beëindigen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raad van state",
+        "benoemingen",
+        "politiek"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "de RvS wordt ontdaan van politieke benoemingen"
+    },
+    {
+      "promiseCode": "PVV-2025-117",
+      "text": "Het Koningshuis wordt belastingplichtig en de bijdrage aan het Koningshuis wordt met 25% verlaagd.",
+      "summary": "Koningshuis belastingplichtig en 25% minder bijdrage",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koningshuis",
+        "belastingplicht",
+        "bijdrage",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Koningshuis belastingplichtig en verlaging bijdrage aan Koningshuis met 25%"
+    },
+    {
+      "promiseCode": "PVV-2025-118",
+      "text": "Islamitische hoofddoekjes worden verboden in alle overheidsgebouwen inclusief de Staten-Generaal.",
+      "summary": "Verbod hoofddoekjes in overheidsgebouwen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hoofddoekje",
+        "verbod",
+        "overheidsgebouwen",
+        "staten-generaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 28",
+      "originalQuote": "Verbod op het dragen van islamitische hoofddoekjes in alle overheidsgebouwen inclusief de Staten-Generaal"
+    },
+    {
+      "promiseCode": "PVV-2025-119",
+      "text": "Alle vetorechten binnen de EU worden behouden, hersteld en ingezet. Nederland moet het mogelijke vetoën, waaronder de EU-begroting, om een opt-out op asiel en immigratie en soepeler natuur- en stikstofbeleid te dwingen.",
+      "summary": "Vetorechten EU behouden en inzetten voor opt-outs",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vetorechten",
+        "eu-begroting",
+        "opt-out",
+        "asiel",
+        "immigratie",
+        "natuurbeleid",
+        "stikstofbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 30",
+      "originalQuote": "Onze vetorechten behouden we, herstellen we in ere én zetten we in: Nederland moet al het mogelijke vetoën, waaronder de EU-begroting, om zo een opt-out op asiel en immigratie en soepeler natuur- en stikstofbeleid te dwingen"
+    },
+    {
+      "promiseCode": "PVV-2025-120",
+      "text": "De toetredingsonderhandelingen met Turkije en alle andere kandidaat-lidstaten van de EU worden direct en definitief verbroken.",
+      "summary": "EU-toetredingsonderhandelingen Turkije en andere landen stoppen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toetredingsonderhandelingen",
+        "turkije",
+        "kandidaat-lidstaten",
+        "eu-uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 30",
+      "originalQuote": "De toetredingsonderhandelingen met Turkije en alle andere kandidaat-lidstaten moeten direct en definitief worden verbroken."
+    },
+    {
+      "promiseCode": "PVV-2025-121",
+      "text": "Ontwikkelingshulp wordt volledig afgeschaft. Geen cent meer naar Afrika, het Midden-Oosten of Azië.",
+      "summary": "Ontwikkelingshulp volledig afschaffen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingshulp",
+        "afrika",
+        "midden-oosten",
+        "azië",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 30",
+      "originalQuote": "De PVV maakt hier onmiddellijk een einde aan: geen cent meer naar kansloze projecten, corrupte regimes en activistische ngo's. Geen cent meer naar Afrika, het Midden-Oosten of Azië. Nederland is geen pinautomaat voor de rest van de wereld. Ontwikkelingshulp wordt volledig afgeschaft."
+    },
+    {
+      "promiseCode": "PVV-2025-122",
+      "text": "De Nederlandse ambassade wordt verhuisd van Tel Aviv naar Jeruzalem om de banden met Israël te versterken.",
+      "summary": "Nederlandse ambassade verhuizen naar Jeruzalem",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambassade",
+        "jeruzalem",
+        "israël",
+        "verhuizing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 30",
+      "originalQuote": "De PVV wil onze banden met Israël verder versterken door de Nederlandse ambassade te verhuizen naar Jeruzalem."
+    },
+    {
+      "promiseCode": "PVV-2025-123",
+      "text": "De Nederlandse vertegenwoordiging in Ramallah bij de Palestijnse Autoriteit wordt direct gesloten.",
+      "summary": "Vertegenwoordiging Ramallah sluiten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vertegenwoordiging",
+        "ramallah",
+        "palestijnse autoriteit",
+        "sluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 30",
+      "originalQuote": "De Nederlandse vertegenwoordiging in Ramallah bij de corrupte Palestijnse Autoriteit wordt direct gesloten."
+    },
+    {
+      "promiseCode": "PVV-2025-124",
+      "text": "Alleen de Nederlandse vlag wordt gehesen op overheidsgebouwen en de Staten-Generaal, geen andere vlaggen toegestaan.",
+      "summary": "Alleen Nederlandse vlag op overheidsgebouwen en Staten-Generaal",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlandse vlag",
+        "overheidsgebouwen",
+        "staten-generaal",
+        "symboliek"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Alléén de Nederlandse vlag op overheidsgebouwen en de Staten-Generaal"
+    },
+    {
+      "promiseCode": "PVV-2025-125",
+      "text": "Alle lopende toetredingsonderhandelingen voor EU-uitbreiding worden verbroken en er komt geen verdere uitbreiding van de Europese Unie.",
+      "summary": "Alle EU-toetredingsonderhandelingen verbreken, geen EU-uitbreiding",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-uitbreiding",
+        "toetredingsonderhandelingen",
+        "europese unie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Geen EU-uitbreiding; alle toetredingsonderhandelingen verbreken"
+    },
+    {
+      "promiseCode": "PVV-2025-126",
+      "text": "Het verhuiscircus van het Europees Parlement tussen Brussel en Straatsburg wordt beëindigd.",
+      "summary": "Verhuiscircus Europees Parlement beëindigen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europees parlement",
+        "verhuiscircus",
+        "brussel",
+        "straatsburg"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Onzinnig, geldverslindend verhuiscircus van het Europees Parlement beëindigen"
+    },
+    {
+      "promiseCode": "PVV-2025-127",
+      "text": "Nederland trekt zich terug als verdragspartij bij en gastland van het Internationaal Strafhof.",
+      "summary": "Terugtrekken als verdragspartij en gastland Internationaal Strafhof",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "internationaal strafhof",
+        "verdragspartij",
+        "gastland",
+        "terugtrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Terugtrekken als verdragspartij bij en gastland van het Internationaal Strafhof"
+    },
+    {
+      "promiseCode": "PVV-2025-128",
+      "text": "Alle ontwikkelingshulp wordt volledig stopgezet en de Minister voor Ontwikkelingshulp wordt afgeschaft.",
+      "summary": "Volledige stop ontwikkelingshulp, minister afschaffen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingshulp",
+        "minister",
+        "afschaffen",
+        "stop"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Volledige stop op ontwikkelingshulp; Minister voor Ontwikkelingshulp afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2025-129",
+      "text": "Nederland betaalt geen enkele bijdrage aan de wederopbouw van Gaza.",
+      "summary": "Geen Nederlandse bijdrage aan wederopbouw Gaza",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederland",
+        "wederopbouw",
+        "gaza",
+        "bijdrage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Nederland betaalt geen cent aan de wederopbouw van Gaza"
+    },
+    {
+      "promiseCode": "PVV-2025-130",
+      "text": "Turkije wordt uit de NAVO gezet.",
+      "summary": "Turkije uit de NAVO",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "turkije",
+        "navo",
+        "uitzetten",
+        "lidmaatschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 31",
+      "originalQuote": "Turkije uit de NAVO"
+    },
+    {
+      "promiseCode": "PVV-2025-131",
+      "text": "De Week van de Lentekriebels wordt afgeschaft in het basisonderwijs.",
+      "summary": "Week van de Lentekriebels afschaffen in basisonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "week van de lentekriebels",
+        "basisonderwijs",
+        "afschaffen",
+        "seksuele indoctrinatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 33",
+      "originalQuote": "De Week van de Lentekriebels – symbool van seksuele woke-indoctrinatie – schaffen we af in het basisonderwijs."
+    },
+    {
+      "promiseCode": "PVV-2025-132",
+      "text": "Op elke basisschool en middelbare school moet weer les worden gegeven in vaderlandse geschiedenis.",
+      "summary": "Vaderlandse geschiedenis verplicht op alle scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vaderlandse geschiedenis",
+        "basisschool",
+        "middelbare school",
+        "verplicht onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 33",
+      "originalQuote": "Op elke basisschool en middelbare school moet weer les worden gegeven in vaderlandse geschiedenis."
+    },
+    {
+      "promiseCode": "PVV-2025-133",
+      "text": "Op school en op het schoolplein wordt alleen Nederlands gesproken.",
+      "summary": "Alleen Nederlands op scholen en schoolpleinen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlandse taal",
+        "school",
+        "schoolplein",
+        "taalbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 33",
+      "originalQuote": "Op school en op het schoolplein wordt alleen Nederlands gesproken."
+    },
+    {
+      "promiseCode": "PVV-2025-134",
+      "text": "De PVV wil schoolzwemmen herinvoeren.",
+      "summary": "Schoolzwemmen herinvoeren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "herinvoeren",
+        "zwemvaardigheid",
+        "basisonderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 33",
+      "originalQuote": "Daarom wil de PVV schoolzwemmen herinvoeren."
+    },
+    {
+      "promiseCode": "PVV-2025-135",
+      "text": "Islamitisch onderwijs wordt verboden in Nederland omdat dit volgens de PVV onverenigbaar is met democratische kernwaarden en niet onder grondwettelijke bescherming van godsdienst- en onderwijsvrijheid zou moeten vallen.",
+      "summary": "Verbod op islamitisch onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "islamitisch",
+        "onderwijs",
+        "verbod",
+        "grondwet",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 34",
+      "originalQuote": "Verbod op islamitisch onderwijs"
+    },
+    {
+      "promiseCode": "PVV-2025-136",
+      "text": "Bacheloropleidingen moeten weer volledig in het Nederlands worden gegeven om het onderwijs primair voor Nederlanders te behouden.",
+      "summary": "Bacheloropleidingen volledig in het Nederlands",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bacheloropleidingen",
+        "nederlands",
+        "taal",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 34",
+      "originalQuote": "Bacheloropleidingen volledig in het Nederlands"
+    },
+    {
+      "promiseCode": "PVV-2025-137",
+      "text": "Het aantal buitenlandse studenten wordt maximaal beperkt omdat het Nederlandse onderwijs er volgens de PVV voor Nederlanders is.",
+      "summary": "Maximale beperking buitenlandse studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenlandse",
+        "studenten",
+        "beperking",
+        "studiemigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 34",
+      "originalQuote": "Maximale beperking van het aantal buitenlandse studenten"
+    },
+    {
+      "promiseCode": "PVV-2025-138",
+      "text": "Bij gewelddadige demonstraties ontstane schade wordt volledig verhaald op de daders. Buitenlandse betrokkenen worden uitgezet, Nederlandse medewerkers ontslagen.",
+      "summary": "Schade gewelddadige demonstraties verhalen op daders",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gewelddadige",
+        "demonstraties",
+        "schade",
+        "verhaal",
+        "ontslag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 34",
+      "originalQuote": "Bij gewelddadige demonstraties ontstane schade volledig verhalen op de relschoppers"
+    },
+    {
+      "promiseCode": "PVV-2025-139",
+      "text": "Schoolzwemmen wordt weer ingevoerd in het onderwijs.",
+      "summary": "Herinvoering schoolzwemmen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "herinvoering",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 34",
+      "originalQuote": "Herinvoering schoolzwemmen"
+    },
+    {
+      "promiseCode": "PVV-2025-140",
+      "text": "Maximaal 20% van de onderwijsbegroting gaat naar overhead, minimaal 80% moet naar de klas.",
+      "summary": "Max 20% onderwijsbudget naar overhead, min 80% naar klas",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderwijsbegroting",
+        "overhead",
+        "klas",
+        "percentage",
+        "verdeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 34",
+      "originalQuote": "Maximaal 20% van de onderwijsbegroting naar overhead, minimaal 80% naar de klas"
+    },
+    {
+      "promiseCode": "PVV-2025-141",
+      "text": "Op de snelweg de hele dag 140 km/u rijden invoeren.",
+      "summary": "Snelheidslimiet op snelwegen verhogen naar 140 km/u de hele dag",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "snelweg",
+        "snelheidslimiet",
+        "140 km/u",
+        "maximumsnelheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "Daarnaast willen we op de snelweg de hele dag 140 km/u rijden."
+    },
+    {
+      "promiseCode": "PVV-2025-142",
+      "text": "Voor 2026 voorkomen we een forse accijnsverhoging op brandstof door te snijden op de klimaatuitgaven.",
+      "summary": "Accijnsverhoging brandstof voorkomen voor 2026 via bezuinigingen klimaat",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "accijns",
+        "brandstof",
+        "2026",
+        "klimaatuitgaven",
+        "bezuinigingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "Voor 2026 voorkomen we een forse accijnsverhoging op brandstof door te snijden op de klimaatuitgaven."
+    },
+    {
+      "promiseCode": "PVV-2025-143",
+      "text": "De provinciale opcenten op motorrijtuigenbelasting worden een doelheffing die alleen wordt uitgegeven in het belang van de automobilist aan meer asfalt, wegverbredingen en verkeersveiligheid.",
+      "summary": "Provinciale opcenten motorrijtuigenbelasting omvormen tot doelheffing voor wegen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "provinciale opcenten",
+        "motorrijtuigenbelasting",
+        "doelheffing",
+        "asfalt",
+        "wegverbredingen",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "Daarom wil de PVV dat de provinciale opcenten een doelheffing worden: dit geld moet worden uitgegeven in het belang van de automobilist – aan meer asfalt, wegverbredingen, verkeersveiligheid etc."
+    },
+    {
+      "promiseCode": "PVV-2025-144",
+      "text": "Alle zero-emissiezones in het land afschaffen.",
+      "summary": "Zero-emissiezones overal in Nederland afschaffen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zero-emissiezones",
+        "afschaffen",
+        "brandstofbusje"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "De PVV wil af van alle zero-emissiezones, overal in het land."
+    },
+    {
+      "promiseCode": "PVV-2025-145",
+      "text": "Voor fatbikes een minimumleeftijd van 16 jaar en helmplicht invoeren door de fatbike een aparte juridische voertuigcategorie te maken.",
+      "summary": "Fatbikes: minimumleeftijd 16 jaar en helmplicht via aparte voertuigcategorie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fatbike",
+        "minimumleeftijd",
+        "16 jaar",
+        "helmplicht",
+        "voertuigcategorie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "Fatbikeoverlast moet worden aangepakt: de PVV pleit voor een minimumleeftijd van 16 jaar en een helmplicht. Daartoe dient de fatbike een aparte juridische voertuigcategorie te worden."
+    },
+    {
+      "promiseCode": "PVV-2025-146",
+      "text": "Alle NS-medewerkers krijgen een bodycam voor de veiligheid in het openbaar vervoer.",
+      "summary": "Bodycams voor alle NS-medewerkers invoeren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ns-medewerkers",
+        "bodycam",
+        "openbaar vervoer",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "Alle NS-medewerkers krijgen een bodycam."
+    },
+    {
+      "promiseCode": "PVV-2025-147",
+      "text": "Reisverboden opleggen aan ov-tuig en de Spoorwegpolitie laten terugkeren.",
+      "summary": "Reisverboden voor ov-tuig en terugkeer Spoorwegpolitie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "reisverboden",
+        "ov-tuig",
+        "spoorwegpolitie",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "We gaan reisverboden opleggen aan ov-tuig. En als het even kan, komt de Spoorwegpolitie terug."
+    },
+    {
+      "promiseCode": "PVV-2025-148",
+      "text": "Lelystad Airport zo snel mogelijk openen omdat het vliegveld klaar ligt en volledig uitgerust is.",
+      "summary": "Lelystad Airport zo snel mogelijk openen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lelystad airport",
+        "openen",
+        "vliegveld",
+        "uitgerust"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 36",
+      "originalQuote": "En wat Lelystad Airport betreft: het vliegveld ligt klaar, volledig uitgerust – dus zo snel mogelijk openen."
+    },
+    {
+      "promiseCode": "PVV-2025-149",
+      "text": "De brandstofaccijns wordt verlaagd in 2026",
+      "summary": "Brandstofaccijns verlagen in 2026",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "brandstofaccijns",
+        "verlaging",
+        "2026"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Verlagen brandstofaccijns in 2026"
+    },
+    {
+      "promiseCode": "PVV-2025-150",
+      "text": "De maximumsnelheid op snelwegen wordt verhoogd naar 140 km/u waar dat veilig kan",
+      "summary": "Maximumsnelheid naar 140 km/u op snelwegen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "snelweg",
+        "140",
+        "km/u"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Maximumsnelheid op de snelweg verhogen naar 140 km/u waar dat veilig kan"
+    },
+    {
+      "promiseCode": "PVV-2025-151",
+      "text": "Provinciale opcenten worden een doelheffing die moet worden uitgegeven aan meer asfalt, wegverbredingen en verkeersveiligheid",
+      "summary": "Provinciale opcenten als doelheffing voor weginfrastructuur",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "provinciale",
+        "opcenten",
+        "doelheffing",
+        "asfalt",
+        "wegverbredingen",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Provinciale opcenten worden een doelheffing: dit geld moet worden uitgegeven aan meer asfalt, wegverbredingen, verkeersveiligheid etc."
+    },
+    {
+      "promiseCode": "PVV-2025-152",
+      "text": "Alle zero-emissiezones worden afgeschaft",
+      "summary": "Afschaffen van alle zero-emissiezones",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zero-emissiezones",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Afschaffen van alle zero-emissiezones, overal in het land"
+    },
+    {
+      "promiseCode": "PVV-2025-153",
+      "text": "Voor fatbikes komt er een aparte juridische voertuigcategorie met minimumleeftijd van 16 jaar en helmplicht",
+      "summary": "Fatbike-regulering: minimumleeftijd 16 jaar en helmplicht",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fatbike",
+        "voertuigcategorie",
+        "minimumleeftijd",
+        "16",
+        "jaar",
+        "helmplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Fatbikeoverlast aanpakken: aparte juridische voertuigcategorie met minimumleeftijd van 16 jaar en helmplicht"
+    },
+    {
+      "promiseCode": "PVV-2025-154",
+      "text": "NS en ProRail worden samengevoegd tot één groot Nederlands Spoorbedrijf",
+      "summary": "NS en ProRail samenvoegen tot Nederlands Spoorbedrijf",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ns",
+        "prorail",
+        "nederlands",
+        "spoorbedrijf",
+        "samenvoeging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "NS en ProRail samen in één groot Nederlands Spoorbedrijf"
+    },
+    {
+      "promiseCode": "PVV-2025-155",
+      "text": "Er komen geen verdere prijsverhogingen voor treinkaartjes",
+      "summary": "Geen verdere prijsverhogingen treinkaartjes",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "treinkaartjes",
+        "prijsverhogingen",
+        "bevriezing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Betaalbare treinkaartjes: geen verdere prijsverhogingen"
+    },
+    {
+      "promiseCode": "PVV-2025-156",
+      "text": "Er komt een reisverbod voor ov-tuig",
+      "summary": "Reisverbod voor ov-tuig",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reisverbod",
+        "ov-tuig",
+        "openbaar",
+        "vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Reisverbod voor ov-tuig"
+    },
+    {
+      "promiseCode": "PVV-2025-157",
+      "text": "De Spoorwegpolitie keert terug",
+      "summary": "Terugkeer Spoorwegpolitie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spoorwegpolitie",
+        "terugkeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Terugkeer Spoorwegpolitie"
+    },
+    {
+      "promiseCode": "PVV-2025-158",
+      "text": "Lelystad Airport wordt geopend",
+      "summary": "Opening Lelystad Airport",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelystad",
+        "airport",
+        "opening",
+        "luchthaven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Lelystad Airport openen"
+    },
+    {
+      "promiseCode": "PVV-2025-159",
+      "text": "De vliegtaks wordt niet verder verhoogd",
+      "summary": "Geen verdere verhoging vliegtaks",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegtaks",
+        "verhoging",
+        "bevriezing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Vliegtaks wordt niet verder verhoogd"
+    },
+    {
+      "promiseCode": "PVV-2025-160",
+      "text": "Havens en andere kritieke infrastructuur moeten altijd met een meerderheidsaandeel in Nederlandse publieke handen blijven",
+      "summary": "Meerderheidsaandeel kritieke infrastructuur in Nederlandse handen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "havens",
+        "kritieke",
+        "infrastructuur",
+        "meerderheidsaandeel",
+        "nederlandse",
+        "publieke",
+        "handen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 37",
+      "originalQuote": "Havens en andere kritieke infrastructuur altijd met een meerderheidsaandeel in Nederlandse (publieke) handen"
+    },
+    {
+      "promiseCode": "PVV-2025-161",
+      "text": "De btw op boodschappen wordt helemaal geschrapt, waardoor de boodschappenkar bijna 10% goedkoper kan worden.",
+      "summary": "BTW op boodschappen wordt volledig afgeschaft",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "boodschappen",
+        "afschaffing",
+        "prijsverlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "De PVV wil daarom de btw op boodschappen helemaal schrappen, waardoor de boodschappenkar bijna 10% goedkoper kan worden."
+    },
+    {
+      "promiseCode": "PVV-2025-162",
+      "text": "Op een aantal essentiële basisproducten worden maximumprijzen ingesteld via de Prijzenwet.",
+      "summary": "Maximumprijzen voor essentiële basisproducten via Prijzenwet",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maximumprijzen",
+        "basisproducten",
+        "prijzenwet",
+        "prijsregulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "Ook willen we op een aantal essentiële basisproducten maximumprijzen instellen. Dit regelen we via de Prijzenwet."
+    },
+    {
+      "promiseCode": "PVV-2025-163",
+      "text": "De sociale huren worden volgend jaar met 10% verlaagd.",
+      "summary": "Sociale huren 10% omlaag volgend jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huren",
+        "huurverlaging",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "De PVV gaat de sociale huren volgend jaar met 10% verlagen."
+    },
+    {
+      "promiseCode": "PVV-2025-164",
+      "text": "Voor woningcorporaties wordt de winstbelasting geschrapt als compensatie voor de huurverlaging.",
+      "summary": "Winstbelasting woningcorporaties wordt afgeschaft",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningcorporaties",
+        "winstbelasting",
+        "afschaffing",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "Woningcorporaties compenseren we door voor hen de winstbelasting te schrappen"
+    },
+    {
+      "promiseCode": "PVV-2025-165",
+      "text": "Er vindt geen accijnsverhoging op brandstof plaats in 2026.",
+      "summary": "Geen accijnsverhoging brandstof in 2026",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "accijns",
+        "brandstof",
+        "verhoging",
+        "voorkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "Ook zorgen we ervoor dat er geen accijnsverhoging op brandstof plaatsvindt in 2026."
+    },
+    {
+      "promiseCode": "PVV-2025-166",
+      "text": "€ 600 miljoen wordt geïnvesteerd in de ouderenzorg.",
+      "summary": "€600 miljoen investering in ouderenzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderenzorg",
+        "investering",
+        "budget",
+        "zorgfinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "We investeren in de ouderenzorg; daar staat al € 600 miljoen voor gereserveerd."
+    },
+    {
+      "promiseCode": "PVV-2025-167",
+      "text": "Het eigen risico in de zorgverzekering wordt helemaal afgeschaft.",
+      "summary": "Eigen risico zorgverzekering wordt afgeschaft",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering",
+        "afschaffing",
+        "zorgkosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "We schaffen de boete op ziek zijn – het eigen risico – helemaal af."
+    },
+    {
+      "promiseCode": "PVV-2025-168",
+      "text": "De tandarts komt weer terug in het basispakket van de zorgverzekering.",
+      "summary": "Tandarts terug in basispakket zorgverzekering",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandarts",
+        "basispakket",
+        "zorgverzekering",
+        "tandheelkunde"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "Verder komt de tandarts weer terug in het basispakket."
+    },
+    {
+      "promiseCode": "PVV-2025-169",
+      "text": "Mantelzorgers en zorgverleners die meer uren willen werken krijgen een bonus.",
+      "summary": "Bonus voor mantelzorgers en zorgverleners bij meer uren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mantelzorgers",
+        "zorgverleners",
+        "bonus",
+        "werktijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "Mantelzorgers en zorgverleners die meer uren willen werken, krijgen een bonus."
+    },
+    {
+      "promiseCode": "PVV-2025-170",
+      "text": "De AOW-leeftijd wordt verlaagd naar 65 jaar.",
+      "summary": "AOW-leeftijd naar 65 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow",
+        "pensioenleeftijd",
+        "verlaging",
+        "ouderdom"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 39",
+      "originalQuote": "We verlagen de AOW-leeftijd naar 65 jaar."
+    },
+    {
+      "promiseCode": "PVV-2025-171",
+      "text": "De grenzen worden gesloten voor alle asielzoekers",
+      "summary": "Grenzen sluiten voor alle asielzoekers",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grenzen",
+        "asielzoekers",
+        "grenssluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "We sluiten onze grenzen voor alle asielzoekers"
+    },
+    {
+      "promiseCode": "PVV-2025-172",
+      "text": "Oekraïense mannen worden teruggestuurd naar Oekraïne",
+      "summary": "Oekraïense mannen terugsturen naar Oekraïne",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oekraïense",
+        "mannen",
+        "terugsturen",
+        "oekraïne"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "sturen Oekraïense mannen terug naar Oekraïne"
+    },
+    {
+      "promiseCode": "PVV-2025-173",
+      "text": "De ontwikkelingshulp wordt stopgezet",
+      "summary": "Stoppen met ontwikkelingshulp",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingshulp",
+        "afrika",
+        "stoppen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "De PVV stopt ook met ontwikkelingshulp. Elk jaar maken we vele miljarden over naar Afrika."
+    },
+    {
+      "promiseCode": "PVV-2025-174",
+      "text": "De afdrachten aan de Europese Unie worden met miljarden verminderd",
+      "summary": "Miljarden minder afdragen aan EU",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afdrachten",
+        "europese unie",
+        "nettobetaler",
+        "brussel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "Ook willen we miljarden minder afdragen aan de Europese Unie"
+    },
+    {
+      "promiseCode": "PVV-2025-175",
+      "text": "Het aantal rijksambtenaren wordt fors verminderd",
+      "summary": "Aantal rijksambtenaren verminderen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksambtenaren",
+        "ambtenarenapparaat",
+        "verminderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "Verder zetten we het mes in het uitdijende ambtenarenapparaat"
+    },
+    {
+      "promiseCode": "PVV-2025-176",
+      "text": "De NPO wordt stopgezet",
+      "summary": "Stoppen met de NPO",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "npo",
+        "publieke omroep",
+        "stoppen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "Verder stoppen we met de NPO"
+    },
+    {
+      "promiseCode": "PVV-2025-177",
+      "text": "De expatregeling wordt afgeschaft",
+      "summary": "Afschaffen expatregeling",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "expatregeling",
+        "afschaffen",
+        "fiscaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "stoppen we met de oneerlijke expatregeling"
+    },
+    {
+      "promiseCode": "PVV-2025-178",
+      "text": "De export van uitkeringen en toeslagen naar het buitenland wordt stopgezet",
+      "summary": "Stoppen export uitkeringen en toeslagen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "export",
+        "uitkeringen",
+        "toeslagen",
+        "buitenland"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "stoppen we met de export van uitkeringen en toeslagen"
+    },
+    {
+      "promiseCode": "PVV-2025-179",
+      "text": "Over kunst en cultuur wordt voortaan 21% btw berekend",
+      "summary": "21% btw over kunst en cultuur",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "kunst",
+        "cultuur",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "En voortaan berekenen we 21% btw over kunst en cultuur"
+    },
+    {
+      "promiseCode": "PVV-2025-180",
+      "text": "Alle uitgaven uit het Klimaatfonds worden geschrapt",
+      "summary": "Schrappen uitgaven Klimaatfonds",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatfonds",
+        "uitgaven",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2025, p. 40",
+      "originalQuote": "We schrappen alle uitgaven uit het Klimaatfonds"
+    }
+  ]
+}

@@ -1,0 +1,1381 @@
+{
+  "akkoord": "schoof",
+  "party": "PVV",
+  "partySlug": "pvv",
+  "program": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028",
+  "coalitionParties": [
+    "PVV",
+    "VVD",
+    "NSC",
+    "BBB"
+  ],
+  "electionYear": 2024,
+  "extractionDate": "2026-02-13",
+  "extractionMethod": "llm-claude-sonnet-v1-regeerakkoord",
+  "sourceUrl": "https://www.kabinetsformatie2023.nl/documenten/publicaties/2024/05/16/hoofdlijnenakkoord-tussen-de-fracties-van-pvv-vvd-nsc-en-bbb",
+  "pdfHash": "bb5aa946381253376f0bed1791d6fe25e54de7ca8d6727a4525a65f08ac0c36b",
+  "totalPromises": 89,
+  "promises": [
+    {
+      "promiseCode": "SCHOOF-2024-001",
+      "text": "Lastenverlichting voor hardwerkende Nederlanders, middeninkomens en ondernemers vanaf 2025, evenals steun voor mensen in financiële problemen om hun bestaanszekerheid te waarborgen.",
+      "summary": "Lastenverlichting vanaf 2025 voor middeninkomens, ondernemers en mensen in de knel",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lastenverlichting",
+        "middeninkomens",
+        "ondernemers",
+        "bestaanszekerheid"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Lastenverlichting vanaf 2025, gericht op de hardwerkende Nederlanders, jong en oud, zoals de middeninkomens, ondernemers. En ook voor mensen in de knel en hun bestaanszekerheid."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-002",
+      "text": "Het invoeren van het strengste toelatingsregime voor asielzoekers en het meest omvangrijke pakket van maatregelen voor beheersing van migratie in de Nederlandse geschiedenis.",
+      "summary": "Strengste toelatingsregime voor asiel en omvangrijkste pakket voor grip op migratie",
+      "theme": "MIGRATIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "toelatingsregime",
+        "asiel",
+        "migratie",
+        "maatregelen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Het strengste toelatingsregime voor asiel en het omvangrijkste pakket voor grip op migratie ooit."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-003",
+      "text": "Grote investeringsimpuls in woningbouw, infrastructuur, bereikbaarheid en energietransitie om de woningnood aan te pakken en de transitie te versnellen.",
+      "summary": "Grote impuls in woningbouw, infrastructuur, bereikbaarheid en energietransitie",
+      "theme": "WONEN",
+      "specificity": "VAAG",
+      "keywords": [
+        "woningbouw",
+        "infrastructuur",
+        "bereikbaarheid",
+        "energietransitie"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Een grote impuls in woningbouw, infrastructuur, bereikbaarheid en energietransitie."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-004",
+      "text": "Het eigen risico in de zorg wordt meer dan gehalveerd tot 165 euro in 2027, met daarnaast extra investeringen in de ouderenzorg.",
+      "summary": "Eigen risico zorg halveren tot 165 euro in 2027 en investeren in ouderenzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorg",
+        "ouderenzorg",
+        "investeringen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Meer dan halveren van het eigen risico in de zorg tot het niveau van 165 euro in 2027 en investeren in de ouderenzorg."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-005",
+      "text": "Landbouwers en vissers krijgen meer autonomie in hun bedrijfsvoering, met een impuls voor de toekomst van deze sectoren en voor de Nederlandse voedselzekerheid.",
+      "summary": "Meer autonomie voor landbouw en visserij, impuls voor sectoren en voedselzekerheid",
+      "theme": "LANDBOUW",
+      "specificity": "VAAG",
+      "keywords": [
+        "landbouw",
+        "visserij",
+        "autonomie",
+        "voedselzekerheid"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Baas in eigen bedrijf in landbouw en visserij; een impuls voor een toekomst van deze sectoren en voor voedselzekerheid voor ons allemaal."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-006",
+      "text": "Invoering van een ander kiesstelsel om burgers meer zeggenschap te geven en oprichting van een constitutioneel hof ter versterking van grondrechten.",
+      "summary": "Ander kiesstelsel voor meer burgerzeggenschap en constitutioneel hof voor grondrechten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kiesstelsel",
+        "zeggenschap",
+        "constitutioneel hof",
+        "grondrechten"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Meer zeggenschap van burgers door een ander kiesstelsel en versterking van grondrechten door een constitutioneel hof."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-007",
+      "text": "Stevige aanpak van criminaliteit en terrorisme om Nederlanders veilig te houden in hun directe leefomgeving en de samenleving als geheel.",
+      "summary": "Stevige aanpak van criminaliteit en terreur voor veiligheid van Nederlanders",
+      "theme": "VEILIGHEID",
+      "specificity": "VAAG",
+      "keywords": [
+        "criminaliteit",
+        "terrorisme",
+        "veiligheid",
+        "aanpak"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 1",
+      "originalQuote": "Nederlanders veilig houden door een stevige aanpak van criminaliteit en terreur."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-008",
+      "text": "Invoering van een extra belastingschijf in de Inkomstenbelasting om de lastenverlichting op arbeid te realiseren en de marginale druk voor burgers te verlagen.",
+      "summary": "Extra belastingschijf invoeren voor lastenverlichting arbeid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingschijf",
+        "inkomstenbelasting",
+        "lastenverlichting",
+        "arbeid",
+        "marginale druk"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 3",
+      "originalQuote": "Meer loon naar werken door een lastenverlichting op arbeid en verlaging van de marginale druk voor burgers, bijvoorbeeld via het introduceren van een extra schijf in de Inkomstenbelasting."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-009",
+      "text": "Het eigen risico in de zorg wordt meer dan gehalveerd tot 165 euro in 2027.",
+      "summary": "Eigen risico zorg verlagen naar 165 euro in 2027",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorg",
+        "halvering",
+        "zorgkosten"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 3",
+      "originalQuote": "Meer dan halveren van het eigen risico in de zorg tot het niveau van 165 euro in 2027."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-010",
+      "text": "De wetsbehandeling van de Wet verduidelijking beoordeling arbeidsrelaties en rechtsvermoeden (VBAR) en de Wet toelating terbeschikkingstelling van arbeidskrachten (WTTA) wordt voortgezet voor meer zekerheid op de arbeidsmarkt.",
+      "summary": "Voortzetten wetsbehandeling VBAR en WTTA voor arbeidszekerheid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vbar",
+        "wtta",
+        "arbeidszekerheid",
+        "wetsbehandeling",
+        "uitzendsector"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 3",
+      "originalQuote": "Daartoe wordt de wetsbehandeling van de Wet verduidelijking beoordeling arbeidsrelaties en rechtsvermoeden (VBAR) en de Wet toelating terbeschikkingstelling van arbeidskrachten (WTTA) voortgezet."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-011",
+      "text": "De stelselherziening kinderopvang wordt doorgezet, waarbij kinderopvang bijna gratis wordt voor werkende ouders en wordt overgeheveld naar instellingen.",
+      "summary": "Doorzetten stelselherziening kinderopvang - bijna gratis voor werkenden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stelselherziening",
+        "kinderopvang",
+        "gratis",
+        "werkende ouders",
+        "instellingen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 3",
+      "originalQuote": "De stelselherziening kinderopvang (bijna gratis voor werkende ouders en overheveling naar instellingen) wordt doorgezet."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-012",
+      "text": "Wetgeving wordt voorbereid voor een hervorming van het toeslagen- en belastingstelsel om werken meer te laten lonen.",
+      "summary": "Wetgeving voorbereiden voor hervorming toeslagen- en belastingstelsel",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "wetgeving",
+        "hervorming",
+        "toeslagenstelsel",
+        "belastingstelsel",
+        "werken"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 3",
+      "originalQuote": "Wetgeving wordt voorbereid voor een hervorming van het toeslagen- en belastingstelsel."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-013",
+      "text": "De uitzonderingsbepaling van de Vreemdelingenwet 2000 (artikelen 110 en 111) wordt zo spoedig mogelijk geactiveerd om de asielinstroom- en opvangcrisis direct aan te pakken.",
+      "summary": "Activering uitzonderingsbepaling Vreemdelingenwet 2000",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzonderingsbepaling",
+        "vreemdelingenwet",
+        "asielinstroom",
+        "opvangcrisis"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 4",
+      "originalQuote": "Ten eerste wordt de uitzonderingsbepaling van de Vreemdelingenwet 2000 (op grond van de artikelen 110 en 111) zo spoedig mogelijk geactiveerd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-014",
+      "text": "Er komt een tijdelijke Asielcrisiswet met bevoegdheden voor maximaal twee jaar, waaronder het opschorten van behandeling van asielaanvragen ('asielbeslisstop') en intrekking van de Spreidingswet.",
+      "summary": "Asielcrisiswet met asielbeslisstop voor maximaal twee jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielcrisiswet",
+        "asielbeslisstop",
+        "spreidingswet",
+        "opschorting"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 4",
+      "originalQuote": "Ten tweede komt er direct een tijdelijke Asielcrisiswet met crisismaatregelen om de acute asielinstroom en -opvangcrisis voor de komende tijd te bestrijden, onder meer door intrekking van de Spreidingswet."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-015",
+      "text": "Een opt-out clausule voor het Europees asiel- en migratiebeleid wordt zo snel mogelijk bij de Europese Commissie ingediend.",
+      "summary": "Opt-out clausule Europees asiel- en migratiebeleid indienen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opt-out",
+        "europees",
+        "asielbeleid",
+        "migratiebeleid",
+        "commissie"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 5",
+      "originalQuote": "Ten derde zal een opt-out clausule voor het Europees asiel- en migratiebeleid zo snel mogelijk bij de Europese Commissie worden ingediend."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-016",
+      "text": "Asielvergunning voor onbepaalde tijd wordt afgeschaft en die voor tijdelijk verblijf aangepast.",
+      "summary": "Afschaffing asielvergunning onbepaalde tijd",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielvergunning",
+        "onbepaalde tijd",
+        "tijdelijk verblijf"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 5",
+      "originalQuote": "Asielvergunning voor onbepaalde tijd wordt afgeschaft, die voor tijdelijk verblijf aangepast."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-017",
+      "text": "Er komt voor asiel beroep bij één rechterlijke instantie zonder hoger beroep.",
+      "summary": "Eén rechterlijke instantie voor asielberoep zonder hoger beroep",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielberoep",
+        "rechterlijke instantie",
+        "hoger beroep"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 5",
+      "originalQuote": "Er komt voor asiel beroep bij één rechterlijke instantie zonder hoger beroep."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-018",
+      "text": "De standaardtermijn voor naturalisatie wordt verlengd naar 10 jaar, ongeacht verblijf bepaalde of onbepaalde tijd.",
+      "summary": "Naturalisatietermijn verlengd naar 10 jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "standaardtermijn",
+        "verblijfstitel"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 6",
+      "originalQuote": "De standaardtermijn voor naturalisatie wordt verlengd naar 10 jaar, ongeacht verblijf bepaalde of onbepaalde tijd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-019",
+      "text": "De taaleis voor naturalisatie wordt in beginsel voor iedereen verhoogd naar B1-niveau.",
+      "summary": "Taaleis naturalisatie verhoogd naar B1",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taaleis",
+        "naturalisatie",
+        "b1-niveau"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 7",
+      "originalQuote": "De taaleis voor naturalisatie wordt in beginsel voor iedereen verhoogd naar B1."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-020",
+      "text": "Er wordt zo snel mogelijk een Woontop georganiseerd waarbij afdwingbare afspraken gemaakt worden om structureel 100.000 woningen per jaar erbij te bouwen.",
+      "summary": "Woontop voor 100.000 woningen per jaar structureel",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woontop",
+        "woningbouw",
+        "afdwingbare afspraken"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 8",
+      "originalQuote": "Er wordt zo snel mogelijk een Woontop georganiseerd, waarbij rijksoverheid, pensioenfondsen, woningcorporaties, sociale partners, gemeenten en provincies afdwingbare afspraken maken om woningbouw structureel te verhogen. Als politiek doel is de afspraak om structureel 100.000 woningen per jaar erbij te bouwen"
+    },
+    {
+      "promiseCode": "SCHOOF-2024-021",
+      "text": "Van nieuwbouw moet minimaal 30% gemiddeld sociale huur zijn en twee derde van nieuw te bouwen woningen moet betaalbaar zijn voor middeninkomens.",
+      "summary": "30% sociale huur, 67% betaalbaar voor middeninkomens bij nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "sociale huur",
+        "betaalbaar",
+        "middeninkomens"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 8",
+      "originalQuote": "Van nieuwbouw moet minimaal 30% gemiddeld – dus met gebiedsgerichte differentiatie – sociale huur zijn; het wetsvoorstel Versterking regie volkshuisvesting wordt aangepast om gemeenten hier meer lokale ruimte te geven. Twee derde van de nieuw te bouwen woningen moet betaalbaar zijn voor middeninkomens."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-022",
+      "text": "De sociale huurontwikkeling volgt tot 2026 de CAO ontwikkeling -0,5%. Vanaf 2026 wordt de consumentenprijsindex (cpi) +0% gevolgd.",
+      "summary": "Sociale huurontwikkeling: tot 2026 CAO-0,5%, vanaf 2026 CPI+0%",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huur",
+        "huurontwikkeling",
+        "cao",
+        "consumentenprijsindex"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 8",
+      "originalQuote": "De jaarlijkse sociale huurontwikkeling volgt tot 2026 de bestaande afspraak met de woningbouwcorporaties, te weten de CAO ontwikkeling -0,5%. Vanaf 2026 wordt de consumentenprijsindex (cpi) +0% gevolgd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-023",
+      "text": "De maximumsnelheid op de snelweg wordt daar waar dat kan verhoogd naar 130 kilometer per uur.",
+      "summary": "Maximumsnelheid snelweg verhoogd naar 130 km/u waar mogelijk",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "snelweg",
+        "kilometer"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 9",
+      "originalQuote": "De maximumsnelheid op de snelweg wordt – daar waar dat kan - verhoogd naar 130 kilometer per uur."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-024",
+      "text": "De aanleg van de Lelylijn wordt voortgezet, waarbij met de aanleg wordt gestart in Groningen indien dit uitvoeringstechnisch mogelijk is.",
+      "summary": "Voortzetting aanleg Lelylijn, start in Groningen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lelylijn",
+        "aanleg",
+        "groningen",
+        "spoorverbinding"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 9",
+      "originalQuote": "De aanleg van de Lelylijn wordt voortgezet, waarbij met de aanleg wordt gestart in Groningen indien dit uitvoeringstechnisch mogelijk is."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-025",
+      "text": "Er wordt niet gestuurd op gedwongen krimp van de veestapel en er komt geen gedwongen onteigening.",
+      "summary": "Geen gedwongen krimp veestapel of onteigening",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veestapel",
+        "gedwongen krimp",
+        "onteigening"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 11",
+      "originalQuote": "Er wordt niet gestuurd op gedwongen krimp van de veestapel en er komt geen gedwongen onteigening."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-026",
+      "text": "De rode diesel komt terug voor boeren, tuinders en loonwerkers.",
+      "summary": "Herintroductie rode diesel voor land- en tuinbouw",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rode diesel",
+        "boeren",
+        "tuinders",
+        "loonwerkers"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 11",
+      "originalQuote": "De rode diesel komt terug voor boeren, tuinders en loonwerkers."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-027",
+      "text": "Het model Aerius calculator wordt ten behoeve van de vergunningverlening vervangen, zodra er een juridisch houdbaar alternatief is.",
+      "summary": "Vervanging Aerius calculator bij vergunningverlening",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aerius calculator",
+        "vergunningverlening",
+        "alternatief"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 11",
+      "originalQuote": "Het model Aerius calculator wordt ten behoeve van de vergunningverlening vervangen, zodra er een juridisch houdbaar alternatief is."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-028",
+      "text": "Het vervoer van dieren over lange afstanden wordt beëindigd als dit niet volgens geldende Europese dierenwelzijnseisen kan en niet kan worden gehandhaafd.",
+      "summary": "Beëindigen langeafstandsvervoer dieren bij overtreding EU-normen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dierenvervoer",
+        "dierenwelzijn",
+        "europese",
+        "handhaving"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 12",
+      "originalQuote": "Aanvullend wordt bezien hoe het vervoer van dieren over lange afstanden beëindigd moet worden, als dit niet volgens de geldende, Europese dierenwelzijnseisen kan, en niet kan worden gehandhaafd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-029",
+      "text": "De kritische depositiewaarde gaat uit de wet en wordt vervangen door een juridisch houdbaar alternatief.",
+      "summary": "Kritische depositiewaarde uit wet halen, vervangen door alternatief",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "depositiewaarde",
+        "wetgeving",
+        "juridisch",
+        "alternatief"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 12",
+      "originalQuote": "De kritische depositiewaarde gaat uit de wet en wordt vervangen door een juridisch houdbaar alternatief."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-030",
+      "text": "De nationale databank Flora en Fauna wordt zo snel mogelijk kosteloos en ongelimiteerd voor publieke doeleinden opengesteld.",
+      "summary": "Databank Flora en Fauna kosteloos en ongelimiteerd toegankelijk maken",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "databank",
+        "flora",
+        "fauna",
+        "kosteloos",
+        "publiek"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 12",
+      "originalQuote": "De nationale databank Flora en Fauna wordt zo snel mogelijk kosteloos en ongelimiteerd voor publieke doeleinden opengesteld."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-031",
+      "text": "Er komt een juridisch houdbare, wetenschappelijk verantwoorde rekenkundige ondergrens van minimaal 1 mol/ha/jaar voor stikstofdepositie. PAS-melders worden met voorrang gelegaliseerd.",
+      "summary": "Stikstofondergrens 1 mol/ha/jaar, PAS-melders voorrang legalisatie",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstof",
+        "ondergrens",
+        "mol",
+        "pas-melders",
+        "legalisatie"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 12",
+      "originalQuote": "Er komt een juridisch houdbare, wetenschappelijk verantwoorde rekenkundige ondergrens, dan wel drempelwaarde, van minimaal 1 mol/ha/jaar. Op basis hiervan, of met beschikbare stikstofruimte via extern salderen, worden 'PAS-melders' met voorrang gelegaliseerd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-032",
+      "text": "In Europa wordt door Nederland alles op alles gezet om de pulsvisserij weer toe te staan.",
+      "summary": "Nederland zet zich in Europa in voor toestaan pulsvisserij",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pulsvisserij",
+        "europa",
+        "toestaan",
+        "visserij"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 12",
+      "originalQuote": "In Europa wordt door Nederland alles op alles gezet om de pulsvisserij weer toe te staan."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-033",
+      "text": "Het ministerie van LNV gaat het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) heten.",
+      "summary": "Ministerie LNV wordt omgedoopt naar LVVN",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "naamswijziging",
+        "lvvn",
+        "landbouw",
+        "visserij"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 12",
+      "originalQuote": "Het ministerie van LNV gaat het ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (LVVN) heten."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-034",
+      "text": "Er komen geen verplichte labelsprongen voor koopwoningen en de verplichting om vanaf 2026 bij vervanging van verwarmingsketel een warmtepomp te installeren wordt geschrapt.",
+      "summary": "Geen verplichte labelsprongen woningen, warmtepompverplichting 2026 geschrapt",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "labelsprongen",
+        "koopwoningen",
+        "warmtepomp",
+        "verplichting",
+        "2026"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 13",
+      "originalQuote": "Er komen geen verplichte labelsprongen voor koopwoningen en de verplichting om vanaf 2026, bij het vervangen van de verwarmingsketel, een warmtepomp te moeten installeren, wordt geschrapt."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-035",
+      "text": "De subsidies voor elektrische voertuigen stoppen allemaal per 2025, de MRB gewichtscorrectie blijft bestaan.",
+      "summary": "EV-subsidies stoppen 2025, MRB gewichtscorrectie blijft",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "elektrische",
+        "voertuigen",
+        "2025",
+        "mrb"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 13",
+      "originalQuote": "De subsidies stoppen allemaal per 2025, de MRB gewichtscorrectie (fiscaal) blijft bestaan."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-036",
+      "text": "Er wordt zo snel mogelijk gestopt met het subsidiëren van bio-energie gecombineerd met CO2-opvang en opslag (BECCS) en biomassacentrales, conform het eerder afgesproken afbouwpad.",
+      "summary": "Stoppen subsidiëren BECCS en biomassacentrales volgens afbouwpad",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beccs",
+        "biomassacentrales",
+        "subsidies",
+        "afbouwpad",
+        "co2-opvang"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 13",
+      "originalQuote": "Er wordt zo snel mogelijk gestopt met het subsidiëren van bio-energie gecombineerd met CO2-opvang en opslag (BECCS) en biomassacentrales, conform het eerder afgesproken afbouwpad."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-037",
+      "text": "De aangekondigde verhoogde CO2-heffing wordt teruggedraaid.",
+      "summary": "Verhoogde CO2-heffing wordt teruggedraaid",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "co2-heffing",
+        "terugdraaien",
+        "verhoogd"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 13",
+      "originalQuote": "De aangekondigde verhoogde CO2-heffing wordt teruggedraaid."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-038",
+      "text": "De kerncentrale in Borssele blijft open; de bouw van twee kerncentrales wordt doorgezet. Daarnaast komen er twee extra kerncentrales, waarbij ook mogelijkheden voor meerdere kleine centrales worden betrokken.",
+      "summary": "Borssele open, twee kerncentrales doorzetten, twee extra kerncentrales",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrale",
+        "borssele",
+        "kerncentrales",
+        "bouw",
+        "extra"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 14",
+      "originalQuote": "De kerncentrale in Borssele blijft open; de bouw van twee kerncentrales wordt doorgezet. Daarnaast komen er twee extra kerncentrales, waarbij ook de mogelijkheden voor meerdere kleine centrales worden betrokken."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-039",
+      "text": "Geen Gronings gas meer, gaswinning op de Noordzee wordt opgeschaald.",
+      "summary": "Geen Gronings gas, Noordzee gaswinning opschalen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gronings",
+        "gas",
+        "noordzee",
+        "gaswinning",
+        "opschalen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 14",
+      "originalQuote": "Geen Gronings gas meer, gaswinning op de Noordzee wordt opgeschaald."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-040",
+      "text": "Er komt een veilig, decentraal vormgegeven elektronisch patiëntendossier voor uitwisseling van gegevens binnen de zorg, met inachtneming van privacy en gegevensbeveiliging.",
+      "summary": "Decentraal elektronisch patiëntendossier voor gegevensuitwisseling",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "elektronisch",
+        "patiëntendossier",
+        "decentraal",
+        "gegevensuitwisseling",
+        "privacy"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 15",
+      "originalQuote": "Een veilig, decentraal vormgegeven elektronisch patiëntendossier, ook voor uitwisseling van gegevens binnen de zorg, met inachtneming van privacy en gegevensbeveiliging."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-041",
+      "text": "De wildgroei aan onderwijssubsidies wordt gestopt en omgezet in solide structurele financiering, met een norm voor onderwijsgeld voor het primaire proces en maximering van overhead.",
+      "summary": "Stoppen wildgroei onderwijssubsidies, structurele financiering met norm",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidies",
+        "wildgroei",
+        "structurele",
+        "financiering",
+        "overhead"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 16",
+      "originalQuote": "Het stoppen met de wildgroei aan subsidies; deze omzetten in solide structurele financiering, met een norm voor de hoeveelheid onderwijsgeld voor het primaire proces, het maximeren van overhead en met zeggenschap van schoolleiders en betrokkenheid van leraren bij de besteding van middelen."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-042",
+      "text": "Het aantal kerndoelen in het onderwijs wordt fors verminderd met absolute prioriteit voor basisvaardigheden lezen, schrijven en rekenen.",
+      "summary": "Kerndoelen onderwijs fors verminderen, focus op basisvaardigheden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerndoelen",
+        "verminderen",
+        "basisvaardigheden",
+        "lezen",
+        "rekenen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 16",
+      "originalQuote": "De kerndoelen worden herzien; het aantal wordt fors verminderd en er wordt focus aangebracht. De basisvaardigheden, lezen, schrijven en rekenen, krijgen absolute prioriteit."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-043",
+      "text": "Voor de bekostiging van het hoger onderwijs wordt deels overgestapt naar capaciteitsbekostiging om bij krimpende studentenaantallen opleidingen overeind te houden.",
+      "summary": "Deels overstap naar capaciteitsbekostiging hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bekostiging",
+        "capaciteitsbekostiging",
+        "hoger",
+        "onderwijs",
+        "krimpende"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 16",
+      "originalQuote": "Voor de bekostiging van het hoger onderwijs stappen we deels over naar capaciteitsbekostiging om met krimpende studentenaantallen opleidingen, die voor de arbeidsmarkt of de regio belangrijk zijn, overeind te houden."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-044",
+      "text": "Studenten die hebben gestudeerd onder het sociaal leenstelsel krijgen een extra eenmalige tegemoetkoming.",
+      "summary": "Extra eenmalige tegemoetkoming voor studenten sociaal leenstelsel",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studenten",
+        "sociaal",
+        "leenstelsel",
+        "tegemoetkoming",
+        "eenmalig"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 16",
+      "originalQuote": "De studiebeurs wordt behouden en studenten die hebben gestudeerd onder het sociaal leenstelsel krijgen een extra eenmalige tegemoetkoming."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-045",
+      "text": "De 'verengelsing' in het Hoger Onderwijs wordt teruggedrongen, met strategische uitzonderingen voor opleidingen voor tekortberoepen.",
+      "summary": "Verengelsing hoger onderwijs terugdringen, uitzonderingen tekortberoepen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verengelsing",
+        "hoger",
+        "onderwijs",
+        "tekortberoepen",
+        "uitzonderingen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 16",
+      "originalQuote": "Het bevorderen van de Nederlandse taalvaardigheid wordt weer een kerntaak van kennisinstellingen in het Hoger Onderwijs. De 'verengelsing' wordt teruggedrongen, met strategische uitzonderingen voor opleidingen voor tekortberoepen."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-046",
+      "text": "De burgerschapsopdracht wordt aangescherpt om radicalisering te voorkomen. Bestuurders worden sneller ontslagen als de burgersopdracht niet wordt uitgevoerd.",
+      "summary": "Burgerschapsopdracht aanscherpen, sneller ontslag bestuurders",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerschapsopdracht",
+        "radicalisering",
+        "bestuurders",
+        "ontslag"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 16-17",
+      "originalQuote": "De burgerschapsopdracht wordt aangescherpt om radicalisering te voorkomen. Bestuurders worden sneller ontslagen als de burgersopdracht niet wordt uitgevoerd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-047",
+      "text": "Een wetsvoorstel tot invoering van een nieuw kiesstelsel voor de Tweede Kamer ter versterking van de regionale band tussen kiezers en gekozenen wordt dit jaar ingediend, gericht op tijdige inwerkingtreding voor de volgende verkiezingen.",
+      "summary": "Nieuw kiesstelsel Tweede Kamer met regionale band, wetsvoorstel dit jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesstelsel",
+        "tweede kamer",
+        "wetsvoorstel",
+        "regionale band",
+        "verkiezingen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "Een wetsvoorstel tot invoering van een nieuw kiesstelsel voor de Tweede Kamer ter versterking van de regionale band tussen kiezers en gekozenen wordt dit jaar ingediend, gericht op tijdige inwerkingtreding voor de volgende verkiezingen."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-048",
+      "text": "Een grondwetsherzieningsvoorstel tot het schrappen van het toetsingsverbod in artikel 120 wordt ingediend. De klassieke bepalingen van de Grondwet worden toetsbaar.",
+      "summary": "Schrappen toetsingsverbod artikel 120 Grondwet via grondwetsherziening",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwetsherziening",
+        "toetsingsverbod",
+        "artikel 120",
+        "grondwet"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "Een grondwetsherzieningsvoorstel tot het schrappen van het toetsingsverbod in artikel 120 wordt ingediend. De klassieke bepalingen van de Grondwet worden toetsbaar."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-049",
+      "text": "Een grondwetsherzieningsvoorstel tot invoering van een grondwettelijk (constitutioneel) hof dat wetten toetst aan de Grondwet wordt ingediend, vergezeld van een voorstel inzake de beoogde invulling van deze toetsing.",
+      "summary": "Invoering constitutioneel hof via grondwetsherziening voor wettentoetsing",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "constitutioneel hof",
+        "grondwetsherziening",
+        "wettentoetsing",
+        "grondwet"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "Een grondwetsherzieningsvoorstel tot invoering van een grondwettelijk (constitutioneel) hof dat wetten toetst aan de Grondwet wordt ingediend, vergezeld van een voorstel inzake de beoogde invulling van deze toetsing."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-050",
+      "text": "De Afdeling bestuursrechtspraak van de Raad van State wordt verzelfstandigd.",
+      "summary": "Verzelfstandiging Afdeling bestuursrechtspraak Raad van State",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bestuursrechtspraak",
+        "raad van state",
+        "verzelfstandiging"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "De Afdeling bestuursrechtspraak van de Raad van State wordt verzelfstandigd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-051",
+      "text": "Een vaste Tweede Kamercommissie grondrechten en constitutionele toetsing zal worden ingevuld voor versterking van constitutionele advisering voorafgaande aan beleid, wetgeving en verdragen.",
+      "summary": "Vaste Kamercommissie grondrechten en constitutionele toetsing wordt ingevuld",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kamercommissie",
+        "grondrechten",
+        "constitutionele toetsing",
+        "advisering"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "Een vaste Tweede Kamercommissie grondrechten en constitutionele toetsing en zal worden ingevuld. Versterking van constitutionele advisering/toetsing voorafgaande aan voorstellen tot beleid en wetgeving en van (goedkeuring van) internationale en EU-verdragen en van implementatie van EU-regelgeving, worden door de Afdeling advisering van de Raad van State en door die - permanent te maken - commissie uitgewerkt."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-052",
+      "text": "De behandeling van het initiatiefgrondwetsvoorstel correctief referendum in tweede lezing wordt voortgezet.",
+      "summary": "Voortzetting behandeling grondwetsvoorstel correctief referendum tweede lezing",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "correctief referendum",
+        "grondwetsvoorstel",
+        "tweede lezing"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "De behandeling van het initiatiefgrondwetsvoorstel correctief referendum in tweede lezing wordt voortgezet."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-053",
+      "text": "De aanstellingswijze van de burgemeester blijft ongewijzigd.",
+      "summary": "Aanstellingswijze burgemeester blijft ongewijzigd",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeester",
+        "aanstellingswijze"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "De aanstellingswijze van de burgemeester blijft ongewijzigd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-054",
+      "text": "De wijze van totstandkoming, parlementaire goedkeuring en uitvoering van verdragen wordt herijkt met een sterkere rol van het parlement en expliciete toetsing aan artikel 91, derde lid, van de Grondwet.",
+      "summary": "Herziening verdragsprocedures met sterkere parlementaire rol en grondwettoetsing",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verdragen",
+        "parlementaire goedkeuring",
+        "artikel 91",
+        "grondwet"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 18",
+      "originalQuote": "De wijze van totstandkoming, parlementaire goedkeuring en uitvoering van verdragen wordt herijkt met een sterkere rol van het parlement en expliciete toetsing aan artikel 91, derde lid, van de Grondwet."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-055",
+      "text": "Er komt een Europawet, met inbegrip van een regeling van informatievoorziening en procedures bij voorbereiding en totstandkoming van Europese wetgeving.",
+      "summary": "Invoering Europawet met procedures en informatievoorziening EU-wetgeving",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europawet",
+        "informatievoorziening",
+        "procedures",
+        "eu-wetgeving"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Er komt een Europawet, met inbegrip van een regeling van informatievoorziening en procedures bij voorbereiding en totstandkoming van Europese wetgeving."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-056",
+      "text": "Een Kamerlid krijgt een versterkte procedure om informatie af te dwingen conform artikel 68 van de Grondwet, waarbij de uitzonderingsgrond 'het belang van de Staat' toetsbaar wordt bij de commissie grondrechten en constitutionele toetsing.",
+      "summary": "Versterkte informatieprocedure Kamerleden met toetsing uitzonderingsgronden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "informatieprocedure",
+        "artikel 68",
+        "grondwet",
+        "belang van de staat"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Een Kamerlid krijgt een versterkte procedure om informatie af te dwingen conform artikel 68 van de Grondwet, waarbij de uitzonderingsgrond \"het belang van de Staat\" toetsbaar wordt (uitgewerkt en belegd) bij de commissie grondrechten en constitutionele toetsing van de Tweede Kamer."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-057",
+      "text": "Er wordt onderzocht of en hoe nadere vereisten gesteld kunnen worden aan de representativiteit van belangenorganisaties met een ideëel doel op grond van art. 3.305a Burgerlijk Wetboek.",
+      "summary": "Onderzoek vereisten representativiteit belangenorganisaties artikel 3.305a BW",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belangenorganisaties",
+        "representativiteit",
+        "artikel 3.305a",
+        "burgerlijk wetboek"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Er wordt onderzocht of en hoe nadere vereisten gesteld kunnen worden aan de representativiteit van belangenorganisaties met een ideëel doel op grond van art. 3.305a Burgerlijk Wetboek."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-058",
+      "text": "De Tweede Kamer krijgt meer ondersteuning (wetgeving, analyse en onderzoek).",
+      "summary": "Uitbreiding ondersteuning Tweede Kamer voor wetgeving, analyse en onderzoek",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "tweede kamer",
+        "ondersteuning",
+        "wetgeving",
+        "analyse",
+        "onderzoek"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De Tweede Kamer krijgt meer ondersteuning (wetgeving, analyse en onderzoek)."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-059",
+      "text": "De onafhankelijkheid van de Kiesraad wordt verstevigd en het mandaat uitgebreid tot een Kiesautoriteit.",
+      "summary": "Verstevigde onafhankelijkheid Kiesraad en uitbreiding tot Kiesautoriteit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesraad",
+        "onafhankelijkheid",
+        "kiesautoriteit",
+        "mandaat"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De onafhankelijkheid van de Kiesraad wordt verstevigd en het mandaat uitgebreid tot een Kiesautoriteit."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-060",
+      "text": "Er komt een recht op vergissen. Een enkele fout kan niet langer een burger diep in de problemen duwen. Aanmanings- en incassokosten van de overheid gaan fors omlaag.",
+      "summary": "Invoering recht op vergissen en verlaging aanmanings- en incassokosten overheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "recht op vergissen",
+        "aanmaningskosten",
+        "incassokosten",
+        "overheid"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Er komt een recht op vergissen. Een enkele fout kan niet langer een burger diep in de problemen duwen. Aanmanings- en incassokosten van de overheid gaan fors omlaag."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-061",
+      "text": "De bereikbaarheid van overheidsorganisaties voor burgers moet omhoog, onder meer door daadwerkelijke verruiming van mogelijkheden, tijden en locaties voor contacten in persoon, meer tijdig telefonisch contact en grotere beschikbaarheid van hulp bij digitaal contact. Bestaande niet-digitale communicatie wordt gehandhaafd.",
+      "summary": "Verbetering bereikbaarheid overheid met meer contactmogelijkheden en handhaving niet-digitale communicatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bereikbaarheid",
+        "overheidsorganisaties",
+        "contactmogelijkheden",
+        "niet-digitale communicatie"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De bereikbaarheid van overheidsorganisaties voor burgers moet omhoog, onder meer door daadwerkelijke verruiming van de mogelijkheden, tijden en locaties voor contacten in persoon, meer tijdig en adequaat telefonisch contact en grotere beschikbaarheid van hulp bij digitaal contact. Bestaande niet-digitale communicatie door de overheid met burgers wordt gehandhaafd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-062",
+      "text": "De bescherming van klokkenluiders wordt versterkt.",
+      "summary": "Versterking bescherming klokkenluiders",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "klokkenluiders",
+        "bescherming"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De bescherming van klokkenluiders wordt versterkt."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-063",
+      "text": "Er komt een wetenschappelijke standaard voor het gebruik van modellen en algoritmes. Beide moeten openbaar en navolgbaar zijn. De bijsluiter maakt duidelijk waarvoor ze wel en waarvoor ze niet bedoeld zijn en gebruikt kunnen worden.",
+      "summary": "Wetenschappelijke standaard voor modellen en algoritmes met openbaarheid en bijsluiter",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetenschappelijke standaard",
+        "modellen",
+        "algoritmes",
+        "openbaarheid",
+        "bijsluiter"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Er komt een wetenschappelijke standaard voor het gebruik van modellen en algoritmes. Beide moeten openbaar en navolgbaar zijn. De bijsluiter maakt duidelijk waarvoor ze wel en waarvoor ze niet bedoeld zijn en gebruikt kunnen worden."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-064",
+      "text": "Gebruik van AI door de overheid wordt aan voorwaarden gebonden zodat veiligheid, privacy en rechtsbescherming geborgd zijn. De overheid en maatschappij worden weerbaar gemaakt tegen desinformatie en 'deepfakes'.",
+      "summary": "Voorwaarden AI-gebruik overheid en weerbaarheid tegen desinformatie en deepfakes",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ai",
+        "artificiële intelligentie",
+        "privacy",
+        "rechtsbescherming",
+        "desinformatie",
+        "deepfakes"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Gebruik van AI (artificiële intelligentie) door de overheid biedt voordelen maar wordt ook aan voorwaarden gebonden zodat veiligheid, privacy en rechtsbescherming geborgd zijn. De overheid, waarbij de kennis van digitalisering moet worden versterkt, en de maatschappij worden weerbaar gemaakt tegen desinformatie en 'deepfakes'."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-065",
+      "text": "De Wet open overheid, de uitvoering hiervan en de hiermee gemoeide kosten, worden geëvalueerd.",
+      "summary": "Evaluatie Wet open overheid inclusief uitvoering en kosten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet open overheid",
+        "evaluatie",
+        "uitvoering",
+        "kosten"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De Wet open overheid, de uitvoering hiervan en de hiermee gemoeide kosten, worden geëvalueerd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-066",
+      "text": "Er komt een wettelijke regeling voor en van de onafhankelijke inspecties, toezichthouders en autoriteiten, inclusief hun wijze van handhaving (wet op de rijksinspecties en autoriteiten).",
+      "summary": "Wettelijke regeling onafhankelijke inspecties en autoriteiten inclusief handhaving",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijke regeling",
+        "inspecties",
+        "toezichthouders",
+        "autoriteiten",
+        "handhaving"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "Er komt een wettelijke regeling voor en van de onafhankelijke inspecties, toezichthouders en autoriteiten, inclusief hun wijze van handhaving (wet op de rijksinspecties en autoriteiten)."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-067",
+      "text": "De rijksdienst zet aantoonbaar meer in op vakmanschap, kennis, uitvoering en burgerperspectief; werving voor en roulatie bij de algemene bestuursdienst worden in deze context hervormd.",
+      "summary": "Hervorming rijksdienst met focus op vakmanschap en hervorming algemene bestuursdienst",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksdienst",
+        "vakmanschap",
+        "burgerperspectief",
+        "algemene bestuursdienst",
+        "hervorming"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De rijksdienst zet aantoonbaar meer in op vakmanschap, kennis, uitvoering en burgerperspectief; werving voor en roulatie bij de algemene bestuursdienst worden in deze context hervormd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-068",
+      "text": "De groei van het aantal ambtenaren en de inzet van consultants bij (kern-)departementen van de afgelopen jaren wordt meer dan teruggedraaid, waarbij uitvoerende diensten worden ontzien. Deze taakstelling wordt gekoppeld aan het verminderen van regels en administratieve lasten.",
+      "summary": "Inkrimping ambtenaren en consultants kerndepartementen gekoppeld aan regelvermindering",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ambtenaren",
+        "consultants",
+        "kerndepartementen",
+        "taakstelling",
+        "regelvermindering",
+        "administratieve lasten"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De groei van het aantal ambtenaren en de inzet van consultants bij (kern-)departementen van de afgelopen jaren wordt meer dan teruggedraaid, waarbij uitvoerende diensten worden ontzien. Deze taakstelling wordt gekoppeld aan het verminderen van regels en administratieve lasten voor de samenleving en de uitvoering."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-069",
+      "text": "De overheidsarchieven worden op orde gebracht. Daartoe wordt de Archiefwet gemoderniseerd.",
+      "summary": "Modernisering Archiefwet om overheidsarchieven op orde te brengen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheidsarchieven",
+        "archiefwet",
+        "modernisering"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 19",
+      "originalQuote": "De overheidsarchieven worden op orde gebracht. Daartoe wordt de Archiefwet gemoderniseerd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-070",
+      "text": "Er komt een voorstel met een overzicht dat vermeldt welke aanbevelingen uit de rapporten van de parlementaire enquêtes, 'Greco' en de Venetië-commissie aan deze agenda toegevoegd worden.",
+      "summary": "Overzicht aanbevelingen parlementaire enquêtes, Greco en Venetië-commissie voor agenda",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parlementaire enquêtes",
+        "greco",
+        "venetië-commissie",
+        "aanbevelingen",
+        "overzicht"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 20",
+      "originalQuote": "Er komt een voorstel met een overzicht dat vermeldt welke aanbevelingen uit de rapporten van de parlementaire enquêtes, 'Greco' en de Venetië-commissie aan deze agenda toegevoegd worden."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-071",
+      "text": "De aanpak van georganiseerde criminaliteit wordt versterkt, met meer inzet op confiscatie van vermogen waarbij de Europese aanpak wordt overgenomen. De anti-witwasaanpak wordt geïntensiveerd en de kroongetuigeregeling wordt uitgebreid.",
+      "summary": "Versterking aanpak georganiseerde criminaliteit met Europese vermogensconfiscatie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "georganiseerde",
+        "criminaliteit",
+        "confiscatie",
+        "vermogen",
+        "witwas",
+        "kroongetuigen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 20-21",
+      "originalQuote": "De aanpak van de georganiseerde criminaliteit wordt versterkt, van preventie tot bewaken en van beveiligen tot de aanpak in detentie. Er wordt meer ingezet op confiscatie van vermogen, daarbij wordt de Europese aanpak overgenomen. De anti-witwasaanpak wordt geïntensiveerd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-072",
+      "text": "De mogelijkheid voor werken onder nummer wordt uitgebreid voor politie, officieren van justitie en rechters-commissarissen.",
+      "summary": "Uitbreiding werken onder nummer voor justitiële functionarissen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werken",
+        "nummer",
+        "politie",
+        "officieren",
+        "rechters-commissarissen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 21",
+      "originalQuote": "De mogelijkheid voor werken onder nummer voor de politie, officieren van justitie en rechters-commissarissen wordt uitgebreid."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-073",
+      "text": "Het opsporend en handhavend personeel in de veiligheidsketen, inclusief politie en boa's, is neutraal en zonder religieuze symbolen gekleed.",
+      "summary": "Neutraliteitsverplichting voor politie en boa's zonder religieuze symbolen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politie",
+        "boa",
+        "neutraal",
+        "religieuze",
+        "symbolen",
+        "uniformering"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 21",
+      "originalQuote": "Het opsporend en handhavend personeel in de veiligheidsketen, inclusief politie en boa's, is neutraal, zonder religieuze symbolen gekleed."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-074",
+      "text": "Het jeugdstrafrecht voor 14 tot en met 16-jarigen wordt aangescherpt, onder andere door het verhogen van maximale straffen.",
+      "summary": "Aanscherping jeugdstrafrecht 14-16 jaar met hogere maximumstraffen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdstrafrecht",
+        "maximale",
+        "straffen",
+        "aanscherping"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 21",
+      "originalQuote": "Het jeugdstrafrecht voor 14 tot en met 16-jarigen wordt aangescherpt, onder andere door het verhogen van maximale straffen."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-075",
+      "text": "De strafmaat voor terroristische activiteiten wordt verhoogd naar twintig jaar. De definitie van deelname aan een terroristische organisatie wordt verruimd.",
+      "summary": "Terrorisme: strafmaat verhoogd naar 20 jaar en verruimde definitie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terrorisme",
+        "strafmaat",
+        "twintig",
+        "jaar",
+        "definitie",
+        "organisatie"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 22",
+      "originalQuote": "De definitie van deelname aan een terroristische organisatie wordt verruimd, de strafmaat voor terroristische activiteiten wordt verhoogd naar twintig jaar."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-076",
+      "text": "Het openlijk steun betuigen aan terroristische organisaties wordt verboden en een apart strafdelict met een forse maximumstraf.",
+      "summary": "Verbod op openlijk steun betuigen aan terroristische organisaties",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbod",
+        "steun",
+        "terroristische",
+        "organisaties",
+        "strafdelict"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 22",
+      "originalQuote": "Het openlijk steun betuigen aan terroristische organisaties wordt verboden. Aanzetten tot geweld, het verheerlijken van terroristische daden en het openlijk steun betuigen aan terroristische organisaties wordt een apart strafdelict met een forse maximumstraf."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-077",
+      "text": "F4-vuurwerk wordt onder de wet Wapens en munitie gebracht, waarbij wordt bezien hoe professionele vuurwerkshows deze categorie door verlening van een vergunning kunnen blijven gebruiken.",
+      "summary": "F4-vuurwerk onder Wet wapens en munitie met vergunning voor professionals",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "f4-vuurwerk",
+        "wapens",
+        "munitie",
+        "vergunning",
+        "professionals"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 22",
+      "originalQuote": "F4-vuurwerk wordt daarom onder de wet Wapens en munitie gebracht, waarbij wordt bezien hoe professionele vuurwerkshows deze categorie door verlening van een vergunning kunnen blijven gebruiken."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-078",
+      "text": "Er komt een verbod op gezichtsbedekkende kleding in voetbalstadions. Er wordt vaker een (digitale) meldplicht voor personen met een stadionverbod opgelegd.",
+      "summary": "Verbod gezichtsbedekkende kleding stadions en digitale meldplicht",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "gezichtsbedekkende",
+        "kleding",
+        "stadions",
+        "meldplicht"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 23",
+      "originalQuote": "Er wordt vaker een (digitale) meldplicht voor personen met een stadionverbod opgelegd en er wordt een vergunning verleend per (risicovolle) wedstrijd. Daarnaast komt er een verbod op gezichtsbedekkende kleding in voetbalstadions."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-079",
+      "text": "De minimumleeftijd voor prostitutie wordt verhoogd naar 21 jaar.",
+      "summary": "Minimumleeftijd prostitutie verhoogd naar 21 jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumleeftijd",
+        "prostitutie",
+        "21",
+        "jaar"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 23",
+      "originalQuote": "De minimumleeftijd voor prostitutie wordt verhoogd naar 21 jaar."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-080",
+      "text": "De maximale strafmaat voor openlijke geweldpleging gaat met een derde omhoog.",
+      "summary": "Maximale strafmaat openlijke geweldpleging verhoogd met een derde",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximale",
+        "strafmaat",
+        "geweldpleging",
+        "derde",
+        "verhoging"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 23",
+      "originalQuote": "De maximale strafmaat voor openlijke geweldpleging gaat met een derde omhoog."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-081",
+      "text": "De uitgaven aan Defensie worden in lijn gebracht met de NAVO-norm van tenminste 2% bbp en wettelijk vastgelegd.",
+      "summary": "Defensie-uitgaven naar NAVO-norm 2% bbp, wettelijk vastleggen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "uitgaven",
+        "navo-norm",
+        "bbp",
+        "wetgeving"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 24",
+      "originalQuote": "De uitgaven aan Defensie, waarvan de taken grondwettelijk zijn verankerd, worden in lijn gebracht met de NAVO-norm van tenminste 2% bbp en wettelijk vastgelegd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-082",
+      "text": "De aanbevelingen van de Algemene Rekenkamer uit 2022 over strategische voorraden en vitale infrastructuur worden opgevolgd.",
+      "summary": "Aanbevelingen Rekenkamer 2022 over strategische voorraden opvolgen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "algemene rekenkamer",
+        "strategische voorraden",
+        "vitale infrastructuur",
+        "aanbevelingen"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 24",
+      "originalQuote": "Daartoe worden de aanbevelingen van de Algemene Rekenkamer uit 2022 opgevolgd."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-083",
+      "text": "Nederland neemt het initiatief tot oprichting van een internationaal tribunaal voor de berechting van misdrijven door IS.",
+      "summary": "Initiatief internationaal tribunaal voor berechting IS-misdrijven",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tribunaal",
+        "berechting",
+        "misdrijven",
+        "genocide",
+        "is"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 25",
+      "originalQuote": "Nederland neemt het initiatief tot oprichting van een internationaal tribunaal voor de berechting van misdrijven (waaronder genocide) door IS (Da'esh)."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-084",
+      "text": "Wordt onderzocht wanneer verplaatsing van de ambassade naar Jeruzalem op een geschikt moment kan plaatsvinden.",
+      "summary": "Onderzoek verplaatsing ambassade naar Jeruzalem",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ambassade",
+        "jeruzalem",
+        "verplaatsing",
+        "onderzoek"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 25",
+      "originalQuote": "Met inachtneming van de oplossingen voor het Israëlisch-Palestijnse conflict en de diplomatieke belangen, wordt onderzocht wanneer verplaatsing van de ambassade naar Jeruzalem op een daartoe geschikt moment kan plaatsvinden."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-085",
+      "text": "Nederland moet behoren tot de top 5 van de landen met een goede concurrentiepositie.",
+      "summary": "Nederland naar top 5 concurrentiepositie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "concurrentiepositie",
+        "top",
+        "vestigingsklimaat",
+        "economie"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 25",
+      "originalQuote": "Nederland moet behoren tot de top 5 van de landen met een goede concurrentiepositie."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-086",
+      "text": "Recente lastenverzwaringen voor ondernemers, verhoging van de energiebelasting sinds Prinsjesdag worden deels teruggedraaid.",
+      "summary": "Deels terugdraaien recente lastenverzwaringen ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lastenverzwaringen",
+        "ondernemers",
+        "energiebelasting",
+        "terugdraaien"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 25",
+      "originalQuote": "Recente lastenverzwaringen voor ondernemers, verhoging van de energiebelasting en vermogen die zijn aangekondigd sinds Prinsjesdag worden deels teruggedraaid."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-087",
+      "text": "Er wordt gestuurd op een meerjarig EMU-saldo gedurende de kabinetsperiode van maximaal 2,8% BBP.",
+      "summary": "EMU-saldo maximaal 2,8% BBP tijdens kabinetsperiode",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "emu-saldo",
+        "bbp",
+        "begrotingsbeleid",
+        "kabinetsperiode"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 26",
+      "originalQuote": "Om almaar stijgende rekeningen te voorkomen wordt gestuurd op een meerjarig EMU-saldo gedurende de kabinetsperiode van maximaal 2,8% BBP."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-088",
+      "text": "De schuld blijft onder de 60% van het BBP.",
+      "summary": "Staatsschuld onder 60% BBP houden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staatsschuld",
+        "bbp",
+        "begrotingsbeleid",
+        "financiën"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 26",
+      "originalQuote": "De schuld blijft onder de 60%."
+    },
+    {
+      "promiseCode": "SCHOOF-2024-089",
+      "text": "De opvangkosten van eerstejaars asielvluchtelingen wordt tot een maximum van 10 procent toegerekend aan het ODA-budget vanaf 2027.",
+      "summary": "10% opvangkosten asiel naar ODA-budget vanaf 2027",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opvangkosten",
+        "asielvluchtelingen",
+        "oda-budget",
+        "toegerekend"
+      ],
+      "sourceRef": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028, p. 26",
+      "originalQuote": "De opvangkosten van eerstejaars asielvluchtelingen wordt tot een maximum van 10 procent toegerekend aan het ODA-budget vanaf 2027."
+    }
+  ]
+}

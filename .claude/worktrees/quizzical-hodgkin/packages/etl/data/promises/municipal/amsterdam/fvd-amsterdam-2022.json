@@ -1,0 +1,1100 @@
+{
+  "party": "FvD",
+  "partySlug": "fvd",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Forum voor Democratie Amsterdam Verkiezingsprogramma 2022",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 72,
+  "promises": [
+    {
+      "promiseCode": "FvD-AMS-2022-001",
+      "text": "FvD wil de handhaving van coronamaatregelen door de gemeente beëindigen en verzet zich tegen gemeentelijk coronabeleid.",
+      "summary": "Beëindigen gemeentelijke handhaving coronamaatregelen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "coronamaatregelen",
+        "gemeentelijk beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 3",
+      "originalQuote": "over de handhaving van de coronamaatregelen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-002",
+      "text": "FvD verzet zich tegen de plaatsing van windmolens en zonneparken door de gemeente Amsterdam.",
+      "summary": "Tegenhouden plaatsing windmolens en zonneparken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windmolens",
+        "zonneparken",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 3",
+      "originalQuote": "Gemeenten gaan over de plaatsing van windmolens en zonneparken"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-003",
+      "text": "FvD wil voorkomen dat Amsterdam AZCs (asielzoekerscentra) plaatst binnen de gemeente.",
+      "summary": "Voorkomen plaatsing AZCs in Amsterdam",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "azc",
+        "asielzoekerscentra",
+        "plaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 3",
+      "originalQuote": "over de plaatsing van AZCs"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-004",
+      "text": "Ondernemers en exploitanten krijgen de ruimte om zelf te bepalen hoe zij met corona omgaan. Coronaregels worden altijd als advies behandeld, zonder verplichte handhaving door de gemeente.",
+      "summary": "Coronaregels als advies, geen verplichte handhaving voor ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondernemers",
+        "exploitanten",
+        "coronaregels",
+        "advies",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 7",
+      "originalQuote": "Ondernemers en exploitanten de ruimte geven zelf te bepalen hoe zij met corona omgaan; coronaregels altijd als advies behandelen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-005",
+      "text": "Ondernemers die getroffen zijn door de coronamaatregelen ontvangen steun van de gemeente Amsterdam.",
+      "summary": "Steun voor door corona getroffen ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondernemers",
+        "steun",
+        "coronamaatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 7",
+      "originalQuote": "Ondernemers die getroffen zijn door de 'coronamaatregelen' steunen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-006",
+      "text": "Het demonstratierecht wordt maximaal beschermd. Er komt geen overdreven inzet van politie bij vredelievende demonstraties tegen het coronabeleid.",
+      "summary": "Maximale bescherming demonstratierecht, geen overdreven politie-inzet",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "demonstratierecht",
+        "politie",
+        "demonstraties",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 7",
+      "originalQuote": "Demonstratierecht maximaal beschermen; geen overdreven inzet van politie bij vredelievende demonstraties tegen het coronabeleid"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-007",
+      "text": "De zorgcapaciteit in Amsterdam wordt opgeschaald, bijvoorbeeld door het Slotervaartziekenhuis te heropenen.",
+      "summary": "Zorgcapaciteit opschalen, mogelijk heropening Slotervaartziekenhuis",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgcapaciteit",
+        "opschalen",
+        "slotervaartziekenhuis",
+        "heropenen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 7",
+      "originalQuote": "Zorgcapaciteit in Amsterdam opschalen, bijvoorbeeld door het Slotervaartziekenhuis te heropenen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-008",
+      "text": "De extra grote terrassen in de stad blijven toegestaan, ook nadat alle coronamaatregelen zijn afgeschaft.",
+      "summary": "Extra grote terrassen blijven permanent toegestaan",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terrassen",
+        "horeca",
+        "openbare ruimte",
+        "vergunningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 7",
+      "originalQuote": "De extra grote terrassen in de stad blijven toestaan, ook nadat alle coronamaatregelen zijn afgeschaft"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-009",
+      "text": "Via bestemmingsplannen de monocultuur van wafelwinkels, weedmuseums en seedshops aan banden leggen en een stop zetten op de bouw van op massatoerisme gerichte hotels.",
+      "summary": "Bestemmingsplannen tegen wafelwinkels, weedmuseums en massahotels",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestemmingsplannen",
+        "wafelwinkels",
+        "seedshops",
+        "massatoerisme",
+        "hotels"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 11",
+      "originalQuote": "Middels bestemmingsplannen de monocultuur van wafelwinkels, weedmuseums en seedshops aan baneden leggen en een stop op de bouw van op massatoerisme gerichte hotels"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-010",
+      "text": "De toeristenbelasting wordt verdriedubbeld om hoogwaardig toerisme aan te trekken en overlast van stonede hooligantoeristen op huurfietsen terug te dringen.",
+      "summary": "Toeristenbelasting verdriedubbelen voor hoogwaardiger toerisme",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeristenbelasting",
+        "verdriedubbelen",
+        "hoogwaardig",
+        "toerisme",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 10",
+      "originalQuote": "Door de toeristenbelasting te ver(drie)dubbelen kan hoogwaardig toerisme aangetrokken worden en wordt overlast van stonede hooligantoeristen op huurfietsen teruggedrongen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-011",
+      "text": "Grachten niet laten monopoliseren door lompe rondvaartboten ten koste van het privé bootbezit en varend erfgoed van de stad.",
+      "summary": "Beschermen privé bootbezit en varend erfgoed tegen rondvaartboten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grachten",
+        "rondvaartboten",
+        "bootbezit",
+        "varend erfgoed",
+        "monopoliseren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 11",
+      "originalQuote": "Grachten niet laten monopoliseren door lompe dertien-in-een-dozijn rondvaartboten ten koste van het privé bootbezit en varend erfgoed van de stad"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-012",
+      "text": "Investeren in dorps- en wijkhuizen en lokale initiatieven voor een sterkere gemeenschapscultuur.",
+      "summary": "Investeren in wijkhuizen en lokale initiatieven",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkhuizen",
+        "lokale initiatieven",
+        "gemeenschapscultuur",
+        "investeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 11",
+      "originalQuote": "Een sterkere gemeenschapscultuur door te investeren in dorps- en wijkhuizen en lokale initiatieven"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-013",
+      "text": "De volkstuinparken beschermen, waaronder de vruchtbare Lutkemeerpolder.",
+      "summary": "Beschermen volkstuinparken en Lutkemeerpolder",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "volkstuinparken",
+        "lutkemeerpolder",
+        "beschermen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 11",
+      "originalQuote": "De volkstuinparken beschermen, waaronder de vruchtbare Lutkemeerpolder"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-014",
+      "text": "Schrappen van gemeentesubsidies aan modernistische en megalomane projecten zoals de Meervaart en OBA Next.",
+      "summary": "Schrappen subsidies modernistische projecten Meervaart en OBA Next",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "schrappen",
+        "meervaart",
+        "oba next",
+        "modernistische"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 12",
+      "originalQuote": "Herziening van gemeentesubsidies; schrappen van modernistische en/of megalomane projecten a la de Meervaart en OBA Next"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-015",
+      "text": "Plan Haven Stad zo snel mogelijk realiseren door de vier zittende multinationals uit te kopen en te verplaatsen.",
+      "summary": "Haven Stad versnellen door uitkoop multinationals",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "haven stad",
+        "multinationals",
+        "uitkoop",
+        "verplaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 16",
+      "originalQuote": "Plan Haven Stad zo snel mogelijk realiseren; de vier zittende multinationals worden uitgekocht en verplaatst;"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-016",
+      "text": "De komende vijf jaar 15.000 sociale huurwoningen, 35.000 huur- en koopwoningen voor de middenklasse, en nog eens 20.000 koopwoningen bouwen.",
+      "summary": "70.000 nieuwe woningen in 5 jaar bouwen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "middenklasse",
+        "koopwoningen",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 16",
+      "originalQuote": "De komende vijf jaar 15.000 sociale huurwoningen, 35.000 huur- en koopwoningen voor de middenklasse, en nog eens 20.000 koopwoningen bouwen;"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-017",
+      "text": "Voorrang voor lokale bewoners, politie, zorgpersoneel en leraren op een sociale huur- of middenklasse koopwoning.",
+      "summary": "Voorrang voor lokale beroepsgroepen bij woningtoewijzing",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voorrang",
+        "lokale bewoners",
+        "politie",
+        "zorgpersoneel",
+        "leraren",
+        "woningtoewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 16",
+      "originalQuote": "Voorrang voor lokale bewoners, politie, zorgpersoneel en leraren op een sociale huur- of middenklasse koopwoning;"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-018",
+      "text": "Afschaffen van de erfpacht.",
+      "summary": "Erfpacht afschaffen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpacht",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 16",
+      "originalQuote": "Afschaffen erfpacht;"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-019",
+      "text": "Maximaal 30 dagen Airbnb verhuur toestaan.",
+      "summary": "30 dagen maximum voor Airbnb verhuur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "airbnb",
+        "verhuur",
+        "maximum",
+        "dagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 16",
+      "originalQuote": "30 dagen maximaal Airbnb verhuur;"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-020",
+      "text": "De grond die momenteel is bestemd voor het plaatsen van windturbines en zonneweides gebruiken voor woningbouw.",
+      "summary": "Grond van windturbines en zonneweides voor woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grond",
+        "windturbines",
+        "zonneweides",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 16",
+      "originalQuote": "De grond die momenteel is bestemd voor het plaatsen van windturbines en zonneweides gebruiken voor woningbouw;"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-021",
+      "text": "Voor 2026 wordt gestart met de bouw van de Oost-West metrolijn in Amsterdam.",
+      "summary": "Voor 2026 start bouw Oost-West metrolijn",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metrolijn",
+        "bouw",
+        "oost-west",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 20",
+      "originalQuote": "Vóór 2026 starten met de bouw van de Oost-West metrolijn"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-022",
+      "text": "Tram 14 wordt in ere hersteld en gaat weer van het Flevopark naar Slotermeer rijden. Er wordt onderzocht of deze lijn kan worden doorgetrokken naar Osdorp.",
+      "summary": "Tram 14 herstellen van Flevopark naar Slotermeer, mogelijk naar Osdorp",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tram",
+        "tramlijn",
+        "flevopark",
+        "slotermeer",
+        "osdorp"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 20",
+      "originalQuote": "Tram 14 in ere herstellen en weer van het Flevopark naar Slotermeer laten rijden; mogelijkheid om deze lijn door te trekken naar Osdorp onderzoeken"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-023",
+      "text": "Buslijn 21 gaat weer door De Eendracht rijden om deze wijk met sportfaciliteiten weer bereikbaar te maken.",
+      "summary": "Buslijn 21 weer door De Eendracht laten rijden",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buslijn",
+        "de eendracht",
+        "sportfaciliteiten",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 20",
+      "originalQuote": "Buslijn 21 weer door De Eendracht laten rijden om deze wijk met sportfaciliteiten weer bereikbaar te maken"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-024",
+      "text": "Metrohalte Isolatorweg wordt aangesloten op het Centraal Station voor de ontsluiting van het nieuwe stadsdeel Haven-Stad waar 70.000 woningen gebouwd worden.",
+      "summary": "Metrohalte Isolatorweg aansluiten op Centraal Station voor Haven-Stad",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metrohalte",
+        "isolatorweg",
+        "centraal station",
+        "haven-stad",
+        "woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 20",
+      "originalQuote": "Metrohalte Isolatorweg aansluiten op het Centraal Station, dit is onontbeerlijk voor de ontsluiting van het nieuwe stadsdeel Haven-Stad waar FVD op termijn in totaal 70.000 woningen wil bouwen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-025",
+      "text": "De tramhalte aan de Johan Huizingalaan wordt voorzien van een lift voor toegankelijkheid van ouderen en gehandicapten.",
+      "summary": "Lift bij tramhalte Johan Huizingalaan voor toegankelijkheid",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramhalte",
+        "johan huizingalaan",
+        "lift",
+        "toegankelijkheid",
+        "gehandicapten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 20",
+      "originalQuote": "Toegankelijkheid openbaar vervoer garanderen, ook voor ouderen en gehandicapten; tramhalte aan de Johan Huizingalaan voorzien van een lift"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-026",
+      "text": "Agenda Autoluw wordt afgeschaft omdat het verbeteringen in het OV-netwerk dwarsboomt en automobilisten de stad uitpest.",
+      "summary": "Afschaffing Agenda Autoluw",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "agenda autoluw",
+        "afschaffing",
+        "automobilisten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 20",
+      "originalQuote": "Streep zetten door geldverslindende Agenda Autoluw dat verbeteringen in het OV-netwerk gedwarsboomt en automobilisten de stad uitpest"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-027",
+      "text": "Milieuzones worden afgeschaft, zodat alle RDW-goedgekeurde voertuigen de stad in kunnen.",
+      "summary": "Afschaffing milieuzones voor RDW-goedgekeurde voertuigen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "milieuzones",
+        "afschaffing",
+        "rdw",
+        "voertuigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 21",
+      "originalQuote": "Milieuzones afschaffen; RDW-goedgekeurde voertuigen kunnen gewoon de stad in"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-028",
+      "text": "De verkeersdoorstroom op hoofdwegen als de S100, S106 en S112/Weesperstraat wordt verbeterd om wijken te ontlasten. Belangrijke straten worden niet meer 'opgeknipt'.",
+      "summary": "Verbetering verkeersdoorstroom S100, S106 en Weesperstraat",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkeersdoorstroom",
+        "hoofdwegen",
+        "s100",
+        "s106",
+        "weesperstraat"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 21",
+      "originalQuote": "De verkeersdoorstroom op hoofdwegen als de S100, de S106 en de S112/Weesperstraat verbeteren om de wijken te ontlasten; geen belangrijke straten 'opknippen' om verkeer naar de binnenstad te ontmoedigen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-029",
+      "text": "Het parkeerbeleid wordt hervormd met betaalbare parkeertarieven, bewoners kunnen dichtbij huis parkeren, en er komen parkeergarages bij OV-knooppunten.",
+      "summary": "Parkeerbeleid hervormen: betaalbare tarieven, nabij parkeren, P+R garages",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeerbeleid",
+        "parkeertarieven",
+        "bewoners",
+        "parkeergarages",
+        "ov-knooppunten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 21",
+      "originalQuote": "parkeerbeleid hervormen: betaalbare parkeertarieven, realiseren dat bewoners dichtbij huis kunnen parkeren, parkeergarages bij OV-knooppunten"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-030",
+      "text": "Bewoners van Nieuw-West en Noord krijgen gratis parkeren in hun eigen stadsdelen.",
+      "summary": "Gratis parkeren voor bewoners Nieuw-West en Noord",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis parkeren",
+        "nieuw-west",
+        "noord",
+        "bewoners",
+        "stadsdelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 21",
+      "originalQuote": "Gratis parkeren in Nieuw-West en Noord voor de bewoners van die stadsdelen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-031",
+      "text": "Er komt een tunnel onder het IJ voor betere verbinding tussen Noord en Zuid.",
+      "summary": "Aanleg tunnel onder het IJ",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tunnel",
+        "ij",
+        "verbinding",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 21",
+      "originalQuote": "Een tunnel onder het IJ"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-032",
+      "text": "Er wordt geïnvesteerd in fietsinfrastructuur door zoveel mogelijk fietspaden te asfalteren en voldoende fietsenstalling te realiseren.",
+      "summary": "Investering in fietsinfrastructuur: asfalteren paden en fietsenstalling",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietsinfrastructuur",
+        "fietspaden",
+        "asfalteren",
+        "fietsenstalling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 22",
+      "originalQuote": "Investeren in de fietsinfrastructuur door zo veel mogelijk fietspaden te asfalteren, voldoende fietsenstalling te realiseren"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-033",
+      "text": "Theater De Meervaart blijft op de huidige locatie en wordt niet verplaatst naar de Sloterplas om het groene karakter van dat gebied te behouden.",
+      "summary": "Theater De Meervaart behouden op huidige locatie, niet naar Sloterplas",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "theater",
+        "meervaart",
+        "sloterplas",
+        "locatie",
+        "verplaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 26",
+      "originalQuote": "Theater De Meervaart behouden op de huidige locatie en niet verplaatsen naar de Sloterplas"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-034",
+      "text": "Er komt geen distributiecentrum in de Lutkemeerpolder, maar een groen voedselpark waar goedkoop en gezond voedsel wordt verbouwd voor Amsterdammers.",
+      "summary": "Groen voedselpark in Lutkemeerpolder in plaats van distributiecentrum",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lutkemeerpolder",
+        "voedselpark",
+        "distributiecentrum",
+        "voedsel",
+        "verbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 27",
+      "originalQuote": "Geen distributiecentrum in de Lutkemeerpolder, maar een groen voedselpark waar goedkoop en gezond voedsel wordt verbouwd voor Amsterdammers"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-035",
+      "text": "Afval wordt gescheiden door de afvalverwerker in plaats van door bewoners om kosten te besparen voor de gemeente en inwoners.",
+      "summary": "Afvalscheiding door afvalverwerker om kosten te besparen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalscheiding",
+        "afvalverwerker",
+        "kosten",
+        "besparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 25",
+      "originalQuote": "Afval laten scheiden door de afvalverwerker om kosten te besparen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-036",
+      "text": "De gemeente stimuleert bomenaanplant en voorkomt onnodige bomenkap om Amsterdam groener te maken.",
+      "summary": "Stimuleren bomenaanplant, voorkomen onnodige bomenkap",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bomenaanplant",
+        "bomenkap",
+        "groen",
+        "stimuleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 25",
+      "originalQuote": "Geen onnodige bomenkap; geen biomassacentrale's; stimuleren van bomenaanplant"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-037",
+      "text": "Investeren in kleinschalige politieposten in de wijken om zicht te houden op de wijk en zo criminaliteit en overlast tegen te gaan.",
+      "summary": "Kleinschalige politieposten in wijken voor criminaliteitsbestrijding",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politieposten",
+        "wijken",
+        "criminaliteit",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 30-31",
+      "originalQuote": "Investeren in kleinschalige politieposten in de wijken om zicht te houden op de wijk en zo criminaliteit en overlast tegen te gaan"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-038",
+      "text": "Het grote stadsdeel Noord heeft recht op minimaal drie politiebureaus.",
+      "summary": "Minimaal drie politiebureaus voor stadsdeel Noord",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsdeel",
+        "noord",
+        "politiebureaus"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 31",
+      "originalQuote": "het grote stadsdeel Noord heeft recht op minimaal drie (3) politiebureau's"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-039",
+      "text": "24-uursbeschikbaarheid van politie via politieposten in drukke gebieden met een groter risico op criminaliteit.",
+      "summary": "24-uurs politieposten in drukke, risicovolle gebieden",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "24-uursbeschikbaarheid",
+        "politieposten",
+        "criminaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 31",
+      "originalQuote": "24-uursbeschikbaarheid van politie via politieposten in drukke gebieden met een groter risico op criminaliteit"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-040",
+      "text": "Drugstoerisme ontmoedigen door binnen vijf jaar de toeristenbelasting te verdrievoudigen.",
+      "summary": "Toeristenbelasting verdrievoudigen binnen vijf jaar tegen drugstoerisme",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "drugstoerisme",
+        "toeristenbelasting",
+        "verdrievoudigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 31",
+      "originalQuote": "Drugstoerisme ontmoedigen door binnen vijf jaar de toeristenbelasting te verdrievoudigen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-041",
+      "text": "Geen toezichtcamera's met gezichtsherkenning of geluidssensoren om inwoners te volgen en af te luisteren.",
+      "summary": "Verbod op toezichtcamera's met gezichtsherkenning en geluidssensoren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toezichtcamera's",
+        "gezichtsherkenning",
+        "geluidssensoren",
+        "privacy"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 32",
+      "originalQuote": "Geen toezichtcamera's met gezichtsherkenning of geluidssensoren om inwoners te volgen en af te luisteren"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-042",
+      "text": "De Klassieker gewoon weer met uitpubliek spelen.",
+      "summary": "De Klassieker weer met uitpubliek toestaan",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klassieker",
+        "uitpubliek",
+        "voetbal"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 32",
+      "originalQuote": "De Klassieker gewoon weer met uitpubliek spelen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-043",
+      "text": "FvD wil de fusie met gemeente Weesp terugdraaien, en anders in elk geval geen verdere integratie van Weesp als stadsdeel. Het bestuursorgaan van Weesp moet zo veel mogelijk onafhankelijk blijven van de Amsterdamse gemeenteraad.",
+      "summary": "Fusie met Weesp terugdraaien of geen verdere integratie als stadsdeel",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fusie",
+        "weesp",
+        "stadsdeel",
+        "autonomie",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 34",
+      "originalQuote": "We willen de fusie terugdraaien, en anders in elk geval geen verdere integratie van Weesp als stadsdeel. Het bestuursorgaan van Weesp moet zo veel mogelijk onafhankelijk blijven van de Amsterdamse gemeenteraad."
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-044",
+      "text": "FvD wil de lokale democratie versterken met een bindend (stadsdeel)referendum waarbij burgers geraadpleegd en betrokken worden bij lokale problematiek.",
+      "summary": "Invoering bindend (stadsdeel)referendum voor burgerparticipatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "stadsdeel",
+        "democratie",
+        "burgerparticipatie",
+        "binding"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 34",
+      "originalQuote": "De lokale democratie versterken met een bindend (stadsdeel)referendum; burgers raadplegen over en betrekken bij lokale problematiek"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-045",
+      "text": "FvD wil zorgen dat betalen met contant geld bij de gemeente mogelijk blijft voor gemeentelijke diensten en voorzieningen.",
+      "summary": "Contant geld bij gemeente mogelijk houden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "contant",
+        "betaling",
+        "gemeente",
+        "dienstverlening",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 34",
+      "originalQuote": "Zorgen dat betalen met contant geld bij de gemeente mogelijk blijft"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-046",
+      "text": "FvD wil financiële meevallers bij gemeentelijke projecten direct vertalen in lastenverlichting voor burgers.",
+      "summary": "Meevallers gemeenteprojecten naar lastenverlichting burgers",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meevallers",
+        "lastenverlichting",
+        "projecten",
+        "begroting",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 34",
+      "originalQuote": "Financiële meevallers bij gemeentelijke projecten direct vertalen in lastenverlichting; geld terug naar de burger"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-047",
+      "text": "FvD wil strenge, korte deadlines en termijnen invoeren voor gemeenteprojecten, vergunningsaanvragen en andere bestuurlijke processen.",
+      "summary": "Strenge deadlines voor gemeenteprojecten en vergunningen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deadlines",
+        "termijnen",
+        "vergunningen",
+        "projecten",
+        "bestuurlijke processen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 35",
+      "originalQuote": "Strenge, korte deadlines en termijnen voor gemeenteprojecten, vergunningsaanvragen en andere bestuurlijke processen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-048",
+      "text": "FvD wil stoppen met het voortdurende inhuren van dure bureaus en andere externe partijen voor onderzoeken en analyses over de gemeente.",
+      "summary": "Stoppen met inhuur dure externe bureaus voor onderzoeken",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "externe bureaus",
+        "inhuur",
+        "onderzoeken",
+        "kostenbesparing",
+        "ambtenarij"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 35",
+      "originalQuote": "Stoppen met het voortdurende inhuren van dure bureaus en andere externe partijen om onderzoekjes en analyses over de gemeente te doen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-049",
+      "text": "De OZB en afvalstoffenheffing worden verlaagd door het stoppen met klimaatplannen en linkse subsidieprojecten.",
+      "summary": "Lagere OZB en afvalstoffenheffing",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "afvalstoffenheffing",
+        "gemeentelijke belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 39",
+      "originalQuote": "Lagere gemeentelijke belastingen (OZB, afvalstoffenheffing)"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-050",
+      "text": "Het erfpachtsysteem en de reclamebelasting worden afgeschaft.",
+      "summary": "Afschaffen erfpacht en reclamebelasting",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpacht",
+        "reclamebelasting",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 39",
+      "originalQuote": "afschaffen erfpacht en reclamebelasting"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-051",
+      "text": "Er komt een steunfonds voor door corona geraakte MKB-bedrijven en zzp'ers, aangevuld met andere financiële voordelen.",
+      "summary": "Steunfonds voor corona-geraakte MKB en zzp'ers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "steunfonds",
+        "mkb",
+        "zzp'ers",
+        "corona",
+        "financiële voordelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 39",
+      "originalQuote": "Het MKB steunen in de vorm van financiële voordelen en een steunfonds; vooral voor de door corona geraakte zzp'ers en MKB bedrijven"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-052",
+      "text": "Via bestemmingsplannen wordt kleinschalige detailhandel beschermd tegen wegconcurrering door grote bedrijven.",
+      "summary": "Bestemmingsplannen beschermen kleinschalige detailhandel",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestemmingsplannen",
+        "kleinschalige detailhandel",
+        "bescherming",
+        "grote bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 39",
+      "originalQuote": "Via bestemmingsplannen kleinschalige detailhandel niet laten wegconcurreren door grote bedrijven"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-053",
+      "text": "De bouw van een bedrijventerrein of distributiecentrum in de Lutkemeer wordt stopgezet.",
+      "summary": "Stoppen bouw bedrijventerrein Lutkemeer",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijventerrein",
+        "distributiecentrum",
+        "lutkemeer",
+        "stoppen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 40",
+      "originalQuote": "Stoppen met de bouw van een bedrijventerrein cq. distributiecentrum in de Lutkemeer"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-054",
+      "text": "Waar mogelijk wordt een tegenprestatie geëist van mensen met een bijstandsuitkering.",
+      "summary": "Tegenprestatie voor bijstandsuitkering",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tegenprestatie",
+        "bijstandsuitkering",
+        "eisen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 39",
+      "originalQuote": "Waar mogelijk een tegenprestatie eisen van mensen met een bijstandsuitkering"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-055",
+      "text": "De toeristenbelasting wordt binnen vijf jaar verdriedubbeld.",
+      "summary": "Toeristenbelasting verdriedubbelen binnen vijf jaar",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeristenbelasting",
+        "verdriedubbelen",
+        "vijf jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 38",
+      "originalQuote": "de toeristenbelasting verdriedubbelen binnen vijf jaar"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-056",
+      "text": "Leraren in Amsterdam krijgen prioriteit bij woningtoewijzing in de sociale huursector om het lerarentekort aan te pakken door betere huisvestingsmogelijkheden.",
+      "summary": "Leraren krijgen voorrang op sociale huurwoningen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leraren",
+        "woningtoewijzing",
+        "sociale huursector",
+        "lerarentekort"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "Forum voor Democratie wil deze neerwaartse spiraal doorbreken door leraren in Amsterdam prioriteit op woningtoewijzing in de sociale sector"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-057",
+      "text": "Onderwijzers krijgen kosteloos parkeren en gratis openbaar vervoer als arbeidsvoorwaarde om het lerarentekort te bestrijden.",
+      "summary": "Gratis parkeren en OV voor onderwijzers",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderwijzers",
+        "parkeren",
+        "openbaar vervoer",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "Onderwijzers, zorgpersoneel en politiemensen kosteloos laten parkeren en reizen met het openbaar vervoer"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-058",
+      "text": "Scholen mogen niet verder fuseren om de lokale gemeenschap te behouden en de band tussen leerling en onderwijzer te versterken.",
+      "summary": "Stop op schoolfusies",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scholen",
+        "fusies",
+        "lokale gemeenschap",
+        "onderwijskwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "Scholen niet verder laten fuseren"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-059",
+      "text": "Het lotingssysteem in het voortgezet onderwijs wordt herzien zodat kinderen naar de school van hun keuze kunnen gaan.",
+      "summary": "Herziening lotingssysteem voortgezet onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lotingssysteem",
+        "voortgezet onderwijs",
+        "schoolkeuze",
+        "herziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "het lotingssysteem in het voortgezet onderwijs herzien"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-060",
+      "text": "De gemeente ondersteunt ouders die eigen scholen willen oprichten of zelf onderwijs willen geven aan hun kinderen.",
+      "summary": "Ondersteuning voor eigen scholen en thuisonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouders",
+        "eigen scholen",
+        "thuisonderwijs",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "Ouders die eigen scholen willen oprichten of eigen onderwijs willen geven ondersteunen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-061",
+      "text": "Er komen Forum-scholen voor primair en voortgezet onderwijs in Amsterdam.",
+      "summary": "Oprichting Forum-scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "forum-scholen",
+        "primair onderwijs",
+        "voortgezet onderwijs",
+        "oprichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "Er komen Forum-scholen voor het primair- en voortgezet onderwijs"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-062",
+      "text": "Sportverenigingen die getroffen zijn door coronabeleid krijgen gemeentelijke steun voor herstel.",
+      "summary": "Steun voor coronagetroffen sportverenigingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportverenigingen",
+        "coronabeleid",
+        "gemeentelijke steun",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "verenigingen die door de coronamaatregelen zijn geraakt ondersteunt"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-063",
+      "text": "De gemeente stimuleert en faciliteert altijd de aanleg van nieuwe sportgelegenheden in de stad.",
+      "summary": "Facilitering aanleg sportgelegenheden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportgelegenheden",
+        "aanleg",
+        "facilitering",
+        "stimulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "De aanleg van sportgelegenheden altijd stimuleren en faciliteren"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-064",
+      "text": "Bij sportgelegenheden worden geen kunstgrasvelden meer aangelegd.",
+      "summary": "Verbod op kunstgrasvelden bij sportfaciliteiten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstgrasvelden",
+        "sportgelegenheden",
+        "verbod",
+        "aanleg"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 42-44",
+      "originalQuote": "Geen kunstgrasvelden bij sportgelegenheden"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-065",
+      "text": "Het Slotervaartziekenhuis zo snel mogelijk weer openen",
+      "summary": "Slotervaartziekenhuis heropenen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "slotervaartziekenhuis",
+        "heropening",
+        "ziekenhuis"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 47",
+      "originalQuote": "Het Slotervaartziekenhuis zo snel mogelijk weer openen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-066",
+      "text": "Zorgmedewerkers aantrekken door gratis OV, parkeerplekken en voorrang op een sociale huurwoning te bieden",
+      "summary": "Voordelen voor zorgmedewerkers: gratis OV, parkeren, voorrang sociale huur",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgmedewerkers",
+        "gratis",
+        "openbaar vervoer",
+        "parkeerplekken",
+        "sociale huurwoning",
+        "voorrang"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 47",
+      "originalQuote": "personeel aantrekken door gratis OV, parkeerplekken en voorrang op een sociale huurwoning voor zorgmedewerkers"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-067",
+      "text": "Ontoereikende jeugdzorgbudgetten aanvullen met gemeentelijk geld",
+      "summary": "Jeugdzorgbudgetten aanvullen met gemeentegeld",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdzorg",
+        "budgetten",
+        "gemeentelijk",
+        "geld",
+        "aanvullen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 47",
+      "originalQuote": "Ontoereikende jeugdzorg budgetten aanvullen met gemeentelijk geld"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-068",
+      "text": "Openbaar vervoer en AOV beter toegankelijk en betaalbaar maken voor gepensioneerden",
+      "summary": "Betaalbaar OV en AOV voor gepensioneerden",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbaar vervoer",
+        "aov",
+        "toegankelijk",
+        "betaalbaar",
+        "gepensioneerden"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 47",
+      "originalQuote": "Openbaar vervoer en AOV beter toegankelijk en betaalbaar maken voor gepensioneerden"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-069",
+      "text": "FvD wil erfpacht voor woningen afschaffen in Amsterdam.",
+      "summary": "Erfpacht voor woningen afschaffen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "erfpacht",
+        "woningen",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 50",
+      "originalQuote": "Erfpacht voor woningen afschaffen"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-070",
+      "text": "FvD wil een onafhankelijke erfpachtgeschillencommissie invoeren die kan beslissen dat de gemeente het teveel betaalde bij afkoop moet restitueren. Deze restitutieregeling geldt ook indien de afkoop al notarieel is vastgelegd.",
+      "summary": "Onafhankelijke erfpachtgeschillencommissie invoeren voor restitutie",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpachtgeschillencommissie",
+        "restitutie",
+        "afkoop",
+        "rechtsherstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 50",
+      "originalQuote": "Een onafhankelijke erfpachtgeschillencommissie invoeren die kan beslissen dat de gemeente het teveel betaalde bij afkoop moet restitueren. Deze restitutieregeling geldt ook indien de afkoop al notarieel is vastgelegd."
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-071",
+      "text": "FvD wil een economisch realistisch grondwaardebeleid invoeren voor eigenaren die niet kunnen of willen afkopen, op basis van een individuele grondquote van circa 12% en naar keuze de WOZ-waardes van 2014 of 2015.",
+      "summary": "Grondwaardebeleid met 12% grondquote en WOZ-waardes 2014/2015",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwaardebeleid",
+        "grondquote",
+        "woz-waardes",
+        "erfpacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 50",
+      "originalQuote": "Een economisch realistisch grondwaardebeleid voor eigenaren die niet kunnen of willen afkopen. Op basis van een individuele grondquote van circa 12 % en, naar keuze, de WOZ-waardes 2014 of 2015"
+    },
+    {
+      "promiseCode": "FvD-AMS-2022-072",
+      "text": "FvD wil dat wie afkoopt de volle eigendom van de grond verwerft.",
+      "summary": "Volle grondeigendom bij afkoop erfpacht",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afkoop",
+        "grondeigendom",
+        "erfpacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD amsterdam 2022, p. 50",
+      "originalQuote": "Wie afkoopt verwerft de volle eigendom van de grond"
+    }
+  ]
+}

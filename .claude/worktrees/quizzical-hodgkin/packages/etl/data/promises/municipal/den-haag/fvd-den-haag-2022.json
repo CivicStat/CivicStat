@@ -1,0 +1,995 @@
+{
+  "party": "FvD",
+  "partySlug": "fvd",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Forum voor Democratie Den Haag Verkiezingsprogramma 2022",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 66,
+  "promises": [
+    {
+      "promiseCode": "FvD-DH-2022-001",
+      "text": "FvD wil zich verzetten tegen de plaatsing van windmolens en zonneparken in de gemeente Den Haag als onderdeel van hun verzet tegen klimaatmaatregelen.",
+      "summary": "Verzet tegen plaatsing windmolens en zonneparken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windmolens",
+        "zonneparken",
+        "plaatsing",
+        "klimaatmaatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 3",
+      "originalQuote": "Gemeenten gaan over de plaatsing van windmolens en zonneparken"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-002",
+      "text": "FvD wil zich verzetten tegen de plaatsing van AZC's (asielzoekerscentra) in de gemeente Den Haag.",
+      "summary": "Verzet tegen plaatsing AZC's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "azc",
+        "asielzoekerscentra",
+        "plaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 3",
+      "originalQuote": "over de plaatsing van AZCs"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-003",
+      "text": "De gemeente werkt nooit mee aan invoering van een QR-samenleving op lokaal niveau",
+      "summary": "Geen medewerking aan QR-samenleving op lokaal niveau",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "qr-samenleving",
+        "lokaal niveau",
+        "medewerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 7",
+      "originalQuote": "Nooit meewerken aan een QR-samenleving, ook op lokaal niveau"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-004",
+      "text": "De gemeente handhaaft nooit op coronabeleid op alle terreinen",
+      "summary": "Geen handhaving coronabeleid door gemeente",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "coronabeleid",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 7",
+      "originalQuote": "De gemeente nooit laten handhaven op coronabeleid, op alle terreinen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-005",
+      "text": "Corona- en vaccinatiepropaganda wordt uit de publieke ruimte verwijderd",
+      "summary": "Verwijdering corona-propaganda uit publieke ruimte",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "propaganda",
+        "publieke ruimte",
+        "verwijdering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 7",
+      "originalQuote": "Corona- en vaccinatie-propaganda uit de publieke ruimte verwijderen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-006",
+      "text": "Er worden nooit prikbussen of aparte ruimtes ingericht bij scholen en evenementen voor vaccinatiepromotie",
+      "summary": "Geen prikbussen bij scholen en evenementen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prikbussen",
+        "scholen",
+        "evenementen",
+        "vaccinatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 7",
+      "originalQuote": "Nooit \"prikbussen\" of aparte ruimtes inrichten die bij scholen en evenementen vaccinaties moeten promoten"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-007",
+      "text": "Er komen geen testverplichtingen of QR-codes voor scholen, kerken, winkels en horeca",
+      "summary": "Geen testverplichtingen of QR-codes voor voorzieningen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "testverplichtingen",
+        "qr-codes",
+        "scholen",
+        "horeca",
+        "kerken"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 7",
+      "originalQuote": "Geen testverplichtingen of QR-codes voor scholen, kerken, winkels, horeca, etc."
+    },
+    {
+      "promiseCode": "FvD-DH-2022-008",
+      "text": "Er wordt gegarandeerd dat religieuze bijeenkomsten altijd doorgang kunnen vinden",
+      "summary": "Garantie voor doorgang religieuze bijeenkomsten",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "religieuze bijeenkomsten",
+        "garantie",
+        "doorgang"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 7",
+      "originalQuote": "Garanderen dat religieuze bijeenkomsten altijd doorgang kunnen vinden"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-009",
+      "text": "Er wordt een bindend referendum ingevoerd om de lokale democratie te versterken.",
+      "summary": "Invoering bindend referendum voor lokale democratie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "democratie",
+        "burgerparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 10",
+      "originalQuote": "De lokale democratie versterken met een bindend referendum"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-010",
+      "text": "Er wordt een gekozen burgemeester ingevoerd in plaats van een benoemde burgemeester.",
+      "summary": "Invoering gekozen burgemeester",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgemeester",
+        "verkiezingen",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 10",
+      "originalQuote": "Een gekozen burgemeester invoeren"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-011",
+      "text": "Er wordt naar Amsterdams en Rotterdams model een dagelijks bestuur van stadsdelen ingevoerd, waarbij ook de stadsdeelloketten weer geopend worden.",
+      "summary": "Invoering stadsdeelbestuur met heropening loketten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdelen",
+        "bestuur",
+        "loketten",
+        "decentralisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 10",
+      "originalQuote": "Naar Amsterdams en Rotterdams model een dagelijks bestuur van 'stadsdelen' invoeren; hierbij worden ook de stadsdeelloketten weer geopend"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-012",
+      "text": "Betalen met contant geld bij de gemeente blijft mogelijk.",
+      "summary": "Behoud mogelijkheid contant betalen bij gemeente",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "contant",
+        "betalen",
+        "toegankelijkheid",
+        "dienstverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 11",
+      "originalQuote": "Zorgen dat betalen met contant geld bij de gemeente mogelijk blijft"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-013",
+      "text": "Financiële meevallers bij gemeentelijke projecten worden direct vertaald in lastenverlichting voor burgers.",
+      "summary": "Meevallers projecten direct naar lastenverlichting",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meevallers",
+        "lastenverlichting",
+        "projecten",
+        "belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 11",
+      "originalQuote": "Financiële meevallers bij gemeentelijke projecten direct vertalen in lastenverlichting; geld terug naar de burger"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-014",
+      "text": "Er worden strenge, korte deadlines en termijnen ingevoerd voor gemeenteprojecten, vergunningsaanvragen en andere bestuurlijke processen.",
+      "summary": "Korte deadlines voor projecten en vergunningen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deadlines",
+        "termijnen",
+        "vergunningen",
+        "processen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 11",
+      "originalQuote": "Strenge, korte deadlines en termijnen voor gemeenteprojecten, vergunningsaanvragen en andere bestuurlijke processen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-015",
+      "text": "Het voortdurende inhuren van dure externe bureaus voor onderzoek en analyses wordt gestopt.",
+      "summary": "Stop inhuur externe bureaus voor onderzoek",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "externe",
+        "bureaus",
+        "onderzoek",
+        "uitgaven"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 11",
+      "originalQuote": "Stoppen met het voortdurende inhuren van dure bureaus en andere externe partijen om onderzoekjes en analyses over de gemeente te doen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-016",
+      "text": "Geen ongewenste en onnodige gemeentelijke fusies met omringende dorpen en woonkernen ondernemen; elke plaats blijft zichzelf behouden.",
+      "summary": "Geen gemeentelijke fusies met omringende dorpen en woonkernen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeentelijke",
+        "fusies",
+        "dorpen",
+        "woonkernen",
+        "bestuurlijke",
+        "autonomie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 14",
+      "originalQuote": "Geen ongewenste en onnodige gemeentelijke fusies met omringende dorpen en woonkernen; elke plaats blijft zichzelf;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-017",
+      "text": "Investeren in wijkhuizen en lokale initiatieven om een sterkere gemeenschapscultuur te creëren.",
+      "summary": "Investeren in wijkhuizen en lokale initiatieven voor gemeenschapscultuur",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkhuizen",
+        "lokale",
+        "initiatieven",
+        "gemeenschapscultuur",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 14",
+      "originalQuote": "Een sterkere gemeenschapscultuur door te investeren in wijkhuizen en lokale initiatieven;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-018",
+      "text": "De thuisverkoop van lokale producten vergemakkelijken en stimuleren door gemeentelijke maatregelen.",
+      "summary": "Thuisverkoop van lokale producten vergemakkelijken en stimuleren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "thuisverkoop",
+        "lokale",
+        "producten",
+        "vergemakkelijken",
+        "stimuleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 14",
+      "originalQuote": "De (thuis)verkoop van lokale producten vergemakkelijken en stimuleren;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-019",
+      "text": "Herziening van gemeentesubsidies uitvoeren met schrappen van modernistische kunstprojecten en andere oikofobe aangelegenheden.",
+      "summary": "Herziening gemeentesubsidies en schrappen modernistische kunstprojecten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeentesubsidies",
+        "herziening",
+        "modernistische",
+        "kunstprojecten",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 14-15",
+      "originalQuote": "Herziening van gemeentesubsidies; Schrappen van modernistische kunstprojecten en andere oikofobe aangelegenheden;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-020",
+      "text": "Stoppen met subsidiëren van lokale media zolang deze geen neutraal nieuws verslaat.",
+      "summary": "Stoppen subsidies lokale media zonder neutrale nieuwsverslaggeving",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidiëren",
+        "lokale",
+        "media",
+        "neutraal",
+        "nieuws",
+        "onafhankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 15",
+      "originalQuote": "Stoppen met het subsidiëren van lokale media zolang deze geen neutraal nieuws verslaat; nieuwsmedia hoort onafhankelijk te zijn, geen spreekbuis van de gemeente."
+    },
+    {
+      "promiseCode": "FvD-DH-2022-021",
+      "text": "Voldoende geld beschikbaar stellen voor behoud en onderhoud van lokale monumenten en evenementen.",
+      "summary": "Voldoende geld voor behoud en onderhoud lokale monumenten en evenementen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geld",
+        "behoud",
+        "onderhoud",
+        "lokale",
+        "monumenten",
+        "evenementen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 15",
+      "originalQuote": "Voldoende geld voor behoud en onderhoud van lokale monumenten en evenementen;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-022",
+      "text": "De traditionele oud-en-nieuwviering behouden zonder vuurwerkverboden in te voeren.",
+      "summary": "Traditionele oud-en-nieuwviering behouden zonder vuurwerkverboden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "traditionele",
+        "oud-en-nieuw",
+        "vuurwerkverboden",
+        "behouden"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 15",
+      "originalQuote": "De traditionele oud-en-nieuwviering behouden; geen vuurwerkverboden;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-023",
+      "text": "Maximaal 30% van nieuwbouwwoningen mag uit sociale huurwoningen bestaan",
+      "summary": "Max 30% sociale huur bij nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "nieuwbouw",
+        "percentage",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 18",
+      "originalQuote": "Maximaal 30% sociale huurwoningen bij nieuwbouw"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-024",
+      "text": "Lokale inwoners krijgen voorrang op sociale huur- of koopwoningen boven niet-lokale kandidaten",
+      "summary": "Voorrang lokale inwoners bij woningtoewijzing",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningtoewijzing",
+        "voorrang",
+        "lokale inwoners",
+        "sociale huur"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 18",
+      "originalQuote": "Een huizenmarkt waar lokale inwoners voorrang hebben op een sociale huur- of koopwoning"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-025",
+      "text": "Strengere controle en handhaving wordt ingevoerd tegen uitbuiting door huisjesmelkers",
+      "summary": "Strengere handhaving tegen huisjesmelkers",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "controle",
+        "huisjesmelkers",
+        "uitbuiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 18",
+      "originalQuote": "Strengere controle en handhaving op uitbuiting door huisjesmelkers"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-026",
+      "text": "Er wordt gestopt met hoogbouw aan de kust en waar mogelijk wordt bestaande hoogbouw afgebroken",
+      "summary": "Stop hoogbouw aan kust, afbraak waar mogelijk",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hoogbouw",
+        "kust",
+        "afbraak",
+        "ruimtelijke ordening"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 19",
+      "originalQuote": "Stoppen met hoogbouw aan de kust; waar mogelijk ook afbreken"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-027",
+      "text": "Er komt een onderzoek naar de mogelijkheid om gedempte Haagse grachten weer in ere te herstellen",
+      "summary": "Onderzoek herstel gedempte Haagse grachten",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoek",
+        "grachten",
+        "herstel",
+        "waterhuishouding"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 19",
+      "originalQuote": "Een onderzoek naar de mogelijkheid om gedempte Haagse grachten weer in ere te herstellen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-028",
+      "text": "Er worden losloopvelden voor honden gerealiseerd in of nabij woongebieden",
+      "summary": "Losloopvelden voor honden bij woongebieden",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "losloopvelden",
+        "honden",
+        "woongebieden",
+        "recreatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 19",
+      "originalQuote": "Losloopvelden voor honden in of nabij woongebieden"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-029",
+      "text": "De nieuwe blauw-witte straatverlichting wordt gestopt en vervangen door natuurlijk oranje licht",
+      "summary": "Terug naar oranje straatverlichting",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "straatverlichting",
+        "oranje licht",
+        "openbare verlichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 19",
+      "originalQuote": "Stoppen met de nieuwe, blauw-witte straatverlichting en teruggaan naar meer natuurlijk oranje licht"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-030",
+      "text": "Fors investeren in wegen en openbaar vervoer, inzetten op een fijnmazig OV-netwerk zodat alle wijken goed bereikbaar zijn.",
+      "summary": "Fors investeren in wegen en OV voor fijnmazig netwerk alle wijken",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wegen",
+        "openbaar vervoer",
+        "ov-netwerk",
+        "wijken",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 22",
+      "originalQuote": "Fors investeren in wegen, openbaar vervoer en inzetten op een fijnmazig OV-netwerk; alle wijken moeten goed bereikbaar zijn;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-031",
+      "text": "Onderzoek naar de mogelijkheid om openbaar vervoer 24/7 te laten rijden, rekening houdend met risico op overlast bij tramhaltes.",
+      "summary": "Onderzoek naar 24/7 openbaar vervoer",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbaar vervoer",
+        "24/7",
+        "onderzoek",
+        "tramhaltes",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 22",
+      "originalQuote": "onderzoek naar de mogelijkheid om openbaar vervoer 24/7 te laten rijden, maar met risico op overlast bij bijvoorbeeld tramhaltes in het achterhoofd;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-032",
+      "text": "Investeren in lokaal en regionaal fietsnetwerk, fietssnelwegen, voldoende fietsenstallingen en uitbreiding van goedkope fietsverhuur zoals OV-fiets.",
+      "summary": "Investeren in fietsnetwerk, fietssnelwegen en fietsenstallingen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietsnetwerk",
+        "fietssnelwegen",
+        "fietsenstallingen",
+        "fietsverhuur",
+        "ov-fiets"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 22",
+      "originalQuote": "Investeren in het lokale en regionale fietsnetwerk, fietssnelwegen, voldoende fietsenstallingen en uitbreiding van goedkope fietsverhuur zoals de OV-fiets;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-033",
+      "text": "De verkeerssituatie uit alle wijken doorlichten om mogelijk gevaarlijke situaties te verhelpen, maar geen krampachtige harde regels zoals maximaal 30 km/u in hele bebouwde kom.",
+      "summary": "Verkeerssituatie alle wijken doorlichten, geen 30 km/u regel",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkeerssituatie",
+        "wijken",
+        "doorlichten",
+        "gevaarlijke situaties",
+        "snelheidslimiet"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 22",
+      "originalQuote": "De verkeerssituatie uit alle wijken in de gemeente doorlichten om mogelijk gevaarlijke situationen te verhelpen, maar geen krampachtige harde regels zoals maximaal 30 kilometer per uur in de hele bebouwde kom;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-034",
+      "text": "Investeren in voldoende parkeergelegenheid om centra en woonwijken goed bereikbaar te houden, vooral in Scheveningen moet de parkeersituatie veel beter.",
+      "summary": "Investeren in parkeergelegenheid, vooral Scheveningen verbeteren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeergelegenheid",
+        "centra",
+        "woonwijken",
+        "scheveningen",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 22",
+      "originalQuote": "Investeren in voldoende parkeergelegenheid, om zowel de centra als de woonwijken goed bereikbaar te houden; vooral in Scheveningen moet de parkeersituatie veel beter;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-035",
+      "text": "In de Grote Marktstraat weer een duidelijke strook waar fietsers voorrang hebben op wandelaars.",
+      "summary": "Grote Marktstraat: fietsstrook met voorrang op voetgangers",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grote marktstraat",
+        "fietsstrook",
+        "voorrang",
+        "fietsers",
+        "wandelaars"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 23",
+      "originalQuote": "In de Grote Marktstraat weer een duidelijke strook waar fietsers voorrang hebben op wandelaars;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-036",
+      "text": "Betere P+R-voorzieningen bij de stations.",
+      "summary": "Betere P+R-voorzieningen bij stations",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "p+r",
+        "voorzieningen",
+        "stations",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 23",
+      "originalQuote": "Betere P+R-voorzieningen bij de stations;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-037",
+      "text": "De groeiende aanwezigheid van deelfietsen, deelscooters en mogelijk ook deelauto's bestrijden.",
+      "summary": "Bestrijden van deelfietsen, deelscooters en deelauto's",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deelfietsen",
+        "deelscooters",
+        "deelauto's",
+        "bestrijden",
+        "deelvervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 24",
+      "originalQuote": "De groeiende aanwezigheid van deelfietsen, deelscooters en mogelijk ook deelauto's bestrijden;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-038",
+      "text": "Scholen in Den Haag mogen niet verder fuseren om de onderwijskwaliteit te behouden.",
+      "summary": "Geen verdere schoolfusies",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scholen",
+        "fusie",
+        "onderwijskwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 26",
+      "originalQuote": "Scholen niet verder laten fuseren"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-039",
+      "text": "Er komen kleinere klassen met focus op individuele begeleiding door leraren aangevuld met een buddysysteem.",
+      "summary": "Kleinere klassen en individuele begeleiding",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klassen",
+        "individuele begeleiding",
+        "buddysysteem"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 26",
+      "originalQuote": "Kleinere klassen; focus op individuele begeleiding door leraren met daarnaast een buddysysteem"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-040",
+      "text": "Leraren krijgen ondersteuning en training voor vroegtijdige signalering van kindermishandeling.",
+      "summary": "Training leraren kindermishandeling",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leraren",
+        "training",
+        "kindermishandeling",
+        "signalering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 26",
+      "originalQuote": "Investeren in de vroegtijdige signalering van kindermishandeling door leraren hierin ondersteuning te bieden en op te leiden"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-041",
+      "text": "Er komen ontmoetingsplekken voor jongeren in de gemeente.",
+      "summary": "Ontmoetingsplekken jongeren",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontmoetingsplekken",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 26",
+      "originalQuote": "Ontmoetingsplekken creëren voor jongeren"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-042",
+      "text": "De aanleg van sportgelegenheden wordt altijd gestimuleerd en gefaciliteerd door de gemeente.",
+      "summary": "Faciliteren sportgelegenheden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportgelegenheden",
+        "aanleg",
+        "faciliteren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 26",
+      "originalQuote": "De aanleg van sportgelegenheden altijd stimuleren en faciliteren"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-043",
+      "text": "Er komen meer openbare sportfaciliteiten in de buitenlucht.",
+      "summary": "Meer openbare buitensportfaciliteiten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbare sportfaciliteiten",
+        "buitenlucht"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 27",
+      "originalQuote": "Meer openbare sportfaciliteiten in de buitenlucht"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-044",
+      "text": "Bij sportgelegenheden komen geen kunstgrasvelden om bodemvervuiling tegen te gaan.",
+      "summary": "Verbod kunstgrasvelden sportterreinen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstgrasvelden",
+        "sportgelegenheden",
+        "bodemvervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 27",
+      "originalQuote": "Geen kunstgrasvelden bij sportgelegenheden om bodemvervuiling tegen te gaan"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-045",
+      "text": "De hondenbelasting wordt afgeschaft.",
+      "summary": "Hondenbelasting afschaffen",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hondenbelasting",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 30",
+      "originalQuote": "De hondenbelasting afschaffen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-046",
+      "text": "Van mensen met een bijstandsuitkering wordt waar mogelijk een tegenprestatie geëist.",
+      "summary": "Tegenprestatie bij bijstand",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijstand",
+        "tegenprestatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 30",
+      "originalQuote": "Waar mogelijk een tegenprestatie eisen van mensen met een bijstandsuitkering"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-047",
+      "text": "De inkomensgrens voor gemeentelijke minimavoorzieningen wordt behouden op het huidige niveau.",
+      "summary": "Inkomensgrens minimavoorzieningen behouden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inkomensgrens",
+        "minimavoorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 30",
+      "originalQuote": "De inkomensgrens voor gemeentelijke minimavoorzieningen behouden"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-048",
+      "text": "Het MKB krijgt steun in de vorm van financiële voordelen en een steunfonds, vooral voor door corona geraakte bedrijven.",
+      "summary": "Steunfonds en financiële voordelen voor MKB",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mkb",
+        "steunfonds",
+        "financiële",
+        "voordelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 30",
+      "originalQuote": "Het MKB steunen in de vorm van financiële voordelen en een steunfonds; vooral voor de door corona geraakte bedrijven"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-049",
+      "text": "Gemeentelijke aanbestedingen worden zoveel mogelijk gegund aan regionale bedrijven.",
+      "summary": "Aanbestedingen bij regionale bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aanbestedingen",
+        "regionale",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 30",
+      "originalQuote": "Gemeentelijke aanbestedingen zoveel mogelijk doen bij regionale bedrijven"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-050",
+      "text": "Er komt openheid van zaken over kleine aanbestedingen, zoals wie opdrachten krijgt en welke vrij zijn van aanbesteding.",
+      "summary": "Transparantie kleine aanbestedingen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transparantie",
+        "aanbestedingen",
+        "openheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 30",
+      "originalQuote": "Openheid van zaken aangaande kleine aanbestedingen; zoals wie krijgt de opdracht(en) en welke vrij zijn van aanbesteding"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-051",
+      "text": "FvD wil geen verplichting voor inwoners om een warmtepomp te nemen, van het gas af te gaan of dure isolatie te installeren.",
+      "summary": "Geen verplichte warmtepomp, gasvrij maken of isolatie voor inwoners",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "warmtepomp",
+        "gasvrij",
+        "isolatie",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 33",
+      "originalQuote": "Geen verplichting voor inwoners om een warmtepomp te nemen, van het gas af te gaan of dure isolatie te installeren;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-052",
+      "text": "FvD wil geen verplichting voor zonnepanelen, warmtepompen of gasvrij wonen bij nieuwbouwwoningen.",
+      "summary": "Geen verplichte duurzaamheidsmaatregelen bij nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zonnepanelen",
+        "warmtepompen",
+        "gasvrij",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 33",
+      "originalQuote": "Geen verplichting voor zonnepanelen, warmtepompen of gasvrij wonen bij nieuwbouwwoningen;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-053",
+      "text": "FvD wil geen onnodige bomenkap en stimuleert juist het aanplanten van bomen.",
+      "summary": "Stop bomenkap en stimuleer aanplant van bomen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bomenkap",
+        "aanplanten",
+        "bomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 33",
+      "originalQuote": "Geen onnodige bomenkap; wij stimuleren juist het aanplanten van bomen;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-054",
+      "text": "FvD wil afval laten scheiden door de afvalverwerker om kosten te besparen.",
+      "summary": "Afvalscheiding door verwerker in plaats van burgers",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afval",
+        "scheiden",
+        "afvalverwerker",
+        "kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 33",
+      "originalQuote": "Afval laten scheiden door de afvalverwerker om kosten te besparen;"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-055",
+      "text": "FvD wil inzetten op meer volks- en moestuintjes, ook in eigen tuin.",
+      "summary": "Meer volkstuinen en moestuintjes stimuleren",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "volkstuinen",
+        "moestuintjes",
+        "eigen tuin"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 33",
+      "originalQuote": "Inzetten op meer volks- en moestuintjes, ook in eigen tuin."
+    },
+    {
+      "promiseCode": "FvD-DH-2022-056",
+      "text": "FvD wil geen Diftar-systeem invoeren omdat dit ervoor zorgt dat mensen hun afval dumpen om kosten te besparen.",
+      "summary": "Geen Diftar-systeem voor afvalinzameling",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diftar",
+        "afval",
+        "dumpen",
+        "kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 33",
+      "originalQuote": "Geen Diftar-systeem invoeren; in theorie klinkt het eerlijk, maar in de praktijk zorgt het er alleen maar voor dat mensen hun afval dumpen om kosten te besparen."
+    },
+    {
+      "promiseCode": "FvD-DH-2022-057",
+      "text": "FvD wil de lokale zorg opschalen door het aanbieden van passende lonen om het personeelstekort in de zorg aan te pakken.",
+      "summary": "Lokale zorg opschalen door passende lonen tegen personeelstekort",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lokale zorg",
+        "passende lonen",
+        "personeelstekort",
+        "opschalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 36",
+      "originalQuote": "De lokale zorg opschalen door passende lonen; het personeelstekort moet aangepakt worden"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-058",
+      "text": "FvD wil thuiszorg, mantelzorg en kleinschalige zorg stimuleren in de gemeente Den Haag.",
+      "summary": "Stimuleren van thuiszorg, mantelzorg en kleinschalige zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "thuiszorg",
+        "mantelzorg",
+        "kleinschalige zorg",
+        "stimuleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 36",
+      "originalQuote": "Thuiszorg, mantelzorg en kleinschalige zorg stimuleren"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-059",
+      "text": "FvD wil ontoereikende jeugdzorgtoelages aanvullen met gemeentelijk geld om de financiering van jeugdzorg te verbeteren.",
+      "summary": "Jeugdzorgtoelages aanvullen met gemeentelijk geld",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jeugdzorgtoelages",
+        "gemeentelijk geld",
+        "aanvullen",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 37",
+      "originalQuote": "Ontoereikende jeugdzorgtoelages aanvullen met gemeentelijk geld"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-060",
+      "text": "FvD wil openbaar vervoer zo veel mogelijk toegankelijk en betaalbaar maken voor gepensioneerden, met name minimaouderen.",
+      "summary": "Toegankelijk en betaalbaar OV voor gepensioneerden en minimaouderen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbaar vervoer",
+        "toegankelijk",
+        "betaalbaar",
+        "gepensioneerden",
+        "minimaouderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 37",
+      "originalQuote": "Openbaar vervoer zo veel mogelijk toegankelijk en betaalbaar maken voor gepensioneerden, met name minimaouderen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-061",
+      "text": "24-uurse beschikbaarheid van politie door middel van politieposten in drukke gebieden met een groter risico op criminaliteit",
+      "summary": "24-uurs politieposten in drukke gebieden",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politieposten",
+        "24-uurs",
+        "beschikbaarheid",
+        "criminaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 39",
+      "originalQuote": "Een 24-uurse beschikbaarheid van politie door middel van politieposten in drukke gebieden met een groter risico op criminaliteit"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-062",
+      "text": "Wijkcentra waar nodig invoeren of versterken waar jongeren aan motiverende activiteiten kunnen meedoen",
+      "summary": "Wijkcentra invoeren/versterken voor jongeren",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkcentra",
+        "jongeren",
+        "activiteiten",
+        "preventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 39",
+      "originalQuote": "Wijkcentra waar nodig invoeren of versterken; hier kunnen jongeren aan motiverende activiteiten meedoen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-063",
+      "text": "In het Cars Jeans Stadion moet weer normaal bier gedronken kunnen worden",
+      "summary": "Normaal bier toestaan in Cars Jeans Stadion",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cars jeans stadion",
+        "bier",
+        "voetbalsupporters",
+        "alcohol"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 39",
+      "originalQuote": "in het Cars Jeans Stadion moet bijvoorbeeld weer normaal bier gedronken kunnen worden"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-064",
+      "text": "Uit-supporters van Ajax weer toestaan bij ADO Den Haag-Ajax met extra handhaving om de veiligheid te waarborgen",
+      "summary": "Ajax uit-supporters toestaan bij ADO wedstrijden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uit-supporters",
+        "ajax",
+        "ado den haag",
+        "handhaving",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 40",
+      "originalQuote": "Uit-supporters van Ajax weer toestaan bij ADO Den Haag-Ajax met extra handhaving om de veiligheid te waarborgen"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-065",
+      "text": "Geen AZC's openen in de gemeente en bestaande AZC's in de gemeente sluiten",
+      "summary": "Geen nieuwe AZC's, bestaande sluiten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "azc",
+        "sluiten",
+        "opvang",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 40",
+      "originalQuote": "Geen AZC's openen in de gemeente en bestaande AZC's in de gemeente sluiten"
+    },
+    {
+      "promiseCode": "FvD-DH-2022-066",
+      "text": "Raamprostitutie verbieden",
+      "summary": "Verbod op raamprostitutie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raamprostitutie",
+        "verbod",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma FvD den-haag 2022, p. 40",
+      "originalQuote": "Raamprostitutie verbieden"
+    }
+  ]
+}

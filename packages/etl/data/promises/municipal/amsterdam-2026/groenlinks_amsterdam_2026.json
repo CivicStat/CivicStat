@@ -1,0 +1,1679 @@
+{
+  "party": "GroenLinks",
+  "partySlug": "groenlinks",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verkiezingsprogramma GroenLinks Amsterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "groenlinks_amsterdam_2026.pdf",
+  "extractedAt": "2026-03-03T10:59:49.165Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "De energietransitie die is gestart versnellen in de komende jaren.",
+      "originalText": "De komende jaren zijn cruciaal om de klimaatcrisis aan te pakken en de energietransitie die we zijn gestart te versnellen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "energietransitie",
+        "versnellen",
+        "klimaatcrisis"
+      ]
+    },
+    {
+      "text": "Huisjesmelkers de stad uitjagen.",
+      "originalText": "Met bouwen om het bouwen komen we er niet: we moeten ook huisjesmelkers de stad uitjagen, de sociale huursector beschermen, meer investeren in bestaande woningen en huizen bouwen die zorgen voor doorstroming.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huisjesmelkers",
+        "uitjagen",
+        "wonen"
+      ]
+    },
+    {
+      "text": "De sociale huursector beschermen.",
+      "originalText": "Met bouwen om het bouwen komen we er niet: we moeten ook huisjesmelkers de stad uitjagen, de sociale huursector beschermen, meer investeren in bestaande woningen en huizen bouwen die zorgen voor doorstroming.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sociale huursector",
+        "beschermen",
+        "wonen"
+      ]
+    },
+    {
+      "text": "Meer investeren in bestaande woningen.",
+      "originalText": "Met bouwen om het bouwen komen we er niet: we moeten ook huisjesmelkers de stad uitjagen, de sociale huursector beschermen, meer investeren in bestaande woningen en huizen bouwen die zorgen voor doorstroming.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeren",
+        "bestaande woningen",
+        "wonen"
+      ]
+    },
+    {
+      "text": "Huizen bouwen die zorgen voor doorstroming.",
+      "originalText": "Met bouwen om het bouwen komen we er niet: we moeten ook huisjesmelkers de stad uitjagen, de sociale huursector beschermen, meer investeren in bestaande woningen en huizen bouwen die zorgen voor doorstroming.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huizen bouwen",
+        "doorstroming",
+        "wonen"
+      ]
+    },
+    {
+      "text": "Grond actief aankopen en voorkeursrecht gebruiken om grondspeculatie tegen te gaan en meer zeggenschap te hebben over wat er gerealiseerd wordt.",
+      "originalText": "We zetten in op actief grondbeleid (inclusief grondaankoop en voorkeursrecht) om speculatie tegen te gaan en meer zeggenschap te hebben over wat er daadwerkelijk op de grond gerealiseerd wordt.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "grondaankoop",
+        "voorkeursrecht",
+        "grondspeculatie"
+      ]
+    },
+    {
+      "text": "Amsterdams Bouw- en Wooncollectief oprichten voor woningen voor mensen met beperking, spoedzoekers en betaalbaar maatschappelijk vastgoed.",
+      "originalText": "Daarom richten we het Amsterdams Bouw- en Wooncollectief op, een samenwerking met wooncoöperaties, bedrijfscoöperaties en maatschappelijke initiatieven met als doel om meer vastgoed in publieke handen te brengen. Dit collectief loopt de gaten dicht die anderen laten vallen. Denk aan woningen voor mensen met een beperking of spoedzoekers.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bouw- en wooncollectief",
+        "wooncoöperaties",
+        "publiek vastgoed"
+      ]
+    },
+    {
+      "text": "Isolatieoffensief uitbreiden naar alle wijken in Amsterdam voor woningen van mensen met kleine portemonnee via buurtgerichte aanpak.",
+      "originalText": "We isoleren nog meer woningen van mensen met een kleine portemonnee. Daarvoor zetten we de buurtgerichte aanpak van het isolatieoffensief door en breiden die uit naar alle wijken in Amsterdam.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "isolatieoffensief",
+        "alle wijken",
+        "buurtgericht"
+      ]
+    },
+    {
+      "text": "Samen met corporaties zorgen dat er in 2030 geen woningen met grote schimmelproblematiek meer zijn.",
+      "originalText": "Schimmelvrij in 2030. Samen met corporaties zorgen we ervoor dat er in 2030 geen woningen met grote schimmelproblematiek zijn.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "schimmelvrij",
+        "2030",
+        "corporaties"
+      ]
+    },
+    {
+      "text": "Bovengrondse Bijenkorf-garage sluiten en vervangen door woningen om ruimte te maken voor voetgangers en fietsers.",
+      "originalText": "GroenLinks wil de bovengrondse Bijenkorf-garage sluiten, hier is ruimte voor woningen. Hiermee lossen we de Bijenkorf-file op en maken we ruimte voor voetgangers en fietsers.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bijenkorf-garage",
+        "sluiten",
+        "woningen"
+      ]
+    },
+    {
+      "text": "100% van de woningen op het Marineterrein betaalbaar maken met groen en toegankelijk karakter.",
+      "originalText": "Betaalbaar wonen op het Marineterrein. We kiezen voor een groen en toegankelijk Marineterrein met een stevig accent op wonen. 100% van de woningen daar wordt betaalbaar.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "marineterrein",
+        "100% betaalbaar",
+        "groen"
+      ]
+    },
+    {
+      "text": "Aantal standplaatsen voor woonwagenbewoners uitbreiden en culturele identiteit waarborgen in gebiedsontwikkeling.",
+      "originalText": "In Amsterdam is plek voor woonwagenbewoners. We breiden het aantal standplaatsen uit en waarborgen de culturele identiteit van bewoners. In gebiedsontwikkeling moeten zij structureel een plek krijgen door het aanwijzen van maatschappelijke kavels.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonwagenbewoners",
+        "standplaatsen",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Gebiedsregisseur invoeren die integrale beslissingen kan nemen om vertraging in bouwplannen te voorkomen.",
+      "originalText": "Bouwplannen lopen ten gevolge van tegenstrijdige adviezen en voorschriften uit verschillende directies onnodig vertraging op. We voeren een \"gebiedsregisseur\" in die integrale beslissingen kan nemen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gebiedsregisseur",
+        "integrale beslissingen",
+        "vertraging"
+      ]
+    },
+    {
+      "text": "Boetes invoeren en wanneer nodig onteigening toepassen als grondeigenaren te lang wachten met bouwen.",
+      "originalText": "Soms wachten grondeigenaren eindeloos met bouwen in de hoop dat de woningprijzen zullen stijgen. Hier gaan we paal en perk aan stellen door het invoeren van boetes en wanneer nodig onteigening.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "boetes",
+        "onteigening",
+        "grondeigenaren"
+      ]
+    },
+    {
+      "text": "Flexibele schil aan flexwoningen creëren die verplaatsbaar zijn door de stad voor jongeren, statushouders en gezinnen.",
+      "originalText": "We zorgen voor een flexibele schil aan flexwoningen die we kunnen verplaatsen door de stad. We stellen deze woningen naast jongeren en statushouders ook voor gezinnen zonder zorgvraag beschikbaar.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "flexwoningen",
+        "verplaatsbaar",
+        "jongeren",
+        "statushouders"
+      ]
+    },
+    {
+      "text": "Onbeperkte opvang bieden in wintermaanden aan iedereen die buiten moet slapen, ongeacht afkomst of papieren.",
+      "originalText": "Onbeperkte opvang in de winter. In de wintermaanden wordt opvang geboden aan iedereen die anders buiten moet slapen, ongeacht afkomst of papieren.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "winteropvang",
+        "daklozen",
+        "opvangplekken"
+      ]
+    },
+    {
+      "text": "Permanente opvangplekken voor dak- en thuislozen uitbreiden die geen toegang hebben tot reguliere maatschappelijke opvang.",
+      "originalText": "De permanente (365 dagen per jaar) opvangplekken voor dak- en thuislozen die geen toegang hebben tot de reguliere maatschappelijke opvang breiden we uit.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "opvangplekken",
+        "daklozen",
+        "uitbreiding"
+      ]
+    },
+    {
+      "text": "Nieuwe woonvormen ontwikkelen voor daklozen, zowel permanente plekken als tijdelijke woonplekken gericht op doorstroom.",
+      "originalText": "Nieuwe woonvormen. We ontwikkelen nieuwe woonvormen voor mensen die dakloos zijn maar voor wie regulier wonen in Amsterdam niet werkt. Het kan dan zowel gaan om permanente plekken, zoals bijvoorbeeld begeleid wonen in zogenoemde Skaeve Huse, als om tijdelijke woonplekken gericht op doorstroom naar een reguliere woning buiten de regio.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonvormen",
+        "daklozen",
+        "begeleid wonen"
+      ]
+    },
+    {
+      "text": "Meer investeren in onafhankelijke cliëntondersteuning van dak- en thuislozen voor betere begeleiding binnen het systeem.",
+      "originalText": "Onafhankelijke cliëntondersteuning en belangenbehartiging. De gemeente investeert meer in onafhankelijke cliëntondersteuning van dak- en thuislozen. Zij krijgen zo betere begeleiding om hun weg te vinden binnen 'het systeem'.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cliëntondersteuning",
+        "daklozen",
+        "begeleiding"
+      ]
+    },
+    {
+      "text": "Een ombudspersoon voor vluchtelingen en ongedocumenteerden instellen.",
+      "originalText": "Ook komt er een ombudspersoon voor vluchtelingen en ongedocumenteerden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ombudspersoon",
+        "vluchtelingen",
+        "ongedocumenteerden"
+      ]
+    },
+    {
+      "text": "Een ijzeren voorraad aan opvangplekken realiseren die voor verschillende groepen kan worden ingezet.",
+      "originalText": "Een vaste hoeveelheid opvangplekken. We realiseren een ijzeren voorraad aan opvangplekken die voor verschillende groepen kan worden ingezet.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "opvangplekken",
+        "ijzeren voorraad",
+        "capaciteit"
+      ]
+    },
+    {
+      "text": "Ruimte reserveren in wijken voor retourlogistiek en op bedrijventerreinen voor industriële verwerkingscapaciteit van herbruikbare materialen.",
+      "originalText": "We organiseren daarvoor een fijnmazig netwerk van retourlogistiek in de wijken en reserveren ruimte voor industriële verwerkingscapaciteit op bedrijventerreinen en in de haven.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "retourlogistiek",
+        "circulaire economie",
+        "bedrijventerreinen"
+      ]
+    },
+    {
+      "text": "Materialenpaspoort invoeren als norm voor bouwmaterialen bij gemeentelijke betrokkenheid om hergebruik mogelijk te maken.",
+      "originalText": "Van bouwmaterialen moet worden vastgelegd uit welke grondstoffen ze bestaan en hoe en wanneer ze weer te gebruiken zijn. Een materialenpaspoort wordt zo veel mogelijk de norm als de gemeente betrokken is.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "materialenpaspoort",
+        "bouwmaterialen",
+        "circulair"
+      ]
+    },
+    {
+      "text": "Bedrijfsruimte realiseren via het Amsterdams Bouw- en Wooncollectief, gericht op lokale ondernemers en ongeschikt voor grote ketens.",
+      "originalText": "De gemeente zet in op de realisatie van bedrijfsruimte, binnen en buiten woonwijken en koopt of realiseert die desnoods zelf via het Amsterdams Bouw- en Wooncollectief. Die bedrijfsruimte richt zich vooral op lokale ondernemers en is ongeschikt voor grote landelijke ketens.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bedrijfsruimte",
+        "lokale ondernemers",
+        "amsterdams bouw- en wooncollectief"
+      ]
+    },
+    {
+      "text": "Een nieuw erotisch centrum buiten de binnenstad ontwikkelen, waarbij gesloten ramen op de Wallen elders worden gecompenseerd.",
+      "originalText": "Daarom steunen we de ontwikkeling van een nieuw erotisch centrum buiten de binnenstad. We zorgen ervoor dat de huidige sekswerkers hun werkplek niet verliezen. Dat betekent dat er op de Wallen alleen ramen worden gesloten als die elders in de stad worden gecompenseerd.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "erotisch centrum",
+        "sekswerk",
+        "wallen"
+      ]
+    },
+    {
+      "text": "Meer veilige en vergunde werkplekken voor sekswerkers creëren, inclusief vergund thuiswerken en werven via internet.",
+      "originalText": "In totaal komen er meer veilige en vergunde werkplekken voor sekswerkers. Ook vergund thuiswerken en werven via internet wordt mogelijk.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sekswerk",
+        "vergunde werkplekken",
+        "thuiswerken"
+      ]
+    },
+    {
+      "text": "De bijverdienpremie voor mensen in de bijstand voortzetten en de uitstroompremie voor bijstandsgerechtigden die aan het werk gaan continueren.",
+      "originalText": "De bijverdienpremie, waardoor mensen in de bijstand extra kunnen werken en daarmee financiële armslag krijgen, wordt voortgezet. De uitstroompremie die mensen beloont wanneer ze vanuit de bijstand aan het werk gaan wordt gecontinueerd.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bijverdienpremie",
+        "uitstroompremie",
+        "bijstand"
+      ]
+    },
+    {
+      "text": "Subsidieregelingen voor informele hulporganisaties eenvoudiger maken en investeren in samenwerking tussen informele en formele gemeentelijke organisaties.",
+      "originalText": "De komende jaren besteden we extra aandacht aan informele organisaties en kijken we hoe we subsidieregelingen eenvoudiger kunnen maken. Ook investeren we in een warmere samenwerking en overdracht tussen informele organisaties en formele gemeentelijke organisaties op het gebied van armoedebeleid en schuldhulpverlening.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidieregelingen",
+        "informele organisaties",
+        "armoedebeleid"
+      ]
+    },
+    {
+      "text": "Vroegsignalering in schuldhulpverlening uitbreiden naar kleine zelfstandigen en zzp'ers in Amsterdam.",
+      "originalText": "Wij zetten ons in om deze aanpak uit te breiden naar kleine zelfstandigen en zzp'ers in Amsterdam, die de laatste jaren steeds vaker te maken krijgen met armoede en schuld.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vroegsignalering",
+        "schuldhulpverlening",
+        "zzp'ers",
+        "zelfstandigen"
+      ]
+    },
+    {
+      "text": "Ervaringsdeskundigen inzetten op alle niveaus van sociale hulpverlening en eerlijk vergoeden voor hun expertise, bijvoorbeeld via buurtbanen.",
+      "originalText": "Deze ervaringsdeskundigheid willen wij op alle niveaus van de sociale hulpverlening inzetten, zodat beleid én uitvoering verbeterd worden. Daarbij zorgen we natuurlijk voor een eerlijke vergoeding voor deze ervaringsdeskundigen. Natuurlijk worden ervaringsdeskundigen vergoed voor hun tijd, werk en expertise, bijvoorbeeld in de vorm van een buurtbaan.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ervaringsdeskundigen",
+        "sociale hulpverlening",
+        "buurtbanen"
+      ]
+    },
+    {
+      "text": "De pilot 'asielzoekers aan het werk' omzetten tot reguliere aanpak voor werkbemiddeling.",
+      "originalText": "De pilot 'asielzoekers aan het werk' wordt onderdeel van de reguliere aanpak om mensen aan het werk te helpen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "asielzoekers",
+        "pilot",
+        "werkbemiddeling"
+      ]
+    },
+    {
+      "text": "Extra investeren in financiële vaardigheden bij kinderen, jongeren en volwassenen en schuldenpreventie bij jongeren.",
+      "originalText": "We investeren in financiële vaardigheden bij kinderen, jongeren en volwassenen. We zetten extra in op de aanpak van schulden bij jongeren. Samen met jongerenwerk en schuldhulpverlening gaan we met jongeren en hun ouders het gesprek aan over hoe zij financiële verleidingen kunnen weerstaan, zowel online als offline.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "financiële vaardigheden",
+        "schuldenpreventie",
+        "jongeren"
+      ]
+    },
+    {
+      "text": "Na 2027 de aanpak arbeidsmigranten verlengen, plan maken voor goede huisvesting en handhaving op slechte huisvesting intensiveren.",
+      "originalText": "Ook na 2027 verlengen we de aanpak arbeidsmigranten. We maken een plan om voor goede huisvesting voor arbeidsmigranten te zorgen. We betrekken daarbij werkgevers en zorgen daarbij ook dat die financieel bijdragen. We intensiveren de handhaving op slechte huisvesting.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "arbeidsmigranten",
+        "huisvesting",
+        "handhaving"
+      ]
+    },
+    {
+      "text": "De toeristenbelasting verhogen en andere financiële maatregelen tegen overtoerisme onderzoeken.",
+      "originalText": "Daarom verhogen we de toeristenbelasting en onderzoeken we andere (financiële) maatregelen tegen overtoerisme.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "overtoerisme",
+        "financiële maatregelen"
+      ]
+    },
+    {
+      "text": "Strategisch vastgoed aankopen uitbreiden naar alle buurten waar toerisme zwaar op de leefbaarheid drukt. Pilots in Zuid, West en Oost uitbreiden.",
+      "originalText": "We maken ruimte voor wat we wél willen. Daartoe breiden we de hyperlokale en effectieve aanpak van strategisch vastgoed aankopen, zoals de NV Zeedijk dat doet, uit naar alle buurten waar toerisme zwaar op de leefbaarheid drukt. Pilots die hiervoor lopen in de stadsdelen Zuid, West en Oost worden uitgebreid.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vastgoed",
+        "aankopen",
+        "toerisme",
+        "leefbaarheid"
+      ]
+    },
+    {
+      "text": "Volledig verbod op vakantieverhuur invoeren zodra dat wettelijk mogelijk is. Sancties verzwaren en handhaving uitbreiden.",
+      "originalText": "GroenLinks wil een volledig verbod op vakantieverhuur. Zodra dat wettelijk mogelijk is, voeren we zo'n verbod in. Sancties op overtreding worden verzwaard en handhaving wordt uitgebreid.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vakantieverhuur",
+        "verbod",
+        "sancties",
+        "handhaving"
+      ]
+    },
+    {
+      "text": "Toeristenbelasting flink verhogen en dagbezoekers ook laten meebetalen aan negatieve gevolgen van overtoerisme.",
+      "originalText": "We verhogen de toeristenbelasting flink. Daarnaast willen we dat dagbezoekers, die nu uitgesloten zijn van de toeristenbelasting, ook gaan meebetalen aan de negatieve gevolgen van overtoerisme.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "verhogen",
+        "dagbezoekers",
+        "overtoerisme"
+      ]
+    },
+    {
+      "text": "Geen nieuwe hotelkamers toevoegen in Amsterdam. Alleen meewerken aan nieuwe hotelvoorzieningen bij nieuw voor oud.",
+      "originalText": "Er komen geen nieuwe hotelkamers bij in Amsterdam. We werken alleen mee aan nieuwe hotelvoorzieningen als er sprake is van nieuw voor oud.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotelkamers",
+        "nieuwbouw",
+        "toerisme",
+        "hotels"
+      ]
+    },
+    {
+      "text": "Pilot waarbij toeristenwinkels vergunning moeten aanvragen omzetten in beleid als deze succesvol is.",
+      "originalText": "We bestrijden monocultuur in het winkelaanbod. Als de pilot waarbij toeristenwinkels een vergunning moeten aanvragen een succes is, zetten we deze zo snel mogelijk om in beleid.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toeristenwinkels",
+        "vergunning",
+        "pilot",
+        "winkelaanbod"
+      ]
+    },
+    {
+      "text": "Coffeeshops verder spreiden over de stad.",
+      "originalText": "Spreiding coffeeshops. We zetten in op het verder spreiden van coffeeshops over de stad.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coffeeshops",
+        "spreiding",
+        "stad"
+      ]
+    },
+    {
+      "text": "CO2-uitstoot in Amsterdam met 60% reduceren in 2030 ten opzichte van 1990.",
+      "originalText": "We doen wat nodig is. Als hoofdstad verbinden we ons uiteraard aan de (inter)nationale klimaatdoelen. Dat betekent dat we in 2030 in Amsterdam onze CO2 uitstoot met 60% hebben gereduceerd ten opzichte van 1990.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "co2",
+        "uitstoot",
+        "klimaatdoelen",
+        "reductie"
+      ]
+    },
+    {
+      "text": "Zonnepanelen plaatsen op daken, balkons en parkeerplaatsen. Gemeente bijdragen aan batterijoplossingen voor salderingsregeling.",
+      "originalText": "Zonnepanelen plaatsen we waar het kan. Daarbij hebben zonnepanelen op daken, balkons en parkeerplaatsen voorrang. Met batterijoplossingen draagt de gemeente bij aan het opvangen van de afschaffing van de salderingsregeling.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zonnepanelen",
+        "daken",
+        "batterijoplossingen",
+        "energie"
+      ]
+    },
+    {
+      "text": "Isolatieoffensief uitbreiden over de hele stad. Energiecoaches en fix-brigades voortzetten.",
+      "originalText": "Isoleren blijft topprioriteit. Daartoe breiden we het ingezette isolatieoffensief uit over de hele stad. De gemeente blijft doorgaan met energiecoaches en fix-brigades en helpt bewoners en ondernemers met collectieve isolatie- en verduurzamingsacties.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "isolatie",
+        "energiecoaches",
+        "fix-brigades",
+        "verduurzaming"
+      ]
+    },
+    {
+      "text": "Publiek warmtebedrijf oprichten om warmtenetten in collectief bezit te verzekeren.",
+      "originalText": "We zetten ons in voor nieuwe financieringsmodellen om warmtenetten snel aan te leggen en/of mee te laten lopen met ander onderhoud aan kabels en leidingen. Om te verzekeren dat deze warmtenetten in collectief bezit zijn, richten we een publiek warmtebedrijf op.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "warmtebedrijf",
+        "publiek",
+        "warmtenetten",
+        "collectief"
+      ]
+    },
+    {
+      "text": "Cruiseschepen verbannen uit Amsterdam.",
+      "originalText": "Cruiseschepen horen niet thuis in Amsterdam. We zetten ons in om deze te verbannen uit de stad.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cruiseschepen",
+        "verbannen",
+        "milieu"
+      ]
+    },
+    {
+      "text": "Belemmerende regelgeving voor verduurzaming van woningen en bedrijven schrappen of aanpassen.",
+      "originalText": "We maken verduurzamen makkelijk. De gemeente schrapt belemmerende regelgeving voor verduurzaming van woningen en bedrijven of past deze aan. Gemeente stimuleert, faciliteert en ontzorgt bewoners, ondernemers en VvE's, met kennis en subsidies.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "regelgeving",
+        "verduurzaming",
+        "woningen",
+        "bedrijven"
+      ]
+    },
+    {
+      "text": "Bodemdaling aanpakken samen met landelijke overheid en provincie door probleem van inklinkende grond bij lage waterstanden te bestrijden.",
+      "originalText": "We pakken bodemdaling aan. Op dit moment veroorzaken lage waterstanden veel uitstoot bij het inklinken van de grond. We pakken het probleem van bodemdaling aan samen met de landelijke overheid en de provincie.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bodemdaling",
+        "waterstanden",
+        "grond"
+      ]
+    },
+    {
+      "text": "Regels vaststellen in omgevingsplan voor natuurinclusieve en grondgebonden veeteelt in gemeentelijk landelijk gebied.",
+      "originalText": "Veeteelt in het gemeentelijk landelijk gebied moet natuurinclusief en grondgebonden zijn. De gemeente steltl in haar omgevingsplan regels vast die nodig zijn om de doelen op het gebied van bodemdaling te bereiken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "veeteelt",
+        "omgevingsplan",
+        "natuurinclusief",
+        "grondgebonden"
+      ]
+    },
+    {
+      "text": "Stadslandbouwloket opzetten als vast hulppunt bij gemeente voor Community Supported Agriculture en stadslandbouw.",
+      "originalText": "Stadslandbouw en andere vormen van Community Supported Agriculture krijgen een vast hulppunt bij de gemeente, zoals het stadslandbouwloket in Den Haag.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadslandbouw",
+        "hulppunt",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "Vergunningverlening voor stadslandbouw toegankelijk maken zodat basisvergunningen voor kleine kas of composttoilet niet langer hoofdpijndossiers zijn.",
+      "originalText": "Vergunningverlening maken we toegankelijk en passend zodat basisvergunningen zoals een kleine kas of een composttoilet niet langer hoofdpijndossiers zijn.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vergunningverlening",
+        "stadslandbouw",
+        "kas",
+        "composttoilet"
+      ]
+    },
+    {
+      "text": "Gemeente koopt voedsel zo veel mogelijk lokaal in en faciliteert toegang Amsterdammers tot lokale producten.",
+      "originalText": "Ook faciliteren we dat Amsterdammers makkelijker toegang hebben tot deze producten. De gemeente koopt voedsel zelf zo veel mogelijk lokaal in.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeente",
+        "lokaal",
+        "voedsel",
+        "inkoop"
+      ]
+    },
+    {
+      "text": "Stookverbod bij slecht weer invoeren zo snel mogelijk om houtstook terug te dringen vanwege fijnstofuitstoot.",
+      "originalText": "Bij het stoken van hout komen schadelijke stoffen vrij die slecht zijn voor natuur, mens en klimaat. De hoge uitstoot van fijnstof kan zorgen voor ernstige gezondheidsklachten. Er komt zo snel mogelijk een stookverbod bij slecht weer.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stookverbod",
+        "houtstook",
+        "slecht weer",
+        "fijnstof"
+      ]
+    },
+    {
+      "text": "Maximale druk zetten op provincie om uitstoot van kunstmestfabriek ICL in Noord aan te pakken vanwege overlast en giftige stoffen.",
+      "originalText": "De kunstmestfabriek ICL veroorzaakt grote overlast voor bewoners in Noord. Inmiddels is duidelijk dat er behalve de vieze geur ook onacceptabele giftige stoffen worden uitgestoten. GroenLinks zet maximale druk op de provincie om de uitstoot van ICL aan te pakken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "icl",
+        "provincie",
+        "uitstoot",
+        "giftige stoffen"
+      ]
+    },
+    {
+      "text": "Regenton plaatsing aan gevel makkelijk maken zodat regenwater kan worden opgevangen voor bewatering van geveltuinen.",
+      "originalText": "We maken het makkelijk om een regenton te plaatsen aan de gevel zodat waardevol regenwater kan worden opgevangen. Met dit water kunnen geveltuinen en ander snippergroen bewaterd worden bij droogte.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "regenton",
+        "gevel",
+        "regenwater",
+        "geveltuinen"
+      ]
+    },
+    {
+      "text": "Vuilwateraansluitingen op hemelwaterriool aanpakken en groene oevers en drijvend groen uitbreiden voor schoner oppervlaktewater.",
+      "originalText": "We pakken de vuilwateraansluitingen op het hemelwaterriool aan zodat het oppervlaktewater schoon en aantrekkelijk blijft. We breiden groene oevers en drijvend groen uit vanwege bewezen goede effecten op de waterkwaliteit en de biodiversiteit.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vuilwateraansluitingen",
+        "hemelwaterriool",
+        "groene oevers",
+        "drijvend groen"
+      ]
+    },
+    {
+      "text": "Strategie ontwikkelen om PFAS-vervuiling tegen te gaan en bestaande vervuiling aan te pakken. Staalslakken verbieden en waar nodig verwijderen.",
+      "originalText": "We ontwikkelen een strategie om verdere PFAS-vervuiling tegen te gaan en de bestaande vervuiling aan te pakken. We verbieden het gebruik van staalslakken en verwijderen ze waar nodig.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pfas",
+        "vervuiling",
+        "staalslakken",
+        "strategie"
+      ]
+    },
+    {
+      "text": "ADAM-regeling uitbreiden waarmee stadspashouders met groene stip eens per jaar gratis naar dierenarts kunnen.",
+      "originalText": "Met de ADAM-regeling kunnen stadspashouders met een groene stip eens per jaar gratis naar de dierenarts. We breiden deze succesvolle regeling uit.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "adam-regeling",
+        "stadspas",
+        "dierenarts",
+        "gratis"
+      ]
+    },
+    {
+      "text": "Straten en pleinen zo groen mogelijk maken door verwijderen onnodige parkeerplekken en verharding. Buurten met hittestress krijgen voorrang.",
+      "originalText": "Straten en pleinen maken we zo groen mogelijk door het verwijderen van onnodige parkeerplekken en verharding. We zoeken ruimte voor extra postzegelparkjes en grote parken bij gebiedsontwikkeling. De buurten met de meeste hittestress, risico op wateroverlast en het minste groen krijgen voorrang.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "straten",
+        "pleinen",
+        "parkeerplekken",
+        "verharding",
+        "hittestress"
+      ]
+    },
+    {
+      "text": "Meer bomen planten en achterstanden wegwerken bij vullen van lege boomspiegels voor tegengaan hittestress en fijnstof.",
+      "originalText": "Bomen zijn enorm belangrijk voor het tegengaan van hittestress en fijnstof, voor ons (mentale) welzijn en de biodiversiteit. We planten daarom meer bomen aan en lopen de achterstanden in bij het vullen van lege boomspiegels.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bomen",
+        "planten",
+        "boomspiegels",
+        "hittestress",
+        "fijnstof"
+      ]
+    },
+    {
+      "text": "Groenraad oprichten en groennormen vaststellen zodat groen zwaardere stem krijgt in besluitvorming over ruimtelijke plannen.",
+      "originalText": "Daartoe voeren we ons plan \"Een Stem voor Groen\" verder uit: we richten onder andere een Groenraad op. Zo wordt het belang van groen op tijd gehoord bij het maken van plannen. We maken een passend kader van groennormen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groenraad",
+        "groennormen",
+        "besluitvorming",
+        "plannen"
+      ]
+    },
+    {
+      "text": "In Omgevingsplan vastleggen dat binnentuinen niet geheel volgebouwd of betegeld mogen worden. Lik-op-stukbeleid invoeren bij illegale kap.",
+      "originalText": "We gaan verharding tegen door in het Omgevingsplan vast te leggen dat binnentuinen niet geheel worden volgebouwd of betegeld. We voeren bij illegale kap nieuw lik-op-stukbeleid in en verbeteren de publicatie van aanvragen en vergunningen onder meer door het invoeren van een bomenbord.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "omgevingsplan",
+        "binnentuinen",
+        "verharding",
+        "illegale kap",
+        "bomenbord"
+      ]
+    },
+    {
+      "text": "Stoppen met het gebruik van bladblazers in Amsterdam",
+      "originalText": "We stoppen met bladblazers.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bladblazers",
+        "stoppen",
+        "onderhoud"
+      ]
+    },
+    {
+      "text": "Natuurelementen integreren in het reguliere onderwijsaanbod van basisscholen",
+      "originalText": "De gemeente helpt basisscholen om natuurelementen te integreren in het reguliere onderwijsaanbod.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "basisscholen",
+        "natuurelementen",
+        "onderwijs"
+      ]
+    },
+    {
+      "text": "Schoolpleinen van basis- en VO scholen vergroenen",
+      "originalText": "Schoolpleinen van basis- en VO scholen worden vergroend.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolpleinen",
+        "vergroening",
+        "onderwijs"
+      ]
+    },
+    {
+      "text": "Een permanent park aanleggen in de Sixhaven als 'Voortuin van Noord'",
+      "originalText": "We leggen in de Sixhaven een permanent park aan. Deze groene oase wordt samen met het Tolhuisgebied \"de Voortuin van Noord\".",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "sixhaven",
+        "park",
+        "voortuin van noord"
+      ]
+    },
+    {
+      "text": "In 2034 een eerste brug over het IJ realiseren en voorbereidingen starten voor de Westbrug",
+      "originalText": "We maken de Sprong over het IJ. In 2034 is er een eerste brug over het IJ en we starten zo snel mogelijk de voorbereidingen voor de Westbrug.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "brug",
+        "ij",
+        "2034",
+        "westbrug"
+      ]
+    },
+    {
+      "text": "Het aantal fietsstraten uitbreiden en een tweede fietsring creëren via Bilderdijkstraat/Van Baerlestraat/Ceintuurbaan",
+      "originalText": "Vanwege het daverend succes breiden we het aantal fietsstraten uit. Zo creëren we bijvoorbeeld een tweede fietsring (Bilderdijkstraat/Van Baerlestraat/Ceintuurbaan).",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "fietsstraten",
+        "fietsring",
+        "bilderdijkstraat"
+      ]
+    },
+    {
+      "text": "Een nachtmetro invoeren",
+      "originalText": "We breiden het ov uit. Er komt een nachtmetro.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "nachtmetro",
+        "openbaar vervoer",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Het aantal parkeervergunningen verder verlagen voor meer ruimte voor stoepen en vergroening",
+      "originalText": "Het aantal parkeervergunningen gaat verder omlaag. Zo maken we meer ruimte voor stoepen en vergroening.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeervergunningen",
+        "verlagen",
+        "stoepen",
+        "vergroening"
+      ]
+    },
+    {
+      "text": "Stoppen met vergunningen voor deelscooters en geen deelsteps toestaan in Amsterdam",
+      "originalText": "Daarom stoppen we met vergunningen voor deelscooters en komen er geen deelsteps in Amsterdam.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "deelscooters",
+        "deelsteps",
+        "vergunningen",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "De hoofdgrachten parkeervrij maken",
+      "originalText": "Daarom maken we de hoofdgrachten parkeervrij.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "hoofdgrachten",
+        "parkeervrij",
+        "unesco"
+      ]
+    },
+    {
+      "text": "Voor 2028 alleen bewoners en aangemeld bezoek toestaan in het centrum met de auto",
+      "originalText": "Alleen bewoners en aangemeld bezoek kunnen (naar Italiaans voorbeeld) nog in het centrumgebied komen met de auto, zodat toeristen niet rondjes rijden zonder bestemming. Dit moet voor 2028 zijn ingevoerd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "centrum",
+        "auto",
+        "2028",
+        "bewoners"
+      ]
+    },
+    {
+      "text": "Over vier jaar geen afvalzakken en grof vuil meer op straat",
+      "originalText": "Er staan over vier jaar geen afvalzakken en geen grof vuil meer op straat.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "afvalzakken",
+        "grof vuil",
+        "straat",
+        "vier jaar"
+      ]
+    },
+    {
+      "text": "Een gedifferentieerd tarief invoeren waarbij huishoudens minder betalen bij minder ongescheiden restafval",
+      "originalText": "We willen een gedifferentieerd tarief. Daarbij betalen huishoudens een lagere afvalstoffenheffing naarmate ze minder ongescheiden restafval aanbieden.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gedifferentieerd tarief",
+        "afvalstoffenheffing",
+        "restafval"
+      ]
+    },
+    {
+      "text": "In elke wijk een inleverpunt voor afvalscheiding en recycling creëren",
+      "originalText": "In elke wijk komt een inleverpunt voor afval dat gescheiden ingezameld moet worden (zoals klein chemisch afval) of dat gerecycled kan worden.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wijkpunt",
+        "inleverpunt",
+        "afvalscheiding",
+        "recycling"
+      ]
+    },
+    {
+      "text": "Inzameling van organisch afval in wijken uitbreiden en meer wormenhotels en lokale biovergisters realiseren.",
+      "originalText": "We breiden de inzameling van organisch afval in wijken uit, versterken het netwerk van lokale ondernemers en voedselbanken om voedselverspilling te verminderen en gaan meer wormenhotels en lokale biovergisters realiseren.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "organisch afval",
+        "wormenhotels",
+        "biovergisters"
+      ]
+    },
+    {
+      "text": "Streng handhaven op de 25-meterregel waarin ondernemers verantwoordelijk zijn voor schoonhouden van 25 meter rondom hun onderneming.",
+      "originalText": "We handhaven streng op de 25-meterregel, waarin is geregeld dat alle ondernemers verantwoordelijk zijn voor het schoonhouden van de 25 meter rondom hun onderneming.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "25-meterregel",
+        "handhaving",
+        "ondernemers"
+      ]
+    },
+    {
+      "text": "Controle op bedrijven versterken om te zien of ze een passend afvalcontract hebben.",
+      "originalText": "De controle op bedrijven om te zien of ze een passend afvalcontract hebben wordt versterkt.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "controle",
+        "bedrijven",
+        "afvalcontract"
+      ]
+    },
+    {
+      "text": "24-uursopvang voor ongedocumenteerden behouden ondanks afschaffing LVV door het kabinet.",
+      "originalText": "De 24-uursopvang voor ongedocumenteerden blijft bestaan, ondanks dat het kabinet de Landelijke Vreemdelingen Voorziening (LVV) heeft afgeschaft.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "24-uursopvang",
+        "ongedocumenteerden",
+        "lvv"
+      ]
+    },
+    {
+      "text": "Een fonds creëren waaruit zorg buiten het basispakket vergoed kan worden voor ongedocumenteerden, met specifieke aandacht voor mondzorg.",
+      "originalText": "Amsterdam creërt een fonds waaruit zorg die buiten het basispakket valt, vergoed kan worden voor ongedocumenteerden. Specifieke aandacht gaat uit naar mondzorg.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fonds",
+        "zorg",
+        "ongedocumenteerden",
+        "mondzorg"
+      ]
+    },
+    {
+      "text": "Een stadsID invoeren voor ongedocumenteerde Amsterdammers en hen recht geven op een stadspas.",
+      "originalText": "Er komt een stadsID voor ongedocumenteerde Amsterdammers. Deze moet los staan van zaken als DigiD om iedereen die dat nodig heeft te kunnen ondersteunen. Ongedocumenteerden krijgen ook recht op een stadspas.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stadsid",
+        "ongedocumenteerden",
+        "stadspas"
+      ]
+    },
+    {
+      "text": "Investeren in de komst en structurele financiering van het Nationaal Slavernijmuseum in Amsterdam.",
+      "originalText": "We investeren in de komst en de structurele financiering van het Nationaal Slavernijmuseum in Amsterdam.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nationaal slavernijmuseum",
+        "investeren",
+        "financiering"
+      ]
+    },
+    {
+      "text": "Keti Koti een vrije dag maken voor medewerkers van de gemeente.",
+      "originalText": "GroenLinks wil dat medewerkers van de gemeente vrij zijn op Keti Koti.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "keti koti",
+        "vrije dag",
+        "gemeentemedewerkers"
+      ]
+    },
+    {
+      "text": "Een stedelijk coördinator tegen discriminatie en racisme benoemen.",
+      "originalText": "We benoemen een stedelijk coördinator tegen discriminatie en racisme. Die kan de aanpak van discriminatie in Amsterdam op alle terreinen (onderwijs, sport, wonen etc.) bevorderen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coördinator",
+        "discriminatie",
+        "racisme"
+      ]
+    },
+    {
+      "text": "Gendermainstreaming toepassen in al het gemeentelijk beleid bij maken, uitvoeren en evalueren.",
+      "originalText": "De gemeente Amsterdam past daarom gendermainstreaming toe in al het gemeentelijk beleid: dit betekent dat we in het maken, uitvoeren en evalueren van beleid expliciet vrouwen, trans- en non-binaire personen betrekken vanuit intersectioneel perspectief.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gendermainstreaming",
+        "gemeentelijk beleid",
+        "inclusie"
+      ]
+    },
+    {
+      "text": "Structureel meer geld investeren in kunst en cultuur in de stad.",
+      "originalText": "Structureel meer geld voor kunst en cultuur. We investeren de komende periode structureel meer in kunst en cultuur in de stad en in onze rol als nationale en internationale hoofdstad voor cultuur.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "structureel",
+        "investeren",
+        "kunst",
+        "cultuur"
+      ]
+    },
+    {
+      "text": "Investeren in versterking van culturele infrastructuur in Zuidoost, Noord en Nieuw-West en een nieuw gebouw voor het Bijlmerparktheater.",
+      "originalText": "Meer aanbod waar nu te weinig is. We investeren gericht in versterking van de culturele infrastructuur in Zuidoost, Noord en Nieuw-West en in de delen van de stad waar het aanbod achter loopt op de vraag. We investeren in nieuwe grootstedelijke culturele voorzieningen in Noord op het Buikslotermeerplein en Zuidoost, waaronder een nieuw gebouw voor het Bijlmerparktheater.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeren",
+        "culturele infrastructuur",
+        "zuidoost",
+        "noord",
+        "nieuw-west",
+        "bijlmerparktheater"
+      ]
+    },
+    {
+      "text": "Cultuureducatie verankeren in het Kunstenplan op alle scholen.",
+      "originalText": "Cultuureducatie moet op elke school vanzelfsprekend zijn. We verankeren cultuureducatie in het Kunstenplan, zoals dat nu al het geval is bij muziekeducatie.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuureducatie",
+        "verankeren",
+        "kunstenplan",
+        "scholen"
+      ]
+    },
+    {
+      "text": "Structureel ruimte en panden reserveren voor makers, podia en culturele initiatieven bij nieuwe gebiedsontwikkelingen.",
+      "originalText": "Cultuur en gebiedsontwikkeling hand in hand. We zorgen dat cultuur wordt meegenomen als basisvoorziening bij nieuwe gebiedsontwikkelingen (net als scholen) en reserveren structureel ruimte en panden voor makers, podia en culturele initiatieven.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "structureel",
+        "reserveren",
+        "ruimte",
+        "makers",
+        "gebiedsontwikkelingen"
+      ]
+    },
+    {
+      "text": "Structureel investeren in behoud en bouw van broedplaatsen en betaalbare woon- en werkpanden voor makers.",
+      "originalText": "Ruimte voor makers. We investeren structureel in het behoud en de bouw van broedplaatsen en betaalbare woon- en werkpanden voor makers in onze stad. We investeren in vastgoed dat we tegen een maatschappelijk tarief verhuren ter bevordering van verschillende maatschappelijke culturele initiatieven, van culturele projecten in de buurt tot nachtcultuur.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "structureel",
+        "investeren",
+        "broedplaatsen",
+        "betaalbare",
+        "makers"
+      ]
+    },
+    {
+      "text": "Mogelijkheid voor een kunst investeringszone onderzoeken naar voorbeeld van Bedrijveninvesteringszones.",
+      "originalText": "Kunst investeringszone (KIZ). We onderzoeken de mogelijkheid voor een kunst investeringszone, naar voorbeeld van de Bedrijveninvesteringszones (BIZ) die al gangbaar zijn in de stad.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderzoeken",
+        "kunst investeringszone",
+        "biz"
+      ]
+    },
+    {
+      "text": "Ruimte en middelen beschikbaar stellen voor gemarginaliseerde groepen in de nachtcultuur en Paradiso behouden voor het Centrum.",
+      "originalText": "Nacht voor iedereen. We investeren in de inclusieve en intersectionele nacht: stel ruimte en middelen beschikbaar voor gemarginaliseerde groepen zoals de biculturele queergemeenschap en ondersteun zelforganiserende emancipatoire nachtcultuurmakers. Zorg dat Amsterdam voor hen financieel toegankelijk blijft. Paradiso - een icoon van onze nachtcultuur - blijft behouden voor het Centrum.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ruimte",
+        "middelen",
+        "nachtcultuur",
+        "paradiso",
+        "behouden"
+      ]
+    },
+    {
+      "text": "Extra capaciteit en financiële borging van preventief sociaal werk voor buurtouders, jongerenwerkers en wijkagenten.",
+      "originalText": "Contact en belangstelling. Wie voelt en ervaart onderdeel van de samenleving te zijn, zal zich minder makkelijk keren tegen die samenleving en individuele burgers. Dat vraagt om contact en belangstelling. GroenLinks kiest voor buurtouders, jongerenwerkers en wijkagenten. GroenLinks ziet dat deze benadering resultaten oplevert, maar ziet ook dat er capaciteitsproblemen zijn. Daarom zetten we in op extra capaciteit en financiële borging van preventief sociaal werk.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "extra capaciteit",
+        "financiële borging",
+        "preventief sociaal werk",
+        "wijkagenten"
+      ]
+    },
+    {
+      "text": "Investeren in laagdrempelige ontmoetingsplekken, jongerenwerk en sportvoorzieningen in de wijken.",
+      "originalText": "GroenLinks Amsterdam zet daarom stevig in op preventie. We investeren in laagdrempelige ontmoetingsplekken, jongerenwerk en sportvoorzieningen in de wijken, zodat jongeren zich kunnen ontwikkelen in een positieve en veilige omgeving.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeren",
+        "ontmoetingsplekken",
+        "jongerenwerk",
+        "sportvoorzieningen",
+        "wijken"
+      ]
+    },
+    {
+      "text": "We gaan de doelstelling halen om in 2030 30% van ons IT landschap in handen van Europese aanbieders te hebben.",
+      "originalText": "We gaan de doelstelling halen om in 2030 30% van ons IT landschap in handen van Europese aanbieders of partijen te hebben.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "it",
+        "europese aanbieders",
+        "2030",
+        "30%"
+      ]
+    },
+    {
+      "text": "Amsterdam bouwt aan publieke digitale infrastructuur die toegankelijk is met democratische en duurzame bedrijfsmodellen.",
+      "originalText": "Binnen ons economisch beleid zetten we daarom in op het stimuleren van een publieke digitale infrastructuur, die voor iedereen toegankelijk is, met democratische en duurzame bedrijfsmodellen. Daarin werken we nadrukkelijk samen met kennisinstellingen en maatschappelijke organisaties in de stad.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "digitale infrastructuur",
+        "toegankelijk",
+        "democratisch",
+        "duurzaam"
+      ]
+    },
+    {
+      "text": "We breiden het openbare sensorregister uit en werken toe naar een meldplicht voor dataverzameling in de openbare ruimte.",
+      "originalText": "We breiden daarom ons openbare sensorregister uit. Uiteindelijk werken we toe naar een meldplicht voor dataverzameling in de openbare ruimte.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sensorregister",
+        "meldplicht",
+        "dataverzameling",
+        "openbare ruimte"
+      ]
+    },
+    {
+      "text": "Er komt een verbod op biometrische surveillance-technieken zoals gezichtsherkenning.",
+      "originalText": "Er komt een verbod op biometrische surveillance-technieken zoals gezichtsherkenning.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "verbod",
+        "biometrische surveillance",
+        "gezichtsherkenning"
+      ]
+    },
+    {
+      "text": "We openen een fysiek loket waar inwoners terecht kunnen met vragen over gemeentelijke digitale zaken.",
+      "originalText": "We openen een fysiek loket, waar inwoners terecht kunnen met al hun vragen en klachten over gemeentelijke digitale zaken, ook als de gemeente diensten heeft uitbesteed of data verwerkt binnen samenwerkingsverbanden.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "fysiek loket",
+        "digitale zaken",
+        "inwoners",
+        "vragen"
+      ]
+    },
+    {
+      "text": "We introduceren een stopknop waarmee Amsterdammers maatwerk kunnen aanvragen bij vastgelopen geautomatiseerde processen.",
+      "originalText": "We introduceren een stopknop in de online omgeving. Amsterdammers die vastlopen in een geautomatiseerd proces (bijvoorbeeld doordat een formulier geen rekening houdt met bijzondere omstandigheden) kunnen maatwerk aanvragen door het indrukken van deze knop.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stopknop",
+        "maatwerk",
+        "geautomatiseerd proces",
+        "online"
+      ]
+    },
+    {
+      "text": "We stimuleren hergebruik van overheidsapparaten door organisaties in de stad om elektronisch afval te verminderen.",
+      "originalText": "We stimuleren hergebruik van overheidsapparaten door organisaties in de stad. Zo krijgen mensen met een krappe beurs toegang tot digitale middelen en verminderen we elektronisch afval.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hergebruik",
+        "overheidsapparaten",
+        "elektronisch afval",
+        "digitale middelen"
+      ]
+    },
+    {
+      "text": "Structureel investeren in sport, cultuur, opvoedondersteuning en laagdrempelige buurtvoorzieningen om preventieve jeugdzorg te versterken.",
+      "originalText": "Door gezinnen tijdig te ondersteunen en jongeren perspectief te bieden, wordt zwaardere jeugdhulp op termijn minder vaak nodig. We investeren structureel in sport, cultuur, opvoedondersteuning en laagdrempelige buurtvoorzieningen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeren",
+        "sport",
+        "cultuur",
+        "opvoedondersteuning",
+        "buurtvoorzieningen"
+      ]
+    },
+    {
+      "text": "Wachttijden voor jeugdzorg verlagen door blijvende inzet en extra investeringen.",
+      "originalText": "We blijven ons inzetten om de wachttijden voor de jeugdzorg omlaag te krijgen. Het is onacceptabel dat jongeren die keihard hulp nodig hebben, nu soms zo lang moeten wachten.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wachttijden",
+        "jeugdzorg",
+        "verlagen"
+      ]
+    },
+    {
+      "text": "Jeugdbescherming integraal onderdeel maken van buurt- en wijkzorg voor snellere samenwerking tussen instanties.",
+      "originalText": "Jongeren moeten niet verdwalen tussen verschillende instanties. De jeugdbescherming wordt daarom integraal onderdeel van de buurt- en wijkzorg.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdbescherming",
+        "buurt- en wijkzorg",
+        "samenwerking"
+      ]
+    },
+    {
+      "text": "Meer plekken beschikbaar maken waar kinderen met en zonder beperking elkaar kunnen ontmoeten.",
+      "originalText": "We maken meer plekken beschikbaar waar kinderen met en zonder beperking en van verschillende achtergronden elkaar tegenkomen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "plekken",
+        "kinderen",
+        "beperking",
+        "ontmoeten"
+      ]
+    },
+    {
+      "text": "Investeren in respijtzorg, tegemoetkomingen en begeleiding voor mantelzorgouders van kinderen met zorgtaken.",
+      "originalText": "Wij investeren in respijtzorg, tegemoetkomingen en toegankelijke begeleiding zodat mantelzorgouders goed ondersteund worden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "investeren",
+        "respijtzorg",
+        "tegemoetkomingen",
+        "mantelzorgouders"
+      ]
+    },
+    {
+      "text": "Bureaucratie verminderen en investeren in vaste banen en goede arbeidsvoorwaarden voor jeugdzorgprofessionals.",
+      "originalText": "We verminderen de bureaucratie en investeren in vaste banen en goede arbeidsvoorwaarden. Samen met vakbonden zoals de FNV zetten we ons in voor een eerlijke cao, meer ontwikkelkansen en een gezonde werkbalans.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bureaucratie",
+        "verminderen",
+        "vaste banen",
+        "arbeidsvoorwaarden"
+      ]
+    },
+    {
+      "text": "Jongerenwerk structureel financieren zodat zij niet afhankelijk zijn van tijdelijke projecten.",
+      "originalText": "We investeren in het verder professionaliseren en structureel financieren van jongerenwerk, zodat zij niet afhankelijk zijn van tijdelijke projecten.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenwerk",
+        "structureel financieren",
+        "professionaliseren"
+      ]
+    },
+    {
+      "text": "Een Actieplan Welzijn opstellen om gezondheidsverschillen tussen groepen Amsterdammers te verkleinen",
+      "originalText": "We bestrijden de gezondheidskloof. Vermindering van de gezondheidsverschillen tussen groepen Amsterdammers wordt een topprioriteit. We komen met een Actieplan Welzijn.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "actieplan",
+        "welzijn",
+        "gezondheidskloof"
+      ]
+    },
+    {
+      "text": "Investeren in toegang tot gezonde voeding, sociale relaties en de toegankelijkheid van zorg- en welzijnsvoorzieningen",
+      "originalText": "We investeren in toegang tot gezonde voeding, sociale relaties (sociale basis), in vroegsignalering en in de toegankelijkheid van welzijn en zorgvoorzieningen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gezonde",
+        "voeding",
+        "toegankelijkheid",
+        "zorgvoorzieningen"
+      ]
+    },
+    {
+      "text": "Huisartsen toegang geven tot betaalbare huisvesting door inzet van gemeentelijk vastgoed en deelnemingen",
+      "originalText": "Huisvesting voor huisartsen. Huisartsgeneeskunde die gericht is op gezonde Amsterdammers en niet op het maken van winst, moet toegang hebben tot betaalbare huisvesting. Daar dragen we aan bij met de inzet van gemeentelijk vastgoed, deelnemingen zoals de NV Zeedijk en vergelijkbare partijen",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huisartsen",
+        "huisvesting",
+        "gemeentelijk",
+        "vastgoed"
+      ]
+    },
+    {
+      "text": "Investeren in mantelzorgondersteuning zoals logeervoorzieningen, respijtzorg en waardering voor mantelzorgers",
+      "originalText": "Mantelzorgers verdienen onze steun. Daarom investeren we in mantelzorgondersteuning, zoals logeervoorzieningen, respijtzorg en waardering voor mantelzorgers.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mantelzorg",
+        "logeervoorzieningen",
+        "respijtzorg"
+      ]
+    },
+    {
+      "text": "De Transkliniek uitbreiden zodat dienstverlening past bij de vraag van de transgemeenschap",
+      "originalText": "We breiden de Transkliniek uit. We waarborgen de zorg die de Transkliniek biedt voor de transgemeenschap en zorgen dat de dienstverlening wordt uitgebreid zodat die past bij de vraag.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "transkliniek",
+        "uitbreiden",
+        "transgemeenschap"
+      ]
+    },
+    {
+      "text": "Structureel investeren in het terugdringen van leraren- en schoolleiderstekorten",
+      "originalText": "Een leraar voor de klas. We blijven structureel investeren in het terugdringen van leraren- en schoolleiderstekorten.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leraren",
+        "schoolleiders",
+        "tekorten"
+      ]
+    },
+    {
+      "text": "Investeren in aanpakken achterstallig onderhoud en renovatie van schoolgebouwen met prioriteit voor luchtkwaliteit",
+      "originalText": "Goede schoolgebouwen. We investeren in het aanpakken van achterstallig onderhoud aan schoolgebouwen en renovatie. In overleg met het onderwijsveld stellen we prioriteiten welke scholen als eerste een nieuw gebouw of renovatie nodig hebben. Luchtkwaliteit in de scholen blijft een prioriteit.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolgebouwen",
+        "onderhoud",
+        "renovatie",
+        "luchtkwaliteit"
+      ]
+    },
+    {
+      "text": "De voorschool beschikbaar maken voor kinderen vanaf 2 jaar in plaats van 2,5 jaar",
+      "originalText": "De voorschool is een grote gelijkmaker. We willen daarom dat de voorschool beschikbaar wordt voor kinderen vanaf 2 jaar in plaats van 2,5 jaar.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "voorschool",
+        "2 jaar",
+        "kinderen"
+      ]
+    },
+    {
+      "text": "Bij elke mbo-opleiding een stagebureau oprichten voor betere begeleiding en als meldpunt voor stagediscriminatie",
+      "originalText": "Er komt bij elke mbo-opleiding een stagebureau. Dit loket moet leiden tot betere begeleiding voor studenten en duidelijkheid voor werkgevers. Deze moet ook als meldpunt dienen voor stagediscriminatie.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "mbo",
+        "stagebureau",
+        "stagediscriminatie"
+      ]
+    },
+    {
+      "text": "Het leesoffensief uitbreiden door het mbo er structureel in op te nemen",
+      "originalText": "We breiden het leesoffensief uit. Met het leesoffensief zijn flinke stappen gezet om jongeren aan het lezen te krijgen. We breiden dit programma uit, in de eerste plaats door het mbo er structureel in op te nemen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leesoffensief",
+        "mbo",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "De gemeente zorgt voor goede, duurzame sportaccommodatie en ondersteunt verenigingen bij het verduurzamen van clubgebouwen.",
+      "originalText": "Daarom zorgt de gemeente voor goede, duurzame accommodatie. We ondersteunen verenigingen bij het vinden van personeel en het besturen van de club als dit nodig is en helpen hen om clubgebouwen te verduurzamen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportaccommodatie",
+        "verduurzamen",
+        "clubgebouwen"
+      ]
+    },
+    {
+      "text": "Drempels voor kinderen om bij een sportvereniging te gaan worden weggenomen en volwassenen en ouderen krijgen een gericht sportaanbod.",
+      "originalText": "Geldgebrek mag nooit een reden zijn om niet te sporten. Drempels voor kinderen om bij een sportvereniging te gaan nemen we weg. Ook volwassenen en ouderen die willen sporten, moeten een gericht aanbod krijgen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportvereniging",
+        "drempels",
+        "gericht aanbod"
+      ]
+    },
+    {
+      "text": "Investeren in laagdrempelige, groene sportvoorzieningen in de openbare ruimte zoals basketbalveldjes, speeltuinen en buitenfitness-locaties.",
+      "originalText": "We investeren in laagdrempelige, groene sportvoorzieningen om de hoek: een 3x3-basketbalveldje, een speeltuin, een buitenfitness-locatie, of een mooi park om te wandelen of te joggen. Bij gebiedsontwikkeling en herinrichtingen zorgen we voor meer sportvelden, buurtsportveldjes en buiten-fitness.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportvoorzieningen",
+        "basketbalveldjes",
+        "buitenfitness"
+      ]
+    },
+    {
+      "text": "Het tekort aan binnenzwembaden en personeel voor zwemlessen oplossen zodat elk kind zwemles kan krijgen.",
+      "originalText": "Zwemles voor elk kind. We zetten ons in om het tekort aan binnenzwembaden en personeel voor zwemlessen op te lossen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "binnenzwembaden",
+        "zwemlessen",
+        "personeel"
+      ]
+    },
+    {
+      "text": "Onderzoeken van de mogelijkheid van een drijvend zwembad, bijvoorbeeld in het IJ, om meer schoon zwemwater te creëren.",
+      "originalText": "Er komen zwemplekken bij. We onderzoeken de mogelijkheid van een drijvend zwembad, bijvoorbeeld in het IJ, om zo meer schoon zwemwater te creëren.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "drijvend zwembad",
+        "ij",
+        "zwemwater"
+      ]
+    },
+    {
+      "text": "Voorkeur voor flinke verhoging van de toeristenbelasting en verhogen van de OZB als optie, waarbij woningcorporaties en gemeentelijk vastgoed mogelijk worden ontzien.",
+      "originalText": "Onze voorkeur gaat uit naar een flinke verhoging van de toeristenbelasting. Het verhogen van de OZB is voor ons een optie, waarbij we indien mogelijk de woningcorporaties en ons eigen vastgoed willen ontzien.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "ozb",
+        "woningcorporaties"
+      ]
+    },
+    {
+      "text": "Het aantal ambtenaren niet laten groeien en kijken hoe het ambtelijk apparaat doelmatiger kan werken om minder geld uit te geven.",
+      "originalText": "Een effectieve gemeente. We willen het aantal ambtenaren niet laten groeien en kijken hoe het ambtelijk apparaat doelmatiger kan werken. We zien dat ook als een manier om minder geld uit te geven.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ambtenaren",
+        "ambtelijk apparaat",
+        "doelmatiger"
+      ]
+    },
+    {
+      "text": "Verbetering van de manier waarop meldingen via Mora of de Amsterdam app worden opgepakt en de juiste terugkoppeling krijgen.",
+      "originalText": "We zetten in op een verbetering van de manier waarop meldingen van Amsterdammers, via Mora of de Amsterdam app, worden opgepakt en de juiste terugkoppeling krijgen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mora",
+        "amsterdam app",
+        "meldingen"
+      ]
+    },
+    {
+      "text": "Bij gemeentelijke deelnemingen zoals GVB, Schiphol en de Haven speciale aandacht voor maatschappelijk verantwoord ondernemen, duurzaamheid en fatsoenlijk werkgeverschap.",
+      "originalText": "Amsterdam is een activistisch aandeelhouder. We hebben bij onze deelnemingen, zoals het GVB, Schiphol en de Haven, speciale aandacht voor maatschappelijk verantwoerd ondernemen, duurzaamheid en fatsoenlijk werkgeverschap.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "deelnemingen",
+        "gvb",
+        "schiphol",
+        "haven",
+        "duurzaamheid"
+      ]
+    },
+    {
+      "text": "Gemeentelijk beleid dat de grenzen van aanbesteden en staatssteun opzoekt om doelen van duurzaamheid en werk voor mensen met arbeidsmarktafstand te bereiken.",
+      "originalText": "We zetten daarom in op gemeentelijk beleid dat de grenzen van aanbesteden en staatssteun opzoekt als dat ten goede kan komen aan de doelen van de gemeente.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "aanbesteden",
+        "staatssteun",
+        "arbeidsmarkt",
+        "duurzaamheid"
+      ]
+    },
+    {
+      "text": "Ervaringsdeskundigheid vaker inzetten bij grote beleidsthema's en uitvoering van projecten zoals herinrichting van kruispunten.",
+      "originalText": "Daarom wil GroenLinks ervaringsdeskundigheid vaker inzetten, of het nu gaat om grote beleidsthema's of om de uitvoering van de herinrichting van een ingewikkeld kruispunt.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ervaringsdeskundigheid",
+        "beleid",
+        "kruispunt",
+        "participatie"
+      ]
+    },
+    {
+      "text": "Doorgaan met buurtbudgetten zodat bewoners in samenwerking met stadsdelen eigen ideeën voor de wijk kunnen ontwikkelen en uitvoeren.",
+      "originalText": "We gaan door met de buurtbudgetten. Met deze budgetten kunnen bewoners in samenwerking met het stadsdeel hun eigen ideeën voor de wijk kunnen bedenken, ontwikkelen en uitvoeren.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buurtbudgetten",
+        "bewoners",
+        "stadsdeel",
+        "wijk"
+      ]
+    },
+    {
+      "text": "Lokale sleutelfiguren inzetten om verbinding te maken tussen bewoners en overheid op plekken waar afkeer tegen instanties heerst.",
+      "originalText": "Op plekken waar er een grote afkeer tegen overheid en instanties onder bewoners heerst, zetten we lokale sleutelfiguren in die de verbinding maken tussen bewoners en overheid.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sleutelfiguren",
+        "bewoners",
+        "overheid",
+        "participatie"
+      ]
+    },
+    {
+      "text": "MBO-denktank laten adviseren over maatschappelijke vraagstukken rondom klimaat, inclusie en onderwijs.",
+      "originalText": "MBO-denktank. De gemeente vraagt de MBO-denktank om te adviseren over maatschappelijke vraagstukken rondom klimaat, inclusie en onderwijs.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mbo-denktank",
+        "klimaat",
+        "inclusie",
+        "onderwijs"
+      ]
+    },
+    {
+      "text": "Geen gemeentelijk vastgoed verkopen.",
+      "originalText": "Gemeentelijk vastgoed. We verkopen geen gemeentelijk vastgoed.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "vastgoed",
+        "verkoop",
+        "gemeentelijk"
+      ]
+    }
+  ]
+}

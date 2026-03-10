@@ -1,0 +1,449 @@
+{
+  "party": "FVD",
+  "partySlug": "fvd",
+  "program": "Het programma van hoop, optimisme en herstel",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "8ba96025016e696dab97a11d53465a6577a9a3314d8e73ecc14aecc8f02be660",
+  "totalPromises": 30,
+  "promises": [
+    {
+      "promiseCode": "FVD-2023-001",
+      "text": "De hoge BTW verlagen van 21% naar 19% en de lage BTW verlagen van 9% naar 6%.",
+      "summary": "BTW verlaging naar 19% (hoog) en 6% (laag)",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BTW",
+        "belasting",
+        "tarief",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 55",
+      "originalQuote": "De hoge BTW verlagen van 21% naar 19% en de lage BTW verlagen van 9% naar 6%."
+    },
+    {
+      "promiseCode": "FVD-2023-002",
+      "text": "Erf- en schenkbelasting afschaffen.",
+      "summary": "Afschaffing erf- en schenkbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfbelasting",
+        "schenkbelasting",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 55",
+      "originalQuote": "Erf- en schenkbelasting afschaffen."
+    },
+    {
+      "promiseCode": "FVD-2023-003",
+      "text": "Onbelaste kilometervergoeding verhogen naar 30 cent per kilometer.",
+      "summary": "Kilometervergoeding naar 30 cent",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kilometervergoeding",
+        "belasting",
+        "vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 55",
+      "originalQuote": "Onbelaste kilometervergoeding naar 30 cent per kilometer."
+    },
+    {
+      "promiseCode": "FVD-2023-004",
+      "text": "Heffingsvrij vermogen verhogen naar 1 miljoen euro.",
+      "summary": "Heffingsvrij vermogen naar 1 miljoen euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vermogen",
+        "heffing",
+        "belasting",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 55",
+      "originalQuote": "Heffingsvrij vermogen verhogen naar 1 miljoen euro."
+    },
+    {
+      "promiseCode": "FVD-2023-005",
+      "text": "Subsidie op elektrische auto's stoppen.",
+      "summary": "Stop subsidie elektrische auto's",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidie",
+        "elektrische",
+        "auto",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 55",
+      "originalQuote": "Stoppen subsidie op elektrische auto's."
+    },
+    {
+      "promiseCode": "FVD-2023-006",
+      "text": "Doorbetalingsverplichting bij ziekte van werknemers verkorten van twee naar één jaar.",
+      "summary": "Ziekteverlof terugbrengen naar 1 jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "doorbetalingsverplichting",
+        "ziekte",
+        "werknemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 56",
+      "originalQuote": "Doorbetalingsverplichting bij ziekte van werknemers verkorten van twee naar één jaar."
+    },
+    {
+      "promiseCode": "FVD-2023-007",
+      "text": "Voor iedere nieuwe wet of regel, minstens vijf anderen afschaffen.",
+      "summary": "1 nieuwe regel = 5 regels afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "regel",
+        "bureaucratie",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 56",
+      "originalQuote": "Voor iedere nieuwe wet of regel, minstens vijf anderen afschaffen."
+    },
+    {
+      "promiseCode": "FVD-2023-008",
+      "text": "Verhogen van de hoge VPB grens naar 1 miljoen euro.",
+      "summary": "VPB grens naar 1 miljoen euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vennootschapsbelasting",
+        "VPB",
+        "grens"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 56",
+      "originalQuote": "Verhogen van de hoge VPB grens naar 1 miljoen euro."
+    },
+    {
+      "promiseCode": "FVD-2023-009",
+      "text": "Zelfstandigenaftrek voor ZZP'ers verhogen naar 15.000 euro.",
+      "summary": "Zelfstandigenaftrek naar 15.000 euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zelfstandigenaftrek",
+        "ZZP",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 58",
+      "originalQuote": "Verhogen zelfstandigenaftrek voor ZZP'ers naar 15.000 euro."
+    },
+    {
+      "promiseCode": "FVD-2023-010",
+      "text": "Een Vrijheidswet invoeren die lockdowns, vaccinatieplichten en toegangsbewijzen onmogelijk maakt, inclusief intrekking van de Pandemiewet.",
+      "summary": "Vrijheidswet tegen lockdowns en vaccinatieplicht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Vrijheidswet",
+        "lockdown",
+        "vaccinatieplicht",
+        "Pandemiewet"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 62",
+      "originalQuote": "De invoering van een Vrijheidswet, die het onmogelijk maakt voor toekomstige regeringen om ooit nog lockdowns, vaccinatieplichten, toegangsbewijzen en andere mensonterende vrijheidsbeperkingen in te stellen. Deze wet omvat ook de intrekking van de Pandemiewet."
+    },
+    {
+      "promiseCode": "FVD-2023-011",
+      "text": "Alle historische QR-data vernietigen die nog steeds worden opgeslagen.",
+      "summary": "Vernietigen QR-data",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "QR-data",
+        "privacy",
+        "vernietiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 62",
+      "originalQuote": "Alle historische QR-data, die nog steeds worden opgeslagen, vernietigen."
+    },
+    {
+      "promiseCode": "FVD-2023-012",
+      "text": "Het eigen risico in de zorgverzekering verlagen naar 200 euro.",
+      "summary": "Eigen risico naar 200 euro",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen",
+        "risico",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 66",
+      "originalQuote": "Verlaging van het eigen risico naar 200 euro."
+    },
+    {
+      "promiseCode": "FVD-2023-013",
+      "text": "Kleinere klassen met maximaal 23 leerlingen per bevoegde leerkracht.",
+      "summary": "Max 23 leerlingen per klas",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klassengrootte",
+        "leerlingen",
+        "leerkracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 74",
+      "originalQuote": "Kleinere klassen: maximaal 23 leerlingen per bevoegde leerkracht."
+    },
+    {
+      "promiseCode": "FVD-2023-014",
+      "text": "Het Parijsakkoord opzeggen en de klimaatwet intrekken.",
+      "summary": "Opzeggen Parijsakkoord en klimaatwet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Parijsakkoord",
+        "klimaatwet",
+        "intrekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 82",
+      "originalQuote": "Het Parijsakkoord opzeggen, klimaat- en energieakkoord. Intrekken klimaatwet."
+    },
+    {
+      "promiseCode": "FVD-2023-015",
+      "text": "Stoppen met de plaatsing van windturbines, zonneparken en biomassacentrales.",
+      "summary": "Stop windturbines, zonneparken en biomassa",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "zonneparken",
+        "biomassa",
+        "stop"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 82",
+      "originalQuote": "Stoppen met de plaatsing van windturbines, zonneparken en biomassacentrales."
+    },
+    {
+      "promiseCode": "FVD-2023-016",
+      "text": "Het Parijsakkoord, klimaatakkoord en energieakkoord opzeggen en de klimaatwet intrekken.",
+      "summary": "Parijsakkoord en klimaatwet opzeggen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Parijsakkoord",
+        "klimaatakkoord",
+        "energieakkoord",
+        "klimaatwet",
+        "opzegging"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 82",
+      "originalQuote": "Het Parijsakkoord opzeggen, klimaat- en energieakkoord. Intrekken klimaatwet."
+    },
+    {
+      "promiseCode": "FVD-2023-017",
+      "text": "Stoppen met de gedwongen uitfasering van diesel- en benzineauto's en ruim baan geven voor de automobilist.",
+      "summary": "Stoppen gedwongen uitfasering diesel- en benzineauto's",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dieselauto",
+        "benzineauto",
+        "uitfasering",
+        "automobilist"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 82",
+      "originalQuote": "Geen gedwongen uitfasering van diesel- en benzineauto's - ruim baan voor de automobilist."
+    },
+    {
+      "promiseCode": "FVD-2023-018",
+      "text": "Stoppen met de plaatsing van windturbines, zonneparken en biomassacentrales.",
+      "summary": "Stoppen met windturbines en zonneparken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "zonneparken",
+        "biomassacentrales",
+        "plaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 82",
+      "originalQuote": "Stoppen met de plaatsing van windturbines, zonneparken en biomassacentrales."
+    },
+    {
+      "promiseCode": "FVD-2023-019",
+      "text": "Het aardgasverbod per direct opheffen en ruimhartige compensatie bieden aan getroffenen in Groningen, terwijl de gaswinning wordt voortgezet.",
+      "summary": "Aardgasverbod opheffen, gaswinning voortzetten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aardgasverbod",
+        "Groningen",
+        "gaswinning",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 84",
+      "originalQuote": "Het aardgasverbod per direct opheffen. Ruimhartige compensatie getroffenen in Groningen, doorgaan met gaswinning."
+    },
+    {
+      "promiseCode": "FVD-2023-020",
+      "text": "Inzetten op de bouw van twee nieuwe kernreactoren en investeren in onderzoek naar gesmoltenzoutreactoren met thorium.",
+      "summary": "Twee nieuwe kernreactoren bouwen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kernreactoren",
+        "gesmoltenzoutreactoren",
+        "thorium",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 84",
+      "originalQuote": "inzetten op bouw van twee nieuwe kernreactoren. Investeren in onderzoek naar gesmoltenzoutreactoren (thorium)."
+    },
+    {
+      "promiseCode": "FVD-2023-021",
+      "text": "Het besluit tot sluiting van hypermoderne kolencentrales terugdraaien.",
+      "summary": "Sluiting kolencentrales terugdraaien",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kolencentrales",
+        "sluiting",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 84",
+      "originalQuote": "Het besluit tot sluiting van onze hypermoderne kolencentrales terugdraaien."
+    },
+    {
+      "promiseCode": "FVD-2023-022",
+      "text": "Windmolenparken en zonneparken ontmantelen om landbouw-, natuur- en bouwgrond te herwinnen en het landschap te herstellen.",
+      "summary": "Windmolens en zonneparken ontmantelen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windmolenparken",
+        "zonneparken",
+        "ontmantelen",
+        "landbouwgrond",
+        "landschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 84",
+      "originalQuote": "Windmolenparken en zonneparken ontmantelen, niet alleen om zo kostbare landbouw-, natuur- en bouwgrond te herwinnen maar ook om het esthetisch aanzicht van ons mooie Nederlandse landschap te herstellen."
+    },
+    {
+      "promiseCode": "FVD-2023-023",
+      "text": "Het volledige stikstofbeleid van tafel halen, inclusief kritische depositiewaarden, AERIUS en alle reductiedoelstellingen.",
+      "summary": "Volledig stikstofbeleid van tafel",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofbeleid",
+        "depositiewaarden",
+        "AERIUS",
+        "reductiedoelstellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 85",
+      "originalQuote": "Het volledige stikstofbeleid van tafel; kritische depositiewaarden, AERIUS en alle reductiedoelstellingen schrappen."
+    },
+    {
+      "promiseCode": "FVD-2023-024",
+      "text": "Nooit overgaan tot gedwongen onteigening van boeren en geen 'vrijwillige' uitkoop van boeren met belastinggeld.",
+      "summary": "Geen gedwongen onteigening of uitkoop boeren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onteigening",
+        "boeren",
+        "uitkoop",
+        "belastinggeld"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 85",
+      "originalQuote": "Nooit over gaan tot gedwongen onteigening van boeren. Ook geen 'vrijwillige' uitkoop van boeren met belastinggeld."
+    },
+    {
+      "promiseCode": "FVD-2023-025",
+      "text": "De maximale gevangenisstraf voor het ernstig mishandelen of verwaarlozen van een dier verhogen van drie naar vijf jaar.",
+      "summary": "Gevangenisstraf dierenmishandeling naar vijf jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gevangenisstraf",
+        "dierenmishandeling",
+        "verwaarlozing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 87",
+      "originalQuote": "De maximale gevangenisstraf voor het (ernstig) mishandelen of verwaarlozen van een dier moet worden verhoogd van drie naar vijf jaar."
+    },
+    {
+      "promiseCode": "FVD-2023-026",
+      "text": "Het Nederlands lidmaatschap van de NAVO heroverwegen en in een referendum voorleggen aan de Nederlandse bevolking.",
+      "summary": "NAVO-lidmaatschap in referendum voorleggen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "NAVO",
+        "lidmaatschap",
+        "referendum",
+        "bevolking"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 95",
+      "originalQuote": "Nederlands lidmaatschap van de NAVO heroverwegen en in een referendum voorleggen aan de Nederlandse bevolking."
+    },
+    {
+      "promiseCode": "FVD-2023-027",
+      "text": "De maximumsnelheid terug naar 130 km/u brengen en trajectcontroles afschaffen.",
+      "summary": "Maximumsnelheid naar 130 km/u, trajectcontroles afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "trajectcontroles",
+        "kilometers"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 101",
+      "originalQuote": "Maximumsnelheid terug naar 130 km/u en waar verantwoord hoger, naar Duits model. Trajectcontroles afschaffen."
+    },
+    {
+      "promiseCode": "FVD-2023-028",
+      "text": "Een nieuwe luchthaven in de Noordzee aanleggen.",
+      "summary": "Nieuwe luchthaven in Noordzee",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "luchthaven",
+        "Noordzee",
+        "aanleg"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 101",
+      "originalQuote": "Een nieuwe luchthaven in de Noordzee aanleggen."
+    },
+    {
+      "promiseCode": "FVD-2023-029",
+      "text": "Een Nederlandse onbemande sonde naar de maan sturen in 2040.",
+      "summary": "Nederlandse maansonde in 2040",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sonde",
+        "maan",
+        "ruimtevaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 103",
+      "originalQuote": "Een Nederlandse (onbemande) sonde naar de maan sturen in 2040."
+    },
+    {
+      "promiseCode": "FVD-2023-030",
+      "text": "Een eigen lanceerplatform op Aruba realiseren voor commerciële verhuur.",
+      "summary": "Lanceerplatform op Aruba",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lanceerplatform",
+        "Aruba",
+        "commercieel"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2023, p. 103",
+      "originalQuote": "Een eigen lanceerplatform op Aruba realiseren, om tevens commercieel te verhuren."
+    }
+  ]
+}

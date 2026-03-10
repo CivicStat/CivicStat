@@ -1,0 +1,1928 @@
+{
+  "party": "FVD",
+  "partySlug": "fvd",
+  "program": "Een nieuwe kans voor Nederland",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-17",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88769/",
+  "pdfHash": "da117392e821ae3f474e6e827522787aa824fdb5caef0e6756535c6987ada177",
+  "totalPromises": 125,
+  "promises": [
+    {
+      "promiseCode": "FVD-2025-001",
+      "text": "Volledige stop op asielopvang in Nederland en illegaal verblijf in Nederland wordt strafbaar gesteld.",
+      "summary": "Stop asielopvang, illegaal verblijf strafbaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielopvang",
+        "illegaal verblijf",
+        "strafbaar",
+        "migratiebeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8, 11",
+      "originalQuote": "We stoppen volledig met asielopvang in Nederland, investeren in opvang in de regio en stellen illegaal verblijf in Nederland strafbaar."
+    },
+    {
+      "promiseCode": "FVD-2025-002",
+      "text": "Invoering van een tienjarige stop op naturalisaties.",
+      "summary": "Tien jaar naturalisatiestop",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "naturalisatiestop",
+        "staatsburgerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8, 11",
+      "originalQuote": "Daarnaast voeren we een tienjarige stop op naturalisaties in"
+    },
+    {
+      "promiseCode": "FVD-2025-003",
+      "text": "Introductie van een GreenCard-systeem voor economisch waardevolle migranten om tijdelijk in Nederland te verblijven.",
+      "summary": "GreenCard-systeem voor tijdelijke arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "greencard-systeem",
+        "arbeidsmigranten",
+        "tijdelijk verblijf",
+        "economische migratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8, 11",
+      "originalQuote": "introduceren een GreenCard-systeem voor economisch waardevolle migranten om tijdelijk in Nederland te verblijven"
+    },
+    {
+      "promiseCode": "FVD-2025-004",
+      "text": "Opzegging van het klimaatverdrag van Parijs en intrekking van de klimaatwet, waardoor alle vormen van duurzaamheidsbeleid worden gestopt.",
+      "summary": "Klimaatverdrag Parijs opzeggen, klimaatwet intrekken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatverdrag",
+        "parijs",
+        "klimaatwet",
+        "duurzaamheidsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8",
+      "originalQuote": "We trekken de klimaatwet in, zeggen het klimaatverdrag van Parijs op en stoppen zodoende volledig met alle vormen van 'duurzaamheidsbeleid'."
+    },
+    {
+      "promiseCode": "FVD-2025-005",
+      "text": "Heropening van gesloten kolencentrales en hervatting van gasboringen in Groningen.",
+      "summary": "Kolencentrales heropenen, Groningen weer open",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kolencentrales",
+        "gasboringen",
+        "groningen",
+        "energieproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8",
+      "originalQuote": "We heropenen de gesloten kolencentrales... We hervatten de gasboringen in Groningen"
+    },
+    {
+      "promiseCode": "FVD-2025-006",
+      "text": "Invoering van een belastingvrije voet van €30.000 voor alle werkenden en gepensioneerden.",
+      "summary": "Belastingvrije voet €30.000",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingvrije voet",
+        "inkomstenbelasting",
+        "lastenverlichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 9",
+      "originalQuote": "We voeren een belastingvrije voet in van €30.000,- voor alle werkenden en gepensioneerden"
+    },
+    {
+      "promiseCode": "FVD-2025-007",
+      "text": "Verhoging van de VPB-grens naar €1 miljoen en verhoging van de zelfstandigenaftrek naar €15.000.",
+      "summary": "VPB-grens naar €1 miljoen, zelfstandigenaftrek €15.000",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vpb-grens",
+        "zelfstandigenaftrek",
+        "ondernemerschap",
+        "vennootschapsbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 9",
+      "originalQuote": "We verhogen de VPB-grens naar €1 miljoen, de zelfstandigenaftrek naar €15.000,-"
+    },
+    {
+      "promiseCode": "FVD-2025-008",
+      "text": "Afschaffing van erf- en schenkbelasting en invoering van belastingvrij inkomen uit Box-3.",
+      "summary": "Erf- en schenkbelasting afschaffen, Box-3 belastingvrij",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfbelasting",
+        "schenkbelasting",
+        "box-3",
+        "vermogensbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 9",
+      "originalQuote": "Inkomen uit Box-3 wordt volledig belastingvrij. Erf- en schenkbelasting schaffen we af."
+    },
+    {
+      "promiseCode": "FVD-2025-009",
+      "text": "Overdrachtsbelasting voor iedereen wordt 2%, met een startersvrijstelling voor iedereen die een eerste woning koopt.",
+      "summary": "Overdrachtsbelasting 2%, startersvrijstelling eerste woning",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overdrachtsbelasting",
+        "startersvrijstelling",
+        "woningmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8",
+      "originalQuote": "Overdrachtsbelasting wordt voor iedereen, inclusief bedrijven, 2%, met een startersvrijstelling voor iedereen die een eerste woning koopt"
+    },
+    {
+      "promiseCode": "FVD-2025-010",
+      "text": "Stop op huisvesting van statushouders in sociale woningen en voorrang op wachtlijsten voor Nederlanders.",
+      "summary": "Stop statushouders sociale woningen, voorrang Nederlanders",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statushouders",
+        "sociale woningen",
+        "wachtlijsten",
+        "voorrang"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8",
+      "originalQuote": "We stoppen de huisvesting van statushouders in sociale woningen en geven voorrang op wachtlijsten aan Nederlanders."
+    },
+    {
+      "promiseCode": "FVD-2025-011",
+      "text": "Invoering van bindende referenda naar Zwitsers model en rechtstreekse verkiezing van burgemeesters.",
+      "summary": "Bindende referenda en gekozen burgemeesters",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindende referenda",
+        "burgemeesters",
+        "directe democratie",
+        "verkiezingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8",
+      "originalQuote": "We voeren bindende referenda in naar Zwitsers model... Burgemeesters en andere publieke functionarissen worden niet langer aangesteld, maar rechtstreeks gekozen door de bevolking."
+    },
+    {
+      "promiseCode": "FVD-2025-012",
+      "text": "Schrapping van artikelen 93 en 94 van de Grondwet zodat Nederlandse wet altijd boven internationale verdragen komt.",
+      "summary": "Grondwetsartikelen 93 en 94 schrappen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwet",
+        "artikel 93",
+        "artikel 94",
+        "internationale verdragen",
+        "soevereiniteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 8",
+      "originalQuote": "We schrappen de artikelen 93 en 94 van onze Grondwet zodat de Nederlandse wet altijd boven internationale verdragen en afspraken komt te staan."
+    },
+    {
+      "promiseCode": "FVD-2025-013",
+      "text": "Verhoging van de maximumsnelheid naar 130 km/u en hoger waar mogelijk en afschaffing van trajectcontroles.",
+      "summary": "Maximumsnelheid 130 km/u, trajectcontroles afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "trajectcontroles",
+        "verkeer",
+        "mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 10",
+      "originalQuote": "We verhogen de maximumsnelheid naar 130 km/u en hoger waar mogelijk... we schaffen trajectcontroles af"
+    },
+    {
+      "promiseCode": "FVD-2025-014",
+      "text": "We stoppen met het opnemen van nieuwe asielzoekers, breken lopende procedures af en ontmantelen het COA, zodat opvang in de regio de norm wordt.",
+      "summary": "Asielstop, afbreken procedures en ontmanteling COA",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielstop",
+        "asielzoekers",
+        "procedures",
+        "coa",
+        "ontmanteling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 12",
+      "originalQuote": "We stoppen met het opnemen van nieuwe asielzoekers, breken lopende procedures af en ontmantelen het COA, zodat opvang in de regio de norm wordt."
+    },
+    {
+      "promiseCode": "FVD-2025-015",
+      "text": "We laten nieuwe asielaanvragen uitsluitend via Nederlandse consulaten in conflictregio's indienen, zodat ons land niet langer overspoeld wordt door proceduremigranten.",
+      "summary": "Asielprocedures alleen via consulaten in conflictregio's",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielprocedures",
+        "consulaten",
+        "conflictregio",
+        "asielaanvragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 12",
+      "originalQuote": "We laten nieuwe asielaanvragen uitsluitend via Nederlandse consulaten in conflictregio's indienen, zodat ons land niet langer overspoeld wordt door proceduremigranten."
+    },
+    {
+      "promiseCode": "FVD-2025-016",
+      "text": "We maken illegaal verblijf strafbaar en zetten actief in op opsporing en uitzetting.",
+      "summary": "Strafbaarstelling illegaal verblijf met actieve opsporing",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "illegaal",
+        "verblijf",
+        "strafbaar",
+        "opsporing",
+        "uitzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 12",
+      "originalQuote": "We maken illegaal verblijf strafbaar en zetten actief in op opsporing en uitzetting, zodat ons land niet langer een toevluchtsoord is voor uitgeprocedeerden."
+    },
+    {
+      "promiseCode": "FVD-2025-017",
+      "text": "We verstrekken tien jaar lang geen nieuwe Nederlandse paspoorten, behalve aan huwelijkspartners en kinderen geboren uit Nederlandse ouders.",
+      "summary": "Naturalisatiestop van 10 jaar met uitzonderingen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "paspoorten",
+        "tien jaar",
+        "huwelijkspartners",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 12",
+      "originalQuote": "We verstrekken tien jaar lang geen nieuwe Nederlandse paspoorten, behalve aan huwelijkspartners en kinderen geboren uit Nederlandse ouders, zodat nationaliteit weer waarde krijgt."
+    },
+    {
+      "promiseCode": "FVD-2025-018",
+      "text": "We schaffen de permanente verblijfsvergunning af. Mensen met tijdelijke verblijfsvergunning moeten iedere vijf jaar hun nut en noodzaak bewijzen.",
+      "summary": "Afschaffing permanente verblijfsvergunning, evaluatie per 5 jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verblijfsvergunning",
+        "permanente",
+        "vijf jaar",
+        "evaluatie",
+        "nut"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 13",
+      "originalQuote": "We schaffen de permanente verblijfsvergunning af. Mensen die een tijdelijke verblijfsvergunning verkrijgen moeten iedere vijf jaar hun nut en noodzaak voor de Nederlandse samenleving bewijzen"
+    },
+    {
+      "promiseCode": "FVD-2025-019",
+      "text": "We voeren een heffing tot 40% in op geld dat migranten naar hun herkomstlanden overmaken.",
+      "summary": "Belasting tot 40% op geldtransfers naar herkomstlanden",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "heffing",
+        "geldtransfers",
+        "migranten",
+        "herkomstlanden",
+        "remittances"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 13",
+      "originalQuote": "We voeren een heffing tot 40% in op geld dat migranten naar hun herkomstlanden overmaken (€18 miljard in 2024), zodat Nederlands geld niet naar het buitenland vloeit."
+    },
+    {
+      "promiseCode": "FVD-2025-020",
+      "text": "We laten immigranten pas aanspraak maken op toeslagen en uitkeringen na tien jaar arbeid in Nederland.",
+      "summary": "Sociale voorzieningen pas na 10 jaar werk",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "immigranten",
+        "toeslagen",
+        "uitkeringen",
+        "tien jaar",
+        "arbeid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 13",
+      "originalQuote": "We laten immigranten pas aanspraak maken op toeslagen en uitkeringen na tien jaar arbeid in Nederland, zodat Nederland niet meer aantrekkelijk is voor gelukszoekers."
+    },
+    {
+      "promiseCode": "FVD-2025-021",
+      "text": "We stoppen volledig met de energietransitie.",
+      "summary": "Volledige stop energietransitie",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energietransitie",
+        "stoppen",
+        "klimaatbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 16",
+      "originalQuote": "We stoppen volledig met de energietransitie, zodat ons land niet langer wordt opgezadeld met onbetaalbaar en zinloos klimaatbeleid."
+    },
+    {
+      "promiseCode": "FVD-2025-022",
+      "text": "We zeggen het Klimaatakkoord van Parijs op en trekken de klimaatwet in.",
+      "summary": "Opzeggen Parijsakkoord en intrekken klimaatwet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parijsakkoord",
+        "klimaatwet",
+        "opzeggen",
+        "intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 16",
+      "originalQuote": "We zeggen het Klimaatakkoord van Parijs op en trekken de klimaatwet in, zodat we weer ongeremd fossiele brandstoffen kunnen gebruiken en geen windturbines en zonneakkers hoeven aanleggen."
+    },
+    {
+      "promiseCode": "FVD-2025-023",
+      "text": "We nationaliseren de energiesector.",
+      "summary": "Nationalisatie energiesector",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaliseren",
+        "energiesector",
+        "winsten",
+        "blackouts"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 18",
+      "originalQuote": "We nationaliseren de energiesector, zodat winsten in Nederland blijven, blackouts kunnen worden voorkomen en kosten voor de gebruiker omlaag kunnen."
+    },
+    {
+      "promiseCode": "FVD-2025-024",
+      "text": "We starten de gaswinning in Groningen opnieuw op met ruimhartige compensatie voor omwonenden.",
+      "summary": "Herstart gaswinning Groningen met compensatie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "groningen",
+        "compensatie",
+        "omwonenden",
+        "aardgas"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 18",
+      "originalQuote": "We starten de gaswinning in Groningen opnieuw op met ruimhartige compensatie voor omwonenden, zodat we weer goedkoop, hoogwaardig en ruim voorradig aardgas hebben voor huishoudens en bedrijven."
+    },
+    {
+      "promiseCode": "FVD-2025-025",
+      "text": "We bouwen snel tien nieuwe kerncentrales en investeren in thoriumonderzoek.",
+      "summary": "Bouw van 10 nieuwe kerncentrales en thoriumonderzoek",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "thorium",
+        "kernenergie",
+        "energieautonoom"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 18",
+      "originalQuote": "We bouwen snel tien nieuwe kerncentrales en investeren in thoriumonderzoek, zodat Nederland volledig energieautonoom wordt en ook in de toekomst kan beschikken op betrouwbare en toekomstgerichte energievoorziening."
+    },
+    {
+      "promiseCode": "FVD-2025-026",
+      "text": "We voeren een wettelijk verbod in op nieuwe windturbines en breken bestaande windparken en zonneakkers systematisch af.",
+      "summary": "Verbod nieuwe windturbines en afbraak bestaande parken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "verbod",
+        "windparken",
+        "zonneakkers",
+        "afbraak"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 18",
+      "originalQuote": "We voeren een wettelijk verbod in op nieuwe windturbines en breken bestaande windparken en zonneakkers systematisch af, zodat ons landschap wordt beschermd en onze energievoorziening niet langer afhankelijk is van het weer."
+    },
+    {
+      "promiseCode": "FVD-2025-027",
+      "text": "We bouwen snel 100.000 woningen per jaar.",
+      "summary": "Bouw van 100.000 woningen per jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningen",
+        "bouwen",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 20",
+      "originalQuote": "We bouwen snel 100.000 woningen per jaar"
+    },
+    {
+      "promiseCode": "FVD-2025-028",
+      "text": "Het eigenwoningforfait wordt afgeschaft en de eigen woning blijft in box 1, zodat nooit belasting wordt betaald over het eigen huis.",
+      "summary": "Afschaffen eigenwoningforfait, eigen woning blijft in box 1",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigenwoningforfait",
+        "box1",
+        "belasting",
+        "eigen woning"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "nooit belasting over je eigen huis, dus ook geen eigenwoningforfait"
+    },
+    {
+      "promiseCode": "FVD-2025-029",
+      "text": "De hypotheekrenteaftrek wordt behouden en het maximale aftrektarief gaat terug omhoog naar 52%.",
+      "summary": "Hypotheekrenteaftrek behouden, maximaal aftrektarief naar 52%",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "aftrektarief",
+        "52 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "De hypotheekrenteaftrek behouden we en het maximale aftrektarief gaat terug omhoog naar 52%"
+    },
+    {
+      "promiseCode": "FVD-2025-030",
+      "text": "De overdrachtsbelasting wordt 2% voor iedereen, met uitzondering van starters, die een volledige vrijstelling ontvangen.",
+      "summary": "Overdrachtsbelasting 2% voor iedereen, starters krijgen vrijstelling",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overdrachtsbelasting",
+        "2 procent",
+        "starters",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "De overdrachtsbelasting wordt 2% voor iedereen, met uitzondering van starters, die een volledige vrijstelling ontvangen"
+    },
+    {
+      "promiseCode": "FVD-2025-031",
+      "text": "Jaarlijks 100.000 nieuwe koopwoningen bouwen, met voorrang voor Nederlanders.",
+      "summary": "Jaarlijks 100.000 nieuwe koopwoningen bouwen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "100.000",
+        "koopwoningen",
+        "bouwen",
+        "nederlanders"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "jaarlijks 100.000 nieuwe huizen, met voorrang voor Nederlanders"
+    },
+    {
+      "promiseCode": "FVD-2025-032",
+      "text": "Erfpachtregelingen worden afgeschaft en resterende erfpacht wordt kwijtgescholden. De grond wordt geschonken aan woningeigenaren.",
+      "summary": "Afschaffen erfpacht, grond schenken aan eigenaren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpacht",
+        "afschaffen",
+        "grond",
+        "schenken",
+        "woningeigenaren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "erfpachtregelingen schaffen we af en resterende erfpacht schelden we kwijt"
+    },
+    {
+      "promiseCode": "FVD-2025-033",
+      "text": "De OZB wordt gekoppeld aan het aantal bewoners in plaats van aan de WOZ-waarde.",
+      "summary": "OZB koppelen aan aantal bewoners, niet aan WOZ-waarde",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ozb",
+        "bewoners",
+        "woz-waarde",
+        "koppelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "koppelen deze niet meer aan de WOZ-waarde maar aan het aantal bewoners"
+    },
+    {
+      "promiseCode": "FVD-2025-034",
+      "text": "Studieschulden tellen niet mee bij hypotheekaanvragen.",
+      "summary": "Studieschuld niet meetellen bij hypotheekaanvraag",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studieschuld",
+        "hypotheekaanvraag",
+        "meetellen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "Studieschuld mag nooit meetellen bij een hypotheekaanvraag"
+    },
+    {
+      "promiseCode": "FVD-2025-035",
+      "text": "De huurgeschiedenis van de laatste drie jaar wordt meegewogen bij hypotheekaanvragen.",
+      "summary": "Huurgeschiedenis laatste drie jaar meewegen bij hypotheekaanvraag",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurgeschiedenis",
+        "drie jaar",
+        "hypotheekaanvraag",
+        "meewegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 22",
+      "originalQuote": "We wegen de huurgeschiedenis van de laatste drie jaar mee bij hypotheekaanvragen"
+    },
+    {
+      "promiseCode": "FVD-2025-036",
+      "text": "De Wet Betaalbare Huur wordt afgeschaft om verhuurders meer vrijheid te geven in huurderselectie en het middensegment van de huurmarkt te vergroten.",
+      "summary": "Afschaffen Wet Betaalbare Huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet betaalbare huur",
+        "afschaffen",
+        "verhuurders",
+        "middensegment",
+        "huurmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 24",
+      "originalQuote": "Afschaffen Wet Betaalbare Huur"
+    },
+    {
+      "promiseCode": "FVD-2025-037",
+      "text": "Het aandeel sociale huurwoningen wordt verkleind om de woningmarkt minder afhankelijk van de overheid te maken.",
+      "summary": "Verkleinen aandeel sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale huurwoningen",
+        "verkleinen",
+        "woningmarkt",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 24",
+      "originalQuote": "We verkleinen het aandeel sociale huurwoningen"
+    },
+    {
+      "promiseCode": "FVD-2025-038",
+      "text": "De verplichting voor private projectontwikkelaars om sociale woningen te bouwen bij nieuwe projecten wordt afgeschaft.",
+      "summary": "Stoppen verplichting sociale woningen private projecten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "projectontwikkelaars",
+        "verplichting",
+        "sociale woningen",
+        "private projecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 24",
+      "originalQuote": "We stoppen met de verplichting voor private projecten om sociale woningen te bouwen"
+    },
+    {
+      "promiseCode": "FVD-2025-039",
+      "text": "Statushouders krijgen geen voorrang meer in de sociale huursector en Nederlanders krijgen altijd voorrang.",
+      "summary": "Voorrang Nederlanders boven statushouders sociale huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statushouders",
+        "voorrang",
+        "sociale huursector",
+        "nederlanders"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 24",
+      "originalQuote": "We stoppen met het huisvesten van statushouders in de sociale sector en geven Nederlanders altijd voorrang"
+    },
+    {
+      "promiseCode": "FVD-2025-040",
+      "text": "Woningtransformaties zoals het splitsen van panden en ombouw van kantoren worden vereenvoudigd om sneller meer woningen beschikbaar te maken.",
+      "summary": "Vereenvoudigen woningtransformaties en kantorenombouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningtransformaties",
+        "splitsen",
+        "panden",
+        "ombouw",
+        "kantoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 24",
+      "originalQuote": "We maken woningtransformaties (splitsen panden en ombouw kantoren) eenvoudiger"
+    },
+    {
+      "promiseCode": "FVD-2025-041",
+      "text": "Het monistische stelsel wordt omgezet naar een dualistisch stelsel door het schrappen van artikelen 93 en 94 van de Grondwet, waardoor internationale verdragen eerst door het Nederlandse parlement moeten worden omgezet in nationale wetgeving voordat ze geldig worden.",
+      "summary": "Omzetten monistisch naar dualistisch stelsel door schrappen Grondwetartikelen 93 en 94",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "monistisch stelsel",
+        "dualistisch stelsel",
+        "grondwet",
+        "artikelen 93 en 94",
+        "internationale verdragen",
+        "parlement"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 25-26",
+      "originalQuote": "We schrappen de artikelen 93 en 94 van de Grondwet, en zetten daarmee het monistisch stelsel om in een dualistisch stelsel, zoals in Duitsland en de Verenigde Staten. Internationale verdragen worden hierdoor pas geldig nadat ze door het Nederlandse parlement zijn omgezet in een nationale wet."
+    },
+    {
+      "promiseCode": "FVD-2025-042",
+      "text": "Internationale organisaties zoals WEF, WHO en NAVO worden onder het bereik van de Wet Open Overheid geplaatst door het schrappen van de uitzonderingsgrond in artikel 5.1, tweede lid, onderdeel a.",
+      "summary": "Internationale organisaties onder bereik WOO door schrappen uitzonderingsgrond artikel 5.1",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "internationale organisaties",
+        "wef",
+        "who",
+        "navo",
+        "wet open overheid",
+        "artikel 5.1",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 25-26",
+      "originalQuote": "We plaatsen internationale organisaties zoals WEF, WHO, NAVO - althans zolang onze betrokkenheid hierbij voortduurt - onder het bereik van de Wet Open Overheid, door het schrappen van de uitzonderingsgrond in artikel 5.1, tweede lid, onderdeel a, zodat volledige transparantie wordt gegarandeerd."
+    },
+    {
+      "promiseCode": "FVD-2025-043",
+      "text": "Nederland treedt uit de Europese Unie (NEXIT) en sluit zich aan bij de EFTA (Europese Vrijhandelsassociatie), net als Zwitserland, Noorwegen en IJsland.",
+      "summary": "Nederlandse uittreding uit EU en toetreding tot EFTA",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nexit",
+        "europese unie",
+        "efta",
+        "europese vrijhandelsassociatie",
+        "uittreding",
+        "toetreding"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 26-27",
+      "originalQuote": "We verlaten de Europese Unie op een ordentelijke manier, zodat Nederland weer volledige controle krijgt over zijn wetten, grenzen en beleid. We sluiten ons aan bij de Europese Vrijhandelsassociatie, waar landen als Zwitserland, Noorwegen en IJsland bewijzen dat economische samenwerking mogelijk is zonder politieke unie."
+    },
+    {
+      "promiseCode": "FVD-2025-044",
+      "text": "Nederland stapt uit de eurozone en voert een eigen nationale munt in, waarbij euro's blijvend en kosteloos kunnen worden omgezet naar deze nieuwe munt.",
+      "summary": "Uittreding uit eurozone en invoering eigen nationale munt",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eurozone",
+        "eigen munt",
+        "nationale munt",
+        "euro",
+        "omzetting",
+        "monetair beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 27-28",
+      "originalQuote": "We stappen uit de euro, zodat Nederland met een eigen munt weer controle krijgt over de rentevoet, de geldhoeveelheid en de inflatie. Euro's moeten blijvend en kosteloos kunnen worden omgezet naar deze nieuwe munt."
+    },
+    {
+      "promiseCode": "FVD-2025-045",
+      "text": "Het VN-vluchtelingenverdrag wordt opgezegd om de beleidsvrijheid op het gebied van migratie te herwinnen.",
+      "summary": "Opzegging VN-vluchtelingenverdrag",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vn-vluchtelingenverdrag",
+        "opzegging",
+        "migratie",
+        "beleidsvrijheid",
+        "internationale verdragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 25-26",
+      "originalQuote": "We zeggen internationale verdragen op die onze beleidsvrijheid inperken, zoals het VN-vluchtelingenverdrag dat ons dwingt tot het opnemen van migranten."
+    },
+    {
+      "promiseCode": "FVD-2025-046",
+      "text": "Bindende referenda naar Zwitsers model invoeren, zodat burgers zich rechtstreeks kunnen uitspreken over belangrijke politieke besluiten.",
+      "summary": "Bindende referenda naar Zwitsers model",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bindende referenda",
+        "zwitsers model",
+        "directe democratie",
+        "burgerparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 29",
+      "originalQuote": "We voeren bindende referenda in, zodat burgers zich rechtstreeks kunnen uitspreken over belangrijke politieke besluiten."
+    },
+    {
+      "promiseCode": "FVD-2025-047",
+      "text": "Burgemeesters en Commissarissen van de Koning direct door de bevolking laten kiezen in plaats van benoeming via politieke achterkamertjes.",
+      "summary": "Rechtstreeks gekozen burgemeesters en commissarissen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgemeesters",
+        "commissarissen van de koning",
+        "directe verkiezingen",
+        "democratisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 29",
+      "originalQuote": "We laten burgemeesters en Commissarissen van de Koning direct door de bevolking kiezen, zodat bestuurders verantwoording afleggen aan de kiezer in plaats van aan politieke partijen."
+    },
+    {
+      "promiseCode": "FVD-2025-048",
+      "text": "Topambtenaren en ambassadeurs laten opnieuw solliciteren bij de start van een nieuwe regering en de Algemene Bestuursdienst (ABD) afschaffen.",
+      "summary": "Ambtelijke top vernieuwen en ABD afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "topambtenaren",
+        "ambassadeurs",
+        "sollicitatie",
+        "algemene bestuursdienst",
+        "abd"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 30",
+      "originalQuote": "We laten topambtenaren en ambassadeurs opnieuw solliciteren bij de start van een nieuwe regering en schaffen de Algemene Bestuursdienst (ABD) af."
+    },
+    {
+      "promiseCode": "FVD-2025-049",
+      "text": "Planbureaus en adviesorganen zoals CPB, SCP, SER en PBL afschaffen.",
+      "summary": "Afschaffen van planbureaus CPB, SCP, SER en PBL",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "planbureaus",
+        "cpb",
+        "scp",
+        "ser",
+        "pbl",
+        "adviesorganen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 30",
+      "originalQuote": "We schaffen achterhaalde adviesorganen zoals CPB, SCP, SER en PBL af."
+    },
+    {
+      "promiseCode": "FVD-2025-050",
+      "text": "Alle subsidies stoppen voor organisaties die proefprocessen voeren tegen de staat en voor niet-gouvernementele organisaties (NGO's).",
+      "summary": "Subsidies voor activistische organisaties en NGO's stoppen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "proefprocessen",
+        "ngo",
+        "activistische organisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 30",
+      "originalQuote": "We stoppen alle subsidies voor organisaties die proefprocessen voeren tegen de staat. Ook niet-gouvernementele organisaties (NGO's) krijgen geen subsidie meer."
+    },
+    {
+      "promiseCode": "FVD-2025-051",
+      "text": "De Wet op de Kansspelen wijzigen door de 'Goede Doelen'-vereiste te schrappen en iedereen een loterij te laten beginnen.",
+      "summary": "Wet op Kansspelen wijzigen: Goede Doelen-vereiste schrappen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet op kansspelen",
+        "goede doelen",
+        "loterijen",
+        "postcodeloterij"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 30",
+      "originalQuote": "We wijzigen de Wet op de Kansspelen: de 'Goede Doelen'-vereiste schrappen we en iedereen moet een loterij kunnen beginnen."
+    },
+    {
+      "promiseCode": "FVD-2025-052",
+      "text": "Veiligheidsregio's afschaffen zodat de macht terugkeert naar de democratisch gekozen volksvertegenwoordiging.",
+      "summary": "Afschaffen van veiligheidsregio's",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veiligheidsregio",
+        "democratische controle",
+        "bestuurslagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 31",
+      "originalQuote": "We schaffen constructies als de veiligheidsregio's af, zodat de macht terugkeert naar de democratisch gekozen volksvertegenwoordiging."
+    },
+    {
+      "promiseCode": "FVD-2025-053",
+      "text": "Quota, verplichte trainingen en diversiteitsbeleid bij de overheid en (semi-)publieke instellingen stoppen.",
+      "summary": "Diversiteitsbeleid overheid stoppen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "quota",
+        "diversiteitsbeleid",
+        "overheid",
+        "publieke instellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 31",
+      "originalQuote": "We stoppen met quota, (semi-)verplichte trainingen en diversiteitsbeleid bij de overheid en (semi-)publieke instellingen."
+    },
+    {
+      "promiseCode": "FVD-2025-054",
+      "text": "Wet op de Rechtsvinding invoeren zodat rechters wetten interpreteren naar oorspronkelijke bedoeling van de wetgever.",
+      "summary": "Wet op de Rechtsvinding invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet op rechtsvinding",
+        "rechters",
+        "wetinterpretatie",
+        "oorspronkelijke bedoeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 32",
+      "originalQuote": "We voeren een Wet op de Rechtsvinding in, zodat rechters de wet moeten interpreteren naar de oorspronkelijke bedoeling van de wetgever."
+    },
+    {
+      "promiseCode": "FVD-2025-055",
+      "text": "Artikel 3:305a BW aanpassen om rechtszaken namens het 'algemeen belang' tegen de staat onmogelijk te maken.",
+      "summary": "Artikel 3:305a BW aanpassen tegen algemeen belang-procedures",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel 3:305a bw",
+        "algemeen belang",
+        "rechtszaken",
+        "urgenda"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 32",
+      "originalQuote": "We maken het onmogelijk dat organisaties namens het 'algemeen belang' rechtszaken voeren tegen de staat (zoals in de Urgenda-zaak)."
+    },
+    {
+      "promiseCode": "FVD-2025-056",
+      "text": "De adviserende afdeling van de Raad van State afschaffen.",
+      "summary": "Adviserende afdeling Raad van State afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raad van state",
+        "adviserende afdeling",
+        "karteladviezen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 32",
+      "originalQuote": "We schaffen de adviserende afdeling van de Raad van State af."
+    },
+    {
+      "promiseCode": "FVD-2025-057",
+      "text": "Rijksoverheidsuitgaven verplicht ieder jaar 3% laten krimpen.",
+      "summary": "Rijksuitgaven jaarlijks 3% krimpen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rijksoverheidsuitgaven",
+        "bezuinigingen",
+        "overheid verkleinen",
+        "3 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 36",
+      "originalQuote": "De Rijksoverheidsuitgaven moeten verplicht ieder jaar 3% krimpen, zodat de overheid niet groter maar kleiner wordt."
+    },
+    {
+      "promiseCode": "FVD-2025-058",
+      "text": "20% vlaktaks invoeren op de inkomstenbelasting in Box-1.",
+      "summary": "20% vlaktaks inkomstenbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vlaktaks",
+        "inkomstenbelasting",
+        "box-1",
+        "20 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 36",
+      "originalQuote": "We voeren een vlaktaks in op het inkomen in Box-1."
+    },
+    {
+      "promiseCode": "FVD-2025-059",
+      "text": "Hoge BTW-tarief verlagen naar 19% en lage BTW-tarief naar 6%.",
+      "summary": "BTW verlagen naar 19% en 6%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "19 procent",
+        "6 procent",
+        "belastingtarieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 36",
+      "originalQuote": "We verlagen het hoge BTW-tarief naar 19% en het lage BTW-tarief naar 6%."
+    },
+    {
+      "promiseCode": "FVD-2025-060",
+      "text": "Erfbelasting afschaffen.",
+      "summary": "Erfbelasting afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfbelasting",
+        "afschaffen",
+        "erfenis"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 37",
+      "originalQuote": "We schaffen de meest onrechtvaardige belasting af: de erfbelasting."
+    },
+    {
+      "promiseCode": "FVD-2025-061",
+      "text": "Box-3 belasting (spaarderstaks) opheffen.",
+      "summary": "Spaarderstaks (Box-3) opheffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "box-3",
+        "spaarderstaks",
+        "spaarbelasting",
+        "opheffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 37",
+      "originalQuote": "We heffen de spaarderstaks op, zodat deugdelijk sparen weer wordt aangemoedigd."
+    },
+    {
+      "promiseCode": "FVD-2025-062",
+      "text": "Accijns op brandstoffen met ten minste 50% verlagen.",
+      "summary": "Brandstofaccijns 50% verlagen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "accijns",
+        "brandstoffen",
+        "50 procent",
+        "benzineprijzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 37",
+      "originalQuote": "We verlagen de accijns op brandstoffen met ten minste 50%."
+    },
+    {
+      "promiseCode": "FVD-2025-063",
+      "text": "AOW-leeftijd verlagen naar 66 jaar en mensen met fysiek zware beroepen recht geven op AOW na 40 jaar werk.",
+      "summary": "AOW-leeftijd naar 66 jaar en na 40 jaar zwaar werk",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow-leeftijd",
+        "66 jaar",
+        "fysiek zwaar",
+        "40 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 39",
+      "originalQuote": "We verlagen de AOW-leeftijd naar 66 jaar en geven mensen met fysiek zware beroepen recht op AOW na 40 jaar werk."
+    },
+    {
+      "promiseCode": "FVD-2025-064",
+      "text": "Pensioenen structureel indexeren op inflatie, met terugwerkende kracht tot 2015.",
+      "summary": "Pensioenen indexeren met terugwerkende kracht tot 2015",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pensioenen",
+        "indexeren",
+        "inflatie",
+        "terugwerkende kracht",
+        "2015"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 39",
+      "originalQuote": "We indexeren pensioenen structureel op inflatie, met terugwerkende kracht tot 2015."
+    },
+    {
+      "promiseCode": "FVD-2025-065",
+      "text": "Het volledige stikstofbeleid wordt geschrapt en de Kritische Depositiewaarden (KDW) worden uit de wet en vergunningverlening gehaald.",
+      "summary": "Volledig schrappen van stikstofbeleid en KDW uit wet- en vergunningverlening",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofbeleid",
+        "kdw",
+        "vergunningverlening",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 41",
+      "originalQuote": "Volledig schrappen van stikstofbeleid We vegen het hele stikstofbeleid van tafel en halen de Kritische Depositiewaarden (KDW) uit de wet en uit de vergunningverlening"
+    },
+    {
+      "promiseCode": "FVD-2025-066",
+      "text": "Het AERIUS-model wordt afgeschaft omdat het niet geschikt is voor nauwkeurig bepalen van stikstofdepositie.",
+      "summary": "AERIUS-model wordt afgeschaft",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aerius-model",
+        "stikstofdepositie",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 41",
+      "originalQuote": "AERIUS-model in de prullenbak Met het schrappen van de KDW's vervalt ook het AERIUS-model, dat niet geschikt is voor het nauwkeurig bepalen van stikstofdepositie"
+    },
+    {
+      "promiseCode": "FVD-2025-067",
+      "text": "Het stikstoffonds van €25 miljard wordt opgeheven zodat deze gelden gebruikt kunnen worden voor lastenverlichting.",
+      "summary": "Stikstoffonds van €25 miljard wordt ontmanteld voor lastenverlichting",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstoffonds",
+        "25 miljard",
+        "lastenverlichting",
+        "opheffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 41",
+      "originalQuote": "Stikstoffonds ontmantelen We heffen het stikstoffonds van €25 miljard op, zodat deze gelden gebruikt kunnen worden voor lastenverlichting"
+    },
+    {
+      "promiseCode": "FVD-2025-068",
+      "text": "Bedrijven die tussen 2015 en 2019 een PAS-melding hebben gedaan krijgen alsnog permanent een vergunning.",
+      "summary": "PAS-melders uit periode 2015-2019 krijgen permanente vergunning",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pas-melders",
+        "2015-2019",
+        "permanente vergunning",
+        "legalisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 41",
+      "originalQuote": "PAS-melders legaliseren We geven bedrijven die tussen 2015 en 2019 een melding hebben gedaan in het PAS alsnog permanent een vergunning"
+    },
+    {
+      "promiseCode": "FVD-2025-069",
+      "text": "De maximale gevangenisstraf voor ernstige mishandeling of verwaarlozing van dieren wordt verhoogd van drie naar vijf jaar.",
+      "summary": "Maximumstraf dierenmishandeling verhoogd van 3 naar 5 jaar gevangenisstraf",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dierenmishandeling",
+        "gevangenisstraf",
+        "drie jaar",
+        "vijf jaar",
+        "strafverhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 45",
+      "originalQuote": "Strenger straffen voor dierenmishandeling We verhogen de maximale gevangenisstraf voor ernstige mishandeling of verwaarlozing van dieren van drie naar vijf jaar"
+    },
+    {
+      "promiseCode": "FVD-2025-070",
+      "text": "Personen die dieren ernstig mishandelen of verwaarlozen krijgen een levenslang verbod op het houden van dieren.",
+      "summary": "Levenslang houdverbod voor dierenbeulen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levenslang houdverbod",
+        "dierenbeulen",
+        "mishandeling",
+        "verwaarlozing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 45",
+      "originalQuote": "Levenslang houdverbod voor dierenbeulen We geven personen die dieren ernstig mishandelen of verwaarlozen een levenslang verbod op het houden van dieren"
+    },
+    {
+      "promiseCode": "FVD-2025-071",
+      "text": "Vangstbeperkingen worden teruggedraaid en ingetrokken visserijvergunningen worden hersteld naar het niveau van 1990.",
+      "summary": "Visserijvergunningen herstellen naar niveau van 1990",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vangstbeperkingen",
+        "visserijvergunningen",
+        "1990",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 43",
+      "originalQuote": "Terugdraaien van vangstbeperkingen We draaien vangstbeperkingen terug en herstellen ingetrokken vergunningen naar het niveau van 1990"
+    },
+    {
+      "promiseCode": "FVD-2025-072",
+      "text": "Bestaande windturbineparken op zee worden stapsgewijs ontmanteld en er worden geen nieuwe windturbines op zee geplaatst.",
+      "summary": "Geen windturbines op zee, bestaande parken stapsgewijs ontmantelen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windturbines",
+        "zee",
+        "ontmanteling",
+        "visserij"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 43",
+      "originalQuote": "Geen windturbines op zee We plaatsen geen windturbines op zee, omdat die de visserij ernstig belemmeren. Bestaande windturbineparken worden stapsgewijs ontmanteld"
+    },
+    {
+      "promiseCode": "FVD-2025-073",
+      "text": "De EU-Green Deal wordt afgeschaft en wordt in Nederland niet gehandhaafd zolang deze bestaat, inclusief het CO2-handelssysteem (ETS).",
+      "summary": "EU-Green Deal afschaffen, inclusief CO2-handelssysteem",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-green deal",
+        "co2-handelssysteem",
+        "ets",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 42",
+      "originalQuote": "Ontmanteling van de EU-Green Deal We werken in Europees verband aan het afschaffen van de Green Deal die de boerenstand kortwiekt, zolang het bestaat wordt het in Nederland niet gehandhaaft - inclusief het CO2-handelssysteem (ETS)"
+    },
+    {
+      "promiseCode": "FVD-2025-074",
+      "text": "De EU-Natuurherstelwet wordt afgeschaft zodat boeren en vissers niet langer gebonden zijn aan Brusselse regels.",
+      "summary": "EU-Natuurherstelwet wordt afgeschaft",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-natuurherstelwet",
+        "afschaffing",
+        "boeren",
+        "vissers"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 43",
+      "originalQuote": "Afschaffen EU-Natuurherstelwet We gooien de EU-Natuurherstelwet in de prullenbak, zodat boeren en vissers niet langer gebonden zijn aan onrealistische Brusselse regels"
+    },
+    {
+      "promiseCode": "FVD-2025-075",
+      "text": "Kleinere klassen en lagere werkdruk voor docenten invoeren",
+      "summary": "Verkleining van klassen en vermindering werkdruk leraren",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klassen",
+        "werkdruk",
+        "docenten",
+        "leraren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 48",
+      "originalQuote": "We verkleinen de klassen en verminderen de werkdruk, zodat leraren meer tijd en aandacht hebben voor hun leerlingen."
+    },
+    {
+      "promiseCode": "FVD-2025-076",
+      "text": "Salarissen van fulltime leraren verhogen",
+      "summary": "Salarisverhoging voor fulltime onderwijspersoneel",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salarissen",
+        "leraren",
+        "fulltime",
+        "beroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 48",
+      "originalQuote": "We verhogen de salarissen van fulltime leraren, zodat het beroep aantrekkelijker wordt en meer mensen voor het onderwijs kiezen."
+    },
+    {
+      "promiseCode": "FVD-2025-077",
+      "text": "Het leerlinggebonden budget ('het rugzakje') herinvoeren voor speciaal onderwijs",
+      "summary": "Rugzakje terug voor speciale onderwijsbehoeften",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leerlinggebonden",
+        "budget",
+        "rugzakje",
+        "speciaal",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 48",
+      "originalQuote": "We zetten in op herinvoering van het leerlinggebonden budget ('het rugzakje'), zodat kinderen die speciale zorg nodig hebben weer goed worden ondersteund."
+    },
+    {
+      "promiseCode": "FVD-2025-078",
+      "text": "Subsidies aan organisaties zoals Rutgers stoppen",
+      "summary": "Stopzetting subsidies aan seksuele voorlichting organisaties",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "rutgers",
+        "organisaties",
+        "seksualiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 49",
+      "originalQuote": "We geven geen subsidies aan organisaties die seksualiteit opdringen aan kinderen, zoals Rutgers"
+    },
+    {
+      "promiseCode": "FVD-2025-079",
+      "text": "Ambachtstitels terug brengen voor vakopleidingen",
+      "summary": "Herinvoering ambachtstitels in beroepsonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambachtstitels",
+        "vakopleidingen",
+        "aanzien",
+        "vakmanschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 50",
+      "originalQuote": "We brengen ambachtstitels terug, zodat vak-opleidingen meer aanzien krijgen en vakmanschap weer wordt gewaardeerd."
+    },
+    {
+      "promiseCode": "FVD-2025-080",
+      "text": "Output-financiering van universiteiten en hogescholen stoppen",
+      "summary": "Beëindiging beloning per diploma in hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "output-financiering",
+        "universiteiten",
+        "hogescholen",
+        "diploma"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 51",
+      "originalQuote": "We stoppen de beloning per diploma, zodat universiteiten en hogescholen weer op kwaliteit focussen - niet op kwantiteit."
+    },
+    {
+      "promiseCode": "FVD-2025-081",
+      "text": "Nederlands herstellen als hoofdtaal in het wetenschappelijk onderwijs",
+      "summary": "Nederlandse taal terug als voertaal universiteiten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlands",
+        "voertaal",
+        "wetenschappelijk",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 51",
+      "originalQuote": "We herstellen het Nederlands als hoofdtaal in het wetenschappelijk onderwijs, zodat studenten zich allereerst in hun eigen taal op hoog niveau leren uitdrukken."
+    },
+    {
+      "promiseCode": "FVD-2025-082",
+      "text": "De NWO afschaffen en universiteiten rechtstreeks door het Rijk laten financieren",
+      "summary": "Afschaffing NWO voor directe rijksfinanciering universiteiten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nwo",
+        "afschaffen",
+        "universiteiten",
+        "rijk",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 52",
+      "originalQuote": "We schaffen de NWO af en laten universiteiten rechtstreeks door het Rijk financieren, zodat zij zelf hun onderzoeksprioriteiten bepalen en de diversiteit aan onderzoek wordt vergroot."
+    },
+    {
+      "promiseCode": "FVD-2025-083",
+      "text": "De basisbeurs verhogen en indexeren met de inflatie",
+      "summary": "Verhoging en indexatie studenten basisbeurs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbeurs",
+        "verhogen",
+        "indexeren",
+        "inflatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 52",
+      "originalQuote": "We verhogen de basisbeurs en indexeren deze met de inflatie, zodat studeren weer betaalbaar wordt."
+    },
+    {
+      "promiseCode": "FVD-2025-084",
+      "text": "Geslachtsveranderingsoperaties, hormoontherapie en puberteitsremmers bij minderjarigen verbieden",
+      "summary": "Verbod geslachtsverandering behandelingen voor kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geslachtsverandering",
+        "hormoontherapie",
+        "puberteitsremmers",
+        "minderjarigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 53",
+      "originalQuote": "We verbieden geslachtsveranderingsoperaties, hormoontherapie en puberteitsremmers bij minderjarigen, zodat kinderen worden beschermd tegen onomkeerbare beslissingen."
+    },
+    {
+      "promiseCode": "FVD-2025-085",
+      "text": "Rijksmusea gratis toegankelijk maken voor Nederlanders",
+      "summary": "Gratis museumtoegang voor Nederlandse burgers",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rijksmusea",
+        "gratis",
+        "toegankelijk",
+        "nederlanders"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 54",
+      "originalQuote": "We maken Rijksmusea gratis toegankelijk voor Nederlanders, zodat onze cultuur en geschiedenis voor iedereen te ontdekken zijn."
+    },
+    {
+      "promiseCode": "FVD-2025-086",
+      "text": "Een nieuw Paleis voor de Volksvlijt bouwen",
+      "summary": "Wederopbouw Paleis voor de Volksvlijt Amsterdam",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "paleis",
+        "volksvlijt",
+        "bouwen",
+        "amsterdam"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 54",
+      "originalQuote": "We bouwen een nieuw Paleis voor de Volksvlijt, zodat er een nationaal symbool van trots en culturele grandeur terugkeert in het hart van onze hoofdstad."
+    },
+    {
+      "promiseCode": "FVD-2025-087",
+      "text": "Het eigen risico in de zorgverzekering wordt verlaagd naar €200 om zorg betaalbaar te maken voor iedereen.",
+      "summary": "Eigen risico verlagen naar €200",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 56",
+      "originalQuote": "We verlagen het eigen risico naar €200, zodat zorg weer betaalbaar wordt voor iedereen."
+    },
+    {
+      "promiseCode": "FVD-2025-088",
+      "text": "Er wordt fors gesneden in de 3.500 zorgindicatoren om bureaucratie te verminderen en zorgmedewerkers in lagere loonschalen krijgen een eenmalige salarisverhoging van 12%.",
+      "summary": "Snoeien in zorgindicatoren en 12% salarisverhoging lagere loonschalen zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgindicatoren",
+        "bureaucratie",
+        "salarisverhoging",
+        "zorgmedewerkers",
+        "loonschalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 56",
+      "originalQuote": "We verminderen de bureaucratie (bijv. door fors te snoeien in de 3.500 zorgindicatoren) en verhogen structureel de salarissen van zorgmedewerkers, zodat de werkdruk daalt, het beroep aantrekkelijk blijft, en de zorg weer naar patiënten gaat. Zorgmedewerkers in de lagere loonschalen krijgen een eenmalige salarisverhoging van 12%."
+    },
+    {
+      "promiseCode": "FVD-2025-089",
+      "text": "Het jeugdzorgstelsel wordt hervormd en de decentralisatie wordt teruggedraaid - jeugdzorg gaat terug naar het Rijk.",
+      "summary": "Jeugdzorg terug naar het Rijk, hervorming stelsel",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdzorg",
+        "decentralisatie",
+        "hervorming",
+        "rijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 56",
+      "originalQuote": "We hervormen het jeugdzorgstelsel en pakken vooral de perverse prikkels van (gedwongen) uithuisplaatsingen aan, zodat kinderen beter beschermd worden. Jeugdzorg moet gericht zijn op het goed laten functioneren van gezinnen. Ruttes decentralisatie moet worden teruggedraaid, Jeugdzorg gaat terug naar het Rijk."
+    },
+    {
+      "promiseCode": "FVD-2025-090",
+      "text": "Gesloten regionale ziekenhuizen worden heropend om de zorgvoorziening regionaal te versterken.",
+      "summary": "Gesloten ziekenhuizen heropenen voor regionale zorgvoorziening",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ziekenhuizen",
+        "heropening",
+        "regionale",
+        "zorgvoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 57",
+      "originalQuote": "We heropenen ziekenhuizen die zijn gesloten, zodat de zorgvoorziening regionaal wordt versterkt."
+    },
+    {
+      "promiseCode": "FVD-2025-091",
+      "text": "De anticonceptiepil wordt volledig vergoed zodat deze voor iedereen toegankelijk en betaalbaar is.",
+      "summary": "Volledige vergoeding anticonceptiepil",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "anticonceptiepil",
+        "vergoeding",
+        "toegankelijkheid",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 57",
+      "originalQuote": "We vergoeden de anticonceptiepil volledig, zodat deze voor iedereen toegankelijk en betaalbaar is."
+    },
+    {
+      "promiseCode": "FVD-2025-092",
+      "text": "Abortus wordt beperkt tot zestien weken zwangerschap en vanaf acht weken wordt een verplichte vijfdaagse bedenktermijn ingesteld.",
+      "summary": "Abortus beperken tot 16 weken met bedenktermijn vanaf 8 weken",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortus",
+        "zestien weken",
+        "bedenktermijn",
+        "zwangerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 57",
+      "originalQuote": "We beperken abortus tot zestien weken zwangerschap en stellen vanaf acht weken een verplichte vijfdaagse bedenktermijn in, zodat zorgvuldigheid en waardigheid van het leven samengaat met individuele beslissingsvrijheid."
+    },
+    {
+      "promiseCode": "FVD-2025-093",
+      "text": "De steun voor het Preventieakkoord wordt ingetrokken, waardoor horecaondernemers en sportkantines de vrijheid terugkrijgen om hun eigen rookbeleid te bepalen.",
+      "summary": "Stoppen steun Preventieakkoord en vrijheid rookbeleid horeca",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "preventieakkoord",
+        "rookbeleid",
+        "horeca",
+        "sportkantines"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 57",
+      "originalQuote": "We trekken steun voor het Preventieakkoord in, zodat mensen zelf kunnen beslissen hoe zij willen leven. Dit betekent onder meer dat horecaondernemers en sportkantines de vrijheid terugkrijgen om hun eigen rookbeleid zelf te bepalen en de overheid zich niet bemoeit met persoonlijke keuzes."
+    },
+    {
+      "promiseCode": "FVD-2025-094",
+      "text": "FVD wil een Vrijheidswet invoeren die lockdowns, vaccinatieplichten en toegangsbewijzen verbiedt om grondrechten blijvend te beschermen. Ook wordt de Pandemiewet ingetrokken.",
+      "summary": "Vrijheidswet tegen lockdowns, vaccinatieplichten en toegangsbewijzen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrijheidswet",
+        "lockdowns",
+        "vaccinatieplichten",
+        "toegangsbewijzen",
+        "pandemiewet"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 58",
+      "originalQuote": "We stellen een Vrijheidswet op die lockdowns, vaccinatieplichten, toegangsbewijzen verbiedt, zodat grondrechten blijvend beschermd zijn. Ook trekken we de Pandemiewet in."
+    },
+    {
+      "promiseCode": "FVD-2025-095",
+      "text": "FVD wil de huidige parlementaire enquête over coronabeleid beëindigen en een nieuwe enquête naar Amerikaans model starten, waarbij Kamerleden zelfstandig onderzoek kunnen doen en betrokkenen onder ede kunnen horen.",
+      "summary": "Nieuwe parlementaire enquête coronabeleid naar Amerikaans model",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parlementaire",
+        "enquête",
+        "coronabeleid",
+        "amerikaans",
+        "model"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 58",
+      "originalQuote": "We beëindigen de huidige Parlementaire Enquête over het coronabeleid en starten een nieuwe enquête op naar Amerikaans model, zodat Kamerleden zelfstandig onderzoek kunnen doen en betrokkenen onder ede kunnen horen."
+    },
+    {
+      "promiseCode": "FVD-2025-096",
+      "text": "FVD wil mRNA-vaccins uit het basispakket halen, zodat mensen niet langer verplicht meebetalen aan deze middelen.",
+      "summary": "mRNA-vaccins uit basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mrna-vaccins",
+        "basispakket",
+        "verplicht",
+        "meebetalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 58",
+      "originalQuote": "We halen de mRNA-vaccins uit het basispakket, zodat mensen niet langer verplicht meebetalen aan deze risicovolle middelen."
+    },
+    {
+      "promiseCode": "FVD-2025-097",
+      "text": "FVD wil het opportuniteitsbeginsel vervangen door het legaliteitsbeginsel, zodat elk misdrijf in beginsel in behandeling wordt genomen en vervolgd.",
+      "summary": "Legaliteitsbeginsel invoeren voor vervolging misdrijven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "legaliteitsbeginsel",
+        "opportuniteitsbeginsel",
+        "misdrijf",
+        "vervolging"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 59",
+      "originalQuote": "We vervangen het opportuniteitsbeginsel door het legaliteitsbeginsel, zodat elk misdrijf in beginsel in behandeling wordt genomen en vervolgd."
+    },
+    {
+      "promiseCode": "FVD-2025-098",
+      "text": "FVD wil agenten in de lagere loonschalen een eenmalige loonsverhoging van 12% geven om het werk bij opsporingsdiensten aantrekkelijker te maken.",
+      "summary": "12% loonsverhoging voor agenten in lagere loonschalen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "agenten",
+        "loonsverhoging",
+        "12%",
+        "opsporingsdiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 59",
+      "originalQuote": "We geven agenten in de lagere loonschalen een eenmalige loonsverhoging van 12%."
+    },
+    {
+      "promiseCode": "FVD-2025-099",
+      "text": "FVD wil veelplegers al na drie misdrijven in twee jaar in een ISD-traject plaatsen in plaats van de huidige norm van tien misdrijven in vijf jaar.",
+      "summary": "ISD-traject na drie misdrijven in twee jaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veelplegers",
+        "isd-traject",
+        "drie",
+        "misdrijven",
+        "twee jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 60",
+      "originalQuote": "We zetten veelplegers al na drie misdrijven in twee jaar in een ISD-traject (nu tien misdrijven in vijf jaar), zodat zij sneller uit de samenleving worden gehaald."
+    },
+    {
+      "promiseCode": "FVD-2025-100",
+      "text": "FVD wil minimumstraffen invoeren voor ernstige gewelds- en zedendelicten, waarbij rechters alleen met goede motivatie kunnen afwijken.",
+      "summary": "Minimumstraffen voor gewelds- en zedendelicten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumstraffen",
+        "geweldsdelicten",
+        "zedendelicten",
+        "rechters"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 60",
+      "originalQuote": "We voeren minimumstraffen in voor ernstige gewelds- en zedendelicten, zodat rechters alleen met goede motivatie kunnen afwijken."
+    },
+    {
+      "promiseCode": "FVD-2025-101",
+      "text": "FVD wil de Nederlandse nationaliteit intrekken van dubbele paspoorthouders bij ernstige misdrijven en criminele asielzoekers direct uitzetten.",
+      "summary": "Nationaliteit intrekken en uitzetting criminelen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaliteit",
+        "dubbele",
+        "paspoorthouders",
+        "misdrijven",
+        "uitzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 59",
+      "originalQuote": "We trekken de nationaliteit in van dubbele paspoorthouders bij ernstige misdrijven en zetten criminele asielzoekers direct uit, zodat Nederland veiliger wordt."
+    },
+    {
+      "promiseCode": "FVD-2025-102",
+      "text": "FVD wil de hele keten van softdrugs legaliseren van productie tot verkoop voor veilige en gecontroleerde aanbieding.",
+      "summary": "Volledige legalisatie softdrugs van productie tot verkoop",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "softdrugs",
+        "legaliseren",
+        "productie",
+        "verkoop",
+        "gecontroleerd"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 61",
+      "originalQuote": "We legaliseren de hele keten van softdrugs — van productie tot verkoop — zodat deze veilig en gecontroleerd kan worden aangeboden en criminaliteit wordt teruggedrongen."
+    },
+    {
+      "promiseCode": "FVD-2025-103",
+      "text": "FVD wil een anti-censuurwet invoeren die bepaalt dat Big Tech-bedrijven alleen strafbare uitingen mogen modereren, zodat legale meningen nooit worden verwijderd.",
+      "summary": "Anti-censuurwet tegen Big Tech moderatie van legale uitingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "anti-censuurwet",
+        "big tech",
+        "moderatie",
+        "strafbare",
+        "uitingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 62",
+      "originalQuote": "We voeren een wet in die bepaalt dat Big Tech-bedrijven alleen strafbare uitingen mogen modereren, zodat legale meningen nooit worden verwijderd of onzichtbaar worden gemaakt."
+    },
+    {
+      "promiseCode": "FVD-2025-104",
+      "text": "FVD wil de Cookiewet afschaffen om burgers meer privacy en vrijheid terug te geven.",
+      "summary": "Afschaffing Cookiewet voor meer privacy",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cookiewet",
+        "afschaffen",
+        "privacy",
+        "vrijheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 62",
+      "originalQuote": "We schaffen de Cookiewet af, zodat burgers meer privacy en vrijheid terugkrijgen."
+    },
+    {
+      "promiseCode": "FVD-2025-105",
+      "text": "FVD wil het briefgeheim uit artikel 13 van de Grondwet uitbreiden naar digitale communicatie zoals e-mails en berichten.",
+      "summary": "Briefgeheim uitbreiden naar digitale communicatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "briefgeheim",
+        "grondwet",
+        "digitale",
+        "communicatie",
+        "e-mails"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 64",
+      "originalQuote": "Het briefgeheim, zoals vastgelegd in artikel 13 van de Grondwet, gaat ook gelden voor digitale communicatie, zodat e-mails en berichten dezelfde bescherming genieten als briefpost en telefoongesprekken."
+    },
+    {
+      "promiseCode": "FVD-2025-106",
+      "text": "FVD wil de Sleepwet afschaffen conform de uitslag van het referendum van 2017 om structureel afluisteren van burgers te voorkomen.",
+      "summary": "Afschaffing Sleepwet conform referendum 2017",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sleepwet",
+        "afschaffen",
+        "referendum",
+        "afluisteren"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 64",
+      "originalQuote": "We respecteren de uitslag van het referendum van 2017 en schaffen de Sleepwet af, zodat burgers niet structureel kunnen worden afgeluisterd."
+    },
+    {
+      "promiseCode": "FVD-2025-107",
+      "text": "FVD wil een wettelijk recht op cashbetalingen invoeren zodat contant geld overal moet worden geaccepteerd.",
+      "summary": "Wettelijk recht op cashbetalingen overal",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijk",
+        "recht",
+        "cashbetalingen",
+        "contant",
+        "geld"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 65",
+      "originalQuote": "We maken het wettelijk verplicht dat cash overal wordt geaccepteerd, zodat contant geld nooit kan verdwijnen."
+    },
+    {
+      "promiseCode": "FVD-2025-108",
+      "text": "FVD wil banken verplichten om stortingen en opnames van contant geld altijd kosteloos en zonder beperkingen te faciliteren.",
+      "summary": "Kosteloos storten en opnemen contant geld bij banken",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "banken",
+        "stortingen",
+        "opnames",
+        "kosteloos",
+        "contant"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 65",
+      "originalQuote": "We verplichten banken om stortingen en opnames van contant geld altijd kosteloos en zonder beperkingen te faciliteren, zodat burgers vrij over hun eigen geld beschikken."
+    },
+    {
+      "promiseCode": "FVD-2025-109",
+      "text": "FVD wil de limiet van €3.000 op contante transacties afschaffen en burgers het recht geven onbeperkt cash op zak te houden.",
+      "summary": "Afschaffing €3.000-limiet contante transacties",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "limiet",
+        "3000 euro",
+        "contante",
+        "transacties",
+        "cash"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 65",
+      "originalQuote": "We schaffen de €3.000-limiet per contante transactie af en geven burgers het recht terug om onbeperkt cash op zak te houden."
+    },
+    {
+      "promiseCode": "FVD-2025-110",
+      "text": "FVD wil de AVG afschaffen en vervangen door duidelijke en praktische privacyregels zonder onnodige bureaucratie.",
+      "summary": "AVG afschaffen voor praktische privacyregels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "avg",
+        "afschaffen",
+        "privacyregels",
+        "bureaucratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 65",
+      "originalQuote": "We schaffen de AVG af en vervangen die door duidelijke en praktische privacyregels, zodat privacy echt beschermd wordt zonder onnodige bureaucratie."
+    },
+    {
+      "promiseCode": "FVD-2025-111",
+      "text": "Accijnzen op brandstof worden verlaagd, de BPM wordt afgeschaft en de bijtelling wordt verlaagd om autorijden betaalbaar te maken.",
+      "summary": "Accijnzen verlagen, BPM afschaffen, bijtelling verlagen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "accijnzen",
+        "bpm",
+        "bijtelling",
+        "brandstof",
+        "autobelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 67-68",
+      "originalQuote": "We verlagen accijnzen, schaffen de BPM af en verlagen de bijtelling, zodat autorijden weer betaalbaar wordt"
+    },
+    {
+      "promiseCode": "FVD-2025-112",
+      "text": "Autobezitters hoeven slechts één keer wegenbelasting te betalen, ongeacht het aantal auto's dat zij bezitten.",
+      "summary": "Eén keer wegenbelasting per autobezitter",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wegenbelasting",
+        "autobezitters",
+        "meerdere auto's"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 67-68",
+      "originalQuote": "We laten autobezitters slechts één keer wegenbelasting betalen, je kunt immers niet in meerdere auto's tegelijk rijden"
+    },
+    {
+      "promiseCode": "FVD-2025-113",
+      "text": "Starters krijgen gefaseerde korting op wegenbelasting: eerste jaar kwarttarief, tweede jaar halftarief, daarna voltarief. 65-plussers betalen altijd halftarief.",
+      "summary": "Wegenbelastingkorting voor starters en 65-plussers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wegenbelasting",
+        "starters",
+        "65-plussers",
+        "korting",
+        "kwarttarief",
+        "halftarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 68",
+      "originalQuote": "eerste jaar kwarttarief, tweede jaar halftarief, daarna voltarief... 65-plussers... altijd half tarief te laten betalen"
+    },
+    {
+      "promiseCode": "FVD-2025-114",
+      "text": "De vliegbelasting wordt afgeschaft om vliegen betaalbaar te houden.",
+      "summary": "Vliegbelasting afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegbelasting",
+        "afschaffen",
+        "vliegen",
+        "luchtvaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 70",
+      "originalQuote": "We schaffen de vliegbelasting af, zodat vliegen betaalbaar blijft"
+    },
+    {
+      "promiseCode": "FVD-2025-115",
+      "text": "Vluchten binnen het Koninkrijk blijven volledig belastingvrij.",
+      "summary": "Belastingvrij vliegen binnen Koninkrijk",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vluchten",
+        "koninkrijk",
+        "belastingvrij",
+        "cariben"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 70",
+      "originalQuote": "We houden vluchten binnen het Koninkrijk volledig belastingvrij"
+    },
+    {
+      "promiseCode": "FVD-2025-116",
+      "text": "Bedrijven in de haven van Rotterdam worden vrijgesteld van het Europese CO2-emissiehandelssysteem en stikstofregels.",
+      "summary": "Haven Rotterdam vrijstellen van ETS en stikstofregels",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "haven rotterdam",
+        "ets",
+        "stikstofregels",
+        "vrijstelling",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 71",
+      "originalQuote": "We stellen bedrijven in de haven vrij van het Europese CO2-emissiehandelssysteem (ETS) en stikstofregels"
+    },
+    {
+      "promiseCode": "FVD-2025-117",
+      "text": "Nederland organiseert een referendum over het lidmaatschap van de NAVO, zodat de Nederlandse bevolking zelf kan beslissen of Nederland lid blijft van het militaire bondgenootschap.",
+      "summary": "Referendum over NAVO-lidmaatschap organiseren",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "referendum",
+        "navo",
+        "lidmaatschap",
+        "bevolking",
+        "beslissing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 75",
+      "originalQuote": "We leggen het lidmaatschap van de NAVO via een referendum voor aan de Nederlandse bevolking, zodat we als land zelf kunnen beslissen of we door willen op het huidige pad."
+    },
+    {
+      "promiseCode": "FVD-2025-118",
+      "text": "De Koninklijke Marechaussee wordt uitgebreid om de Nederlandse grenzen beter te kunnen bewaken en beveiliging te versterken.",
+      "summary": "Uitbreiding Koninklijke Marechaussee voor grensbewaking",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "marechaussee",
+        "uitbreiding",
+        "grenzen",
+        "bewaking",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 75",
+      "originalQuote": "We breiden de Koninklijke Marechaussee uit, zodat de Nederlandse grenzen beter worden bewaakt."
+    },
+    {
+      "promiseCode": "FVD-2025-119",
+      "text": "Er wordt een ceremonieel schip aangeschaft zodat de marine haar tradities kan eren en Nederland zich waardig in de wereld kan presenteren.",
+      "summary": "Aanschaf ceremonieel schip voor de marine",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ceremonieel",
+        "schip",
+        "marine",
+        "tradities",
+        "aanschaf"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 75",
+      "originalQuote": "We schaffen een ceremonieel schip aan, zodat de marine haar tradities kan eren en Nederland zich waardig in de wereld kan presenteren."
+    },
+    {
+      "promiseCode": "FVD-2025-120",
+      "text": "Er wordt een speciale hypotheekgarantieregeling ingevoerd vanuit Defensie waarbij ook variabele toeslagen meetellen voor hypotheekfinanciering van militairen.",
+      "summary": "Hypotheekgarantie voor militairen inclusief variabele toeslagen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekgarantie",
+        "militairen",
+        "defensie",
+        "toeslagen",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 75",
+      "originalQuote": "We introduceren een speciale garantieregeling vanuit het Ministerie van Defensie om behalve een basissalaris ook variabele toeslagen als basis te hanteren voor hypotheekfinanciering voor militairen, zodat de leencapaciteit sterk wordt vergroot."
+    },
+    {
+      "promiseCode": "FVD-2025-121",
+      "text": "Multilaterale EU-handelsverdragen worden opgezegd en vervangen door bilaterale handelsverdragen die Nederland zelfstandig onderhandelt.",
+      "summary": "Opzeggen EU-handelsverdragen en sluiten bilaterale verdragen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handelsverdragen",
+        "eu",
+        "bilateraal",
+        "opzeggen",
+        "onderhandeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 76",
+      "originalQuote": "We zeggen multilaterale EU-handelsverdragen op en sluiten bilaterale verdragen, zodat Nederland zijn eigen belangen optimaal kan verdedigen."
+    },
+    {
+      "promiseCode": "FVD-2025-122",
+      "text": "Structurele ontwikkelingshulp wordt stopgezet en beperkt tot alleen noodhulp bij rampen.",
+      "summary": "Stoppen met structurele ontwikkelingshulp, alleen noodhulp",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingshulp",
+        "stoppen",
+        "noodhulp",
+        "rampen",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 76",
+      "originalQuote": "We stoppen met structurele ontwikkelingshulp en beperken ons tot noodhulp, zodat belastinggeld niet langer wordt verspild aan zinloze projecten."
+    },
+    {
+      "promiseCode": "FVD-2025-123",
+      "text": "Alle sancties tegen Rusland worden opgeheven om handel en samenwerking te kunnen herstellen.",
+      "summary": "Opheffen van alle sancties tegen Rusland",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sancties",
+        "rusland",
+        "opheffen",
+        "handel",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 76",
+      "originalQuote": "We heffen de sancties tegen Rusland op, zodat handel en samenwerking kunnen worden hersteld."
+    },
+    {
+      "promiseCode": "FVD-2025-124",
+      "text": "Nederland erkent een Palestijnse staat binnen de grenzen van 1967 en spreekt zich uit voor een tweestatenoplossing.",
+      "summary": "Erkenning Palestijnse staat binnen grenzen 1967",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "palestijnse",
+        "staat",
+        "erkenning",
+        "grenzen",
+        "tweestatenoplossing"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 76",
+      "originalQuote": "We spreken ons in internationaal verband uit voor de totstandkoming van een tweestatenoplossing en erkennen een Palestijnse staat binnen de grenzen van 1967."
+    },
+    {
+      "promiseCode": "FVD-2025-125",
+      "text": "Nederlanders in het buitenland behouden altijd hun Nederlandse nationaliteit, ook als zij een tweede paspoort krijgen.",
+      "summary": "Behoud Nederlandse nationaliteit bij tweede paspoort",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationaliteit",
+        "paspoort",
+        "buitenland",
+        "behoud",
+        "dubbele"
+      ],
+      "sourceRef": "Verkiezingsprogramma FVD 2025, p. 77",
+      "originalQuote": "We beschermen de rechten van Nederlanders in het buitenland, zodat zij hun nationaliteit niet verliezen als ze een tweede paspoort krijgen."
+    }
+  ]
+}

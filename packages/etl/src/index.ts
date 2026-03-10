@@ -49,7 +49,8 @@ import { seedMunicipalPromises as seedMunicipalPromises2026 } from './scripts/se
 import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.js';
 
 async function main() {
-  const args = process.argv.slice(2);
+  const rawArgs = process.argv.slice(2);
+  const args = rawArgs[0] === '--' ? rawArgs.slice(1) : rawArgs;
   const command = args[0];
 
   console.log('🚀 CIVICSTAT ETL - Tweede Kamer Data Ingest');
@@ -328,6 +329,15 @@ async function main() {
         break;
       }
 
+      case 'seed-promises-tk2025': {
+        const s25Party = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const s25DryRun = args.includes('--dry-run');
+        const s25Replace = args.includes('--replace');
+        console.log('🌱 Seeding TK2025 promises for all parties...\n');
+        await seedPromisesFromJson({ party: s25Party, year: 2025, dryRun: s25DryRun, replace: s25Replace });
+        break;
+      }
+
       case 'review-promises': {
         const rpParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
         const rpYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
@@ -532,10 +542,14 @@ async function main() {
         console.log('  npm run ingest extract-promises                 - Extract promises from all programs (LLM)');
         console.log('  npm run ingest extract-promises --party VVD     - Extract only VVD promises');
         console.log('  npm run ingest extract-promises --dry-run       - Preview extraction (no API calls)');
-        console.log('  npm run ingest seed-promises-json               - Seed promises from JSON files');
+        console.log('  npm run ingest seed-promises-json               - Seed promises from JSON files (default: TK2023)');
+        console.log('  npm run ingest seed-promises-json --year 2025   - Seed TK2025 promises (auto-creates programs)');
         console.log('  npm run ingest seed-promises-json --party VVD   - Seed only VVD promises');
         console.log('  npm run ingest seed-promises-json --replace     - Delete existing before seeding');
         console.log('  npm run ingest seed-promises-json --dry-run     - Preview seeding');
+        console.log('  npm run ingest seed-promises-tk2025             - Seed all 15 party TK2025 promises');
+        console.log('  npm run ingest seed-promises-tk2025 --party VVD - Seed only VVD TK2025 promises');
+        console.log('  npm run ingest seed-promises-tk2025 --dry-run   - Preview TK2025 seeding');
         console.log('  npm run ingest review-promises                  - Quality review of extracted promises');
         console.log('  npm run ingest review-promises --verbose        - Show individual issues');
         console.log('');

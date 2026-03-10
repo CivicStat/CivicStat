@@ -1,0 +1,1416 @@
+{
+  "party": "GroenLinks-PvdA",
+  "partySlug": "gl-pvda",
+  "program": "Samen voor een hoopvolle toekomst",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "cc3f9137dd17c4a7a1f0865112ba3fe5e75a1b660a16b546954bc45d16336f96",
+  "totalPromises": 94,
+  "promises": [
+    {
+      "promiseCode": "GLPVDA-2023-001",
+      "text": "Er worden checks uitgevoerd bij nieuwe regels en maatregelen om te controleren of deze aansluiten bij ieders kunnen en wat het mogelijke effect is op toekomstige generaties.",
+      "summary": "Checks bij nieuwe regels voor aansluiting bij burgers en effecten toekomstige generaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regelgeving",
+        "checks",
+        "toekomstige generaties",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 8",
+      "originalQuote": "Bij nieuwe regels en maatregelen wordt altijd gecheckt of deze aansluiten bij eenieders kunnen en wat het mogelijke effect ervan is op toekomstige generaties."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-002",
+      "text": "Ervaringskennis wordt verankerd in de vorming, uitvoering en evaluatie van beleid om een brug te slaan tussen systeem- en leefwereld.",
+      "summary": "Verankering ervaringskennis in beleidsproces",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ervaringskennis",
+        "beleid",
+        "beleidsvorming",
+        "evaluatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 8",
+      "originalQuote": "We verankeren ervaringskennis in de vorming, uitvoering en evaluatie van beleid. Zo slaan we een brug tussen systeem- en leefwereld."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-003",
+      "text": "Burgers krijgen vaker direct inspraak via referenda en burgerberaden, en krijgen een plek aan bestuurstafels van publieke voorzieningen zoals woningcorporaties.",
+      "summary": "Meer directe inspraak burgers via referenda, burgerberaden en bestuurstafels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referenda",
+        "burgerberaden",
+        "zeggenschap",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 8",
+      "originalQuote": "Dat betekent dat burgers veel vaker direct mogen meebeslissen over beleid via referenda en burgerberaden. Of dat burgers vaker zelf een plek krijgen aan de bestuurstafels van publieke voorzieningen zoals de woningcorporatie."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-004",
+      "text": "De brede welvaart van alle regio's van Nederland wordt bevorderd, na jarenlange ongelijke investeringen tussen Randstad en andere regio's.",
+      "summary": "Bevordering brede welvaart alle regio's Nederland",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brede welvaart",
+        "regio's",
+        "investeringen",
+        "Randstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 8",
+      "originalQuote": "Wij gaan de brede welvaart van alle regio's van Nederland bevorderen. Lang werd er volop in de Randstad geïnvesteerd, terwijl elders buslijnen, bibliotheken en ziekenhuizen verdwenen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-005",
+      "text": "Onmiddellijk beginnen met afbouw van miljarden euro's aan fossiele subsidies.",
+      "summary": "Onmiddellijke afbouw fossiele subsidies",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fossiele subsidies",
+        "afbouw",
+        "miljarden euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 10",
+      "originalQuote": "Uiteraard willen we af van de miljarden euro's aan fossiele subsidies. Daarom beginnen we onmiddellijk met het afbouwen ervan."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-006",
+      "text": "In 2035 wordt een klimaatneutrale elektriciteitsvoorziening gerealiseerd en in 2040 een klimaatneutrale industrie en samenleving.",
+      "summary": "Klimaatneutraal: 2035 elektriciteit, 2040 industrie en samenleving",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "elektriciteitsvoorziening",
+        "industrie",
+        "2035",
+        "2040"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 11",
+      "originalQuote": "Een groene welzijnseconomie vraagt duidelijkheid in doelen: in 2035 realiseren we een klimaatneutrale elektriciteitsvoorziening en in 2040 een klimaatneutrale industrie en samenleving."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-007",
+      "text": "De economie wordt volledig circulair in 2050, conform Europese Unie ambitie, met schone energie en natuurlijke grondstoffen in kringloop.",
+      "summary": "Volledig circulaire economie in 2050",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulaire economie",
+        "2050",
+        "kringloop",
+        "grondstoffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 11",
+      "originalQuote": "Tot slot sluiten we ons aan bij de ambitie van de Europese Unie om onze economie volledig circulair te laten draaien in 2050: schone energie en natuurlijke grondstoffen blijven zoveel mogelijk in kringloop."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-008",
+      "text": "Er komt een klimaatplicht voor intensieve industrie met harde wettelijke eisen over afbouw van CO2-uitstoot.",
+      "summary": "Klimaatplicht intensieve industrie met wettelijke CO2-afbouw eisen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatplicht",
+        "industrie",
+        "CO2-uitstoot",
+        "wettelijke eisen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 12",
+      "originalQuote": "Voor de intensieve industrie komt er een klimaatplicht: harde wettelijke eisen over afbouw van de CO2-uitstoot."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-009",
+      "text": "Het bestaanszekerheidsbeleid wordt verruimd en verlengd, zodat iedereen voldoende inkomen krijgt om een waardig bestaan te leiden.",
+      "summary": "Verruiming en verlenging bestaanszekerheidsbeleid voor waardig bestaan",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestaanszekerheidsbeleid",
+        "inkomen",
+        "waardig bestaan",
+        "verruiming"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 13",
+      "originalQuote": "Daarom verruimen en verlengen we het bestaanszekerheidsbeleid en krijgt iedereen voldoende inkomen om een waardig bestaan te kunnen leiden."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-010",
+      "text": "Kinderopvang wordt ontwikkeld tot een gratis basisvoorziening voor alle kinderen.",
+      "summary": "Gratis kinderopvang als basisvoorziening",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "gratis",
+        "basisvoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 13",
+      "originalQuote": "We werken toe naar kinderopvang als gratis basisvoorziening"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-011",
+      "text": "Kinderopvang wordt een gratis basisvoorziening, net zoals andere publieke voorzieningen zoals zorg, onderwijs en volkshuisvesting toegankelijk zijn voor iedereen.",
+      "summary": "Kinderopvang wordt gratis basisvoorziening",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderopvang",
+        "basisvoorziening",
+        "gratis",
+        "publieke voorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 14",
+      "originalQuote": "We werken toe naar kinderopvang als gratis basisvoorziening"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-012",
+      "text": "MBO-studenten krijgen gelijkwaardige behandeling ten opzichte van studenten aan hogescholen en universiteiten door rechttrekken van de huidige ongelijke behandeling.",
+      "summary": "MBO-studenten krijgen gelijkwaardige behandeling als HBO/WO studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "MBO",
+        "gelijkwaardigheid",
+        "studenten",
+        "hogeschool",
+        "universiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 14",
+      "originalQuote": "Mbo-studenten worden nog steeds niet overal gelijkwaardig behandeld ten opzichte van studenten aan de hogeschool of universiteit. Dat is onrechtvaardig en trekken we recht."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-013",
+      "text": "Voor mensen die geen baan kunnen vinden worden zinvolle basisbanen aangeboden waarvan mensen kunnen rondkomen, als onderdeel van de werkgelegenheidsgarantie.",
+      "summary": "Zinvolle basisbanen voor werklozen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbanen",
+        "werkloosheid",
+        "arbeidsgarantie",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 14",
+      "originalQuote": "Voor degenen die geen baan kunnen vinden, bieden we zinvolle basisbanen aan waarvan je kunt rondkomen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-014",
+      "text": "Inkomen uit vermogen wordt niet langer gunstiger belast dan inkomen uit werk om de belastingongelijkheid tussen renteniers en werkenden weg te nemen.",
+      "summary": "Gelijke belasting vermogen en arbeid",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vermogensbelasting",
+        "arbeidsinkomen",
+        "belastinghervorming",
+        "gelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 14",
+      "originalQuote": "We willen dat inkomen uit vermogen niet langer gunstiger wordt belast dan inkomen uit werk."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-015",
+      "text": "Gezondheidsdoelen worden wettelijk verankerd om publieke gezondheid structureel te waarborgen en preventie centraal te stellen in het zorgbeleid.",
+      "summary": "Wettelijke verankering gezondheidsdoelen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezondheidsdoelen",
+        "wettelijke verankering",
+        "preventie",
+        "publieke gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 15",
+      "originalQuote": "Daarom gaan we gezondheidsdoelen wettelijk verankeren."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-016",
+      "text": "Nederland voldoet aan de NAVO-norm van 2% defensie-uitgaven en bouwt extra defensie-investeringen op voor een sterke Europese pijler binnen het bondgenootschap.",
+      "summary": "Voldoen aan NAVO-norm 2% defensie-uitgaven",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "NAVO-norm",
+        "defensie-uitgaven",
+        "2%",
+        "defensie-investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 17",
+      "originalQuote": "Daar hoort bij dat we extra defensie-investeringen doen en voldoen aan de NAVO-norm van 2%."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-017",
+      "text": "Nederlandse uitgaven aan internationale samenwerking worden weer op het peil van 0,7% van het bruto nationaal inkomen gebracht conform internationale afspraken.",
+      "summary": "Ontwikkelingshulp naar 0,7% BNI",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "0,7%",
+        "BNI",
+        "internationale afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 18",
+      "originalQuote": "We brengen de Nederlandse uitgaven aan internationale samenwerking weer op het peil van de internationale afspraak van 0,7% van het bruto nationaal inkomen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-018",
+      "text": "In 2030 wordt de CO2-uitstoot met 65% verminderd ten opzichte van 1990 en in 2040 is Nederland volledig klimaatneutraal volgens vastgelegde doelen in de Klimaatwet.",
+      "summary": "65% CO2-reductie 2030, klimaatneutraal 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "CO2-uitstoot",
+        "65%",
+        "2030",
+        "klimaatneutraal",
+        "2040",
+        "Klimaatwet"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 20",
+      "originalQuote": "In 2030 hebben we als land onze CO2-uitstoot met 65% verminderd (ten opzichte van 1990) en in 2040 zijn we volledig klimaatneutraal."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-019",
+      "text": "In 2035 wordt de elektriciteitsvoorziening CO2-neutraal en in 2040 het gehele energiesysteem, inclusief de industrie die dan netto geen CO2 meer uitstoot.",
+      "summary": "CO2-neutrale elektriciteit 2035, energiesysteem 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektriciteitsvoorziening",
+        "2035",
+        "CO2-neutraal",
+        "energiesysteem",
+        "2040",
+        "industrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 20",
+      "originalQuote": "Bovendien zorgen we ervoor dat in 2035 onze elektriciteitsvoorziening CO2-neutraal is, en in 2040 ons gehele energiesysteem. Ook de industrie stoot in 2040 netto geen CO2 meer uit."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-020",
+      "text": "Verhuurders in de vrije sector moeten ervoor zorgen dat alle woningen in 2030 energielabel B hebben, met recht op huurverlaging voor huurders bij slechtere labels.",
+      "summary": "Label B verplichting vrije sector woningen 2030",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verhuurders",
+        "vrije sector",
+        "energielabel B",
+        "2030",
+        "huurverlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 21",
+      "originalQuote": "We zorgen ervoor dat alle verhuurders in de vrije sector hun woningen in 2030 zover hebben verbeterd dat ze label B hebben. We geven huurders nu al recht op huurverlaging als het label slechter is dan label B."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-021",
+      "text": "De onbelaste vrijwilligersvergoeding wordt verhoogd. Mensen met een uitkering worden niet gekort als zij een vrijwilligersvergoeding ontvangen. Een stimuleringsfonds wordt opgericht voor kleine organisaties die geen vrijwilligersvergoeding kunnen betalen.",
+      "summary": "Verhoging onbelaste vrijwilligersvergoeding en stimuleringsfonds",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijwilligersvergoeding",
+        "uitkering",
+        "stimuleringsfonds",
+        "organisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 45",
+      "originalQuote": "We richten een stimuleringsfonds op voor kleine organisaties die geen vrijwilligersvergoeding kunnen betalen en verhogen de onbelaste vrijwilligersvergoeding. Mensen met een uitkering worden niet gekort als zij een vrijwilligersvergoeding ontvangen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-022",
+      "text": "Alle overheidsinstanties stoppen met het gebruik van risicoprofielen en algoritmes die fraude, criminaliteit of ongewenst gedrag voorspellen. Het nationale algoritmeregister wordt zo snel mogelijk bijgewerkt.",
+      "summary": "Stop met voorspellende algoritmes en bijwerken algoritmeregister",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "algoritmes",
+        "risicoprofielen",
+        "overheidsinstanties",
+        "algoritmeregister"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 46",
+      "originalQuote": "Alle overheidsinstanties stoppen met het gebruik van risicoprofielen en algoritmes die fraude, criminaliteit of ongewenst gedrag 'voorspellen'. We werken het nationale algoritmeregister, waarin alle algoritmen staan die overheden gebruiken, zo snel mogelijk bij."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-023",
+      "text": "De Rotterdamwet (Wet Bijzondere Maatregelen Grootstedelijke Problematiek) wordt geschrapt, omdat deze onderscheid maakt tussen mensen op basis van inkomen en culturele achtergrond.",
+      "summary": "Schrappen Rotterdamwet",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Rotterdamwet",
+        "discriminatie",
+        "inkomen",
+        "culturele achtergrond"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 46",
+      "originalQuote": "Ook schrappen we de zogenaamde Rotterdamwet (officieel: de Wet Bijzondere Maatregelen Grootstedelijke Problematiek), die onderscheid maakt tussen mensen op basis van inkomen en culturele achtergrond."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-024",
+      "text": "Er komt een herstelfonds voor nazaten van tot slaaf gemaakten. Samen met de gemeenschappen wordt bepaald hoe dit fonds wordt ingevuld.",
+      "summary": "Herstelfonds voor nazaten van tot slaaf gemaakten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "herstelfonds",
+        "slavernij",
+        "nazaten",
+        "gemeenschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 46",
+      "originalQuote": "Er komt een herstelfonds voor nazaten van tot slaaf gemaakten. Samen met de gemeenschappen wordt bepaald hoe dit fonds wordt ingevuld."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-025",
+      "text": "1 juli (Keti Koti) en 5 mei (Bevrijdingsdag) worden nationale vrije dagen.",
+      "summary": "1 juli en 5 mei worden nationale vrije dagen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Keti Koti",
+        "Bevrijdingsdag",
+        "vrije dagen",
+        "nationale feestdagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 46",
+      "originalQuote": "1 juli (Keti Koti) en 5 mei (Bevrijdingsdag) worden nationale vrije dagen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-026",
+      "text": "Er komt een slavernijmuseum in Nederland en het Caribisch gebied, met aandacht voor de trans-Atlantische slavenhandel, de slavernij in Azië, in voormalig Nederlands-Indië en voor contractarbeid.",
+      "summary": "Oprichting slavernijmuseum in Nederland en Caribisch gebied",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slavernijmuseum",
+        "Nederland",
+        "Caribisch gebied",
+        "geschiedenis"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 46",
+      "originalQuote": "En er komt een slavernijmuseum in Nederland en het Caribisch gebied, met aandacht voor de trans-Atlantische slavenhandel, de slavernij in Azië, in voormalig Nederlands-Indië en voor contractarbeid."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-027",
+      "text": "Bedrijven die zich schuldig maken aan discriminatie krijgen stevige boetes en worden uitgesloten van overheidsopdrachten. De Nederlandse Arbeidsinspectie wordt toegerust met capaciteit en financiële middelen voor onderzoek naar discriminatie.",
+      "summary": "Boetes en uitsluiting overheidsopdrachten bij discriminatie door bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "discriminatie",
+        "boetes",
+        "overheidsopdrachten",
+        "Arbeidsinspectie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 47",
+      "originalQuote": "Bedrijven die zich schuldig maken aan (stage)discriminatie krijgen stevige boetes en worden uitgesloten van overheidsopdrachten. De Nederlandse Arbeidsinspectie wordt toegerust met capaciteit en financiële middelen voor onderzoek naar discriminatie."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-028",
+      "text": "Een Wet gelijke beloning wordt zo snel mogelijk ingevoerd ter implementatie van de Europese wet loontransparantie. De bewijslast voor ongelijke beloning wordt omgedraaid: de werkgever toont aan dat er geen loondiscriminatie is.",
+      "summary": "Wet gelijke beloning met omgekeerde bewijslast",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Wet gelijke beloning",
+        "loondiscriminatie",
+        "bewijslast",
+        "werkgever"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 47",
+      "originalQuote": "voor bedrijven voeren we zo snel mogelijk een Wet gelijke beloning in ter implementatie van de Europese wet loontransparantie. Hierbij wordt de bewijslast voor ongelijke beloning omgedraaid: de werkgever toont aan dat er geen loondiscriminatie is."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-029",
+      "text": "Er komt een certificeringsstelsel waarmee bedrijven met meer dan 100 werknemers aantonen dat ze gelijk loon voor gelijk werk bieden.",
+      "summary": "Certificeringsstelsel gelijk loon voor bedrijven >100 werknemers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "certificeringsstelsel",
+        "gelijk loon",
+        "bedrijven",
+        "werknemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 47",
+      "originalQuote": "Er komt een certificeringsstelsel waarmee bedrijven met meer dan 100 werknemers aantonen dat ze gelijk loon voor gelijk werk bieden"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-030",
+      "text": "De verplichte geslachtsregistratie bij de overheid wordt afgeschaft. Het wordt mogelijk om op identiteitspapieren geen geslacht te laten vermelden of een andere aanduiding dan M of V te kiezen.",
+      "summary": "Afschaffing verplichte geslachtsregistratie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geslachtsregistratie",
+        "identiteitspapieren",
+        "geslacht",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 48",
+      "originalQuote": "De verplichte geslachtsregistratie bij de overheid schaffen we af en we maken het mogelijk om op identiteitspapieren geen geslacht te laten vermelden of een andere aanduiding dan M of V te kiezen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-031",
+      "text": "Conversie-therapieën waarbij wordt geprobeerd mensen te 'genezen' van hun genderidentiteit en/of seksuele voorkeur worden verboden.",
+      "summary": "Verbod op conversie-therapieën",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "conversie-therapieën",
+        "genderidentiteit",
+        "seksuele voorkeur",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 48",
+      "originalQuote": "We verbieden conversie-therapieën waarbij wordt geprobeerd mensen te 'genezen' van hun genderidentiteit en/of seksuele voorkeur."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-032",
+      "text": "De stikstofuitstoot wordt in 2030 gehalveerd. Uiterlijk in 2030 is de trend van achteruitgang van de biodiversiteit gekeerd. In 2050 is voor alle soorten de gunstige staat van instandhouding behaald.",
+      "summary": "Halvering stikstofuitstoot 2030 en biodiversiteitsherstel",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofuitstoot",
+        "biodiversiteit",
+        "natuurherstel",
+        "soorten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 50",
+      "originalQuote": "Uiterlijk in 2030 is de trend van achteruitgang van de biodiversiteit gekeerd. We houden vast aan het doel om de stikstofuitstoot in 2030 te halveren. In 2050 is voor alle soorten de gunstige staat van instandhouding behaald."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-033",
+      "text": "30% van het Nederlandse zeeoppervlak, inclusief de Waddenzee en de Zuidwestelijke Delta, verkrijgt tegen 2030 een beschermde status.",
+      "summary": "30% Nederlands zeeoppervlak beschermd status voor 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zeeoppervlak",
+        "beschermde status",
+        "Waddenzee",
+        "Zuidwestelijke Delta"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 51",
+      "originalQuote": "Conform Europese en internationale afspraken verkrijgt 30% van het Nederlandse zeeoppervlak, inclusief de Waddenzee en de Zuidwestelijke Delta, tegen 2030 een beschermde status"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-034",
+      "text": "In 2030 wordt de doelstelling van 10% groenblauwe dooradering met landschapselementen bereikt. Landgoed Amelisweerd wordt behouden door de A27 bij Utrecht niet te verbreden.",
+      "summary": "10% groenblauwe dooradering 2030 en behoud Amelisweerd",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groenblauwe dooradering",
+        "landschapselementen",
+        "Amelisweerd",
+        "A27"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 51",
+      "originalQuote": "In 2030 hebben we de doelstelling van 10% groenblauwe dooradering met landschapselementen bereikt... Landgoed Amelisweerd behouden we door de A27 bij Utrecht niet te verbeden."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-035",
+      "text": "Een Nationale Grondbank wordt opgericht die bij bedrijfsbeëindiging het recht op eerste koop krijgt van grond en dieren- en emissierechten, waarna dit verpacht wordt aan boeren voor natuurinclusieve landbouw.",
+      "summary": "Oprichting Nationale Grondbank met eerste kooprecht",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Nationale Grondbank",
+        "eerste kooprecht",
+        "bedrijfsbeëindiging",
+        "natuurinclusieve landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 52",
+      "originalQuote": "Daarom richten we een Nationale Grondbank op die bij bedrijfsbeëindiging het recht op eerste koop krijgt van grond en dieren- en emissierechten, waarna dit verpacht wordt aan boeren om bijvoorbeeld een voedselgemeenschap te starten of voor natuurinclusieve landbouw"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-036",
+      "text": "In 2030 komen 60% van onze eiwitten uit plantaardige bron en 40% uit dierlijke bron als tussendoel van de eiwittransitie.",
+      "summary": "60% plantaardige eiwitten in 2030",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eiwittransitie",
+        "plantaardige eiwitten",
+        "dierlijke eiwitten",
+        "voedsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 53",
+      "originalQuote": "We bevorederen de eiwittransitie, met als tussendoel dat in 2030 onze eiwitten voor 60% uit plantaardige bron komen en voor 40% uit dierlijke bron."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-037",
+      "text": "Er wordt gestart met de landelijke uitbouw van een nieuwe publieke voorziening voor goed en betaalbaar eten, in lijn met de initiatieven van de Volkskantine. Voor snackbarprijzen kunnen mensen hier biologische, plantaardige en verse gerechten kopen.",
+      "summary": "Landelijke uitbouw publieke voorziening voor goed eten",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "publieke voorziening",
+        "Volkskantine",
+        "biologisch voedsel",
+        "betaalbaar eten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 53",
+      "originalQuote": "We beginnen met de landelijke uitbouw van een nieuwe publieke voorziening voor goed en betaalbaar eten, in lijn met de initiatieven van de Volkskantine. Voor snackbarprijzen kunnen mensen hier biologische, plantaardige en verse gerechten kopen"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-038",
+      "text": "Alle kinderen kunnen alle werkdagen gratis naar kinderopvang en bso. In de tussentijd wordt een prijsplafond ingevoerd om kinderopvang toegankelijk te houden voor iedereen.",
+      "summary": "Gratis kinderopvang alle werkdagen, tussentijds prijsplafond",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "bso",
+        "werkdagen",
+        "prijsplafond"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 61",
+      "originalQuote": "ervoor dat alle kinderen alle dagen van de werkweek gratis naar de kinderopvang en de bso kunnen. In de tussentijd zorgen we er met een prijsplafond voor dat kinderopvang voor iedereen toegankelijk is."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-039",
+      "text": "Kinderopvang wordt ondergebracht in één cao voor het hele funderend onderwijs om personeelstekorten tegen te gaan.",
+      "summary": "Kinderopvang in cao funderend onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "cao",
+        "funderend onderwijs",
+        "personeelstekorten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 61",
+      "originalQuote": "Om de personeelstekorten tegen te gaan, brengen we de kinderopvang onder in één cao voor het hele funderend onderwijs."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-040",
+      "text": "Pedagogisch medewerkers in opleiding krijgen een minimale stagevergoeding van € 750 per maand.",
+      "summary": "Stagevergoeding pedagogisch medewerkers € 750",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pedagogisch medewerkers",
+        "stagevergoeding",
+        "euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 61",
+      "originalQuote": "Pedagogisch medewerkers in opleiding krijgen een minimale stagevergoeding van € 750 per maand."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-041",
+      "text": "In het hele primair onderwijs wordt een minimale stagevergoeding van € 750 per maand ingevoerd.",
+      "summary": "Stagevergoeding primair onderwijs € 750",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "primair onderwijs",
+        "stagevergoeding",
+        "euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 61",
+      "originalQuote": "We voeren in het hele primair onderwijs een minimale stagevergoeding in van € 750 per maand."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-042",
+      "text": "Zij-instromers die overstappen naar het onderwijs krijgen een overgangsvergoeding als zij terugvallen in inkomen.",
+      "summary": "Overgangsvergoeding zij-instromers onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zij-instromers",
+        "onderwijs",
+        "overgangsvergoeding",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 61",
+      "originalQuote": "Zij-instromers die de overstap naar het onderwijs maken, krijgen daarnaast een overgangsvergoeding als zij terugvallen in inkomen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-043",
+      "text": "Financiering voor gemeenten wordt ingezet voor gratis ontbijt en gratis lunch voor leerlingen die niet naar huis gaan.",
+      "summary": "Financiering gratis ontbijt en lunch op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "financiering",
+        "gemeenten",
+        "ontbijt",
+        "lunch"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 61-62",
+      "originalQuote": "We zetten in op financiering voor gemeenten zodat gratis ontbijt wordt aangeboden en een gratis lunch voor leerlingen die niet naar huis gaan."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-044",
+      "text": "Op scholen is alleen nog gezond en verantwoord voedsel verkrijgbaar.",
+      "summary": "Alleen gezond voedsel op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scholen",
+        "gezond voedsel",
+        "verantwoord"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 62",
+      "originalQuote": "In alle scholen is alleen nog maar gezond en verantwoord voedsel te krijgen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-045",
+      "text": "Salarissen van onderwijspersoneel op scholen met veel kwetsbare kinderen worden structureel verhoogd.",
+      "summary": "Hogere salarissen personeel kwetsbare scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salarissen",
+        "onderwijspersoneel",
+        "kwetsbare kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 62",
+      "originalQuote": "We verhogen de salarissen van onderwijspersoneel op scholen met veel kwetsbare kinderen structureel."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-046",
+      "text": "Publiek gefinancierde scholen mogen niet meer samenwerken met commerciële bijlesorganisaties.",
+      "summary": "Verbod samenwerking commerciële bijles",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "publieke scholen",
+        "commerciële bijlesorganisaties",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 62",
+      "originalQuote": "Publiek gefinancierde scholen mogen niet meer samenwerken met commerciële bijlesorganisaties"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-047",
+      "text": "Commerciële bijlesinstituten gaan omzetbelasting betalen net als andere bedrijven.",
+      "summary": "Omzetbelasting commerciële bijlesinstituten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "commerciële bijlesinstituten",
+        "omzetbelasting",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 62",
+      "originalQuote": "Commerciële bijlesinstituten gaan net als andere bedrijven omzetbelasting betalen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-048",
+      "text": "Het gebruik van software in onderwijs die leerlingen onopvallend volgt wordt verboden.",
+      "summary": "Verbod tracking-software onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "software",
+        "onderwijs",
+        "tracking",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 63",
+      "originalQuote": "Het gebruik van software in het onderwijs die je (on-)opvallend volgt wordt verboden."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-049",
+      "text": "Voor alle stages, ook hbo en universiteit, wordt een minimale stagevergoeding ingevoerd.",
+      "summary": "Minimale stagevergoeding alle opleidingsniveaus",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stages",
+        "stagevergoeding",
+        "hbo",
+        "universiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 64",
+      "originalQuote": "Voor alle stages, ook voor hbo'ers of de universiteit, voeren we een minimale stagevergoeding in."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-050",
+      "text": "Het bindend studieadvies wordt omgezet naar een niet-bindend advies.",
+      "summary": "Bindend studieadvies wordt niet-bindend",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend studieadvies",
+        "niet-bindend advies"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 64",
+      "originalQuote": "Dat doen we onder meer door van het bindend studieadvies een niet bindend advies te maken."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-051",
+      "text": "Een landelijk Eerste Generatie Studiefonds wordt opgericht voor studenten die als eerste in hun gezin een theoretische opleiding volgen.",
+      "summary": "Eerste Generatie Studiefonds oprichting",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studiefonds",
+        "eerste generatie",
+        "theoretische opleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 64",
+      "originalQuote": "We richten een landelijk Eerste Generatie Studiefonds op voor studenten die de eerste in hun gezin zijn die een theoretische opleiding volgen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-052",
+      "text": "Het eigen risico wordt stapsgewijs afgeschaft. Het vrijwillig eigen risico verdwijnt helemaal.",
+      "summary": "Afschaffing eigen risico zorgverzekering",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen risico",
+        "afschaffing",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 66",
+      "originalQuote": "We schaffen het eigen risico stapsgewijs af. Het vrijwillig eigen risico verdwijnt helemaal."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-053",
+      "text": "Mondzorg, fysiotherapie en andere noodzakelijke zorg worden stapsgewijs teruggebracht in het basispakket.",
+      "summary": "Mondzorg en fysiotherapie in basispakket",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mondzorg",
+        "fysiotherapie",
+        "basispakket",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 66",
+      "originalQuote": "Mondzorg, fysiotherapie en andere vormen van noodzakelijke zorg brengen we stapsgewijs terug in het basispakket"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-054",
+      "text": "De eigen bijdrage voor kraamzorg of poliklinische bevalling wordt afgeschaft.",
+      "summary": "Afschaffing eigen bijdrage kraamzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen bijdrage",
+        "kraamzorg",
+        "poliklinische bevalling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 66",
+      "originalQuote": "De eigen bijdrage voor kraamzorg of een poliklinische bevalling schaffen we af."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-055",
+      "text": "Er wordt een grens gesteld aan het aantal zzp'ers dat zorginstelling maximaal mag inhuren.",
+      "summary": "Grens inhuur zzp'ers zorginstellingen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zzp'ers",
+        "zorginstelling",
+        "grens",
+        "inhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 66",
+      "originalQuote": "We stellen een grens aan het aantal zzp'ers dat een zorginstelling maximaal mag inhuren."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-056",
+      "text": "Medisch specialisten komen in loondienst onder de Wet normering topinkomens (Wnt).",
+      "summary": "Medisch specialisten in loondienst onder Wnt",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "medisch specialisten",
+        "loondienst",
+        "Wnt",
+        "topinkomens"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 66",
+      "originalQuote": "De medisch specialisten komen in loondienst en dat onder de Wet normering topinkomens (Wnt)."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-057",
+      "text": "Zorgverzekeraars worden zodra mogelijk omgevormd tot publieke zorgfondsen.",
+      "summary": "Omvorming zorgverzekeraars tot publieke fondsen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgverzekeraars",
+        "publieke zorgfondsen",
+        "omvorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 66",
+      "originalQuote": "vormen zorgverzekeraars zodra dit mogelijk is om tot publieke zorgfondsen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-058",
+      "text": "De klassieke en sociale grondrechten gelden onverkort voor de inwoners van dit Caribische deel van Nederland.",
+      "summary": "Grondrechten gelden voor Caribisch Nederland",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondrechten",
+        "Caribisch Nederland",
+        "inwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 84",
+      "originalQuote": "De klassieke en sociale grondrechten gelden onverkort voor de inwoners van dit Caribische deel van Nederland."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-059",
+      "text": "Op St. Eustatius herstellen we zo snel mogelijk de volledige democratie.",
+      "summary": "Herstel democratie St. Eustatius",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "democratie",
+        "St. Eustatius",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 84",
+      "originalQuote": "Op St. Eustatius herstellen we zo snel mogelijk de volledige democratie."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-060",
+      "text": "We nemen alle belemmeringen voor de handel tussen de landen en eilanden van het Koninkrijk weg, al dan niet door invoering van een Douane-Unie.",
+      "summary": "Wegwerken handelsbelemmeringen Koninkrijk",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handel",
+        "Koninkrijk",
+        "Douane-Unie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 84",
+      "originalQuote": "We nemen alle belemmeringen voor de handel tussen de landen en eilanden van het Koninkrijk weg, al dan niet door invoering van een Douane-Unie."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-061",
+      "text": "In 2040 moet de EU klimaatneutraal zijn en voornamelijk gerecyclede en biobased grondstoffen gebruiken.",
+      "summary": "EU klimaatneutraal in 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "EU",
+        "klimaatneutraal",
+        "2040",
+        "grondstoffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 84",
+      "originalQuote": "In 2040 moet de EU klimaatneutraal zijn en voornamelijk gerecyclede en biobased grondstoffen gebruiken."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-062",
+      "text": "Daarom voldoen we vanaf 2024 structureel aan de afspraak binnen de NAVO om minstens 2% van het bruto nationaal inkomen te besteden aan defensie.",
+      "summary": "Defensie-uitgaven minimaal 2% BNI vanaf 2024",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "2024",
+        "2%",
+        "bruto nationaal inkomen",
+        "NAVO"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 87",
+      "originalQuote": "Daarom voldoen we vanaf 2024 structureel aan de afspraak binnen de NAVO om minstens 2% van het bruto nationaal inkomen te besteden aan defensie."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-063",
+      "text": "We zetten ons in voor terugdringing van het vetorecht in de Raad van Ministers, onder meer bij buitenlandbeleid en belastingen.",
+      "summary": "Terugdringen vetorecht Raad Ministers",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vetorecht",
+        "Raad van Ministers",
+        "buitenlandbeleid",
+        "belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 85",
+      "originalQuote": "We zetten ons in voor terugdringing van het vetorecht in de Raad van Ministers, onder meer bij buitenlandbeleid en belastingen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-064",
+      "text": "We willen de artikel 7-procedure verbeteren door onder andere de vereiste van unanimiteit te laten vallen.",
+      "summary": "Artikel 7-procedure zonder unanimiteit",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "artikel 7-procedure",
+        "unanimiteit",
+        "EU"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 85",
+      "originalQuote": "We willen de artikel 7-procedure, die kan leiden tot schorsing van het stemrecht van een lidstaat, verbeteren door onder andere de vereiste van unanimiteit te laten vallen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-065",
+      "text": "We pleiten voor een nieuwe, overkoepelende Europese antidiscriminatiewet.",
+      "summary": "Europese antidiscriminatiewet",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "antidiscriminatiewet",
+        "Europa",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 86",
+      "originalQuote": "Wij zetten ons daarom in voor een nieuwe, overkoepelende Europese antidiscriminatiewet."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-066",
+      "text": "Nederland pleit voor een Europees verbod op de handel in en met persoonsgegevens.",
+      "summary": "Verbod handel persoonsgegevens Europa",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbod",
+        "handel",
+        "persoonsgegevens",
+        "Europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 86",
+      "originalQuote": "Om de privacy en autonomie van burgers te beschermen, pleit Nederland voor een Europees verbod op de handel in en met persoonsgegevens."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-067",
+      "text": "We reserveren voor de gehele kabinetsperiode een steunpakket voor Oekraïne.",
+      "summary": "Steunpakket Oekraïne hele kabinetsperiode",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "steunpakket",
+        "Oekraïne",
+        "kabinetsperiode"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 87",
+      "originalQuote": "We reserveren voor de gehele kabinetsperiode een steunpakket voor Oekraïne."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-068",
+      "text": "We besteden minstens 0,7% van ons bruto nationaal inkomen aan internationale samenwerking.",
+      "summary": "0,7% BNI voor internationale samenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "0,7%",
+        "bruto nationaal inkomen",
+        "internationale samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 90",
+      "originalQuote": "We besteden minstens 0,7% van ons bruto nationaal inkomen aan internationale samenwerking, conform de internationale norm."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-069",
+      "text": "Het budget ontwikkelingssamenwerking wordt losgekoppeld van fluctuaties in het budget voor asielopvang.",
+      "summary": "Budget ontwikkeling losgekoppeld van asielopvang",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "ontwikkelingssamenwerking",
+        "asielopvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 90",
+      "originalQuote": "Het budget ontwikkelingssamenwerking wordt daarom losgekoppeld van fluctuaties in het budget voor asielopvang."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-070",
+      "text": "Er komt een Nederlandse wet voor internationaal duurzaam en verantwoord ondernemen.",
+      "summary": "Nederlandse wet duurzaam ondernemen internationaal",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Nederlandse wet",
+        "duurzaam ondernemen",
+        "internationaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 91",
+      "originalQuote": "Om bedrijven te stimuleren meer inzicht te krijgen in hun waardeketens en eventuele misstanden daarin te voorkomen, komt er een Nederlandse wet voor internationaal duurzaam en verantwoord ondernemen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-071",
+      "text": "Er komt een Nederlandse wet voor internationaal duurzaam en verantwoord ondernemen, conform OESO-richtlijnen voor bedrijfszorgplicht",
+      "summary": "Nederlandse IMVO-wet conform OESO-richtlijnen invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "IMVO-wet",
+        "bedrijven",
+        "zorgplicht",
+        "OESO-richtlijnen",
+        "duurzaam ondernemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 92",
+      "originalQuote": "Om bedrijven te stimuleren meer inzicht te krijgen in hun waardeketens en eventuele misstanden daarin te voorkomen, komt er een Nederlandse wet voor internationaal duurzaam en verantwoord ondernemen. Deze wet dient in lijn te zijn met de door de OESO opgestelde richtlijn voor de zorgplicht van bedrijven."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-072",
+      "text": "Het belastingvoordeel voor expats (30%-regeling) wordt afgeschaft",
+      "summary": "Afschaffen 30%-regeling expats",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "belastingvoordeel",
+        "expats",
+        "30%-regeling",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 94",
+      "originalQuote": "We vinden het onwenselijk als buitenlandse werknemers vanwege belastingvoordelen naar Nederland komen. Daarom schaffen we het belastingvoordeel voor expats af."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-073",
+      "text": "Het minimumloon wordt verhoogd naar €16 per uur",
+      "summary": "Minimumloon verhogen naar €16 per uur",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "16 euro",
+        "loonverhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 93",
+      "originalQuote": "We verhogen het minimumloon naar € 16 per uur."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-074",
+      "text": "Werkgevers worden verplicht 85% van hun werknemers in vaste dienst te nemen via bestaande Wet allocatie arbeidskrachten door intermediairs",
+      "summary": "Werkgevers moeten 85% werknemers vast in dienst nemen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkgevers",
+        "85 procent",
+        "vaste dienst",
+        "wet allocatie arbeidskrachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 92-93",
+      "originalQuote": "We gebruiken de bestaande Wet allocatie arbeidskrachten door intermediairs om werkgevers te verplichten 85% van de werknemers in dienst te nemen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-075",
+      "text": "Er komt een vergunningsplicht voor uitzendbureaus die jaarlijks moet worden vernieuwd door een publieke instelling",
+      "summary": "Vergunningsplicht uitzendbureaus met jaarlijke vernieuwing",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningsplicht",
+        "uitzendbureaus",
+        "jaarlijks",
+        "publieke instelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 93-94",
+      "originalQuote": "We voeren een vergunningplicht voor uitzendbureaus in waarbij de vergunning wordt verleend door een publieke instelling en jaarlijks moet worden vernieuwd."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-076",
+      "text": "Alle gemeenten krijgen een wettelijke taak om evenredig bij te dragen aan opvang asielzoekers met kleinschalige voorzieningen",
+      "summary": "Wettelijke taak gemeenten voor evenredige asielopvang",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "wettelijke taak",
+        "asielopvang",
+        "evenredige spreiding",
+        "kleinschalig"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 94",
+      "originalQuote": "Daarom willen we dat alle gemeenten evenredig bijdragen aan de opvang van asielzoekers. Ze krijgen een wettelijke taak om voldoende kleinschalige opvangvoorzieningen te realiseren."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-077",
+      "text": "Asielzoekers mogen na zes maanden volledig aan het werk zonder tewerkstellingsvergunning en beperking van 24 weken per jaar",
+      "summary": "Asielzoekers na 6 maanden volledig aan het werk",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "zes maanden",
+        "werk",
+        "tewerkstellingsvergunning",
+        "24 weken beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 95",
+      "originalQuote": "Asielzoekers die na meer dan zes maanden nog in de procedure zitten, mogen volledig aan het werk. Er is geen tewerkstellingsvergunning meer nodig, net als bij Oekraïense ontheemden. Daarnaast schrappen we voor alle asielzoekers de beperking van maximaal 24 weken per jaar werken."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-078",
+      "text": "Er komt een Europees verbod op investeringen die biodiversiteit en ecosystemen ernstige schade toebrengen",
+      "summary": "Europees verbod op biodiversiteit-schadelijke investeringen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Europees verbod",
+        "investeringen",
+        "biodiversiteit",
+        "ecosystemen",
+        "schade"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 92",
+      "originalQuote": "Er moet een Europees verbod komen op investeringen die biodiversiteit en ecosystemen hier of elders in de wereld ernstige schade toebrengen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-079",
+      "text": "De Europese ontbossingsverordening wordt uitgebreid naar financiële instellingen",
+      "summary": "Ontbossingsverordening uitbreiden naar financiële instellingen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontbossingsverordening",
+        "financiële instellingen",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 92",
+      "originalQuote": "De Europese ontbossingsverordening gaat voortaan ook gelden voor financiële instellingen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-080",
+      "text": "Ecocide wordt erkend in het nationale en internationale strafrecht",
+      "summary": "Ecocide erkennen in nationaal en internationaal strafrecht",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ecocide",
+        "strafrecht",
+        "nationaal",
+        "internationaal",
+        "erkenning"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 92",
+      "originalQuote": "Ook erkennen we ecocide in het nationale en internationale strafrecht."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-081",
+      "text": "Nederland zal actief pushbacks en andere mensenrechtenschendingen aan de buitengrenzen tegengaan, door landen erop aan te spreken en de Europese Commissie aan te sporen op handhaving.",
+      "summary": "Actief tegengaan pushbacks en mensenrechtenschendingen aan EU-buitengrenzen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pushbacks",
+        "mensenrechtenschendingen",
+        "buitengrenzen",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 98-99",
+      "originalQuote": "Nederland zal actief pushbacks en andere mensenrechtenschendingen aan de buitengrenzen tegengaan, door landen erop aan te spreken en de Europese Commissie aan te sporen op handhaving."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-082",
+      "text": "Geen EU-financiering voor grensbeleid dat mensenrechten schendt. Nederland detacheert alleen grenswachten voor Frontex-operaties die geen risico lopen op medeplichtigheid aan mensenrechtenschendingen.",
+      "summary": "Geen EU-financiering voor mensenrechtenschendend grensbeleid",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "EU-financiering",
+        "grensbeleid",
+        "Frontex-operaties",
+        "mensenrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 98-99",
+      "originalQuote": "We willen geen EU-financiering voor grensbeleid dat mensenrechten schendt. Nederland detacheert alleen grenswachten voor Frontex-operaties die geen risico lopen op medeplichtigheid aan mensenrechtenschendingen"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-083",
+      "text": "Als het niet lukt om overeenstemming te bereiken in Europa over een rechtvaardig en effectief asielbeleid, zullen we met een 'coalition of the willing' afspraken maken.",
+      "summary": "Coalition of the willing voor rechtvaardig asielbeleid",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coalition",
+        "asielbeleid",
+        "Europa",
+        "afspraken"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 98-99",
+      "originalQuote": "Als het niet lukt om overeenstemming te bereiken in Europa over een rechtvaardig en effectief asielbeleid, zullen we met een 'coalition of the willing' afspraken maken."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-084",
+      "text": "Extra investeren in goede opvang in de regio met perspectief op een betere toekomst, inclusief werk, onderwijs en deelname aan de samenleving voor vluchtelingen.",
+      "summary": "Extra investeringen in regionale opvang vluchtelingen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale",
+        "opvang",
+        "vluchtelingen",
+        "werk",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 98-99",
+      "originalQuote": "Daarom investeren we extra in goede opvang, met perspectief op een betere toekomst. We willen mensen die worden opgevangen in staat stellen een toekomst op te bouwen, inclusief werk, onderwijs en deelname aan de samenleving."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-085",
+      "text": "NGO's die mensen redden gaan we niet criminaliseren. We maken ons in Europa hard voor grotere reddingscapaciteit op zee.",
+      "summary": "Niet-criminaliseren NGO's en grotere reddingscapaciteit op zee",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "NGO's",
+        "criminaliseren",
+        "reddingscapaciteit",
+        "zee"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 98-99",
+      "originalQuote": "We gaan ngo's die mensen redden niet criminaliseren: een helpende hand slaan we niet in de boeien. [...] We maken ons in Europa hard voor grotere reddingscapaciteit op zee."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-086",
+      "text": "De afspraken met Tunesië moeten van tafel. Nederland zet zich in Europees verband in voor het stopzetten van de migratiesamenwerking met Libië totdat de detentiecentra van migranten zijn gesloten.",
+      "summary": "Afspraken Tunesië van tafel, stopzetten migratiesamenwerking Libië",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Tunesië",
+        "afspraken",
+        "Libië",
+        "migratiesamenwerking",
+        "detentiecentra"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 98-99",
+      "originalQuote": "De afspraken met Tunesië moeten van tafel. Daarnaast zet Nederland zich in Europees verband in voor het stopzetten van de migratiesamenwerking met Libië totdat de detentiecentra van migranten zijn gesloten"
+    },
+    {
+      "promiseCode": "GLPVDA-2023-087",
+      "text": "Belasting op inkomen uit arbeid verlagen, betaald met een eerlijke bijdrage van mensen met veel vermogen en bedrijven die winst maken.",
+      "summary": "Verlagen belasting arbeidsinkomen, financiering via vermogenden en winstgevende bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsinkomen",
+        "belasting",
+        "vermogen",
+        "winst",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 102",
+      "originalQuote": "We maken werken lonend, door de belasting op inkomen uit arbeid te verlagen. Dat betalen we met een eerlijke bijdrage van mensen met veel vermogen en bedrijven die winst maken."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-088",
+      "text": "Fiscale kortingen en aftrekposten sterk vereenvoudigen, afbouwen of afschaffen, zoals de expatkorting, de innovatiebox, de bedrijfsopvolgingsregeling en de hypotheekrenteaftrek.",
+      "summary": "Afschaffen/afbouwen fiscale kortingen zoals expatkorting en innovatiebox",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fiscale",
+        "kortingen",
+        "expatkorting",
+        "innovatiebox",
+        "hypotheekrenteaftrek"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 102",
+      "originalQuote": "We gaan deze aftrekposten en kortingen sterk vereenvoudigen, afbouwen of afschaffen. Denk bijvoorbeeld aan de expatkorting, de innovatiebox, de bedrijfsopvolgingsregeling, of de hypotheekrenteaftrek."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-089",
+      "text": "Invoeren van een hoger toptarief voor topinkomens en een miljonairsbelasting voor mensen met vermogens boven € 1 miljoen (waarbij de waarde van het eigen huis niet wordt meegerekend).",
+      "summary": "Hoger toptarief en miljonairsbelasting vanaf € 1 miljoen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toptarief",
+        "miljonairsbelasting",
+        "vermogen",
+        "miljoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 102",
+      "originalQuote": "We introduceren een hoger toptarief voor topinkomens. [...] Ook voeren we een miljonairsbelasting in voor mensen met vermogens boven € 1 miljoen (waarbij de waarde van het eigen huis niet wordt meegerekend)."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-090",
+      "text": "De koning, koningin en oud-koningin gaan net als de rest van Nederland belasting betalen over hun inkomsten en vermogen.",
+      "summary": "Koninklijke familie gaat belasting betalen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koning",
+        "koningin",
+        "belasting",
+        "inkomsten",
+        "vermogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 102",
+      "originalQuote": "De koning, koningin en oud-koningin gaan net als de rest van Nederland belasting betalen over hun inkomsten en vermogen."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-091",
+      "text": "Invoeren van een internationale financiële transactietaks om uitwassen van de handel in financiële producten te ontmoedigen en de financiële sector een eerlijke bijdrage te laten leveren.",
+      "summary": "Internationale financiële transactietaks invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transactietaks",
+        "financiële",
+        "sector",
+        "internationale"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 102",
+      "originalQuote": "Met een internationale financiële transactietaks willen we de uitwassen van de handel in financiële producten ontmoedigen en de financiële sector een eerlijke bijdrage laten leveren."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-092",
+      "text": "Invoeren van een belasting over de digitale omzet van techbedrijven, zodat ze eerlijk bijdragen aan de samenleving.",
+      "summary": "Digitale omzetbelasting voor techbedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "digitale",
+        "omzetbelasting",
+        "techbedrijven",
+        "techgiganten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 102",
+      "originalQuote": "We voeren een belasting in over de digitale omzet van techbedrijven, zodat ze eerlijk bijdragen aan de samenleving."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-093",
+      "text": "Afbouwen van vrijstellingen en fiscale subsidies voor grootgebruikers en producenten van fossiele energie.",
+      "summary": "Afbouw fossiele subsidies en vrijstellingen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fossiele",
+        "subsidies",
+        "vrijstellingen",
+        "grootgebruikers"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 103",
+      "originalQuote": "Vrijstellingen en fiscale subsidies voor grootgebruikers en producenten van fossiele energie bouwen we af."
+    },
+    {
+      "promiseCode": "GLPVDA-2023-094",
+      "text": "Belasten van overwinsten van olie- en gasbedrijven voor een groot deel weg en gebruiken dit geld voor bijvoorbeeld het compenseren van energiearmoede of voor de verduurzaming van huizen.",
+      "summary": "Overwinsten olie- en gasbedrijven belasten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overwinsten",
+        "olie",
+        "gasbedrijven",
+        "energiearmoede",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks-PvdA 2023, p. 103",
+      "originalQuote": "We belasten dit soort overwinsten voortaan voor een groot deel weg en gebruiken dit geld voor bijvoorbeeld het compenseren van energiearmoede of voor de verduurzaming van huizen."
+    }
+  ]
+}

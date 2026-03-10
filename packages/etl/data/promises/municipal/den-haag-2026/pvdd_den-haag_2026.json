@@ -1,0 +1,3566 @@
+{
+  "party": "Partij voor de Dieren",
+  "partySlug": "pvdd",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Verkiezingsprogramma Partij voor de Dieren Den Haag 2026",
+  "electionYear": 2026,
+  "sourceFile": "pvdd_den-haag_2026.pdf",
+  "extractedAt": "2026-03-03T12:53:29.299Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "Een ambitieus klimaatplan opstellen met bijbehorend budget, concrete afrekenbare tussendoelen en snelle bijstelling als doelen niet gehaald dreigen te worden.",
+      "originalText": "Er komt een ambitieus klimaatplan met bijbehorend budget. Er komen concrete, afrekenbare tussendoelen en we stellen snel bij als die doelen niet gehaald dreigen te worden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "klimaatplan",
+        "budget",
+        "tussendoelen"
+      ]
+    },
+    {
+      "text": "Een herstelplan voor de biodiversiteit opstellen.",
+      "originalText": "Ook wordt er een herstelplan voor de biodiversiteit opgesteld.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "biodiversiteit",
+        "herstelplan",
+        "natuur"
+      ]
+    },
+    {
+      "text": "Den Haag zo snel mogelijk klimaat-neutraal maken, met 2030 als uitgangspunt.",
+      "originalText": "Daarom moet Den Haag zo snel mogelijk klimaat-neutraal zijn, met 2030 als uitgangspunt.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "klimaat-neutraal",
+        "2030",
+        "klimaatdoelen"
+      ]
+    },
+    {
+      "text": "Een wethouder voor Klimaat & Biodiversiteit benoemen.",
+      "originalText": "Er komt een wethouder voor Klimaat & Biodiversiteit. Als wij meedoen in een coalitie, willen wij de wethouder leveren die dit als portefeuille heeft.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wethouder",
+        "klimaat",
+        "biodiversiteit"
+      ]
+    },
+    {
+      "text": "Al het beleid toetsen op duurzaamheid in een duurzaamheidsparagraaf, waarin gevolgen voor dieren, natuur, milieu en klimaat worden beschreven.",
+      "originalText": "Al het beleid wordt getoetst op duurzaamheid in een duurzaamheidsparagraaf, waarin de gevolgen voor dieren, natuur, milieu en klimaat worden beschreven.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "duurzaamheidstoets",
+        "beleid",
+        "milieu"
+      ]
+    },
+    {
+      "text": "Stichting Duurzaam Den Haag omvormen tot een echt expertisecentrum Biodiversiteit en Duurzaamheid waar inwoners en bedrijven gratis onafhankelijk advies kunnen vragen.",
+      "originalText": "De stichting Duurzaam Den Haag wordt een echt expertisecentrum Biodiversiteit en Duurzaamheid, waar inwoners en bedrijven gratis, onafhankelijk advies kunnen vragen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "expertisecentrum",
+        "advies",
+        "duurzaamheid"
+      ]
+    },
+    {
+      "text": "Den Haag ondersteunt huurders die hun woning willen verduurzamen met energiecoaches, energieadviseurs, juridische bijstand en gratis energiescans.",
+      "originalText": "Den Haag ondersteunt huurders die hun woning willen (laten) verduurzamen, onder andere met energiecoaches en -adviseurs. Gemeente en huurder doen dit in onderhandeling met de verhuurder. Wanneer dit nodig is, biedt de gemeente juridische bijstand. Ook verstrekt de gemeente gratis energiescans en worden inwoners en bedrijven in staat gesteld de ecologische voetafdruk te meten.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "energiecoaches",
+        "energieadviseurs",
+        "verduurzamen",
+        "energiescans"
+      ]
+    },
+    {
+      "text": "De gemeente maakt per wijk een concreet transitieplan met inwoners voor energiebesparing, duurzame energie-opwekking en biodiversiteitsversterking.",
+      "originalText": "Iedere wijk heeft een eigen karakter en specifieke uitdagingen. Daarom maakt de gemeente in samenwerking met inwoners en relevante partners per wijk een concreet transitieplan. Hierin staan plannen voor energiebesparing en de opwekking en opslag van duurzame energie en warmte en wordt gekeken hoe de biodiversiteit van de buurt versterkt kan worden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "transitieplan",
+        "energiebesparing",
+        "duurzame energie",
+        "biodiversiteit"
+      ]
+    },
+    {
+      "text": "Den Haag stelt een geloot en representatief burgerberaad in dat het stadsbestuur adviseert over klimaatneutraal worden.",
+      "originalText": "De transitie naar een klimaatneutraal Den Haag geven we samen vorm. Daarom stelt Den Haag een burgerberaad in. Dit burgerberaad is geloot en representatief voor de inwoners van Den Haag. Via het burgerberaad adviseren inwoners, met ondersteuning van experts en creatievelingen, het Haagse stadsbestuur over oplossingen om klimaatneutraal te worden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "burgerberaad",
+        "klimaatneutraal",
+        "burgerparticipatie"
+      ]
+    },
+    {
+      "text": "Bomen planten en natuurgebieden verbinden om de Stedelijke Groene Hoofdstructuur uit te breiden, naar het voorbeeld van de Vlietweide van 13 hectare.",
+      "originalText": "Weg met de kettingzaag! In plaats van bomen kappen gaan we bomen planten en natuurgebieden verbinden. Op die manier wordt de Stedelijke Groene Hoofdstructuur uitgebreid. Een groot succes van de Partij voor de Dieren is de Vlietweide, waarbij er een natuurgebied van 13 hectare wordt gerealiseerd in de Vlietzone.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bomen planten",
+        "natuurgebieden",
+        "groene hoofdstructuur"
+      ]
+    },
+    {
+      "text": "De uitbreiding van de natuur tussen de Bosjes van Pex en Wapendal voortzetten als voorbeeld voor meer ecologische verbindingszones.",
+      "originalText": "De uitbreiding van de natuur tussen de Bosjes van Pex en Wapendal gaat door de inzet van de Partij voor de Dieren door. Dit dient als voorbeeld voor meer uitbreiding van ecologische verbindingszones.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "natuuruitbreiding",
+        "bosjes van pex",
+        "wapendal",
+        "ecologische verbindingszones"
+      ]
+    },
+    {
+      "text": "Voor alle bouw- en klimaatplannen wordt zo vroeg mogelijk in het proces een natuurtoets uitgevoerd.",
+      "originalText": "Voor alle bouw- en klimaatplannen wordt zo vroeg mogelijk in het proces een natuurtoets uitgevoerd. Hiermee worden kansen benut en bedreigingen voor aanwezige planten en dieren voorkomen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "natuurtoets",
+        "bouwplannen",
+        "klimaatplannen"
+      ]
+    },
+    {
+      "text": "Bouwplannen krijgen van Den Haag een CO2-budget tijdens de bouwfasen met een limiet aan uit te stoten broeikasgassen.",
+      "originalText": "Bouwplannen krijgen van Den Haag een CO2-budget tijdens de bouwfasen. Dat betekent dat er een limiet wordt gesteld aan de hoeveelheid uit te stoten broeikasgassen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "co2-budget",
+        "bouwplannen",
+        "broeikasgassen"
+      ]
+    },
+    {
+      "text": "Extra investeren in isolatie, energiecoaches en gratis energiescans in Schilderswijk, Transvaal, Laak, Mariahoeve en Zuidwest.",
+      "originalText": "Onder andere in de Schilderswijk, Transvaal, Laak, Mariahoeve en Zuidwest investeren we extra in isolatie, energiecoaches en gratis energiescans. Zo helpen we ook in deze wijken de inwoners een betaalbare stap te maken naar een schoon en duurzaam Den Haag.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "isolatie",
+        "energiecoaches",
+        "schilderswijk",
+        "transvaal",
+        "energiescans"
+      ]
+    },
+    {
+      "text": "Alle sociale huurwoningen goed isoleren en verduurzamen, met bindende doelen voor woningcorporaties zoals Haag Wonen, Staedion en Arcade.",
+      "originalText": "Alle sociale huurwoningen worden goed geïsoleerd en verduurzaamd. Indien nodig krijgen de woningcorporaties (zoals Haag Wonen, Staedion, Hof Wonen en Arcade) daarvoor middelen en bindende doelen voorgeschreven vanuit de gemeente.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sociale huurwoningen",
+        "isoleren",
+        "woningcorporaties",
+        "bindende doelen"
+      ]
+    },
+    {
+      "text": "De onroerendezaakbelasting verhogen voor een rechtvaardige energietransitie om te investeren in verduurzaming van huizen met lage energielabels.",
+      "originalText": "Den Haag heeft een lage onroerendezaakbelasting. Voor een rechtvaardige energietransitie wordt de onroerendezaakbelasting verhoogd. Zo kan geïnvesteerd worden in het verduurzamen van de huizen met de laagste energielabels.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onroerendezaakbelasting",
+        "verhogen",
+        "energietransitie",
+        "energielabels"
+      ]
+    },
+    {
+      "text": "Gemeentelijke initiatieven voor duurzame energieopwekking zijn voor ten minste 50% lokaal eigendom zodat omwonenden meeprofitieren.",
+      "originalText": "Gemeentelijke initiatieven voor duurzame opwek zijn voor ten minste 50% lokaal eigendom. Zo delen omwonenden in de opbrengsten en hebben zij een stem in hoe en waar de energie wordt opgewekt.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "50% lokaal eigendom",
+        "duurzame energieopwekking",
+        "omwonenden"
+      ]
+    },
+    {
+      "text": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Den Haag ten minste 65% minder energie dan in 1990.",
+      "originalText": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Den Haag ten minste 65% minder energie dan in peiljaar 1990. De gemeente stelt hiertoe een ambitieus Actieplan Besparen op met controleerbare tussendoelen waarop kan worden bijgestuurd.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "2030",
+        "65% minder energie",
+        "actieplan besparen"
+      ]
+    },
+    {
+      "text": "Een proef beginnen met straatverlichting die werkt op sensoren om lichtvervuiling te voorkomen en energie te besparen.",
+      "originalText": "Den Haag begint een proef met straatverlichting die werkt op sensoren. Als de sensoren mensen 'zien' gaat de verlichting aan. Dit voorkomt lichtvervuiling en bespaart energie en kosten.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "straatverlichting",
+        "sensoren",
+        "lichtvervuiling",
+        "energiebesparing"
+      ]
+    },
+    {
+      "text": "Zonnepanelen en groen worden de norm op daken, gevels, geluidswallen en boven parkeerplaatsen van particulieren, VvE's, corporaties en bedrijven.",
+      "originalText": "Den Haag heeft ontzettend veel dakoppervlak en daardoor een groot potentieel voor groene energie. Zonnepanelen en groen worden de norm op daken, gevels, geluidswallen en boven parkeerplaatsen. Particulieren, VvE's, woningcorporaties en bedrijven worden gestimuleerd en ondersteund om hierin te investeren.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zonnepanelen",
+        "daken",
+        "gevels",
+        "parkeerplaatsen"
+      ]
+    },
+    {
+      "text": "Alle nieuwe panden worden energiepositief en wekken meer energie op dan ze gebruiken.",
+      "originalText": "Alle nieuwe panden worden energiepositief en wekken meer energie op dan ze gebruiken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "energiepositief",
+        "nieuwe panden",
+        "energie opwekken"
+      ]
+    },
+    {
+      "text": "Een halt toeroepen aan WarmtelinQ en niet investeren in warmte- en/of koudenetten gevoed door restwarmte uit fossiele industrie, bio-industrie of biomassacentrales.",
+      "originalText": "Er wordt niet geïnvesteerd in warmte- en/of koudenetten die gevoed worden door restwarmte uit de fossiele industrie, bio-industrie of biomassacentrales. We roepen daarom in ieder geval een halt toe aan WarmtelinQ.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "warmtelinq",
+        "warmtenet",
+        "fossiele industrie",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "Investeren in duurzame lage-temperatuurbronnen zoals warmtepompen, warmte- en koudeopslag, bodemwarmte en aquathermie.",
+      "originalText": "We gebruiken duurzame lage-temperatuurbronnen om woningen en andere gebouwen te verwarmen. Naast warmtepompen wordt er geïnvesteerd in warmte- en koudeopslag, bodemwarmte en warmte uit water (aquathermie) of zout (warmtebatterij).",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "warmtepompen",
+        "bodemwarmte",
+        "aquathermie",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Werken aan aardwarmteprojecten op de Binckhorst en in Mariahoeve en het tijdelijke warmtenet in Moerwijk vervangen door permanente duurzame energie.",
+      "originalText": "Ook werken we aan aardwarmteprojecten op de Binckhorst en in Mariahoeve. Het tijdelijke warmtenet in Moerwijk wordt vervangen door permanente duurzame energie.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "binckhorst",
+        "mariahoeve",
+        "moerwijk",
+        "aardwarmte",
+        "warmtenet"
+      ]
+    },
+    {
+      "text": "Bijdragen aan het verzwaren van het elektriciteitsnet en het groen sparen bij de aanleg van nieuwe hoogspanningsstations en transformatorhuisjes.",
+      "originalText": "Den Haag draagt bij aan het verzwaren van het net en spaart het groen bij de aanleg van nieuwe hoogspanningsstations en transformatorhuisjes.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "elektriciteitsnet",
+        "hoogspanningsstations",
+        "transformatorhuisjes",
+        "groen sparen"
+      ]
+    },
+    {
+      "text": "Samenwerken met ROC-Mondriaan om (om)scholingstrajecten voor energietransitie te ontwerpen en promoten.",
+      "originalText": "Den Haag werkt samen met lokale mbo-instellingen zoals ROC-Mondriaan om (om)scholingstrajecten te ontwerpen en promoten.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "roc-mondriaan",
+        "omscholing",
+        "energietransitie",
+        "mbo"
+      ]
+    },
+    {
+      "text": "Mede-eigenaar worden van een publiek warmtebedrijf en investeren in lokale buurtnetten voor duurzame warmtebronnen.",
+      "originalText": "Door mede-eigenaar te worden van een publiek warmtebedrijf zet Den Haag in op uitsluitend duurzame warmtebronnen met zo laag mogelijke gebruikskosten voor inwoners. Als de gemeente eigenaar wordt van een bestaand bedrijf, kan het daarnaast ook investeren in en mede-eigenaar worden van lokale buurtnetten om zo deze initiatieven van de grond te krijgen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "warmtebedrijf",
+        "buurtnetten",
+        "mede-eigenaar",
+        "duurzame warmte"
+      ]
+    },
+    {
+      "text": "In het omgevingsplan wijken aanwijzen die overgaan op duurzame warmtevoorziening en de regierol pakken.",
+      "originalText": "De gemeente wijst in het omgevingsplan wijken aan die overgaan op een duurzame warmtevoorziening en pakt daarin haar regierol.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "omgevingsplan",
+        "wijken",
+        "duurzame warmtevoorziening",
+        "regierol"
+      ]
+    },
+    {
+      "text": "Alle gemeentelijke gebouwen in 2030 klimaatneutraal, natuurinclusief en fossielvrij maken, waaronder het Kunstmuseum en stadhuis.",
+      "originalText": "De ambitie is om alle gemeentelijke gebouwen in 2030 klimaatneutraal, natuurinclusief en fossielvrij te maken. Hier wordt dankzij de Partij voor de Dieren flink in geïnvesteerd. Hier gaan we mee door. We pakken bijvoorbeeld het Kunstmuseum en het stadhuis snel aan.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "2030",
+        "gemeentelijke gebouwen",
+        "klimaatneutraal",
+        "kunstmuseum",
+        "stadhuis"
+      ]
+    },
+    {
+      "text": "Zakelijke reizen die binnen twaalf uur afgelegd kunnen worden, per trein of duurzaam alternatief laten plaatsvinden.",
+      "originalText": "Zakelijke reizen die binnen twaalf uur afgelegd kunnen worden, gaan daarom per trein of duurzaam alternatief.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zakelijke reizen",
+        "twaalf uur",
+        "trein",
+        "duurzaam"
+      ]
+    },
+    {
+      "text": "Iedere ambtenaar voor wie dat mogelijk is, minimaal 40% van de arbeidstijd thuis laten werken.",
+      "originalText": "Den Haag staat toe dat iedere ambtenaar voor wie dat gezien de werkzaamheden mogelijk is, in ieder geval 40% van de arbeidstijd thuiswerkt.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ambtenaren",
+        "40%",
+        "thuiswerken",
+        "arbeidstijd"
+      ]
+    },
+    {
+      "text": "Investeren in een gemeentelijk klimaatfonds waarmee inwoners en bedrijven klimaatmaatregelen kunnen treffen die worden voorgefinancierd.",
+      "originalText": "De gemeente gaat investeren in een gemeentelijk klimaatfonds. Inwoners en bedrijven kunnen eenvoudig klimaatmaatregelen treffen die betaald worden uit het fonds. De kosten worden dus voorgefinancierd en indien nodig gesubsidieerd.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "klimaatfonds",
+        "voorgefinanciering",
+        "klimaatmaatregelen",
+        "inwoners",
+        "bedrijven"
+      ]
+    },
+    {
+      "text": "Een verbod op het afsteken van consumentenvuurwerk instellen zolang het landelijke verbod nog niet van kracht is.",
+      "originalText": "Zolang het landelijke verbod op het afsteken van consumentenvuurwerk nog niet van kracht is stelt Den Haag een eigen verbod in. Dankzij de Partij voor de Dieren geldt dit verbod al rondom plekken waar dieren leven, zoals stadsboerderijen, parken, bossen, duinen.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "vuurwerkverbod",
+        "consumentenvuurwerk",
+        "verbod instellen"
+      ]
+    },
+    {
+      "text": "Een hitteplan voor gehouden dieren opstellen met maatregelen tegen hittestress zoals het plaatsen van schuilgelegenheden.",
+      "originalText": "Er komt een hitteplan voor gehouden dieren met maatregelen om hittestress te voorkomen, zoals het plaatsen van schuilgelegenheden. Voor de dieren op de stadsboerderijen worden bij extreme hitte ook maatregelen genomen (bijvoorbeeld sluiting) zodat de dieren geen extra stress beleven.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hitteplan",
+        "dieren",
+        "hittestress",
+        "schuilgelegenheden"
+      ]
+    },
+    {
+      "text": "De gemeente stopt met het faciliteren en promoten van visserij. De visserij op Scheveningen wordt afgebouwd.",
+      "originalText": "Het leegvissen van de zee gaat gepaard met veel dierenleed. De gemeente stopt daarom met het faciliteren en promoten van visserij. De visserij op Scheveningen moet worden afgebouwd.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "visserij",
+        "scheveningen",
+        "afbouwen",
+        "faciliteren"
+      ]
+    },
+    {
+      "text": "In Den Haag komen geen vis- en insectenkwekerijen.",
+      "originalText": "In Den Haag komen geen vis- en insectenkwekerijen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "viskwekerijen",
+        "insectenkwekerijen",
+        "verbod"
+      ]
+    },
+    {
+      "text": "De gemeente verbiedt het houden van honingbijen op openbare grond en beperkt elders het aantal honingbijenvolken via een vergunningsplicht.",
+      "originalText": "De gemeente verbiedt het houden van honingbijen op openbare grond, beperkt elders het aantal honingbijenvolken via een vergunningsplicht en informeert inwoners over de ecologische en diervriendelijke bezwaren van bijenteelt.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "honingbijen",
+        "verbod",
+        "vergunningsplicht",
+        "openbare grond"
+      ]
+    },
+    {
+      "text": "Hengelen wordt verboden in gemeentelijke wateren.",
+      "originalText": "Hengelen wordt verboden in gemeentelijke wateren. Zolang er nog wel gehengeld wordt, komen er hengelvrije gebieden en heeft het welzijn van vissen bij alle hengelaars prominente aandacht.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hengelen",
+        "verbod",
+        "gemeentelijke wateren"
+      ]
+    },
+    {
+      "text": "Het leefgebied van dieren in het Haagse Bos wordt vergroot door het overkluizen van de Utrechtsebaan en versmallen en vergroenen van de Laan van NOI en de Benoordenhoutseweg.",
+      "originalText": "Het leefgebied van dieren in het Haagse Bos wordt vergroot door het overkluizen van de Utrechtsebaan en versmallen en vergroenen van de Laan van NOI en de Benoordenhoutseweg.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haagse bos",
+        "overkluizen",
+        "utrechtsebaan",
+        "vergroenen"
+      ]
+    },
+    {
+      "text": "Bij drukke wegen zorgt de gemeente voor de aanleg van groenstroken, ecoducten, veilige oversteekplaatsen voor dieren en gaat de maximumsnelheid omlaag.",
+      "originalText": "Bij drukke wegen zorgt de gemeente voor de aanleg van groenstroken, ecoducten, veilige oversteekplaatsen voor dieren en gaat de maximumsnelheid omlaag.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ecoducten",
+        "groenstroken",
+        "maximumsnelheid",
+        "oversteekplaatsen"
+      ]
+    },
+    {
+      "text": "Den Haag gebruikt zelf geen gif en bestrijdingsmiddelen en ontmoedigt gebruik ervan door bedrijven en inwoners.",
+      "originalText": "Den Haag gebruikt zelf geen gif en bestrijdingsmiddelen en ontmoedigt gebruik ervan door bedrijven en inwoners vanwege het zeer negatieve effect op natuur, biodiversiteit, dierenwelzijn en menselijke gezondheid.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gif",
+        "bestrijdingsmiddelen",
+        "verbod",
+        "biodiversiteit"
+      ]
+    },
+    {
+      "text": "Nieuwe hondenlosloopgebieden toevoegen in Zuidwest en Laak, rekening houdend met natuurwaarden.",
+      "originalText": "Er komen voldoende veilige uitlaatplekken en losloopgebieden voor honden. Zo zijn er dankzij de Partij voor de Dieren hondenlosloopgebieden op de Kamperfoeliestraat en de Voorthuizenstraat verbeterd. Ook worden er nieuwe gebieden toegevoegd in Zuidwest en Laak. Bij het aanwijzen van locaties wordt rekening gehouden met de natuurwaarden van het gebied.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hondenlosloopgebieden",
+        "zuidwest",
+        "laak"
+      ]
+    },
+    {
+      "text": "Den Haag faciliteert, subsidieert en organiseert geen activiteiten met levende dieren.",
+      "originalText": "Den Haag faciliteert, subsidieert en organiseert geen activiteiten met levende dieren.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "activiteiten",
+        "levende dieren",
+        "subsidie"
+      ]
+    },
+    {
+      "text": "Evenementen met dieren zoals paardenmarkten, circussen en vogelshows worden verboden zodra dit wettelijk mogelijk is.",
+      "originalText": "Evenementen waarbij dieren worden verkocht of tentoongesteld, zoals paardenmarkten, circussen en (roof)vogelshows, worden verboden zodra dit wettelijk mogelijk is. Tot die tijd voert Den Haag een ontmoedigingsbeleid met een vergunningsplicht.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "evenementen",
+        "paardenmarkten",
+        "circussen",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Op markten, beurzen en evenementen worden geen levende dieren verkocht.",
+      "originalText": "Op markten, beurzen en evenementen worden geen levende dieren verkocht.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "markten",
+        "beurzen",
+        "levende dieren",
+        "verkoop"
+      ]
+    },
+    {
+      "text": "Den Haag geeft geen subsidie aan dierentuinen of vergunningen voor nieuwe dierentuinen.",
+      "originalText": "Den Haag geeft geen subsidie aan dierentuinen of vergunningen voor nieuwe dierentuinen, zoals Sealife en Avonturia.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidie",
+        "dierentuinen",
+        "vergunningen"
+      ]
+    },
+    {
+      "text": "Stedelijke Groene Hoofdstructuur versterken, uitbreiden en beschermen voor robuuste natuur.",
+      "originalText": "Den Haag heeft een Stedelijke Groene Hoofdstructuur, die we versterken, uitbreiden en beschermen. Zo wordt de natuur robuust en kunnen kwetsbare ecosystemen zich herstellen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stedelijke groene hoofdstructuur",
+        "versterken",
+        "uitbreiden",
+        "beschermen"
+      ]
+    },
+    {
+      "text": "Versneld alle knelpunten in de twaalf ecologische verbindingszones aanpakken.",
+      "originalText": "We pakken versneld alle knelpunten in de twaalf ecologische verbindingszones, die de grote groengebieden verbinden, aan. Ook voorkomen we nieuwe knelpunten en kijken we naar mogelijkheden om de Stedelijke Groene Hoofdstructuur uit te breiden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ecologische verbindingszones",
+        "knelpunten",
+        "aanpakken"
+      ]
+    },
+    {
+      "text": "De gemeente komt met een natuurverordening die ecologische hotspots beschermt bij ruimtelijke ontwikkelingen.",
+      "originalText": "De gemeente komt met een natuurverordening. Daarin worden ecologische 'hotspots' benoemd die worden beschermd bij ruimtelijke ontwikkelingen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "natuurverordening",
+        "ecologische hotspots",
+        "beschermen"
+      ]
+    },
+    {
+      "text": "Natura 2000-gebieden uitbreiden en versterken door exoten verwijderen en recreatiedruk verminderen.",
+      "originalText": "De gemeente zet in op het versterken van de natuur daar en gaat deze gebieden uitbreiden. Zo investeren we flink in deze gebieden door bijvoorbeeld exoten te verwijderen en de recreatiedruk op plekken te verminderen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "natura 2000",
+        "uitbreiden",
+        "exoten",
+        "recreatiedruk"
+      ]
+    },
+    {
+      "text": "Parkeerplekken bij het Zwarte Pad laten verdwijnen om Natura 2000-gebieden te beschermen.",
+      "originalText": "We beschermen de Natura 2000-gebieden tegen schadelijke effecten van toerisme. Zo verdwijnen parkeerplekken bij het Zwarte Pad en dringen we bij Wassenaar aan op het beperken van het autoverkeer van de overige ingangen van Meijendel.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplekken",
+        "zwarte pad",
+        "natura 2000"
+      ]
+    },
+    {
+      "text": "Mensvrije zones in natuurgebieden creëren voor rust en herstel van dier en natuur.",
+      "originalText": "Er komen mensvrije zones in natuurgebieden. Dier en natuur hebben ook rust en beschermgebieden nodig. De natuur moet zich kunnen herstellen en ontwikkelen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mensvrije zones",
+        "natuurgebieden",
+        "rust",
+        "herstel"
+      ]
+    },
+    {
+      "text": "Extra capaciteit vrijmaken voor beter beheer en meer bescherming van grote groengebieden.",
+      "originalText": "Onze grote groengebieden, zoals bijvoorbeeld het Zuiderpark, de Uithof, Landgoed Meer en Bos en Clingendael verdienen beter beheer en meer bescherming. De gemeente maakt hier extra capaciteit voor vrij om de gebieden schoon te houden en investeert in ecologisch onderhoud.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groengebieden",
+        "extra capaciteit",
+        "ecologisch onderhoud"
+      ]
+    },
+    {
+      "text": "Expert aanwijzen als voogd om de stem van de natuur te vertegenwoordigen.",
+      "originalText": "De natuur verdient een stem en een eigen plek aan de onderhandelingstafel. Net als op plekken in andere landen erkennen we in Den Haag de principes van de rechten van de natuur. Door een expert aan te wijzen als voogd vertegenwoordigt deze de stem van de natuur en alle daarin levende wezens.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "expert",
+        "voogd",
+        "stem van de natuur"
+      ]
+    },
+    {
+      "text": "Den Haag ondertekent het Stop Ecocide Manifest tegen grootschalige schade aan natuur.",
+      "originalText": "Den Haag erkent ecocide – de grootschalige schade, vernietiging of het verlies van natuur en ecosystemen – en zet zich in om dit binnen haar grondgebied te voorkomen. Den Haag ondertekent daarom het Stop Ecocide Manifest.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stop ecocide manifest",
+        "ondertekenen",
+        "ecocide"
+      ]
+    },
+    {
+      "text": "Handhaving op schade aan bomen versterken, BOA's en boswachters letten hier actief op.",
+      "originalText": "De handhaving op schade aan bomen bij werkzaamheden en in de openbare ruimte wordt versterkt en boa's, boswachters en groenbeheerders letten hier actief op tijdens hun reguliere surveillance. Het wordt bovendien makkelijker voor bewoners om schade of misstanden direct te melden bij de groenbeheerders per stadsdeel.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhaving",
+        "schade aan bomen",
+        "boa's",
+        "boswachters"
+      ]
+    },
+    {
+      "text": "Inheemse en klimaatbestendige gifvrije zaden, bloemen en planten gebruiken voor biodiversiteit.",
+      "originalText": "De gemeente gebruikt inheemse en klimaatbestendige gifvrije zaden, bloemen en planten die worden geselecteerd op hun bijdrage aan de plaatselijke biodiversiteit.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "inheemse planten",
+        "klimaatbestendig",
+        "gifvrij",
+        "biodiversiteit"
+      ]
+    },
+    {
+      "text": "Den Haag voert ecologisch maaibeleid uit en plant biologische en inheemse planten in openbaar groen om biodiversiteit en ecologie te versterken.",
+      "originalText": "Den Haag biedt een voedingsbodem aan inheemse planten door ecologisch maaibeleid. Waar nodig plant en zaait de gemeente biologische en inheemse planten in het openbaar groen om zo de biodiversiteit en de ecologie te versterken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ecologisch maaibeleid",
+        "inheemse planten",
+        "biodiversiteit"
+      ]
+    },
+    {
+      "text": "Den Haag begint met kweken van inheemse, biologische bloemen, bomen en heesters, al dan niet met lokale onderwijsinstellingen zoals Yuverta.",
+      "originalText": "Den Haag begint, al dan niet met lokale onderwijsinstellingen zoals Yuverta, met het kweken van inheemse, biologische bloemen, bomen en heesters.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kweken",
+        "inheemse planten",
+        "yuverta"
+      ]
+    },
+    {
+      "text": "Er komen meer faunapassages zoals eekhoornbruggen en veilige tunnels, ook in de Vlietzone, zodat dieren zich beter kunnen verplaatsen.",
+      "originalText": "Er komen meer faunapassages van het buitengebied naar de bebouwde omgeving, zoals eekhoornbruggen en veilige tunnels, waardoor dieren zich beter kunnen verplaatsen. Ook in de Vlietzone komen faunapassages.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "faunapassages",
+        "eekhoornbruggen",
+        "vlietzone"
+      ]
+    },
+    {
+      "text": "Over de Lozerlaan wordt een ecoduct aangelegd dat ook dient voor fietsers en voetgangers om de Uithof met het Zuiderpark te verbinden.",
+      "originalText": "Over de Lozerlaan leggen we een ecoduct aan dat ook dient voor fietser en voetganger. Op die manier wordt de Uithof verbonden met het Zuiderpark.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ecoduct",
+        "lozerlaan",
+        "uithof",
+        "zuiderpark"
+      ]
+    },
+    {
+      "text": "De criteria voor kapvergunningen worden aangescherpt, herplantplicht wordt streng gehandhaafd en illegale kap wordt niet langer gedoogd.",
+      "originalText": "We scherpen criteria voor kapvergunningen flink aan. Zowel voor particuliere als gemeentelijke bomen. De herplantplicht voor te kappen bomen wordt streng gehandhaafd en illegale kap wordt niet langer gedoogd.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kapvergunningen",
+        "herplantplicht",
+        "illegale kap"
+      ]
+    },
+    {
+      "text": "De heffing voor kapvergunningen wordt minstens kostendekkend, zodat wie meer bomen wil kappen meer gaat betalen.",
+      "originalText": "De heffing voor kapvergunningen wordt minstens kostendekkend. Wie meer bomen wil kappen, gaat meer betalen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "heffing",
+        "kapvergunningen",
+        "kostendekkend"
+      ]
+    },
+    {
+      "text": "Den Haag gebruikt alle wettelijke middelen om verkoop en gebruik van chemische pesticiden tegen te gaan en gebruikt zelf geen gif.",
+      "originalText": "Den Haag gebruikt alle wettelijke middelen om de verkoop en het gebruik van gif (chemische pesticiden zoals herbiciden, insecticiden en fungiciden) tegen te gaan. Hierin geeft Den Haag zelf het goede voorbeeld door geen gif te gebruiken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pesticiden",
+        "gif",
+        "wettelijke middelen"
+      ]
+    },
+    {
+      "text": "De gemeente wijst wijken en gebieden aan die gifvrij moeten zijn en legt dit vast in het omgevingsplan.",
+      "originalText": "De gemeente wijst wijken en gebieden aan die gifvrij moeten zijn – zoals natuurgebieden of het gebied rond scholen, ziekenhuizen en verzorgingstehuizen – en legt dit vast in het omgevingsplan.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gifvrije wijken",
+        "omgevingsplan",
+        "natuurgebieden"
+      ]
+    },
+    {
+      "text": "Den Haag beheert het openbaar groen ecologisch en zorgt dat uitvoerders specifieke kennis hebben voor ecologisch beheer.",
+      "originalText": "Den Haag beheert het openbaar groen op ecologische wijze. De gemeente zorgt ervoor dat uitvoerders van het groenonderhoud in het bezit zijn van specifieke kennis voor ecologisch beheer.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ecologisch beheer",
+        "openbaar groen",
+        "uitvoerders"
+      ]
+    },
+    {
+      "text": "Het groenbudget gaat omhoog om groengebieden zoals Zuiderpark, Uithof en Scheveningse Bosjes beter te onderhouden.",
+      "originalText": "Het onderhoudsbudget voor groen is in Den Haag te laag. Daardoor liggen groengebieden, zoals het Zuiderpark, de Uithof en de Scheveningse Bosjes, er soms treurig bij. Het groenbudget gaat daarom omhoog.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groenbudget",
+        "zuiderpark",
+        "uithof",
+        "scheveningse bosjes"
+      ]
+    },
+    {
+      "text": "De gemeentelijke begraafplaatsen Westduin en Kerkhoflaan worden ecologisch beheerd voor biodiversiteit.",
+      "originalText": "De gemeentelijke begraafplaatsen Westduin en Kerkhoflaan worden daarom ecologisch beheerd.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "begraafplaatsen",
+        "westduin",
+        "kerkhoflaan",
+        "ecologisch beheer"
+      ]
+    },
+    {
+      "text": "Er wordt een grens gesteld aan de maximale hoeveelheid verharding in tuinen en op terreinen.",
+      "originalText": "Er wordt een grens gesteld aan de maximale hoeveelheid verharding in tuinen en op terreinen, zodat overtollig water kan worden opgenomen in de grond, hittestress wordt tegengegaan en de biodiversiteit versterkt.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verharding",
+        "tuinen",
+        "grens"
+      ]
+    },
+    {
+      "text": "Den Haag geeft korting op de rioolheffing als inwoners hemelwater op eigen terrein verwerken door afkoppelen van regenpijpen.",
+      "originalText": "Den Haag geeft korting op de rioolheffing als inwoners hemelwater op eigen terrein verwerken. Dit kan door het afkoppelen van regenpijpen en gebruik te maken van bijvoorbeeld een wadi, infiltratiesysteem en/of een regenton.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rioolheffing",
+        "korting",
+        "hemelwater",
+        "regenpijpen"
+      ]
+    },
+    {
+      "text": "In een hemelwaterverordening wordt afkoppeling van regenwater op het riool voor nieuwbouwprojecten verplicht gesteld.",
+      "originalText": "In een hemelwaterverordening wordt de afkoppeling van regenwater op het riool voor nieuwbouwprojecten verplicht gesteld, waardoor het regenwater in de grond kan lopen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hemelwaterverordening",
+        "nieuwbouw",
+        "afkoppeling regenwater"
+      ]
+    },
+    {
+      "text": "Toiletspoeling met regenwater wordt het uitgangspunt in alle nieuwbouw.",
+      "originalText": "Toiletspoeling met regenwater wordt het uitgangspunt in alle nieuwbouw.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toiletspoeling",
+        "regenwater",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Maatregelen nemen om plastic in oppervlaktewater te voorkomen en plastic troep tijdig uit het water halen.",
+      "originalText": "De gemeente neemt maatregelen om te voorkomen dat plastic in het oppervlaktewater terechtkomt en zorgt ervoor dat plastic troep tijdig uit het water wordt gehaald.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "plastic",
+        "oppervlaktewater",
+        "waterkwaliteit"
+      ]
+    },
+    {
+      "text": "Vervuilende bedrijven mogen zich niet vestigen of uitbreiden als dit de waterkwaliteit en het milieu verslechtert.",
+      "originalText": "Vervuilende bedrijven – denk aan bedrijven die hoge concentraties aan giftige stoffen als stikstof en fosfaat uitstoten of plastic (zoals nurdles) dumpen – mogen zich niet vestigen of uitbreiden als dit de waterkwaliteit en het milieu verslechtert.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vervuiling",
+        "bedrijven",
+        "waterkwaliteit",
+        "vestiging"
+      ]
+    },
+    {
+      "text": "Voldoende plekken langs vaarwater creëren voor vaartuigen om afvalwater op het riool te lozen.",
+      "originalText": "De gemeente zorgt dat er langs vaarwater, bijvoorbeeld in havens, voldoende plekken zijn voor vaartuigen om hun afvalwater op het riool te lozen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vaarwater",
+        "haven",
+        "afvalwater",
+        "riool"
+      ]
+    },
+    {
+      "text": "Geen steun via inkoop of subsidies aan bedrijven die vervuilend zijn voor grond- en oppervlaktewater.",
+      "originalText": "Den Haag geeft geen steun via inkoop of subsidies aan bedrijven die vervuilend zijn voor ons grond- en oppervlaktewater, zoals sierteelt, de vee-industrie en andere industrieën.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidies",
+        "inkoop",
+        "vervuiling",
+        "grondwater"
+      ]
+    },
+    {
+      "text": "Operatie Steenbreek voortzetten waarbij tegels in de wijk worden vervangen door bloemen, planten of struiken.",
+      "originalText": "Operatie Steenbreek, waarbij tegels in de wijk worden vervangen door bloemen, planten of struiken, wordt voortgezet.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "operatie steenbreek",
+        "tegels",
+        "vergroening",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Een ambitieuze groennorm maken waar maatregelen uit verschillende bewezen effectieve groennormen worden toegepast.",
+      "originalText": "De gemeente maakt een ambitieuze groennorm waar maatregelen uit verschillende bewezen effectieve groennormen worden toegepast. Dit kan Den Haag doen door het radicaal vergroenen van gebouwen, straten en pleinen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groennorm",
+        "vergroenen",
+        "gebouwen",
+        "straten"
+      ]
+    },
+    {
+      "text": "Elke buurt krijgt minstens 75 m² publiek groen per woning.",
+      "originalText": "Elke buurt verdient minstens 75 m² publiek groen per woning. In Den Haag voldoet op dit moment slechts 24% van de buurten aan die norm.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "75 m²",
+        "publiek groen",
+        "woning",
+        "buurten"
+      ]
+    },
+    {
+      "text": "Iedereen heeft vanuit huis uitzicht op minimaal drie bomen, minimaal 30% kroonbedekking in de wijk en op maximaal 300 meter een park.",
+      "originalText": "Iedereen heeft in Den Haag vanuit het huis uitzicht op minimaal drie bomen, er is minimaal 30% kroonbedekking in de wijk en er is op maximaal 300 meter een park, natuurgebied of een groene koele plek.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "drie bomen",
+        "30% kroonbedekking",
+        "300 meter",
+        "park"
+      ]
+    },
+    {
+      "text": "Versteende parkeerplaatsen veranderen in groene parkeerplaatsen met grasbetontegels van 50% vegetatie en 50% beton.",
+      "originalText": "Den Haag verandert versteende parkeerplaatsen in 'groene' parkeerplaatsen, bijvoorbeeld in de vorm van grasbetontegels. Dit wil zeggen dat ze uit 50% vegetatie en 50% beton/steen bestaan.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplaatsen",
+        "grasbetontegels",
+        "50% vegetatie",
+        "50% beton"
+      ]
+    },
+    {
+      "text": "Zinloze verharding bij Het Plein, Grote Markstraat en winkelcentrum Leyweg vervangen door biodivers inheems groen.",
+      "originalText": "Alle zinloze verharding, zoals bij Het Plein, bij de Grote Markstraat en omgeving, en bij de openbare ruimte bij winkelcentrum Leyweg wordt vervangen door biodivers inheems groen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "het plein",
+        "grote markstraat",
+        "leyweg",
+        "biodivers groen"
+      ]
+    },
+    {
+      "text": "Subsidieregeling en ondersteuning voor groene schoolpleinen voortzetten en uitbreiden.",
+      "originalText": "Dankzij de inzet van de Partij voor de Dieren worden schoolpleinen standaard groener, we gaan door met deze subsidieregeling en ondersteuning van scholen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolpleinen",
+        "subsidieregeling",
+        "groen",
+        "scholen"
+      ]
+    },
+    {
+      "text": "Versteende wijken zoals Schilderswijk, Scheveningen, Transvaal, Laak, Centrum en Duindorp als eerste vergroenen.",
+      "originalText": "De meest versteende wijken gaan we als eerst vergroenen. In wijken zoals de Schilderswijk, Scheveningen, Transvaal, Laak, Centrum, en Duindorp zijn mooie stappen gezet dankzij onze inzet, maar is nog steeds de nood hoog voor extra bomen, groene gevels en kleinschalige parkjes.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "schilderswijk",
+        "scheveningen",
+        "transvaal",
+        "laak",
+        "vergroenen"
+      ]
+    },
+    {
+      "text": "Samen met HTM inzetten op verdere vergroening van trambanen en benutten van vrijkomende tramlussen voor natuur.",
+      "originalText": "De gemeente gaat daarnaast samen met de HTM inzetten op verdere vergroening van trambanen en het voor natuur benutten van vrijkomende tramlussen",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "htm",
+        "trambanen",
+        "tramlussen",
+        "vergroening"
+      ]
+    },
+    {
+      "text": "Bij herinrichting van straten en stoepen worden standaard geveltuinen aangelegd waar mogelijk.",
+      "originalText": "Bij herinrichting van straten en stoepen worden, waar mogelijk, standaard geveltuinen aangelegd.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "herinrichting",
+        "straten",
+        "stoepen",
+        "geveltuinen"
+      ]
+    },
+    {
+      "text": "In armere wijken zoals Transvaal, Schilderswijk en Moerwijk fruit- en notenbomen aanplanten in publieke groene ruimtes.",
+      "originalText": "Zo beginnen we in de armere wijken zoals Transvaal, Schilderswijk en Moerwijk met het aanplanten van fruit- en notenbomen in publieke groene ruimtes.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "transvaal",
+        "schilderswijk",
+        "moerwijk",
+        "fruitbomen",
+        "notenbomen"
+      ]
+    },
+    {
+      "text": "Bij aanleg van nieuwe woonwijken of bedrijventerreinen wordt altijd evenredig extra groen aangelegd.",
+      "originalText": "Bij aanleg van nieuwe woonwijken of bedrijventerreinen wordt altijd evenredig extra groen aangelegd.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonwijken",
+        "bedrijventerreinen",
+        "groen",
+        "aanleg"
+      ]
+    },
+    {
+      "text": "Bij nieuwe woningen of bedrijfspanden zijn groene daken, gevels en tuinen de nieuwe standaard.",
+      "originalText": "Bij nieuwe woningen of bedrijfspanden zijn groene daken, gevels en tuinen de nieuwe standaard. We zorgen voor nestgelegenheid en slaap- en schuilplekken voor dieren.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groene daken",
+        "groene gevels",
+        "nieuwbouw",
+        "standaard"
+      ]
+    },
+    {
+      "text": "Jaarlijks onderzoek doen naar aanwezigheid en spreiding van flora en fauna en beleid hierop afstemmen.",
+      "originalText": "Daarom onderzoekt Den Haag jaarlijks de aanwezigheid en spreiding van flora en fauna. Het beleid, van groenbeleid tot bouwvergunningen, wordt hierop afgestemd zodat de verscheidenheid en de staat van soorten gemonitord en beschermd kunnen worden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jaarlijks onderzoek",
+        "flora",
+        "fauna",
+        "monitoring"
+      ]
+    },
+    {
+      "text": "Subsidies voor inwoners uitbreiden om tuinen te vergroenen met groene gevels, geveltuintjes en groene daken.",
+      "originalText": "We gaan via voorlichting en subsidies inwoners verder motiveren om hun tuinen te vergroenen. Denk hierbij aan het aanleggen van groene gevels, geveltuintjes, natuurvijvers, regentonnen en groene daken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidies",
+        "tuinen vergroenen",
+        "groene gevels",
+        "groene daken"
+      ]
+    },
+    {
+      "text": "Een tegeltaxi instellen zodat gewipte tegels opgehaald kunnen worden door de gemeente.",
+      "originalText": "De gemeente zorgt ervoor dat 'gewipte' tegels opgehaald kunnen worden door een tegeltaxi.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "tegeltaxi",
+        "gewipte tegels",
+        "ophalen",
+        "service"
+      ]
+    },
+    {
+      "text": "Parkeerplaatsen omvormen naar natuur om stikstofuitstoot te verlagen, zoals bij Kijkduin en Scheveningen",
+      "originalText": "De stikstofuitstoot wordt verlaagd door autoverkeer te ontmoedigen en parkeerplaatsen om te vormen naar natuur, zoals bij Kijkduin als op Scheveningen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplaatsen",
+        "natuur",
+        "stikstofuitstoot",
+        "kijkduin",
+        "scheveningen"
+      ]
+    },
+    {
+      "text": "Alternatief zoeken voor vuurstapels op Scheveningen, Duindorp en in Laak vanwege schadelijke gevolgen",
+      "originalText": "Er wordt een alternatief gezocht voor de vuurstapels op Scheveningen, Duindorp en in Laak vanwege de schadelijke gevolgen voor het milieu en de gezondheid van mensen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vuurstapels",
+        "alternatief",
+        "scheveningen",
+        "duindorp",
+        "laak"
+      ]
+    },
+    {
+      "text": "Strandbevoorrading uitstootvrij maken voor zover dit nog niet het geval is",
+      "originalText": "Strandbevoorrading wordt, voor zover dit nog niet het geval is, uitstootvrij.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "strandbevoorrading",
+        "uitstootvrij",
+        "strand"
+      ]
+    },
+    {
+      "text": "Indicatoren van brede welvaart leidend maken in beleid in plaats van economische groeicijfers",
+      "originalText": "Den Haag maakt indicatoren van brede welvaart leidend in het beleid, zoals milieu, gezondheid, welzijn, een goede balans tussen werk en privé, wonen, veiligheid, onderwijs, materiële welvaart, maatschappelijke betrokkenheid, sociale relaties en banen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "brede welvaart",
+        "indicatoren",
+        "beleid",
+        "groeicijfers"
+      ]
+    },
+    {
+      "text": "Aandeel in de UFA verkopen",
+      "originalText": "De gemeente Den Haag gaat haar aandeel in de UFA verkopen.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ufa",
+        "aandeel",
+        "verkopen"
+      ]
+    },
+    {
+      "text": "Bedrijventerrein aan de Westvlietweg niet uitbreiden en kiezen voor groen en recreatie",
+      "originalText": "Het bedrijventerrein aan de Westvlietweg wordt niet uitgebreid. De gemeente kiest hier voor groen en recreatie in plaats van meer verharding.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "westvlietweg",
+        "bedrijventerrein",
+        "groen",
+        "recreatie"
+      ]
+    },
+    {
+      "text": "100% circulair inkopen door de gemeente",
+      "originalText": "De gemeente geeft het goede voorbeeld en koopt 100% circulair in.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "circulair",
+        "inkoop",
+        "100%"
+      ]
+    },
+    {
+      "text": "Circulaire ambachtscentra opzetten waar milieustraat, kringloop en reparatie samenkomen",
+      "originalText": "Den Haag zet zich in om circulaire ambachtscentra op te zetten. Een ambachtscentrum is een vervanging van de reguliere milieustraat waar milieustraat, kringloop en reparatie samenkomen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ambachtscentra",
+        "circulair",
+        "milieustraat",
+        "kringloop",
+        "reparatie"
+      ]
+    },
+    {
+      "text": "Textielcontainers plaatsen waar textiel wordt ingezameld door sociale ondernemers",
+      "originalText": "De gemeente plaatst textielcontainers waar textiel wordt ingezameld door sociale ondernemers zoals de kringloopwinkel of kledingbank.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "textielcontainers",
+        "textiel",
+        "sociale ondernemers",
+        "kringloopwinkel"
+      ]
+    },
+    {
+      "text": "Bakken voor gescheiden afvalinzameling op loopafstand van woningen plaatsen en wormenhotels plaatsen.",
+      "originalText": "Afvalscheiding en hergebruik wordt voor inwoners zo eenvoudig mogelijk gemaakt, onder andere door bakken voor gescheiden afvalinzameling op loopafstand van woningen te plaatsen, door wormenhotels te plaatsen",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afvalscheiding",
+        "bakken",
+        "wormenhotels"
+      ]
+    },
+    {
+      "text": "Alle afvalscheidingsstations ook op zondag open stellen.",
+      "originalText": "alle afvalscheidingsstations ook op zondag open te stellen",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "afvalscheidingsstations",
+        "zondag",
+        "openingstijden"
+      ]
+    },
+    {
+      "text": "Meer handhaving bij afvalhotspots in Laak, Escamp en Scheveningen en hogere boetes voor illegaal dumpen.",
+      "originalText": "Er komt meer handhaving bij afvalhotspots zoals in Laak, Escamp en Scheveningen en op het illegaal dumpen van afval. Boetes worden hoger.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhaving",
+        "afval",
+        "boetes",
+        "illegaal dumpen"
+      ]
+    },
+    {
+      "text": "Gemeente stopt met het gebruik van wegwerpplastic en coördineert invoering van duurzame alternatieven.",
+      "originalText": "Het gebruik van wegwerpplastic wordt snel afgebouwd. De gemeente stopt met het gebruik ervan en speelt een coördinerende rol bij de invoering van duurzame alternatieven.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wegwerpplastic",
+        "duurzame alternatieven",
+        "afbouw"
+      ]
+    },
+    {
+      "text": "Verspreiden van plastic confetti en serpentine in de buitenlucht aan banden leggen.",
+      "originalText": "De gemeente moet ook het verspreiden van plastic confetti en serpentine in de buitenlucht aan banden leggen.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "plastic confetti",
+        "serpentine",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Jaarlijkse straatopruimdag organiseren.",
+      "originalText": "De gemeente organiseert een jaarlijkse straatopruimdag.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "straatopruimdag",
+        "jaarlijks",
+        "organiseren"
+      ]
+    },
+    {
+      "text": "Containertuintjes (ORACs) rondom afvalcontainers door de hele stad realiseren in samenwerking met bewoners.",
+      "originalText": "Den Haag zorgt in samenwerking met bewoners door de hele stad voor containertuintjes rondom afvalcontainers (ORACs). Dit maakt de stad groener en zorgt voor minder bijplaatsingen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "containertuintjes",
+        "orac",
+        "afvalcontainers"
+      ]
+    },
+    {
+      "text": "Doneerringen op prullenbakken plaatsen voor statiegeldverpakkingen.",
+      "originalText": "De gemeente plaatst doneerringen op prullenbakken waar statiegeldverpakkingen in geplaatst kunnen worden, zodat die niet bij het restafval belanden maar ingeleverd kunnen worden",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "doneerringen",
+        "prullenbakken",
+        "statiegeldverpakkingen"
+      ]
+    },
+    {
+      "text": "Den Haag stopt met reclame in de openbare ruimte, behalve overheidscampagnes, cultuur en goede doelen.",
+      "originalText": "Den Haag stopt met reclame in de openbare ruimte met uitzondering van overheidscampagnes, cultuur en goede doelen.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "reclame",
+        "openbare ruimte",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Reclamebelasting invoeren en lichtgevende reclamezuilen en geurverspreiding verbieden.",
+      "originalText": "Ook wordt er een reclamebelasting ingevoerd. Lichtgevende reclamezuilen en abri's die geur verspreiden worden verboden.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "reclamebelasting",
+        "lichtgevende reclame",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Evenementenplan opstellen met natuurbescherming, locaties, geluidsnormen en betrokkenheid omwonenden.",
+      "originalText": "De gemeente stelt een evenementenplan op. Daarin wordt onder andere aangegeven hoe de natuur beschermd wordt, wat evenementenlocaties zijn, wat voor soort evenementen hier welkom zijn, hoe vaak ze gebruikt mogen worden, wat daarna de herstelperiode is, hoe omwonenden betrokken worden en wat de maximale geluidsnormen zijn.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "evenementenplan",
+        "natuurbescherming",
+        "geluidsnormen"
+      ]
+    },
+    {
+      "text": "Geen nieuwe hotels of vakantieparken toestaan tot toerisme aanzienlijk is verlaagd.",
+      "originalText": "De gemeente staat geen nieuwe hotels of vakantieparken toe en vertrekkende hotels worden niet vervangen door nieuwe hotels tot het toerisme aanzienlijk is verlaagd.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "hotels",
+        "vakantieparken",
+        "bouwstop"
+      ]
+    },
+    {
+      "text": "Stoppen met investeringen in citymarketing en regiopromotie.",
+      "originalText": "Citymarketing en regiopromotie kosten veel geld dat beter aan duurzame doelen besteed kan worden. Den Haag stopt met investeringen hierin.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "citymarketing",
+        "regiopromotie",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "World Forum niet uitbreiden.",
+      "originalText": "World Forum breiden we niet uit.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "world forum",
+        "uitbreiding",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "Koop-lokaal-initiatief beginnen en gemeente koopt zelf zo veel mogelijk lokaal en regionaal in.",
+      "originalText": "De gemeente begint een koop-lokaal-initiatief en geeft zelf het goede voorbeeld door zo veel mogelijk lokaal en regionaal in te kopen.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "koop-lokaal",
+        "lokaal inkopen",
+        "regionaal"
+      ]
+    },
+    {
+      "text": "Scheveningen ontwikkelen als kenniscentrum van maritieme natuurversterking en biodiversiteitsherstel met ruimte voor betaalbare woningen.",
+      "originalText": "De visserij op Scheveningen moet worden afgebouwd. Scheveningen moet zich onder andere ontwikkelen als kenniscentrum van maritieme natuurversterking en biodiversiteitsherstel. Ook komt er ruimte voor betaalbare woningen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "scheveningen",
+        "betaalbare woningen",
+        "kenniscentrum"
+      ]
+    },
+    {
+      "text": "Vestigingseisen voor bedrijven aanpassen op basis van maatschappelijk verantwoord ondernemen.",
+      "originalText": "De norm wordt maatschappelijk verantwoord ondernemen. Bekeken wordt hoe vestigingseisen hierop kunnen worden aangepast.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vestigingseisen",
+        "maatschappelijk verantwoord ondernemen",
+        "bedrijven"
+      ]
+    },
+    {
+      "text": "Bij aanbestedingen voorrang geven aan werkplekken voor mensen met afstand tot de arbeidsmarkt.",
+      "originalText": "Bij aanbestedingen wordt extra aandacht besteed aan mensen met een afstand tot de arbeidsmarkt door waar mogelijk voorrang te geven aan aanbestedingen die zorgen voor werkplekken en leerwerkplekken voor praktisch geschoolden, mensen met een arbeidsbeperking, statushouders, mensen die re-integreren in de samenleving en oudere werkzoekenden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "aanbestedingen",
+        "werkplekken",
+        "arbeidsmarkt"
+      ]
+    },
+    {
+      "text": "Plan opstellen om te voorkomen dat armoede wordt doorgegeven van generatie op generatie.",
+      "originalText": "De gemeente komt met een plan om te voorkomen dat armoede wordt doorgegeven van generatie op generatie.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "armoede",
+        "generaties",
+        "plan"
+      ]
+    },
+    {
+      "text": "Stagiairs eerlijke vergoeding geven en eerlijk salaris waarborgen bij samenwerkingspartijen.",
+      "originalText": "De gemeente geeft als werkgever het goede voorbeeld en zorgt voor een eerlijk inkomen voor haar werknemers. Ook stagiairs krijgen een eerlijke vergoeding. Den Haag zorgt ervoor dat bij alle partijen waarmee wordt samengewerkt ook een eerlijk salaris betaald wordt.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "stagiairs",
+        "vergoeding",
+        "eerlijk salaris"
+      ]
+    },
+    {
+      "text": "Niet-betaald werk zoals vrijwilligerswerk erkennen als volwaardige participatie.",
+      "originalText": "Participatie is meer dan betaald werk. De gemeente erkent ook niet-betaald werk als participatie, zoals vrijwilligerswerk.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "participatie",
+        "vrijwilligerswerk",
+        "niet-betaald werk"
+      ]
+    },
+    {
+      "text": "Gemeentelijke voorzieningen voor mensen met laag inkomen uitbreiden, inclusief 300 euro per jaar voor dierenartskosten.",
+      "originalText": "De gemeentelijke voorzieningen voor mensen met een laag inkomen breiden we uit. Hierbij hoort ook financiële hulp voor mensen met een laag inkomen die huisdieren hebben, door onder andere korting te geven op dierenartskosten. Dankzij de Partij voor de Dieren is deze minimaregeling voor Ooivaarspashouders met dieren ingevoerd. Financiële kwetsbare huishoudens kunnen een tegemoetkoming krijgen van 300 euro per jaar voor dierenartskosten.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "voorzieningen",
+        "laag inkomen",
+        "dierenartskosten",
+        "300 euro"
+      ]
+    },
+    {
+      "text": "Normbedragen voor vermogen bij kwijtschelding gelijkstellen aan 130% van het sociaal minimum.",
+      "originalText": "De normbedragen voor vermogen die gelden voor kwijtschelding van de gemeentelijke belastingen en eigen bijdrage van de Wmo worden gelijkgesteld aan 130% van het sociaal minimum.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "normbedragen",
+        "kwijtschelding",
+        "130% sociaal minimum"
+      ]
+    },
+    {
+      "text": "Mensen met bijstandsuitkering mogen giften tot 50% van hun uitkering behouden zonder korting.",
+      "originalText": "Mensen met een bijstandsuitkering mogen giften tot 50% van hun uitkering behouden zonder hierdoor gekort te worden op hun uitkering.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bijstand",
+        "giften",
+        "50% uitkering"
+      ]
+    },
+    {
+      "text": "Lokaal broodfonds faciliteren voor zzp'ers.",
+      "originalText": "Zzp'ers lopen vaker het risico om in schulden en armoede te belanden omdat ze geen collectief vangnet hebben. Den Haag gaat een lokaal broodfonds faciliteren.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zzp'ers",
+        "broodfonds",
+        "vangnet"
+      ]
+    },
+    {
+      "text": "Meer investeren in sociale raadslieden voor laagdrempelige juridische hulp.",
+      "originalText": "De gemeente gaat laagdrempelige juridische hulp, zoals het inwinnen van advies over toeslagen of huurconflicten, faciliteren door meer te investeren in sociale raadslieden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "juridische hulp",
+        "sociale raadslieden",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Pilot starten met 'open hiring' waarbij iedereen welkom is voor bepaalde functies ongeacht verleden of opleiding.",
+      "originalText": "De gemeente start een pilot op basis van het principe van 'open hiring', waarbij iedereen voor bepaalde functies welkom is, ongeacht verleden, opleiding of ervaring.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pilot",
+        "open hiring",
+        "functies"
+      ]
+    },
+    {
+      "text": "Ouderschapsverlof uitbreiden voor alle ouders en rouwverlof en transitieverlof voor transgender medewerkers vastleggen.",
+      "originalText": "De gemeente breidt de duur en de vergoeding voor het ouderschapsverlof uit voor alle ouders en staat rouwverlof toe. Ook wordt transitieverlof voor transgender medewerkers vastgelegd.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ouderschapsverlof",
+        "rouwverlof",
+        "transitieverlof"
+      ]
+    },
+    {
+      "text": "Huisvesting van arbeidsmigranten strenger en frequenter inspecteren en verbeteren.",
+      "originalText": "Arbeidsmigranten werken vaak onder en leven vaak in ondermaatse omstandigheden. De manier waarop arbeidsmigranten worden gehuisvest wordt strenger en frequenter geïnspecteerd en wordt verbeterd.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "arbeidsmigranten",
+        "huisvesting",
+        "inspectie"
+      ]
+    },
+    {
+      "text": "Minimaal 40% sociale huur bij nieuwbouw, in gebieden met minder dan 30% sociale huur minimaal 50%.",
+      "originalText": "Er komen meer betaalbare woningen: minimaal 40% van de woningen is sociale huur. In gebieden waar momenteel minder dan 30% van de woningvoorraad uit sociale huurwoningen bestaat, geldt een minimum van 50% sociale huur bij nieuwbouw.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "sociale huur",
+        "40%",
+        "50%",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Stoppen met grootschalige sloop van sociale woningen zoals in de Dreven en op het Weigeliaplein.",
+      "originalText": "De gemiddelde wachttijd voor sociale woningen is ruim 6 jaar. Tegelijkertijd zijn er juist plannen om sociale woningen grootschalig te slopen, bijvoorbeeld in de Dreven en op het Weigeliaplein. Met dit soort plannen stoppen we.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sloop",
+        "sociale woningen",
+        "dreven",
+        "weigeliaplein"
+      ]
+    },
+    {
+      "text": "Visserij afbouwen en ruimte maken voor duurzame en betaalbare woningen bij de Haven.",
+      "originalText": "Er is een woningnood. Tegelijkertijd realiseren we geen woningen bij de Haven vanwege de vervuilende visserij. De visserij zorgt voor veel vervuiling, zorgt voor dierenleed en biedt relatief weinig werkgelegenheid. Den Haag bouwt dit af en maakt zo ruimte voor duurzame en betaalbare woningen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "visserij",
+        "afbouwen",
+        "haven",
+        "betaalbare woningen"
+      ]
+    },
+    {
+      "text": "Actief grondbeleid voeren door zelf grond in bezit te nemen voor betaalbare woningen.",
+      "originalText": "De gemeente voert een actief grondbeleid, wat wil zeggen dat de gemeente zelf grond in bezit neemt om zo betaalbare woningen te realiseren.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "grondbeleid",
+        "grond",
+        "betaalbare woningen"
+      ]
+    },
+    {
+      "text": "Bij verkoop van gemeentegrond komt er anti-speculatiebeding tegen exorbitante winsten van projectontwikkelaars en beleggers.",
+      "originalText": "Bij verkoop van gemeentegrond komt er anti-speculatiebeding, zodat projectontwikkelaars en beleggers niet exorbitante winsten maken over de rug van woningzoekenden.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeentegrond",
+        "anti-speculatiebeding",
+        "projectontwikkelaars"
+      ]
+    },
+    {
+      "text": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd.",
+      "originalText": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sociale huurwoningen",
+        "verkoop",
+        "liberalisering"
+      ]
+    },
+    {
+      "text": "Bij sloop en nieuwbouw moeten minimaal evenveel sociale huurwoningen en betaalbare koopwoningen worden teruggebouwd.",
+      "originalText": "Bij sloop en nieuwbouw van een wijk moeten er minimaal evenveel sociale huurwoningen en betaalbare koopwoningen worden teruggebouwd om verdrijving van mensen met lagere inkomens (gentrificatie) te voorkomen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sloop",
+        "nieuwbouw",
+        "sociale huurwoningen",
+        "betaalbare koopwoningen"
+      ]
+    },
+    {
+      "text": "De gemeente breidt het huurteam uit voor meer ondersteuning van huurders bij problemen.",
+      "originalText": "De gemeente Den Haag breidt het huurteam uit. Het huurteam helpt huurders bij problemen met hun huurwoning of de verhuurder. Zo kan het team meer huurders ondersteunen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huurteam",
+        "uitbreiding",
+        "huurders",
+        "ondersteuning"
+      ]
+    },
+    {
+      "text": "De gemeente breidt de pandbrigade uit voor sneller en strenger optreden tegen misstanden rond woningen.",
+      "originalText": "De gemeente breidt de pandbrigade daarom uit, zodat sneller en strenger wordt opgetreden tegen misstanden.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pandbrigade",
+        "uitbreiding",
+        "handhaving",
+        "misstanden"
+      ]
+    },
+    {
+      "text": "Het groepscontract wordt verboden om misstanden in de huursector te voorkomen.",
+      "originalText": "Het groepscontract wordt verboden om misstanden in de huursector te voorkomen. Iedere huurder krijgt een eigen huurcontract en daarmee een sterke rechtspositie.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groepscontract",
+        "verbod",
+        "huurcontract",
+        "rechtspositie"
+      ]
+    },
+    {
+      "text": "Er komt een stop op nieuwe hotels omdat ruimte nodig is voor huisvesting.",
+      "originalText": "Er komt een stop op nieuwe hotels. De ruimte in de stad is hard nodig voor huisvesting, niet voor steeds meer toeristen.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotels",
+        "stop",
+        "nieuwbouw",
+        "toerisme"
+      ]
+    },
+    {
+      "text": "De gemeente breidt het aantal standplaatsen voor woonwagens uit en realiseert extra standplaatsen bij Isabellaland en Brasserskade.",
+      "originalText": "De gemeente breidt het aantal standplaatsen voor woonwagens uit en werkt actief mee aan het vinden van locaties waar woonwagenbewoners, Roma en Sinti naar hun traditie kunnen leven. Daarom worden in ieder geval de extra standplaatsen bij Isabellaland en bij de Brasserskade met spoed gerealiseerd.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonwagens",
+        "standplaatsen",
+        "isabellaland",
+        "brasserskade"
+      ]
+    },
+    {
+      "text": "Er wordt niet gebouwd in het groen.",
+      "originalText": "Er wordt niet gebouwd in het groen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bouwen",
+        "groen",
+        "bescherming",
+        "natuur"
+      ]
+    },
+    {
+      "text": "Den Haag groeit tot 2030 met 25.000 inwoners naar 595.000 inwoners door woningen rond stations te bouwen.",
+      "originalText": "Den Haag groeit tot 2030 met 25.000 inwoners naar 595.000 inwoners. Deze groei wordt opgevangen door woningen rond de stations te bouwen en mag niet ten koste gaan van de leefbaarheid en het groen in Den Haag.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "groei",
+        "25000",
+        "595000",
+        "stations",
+        "woningbouw"
+      ]
+    },
+    {
+      "text": "Hoogbouw wordt geconcentreerd bij de drie grote intercity-stations Den Haag Centraal, Laan van NOI en Hollands Spoor.",
+      "originalText": "Hoogbouw bouwen we geconcentreerd bij grotere ov-voorzieningen, zoals rondom de drie grote intercity-stations Den Haag Centraal, Laan van NOI, en Hollands Spoor.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "hoogbouw",
+        "stations",
+        "den haag centraal",
+        "laan van noi",
+        "hollands spoor"
+      ]
+    },
+    {
+      "text": "De gemeente scherpt de regels voor hoogbouw aan: niet in het groen, niet aan de kust en niet ten koste van leefbaarheid. Hoogbouw moet voorzien zijn van minimaal één groene gevel.",
+      "originalText": "Om te zorgen dat hoogbouw duurzaam is en de leefbaarheid niet in gedrang komt, moet hoogbouw passen in de omgeving en voorzien zijn van minimaal één groene gevel. Ook andere vormen van beplanting zijn mogelijk. De gemeente scherpt de regels voor hoogbouw aan: niet in het groen, niet aan de kust en niet ten koste van leefbaarheid.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hoogbouw",
+        "regels",
+        "groene gevel"
+      ]
+    },
+    {
+      "text": "Bij het toevoegen van woningen worden altijd maatschappelijke voorzieningen zoals scholen, groenvoorzieningen, zorgcentra, openbaar vervoer, parken, speeltuinen en winkels toegevoegd.",
+      "originalText": "Bij het toevoegen van woningen worden altijd maatschappelijke voorzieningen zoals scholen, groenvoorzieningen, zorgcentra, openbaar vervoer, parken, speeltuinen en winkels toegevoegd. In bijvoorbeeld de Binckhorst en Vroondaal zijn bewoners nu de dupe van snelle bouw zonder voorzieningen: te weinig OV, te weinig groen, en nauwelijks ruimte om elkaar te ontmoeten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningen",
+        "maatschappelijke voorzieningen",
+        "scholen",
+        "parken"
+      ]
+    },
+    {
+      "text": "We stoppen met de nieuwbouwplannen van het Atlantic Hotel en de bouwplannen voor Park Bloemendaal (bij Parnassia).",
+      "originalText": "We stoppen daarom met de nieuwbouwplannen van het Atlantic Hotel en de bouwplannen voor Park Bloemendaal (bij Parnassia).",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "atlantic hotel",
+        "park bloemendaal",
+        "nieuwbouwplannen",
+        "stoppen"
+      ]
+    },
+    {
+      "text": "Den Haag onderzoekt het versneld afbouwen van vervuilende havenactiviteiten, zodat ruimte voor betaalbaar wonen, natuur en schone economie ontstaat.",
+      "originalText": "De haven stoot te veel stikstof uit en veroorzaakt serieuze milieuoverlast voor omwonenden en natuur. Den Haag onderzoekt het versneld afbouwen van vervuilende havenactiviteiten, zodat ruimte voor betaalbaar wonen, natuur en schone economie ontstaat.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "havenactiviteiten",
+        "afbouwen",
+        "betaalbaar wonen"
+      ]
+    },
+    {
+      "text": "Een leefbaarheidseffectrapportage (LER) wordt uitgevoerd bij alle grote bouwplannen.",
+      "originalText": "De gemeente gaat weer zélf regie voeren over de ontwikkelingen in de stad. Bij plannen in het CID, Zuidwest en de Binckhorst is meer aandacht voor burgerparticipatie, de openbare ruimte en noodzakelijke voorzieningen. Een leefbaarheidseffectrapportage (LER) wordt uitgevoerd bij alle grote bouwplannen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leefbaarheidseffectrapportage",
+        "ler",
+        "bouwplannen"
+      ]
+    },
+    {
+      "text": "Het Prins Bernhardviaduct, Schenkviaduct en de Waldorpstraat worden aangepakt en heringericht. Hierdoor ontstaat ruimte voor meer groen en woningbouw.",
+      "originalText": "Het Prins Bernhardviaduct, Schenkviaduct en de Waldorpstraat vormen grote barrières. Deze worden aangepakt en heringericht. Hierdoor ontstaat er ruimte voor meer groen en woningbouw.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "prins bernhardviaduct",
+        "schenkviaduct",
+        "waldorpstraat",
+        "herinrichting"
+      ]
+    },
+    {
+      "text": "Den Haag zet zich in voor behoud en herbestemming van kerken met maatwerk, zodat kerken ruimte bieden aan cultuur, ontmoeting of betaalbare woningen.",
+      "originalText": "Steeds meer Haagse kerken verliezen hun oorspronkelijke functie, en vaak ook dreigt de sloopkogel. Onder andere de Theresiakerk, de Valkenboskerk en de Bethelkerk laten zien hoe waardevol en beeldbepalend deze gebouwen zijn voor de stad. Den Haag zet zich in voor behoud en herbestemming met maatwerk, zodat kerken niet in de verkoop verdwijnen maar ruimte bieden aan cultuur, ontmoeting of betaalbare woningen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kerken",
+        "herbestemming",
+        "behoud",
+        "cultuur"
+      ]
+    },
+    {
+      "text": "We bouwen circulair biobased met gerecyclede, plantaardige hernieuwbare grondstoffen en lokale materialen. Gebouwen worden voorzien van een materialenpaspoort.",
+      "originalText": "We bouwen circulair biobased: er wordt gebruikgemaakt van gerecyclede, plantaardige hernieuwbare grondstoffen en lokale materialen die niet afkomstig zijn uit de vee-industrie. Gebouwen worden voorzien van een materialenpaspoort, zodat deze materialen bij sloop of verbouwing opnieuw kunnen worden gebruikt.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "circulair",
+        "biobased",
+        "materialenpaspoort",
+        "duurzaam"
+      ]
+    },
+    {
+      "text": "Bij nieuwbouw worden tuinen met minimale bestrating opgeleverd en mogen maximaal 50% versteend worden door de bewoners.",
+      "originalText": "Bij nieuwbouw worden tuinen met minimale bestrating opgeleverd zodat ze eenvoudig te vergroenen zijn en mogen maximaal 50% versteend worden door de bewoners. Zo blijven nieuw gebouwde wijken als Vroondaal, Haags Buiten en Proeftuin Erasmusveld ook echt groen en natuurvriendelijk.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tuinen",
+        "maximaal 50% versteend",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "De gemeente maakt harde prestatieafspraken met woningcorporaties om uiterlijk in 2030 minimaal energieneutraal te zijn en voor het bouwen van voldoende betaalbare woningen.",
+      "originalText": "De gemeente maakt harde prestatieafspraken met woningcorporaties: om uiterlijk in 2030 minimaal energieneutraal te zijn en voor het bouwen van voldoende betaalbare en goede woningen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "woningcorporaties",
+        "2030",
+        "energieneutraal",
+        "betaalbare woningen"
+      ]
+    },
+    {
+      "text": "Woningen worden energiepositief gebouwd zodat ze meer energie opwekken dan ze gebruiken.",
+      "originalText": "Woningen worden energiepositief gebouwd zodat ze meer energie opwekken dan ze gebruiken. Dit zorgt voor milieuwinst, lagere energierekeningen en energie voor andere gebouwen die zelf niet energieneutraal kunnen worden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "energiepositief",
+        "woningen",
+        "energie opwekken"
+      ]
+    },
+    {
+      "text": "De gemeente zet een fonds op om woningen te verbouwen met het oog op toegankelijkheid. Nieuwe gebouwen worden standaard voor iedereen toegankelijk.",
+      "originalText": "Een passende woning voor iedereen! De gemeente heeft speciale aandacht voor huisvesting voor kwetsbare groepen. De gemeente zet een fonds op om woningen te verbouwen met het oog op toegankelijkheid. Ook heeft Den Haag een voortrekkersrol om zoveel mogelijk woningen toegankelijk te maken voor mensen met een beperking van welke aard dan ook. Nieuwe gebouwen worden standaard voor iedereen toegankelijk.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fonds",
+        "toegankelijkheid",
+        "verbouwen",
+        "nieuwe gebouwen"
+      ]
+    },
+    {
+      "text": "Bij nieuwbouwprojecten worden altijd woningen toegevoegd die rolstoeltoegankelijk zijn. De buitenruimte wordt overal rolstoeltoegankelijk.",
+      "originalText": "Bij nieuwbouwprojecten worden altijd woningen toegevoegd die rolstoeltoegankelijk zijn. De buitenruimte - stoepen, paden, entrees - dient overal rolstoeltoegankelijk te zijn. Woningbouwprojecten waarin mensen met een beperking of neurodivergentie samenwonen met inwoners zonder beperking worden gestimuleerd via het stimuleringsplan innovatieve woonvormen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rolstoeltoegankelijk",
+        "nieuwbouwprojecten",
+        "buitenruimte"
+      ]
+    },
+    {
+      "text": "De gemeente realiseert per direct voldoende gratis opvangplekken voor dak- en thuisloze mensen, ongeacht uit welke gemeente zij komen.",
+      "originalText": "Daarom realiseert de gemeente per direct voldoende gratis opvangplekken voor dak- en thuisloze mensen, ongeacht uit welke gemeente zij komen en of zij wel of niet zelfredzaam zijn. Hierbij is extra aandacht voor arbeidsmigranten, queer jongeren en gezinnen met kinderen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "opvangplekken",
+        "dak- en thuisloze",
+        "gratis",
+        "per direct"
+      ]
+    },
+    {
+      "text": "Een plan met concrete doelen opstellen om racisme en discriminatie uit te bannen.",
+      "originalText": "Den Haag bestrijdt álle vormen van racisme en discriminatie, zoals antisemitisme, moslim-, homo- en transgenderhaat. Er komt een plan met concrete doelen om racisme en discriminatie uit te bannen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "racisme",
+        "discriminatie",
+        "plan",
+        "doelen"
+      ]
+    },
+    {
+      "text": "Een actieplan opstellen om femicide, vrouwenhaat en geweld tegen vrouwen te stoppen.",
+      "originalText": "Er komt een actieplan om femicide (vrouwen-moord), (online) vrouwenhaat en geweld tegen vrouwen te stoppen. Dankzij onze inzet wordt ook mannenemancipatie expliciet meegenomen in het bestrijden van gendergerelateerd geweld in Den Haag.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "femicide",
+        "vrouwenhaat",
+        "geweld",
+        "actieplan"
+      ]
+    },
+    {
+      "text": "Vrouwen en queer personen actief betrekken bij het ontwerpen van de openbare ruimte.",
+      "originalText": "Vrouwen en queer personen worden actief betrokken bij het ontwerpen van de openbare ruimte.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vrouwen",
+        "queer",
+        "openbare ruimte",
+        "ontwerpen"
+      ]
+    },
+    {
+      "text": "Het ADO vrouwenteam gelijkwaardige toegang geven tot topsportfaciliteiten en betrekken bij maatschappelijke activiteiten.",
+      "originalText": "Vrouwen krijgen gelijke kansen bij (top)sport. Zo krijgt bijvoorbeeld het vrouwenteam van ADO gelijkwaardige toegang tot topsportfaciliteiten, wordt het vrouwenteam gelijkwaardig betrokken bij de maatschappelijke activiteiten van ADO en pleit de gemeente ervoor dat de ADO vrouwen via een CAO betaald worden.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ado",
+        "vrouwenteam",
+        "topsportfaciliteiten",
+        "gelijke kansen"
+      ]
+    },
+    {
+      "text": "Een gerichte aanpak tegen discriminatie op arbeidsmarkt en woondiscriminatie, inclusief mystery guests.",
+      "originalText": "Discriminatie op de arbeidsmarkt en woondiscriminatie zijn hardnekkig. Den Haag komt met een gerichte aanpak tegen deze vormen van uitsluiting, inclusief het inzetten van mystery guests. Verhuurders en verhuurmakelaars die zich schuldig hebben gemaakt aan discriminatie worden beboet en verliezen hun verhuurvergunning.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "discriminatie",
+        "arbeidsmarkt",
+        "mystery guests",
+        "verhuurders"
+      ]
+    },
+    {
+      "text": "Verhuurders die discrimineren beboeten en hun verhuurvergunning intrekken.",
+      "originalText": "Verhuurders en verhuurmakelaars die zich schuldig hebben gemaakt aan discriminatie worden beboet en verliezen hun verhuurvergunning.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verhuurders",
+        "discriminatie",
+        "boete",
+        "verhuurvergunning"
+      ]
+    },
+    {
+      "text": "Excuses maken aan de woonwagengemeenschap voor het uitsterfbeleid na kritisch onderzoek.",
+      "originalText": "De gemeente doet in samenwerking met de gemeenschap kritisch onderzoek naar het in het verleden gevoerde uitsterfbeleid, erkent het leed, neemt verantwoordelijkheid hiervoor en maakt op basis daarvan excuses aan de woonwagengemeenschap voor het uitsterfbeleid",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonwagengemeenschap",
+        "uitsterfbeleid",
+        "excuses",
+        "onderzoek"
+      ]
+    },
+    {
+      "text": "Boa's toestaan religieuze uitingen zoals hoofddoek of keppeltje te dragen.",
+      "originalText": "Den Haag volgt het advies van het College voor de Rechten van de Mens. Buitengewoon opsporingsambtenaren (boa's) mogen religieuze uitingen (zoals een hoofddoek of keppeltje) dragen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "boa",
+        "religieuze uitingen",
+        "hoofddoek",
+        "keppeltje"
+      ]
+    },
+    {
+      "text": "Een specialistisch loket opzetten voor aangiftes van discriminatie en sociale uitsluiting.",
+      "originalText": "Den Haag zorgt ervoor dat aangifte doen van discriminatie laagdrempeliger wordt, om zo de aangiftebereidheid van slachtoffers te vergroten. Dit doen we onder andere door sensitiviteitstrainingen over bijvoorbeeld racisme en LHBTQIA+-onderwerpen bij de politie. Er komt een specialistisch loket voor aangiftes die te maken hebben met discriminatie en sociale uitsluiting.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "loket",
+        "aangifte",
+        "discriminatie",
+        "sociale uitsluiting"
+      ]
+    },
+    {
+      "text": "Sensitiviteitstrainingen over racisme en LHBTQIA+-onderwerpen bij de politie organiseren.",
+      "originalText": "Dit doen we onder andere door sensitiviteitstrainingen over bijvoorbeeld racisme en LHBTQIA+-onderwerpen bij de politie.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sensitiviteitstrainingen",
+        "racisme",
+        "lhbtqia+",
+        "politie"
+      ]
+    },
+    {
+      "text": "Preventief fouilleren niet toestaan vanwege etnisch profileren.",
+      "originalText": "Preventief fouilleren werkt etnisch profileren en stigmatisering in de hand en Den Haag staat dit niet toe.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "preventief fouilleren",
+        "etnisch profileren",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Betwist erfgoed wordt in kaart gebracht en Den Haag zoekt op democratische wijze een zelfkritische omgang met dit erfgoed.",
+      "originalText": "Betwist erfgoed wordt in kaart gebracht. Den Haag zoekt op democratische wijze een zelfkritische omgang met dit erfgoed.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "erfgoed",
+        "democratische",
+        "zelfkritisch"
+      ]
+    },
+    {
+      "text": "Den Haag ondersteunt en faciliteert belangrijke herdenkings- en feestdagen van verschillende inwoners zoals het Suikerfeest, Jom Kippoer en Keti Koti.",
+      "originalText": "Den Haag ondersteunt en faciliteert belangrijke herdenkings- en feestdagen van verschillende inwoners en gemeenteambtenaren, zoals het Suikerfeest, Jom Kippoer en Keti Koti.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "herdenkingsdagen",
+        "feestdagen",
+        "suikerfeest",
+        "jom kippoer",
+        "keti koti"
+      ]
+    },
+    {
+      "text": "De gemeente verleent geen subsidie aan vieringen waarbij zwarte pieten of pieten met racistische kenmerken aanwezig zijn.",
+      "originalText": "De gemeente werkt op geen enkele wijze mee en verleent geen subsidie aan vieringen waarbij zwarte pieten, of pieten afgebeeld met racistische kenmerken (aangezette lippen, oorbellen, kroeshaar pruiken) aanwezig zijn.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidie",
+        "zwarte pieten",
+        "sinterklaas"
+      ]
+    },
+    {
+      "text": "Den Haag stelt doorlopende subsidies beschikbaar voor lokale organisaties die opkomen voor de belangen van gemarginaliseerde groepen, waaronder LHBTQIA+'ers.",
+      "originalText": "Den Haag stelt doorlopende subsidies beschikbaar voor lokale organisaties, initiatieven en verenigingen die opkomen voor de belangen van gemarginaliseerde groepen, waaronder LHBTQIA+'ers, zoals The Hang-Out 070 en SHOP",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidies",
+        "organisaties",
+        "lhbtqia+",
+        "gemarginaliseerde groepen"
+      ]
+    },
+    {
+      "text": "De kosten voor het aanpassen van gender in officiële documenten en deskundigenverklaring worden door de gemeente vergoed voor transpersonen.",
+      "originalText": "Dankzij de inzet van de Partij voor de Dieren worden de kosten die een transpersoon maakt voor het aanpassen van gender in officiële documenten, zoals een paspoort en ID-kaart, en de deskundigenverklaring door de gemeente vergoed.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "transpersonen",
+        "vergoeding",
+        "documenten",
+        "gender"
+      ]
+    },
+    {
+      "text": "Den Haag zorgt voor meerdere genderneutrale toiletten op het gemeentehuis en stadsdeelkantoren en stimuleert instellingen om hetzelfde te doen.",
+      "originalText": "Den Haag zorgt voor meerdere genderneutrale toiletten op het gemeentehuis en stadsdeel-kantoren en stimuleert instellingen zoals de bibliotheek en buurthuizen om hetzelfde te doen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "genderneutrale toiletten",
+        "gemeentehuis",
+        "stadsdeelkantoren"
+      ]
+    },
+    {
+      "text": "De situatie in de bestaande seksstraten in de Doublet- en Geleenstraat wordt aanzienlijk verbeterd door duidelijkheid en financiële stimulans.",
+      "originalText": "De situatie in de bestaande seksstraten in de Doublet- en Geleenstraat wordt aanzienlijk verbeterd. Door jarenlange onzekerheid over sluiting en verplaatsing zijn de huidige locaties in verval geraakt. Door te zorgen voor duidelijkheid en financiële stimulans kunnen in beide straten de omstandigheden snel worden verbeterd.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "seksstraten",
+        "doubletstraat",
+        "geleenstraat",
+        "verbeteren"
+      ]
+    },
+    {
+      "text": "Het huidige plan voor opvang aan de Sportlaan gaat van tafel en wordt vervangen door kleinschaligere opvang met maatschappelijke functies.",
+      "originalText": "De opvang aan de Sportlaan is te grootschalig en leidt tot te veel stikstofuitstoot. Het is niet realistisch om dit plan uit te voeren. Daarom gaat het huidige plan van tafel en zetten we in op kleinschaligere opvang samen met maatschappelijke functies op deze locatie.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportlaan",
+        "opvang",
+        "kleinschalig",
+        "plan van tafel"
+      ]
+    },
+    {
+      "text": "Den Haag biedt kleinschalige opvang aan vluchtelingen verspreid over de gemeente door afspraken te maken met het COA.",
+      "originalText": "Den Haag biedt kleinschalige opvang aan vluchtelingen verspreid over de gemeente door afspraken te maken met het COA. De gemeente licht de bewoners op tijd goed in over de komst van een azc en organiseert een informatieavond.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kleinschalige opvang",
+        "vluchtelingen",
+        "coa",
+        "azc"
+      ]
+    },
+    {
+      "text": "De bed-bad-broodregeling wordt opgezet en uitgebreid met juridische ondersteuning voor uitgeprocedeerde asielzoekers.",
+      "originalText": "De bed-bad-broodregeling wordt opgezet en wordt uitgebreid met juridische ondersteuning. Veel mensen in deze voorziening zijn onterecht uitgeprocedeerd. Juridische ondersteuning is noodzakelijk om de rechten van deze groep mensen te beschermen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bed-bad-brood",
+        "juridische ondersteuning",
+        "uitgeprocedeerd"
+      ]
+    },
+    {
+      "text": "De gemeente voorziet alle dak- en thuislozen van een briefadres.",
+      "originalText": "Ook voorziet de gemeente alle dak- en thuislozen van een briefadres.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "daklozen",
+        "thuislozen",
+        "briefadres"
+      ]
+    },
+    {
+      "text": "Vluchtelingen krijgen een Ooievaarspas waarmee ze toegang hebben tot voorzieningen en volwaardig mee kunnen doen.",
+      "originalText": "Vluchtelingen krijgen een Ooievaarspas, waarmee ze toegang hebben tot voorzieningen en zo volwaardig mee kunnen doen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ooievaarspas",
+        "vluchtelingen",
+        "voorzieningen"
+      ]
+    },
+    {
+      "text": "De gemeente toetst haar Handboek Openbare Ruimte op toegankelijkheid en herstelt plekken die verkeerd zijn aangelegd.",
+      "originalText": "De gemeente toetst haar Handboek Openbare Ruimte op toegankelijkheid. Bij aanpassingen aan straten en pleinen wordt zo de toegankelijkheid geborgd. Plekken die in het verleden verkeerd zijn aangelegd moeten worden hersteld.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handboek openbare ruimte",
+        "toegankelijkheid",
+        "straten",
+        "pleinen"
+      ]
+    },
+    {
+      "text": "Elk nieuw gebouw in de openbare ruimte moet volgens de criteria van het VN-verdrag Handicap toegankelijk zijn.",
+      "originalText": "Elk nieuw gebouw in de openbare ruimte moet volgens de criteria van het VN-verdrag Handicap toegankelijk zijn.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nieuwe gebouwen",
+        "vn-verdrag handicap",
+        "toegankelijk"
+      ]
+    },
+    {
+      "text": "De kruising Spui/Grote Marktstraat wordt aangepakt omdat het een onveilige en ontoegankelijke plek is.",
+      "originalText": "De kruising Spui/Grote Marktstraat is een voorbeeld van een onveilige en ontoegankelijke plek en moet worden aangepakt.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "spui",
+        "grote marktstraat",
+        "kruising",
+        "onveilig"
+      ]
+    },
+    {
+      "text": "Psychosociale hulphonden worden vergoed via de Wmo naast specialistische hulphonden.",
+      "originalText": "Totdat er diervriendelijke alternatieven beschikbaar zijn voor specialistische honden, ondersteunt Den Haag inwoners die een hulphond nodig hebben om te participeren via de Wmo. Ook de psychosociale hulphonden worden vergoed.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hulphonden",
+        "psychosociale",
+        "wmo",
+        "vergoeding"
+      ]
+    },
+    {
+      "text": "Op verschillende plekken zoals stadhuis, stadsdeelkantoren en strand worden leenrollators en leenrolstoelen aangeboden.",
+      "originalText": "Op verschillende plekken, zoals op het stadhuis, op de stadsdeelkantoren en op het strand, worden leenrollators en/of leenrolstoelen aangeboden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leenrollators",
+        "leenrolstoelen",
+        "stadhuis",
+        "strand"
+      ]
+    },
+    {
+      "text": "De kosten voor de aanvraag en keuring voor de gehandicaptenparkeerkaart worden betaalbaar voor iedereen.",
+      "originalText": "De kosten voor de aanvraag en keuring voor de gehandicaptenparkeerkaart worden betaalbaar voor iedereen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gehandicaptenparkeerkaart",
+        "kosten",
+        "betaalbaar"
+      ]
+    },
+    {
+      "text": "Fors investeren in uitgebreid netwerk van veilige en groene wandel- en fietspaden met veiligere fietsroutes op Dierenselaan, Kempstraat, Mauritskade en Schaarsbergenstraat.",
+      "originalText": "De gemeente investeert fors in een uitgebreid netwerk van veilige en groene wandel- en fietspaden. Vrijliggende fietspaden bij drukke wegen hebben de voorkeur, maar niet ten koste van bomen en ander groen. Fietsers en voetgangers hebben altijd voorrang op gemotoriseerd verkeer bij rotondes binnen de bebouwde kom. Op de Dierenselaan, de Kempstraat, de Mauritskade en de Schaarsbergenstraat zorgen we voor veiligere fietsroutes.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietspaden",
+        "wandelpaden",
+        "fietsroutes",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Veel meer leefstraten en fietsstraten aanleggen waar voetgangers en fietsers voorrang hebben op gemotoriseerd verkeer.",
+      "originalText": "Er komen veel meer leefstraten en fietsstraten waar voetgangers en fietsers voorrang hebben op gemotoriseerd verkeer. Gemotoriseerde voertuigen zijn te gast en rijden stapvoets. Zo wordt spelen op straat en samenkomen met buren veiliger en aangenamer.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leefstraten",
+        "fietsstraten",
+        "voorrang",
+        "voetgangers"
+      ]
+    },
+    {
+      "text": "Grotere autovrije binnenstad realiseren in Oude Centrum en Scheveningen Dorp, Kneuterdijk autoluw maken en winkelstraten Weimarstraat en Piet Heinstraat autoluwer maken.",
+      "originalText": "Den Haag kiest voor een grotere autovrije binnenstad, bijvoorbeeld in het Oude Centrum en Scheveningen Dorp. Ook de Kneuterdijk maken we autoluw. We gaan ook een aantal winkelstraten autoluwer maken, zoals een deel van de Weimarstraat en de Piet Heinstraat.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "autovrije",
+        "binnenstad",
+        "autoluw",
+        "winkelstraten"
+      ]
+    },
+    {
+      "text": "Scooters, brom- en snorfietsen en speed pedelecs weren van fietspaden binnen bebouwde kom en naar de weg verplaatsen.",
+      "originalText": "Scooters, brom- en snorfietsen en speed pedelecs zijn niet langer welkom op fietspaden binnen de bebouwde kom maar rijden op de weg.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "scooters",
+        "bromfietsen",
+        "fietspaden",
+        "weg"
+      ]
+    },
+    {
+      "text": "Maximumsnelheid van 30 km/u invoeren voor gemotoriseerd verkeer en weginrichting aanpassen in Theresiastraat, Bankastraat, Beeklaan, Sportlaan, Oudemansstraat, Pletterijkade, Eisenhowerlaan, Prins Mauritslaan, Regentesselaan en Kempstraat.",
+      "originalText": "In principe geldt er voor gemotoriseerd verkeer in Den Haag een maximumsnelheid van 30 km/u. De inrichting van de weg wordt waar mogelijk aangepast, wat weer ruimte biedt aan vergroening. We pakken in elk geval de volgende straten aan: Theresiastraat, Bankastraat, Beeklaan, Sportlaan, Oudemansstraat, Pletterijkade, Eisenhowerlaan, Prins Mauritslaan, Regentesselaan en de Kempstraat.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "maximumsnelheid",
+        "30 km/u",
+        "weginrichting",
+        "straten"
+      ]
+    },
+    {
+      "text": "Verkeerslichten afstellen zodat voetgangers, fietsers en openbaar vervoer vaker groen licht krijgen dan auto's en voorzien van timer en regensensor.",
+      "originalText": "Verkeerslichten worden zo afgesteld dat voetgangers, fietsers en het openbaar vervoer vaker groen licht krijgen dan auto's. Verkeerslichten worden voorzien van een timer en een regensensor.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verkeerslichten",
+        "groen licht",
+        "timer",
+        "regensensor"
+      ]
+    },
+    {
+      "text": "Onveilige situatie in Goudenregenstraat met tramrails verbeteren en gevaarlijke kruispunten Benoordenhoutsewweg, Parallelweg, Wouwermanstraat, Boekweitkamp en Hobbemaplein aanpakken.",
+      "originalText": "Onveilige situaties die ontstaan door de aanwezigheid van tramrails worden aangepakt. De situatie in de Goudenregenstraat, waar veel ongelukken gebeuren met fietsers die met hun wiel klem raken in de tramrails, wordt verbeterd. Gevaarlijke kruispunten, zoals op de Benoordenhoutsewweg, Parallelweg, Wouwermanstraat en de Boekweitkamp worden aangepakt. Ook het Hobbemaplein maken we veiliger.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "tramrails",
+        "kruispunten",
+        "verkeersveiligheid",
+        "ongelukken"
+      ]
+    },
+    {
+      "text": "Duidelijk fietspad maken in Grote Marktstraat en kruising met Spui aanpakken voor veilige oversteek mensen met beperking.",
+      "originalText": "In de Grote Marktstraat wordt een duidelijk fietspad gemaakt. De huidige verwarrende en gevaarlijke verkeerssituatie wordt aangepakt. Ook de kruising met het Spui pakken we aan zodat ook mensen met een beperking hier veilig kunnen oversteken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietspad",
+        "grote marktstraat",
+        "kruising",
+        "toegankelijkheid"
+      ]
+    },
+    {
+      "text": "Schenktunnel ombouwen tot volwaardige fietstunnel met betere ontsluiting naar aangrenzende fietspaden.",
+      "originalText": "De Schenktunnel wordt een volwaardige fietstunnel en krijgt een betere ontsluiting met de aangrenzende fietspaden, zodat het fijner is om hier door te fietsen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schenktunnel",
+        "fietstunnel",
+        "fietspaden",
+        "ontsluiting"
+      ]
+    },
+    {
+      "text": "Voldoende gratis fietsstallingen realiseren bij centrum Scheveningen, Loosduinen, binnenstad, treinstations en haltes met 24-uursbewaking.",
+      "originalText": "Den Haag zorgt voor voldoende gratis fietsstallingen op drukbezochte plekken zoals het centrum van Scheveningen, Loosduinen en de binnenstad en bij treinstations en tram- en bushaltes. Grote stallingen hebben 24 uursbewaking, bijvoorbeeld via participatiebanen en basisbanen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietsstallingen",
+        "gratis",
+        "bewaking",
+        "stations"
+      ]
+    },
+    {
+      "text": "Meer fietsbeugels plaatsen op plekken waar nu auto's parkeren om fietsen van stoepen te houden.",
+      "originalText": "In veel wijken worden fietsen nu overal op de stoep geplaatst. Dit pakken we aan door meer fietsbeugels te plaatsen op plekken waar nu nog auto's worden geparkeerd. De stoep houden we vrij voor voetgangers en rolstoelgebruikers.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietsbeugels",
+        "stoepen",
+        "parkeren",
+        "toegankelijkheid"
+      ]
+    },
+    {
+      "text": "Investeren in achterstallig onderhoud bestrating en fietspaden zoals bij Erasmusweg zonder onderscheid waar in Den Haag.",
+      "originalText": "De afgelopen tijd is geïnvesteerd in het achterstallig onderhoud van de bestrating in wijken in Loosduinen en in Mariahoeve, maar er zijn nog veel straten die een opknapbeurt kunnen gebruiken. Hier investeren we in. Ook investeren we in fietspaden, zoals bij de Erasmusweg. Voor de aanleg en onderhoud maken we geen onderscheid waar in Den Haag het ligt.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderhoud",
+        "bestrating",
+        "fietspaden",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Busverbinding in de spits voor Binckhorst realiseren en op termijn tramverbinding over Vlietlijn zonder ten koste van natuur.",
+      "originalText": "De Binckhorst heeft nu slecht OV. Daarom zorgen we ook voor bussen in de spits. Op termijn wordt de Binckhorst bereikbaar met een tramverbinding over de Vlietlijn. Deze tramverbinding moet niet ten koste gaan van de natuur en in goed overleg met buurgemeenten worden ingepast.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "binckhorst",
+        "bus",
+        "tram",
+        "vlietlijn"
+      ]
+    },
+    {
+      "text": "Langere trams op lijn 4 inzetten en ondertunneling drukke kruispunten bekijken voor snellere OV-verbindingen naar Zuidwest.",
+      "originalText": "Ook in het OV in Den Haag Zuidwest moet flink worden geïnvesteerd. We gaan met langere trams rijden op lijn 4 en kijken naar ondertunneling van drukke kruispunten. Belangrijk is om snellere OV-verbindingen naar Zuidwest te realiseren.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lijn 4",
+        "langere trams",
+        "ondertunneling",
+        "zuidwest"
+      ]
+    },
+    {
+      "text": "Haltes Stuyvesandstraat en Copernicusplein die eerder gesloten zijn weer terugbrengen.",
+      "originalText": "Haltes die in het verleden zijn gesloten in strijd met de Haagse wensen komen weer terug. Het gaat in elk geval om de haltes Stuyvesandstraat en Copernicusplein.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "haltes",
+        "stuyvesandstraat",
+        "copernicusplein",
+        "terugbrengen"
+      ]
+    },
+    {
+      "text": "Busverbindingen van Kijkduin, Benoordenhout, Vroondaal en Ypenburg naar centrum verbeteren en Haagse Hopper inzetten in Vroondaal.",
+      "originalText": "De busverbindingen van Kijkduin, Benoordenhout, Vroondaal en Ypenburg (De Bras) met het Centrum worden beter, zodat er een volwaardig alternatief ontstaat voor de auto. We gaan het OV verbeteren op minder dichtbevolkte plekken zoals Vroondaal door de inzet van de Haagse Hopper.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "busverbindingen",
+        "haagse hopper",
+        "vroondaal",
+        "centrum"
+      ]
+    },
+    {
+      "text": "Tramlijn 17 doortrekken naar de Haven en benzinestation op Statenlaan wegwerken.",
+      "originalText": "We trekken tramlijn 17 door naar de Haven en daarvoor gaat het benzinestation op de Statenlaan weg.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tramlijn 17",
+        "haven",
+        "benzinestation",
+        "statenlaan"
+      ]
+    },
+    {
+      "text": "Busvervoer wordt via afspraken met HTM uitstootvrij gemaakt, inclusief buurtbus, leerlingenvervoer en andere vormen van publiek vervoer.",
+      "originalText": "Het busvervoer wordt via afspraken met de HTM snel uitstootvrij busvervoer. Dit geldt ook voor buurtbus, leerlingenvervoer en andere vormen van publiek vervoer.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "busvervoer",
+        "uitstootvrij",
+        "htm",
+        "ov"
+      ]
+    },
+    {
+      "text": "Gemeente roept MRDH op om nachtnetwerk van de bus uit te breiden.",
+      "originalText": "De gemeente roept de Metropoolregio(MRDH) op om het nachtnetwerk van de bus uit te breiden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nachtnetwerk",
+        "bus",
+        "mrdh",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "100% emissievrij wordt vereiste in lokale taxiverordening en taxistandplaatsen krijgen laadpalen.",
+      "originalText": "Het taxiverkeer wordt schoon. Taxistandplaatsen krijgen laadpalen en in de lokale taxiverordening wordt 100% emissievrij een vereiste.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "taxi",
+        "emissievrij",
+        "laadpalen",
+        "verordening"
+      ]
+    },
+    {
+      "text": "Weginrichting wordt aangepast en meer snelheidscontrole op wegen waar structureel te hard wordt gereden.",
+      "originalText": "Er zijn veel plaatsen waar structureel te hard wordt gereden. Denk aan de Waldeck Pyrmontkade, de Benoordenhoutseweg, de Statenlaan, de Van Alkemadelaan, de Schenkkade, de Westduinweg, de Lozerlaan, de Machiel Vrijenhoeklaan of de Vaillantlaan. Op deze plekken wordt de weginrichting aangepast en er wordt meer op snelheid gecontroleerd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "weginrichting",
+        "snelheidscontrole",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Autogebruik over Rijswijkseplein, Hobbemaplein, Waldorpsstraat en Schenkviaduct verminderen voor meer ruimte voor voetgangers, fietsers en groen.",
+      "originalText": "We maken Den Haag leefbaarder door het auto-gebruik over het Rijswijkseplein, Hobbemaplein, Waldorpsstraat en Schenkviaduct te verminderen. Zo ontstaat ruimte voor voetgangers, fietsers en groen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "autogebruik",
+        "verminderen",
+        "voetgangers",
+        "fietsers",
+        "groen"
+      ]
+    },
+    {
+      "text": "Doorgaande wegen versmallen om snelheid te verlagen en meer groen aan te leggen.",
+      "originalText": "Doorgaande wegen in de gemeente worden versmald om zo de snelheid van het verkeer te verlagen en meer groen aan te leggen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wegen",
+        "versmallen",
+        "snelheid",
+        "groen"
+      ]
+    },
+    {
+      "text": "Betaald parkeren invoeren in hele gemeente en tweede en opvolgende parkeervergunningen veel duurder maken.",
+      "originalText": "Er komt betaald parkeren in de hele gemeente en de tweede en opvolgende parkeervergunningen worden veel duurder. De derde vergunning wordt afgeschaft in de meeste wijken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "betaald parkeren",
+        "parkeervergunningen",
+        "duurder"
+      ]
+    },
+    {
+      "text": "Geen nieuwe autoparkeerplekken op straat en zo laag mogelijke parkeernorm voor nieuwbouw hanteren.",
+      "originalText": "Er komen geen nieuwe autoparkeerplekken bij op straat. Voor nieuwbouw wordt een zo laag mogelijke parkeernorm gehanteerd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplaatsen",
+        "nieuwbouw",
+        "parkeernorm"
+      ]
+    },
+    {
+      "text": "Plan voor parkeerplaatsen bij de Mient van tafel en investeren in groene Mient.",
+      "originalText": "Het plan om parkeerplaatsen bij de Mient aan te leggen ten koste van veel groen is van tafel. We investeren de komende tijd in een groene Mient.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mient",
+        "parkeerplaatsen",
+        "groen",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Gedifferentieerde tarieven voor parkeren invoeren op basis van uitstoot voertuig, hogere tarieven voor vervuilende auto's en SUV's.",
+      "originalText": "De gemeente voert gedifferentieerde tarieven voor parkeren en parkeervergunningen in op basis van de uitstoot van het voertuig, waarbij een hoger tarief wordt gehanteerd voor vervuilende auto's. Ook zware, grote voertuigen zoals SUV's en pick-ups worden ontmoedigd bijvoorbeeld door middel van hogere tarieven.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gedifferentieerde tarieven",
+        "uitstoot",
+        "suv",
+        "vervuilende auto's"
+      ]
+    },
+    {
+      "text": "Zero-emissiezone voor vrachtwagens en bedrijfsbusjes in centrum en kuststrook, uitbreiden naar hele stad vanaf 2028.",
+      "originalText": "Voor vrachtwagens en bedrijfsbusjes geldt voor het centrum en de kuststrook een zero-emissiezone. Dit betekent dat stapsgewijs vervuilende voertuigen worden geweerd. Deze zone breiden we vanaf 2028 stapsgewijs uit naar de hele stad, waarbij we in elk geval met de zuidelijke Centrumring beginnen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zero-emissiezone",
+        "vrachtwagens",
+        "2028",
+        "hele stad"
+      ]
+    },
+    {
+      "text": "Milieuzone voor bussen en personenauto's uitbreiden van centrumring naar rest van de stad.",
+      "originalText": "Op dit moment geldt een milieuzone voor bussen en personenauto's binnen de centrumring. We gaan deze zone uitbreiden naar de rest van de stad.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "milieuzone",
+        "uitbreiden",
+        "bussen",
+        "personenauto's"
+      ]
+    },
+    {
+      "text": "Plan opstellen om ruim te voldoen aan luchtkwaliteitsnormen van Wereldgezondheidsorganisatie.",
+      "originalText": "Iedereen heeft recht op schone lucht. De Partij voor de Dieren wil dat Den Haag een plan opstelt om ervoor te zorgen dat de gemeente ruim voldoet aan de luchtkwaliteitsnormen van de Wereldgezondheidsorganisatie.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "plan",
+        "luchtkwaliteit",
+        "who",
+        "normen"
+      ]
+    },
+    {
+      "text": "Houtstook volledig aan banden leggen en meldpunt voor stookoverlast instellen.",
+      "originalText": "Den Haag legt houtstook volledig aan banden, zowel binnen als buiten. Houtrook zorgt immers voor enorm veel fijnstof en veroorzaakt gezondheidsproblemen voor veel inwoners. Den Haag zorgt voor een meldpunt waar stookoverlast gemeld kan worden en informeert inwoners over de nadelen van houtstook.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "houtstook",
+        "meldpunt",
+        "stookoverlast",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Uiterlijk 2030 mogen alleen elektrische boten, roeiboten en zeilboten zonder fossiele motor gebruikmaken van gemeentelijke wateren.",
+      "originalText": "Uiterlijk 2030 mogen alleen elektrische boten, roeiboten en zeilboten zonder fossiele motor gebruikmaken van de gemeentelijke wateren en aanmeren in de haven van Den Haag. Ook plezier- en rondvaartboten worden fossielvrij. Ook de schepen in de Scheveningse Haven worden schoner.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "2030",
+        "elektrische boten",
+        "gemeentelijke wateren",
+        "fossielvrij"
+      ]
+    },
+    {
+      "text": "Bodemverontreiniging door lood en PFAS actief aanpakken met voorlichting aan inwoners over veilig gebruik van tuinen en speelplekken.",
+      "originalText": "Den Haag pakt bodemverontreiniging, zoals door lood en PFAS, actief aan. Inwoners krijgen duidelijke voorlichting over gebruiksadviezen voor tuinen, moestuinen en plekken waar kinderen op de grond spelen, zodat ze op een veilige en gezonde manier met de bodem kunnen omgaan.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bodemverontreiniging",
+        "pfas",
+        "voorlichting"
+      ]
+    },
+    {
+      "text": "Een noodplan maken voor als een zoönose uitbreekt en mogelijke bronnen binnen de gemeente in kaart brengen.",
+      "originalText": "Den Haag brengt in kaart welke mogelijke bronnen er binnen de gemeente zijn waar ziekteverwekkers van dier naar mens kunnen overspringen. Daarbij is speciale aandacht voor veehouderijen en markten met (exotische) dieren. De gemeente maakt een noodplan voor als een zoönose uitbreekt.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "noodplan",
+        "zoönose",
+        "volksgezondheid"
+      ]
+    },
+    {
+      "text": "Meer capaciteit bij toezichthouders om intensiever te controleren op milieuvervuiling en een lokaal meldpunt voor natuur- en milieumeldingen.",
+      "originalText": "Er komt meer capaciteit bij toezichthouders zodat zij intensiever kunnen controleren, ook om milieuvervuiling te voorkomen. Er komt een lokaal meldpunt waar misstanden op het gebied van natuur en milieu ook anoniem gemeld kunnen worden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toezichthouders",
+        "meldpunt",
+        "milieuvervuiling"
+      ]
+    },
+    {
+      "text": "Investeren in jongerencentra, buurthuizen, wijkcentra en ontmoetingsplekken met speciale aandacht voor jongeren, ouderen en mensen met een beperking.",
+      "originalText": "De gemeente investeert in jongerencentra, buurthuizen, wijkcentra en ontmoetingsplekken, met speciale aandacht voor jongeren, ouderen en mensen met een beperking.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerencentra",
+        "buurthuizen",
+        "ontmoetingsplekken"
+      ]
+    },
+    {
+      "text": "Een integrale aanpak maken voor suïcidepreventie conform de Wet integrale suïcidepreventie.",
+      "originalText": "Den Haag neemt haar verantwoordelijkheid voor de uitvoering van de Wet integrale suïcidepreventie en maakt een integrale aanpak.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "suïcidepreventie",
+        "integrale aanpak",
+        "wet"
+      ]
+    },
+    {
+      "text": "In elke wijk ruimte maken voor sportvoorzieningen zoals beweegtuinen, fitnessplekken, voetbal- en basketbalveldjes en skateparken.",
+      "originalText": "In elke wijk wordt ruimte gemaakt voor sportvoorzieningen voor jong en oud, zoals beweegtuinen, fitnessplekken, openbare voetbal- en basketbalveldjes en skateparken.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportvoorzieningen",
+        "wijken",
+        "skateparken"
+      ]
+    },
+    {
+      "text": "Schoolpleinen vergroenen en buiten schooluren beschikbaar maken voor de buurt, inzetten op natuurlijke speeltuinen en stoppen met kunstgras.",
+      "originalText": "Schoolpleinen en speelgelegenheden worden vergroend en zijn buiten schooluren beschikbaar voor de buurt. We zetten in op natuurlijke speeltuinen en stoppen het veelvuldige gebruik van kunstgras.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolpleinen",
+        "vergroenen",
+        "natuurlijke speeltuinen"
+      ]
+    },
+    {
+      "text": "Openingstijden van Haagse zwembaden verruimen en een nieuw duurzaam zwembad openen op de Binckhorst.",
+      "originalText": "De openingstijden voor Haagse zwembaden moeten worden verruimd en op de Binckhorst opent een nieuw, duurzaam zwembad. Ieder kind moet op zwemles kunnen",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zwembaden",
+        "binckhorst",
+        "openingstijden"
+      ]
+    },
+    {
+      "text": "Verouderde Haagse sporthallen renoveren en gemeentelijke sportaccommodaties beter onderhouden met investeringen in CO2-reductie.",
+      "originalText": "De Haagse sporthallen zijn vaak verouderd; deze worden gerenoveerd. Verder worden gemeentelijke sportaccommodaties beter onderhouden en er wordt geïnvesteerd in de CO2-reductie van sporthallen en zwembaden.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sporthallen",
+        "renovatie",
+        "co2-reductie"
+      ]
+    },
+    {
+      "text": "Geen nieuwe kunstgrasvelden aanleggen en bestaande vervangen door echt gras, rubbergranulaat vervangen door niet-giftig materiaal.",
+      "originalText": "Er worden geen nieuwe kunstgrasvelden aangelegd. Als bestaande kunstgrasvelden aan vervanging toe zijn, worden ze vervangen door echt gras. Op alle kunstgrasvelden waar gebruik wordt gemaakt van rubbergranulaat, wordt het rubbergranulaat opgeruimd en vervangen door een niet-giftig en niet-schadelijk materiaal.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kunstgrasvelden",
+        "rubbergranulaat",
+        "echt gras"
+      ]
+    },
+    {
+      "text": "Een integraal voedselbeleid maken waarin recht op gezond, biologisch en plantaardig voedsel centraal staat.",
+      "originalText": "Er is dankzij de Partij voor de Dieren een Haagse voedselstrategie. Hier pakken we op door en maken een integraal voedselbeleid, waarin het recht op gezond, biologisch en plantaardig voedsel en de positie van duurzame, biologische en diervriendelijke boeren centraal staan.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voedselbeleid",
+        "biologisch",
+        "plantaardig voedsel"
+      ]
+    },
+    {
+      "text": "Op elke tienduizend inwoners streven naar een voedselverbindingsplek en duurzame lokale voedselinitiatieven faciliteren.",
+      "originalText": "Den Haag faciliteert duurzame en lokale voedselinitiatieven, zoals die van Lekkernassûh, Conscious Kitchen, de Volkskeuken en de Participatiekeuken. Op elke tienduizend inwoners streven we naar zo'n voedselverbindingsplek.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "voedselverbindingsplek",
+        "tienduizend inwoners",
+        "lokale voedselinitiatieven"
+      ]
+    },
+    {
+      "text": "Het concept 'Carnivoor? Geef het door!' invoeren in de gemeentelijke organisatie waarbij plantaardig voedsel de norm wordt.",
+      "originalText": "In de eigen organisatie voert de gemeente het succesvolle concept 'Carnivoor? Geef het door!' in. Plantaardig voedsel wordt hiermee de norm, ook in de gemeentelijke bedrijfskantines.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "carnivoor",
+        "plantaardig voedsel",
+        "bedrijfskantines"
+      ]
+    },
+    {
+      "text": "Den Haag weert snoepautomaten en reclame voor ongezond voedsel uit openbare voorzieningen en gemeentelijke gebouwen.",
+      "originalText": "Den Haag weert snoep(automaten) en reclame voor ongezond voedsel uit openbare voorzieningen, alsook uit de eigen gebouwen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "snoepautomaten",
+        "reclame",
+        "ongezond voedsel",
+        "openbare voorzieningen"
+      ]
+    },
+    {
+      "text": "De gemeente investeert in moestuinen om verse groenten en fruit aan voedselbanken te kunnen leveren.",
+      "originalText": "Het armoedebeleid moet gezondere voedselkeuzes makkelijker maken. Zo investeert de gemeente in moestuinen om verse groenten en fruit aan de voedselbanken te kunnen leveren.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "moestuinen",
+        "voedselbanken",
+        "armoedebeleid",
+        "investeren"
+      ]
+    },
+    {
+      "text": "De gemeente breidt het fossiele reclameverbod uit met een verbod voor reclame van dierlijk en ongezond voedsel, alcohol en gokken.",
+      "originalText": "Na het succes van de Partij voor de Dieren van het fossiele reclameverbod in de openbare ruimte in Den Haag breidt de gemeente dit uit met een reclameverbod voor dierlijk en ongezond voedsel, alcohol, en gokken.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "reclameverbod",
+        "alcohol",
+        "gokken",
+        "ongezond voedsel"
+      ]
+    },
+    {
+      "text": "De gemeente grijpt in wanneer absurde huurprijzen ertoe leiden dat huisartsenpraktijken verdwijnen uit stadscentra en gewilde wijken.",
+      "originalText": "Huisartsenzorg blijft voor iedereen goed bereikbaar. De gemeente grijpt in wanneer absurde huurprijzen ertoe leiden dat praktijken verdwijnen uit stadscentra en gewilde wijken.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huisartsenzorg",
+        "huurprijzen",
+        "bereikbaarheid",
+        "ingrijpen"
+      ]
+    },
+    {
+      "text": "Den Haag geeft de GGD opdracht tot het opzetten van een transkliniek, bij voorkeur gecoördineerd door lokale transgenderorganisaties.",
+      "originalText": "Den Haag geeft de GGD opdracht tot het opzetten van een transkliniek. Deze wordt bij voorkeur gecoördineerd door lokale transgender-organisaties, en geeft prioriteit aan sekswerkers, migranten, mensen van kleur en mensen die door een beperking geen toegang hebben tot de gangbare transzorg.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "transkliniek",
+        "ggd",
+        "transgenderzorg",
+        "opdracht"
+      ]
+    },
+    {
+      "text": "De gemeente zorgt voor plaatsing en onderhoud van AED's bij overheidsgebouwen en betaalt opleidingen voor reanimatie en EHBO.",
+      "originalText": "De gemeente zorgt voor plaatsing en onderhoud van AED's bij of aan (semi)overheidsgebouwen. De gemeente stimuleert en betaalt opleidingen voor reanimatie en EHBO.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "aed",
+        "reanimatie",
+        "ehbo",
+        "overheidsgebouwen"
+      ]
+    },
+    {
+      "text": "Dierenambulances krijgen bevoegdheden om over busbanen te rijden en vrij te parkeren voor noodhulp aan dieren.",
+      "originalText": "Dierenambulances krijgen net als andere hulpdiensten bevoegdheden om snel ter plaatse te kunnen zijn voor noodhulp aan dieren, zoals een vergunning om over busbanen te rijden en het recht om vrij te kunnen parkeren.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "dierenambulances",
+        "busbanen",
+        "parkeren",
+        "bevoegdheden"
+      ]
+    },
+    {
+      "text": "Er wordt niet meer gerookt of gevapet bij scholen, speelplaatsen, sportgelegenheden en in parken. Vuilnisbakken krijgen asbakken.",
+      "originalText": "Den Haag werkt toe naar een rook- en vapevrije generatie. Er wordt niet meer gerookt/gevapet bij scholen, op kinderspeelplaatsen, bij sportgelegenheden en in parken en groengebieden. Vuilnisbakken in de openbare ruimte worden voorzien van een asbak.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rookverbod",
+        "vapeverbod",
+        "scholen",
+        "speelplaatsen",
+        "parken"
+      ]
+    },
+    {
+      "text": "De gemeente verbiedt roken rond alle gemeentelijke gebouwen en maakt meer rook- en vapevrije zones bij haltes en zorgcentra.",
+      "originalText": "Er komen meer rook- en vapevrije zones in de openbare ruimte, bijvoorbeeld bij bus- en tramhaltes, gezondheidscentra en ziekenhuizen. De gemeente geeft het goede voorbeeld en verbiedt roken rond alle gemeentelijke gebouwen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rookvrije zones",
+        "gemeentelijke gebouwen",
+        "haltes",
+        "zorgcentra"
+      ]
+    },
+    {
+      "text": "Er komen geen nieuwe coffeeshops in de buurt van scholen.",
+      "originalText": "Er komen geen nieuwe coffeeshops in de buurt van scholen.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coffeeshops",
+        "scholen",
+        "verbod",
+        "nieuwe"
+      ]
+    },
+    {
+      "text": "Den Haag Zuidwest (Escamp) krijgt een Havo/VWO-school.",
+      "originalText": "Den Haag Zuidwest (Escamp) krijgt een Havo/VWO-school.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "havo",
+        "vwo",
+        "school",
+        "escamp",
+        "zuidwest"
+      ]
+    },
+    {
+      "text": "De gemeente medewerkt aan de verplaatsing van coffeeshops uit het Regentessekwartier en Zeeheldenkwartier naar plekken waar er nu geen zijn.",
+      "originalText": "Den Haag heeft in het Regentessekwartier (Weimarstraat) en het Zeeheldenkwartier een overschot aan coffeeshops. Daarom werkt de gemeente mee aan de verplaatsing van coffeeshops naar plekken waar er nu geen zijn.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coffeeshops",
+        "verplaatsing",
+        "regentessekwartier",
+        "zeeheldenkwartier"
+      ]
+    },
+    {
+      "text": "Er komen gebruikersruimtes voor drugsverslaafden met naaldomruilpunten.",
+      "originalText": "Er komen gebruikersruimtes voor drugsverslaafden, met naaldomruilpunten voor mensen die afhankelijk zijn van het zelf toedienen van injecties.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gebruikersruimtes",
+        "drugsverslaafden",
+        "naaldomruilpunten"
+      ]
+    },
+    {
+      "text": "Den Haag stelt een plan op om drugsafvaldumpingen tegen te gaan en maakt anoniem en boetevrij inleveren van lachgascilinders mogelijk.",
+      "originalText": "Den Haag stelt een plan op om drugsafvaldumpingen tegen te gaan. De gemeente maakt anoniem en boetevrij inleveren van lachgascilinders in milieu- en afvalstraten mogelijk.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "drugsafval",
+        "lachgascilinders",
+        "inleveren",
+        "plan"
+      ]
+    },
+    {
+      "text": "Er komen geen nieuwe casino's of gokhallen en gokreclames in de openbare ruimte worden gestopt.",
+      "originalText": "Om inwoners te beschermen tegen gokverslaving komen er geen nieuwe casino's of gokhallen. En stoppen we met gokreclames in de openbare ruimte.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "casino",
+        "gokhallen",
+        "gokreclames",
+        "verbod"
+      ]
+    },
+    {
+      "text": "De publieksbalie van politiebureaus in de wijken zoals bureau Overbosch worden niet gesloten.",
+      "originalText": "De publieksbalie van politiebureaus in de wijken, zoals bureau Overbosch, worden niet gesloten.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "politiebureau",
+        "overbosch",
+        "publieksbalie",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Den Haag stelt een eigen verbod op consumentenvuurwerk in en geeft geen nieuwe vergunningen voor verkooppunten uit.",
+      "originalText": "Zolang het landelijke verbod op het afsteken van consumentenvuurwerk nog niet van kracht is, stelt Den Haag een eigen verbod in dat adequaat wordt gehandhaafd. Nieuwe vergunningen voor verkooppunten voor consumentenvuurwerk worden niet uitgegeven.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vuurwerkverbod",
+        "consumentenvuurwerk",
+        "vergunningen",
+        "verkooppunten"
+      ]
+    },
+    {
+      "text": "Er komen meer handhavers (boa's en boswachters) om de leefbaarheid op straat te verbeteren en overlast in natuurgebieden tegen te gaan.",
+      "originalText": "Er komen meer handhavers (boa's en boswachters) om de leefbaarheid op straat te verbeteren en overlast in de natuurgebieden tegen te gaan.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhavers",
+        "boa",
+        "boswachters",
+        "leefbaarheid"
+      ]
+    },
+    {
+      "text": "Als Noot slechte dienstverlening blijft leveren dan wordt het contract ontbonden en wordt een andere partij gezocht voor leerlingenvervoer.",
+      "originalText": "De gemeente zet zich in voor goed leerlingenvervoer, zodat elk kind op een passende school onderwijs krijgt. Als Noot slechte dienstverlening blijft leveren dan ontbinden we het contract en zoeken een partij die passend vervoer wél kan aanbieden.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "noot",
+        "contract",
+        "leerlingenvervoer",
+        "ontbinden"
+      ]
+    },
+    {
+      "text": "De gemeente hanteert als uitgangspunt dat schoolgebouwen in principe niet worden gesloopt maar worden gerenoveerd.",
+      "originalText": "Er zijn veel bijzondere schoolgebouwen in Den Haag die dreigen te worden gesloopt, bijvoorbeeld de Populier. De gemeente moet als uitgangspunt hanteren dat in principe schoolgebouwen niet worden gesloopt, maar worden gerenoveerd.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolgebouwen",
+        "sloop",
+        "renovatie",
+        "behoud"
+      ]
+    },
+    {
+      "text": "Gemeente investeert in gezonde kantines op scholen waar gratis biologisch fruit en plantaardige schoollunch worden aangeboden. Schoolmelkregelingen worden stopgezet.",
+      "originalText": "Daarom gaat de gemeente inzetten op gezonde kantines waar gratis biologisch fruit en een plantaardige schoollunch worden aangeboden. Schoolmelkregelingen worden stopgezet.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolkantines",
+        "gratis fruit",
+        "schoollunch",
+        "schoolmelk"
+      ]
+    },
+    {
+      "text": "Gemeente trekt voldoende geld uit voor natuurinclusief renoveren en verduurzamen van verouderde schoolpanden. Nieuwe schoolpanden worden natuurinclusief, circulair en energiepositief gebouwd.",
+      "originalText": "De gemeente trekt voldoende geld uit voor het natuurinclusief renoveren en verduurzamen van verouderde schoolpanden. Nieuwe schoolpanden worden natuurinclusief, circulair en energiepositief gebouwd.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolrenovatie",
+        "verduurzaming",
+        "energiepositief",
+        "circulair bouwen"
+      ]
+    },
+    {
+      "text": "Gemeente biedt financiële ondersteuning aan scholen om groene schoolpleinen te realiseren waar kinderen vrij kunnen spelen, inclusief ruimte voor schoolmoestuinen.",
+      "originalText": "De gemeente stimuleert scholen en biedt financiële ondersteuning om groene schoolpleinen te realiseren waar kinderen vrij kunnen spelen. Als er plek is komt er ruimte voor school-moestuinen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolpleinen",
+        "groene speelruimte",
+        "schoolmoestuinen",
+        "financiële ondersteuning"
+      ]
+    },
+    {
+      "text": "Er worden jongerenwerkers ingezet op middelbare scholen voor laagdrempelige gesprekken over drugs, wapens, pesten en seksueel misbruik.",
+      "originalText": "Er worden jongerenwerkers ingezet op middelbare scholen. Een jongerenwerker die de school en de leerlingen kent, een vertrouwensband met hen opbouwt, en regelmatig langskomt om op een laagdrempelige manier te praten over bijvoorbeeld drugs, wapens, (cyber)pesten en (online) seksueel misbruik en seksuele uitbuiting kan veel leed voorkomen en zorgen voor een veiligere en betere sfeer op scholen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenwerkers",
+        "middelbare scholen",
+        "preventie",
+        "veiligheid"
+      ]
+    },
+    {
+      "text": "Er komt een permanente bibliotheek in Mariahoeve en Benoordenhout en een nieuwe bibliotheek op de Binckhorst.",
+      "originalText": "Zo komt er een permanente bibliotheek in Mariahoeve en Benoordenhout en een nieuwe op de Binckhorst.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bibliotheek",
+        "mariahoeve",
+        "benoordenhout",
+        "binckhorst"
+      ]
+    },
+    {
+      "text": "Budget voor kunst, cultuur en erfgoed wordt structureel verhoogd tot minstens vergelijkbaar niveau als andere G4 steden voor eerlijke beloning in culturele sector.",
+      "originalText": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd, niet alleen om meer te kunnen programmeren, maar ook om de Fair Practice Code voor eerlijke beloning in de culturele sector te kunnen realiseren. Het budget komt minstens op een vergelijkbaar niveau als andere G4 steden.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuurbudget",
+        "g4 steden",
+        "fair practice code",
+        "eerlijke beloning"
+      ]
+    },
+    {
+      "text": "Gemeente investeert in een cultuurhuis in Zuidwest naast ondersteuning van bestaande cultuurankers en wijktheaters.",
+      "originalText": "Cultuurankers en wijktheaters, zoals het Diamanttheater, het Laaktheater, Podium Noord, theater De Vaillant, De Nieuwe Regentes en Dakota worden blijvend ondersteund. Daarnaast investeren we in een cultuurhuis in Zuidwest.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuurhuis",
+        "zuidwest",
+        "wijktheaters",
+        "cultuurankers"
+      ]
+    },
+    {
+      "text": "Er komt een cultuurcombinatiefunctionaris per stadsdeel om alle bewoners te kunnen begeleiden naar kunst- en cultuurdeelname.",
+      "originalText": "Op dit moment zijn er veel meer combinatiefunctionarissen sport dan cultuur. Het aantal combinatiefunctionarissen cultuur is op dit moment te laag om alle stadsdelen te kunnen bedienen. Er komt daarom een cultuur combinatiefunctionaris per stadsdelen om alle bewoners te kunnen begeleiden naar kunst- en cultuurdeelname.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "combinatiefunctionaris",
+        "cultuur",
+        "stadsdeel",
+        "cultuurdeelname"
+      ]
+    },
+    {
+      "text": "Musea zijn minstens één dag per week gratis toegankelijk maken voor inwoners van Den Haag.",
+      "originalText": "Musea zijn minstens één dag in de week gratis toegankelijk voor inwoners van de gemeente.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "musea",
+        "gratis toegang",
+        "inwoners"
+      ]
+    },
+    {
+      "text": "De gemeente werkt niet mee aan sloop van beeldbepalende gebouwen zoals Theresiakerk, Valkenboskerk en Martelaren van Gorcumkerk.",
+      "originalText": "De gemeente werkt niet mee aan de sloop van beeldbepalende gebouwen, zoals de Theresiakerk, Valkenboskerk en de Martelaren van Gorcumkerk.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "monumenten",
+        "sloop",
+        "kerken",
+        "erfgoed"
+      ]
+    },
+    {
+      "text": "Budget vrijmaken voor inventarisatie van groen en blauw erfgoed en instandhouding ervan.",
+      "originalText": "De gemeente geeft prioriteit aan de inventarisatie van groen en blauw erfgoed en maakt budget vrij voor de instandhouding ervan.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groen erfgoed",
+        "blauw erfgoed",
+        "budget",
+        "inventarisatie"
+      ]
+    },
+    {
+      "text": "Burgerberaad en wijkberaad krijgen prominente plek in participatiebeleid van de gemeente.",
+      "originalText": "Het burgerberaad, ook in kleinschaliger vorm (zoals wijkberaad), neemt een prominente plek in bij participatiebeleid.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "burgerberaad",
+        "wijkberaad",
+        "participatie"
+      ]
+    },
+    {
+      "text": "Raadgevend referendum invoeren bij belangrijke besluiten zoals grote bouwprojecten of gemeentelijke herindeling, inclusief wijkreferenda.",
+      "originalText": "Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook maken we wijkreferenda mogelijk.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "referendum",
+        "bouwprojecten",
+        "wijkreferenda"
+      ]
+    },
+    {
+      "text": "Bebording op locatie standaard inzetten om bewoners te informeren over projecten in hun wijk.",
+      "originalText": "Dankzij de Partij voor de Dieren wordt bebording op locatie standaard ingezet als laagdrempelige en duidelijke manier om bewoners te informeren over projecten in hun wijk.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bebording",
+        "informatievoorziening",
+        "wijkprojecten"
+      ]
+    },
+    {
+      "text": "Gemeentelijke website over bouwprojecten uitbreiden en beter inrichten voor participatie van bewoners.",
+      "originalText": "De gemeentelijke website over bouwprojecten wordt uitgebreid en beter ingericht op participatie, zodat bewoners eenvoudiger kunnen meepraten en weten wat er in hun wijk speelt.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "website",
+        "bouwprojecten",
+        "participatie"
+      ]
+    },
+    {
+      "text": "Buurtbegroting en buurtbudgetten invoeren om inwoners hun wijk leefbaar te laten maken voor mens en dier.",
+      "originalText": "Den Haag faciliteert de plannen van inwoners om hun wijk leefbaar te maken voor mens en dier door participatievormen zoals een buurtbegroting en buurtbudgetten.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buurtbegroting",
+        "buurtbudgetten",
+        "wijkverbetering"
+      ]
+    },
+    {
+      "text": "Één gemeentelijk loket oprichten dat alle klachten coördineert, ook 's nachts en in het weekend bereikbaar.",
+      "originalText": "Er komt één gemeentelijk loket dat alle klachten coördineert. Tijdens de nacht en in het weekend is het klachtenloket ook bereikbaar voor meldingen van overlast en overtredingen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "klachtenloket",
+        "24-uurs bereikbaarheid",
+        "overlast"
+      ]
+    },
+    {
+      "text": "Kinderraad oprichten die de gemeenteraad gevraagd en ongevraagd kan adviseren.",
+      "originalText": "Er komt een kinderraad, die de gemeenteraad gevraagd en ongevraagd kan adviseren.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kinderraad",
+        "advies",
+        "gemeenteraad"
+      ]
+    },
+    {
+      "text": "Lokaal mediafonds oprichten voor niet-commerciële lokale media om onafhankelijke journalistiek te bevorderen.",
+      "originalText": "Om onafhankelijke (onderzoeks)journalistiek te bevorderen komt er een breed toegankelijk lokaal mediafonds voor niet-commerciële lokale media.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mediafonds",
+        "journalistiek",
+        "lokale media"
+      ]
+    },
+    {
+      "text": "Gemeentelijk openbaar lobbyregister invoeren, bij raadsvoorstellen betrokkenheid lobbyisten standaard vermelden.",
+      "originalText": "Er komt een gemeentelijk, openbaar lobbyregister. Bij raadsvoorstellen en beleidskaders wordt standaard vermeld welke betrokkenheid lobbyisten en belangenbehartigers bij de voorstellen hebben gehad.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lobbyregister",
+        "transparantie",
+        "raadsvoorstellen"
+      ]
+    },
+    {
+      "text": "Online track-and-trace voorziening introduceren waarmee inwoners hun aanvraag bij gemeente realtime kunnen volgen.",
+      "originalText": "Den Haag gaat experimenteren met een online 'track and trace'-voorziening waarmee de inwoners hun aanvraag bij de gemeente realtime kunnen volgen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "track-and-trace",
+        "aanvragen",
+        "digitale dienstverlening"
+      ]
+    },
+    {
+      "text": "Inhuur van extern personeel onder de 10% houden om kennisverrlies te voorkomen.",
+      "originalText": "De continue in- en uitstroom van extern personeel veroorzaakt verlies van kennis, ervaring en binding met de gemeente en samenleving. Het doel is de inhuur van extern personeel onder de 10% te houden.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "extern personeel",
+        "10 procent",
+        "kennisbehoud"
+      ]
+    },
+    {
+      "text": "De gemeente gaat binnen een ambitieuze termijn over naar veilige, gedecentraliseerde, opensource- en open-standaardtoepassingen ontwikkeld met privacy by design.",
+      "originalText": "De gemeente gaat binnen een ambitieuze termijn over naar zo veel mogelijk veilige, gedecentraliseerde, opensource- en open-standaardtoepassingen ontwikkeld met privacy by design. Hierin wordt samengewerkt met andere overheden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "digitale infrastructuur",
+        "opensource",
+        "privacy",
+        "technologie"
+      ]
+    },
+    {
+      "text": "Advertentieborden met gezichtsherkenning of andere 'slimme' camera's worden verboden.",
+      "originalText": "Advertentieborden met gezichtsherkenning of andere 'slimme' camera's worden verboden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "privacy",
+        "camera's",
+        "gezichtsherkenning",
+        "verbod"
+      ]
+    },
+    {
+      "text": "Den Haag verbiedt Bluetooth- en wifitracking van inwoners in de openbare ruimte en zorgt voor veilige wifi.",
+      "originalText": "Den Haag verbiedt Bluetooth- en wifitracking van inwoners in de openbare ruimte en zorgt voor veilige wifi.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "privacy",
+        "tracking",
+        "wifi",
+        "openbare ruimte"
+      ]
+    },
+    {
+      "text": "Er komt een publiek toegankelijk online sensorenregister en het plaatsen van sensoren in de openbare ruimte mag alleen met een meldplicht.",
+      "originalText": "Er komt een publiek toegankelijk online sensorenregister en het plaatsen van sensoren in de openbare ruimte mag alleen met een meldplicht. Alle op openbare plekken verzamelde data zijn open data en deze gegevens staan ter beschikking van eenieder, tenzij het persoonsgegevens betreft.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sensoren",
+        "register",
+        "openbare ruimte",
+        "transparantie"
+      ]
+    },
+    {
+      "text": "De aanmeldingsplicht voor kleine demonstraties wordt afgeschaft.",
+      "originalText": "De gemeente wekt ten onrechte de indruk dat kleine demonstraties moeten worden aangemeld. Die schijnplicht hoort niet thuis in een vrije stad. De aanmeldingsplicht voor kleine demonstraties wordt afgeschaft.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "demonstratierecht",
+        "aanmeldingsplicht",
+        "grondrechten"
+      ]
+    },
+    {
+      "text": "Surveillance van vreedzame demonstranten stopt.",
+      "originalText": "Den Haag faciliteert het demonstratierecht zo goed mogelijk en surveillance van vreedzame demonstranten stopt.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "surveillance",
+        "demonstranten",
+        "privacy",
+        "handhaving"
+      ]
+    }
+  ]
+}

@@ -130,16 +130,36 @@ async function findParty(abbreviation: string) {
   return party;
 }
 
-// ─── Find Program ───────────────────────────────────────────────
+// ─── Find or Create Program ─────────────────────────────────────
 
-async function findProgram(partyId: string, year: number, programType: string = 'VERKIEZINGSPROGRAMMA') {
-  return prisma.program.findFirst({
+async function findOrCreateProgram(
+  partyId: string,
+  data: PromiseFile,
+  tkParliamentId: string,
+) {
+  const existing = await prisma.program.findFirst({
     where: {
       partyId,
-      electionYear: year,
-      programType: programType as any,
+      electionYear: data.electionYear,
+      programType: 'VERKIEZINGSPROGRAMMA',
     },
   });
+  if (existing) return existing;
+
+  const created = await prisma.program.create({
+    data: {
+      partyId,
+      electionYear: data.electionYear,
+      programType: 'VERKIEZINGSPROGRAMMA',
+      title: data.program,
+      sourceUrl: data.sourceUrl || '',
+      pdfHash: data.pdfHash || null,
+      rawText: '',
+      parliamentId: tkParliamentId,
+    },
+  });
+  console.log(`  📝 Created Program record for ${data.party} TK${data.electionYear}`);
+  return created;
 }
 
 // ─── Seed Logic ─────────────────────────────────────────────────
@@ -167,6 +187,14 @@ export async function seedPromisesFromJson(options: SeedOptions = {}): Promise<v
   if (pattern.length === 0) {
     console.log('[SEED-JSON] No promise JSON files found. Run extract-promises first.');
     return;
+  }
+
+  // Look up tweede-kamer parliament ID (needed for auto-creating programs)
+  const tkParliament = await prisma.parliament.findFirst({
+    where: { slug: 'tweede-kamer' },
+  });
+  if (!tkParliament) {
+    throw new Error('Parliament "tweede-kamer" not found. Run fracties ingest first.');
   }
 
   let totalSeeded = 0;
@@ -199,7 +227,7 @@ export async function seedPromisesFromJson(options: SeedOptions = {}): Promise<v
         continue;
       }
 
-      // Find party & program
+      // Find party & program (auto-create program if missing)
       const party = await findParty(abbr);
       if (!party) {
         console.log(`  ❌ ${abbr}: Party not found in DB. Run fracties ingest first.`);
@@ -207,12 +235,7 @@ export async function seedPromisesFromJson(options: SeedOptions = {}): Promise<v
         continue;
       }
 
-      const program = await findProgram(party.id, year);
-      if (!program) {
-        console.log(`  ❌ ${abbr}: Program not found for year ${year}. Run programs ingest first.`);
-        totalFailed++;
-        continue;
-      }
+      const program = await findOrCreateProgram(party.id, data, tkParliament.id);
 
       // Optionally delete existing promises for this program
       if (options.replace) {

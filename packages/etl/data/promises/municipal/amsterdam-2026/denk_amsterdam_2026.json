@@ -1,0 +1,764 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verkiezingsprogramma DENK Amsterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "denk_amsterdam_2026.pdf",
+  "extractedAt": "2026-03-03T11:36:37.171Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "De gemeente stelt een gemeentelijke coördinator tegen discriminatie en racisme aan die alle initiatieven verbindt en het thema aanjaakt.",
+      "originalText": "Amsterdam stelt een gemeentelijke coördinator tegen discriminatie en racisme aan: deze coördinator volgt de werkwijze van de Nationale Coördinator tegen Discriminatie en Racisme door alle initiatieven tegen discriminatie aan elkaar te verbinden en het thema blijvend aanjagen;",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "discriminatie",
+        "coördinator",
+        "racisme"
+      ]
+    },
+    {
+      "text": "De gemeente voert een discriminatietoets in voor alle beleid en verplicht dit ook voor deelnemingen.",
+      "originalText": "De gemeente Amsterdam voert de discriminatietoets in: de discriminatietoets is een instrument ontwikkeld door de Staatscommissie tegen Discriminatie en Racisme. Door het beantwoorden van vragen en het maken van opdrachten worden vooroordelen zichtbaar, waarmee discriminatie bestreden kan worden. Wij verplichten het ook voor onze deelnemingen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "discriminatietoets",
+        "beleid",
+        "deelnemingen"
+      ]
+    },
+    {
+      "text": "Religieuze en maatschappelijke organisaties krijgen jaarlijks 1.000 uur gratis parkeertijd voor vrijwilligers.",
+      "originalText": "Verlaag de drempel voor vrijwilligerswerk door 1.000 parkeeruren gratis aan te bieden: religieuze en maatschappelijke organisaties krijgen per jaar 1.000 uur gratis parkeertijd, zodat vrijwilligers die met de auto komen hun belangrijke werk zonder financiële drempels kunnen doen;",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeren",
+        "gratis",
+        "vrijwilligers",
+        "1000 uur"
+      ]
+    },
+    {
+      "text": "Bij nieuwe woonwijken wordt standaard rekening gehouden met ruimte voor religieuze en levensbeschouwelijke instellingen.",
+      "originalText": "Verplichte ruimte voor gebedshuizen in nieuwe wijken: bij de planning van nieuwe woonwijken wordt standaard rekening gehouden met ruimte voor religieuze en levensbeschouwelijke instellingen, net zoals voor scholen en sportvoorzieningen. Elke buurt verdient zijn eigen gebedshuis dichtbij.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gebedshuizen",
+        "nieuwe wijken",
+        "planning"
+      ]
+    },
+    {
+      "text": "Schoolgaande kinderen gaan tenminste één keer naar het Slavernijmuseum.",
+      "originalText": "Doorwerking van het slavernij- en koloniale verleden: schoolgaande kinderen gaan tenminste één keer naar het Slavernijmuseum, wij zorgen ervoor dat meer gemeenschappen meedoen met Keti Koti en trekken voldoende geld uit voor herstelmaatregelen rond het slavernij- en koloniale verleden, net zoals eerder is gedaan voor de Joodse gemeenschap;",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "slavernijmuseum",
+        "schoolkinderen",
+        "bezoek"
+      ]
+    },
+    {
+      "text": "Amsterdam erkent en herdenkt de Palestijnse Nakba jaarlijks op 15 mei.",
+      "originalText": "Amsterdam herdenkt de Nakba: Amsterdam erkent en herdenkt de Palestijnse Nakba jaarlijks op 15 mei, als onderdeel van onze bredere Tweede Wereldoorlogverleden en koloniale verleden. We leren van het leed uit het verleden om in het heden niet meer weg te kijken van het Palestijnse leed;",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "nakba",
+        "herdenking",
+        "15 mei",
+        "jaarlijks"
+      ]
+    },
+    {
+      "text": "Amsterdam realiseert een Gaza-monument in de vorm van bijvoorbeeld een olijfboom.",
+      "originalText": "Amsterdam realiseert een Gaza-monument: dit monument (bijvoorbeeld in de vorm van een olijfboom) wordt een tastbare herinnering aan de verschrikkingen die tegen de Palestijnen zijn begaan, mede mogelijk gemaakt door onze regering;",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gaza-monument",
+        "olijfboom",
+        "herinnering"
+      ]
+    },
+    {
+      "text": "In nieuwbouwprojecten wordt een oplopend percentage tot 30% geschikt gemaakt voor gezinnen met drie kamers of meer.",
+      "originalText": "Meer gezinswoningen bouwen: in veel nieuwbouwprojecten is amper ruimte voor jonge gezinnen. DENK wil dat in alle nieuwbouwprojecten een minimumpercentage geschikt wordt gemaakt voor gezinnen – met drie kamers of meer en een redelijke huur of koopprijs. Dit percentage gaat oplopen tot 30% van alle woningen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gezinswoningen",
+        "30 procent",
+        "drie kamers",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Een pilot huurkoop wordt gestart samen met corporaties en ontwikkelaars voor starters.",
+      "originalText": "Pilot huurkoop voor starters: DENK wil starters met weinig vermogen helpen om een woning te kopen. Daarom starten we, samen met corporaties en ontwikkelaars, een pilot huurkoop. Hiermee bieden wij ook een reële optie voor eigen woningbezit aan Amsterdammers die vanuit principiële en/of religieuze redenen geen hypotheek kunnen afsluiten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huurkoop",
+        "pilot",
+        "starters",
+        "corporaties"
+      ]
+    },
+    {
+      "text": "Een stimuleringsbonus van €1.000 wordt gegeven aan huurders die te groot wonen en kleiner willen wonen.",
+      "originalText": "Een stimuleringsbonus van €1.000,- voor wie te groot woont en kleiner wil wonen: huurders die te groot wonen en naar een woning willen verhuizen die beter bij hun eigen woonsituatie past, helpen wij met een verhuisvergoeding en een stimuleringsbonus van 1.000 euro.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stimuleringsbonus",
+        "1000 euro",
+        "verhuizen",
+        "doorstroming"
+      ]
+    },
+    {
+      "text": "Stimuleren van vrijwillige woningruil met een bonus van €1.000 om doorstroom te bevorderen, met behoud van huidige huurprijs.",
+      "originalText": "stimuleren vrijwillige woningruil met een bonus van €1.000 om de doorstroom te bevorderen, met behoud van de huidige huurprijs",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "woningruil",
+        "bonus",
+        "doorstroom",
+        "huurprijs"
+      ]
+    },
+    {
+      "text": "Mystery guests inzetten om verhuurdiscriminatie te bestrijden. Bij discriminatie volgt boete of intrekking van vergunning.",
+      "originalText": "Verhuurdiscriminatie proactief bestrijden: we zetten mystery guests in om te toetsen of makelaars en verhuurders zich schuldig maken aan discriminatie. Bij aantoonbare discriminatie volgt een boete of intrekking van de vergunning",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "discriminatie",
+        "mystery guests",
+        "boete",
+        "vergunning"
+      ]
+    },
+    {
+      "text": "Erfpachtstelsel eenvoudiger en betaalbaarder maken en bewoners meer zekerheid geven over woonlasten.",
+      "originalText": "Eerlijker erfpachtstelsel: Amsterdam voert een mensgericht erfpachtbeleid. Complexe rekenmethodes en plotselinge extreme canonstijgingen behoren tot het verleden. We maken het erfpachtstelsel eenvoudiger en betaalbaarder, en geven bewoners meer zekerheid over hun woonlasten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "erfpacht",
+        "betaalbaarder",
+        "woonlasten",
+        "eenvoudiger"
+      ]
+    },
+    {
+      "text": "Isoleren van woningen versnellen, beginnend in buurten met grootste achterstanden.",
+      "originalText": "Gezonde woningen voor iedereen: de gemeente versnelt het isoleren van woningen, te beginnen in buurten met de grootste achterstanden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "isoleren",
+        "woningen",
+        "achterstanden",
+        "versnellen"
+      ]
+    },
+    {
+      "text": "Afvalstoffenheffing niet verhogen en niet differentiëren naar huishoudgrootte.",
+      "originalText": "afvalstoffenheffing zal niet worden verhoogd en niet gedifferentieerd naar huishoudgrootte, omdat de lasten dan onevenredig voor grotere gezinnen zouden stijgen",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afvalstoffenheffing",
+        "verhogen",
+        "huishoudgrootte",
+        "lasten"
+      ]
+    },
+    {
+      "text": "Gelijke kansentoets invoeren om te meten of investeringen kloof tussen binnenstad en buitenwijken verkleinen.",
+      "originalText": "De gemeente Amsterdam voert een gelijke kansen-toets in: dit is een instrument om te meten of investeringen de kloof tussen binnenstad en buitenwijken verkleinen of juist vergroten.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gelijke kansentoets",
+        "investeringen",
+        "binnenstad",
+        "buitenwijken"
+      ]
+    },
+    {
+      "text": "Inkomensgrens voor Stadspas verhogen naar circa 170% van wettelijk sociaal minimum (€2.383 alleenstaanden, €3.404 gezinnen).",
+      "originalText": "Daarom verhogen wij de inkomensgrens voor de Stadspas naar circa 170% van het wettelijk sociaal minimum. Dat betekent (op basis van de normen per 1 januari 2026) ongeveer €2.383 per maand voor alleenstaanden en €3.404 per maand voor paren/gezinnen",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stadspas",
+        "inkomensgrens",
+        "sociaal minimum",
+        "alleenstaanden"
+      ]
+    },
+    {
+      "text": "Collectieve zorgverzekering uitbreiden voor inkomens tot 170% van sociaal minimum om zorgkosten te verlagen.",
+      "originalText": "De collectieve zorgverzekering breiden wij ook uit voor inkomens tot 170% van het sociaal minimum, om de zorgkosten van meer Amsterdammers te verlagen",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zorgverzekering",
+        "170%",
+        "zorgkosten",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Herstelhuis voor toeslagengedupeerden behouden en ondersteuning voor betrokken organisaties voorttzetten.",
+      "originalText": "Wij behouden het herstelhuis: mede dankzij DENK is er een herstelhuis gekomen voor gedupeerden. Deze voorziening, en ook andere betrokken organisaties in de stad, hebben hun waarde bewezen en moeten worden voortgezet.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "herstelhuis",
+        "toeslagengedupeerden",
+        "ondersteuning",
+        "behouden"
+      ]
+    },
+    {
+      "text": "Een wekelijks gratis parkeeruurtje invoeren voor bewoners met een parkeervergunning voor korte bezoekjes.",
+      "originalText": "Wekelijks gratis parkeeruurtje voor Amsterdammers: om korte bezoekjes mogelijk te maken voeren we een wekelijks gratis parkeeruurtje in voor bewoners met een parkeervergunning. Zo kunnen Amsterdammers even bij oma langs, een ondernemer op de markt bezoeken of boodschappen doen zonder hoge parkeerkosten",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeren",
+        "gratis",
+        "bewoners",
+        "parkeervergunning"
+      ]
+    },
+    {
+      "text": "Stoppen met onnodige knips en wegafsluitingen en eerst investeren in OV en veilige fietspaden voordat autogebruik verder wordt beperkt.",
+      "originalText": "Amsterdam bereikbaar voor iedereen: we stoppen met onnodige knips en wegafsluitingen. Minder auto's is pas een optie als er voldoende goede alternatieven zijn. Zonder forse investeringen in openbaar vervoer en fietsveiligheid leidt een geforceerde autoluwer beleid tot mobiliteitsarmoede. Daarom investeren we eerst in OV (betere frequenties, nieuwe lijnen) en veilige fietspaden, vóórdat we het autogebruik verder beperken",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "knips",
+        "wegafsluitingen",
+        "openbaar vervoer",
+        "fietspaden"
+      ]
+    },
+    {
+      "text": "De korting op bezoekersvergunning verhogen naar 100% zodat deze gratis wordt en de bijbehorende app toegankelijker maken.",
+      "originalText": "Bezoekersvergunning wordt gratis en gebruiksvriendelijker: DENK verhoogt de korting op de bezoekersvergunning naar 100%, zodat mensen eindelijk hun familie, mantelzorger of hulpverlener kunnen ontvangen zonder extra kosten. De bijbehorende app moet net zo toegankelijk en begrijpelijk werken als een gewone parkeerapp.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bezoekersvergunning",
+        "gratis",
+        "app",
+        "korting"
+      ]
+    },
+    {
+      "text": "Via de Stadspas periodiek gratis OV-kaartjes verstrekken aan lage- en middeninkomens.",
+      "originalText": "Gratis OV voor meer Amsterdammers: we behouden de huidige kortingen voor het openbaar vervoer voor specifieke groepen, zoals kinderen en AOW-gerechtigden. Daarnaast verstrekken we via de Stadspas periodiek gratis OV-kaartjes aan lage – en middeninkomens",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ov",
+        "gratis",
+        "stadspas",
+        "lage inkomens"
+      ]
+    },
+    {
+      "text": "Betaald parkeren niet uitbreiden zonder aantoonbaar draagvlak onder direct betrokken bewoners.",
+      "originalText": "Geen uitbreiding van betaald parkeren zonder draagvlak: betaald parkeren – inclusief verruiming van venstertijden – wordt niet uitgebreid zonder aantoonbaar draagvlak onder direct betrokken bewoners. DENK verzet zich tegen maatregelen die de parkeerdruk verhogen, zoals het onzorgvuldig opheffen van parkeerplaatsen",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "betaald parkeren",
+        "draagvlak",
+        "bewoners",
+        "uitbreiding"
+      ]
+    },
+    {
+      "text": "Vitale werkers zoals zorgpersoneel en leraren kunnen zonder wachttijd via hun werkgever een parkeervergunning krijgen.",
+      "originalText": "Parkeren voor vitale beroepen: cruciale beroepen zoals zorgpersoneel, leraren, kinderopvangmedewerkers en andere vitale werkers kunnen zonder wachttijd via hun werkgever een parkeervergunning krijgen",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vitale beroepen",
+        "parkeervergunning",
+        "zorgpersoneel",
+        "leraren"
+      ]
+    },
+    {
+      "text": "Vaart maken met bereikbaarheidsprojecten zoals het sluiten van de metroring en de bouw van een brug/tunnel over het IJ.",
+      "originalText": "Versnel grote OV-projecten: we maken vaart met de bereikbaarheid van morgen. Projecten zoals het sluiten van de metroring (Isolatorweg–CS) en de bouw van een brug/tunnel over het IJ worden geprioriteerd",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "metroring",
+        "ij",
+        "brug",
+        "tunnel",
+        "ov-projecten"
+      ]
+    },
+    {
+      "text": "Gevaarlijke kruispunten met prioriteit aanpakken en herinrichten met veiligere oversteekplaatsen.",
+      "originalText": "Verkeersveiligheid staat voorop: we maken verkeersveiligheid expliciet tot speerpunt. We passen maatwerk toe met betrekking tot de maximale snelheid in de stad. Gevaarlijke kruispunten pakken we met prioriteit aan en herinrichten we met veiligere oversteekplaatsen",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kruispunten",
+        "verkeersveiligheid",
+        "oversteekplaatsen",
+        "herinrichten"
+      ]
+    },
+    {
+      "text": "Meer goederen en diensten inkopen bij lokale ondernemers en bedrijven om de stadseconomie te stimuleren.",
+      "originalText": "Koop lokaal in als gemeente: de gemeente Amsterdam gaat meer goederen en diensten inkopen bij lokale ondernemers en bedrijven om onze stadseconomie te stimuleren",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lokaal inkopen",
+        "ondernemers",
+        "stadseconomie",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "Via de I amsterdam City Card bezoekers meer kortingen aanbieden bij restaurants en winkels in de buitenwijken.",
+      "originalText": "Spreid toeristenstromen: via de I amsterdam City Card gaan wij bezoekers en toeristen meer kortingen aanbieden bij bijvoorbeeld restaurants en winkels in de buitenwijken. Zo stimuleren we bezoekers hun geld ook daar uit te geven, wat de druk op de binnenstad vermindert",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "city card",
+        "kortingen",
+        "buitenwijken",
+        "toeristen"
+      ]
+    },
+    {
+      "text": "Structurele financiering voor jongerenwerk en zorgen dat jongerencentra de mogelijkheid krijgen om langer open te zijn.",
+      "originalText": "Waardeer het jongerenwerk: jongerenwerkers zijn de eersten die met jongeren in contact komen, nog vóór de politie. Daarom moet er structurele financiering komen voor jongerenwerk en mogen zij niet afhankelijk zijn van tijdelijke subsidies. Ook moeten er voldoende jongerencentra komen en moeten deze de mogelijkheid krijgen om langer open te zijn",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenwerk",
+        "structurele financiering",
+        "jongerencentra",
+        "openingstijden"
+      ]
+    },
+    {
+      "text": "MBO-traineeships bij de gemeente Amsterdam uitbreiden naar gemeentelijke deelnemingen met uitzicht op een voltijdbaan.",
+      "originalText": "MBO-traineeships uitbreiden: wij blijven mbo-traineeships realiseren bij de gemeente Amsterdam, met uitzicht op een voltijdbaan. Ook breiden wij deze uit naar onze gemeentelijke deelnemingen",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mbo-traineeships",
+        "gemeente",
+        "deelnemingen",
+        "voltijdbaan"
+      ]
+    },
+    {
+      "text": "Jongeren die in hetzelfde stadsdeel willen wonen krijgen voorrang op 50% van de nieuwe jongerenwoningen.",
+      "originalText": "Voorrang op een woning: jongeren die in hetzelfde stadsdeel willen wonen, krijgen voorrang op 50% van de nieuwe jongerenwoningen",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "jongeren",
+        "voorrang",
+        "woningen",
+        "stadsdeel"
+      ]
+    },
+    {
+      "text": "Een nieuw zorgtehuis voor ouderen met migratieachtergrond starten als pilot, bijvoorbeeld in Nieuw-West, met specifieke voorzieningen voor taal, eetgewoonten en culturele behoeften.",
+      "originalText": "Een nieuw zorgtehuis voor de eerste generatie met migratieachtergrond: we starten als pilot een woonzorgcentrum voor ouderen met een migratieachtergrond, bijvoorbeeld in Nieuw-West. De vergrijzing onder deze groep neemt toe, met alle gevolgen van dien (eenzaamheid, taal- en cultuurbarrières). Deze groep mogen we niet vergeten. Dit woonzorgcentrum houdt rekening met hun specifieke behoeften – zoals taal, eetgewoonten (halal/vegetarisch) en culturele/religieuze voorzieningen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zorgtehuis",
+        "migratieachtergrond",
+        "ouderen",
+        "nieuw-west"
+      ]
+    },
+    {
+      "text": "De gemeentelijke collectieve zorgverzekering uitbreiden naar middeninkomens tot 170% van het sociaal minimum voor lagere premies en meer zorghulp.",
+      "originalText": "Collectieve zorgverzekering voor minima: Amsterdam breidt de gemeentelijke collectieve zorgverzekering uit naar middeninkomens (170% van het sociaal minimum), zodat ook deze Amsterdammers een lagere premie krijgen met meer zorghulp;",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zorgverzekering",
+        "middeninkomens",
+        "170%",
+        "sociaal minimum"
+      ]
+    },
+    {
+      "text": "Een taskforce oprichten voor eerste generatie met migratieachtergrond met een integraal plan voor dementie, eenzaamheid, taalbarrières en cultuursensitieve ondersteuning.",
+      "originalText": "Taskforce eerste generatie met migratieachtergrond: we zijn het verplicht om waardige zorg aan te bieden aan de generatie die de stad heeft opgebouwd. Ook lopen deze ouderen het grootste risico om over het hoofd te worden gezien door het systeem. Daarom schalen we de gemeentelijke inzet op naar een taskforce en komen we met een integraal plan voor dementie, eenzaamheid, taalbarrières en religie-/cultuursensitieve ondersteuning;",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "taskforce",
+        "migratieachtergrond",
+        "dementie",
+        "eenzaamheid"
+      ]
+    },
+    {
+      "text": "Alcoholreclame op billboards niet toestaan en samenwerken met sportclubs om alcoholverkoop te stoppen wanneer kinderen aanwezig zijn.",
+      "originalText": "Alcoholreclame op billboards laten we niet toe: en we werken samen met sportclubs zodat zij geen alcohol meer verkopen als er kinderen aanwezig zijn;",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "alcoholreclame",
+        "billboards",
+        "sportclubs",
+        "kinderen"
+      ]
+    },
+    {
+      "text": "Coffeeshops uit woonwijken weren door hun verhuizing naar de rand van de stad te faciliteren of ze uit te kopen.",
+      "originalText": "Daarnaast willen we coffeeshops uit woonwijken weren: we faciliteren hun verhuizing naar de rand van de stad of zijn bereid ze uit te kopen;",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coffeeshops",
+        "woonwijken",
+        "verhuizing",
+        "uitkopen"
+      ]
+    },
+    {
+      "text": "Respijtzorg voor mantelzorgers uitbreiden en de financiële vergoeding voor hen behouden.",
+      "originalText": "Mantelzorgers ondersteunen: we tonen onze waardering voor mantelzorgers door de respijtzorg uit te breiden, de financiële vergoeding voor hen te behouden en hen beter te informeren over het feit dat zij niet alle lasten alleen hoeven te dragen en over waar ze terechtkunnen voor hulp;",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mantelzorgers",
+        "respijtzorg",
+        "uitbreiden",
+        "financiële vergoeding"
+      ]
+    },
+    {
+      "text": "Kleinschalige opvang oprichten voor dakloze jongeren, vrouwen en lhbti-personen met goede begeleiding.",
+      "originalText": "Kleinschalige opvang voor dakloze jongeren en vrouwen: we hebben extra aandacht voor groepen die kwetsbaar zijn in de opvang, zoals dakloze jongeren, vrouwen en lhbti-personen. Zij krijgen een veilige, kleinschalige opvang met goede begeleiding.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kleinschalige opvang",
+        "dakloze jongeren",
+        "vrouwen",
+        "lhbti"
+      ]
+    },
+    {
+      "text": "Een Amsterdams Zorgakkoord sluiten met religieuze instellingen voor mentale gezondheid, armoedebestrijding, jongerenwerk en ouderenzorg.",
+      "originalText": "Amsterdams Zorgakkoord met religieuze instellingen: moskeeën, kerken, mandirs, synagogen en gurdwara's bereiken mensen die de gemeente vaak niet bereikt. We sluiten een zorgakkoord met deze instellingen voor mentale gezondheid, armoedebestrijding, jongerenwerk en ouderenzorg.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zorgakkoord",
+        "religieuze instellingen",
+        "mentale gezondheid",
+        "armoedebestrijding"
+      ]
+    },
+    {
+      "text": "Structureel extra geld vrijmaken om wachttijden in de jeugdzorg te verkorten, jaarlijks tientallen miljoenen euro's reserveren.",
+      "originalText": "Extra geld tegen wachtlijsten in de jeugdzorg: Amsterdam blijft structureel extra geld vrijmaken om wachttijden in de jeugdzorg te verkorten. We reserveren jaarlijks tientallen miljoenen euro's, zodat jeugdzorgaanbieders voldoende capaciteit hebben.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdzorg",
+        "wachttijden",
+        "miljoenen euro's",
+        "capaciteit"
+      ]
+    },
+    {
+      "text": "Gratis huisbeveiligingspakketten aanbieden aan huurders in kwetsbare wijken, eerst voor lage inkomens, later uitbreiden naar middeninkomens.",
+      "originalText": "Gratis huisbeveiligingspakketten voor de lage en middeninkomens: huurders in kwetsbare wijken bieden wij pakketten aan ter beveiliging van hun huizen, met daarin anti-inbraakstrips, verlichting, maar ook brandmelders. Deze bieden we als eerste aan de lage inkomens en breiden bij succes uit naar de middeninkomens;",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huisbeveiligingspakketten",
+        "kwetsbare wijken",
+        "anti-inbraakstrips",
+        "brandmelders"
+      ]
+    },
+    {
+      "text": "Buurtrechtbanken uitbreiden naar andere stadsdelen zoals Noord, na succesvolle uitbreiding van Zuidoost naar Nieuw-West.",
+      "originalText": "Uitbreiding van de buurtrechtbanken: de buurtrechtbanken zijn succesvol gebleken in het voorkomen en beslechten van conflicten in de wijk. Op aandringen van DENK is de buurtrechtbank uitgebreid van Zuidoost naar Nieuw-West. Wij zullen ons blijven inzetten voor verdere uitbreiding, bijvoorbeeld naar Noord;",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buurtrechtbanken",
+        "uitbreiding",
+        "noord",
+        "conflicten"
+      ]
+    },
+    {
+      "text": "Een Femicide Taskforce oprichten die risicovolle zaken actief volgt en extra opvangplekken en cultuursensitieve hulpverlening investeren.",
+      "originalText": "Actieplan Femicide: Amsterdam komt met een aparte aanpak tegen vrouwenmoord en huiselijk geweld. We richten een Femicide Taskforce op die risicovolle zaken actief volgt en ingrijpt voordat het te laat is. Samen met de politie starten we een onderzoek om te verkennen hoe we signalen van dreigend geweld eerder kunnen herkennen. Ook investeren we in extra opvangplekken en cultuursensitieve hulpverlening.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "femicide taskforce",
+        "huiselijk geweld",
+        "opvangplekken",
+        "cultuursensitieve hulpverlening"
+      ]
+    },
+    {
+      "text": "Harde doelen stellen voor diversiteit binnen de gemeenteorganisatie en adviesorganen. Uiterlijk in 2030 moet het personeelsbestand van de gemeente op alle niveaus een afspiegeling zijn van de stad naar etniciteit, geslacht, beperking en leeftijd.",
+      "originalText": "we stellen harde doelen voor diversiteit binnen de gemeenteorganisatie en adviesorganen. Uiterlijk in 2030 moet het personeelsbestand van de gemeente op alle niveaus een afspiegeling zijn van de stad (naar etniciteit, geslacht, beperking én leeftijd).",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "diversiteit",
+        "gemeenteorganisatie",
+        "personeelsbestand",
+        "2030"
+      ]
+    },
+    {
+      "text": "Wijkbegrotingen voortzetten en structureel samenwerken met bewonerscollectieven en buurtplatformen om bewoners daadwerkelijk invloed te geven op beleid.",
+      "originalText": "Daarom blijven wij inzetten op het voortzetten van wijkbegrotingen en door structureel samen te werken met bewonerscollectieven en buurtplatformen. Dat vraagt om een open houding van de gemeente, waarin bewoners niet alleen mogen meedenken, maar ook daadwerkelijk invloed hebben.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkbegrotingen",
+        "bewonerscollectieven",
+        "buurtplatformen",
+        "burgerparticipatie"
+      ]
+    },
+    {
+      "text": "Minimale opkomst van 30% bij verkiezingen als doel stellen en opkomstcampagnes richten op groepen die nu thuisblijven, met meertalige communicatie als mogelijkheid.",
+      "originalText": "We stellen een minimale opkomst van 30% als doel, zodat er structurele beleidsaandacht is. We richten de opkomstcampagne ook specifiek op de groepen die nu thuisblijven, zodat we hen beter bereiken; meertalige communicatie behoort daarbij tot de mogelijkheden.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "verkiezingsopkomst",
+        "30%",
+        "meertalige communicatie",
+        "campagne"
+      ]
+    },
+    {
+      "text": "Alle stembureaus toegankelijk maken voor ouderen en rolstoelgebruikers.",
+      "originalText": "Daarnaast zorgen we dat alle stembureaus op korte termijn toegankelijk zijn voor ouderen en rolstoelgebruikers",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stembureaus",
+        "toegankelijkheid",
+        "ouderen",
+        "rolstoelgebruikers"
+      ]
+    },
+    {
+      "text": "Raadsvergaderingen toegankelijker maken met meertalige ondertiteling via AI en mogelijkheden onderzoeken om beleidsstukken via AI te vertalen.",
+      "originalText": "we maken de raadsvergaderingen toegankelijker met meertalige ondertiteling (met behulp van AI). Ook onderzoeken we de mogelijkheden om beleidsstukken eenvoudig via AI te vertalen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "raadsvergaderingen",
+        "meertalige ondertiteling",
+        "ai",
+        "beleidsstukken"
+      ]
+    },
+    {
+      "text": "Het meest investeren in kwetsbare buurten Nieuw-West, Zuidoost en Noord voor de energietransitie. Woningen worden daar als eerste geïsoleerd en vergroend.",
+      "originalText": "we investeren het meest in de buurten waar de nood het hoogst is: Nieuw-West, Zuidoost en Noord. Woningen worden dáár als eerste geïsoleerd en vergroend",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "energietransitie",
+        "nieuw-west",
+        "zuidoost",
+        "noord",
+        "isolatie"
+      ]
+    },
+    {
+      "text": "Het isolatie-offensief versnellen en beginnen in de slechtst geïsoleerde woningen. Koude, tochtige of vochtige woningen worden verleden tijd.",
+      "originalText": "we versnellen het isolatie-offensief en beginnen hiermee in de slechtst geïsoleerde woningen. Koude, tochtige of vochtige woningen worden verleden tijd",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "isolatie-offensief",
+        "woningisolatie",
+        "energietransitie"
+      ]
+    },
+    {
+      "text": "Korting aanbieden op energiezuinige wasmachines en koelkasten via de Stadspas voor inkomens tot 170% van het wettelijk sociaal minimum.",
+      "originalText": "de gemeente Amsterdam biedt korting aan op de vervanging van oude koelkasten/wasmachines voor nieuwe, energiezuinige versies. Deze bieden we via de Stadspas aan voor inkomens tot 170% van het wettelijk sociaal minimum",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "energiezuinige apparaten",
+        "stadspas",
+        "170%",
+        "sociaal minimum"
+      ]
+    },
+    {
+      "text": "Gratis energiebox aanbieden via de Stadspas voor inkomens tot 170% van het wettelijk sociaal minimum met radiatorfolie, tochtstrips, ledlampen en slimme thermostaten.",
+      "originalText": "Amsterdam biedt opnieuw een energiebox aan, maar ditmaal komt het via de Stadspas beschikbaar voor inkomens tot 170% van het wettelijk sociaal minimum. In de energiebox zit onder meer een radiatorfolie, tochtstrips, ledlampen en slimme thermostaten",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "energiebox",
+        "stadspas",
+        "170%",
+        "energiebesparing"
+      ]
+    },
+    {
+      "text": "Extra bomen planten in de heetste wijken en tegels vervangen door groen zodat iedereen een groene straat en schaduw in de zomer heeft.",
+      "originalText": "in de heetste wijken planten we extra bomen en vervangen we tegels door groen. Iedereen verdient een groene straat en schaduw in de zomer",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bomen planten",
+        "vergroening",
+        "tegels vervangen",
+        "hittestress"
+      ]
+    },
+    {
+      "text": "Woningcorporaties en bewonersinitiatieven ondersteunen bij collectieve zonnepanelenprojecten waarbij de opbrengst naar lagere energielasten voor huurders gaat.",
+      "originalText": "de gemeente Amsterdam ondersteunt woningcorporaties en bewonersinitiatieven bij collectieve zonnepanelenprojecten. De opbrengst hiervan gaat naar lagere energielasten voor huurders, niet naar de verhuurders",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zonnepanelen",
+        "woningcorporaties",
+        "collectieve projecten",
+        "huurders"
+      ]
+    },
+    {
+      "text": "Gemeentelijk fonds oprichten om moskeeën, kerken, tempels en buurtcentra te helpen met isolatie, zonnepanelen en vergroening via 0%-leningen.",
+      "originalText": "we helpen moskeeën, kerken, tempels en buurtcentra met isolatie, zonnepanelen en vergroening. Hierbij bieden wij 0%-leningen aan",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gebedshuizen",
+        "buurtcentra",
+        "0%-leningen",
+        "verduurzaming"
+      ]
+    },
+    {
+      "text": "Één loket oprichten dat subsidies, advies en rentevrije leningen biedt aan zzp'ers en mkb-bedrijven voor duurzaamheidsinvesteringen.",
+      "originalText": "De gemeente richt één loket op dat subsidies, advies en rentevrije leningen biedt voor duurzaamheidsinvesteringen",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "één loket",
+        "mkb",
+        "zzp",
+        "rentevrije leningen",
+        "duurzaamheid"
+      ]
+    },
+    {
+      "text": "Buurthuizen, bibliotheken en gebedshuizen openen als koele ruimtes bij hitte en in elke wijk drinkwaterpunten en schaduwplekken realiseren.",
+      "originalText": "we openen buurthuizen, bibliotheken of gebedshuizen als 'hitteplekken' voor ouderen en kwetsbaren. In elke wijk komen drinkwaterpunten en schaduwplekken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "koele ruimtes",
+        "hittestress",
+        "drinkwaterpunten",
+        "schaduwplekken"
+      ]
+    }
+  ]
+}

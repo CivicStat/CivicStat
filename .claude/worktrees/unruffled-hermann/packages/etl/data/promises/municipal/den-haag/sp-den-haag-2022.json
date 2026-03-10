@@ -1,0 +1,1596 @@
+{
+  "party": "SP",
+  "partySlug": "sp",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Den Haag van iedereen",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 104,
+  "promises": [
+    {
+      "promiseCode": "SP-DH-2022-001",
+      "text": "Van nieuwbouwwoningen moet minimaal 40% sociale huur, 20% middeldure huur en 20% goedkope en middeldure koopwoningen zijn.",
+      "summary": "Nieuwbouw: min. 40% sociale huur, 20% middeldure huur, 20% goedkope/middeldure koop",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "sociale huur",
+        "middeldure huur",
+        "koopwoningen",
+        "percentages"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 3",
+      "originalQuote": "Van de nieuw te bouwen woningen bestaat voortaan minimaal 40 procent uit sociale huur, 20 procent uit middeldure huur en 20 procent uit goedkope en middeldure koopwoningen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-002",
+      "text": "De gemeente koopt gericht woningen op in wijken zoals Laak en Transvaal, knapt deze op en brengt ze onder in een gemeentelijke woningcorporatie voor verhuur in het sociale segment.",
+      "summary": "Gemeente koopt woningen op in Laak en Transvaal voor sociale verhuur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningopkoop",
+        "laak",
+        "transvaal",
+        "gemeentelijke woningcorporatie",
+        "sociale verhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 3",
+      "originalQuote": "De gemeente koopt gericht woningen op in wijken waar huizen nog relatief betaalbaar zijn en waar veel sprake is van slecht verhuurderschap: denk aan Laak en Transvaal. Deze woningen knappen we op en brengen we onder in een gemeentelijke woningcorporatie, om deze vervolgens te verhuren in het sociale segment."
+    },
+    {
+      "promiseCode": "SP-DH-2022-003",
+      "text": "Een verhuurdersvergunning wordt zo snel mogelijk ingevoerd om malafide huisjesmelkers van de markt te weren. Voor een vergunning moeten verhuurders een verduurzamingsplan maken.",
+      "summary": "Invoering verhuurdersvergunning met verduurzamingsplicht",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verhuurdersvergunning",
+        "huisjesmelkers",
+        "verduurzaming",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 3",
+      "originalQuote": "We voeren zo snel mogelijk een verhuurdersvergunning in, zodat malafide huisjesmelkers die Haagse wijken onleefbaar maken van de markt kunnen worden geweerd. Om een vergunning te krijgen voor een nieuw pand moeten particuliere verhuurders een plan maken om hun slecht geïsoleerde woningen te verduurzamen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-004",
+      "text": "Sloop van corporatiewoningen wordt alleen toegestaan als 70% van de bewoners akkoord is en corporaties technisch bewijs leveren dat renovatie niet mogelijk is.",
+      "summary": "Sloopverbod zonder 70% bewonerssteun en technisch bewijs",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sloop",
+        "corporatiewoningen",
+        "bewonerssteun",
+        "technisch bewijs",
+        "renovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 3",
+      "originalQuote": "Sloop van corporatiewoningen staan we enkel toe als 70 procent van de bewoners hiermee akkoord is. Ook moeten corporaties met technisch bewijs komen dat de woningen niet te renoveren zijn."
+    },
+    {
+      "promiseCode": "SP-DH-2022-005",
+      "text": "Er komt een quotum voor bed & breakfasts per wijk en een rem op nieuwe hotelplannen in centrum en Scheveningen om woningen te behouden.",
+      "summary": "Quotum B&B's per wijk, rem op nieuwe hotels centrum/Scheveningen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bed-breakfast",
+        "quotum",
+        "hotels",
+        "centrum",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 4",
+      "originalQuote": "Om schaarse ruimte te behouden voor woningen komt er een rem op nieuwe hotelplannen in het centrum en op Scheveningen. Ook komt er een quotum voor het aantal bed & breakfasts dat we toestaan in een wijk"
+    },
+    {
+      "promiseCode": "SP-DH-2022-006",
+      "text": "De capaciteit van de Pandbrigade wordt vergroot, bekostigd door verhoogde boetes voor ernstige overtredingen zoals illegale kamerverhuur en overbewoning.",
+      "summary": "Uitbreiding Pandbrigade, hogere boetes illegale verhuur",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "handhaving",
+        "boetes",
+        "kamerverhuur",
+        "overbewoning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 5",
+      "originalQuote": "We vergroten de capaciteit van de Pandbrigade: de handhavingsorganisatie die controleert op overlast, gevaarlijke situaties en misstanden in Haagse panden. Deze uitbreiding bekostigen wij onder andere door de boetes te verhogen voor ernstige overtredingen, zoals illegale kamerverhuur en overbewoning."
+    },
+    {
+      "promiseCode": "SP-DH-2022-007",
+      "text": "Er komt een proceskostenfonds waarmee kwetsbare huurders zoals studenten en arbeidsmigranten makkelijker hun recht kunnen halen bij uitbuiting door verhuurders.",
+      "summary": "Proceskostenfonds voor kwetsbare huurders tegen uitbuiting",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "proceskostenfonds",
+        "huurders",
+        "studenten",
+        "arbeidsmigranten",
+        "uitbuiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 5",
+      "originalQuote": "Naast de uitbreiding van de Pandbrigade zetten we daarom in op de oprichting van een proceskostenfonds, waarmee deze huurders makkelijker hun recht kunnen halen als er bijvoorbeeld onwettige kosten bij hun in rekening zijn gebracht."
+    },
+    {
+      "promiseCode": "SP-DH-2022-008",
+      "text": "Voor 2030 worden minimaal 110 woonwagenstandplaatsen gerealiseerd om het verlies uit het verleden te compenseren.",
+      "summary": "110 nieuwe woonwagenstandplaatsen voor 2030",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woonwagens",
+        "standplaatsen",
+        "compensatie",
+        "uitsterfbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 6",
+      "originalQuote": "De gemeente presenteert een plan om voor 2030 minimaal de 110 standplaatsen die in de loop der jaren verloren zijn gegaan te compenseren."
+    },
+    {
+      "promiseCode": "SP-DH-2022-009",
+      "text": "Nieuw te ontwikkelen studentenkamers moeten minimaal 18 m2 groot zijn.",
+      "summary": "Minimale grootte studentenkamers: 18 m2",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studentenkamers",
+        "minimale grootte",
+        "vierkante meters"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 4",
+      "originalQuote": "Nieuw te ontwikkelen studentenkamers moeten minimaal 18 m2 groot zijn."
+    },
+    {
+      "promiseCode": "SP-DH-2022-010",
+      "text": "De gemeente stopt met het handhaven van de kostendelersnorm op uitkeringen om onnodig leed te voorkomen voor jongvolwassenen en hun ouders.",
+      "summary": "Stoppen handhaving kostendelersnorm uitkeringen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "uitkeringen",
+        "handhaving",
+        "jongvolwassenen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 7",
+      "originalQuote": "Daarom stopt de gemeente met het handhaven van de kostendelersnorm op uitkeringen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-011",
+      "text": "De gemeente stopt met het verstrekken van bijzondere bijstand om commerciële bewindvoering te betalen en neemt de bewindvoering in eigen handen.",
+      "summary": "Gemeente neemt bewindvoering in eigen handen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijzondere bijstand",
+        "bewindvoering",
+        "commercieel"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 7",
+      "originalQuote": "We stoppen daarom met het verstrekken van bijzondere bijstand om commerciële bewindvoering te betalen. De gemeente neemt de bewindvoering in eigen handen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-012",
+      "text": "Hagenaars die in ruil voor een bijstandsuitkering moeten werken krijgen tenminste het minimumloon en de rechten en plichten van werknemers.",
+      "summary": "Minimumloon voor bijstandsgerechtigden die werken",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstand",
+        "minimumloon",
+        "werknemersrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 10",
+      "originalQuote": "Hagenaars die in ruil voor een bijstandsuitkering moeten werken worden niet langer misbruikt. Zij krijgen tenminste het minimumloon. Bij volwaardig werk hoort een volwaardig loon. Zij krijgen de rechten en plichten die bij werknemerschap horen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-013",
+      "text": "Het bereik van de Ooievaarspas wordt vergroot zodat mensen die tussen 130 en 150 procent van de bijstandsnorm verdienen ook in aanmerking komen voor (een deel van de) regelingen.",
+      "summary": "Uitbreiding Ooievaarspas naar 150% bijstandsnorm",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ooievaarspas",
+        "bijstandsnorm",
+        "bereik",
+        "kinderarmoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 9",
+      "originalQuote": "We vergroten daarom het bereik van de Ooievaarspas. Mensen die tussen de 130 en 150 procent van de bijstandsnorm verdienen komen voortaan ook in aanmerking voor (een deel van de) Ooievaarspasregelingen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-014",
+      "text": "Alle Hagenaars die tot 150 procent van het minimumloon verdienen krijgen de mogelijkheid om toe te treden tot de gemeentelijke zorgverzekering, ook minima met schulden bij andere verzekeraars.",
+      "summary": "Gemeentelijke zorgverzekering tot 150% minimumloon",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgverzekering",
+        "minimumloon",
+        "toegang",
+        "schulden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 9",
+      "originalQuote": "We zorgen dat alle Hagenaars die tot 150 procent van het minimumloon verdienen de mogelijkheid hebben om toe te treden tot de gemeentelijke zorgverzekering: ook minima die nog een schuld hebben bij een andere verzekeraar."
+    },
+    {
+      "promiseCode": "SP-DH-2022-015",
+      "text": "Ouderen, chronisch zieken en mensen met een beperking met een inkomen op of rond het sociaal minimum krijgen een jaarlijkse bijdrage uit het ouderenfonds en/of het fonds voor chronisch zieken en gehandicapten.",
+      "summary": "Jaarlijkse bijdrage uit ouderen- en gehandicaptenfonds",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouderenfonds",
+        "chronisch zieken",
+        "gehandicapten",
+        "jaarlijkse bijdrage"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 9",
+      "originalQuote": "Ouderen, chronisch zieken en mensen met een beperking met een inkomen op of rond het sociaal minimum krijgen een jaarlijkse bijdrage uit het ouderenfonds en/of het fonds voor chronisch zieken en gehandicapten."
+    },
+    {
+      "promiseCode": "SP-DH-2022-016",
+      "text": "De gemeente stopt met het aanbesteden van huishoudelijke zorg en gaat over op subsidierelaties met organisaties. Er komt een maximum aan het aantal aanbieders en langere contracten. Personeel krijgt garantie van overname door overgebleven aanbieders.",
+      "summary": "Stoppen aanbesteding huishoudelijke zorg, subsidierelaties, maximum aantal aanbieders",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huishoudelijke zorg",
+        "aanbesteding",
+        "subsidierelaties",
+        "aanbieders",
+        "marktwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 11",
+      "originalQuote": "De gemeente stopt daarom met het aanbesteden van huishoudelijke zorg en gaat over op subsidierelaties met organisaties waarmee ze goed kan samenwerken. De looptijd van het contract tussen gemeente en aanbieder wordt langer en er komt een maximum aan het aantal aanbieders."
+    },
+    {
+      "promiseCode": "SP-DH-2022-017",
+      "text": "De gemeente stopt met het aanbestedingscircus bij jeugdzorg en gaat subsidierelaties aan. Jeugdzorg wordt op stadsdeel- of wijkniveau georganiseerd met samenwerkingsverbanden van aanbieders per wijk/stadsdeel.",
+      "summary": "Jeugdzorg op wijkniveau organiseren, stoppen aanbesteding, subsidierelaties",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdzorg",
+        "wijkniveau",
+        "subsidierelaties",
+        "samenwerkingsverbanden",
+        "aanbesteding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 11",
+      "originalQuote": "Ook bij de jeugdzorg stopt de gemeente met het aanbestedingscircus en gaat zij subsidierelaties aan met de opgezette samenwerkingsverbanden."
+    },
+    {
+      "promiseCode": "SP-DH-2022-018",
+      "text": "Er komen zorgbuurthuizen in Den Haag voor ouderen die niet meer thuis kunnen wonen. In deze buurthuizen kunnen ouderen samen met hun partner oud worden in hun vertrouwde buurt met vaste zorgmedewerkers.",
+      "summary": "Realiseren van zorgbuurthuizen voor ouderen in vertrouwde buurt",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgbuurthuizen",
+        "ouderen",
+        "thuiswonen",
+        "buurt",
+        "zorgmedewerkers"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 11",
+      "originalQuote": "We gaan aan de slag om in Den Haag zorgbuurthuizen te realiseren."
+    },
+    {
+      "promiseCode": "SP-DH-2022-019",
+      "text": "Voor minima met een gemeentelijke zorgverzekering wordt tandartsbezoek volledig kosteloos gemaakt. Er komt een apart gemeentelijk actieplan op mondzorg met voorlichting op scholen en consultatiebureaus.",
+      "summary": "Kosteloos tandartsbezoek voor minima, actieplan mondzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandartsbezoek",
+        "minima",
+        "zorgverzekering",
+        "mondzorg",
+        "actieplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 11",
+      "originalQuote": "Voor minima met een gemeentelijke zorgverzekering wordt tandartsbezoek volledig kosteloos. Er komt een apart actieplan vanuit de gemeente op mondzorg."
+    },
+    {
+      "promiseCode": "SP-DH-2022-020",
+      "text": "In elke wijk komt een zorgbuurtcentrum waar huisartsen, fysiotherapeuten, tandartsen, verloskundigen en ouderenzorg intensief samenwerken. Deze komen bij voorkeur naast seniorencomplexen van woningcorporaties.",
+      "summary": "Zorgbuurtcentrum in elke wijk met verschillende zorgverleners",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgbuurtcentrum",
+        "wijk",
+        "huisartsen",
+        "fysiotherapeuten",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 12",
+      "originalQuote": "gaat de gemeente aan de slag om in elke wijk een zorgbuurtcentrum te realiseren waar huisartsen, fysiotherapeuten, tandartsen, verloskundigen en ouderenzorg intensief samenwerken"
+    },
+    {
+      "promiseCode": "SP-DH-2022-021",
+      "text": "De gemeente neemt hulpmiddelen vanuit de Wmo in eigen beheer om dienstverlening te verbeteren. Dit voorkomt dat scootmobielgebruikers dagen of weken moeten wachten op reparaties.",
+      "summary": "Wmo-hulpmiddelen in eigen beheer voor betere dienstverlening",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hulpmiddelen",
+        "wmo",
+        "eigen beheer",
+        "scootmobiel",
+        "reparatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 12",
+      "originalQuote": "We halen de markt uit het systeem voor hulpmiddelen vanuit de Wmo (Wet maatschappelijke ondersteuning). Deze hulpverlening neemt de gemeente in eigen beheer en we verbeteren de dienstverlening."
+    },
+    {
+      "promiseCode": "SP-DH-2022-022",
+      "text": "De gemeente doet geen zaken meer met zorgorganisaties met winstoogmerk. Bij nieuwe contracten verdienen bestuurders maximaal hetzelfde als een wethouder.",
+      "summary": "Geen zaken met winstgerichte zorgorganisaties, salarislimiet bestuurders",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "winstoogmerk",
+        "zorgorganisaties",
+        "bestuurders",
+        "wethouder",
+        "salaris"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 12",
+      "originalQuote": "de gemeente doet geen zaken meer met organisaties met een winstoogmerk. Bij het aangaan van nieuwe contracten spreekt de gemeente af dat bestuurders niet meer mogen verdienen dan een wethouder."
+    },
+    {
+      "promiseCode": "SP-DH-2022-023",
+      "text": "Het systeem van resultaatgericht indiceren in de Wmo stopt. Geen basis-, plus- en intensiefpakketten meer, maar indiceren op basis van behoefte met recht op vast aantal uren zorg per week.",
+      "summary": "Stoppen resultaatgericht indiceren Wmo, indiceren op basis van behoefte",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "resultaatgericht indiceren",
+        "wmo",
+        "pakketten",
+        "behoefte",
+        "uren zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 12",
+      "originalQuote": "De gemeente stopt met het systeem van resultaatgericht indiceren in de Wmo: er wordt niet meer gewerkt met 'basis', 'plus' en 'intensief' pakketten."
+    },
+    {
+      "promiseCode": "SP-DH-2022-024",
+      "text": "Ervaren beroepskrachten zoals wijkverpleegkundigen gaan voortaan Wmo-indicaties stellen in plaats van gemeenteambtenaren of externe bureaus zonder medische kennis.",
+      "summary": "Wijkverpleegkundigen stellen Wmo-indicaties, niet ambtenaren",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkverpleegkundige",
+        "wmo-indicaties",
+        "beroepskrachten",
+        "medische kennis"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 12",
+      "originalQuote": "Ervaren beroepskrachten, zoals de wijkverpleegkundige, gaan voortaan indicaties stellen voor zorg en voorzieningen uit de Wmo."
+    },
+    {
+      "promiseCode": "SP-DH-2022-025",
+      "text": "Bij elke huishoudelijke zorg wordt per bezoek een kwartier 'koffietijd' ingeroosterd voor persoonlijk contact. Wmo-indicaties krijgen langere looptijd en chronisch zieken hoeven niet telkens herbeoordeeld te worden.",
+      "summary": "Kwartier koffietijd per zorgbezoek, langere looptijd indicaties",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koffietijd",
+        "huishoudelijke zorg",
+        "indicaties",
+        "chronisch zieken",
+        "herindicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 12",
+      "originalQuote": "Bij elke indicatie voor de huishoudelijke zorg wordt er per bezoek een kwartier aan 'koffietijd' ingeroosterd."
+    },
+    {
+      "promiseCode": "SP-DH-2022-026",
+      "text": "Er komt permanente winteropvang voor dak- en thuislozen waar zij ongeacht temperatuur terecht kunnen. Deze opvang is drempelvrij en heeft genoeg bedden.",
+      "summary": "Permanente winteropvang voor daklozen, drempelvrij en voldoende bedden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winteropvang",
+        "daklozen",
+        "thuislozen",
+        "drempelvrij",
+        "bedden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 13",
+      "originalQuote": "We realiseren zo snel mogelijk een permanente winteropvang voor dak- en thuislozen, waar zij ongeacht de temperatuur terecht kunnen. Deze opvang moet drempelvrij zijn en genoeg bedden hebben."
+    },
+    {
+      "promiseCode": "SP-DH-2022-027",
+      "text": "De gemeente houdt op met beboeten van daklozen. In plaats van bestraffen worden daklozen doorverwezen naar juiste hulpverlening.",
+      "summary": "Stoppen met beboeten daklozen, doorverwijzing naar hulpverlening",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beboeten",
+        "daklozen",
+        "hulpverlening",
+        "doorverwijzing",
+        "boetes"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 13",
+      "originalQuote": "We houden op met het beboeten van daklozen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-028",
+      "text": "In winkelgebieden en parken komen meer openbare toiletten die ook toegankelijk zijn voor mensen met een beperking.",
+      "summary": "Meer openbare toegankelijke toiletten in winkelgebieden en parken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbare toiletten",
+        "winkelgebieden",
+        "parken",
+        "toegankelijkheid",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 14",
+      "originalQuote": "In winkelgebieden en parken komen meer openbare toiletten die ook toegankelijk zijn voor mensen met een beperking."
+    },
+    {
+      "promiseCode": "SP-DH-2022-029",
+      "text": "Er komt een vaste jeugdzorgwerker op iedere school die laagdrempelig toegankelijk is voor ouders en docenten om kleine problemen aan te pakken voordat ze groot worden.",
+      "summary": "Vaste jeugdzorgwerker op elke school voor vroege interventie",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jeugdzorgwerker",
+        "school",
+        "laagdrempelig",
+        "problemen",
+        "interventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 14",
+      "originalQuote": "Er moet een vaste jeugdzorgwerker zijn op iedere school. De jeugdzorgwerker is laagdrempelig toegankelijk voor ouders en docenten en kan kleine problemen aanpakken voor ze groot worden."
+    },
+    {
+      "promiseCode": "SP-DH-2022-030",
+      "text": "De gemeente koopt panden op in straten met eenzijdig winkelaanbod met weinig toegevoegde waarde voor de wijkeconomie om weer gezonde winkelgebieden te maken.",
+      "summary": "Gemeente koopt panden op voor gezonde winkelgebieden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "panden",
+        "winkelaanbod",
+        "wijkeconomie",
+        "winkelgebieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 15",
+      "originalQuote": "In straten met een eenzijdig winkelaanbod met weinig toegevoegde waarde voor de wijkeconomie (panden met telkens wisselende uitbaters of geblindeerde etalages) koopt de gemeente panden op om weer gezonde winkelgebieden te maken."
+    },
+    {
+      "promiseCode": "SP-DH-2022-031",
+      "text": "De gemeente onderzoekt welke typen winkels en horeca vergunningsplichtig moeten worden gemaakt, zoals kappers, wedkantoren, wisselkantoren, makelaarskantoren, uitzendbureaus, shishalounges en avondwinkels.",
+      "summary": "Onderzoek naar vergunningsplicht voor meer winkeltypes",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningsplicht",
+        "winkels",
+        "horeca",
+        "kappers",
+        "wedkantoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 16",
+      "originalQuote": "De gemeente onderzoekt welke typen winkels en horeca vergunningsplichtig moeten worden gemaakt. Te denken valt aan kappers, wedkantoren, wisselkantoren, makelaarskantoren, uitzendbureaus, shishalounges en avondwinkels."
+    },
+    {
+      "promiseCode": "SP-DH-2022-032",
+      "text": "Elk stadsdeel krijgt met oud en nieuw een vuurwerkshow. Hiernaast komt in elke wijk een vuurwerkafsteekzone waar buurtbewoners samen F2 vuurwerk kunnen afsteken. In de rest van de stad mag geen vuurwerk worden afgestoken.",
+      "summary": "Vuurwerkshow per stadsdeel en afsteekzones per wijk",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vuurwerkshow",
+        "stadsdeel",
+        "afsteekzone",
+        "vuurwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 16",
+      "originalQuote": "Elk stadsdeel verdient met oud en nieuw een vuurwerkshow. Hiernaast komt in elke wijk een vuurwerkafsteekzone, waar buurtbewoners met elkaar vuurwerk uit de categorie F2 (cakes en fonteinen) kunnen afsteken. In de rest van de stad mag er geen vuurwerk worden afgestoken."
+    },
+    {
+      "promiseCode": "SP-DH-2022-033",
+      "text": "Het blowverbod in de stad wordt opgeheven omdat blowen niet per definitie gepaard hoeft te gaan met overlast.",
+      "summary": "Opheffing blowverbod in de stad",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "blowverbod",
+        "opheffing",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 16",
+      "originalQuote": "Het blowverbod in de stad wordt opgeheven: blowen hoeft immers niet per definitie gepaard te gaan met overlast."
+    },
+    {
+      "promiseCode": "SP-DH-2022-034",
+      "text": "Voor de opvang van verwarde personen op straat gaat de gemeente gebruik maken van psycholances waarin ervaren GGZ professionals verwarde personen begeleiden. De politie wordt hier niet meer mee belast.",
+      "summary": "Psycholances voor opvang verwarde personen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "psycholances",
+        "verwarde personen",
+        "ggz",
+        "opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 15",
+      "originalQuote": "Voor de opvang van verwarde personen op straat moet de gemeente gebruik gaan maken van psycholances, waarin ervaren GGZ professionals verwarde personen begeleiden en naar de juiste plek brengen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-035",
+      "text": "Iedere inwoner van Den Haag krijgt een tram- of bushalte op maximaal 500 meter loopafstand, met aangepaste normen voor gebieden met laag autobezit of veel slecht ter been zijnde mensen.",
+      "summary": "Tram/bushalte binnen 500 meter voor elke inwoner",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramhalte",
+        "bushalte",
+        "loopafstand",
+        "bereikbaarheid",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 17",
+      "originalQuote": "Iedere inwoner van Den Haag heeft een tram of bushalte op loopafstand (500 meter). In gebieden waar het autobezit laag is of waar relatief veel mensen slecht ter been zijn wordt deze norm naar beneden bijgesteld."
+    },
+    {
+      "promiseCode": "SP-DH-2022-036",
+      "text": "De gemeente investeert vanuit Enecomiddelen flink in openbaar vervoer in Den Haag Zuidwest, inclusief versnelling tramlijnen door ondertunneling kruispunten en inhaalstroken voor snel- en stoptrams.",
+      "summary": "Investering Enecomiddelen in OV Zuidwest met tramversnelling",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "enecomiddelen",
+        "zuidwest",
+        "tramlijnen",
+        "ondertunneling",
+        "tramversnelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 17",
+      "originalQuote": "De gemeente moet vanuit de Enecomiddelen flink investeren in het openbaar vervoer in Den Haag Zuidwest. Er wordt voor alle tramlijnen in Den Haag Zuidwest gekeken hoe deze versneld kunnen worden. Bepaalde kruispunten kunnen worden ondertunneld en er wordt gekeken naar inhaalstroken zodat er met snel- en stoptrams gewerkt kan worden."
+    },
+    {
+      "promiseCode": "SP-DH-2022-037",
+      "text": "Kinderen tot en met 11 jaar mogen gratis met het openbaar vervoer reizen onder begeleiding van een betalende volwassene.",
+      "summary": "Gratis OV voor kinderen tot 11 jaar met betalende begeleider",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderen",
+        "gratis",
+        "openbaar vervoer",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 17",
+      "originalQuote": "Kinderen tot en met 11 jaar mogen gratis met het ov onder begeleiding van een betalende volwassene."
+    },
+    {
+      "promiseCode": "SP-DH-2022-038",
+      "text": "Bij parkeerdruk boven 90% worden geen tweede parkeervergunningen meer uitgegeven. Na overgangsperiode van 4 jaar zijn er stadswijd geen derde of meer parkeervergunningen toegestaan.",
+      "summary": "Stop tweede vergunningen bij 90% parkeerdruk, geen derde vergunningen na 4 jaar",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunningen",
+        "parkeerdruk",
+        "overgangsperiode",
+        "tweede vergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 17",
+      "originalQuote": "Wanneer de parkeerdruk in een wijk boven de 90% komt, worden er geen tweede parkeervergunningen meer uitgegeven. Er komt een overgangsperiode van 4 jaar, waarna er over de hele stad geen derde of meer parkeervergunningen meer mogen zijn."
+    },
+    {
+      "promiseCode": "SP-DH-2022-039",
+      "text": "Busjes van uitzendbureaus mogen niet meer in wijken parkeren. Gemeente maakt afspraken met uitzendbranche voor parkeren op bedrijfsparkeerplaatsen 's avonds.",
+      "summary": "Verbod uitzendbureaubusjes in wijken, parkeren op bedrijfsterreinen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzendbureaus",
+        "busjes",
+        "wijken",
+        "bedrijfsparkeerplaatsen",
+        "dubbelgebruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 17",
+      "originalQuote": "Busjes van uitzendbureaus mogen niet meer in de wijken parkeren. De gemeente maakt afspraken met de uitzendbranche om de busjes 's avonds op parkeerplaatsen van andere bedrijven te parkeren."
+    },
+    {
+      "promiseCode": "SP-DH-2022-040",
+      "text": "Houders van een Ooievaarspas kunnen in daluren met korting reizen met het openbaar vervoer.",
+      "summary": "OV-korting voor Ooievaarspashouders in daluren",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ooievaarspas",
+        "daluren",
+        "korting",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 18",
+      "originalQuote": "Houders van een Ooievaarspas kunnen in daluren met korting met het openbaar vervoer reizen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-041",
+      "text": "Dak- en thuislozen krijgen gratis openbaar vervoer op vertoon van hun daklozenpas.",
+      "summary": "Gratis OV voor dak- en thuislozen met daklozenpas",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "daklozen",
+        "thuislozen",
+        "gratis",
+        "daklozenpas",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 18",
+      "originalQuote": "Dak- en thuislozen kunnen gratis met het ov reizen op vertoon van hun daklozenpas."
+    },
+    {
+      "promiseCode": "SP-DH-2022-042",
+      "text": "De Gedempte Burgwal en Gedempte Gracht worden autoluw ingericht als fietsstraat en alternatieve route voor de Grote Marktstraat.",
+      "summary": "Gedempte Burgwal en Gracht worden autoloze fietsstraten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gedempte burgwal",
+        "gedempte gracht",
+        "autoluw",
+        "fietsstraat"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 18",
+      "originalQuote": "De Gedempte Burgwal en de Gedempte Gracht worden autoluw en ingericht als fietsstraat die op termijn als alternatieve route kan dienen voor de Grote Marktstraat."
+    },
+    {
+      "promiseCode": "SP-DH-2022-043",
+      "text": "Bij herinrichting van straten komen waar mogelijk vrijliggende fietspaden. Drukke wegen zonder vrijliggende fietspaden worden 30-kilometerzones.",
+      "summary": "Vrijliggende fietspaden bij herinrichting, 30km zones op drukke wegen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijliggende fietspaden",
+        "herinrichting",
+        "30-kilometerzone",
+        "drukke wegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 18",
+      "originalQuote": "Bij de herinrichting van straten komen, waar mogelijk, vrijliggende fietspaden. Drukke wegen waar nog geen vrijliggende fietspaden zijn aangelegd worden een 30-kilometerzone."
+    },
+    {
+      "promiseCode": "SP-DH-2022-044",
+      "text": "Het aantal aanbieders van deelscooters en -fietsen wordt drastisch ingeperkt, bij voorkeur krijgen HTM en NS het alleenrecht.",
+      "summary": "Drastische beperking deelscooter-aanbieders, alleenrecht voor HTM en NS",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deelscooters",
+        "deelfietsen",
+        "htm",
+        "ns",
+        "alleenrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 18-19",
+      "originalQuote": "Het aantal aanbieders van deelscooters en -fietsen wordt drastisch ingeperkt. Bij voorkeur krijgen HTM en NS het alleenrecht op het aanbieden van deelscooters en -fietsen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-045",
+      "text": "Bewonersparkeren op Scheveningen wordt ingevoerd. Als dit niet mogelijk is, wordt maximale parkeerduur voor bezoekers in niet-winkelgebieden in zomer teruggebracht naar 15 minuten.",
+      "summary": "Bewonersparkeren Scheveningen of 15 minuten maximale parkeerduur zomer",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bewonersparkeren",
+        "scheveningen",
+        "parkeerduur",
+        "15 minuten",
+        "zomer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 19",
+      "originalQuote": "De gemeente zet zich in voor bewonersparkeren op Scheveningen, waardoor alleen bewoners en hun bezoekers er op straat mogen parkeren. Als dit niet mogelijk is wordt de maximale parkeerduur voor bezoekers in niet-winkelgebieden in de zomer teruggebracht naar 15 minuten."
+    },
+    {
+      "promiseCode": "SP-DH-2022-046",
+      "text": "Het Hildebrandplein wordt ongelijkvloers aangepakt om doorstroming en verkeersveiligheid te verbeteren.",
+      "summary": "Hildebrandplein wordt ongelijkvloers voor betere doorstroming",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hildebrandplein",
+        "ongelijkvloers",
+        "doorstroming",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 19",
+      "originalQuote": "Het Hildebrandplein wordt aangepakt en ongelijkvloers gemaakt om de doorstroming en verkeersveiligheid te verbeteren."
+    },
+    {
+      "promiseCode": "SP-DH-2022-047",
+      "text": "De kruisingen Laan van Wateringseveld – Noordweg en Laan van Wateringseveld – Oosteinde worden aangepast om files op te lossen.",
+      "summary": "Aanpassing kruisingen Laan van Wateringseveld voor fileoplossing",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "laan van wateringseveld",
+        "noordweg",
+        "oosteinde",
+        "kruisingen",
+        "files"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 19",
+      "originalQuote": "De kruisingen Laan van Wateringseveld – Noordweg en Laan van Wateringseveld – Oosteinde worden aangepast om hier de files op te lossen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-048",
+      "text": "Er komt een extra tramhalte op de Laan van Wateringse Veld ter hoogte van Noordweg voor bewoners die nu meer dan 500 meter moeten lopen.",
+      "summary": "Extra tramhalte Laan van Wateringse Veld bij Noordweg",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tramhalte",
+        "laan van wateringse veld",
+        "noordweg",
+        "loopafstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 19",
+      "originalQuote": "Ook komt er een extra halte op de Laan van Wateringse Veld ter hoogte van Noordweg, aangezien bewoners hier soms flink meer dan 500 meter naar een halte moeten lopen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-049",
+      "text": "Op elke tram is een conducteur aanwezig en op onveilige buslijnen worden beveiligers ingezet voor veiligheid in het openbaar vervoer.",
+      "summary": "Conducteurs op alle trams, beveiligers op onveilige buslijnen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "conducteur",
+        "tram",
+        "beveiligers",
+        "buslijnen",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 19",
+      "originalQuote": "Veiligheid in het openbaar vervoer staat voorop. Op elke tram is een conducteur aanwezig en op onveilige buslijnen worden beveiligers ingezet."
+    },
+    {
+      "promiseCode": "SP-DH-2022-050",
+      "text": "Het eigen wagenpark van de gemeente wordt zo snel mogelijk volledig elektrisch.",
+      "summary": "Gemeentelijk wagenpark wordt volledig elektrisch",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wagenpark",
+        "gemeente",
+        "elektrisch",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 19",
+      "originalQuote": "Het eigen wagenpark van de gemeente wordt zo snel mogelijk volledig elektrisch."
+    },
+    {
+      "promiseCode": "SP-DH-2022-051",
+      "text": "Buurtbewoners krijgen meer zeggenschap en inspraak over de inrichting van hun buurt en de voorzieningen in hun buurt.",
+      "summary": "Meer buurt-zeggenschap over inrichting en voorzieningen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtbewoners",
+        "zeggenschap",
+        "inspraak",
+        "buurtinrichting",
+        "voorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 20",
+      "originalQuote": "Buurtbewoners krijgen meer zeggenschap en inspraak over de inrichting van hun buurt en de voorzieningen in hun buurt."
+    },
+    {
+      "promiseCode": "SP-DH-2022-052",
+      "text": "Er worden meer sociale huurwoningen en goedkope koopwoningen gebouwd in sociaal-economisch sterke wijken om segregatie tegen te gaan.",
+      "summary": "Meer sociale huurwoningen in rijke wijken tegen segregatie",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale huurwoningen",
+        "koopwoningen",
+        "segregatie",
+        "sterke wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 20",
+      "originalQuote": "Om de segregatie tegen te gaan worden er meer sociale huurwoningen en goedkope koopwoningen gebouwd in sociaal-economisch sterke wijken."
+    },
+    {
+      "promiseCode": "SP-DH-2022-053",
+      "text": "Ieder stadsdeel krijgt een laagdrempelig 'Taalpunt' waar mensen informatie krijgen over het cursusaanbod en worden doorverwezen naar een passende taalcursus.",
+      "summary": "Laagdrempelig Taalpunt in elk stadsdeel",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taalpunt",
+        "stadsdeel",
+        "taalcursus",
+        "cursusaanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 20",
+      "originalQuote": "Ieder stadsdeel heeft een laagdrempelig 'Taalpunt', waar mensen informatie krijgen over het cursusaanbod en worden doorverwezen naar een passende taalcursus."
+    },
+    {
+      "promiseCode": "SP-DH-2022-054",
+      "text": "De Metropoolregio wordt afgeschaft en taken worden overgeheveld naar gemeenten en provincie.",
+      "summary": "Afschaffing Metropoolregio",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metropoolregio",
+        "afschaffing",
+        "takenoverheveling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 21",
+      "originalQuote": "We schaffen de Metropoolregio af, omdat dit een overbodige en ondemocratische tussenlaag is. De taken van de Metropoolregio worden overgeheveld naar de gemeenten en de provincie."
+    },
+    {
+      "promiseCode": "SP-DH-2022-055",
+      "text": "Bewoners krijgen meer directe zeggenschap over de besteding van wijkbudgetten.",
+      "summary": "Directe bewoners-zeggenschap over wijkbudgetten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bewoners",
+        "zeggenschap",
+        "wijkbudgetten",
+        "besteding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 21",
+      "originalQuote": "Bewoners krijgen meer directe zeggenschap over de besteding van wijkbudgetten."
+    },
+    {
+      "promiseCode": "SP-DH-2022-056",
+      "text": "De gemeente stopt zoveel mogelijk met het registreren van geslacht.",
+      "summary": "Stop registreren van geslacht",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geslacht",
+        "registratie",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 21",
+      "originalQuote": "De gemeente stopt zoveel mogelijk met het registreren van geslacht."
+    },
+    {
+      "promiseCode": "SP-DH-2022-057",
+      "text": "De vergoeding voor raadsleden en wethouders wordt verlaagd met twintig procent.",
+      "summary": "20% verlaging vergoeding raadsleden en wethouders",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergoeding",
+        "raadsleden",
+        "wethouders",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 21",
+      "originalQuote": "We verlagen de vergoeding voor raadsleden en wethouders met twintig procent."
+    },
+    {
+      "promiseCode": "SP-DH-2022-058",
+      "text": "Schoolzwemmen moet op iedere school terugkomen en alle Haagse kinderen krijgen de kans om zwemvaardig te worden in de zee.",
+      "summary": "Schoolzwemmen op alle scholen + zeezwemvaardigheid",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "zwemvaardigheid",
+        "zee",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 23",
+      "originalQuote": "Schoolzwemmen moet op iedere school terugkomen. Ook zorgen we dat alle Haagse kinderen de kans krijgen om zwemvaardig te worden in de zee."
+    },
+    {
+      "promiseCode": "SP-DH-2022-059",
+      "text": "Elk stadsdeel krijgt een volwaardig cultuuranker met een eigen gebouw.",
+      "summary": "Volwaardig cultuuranker per stadsdeel",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuuranker",
+        "stadsdeel",
+        "gebouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 23",
+      "originalQuote": "Elk stadsdeel verdient een volwaardig cultuuranker met een eigen gebouw."
+    },
+    {
+      "promiseCode": "SP-DH-2022-060",
+      "text": "Er komen weer zoveel mogelijk wijkbibliotheken. De tijdelijke bibliotheek in Moerwijk wordt permanent en ook Spoorwijk krijgt weer een wijkbibliotheek.",
+      "summary": "Uitbreiding wijkbibliotheken, permanent in Moerwijk en Spoorwijk",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkbibliotheken",
+        "moerwijk",
+        "spoorwijk",
+        "bibliotheek"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 24",
+      "originalQuote": "Er komen weer zoveel mogelijk wijkbibliotheken. De tijdelijke bibliotheek in Moerwijk wordt permanent en ook Spoorwijk krijgt weer een wijkbibliotheek."
+    },
+    {
+      "promiseCode": "SP-DH-2022-061",
+      "text": "In Den Haag Zuidwest en op Scheveningen komt een nieuwe sporthal.",
+      "summary": "Nieuwe sporthallen in Zuidwest en Scheveningen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sporthal",
+        "zuidwest",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 25",
+      "originalQuote": "In Den Haag Zuidwest en op Scheveningen komt een nieuwe sporthal."
+    },
+    {
+      "promiseCode": "SP-DH-2022-062",
+      "text": "Er komt een gemeentelijk zwembad in de Binckhorst dat ook goed bereikbaar is voor bewoners van de Molenwijk.",
+      "summary": "Gemeentelijk zwembad in Binckhorst voor Molenwijk",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwembad",
+        "binckhorst",
+        "molenwijk",
+        "bereikbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 25",
+      "originalQuote": "Er komt een gemeentelijk zwembad in de Binckhorst dat ook goed bereikbaar is voor bewoners van de Molenwijk."
+    },
+    {
+      "promiseCode": "SP-DH-2022-063",
+      "text": "Drie procent van de openbare ruimte in een woonwijk moet uit buitenspeelruimte bestaan.",
+      "summary": "3% openbare ruimte wordt buitenspeelruimte",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buitenspeelruimte",
+        "openbare ruimte",
+        "woonwijk",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 25",
+      "originalQuote": "Daarom willen we dat drie procent van de openbare ruimte in een woonwijk uit buitenspeelruimte bestaat."
+    },
+    {
+      "promiseCode": "SP-DH-2022-064",
+      "text": "De huren van sociale huurwoningen met energielabel E, F en G worden geleidelijk bevroren. Eerst worden huren van woningen met energielabel G bevroren, twee jaar later energielabel F en weer twee jaar later energielabel E.",
+      "summary": "Huren sociale woningen met slechte energielabels geleidelijk bevriezen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huurbevriezing",
+        "energielabel",
+        "sociale huurwoningen",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 26",
+      "originalQuote": "De huren van sociale huurwoningen met energielabel E, F en G worden geleidelijk aan bevroren met als doel de corporatie te bewegen werk te maken van verduurzaming. Ten eerste wordt de huur van alle woningen met energielabel G bevroren, twee jaar later energielabel F en weer twee jaar later energielabel E."
+    },
+    {
+      "promiseCode": "SP-DH-2022-065",
+      "text": "De gemeente zet vanuit de Enecoreserve een wijkontwikkelingsmaatschappij op die de verduurzaming van sociale huurwoningen versnelt. Woningcorporaties leveren woningen, gemeente financiert verduurzaming, corporaties kopen woningen terug na renovatie.",
+      "summary": "Wijkontwikkelingsmaatschappij uit Enecoreserve voor verduurzaming sociale huur",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkontwikkelingsmaatschappij",
+        "enecoreserve",
+        "verduurzaming",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 26",
+      "originalQuote": "De gemeente moet vanuit de Enecoreserve voor duurzaamheid een wijkontwikkelingsmaatschappij opzetten die de verduurzaming van sociale huurwoningen moet versnellen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-066",
+      "text": "De gemeente zet samen met woningcorporaties een energiecoöperatie op die zonnepanelen op daken van sociale huurwoningen legt, gefinancierd via een revolverend fonds. Sociale huurders worden aangemoedigd lid te worden.",
+      "summary": "Energiecoöperatie voor zonnepanelen op sociale huurwoningen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiecoöperatie",
+        "zonnepanelen",
+        "sociale huurwoningen",
+        "revolverend fonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 26",
+      "originalQuote": "De gemeente zet samen met woningcorporaties een energiecoöperatie op die zonnepanelen op de daken van sociale huurwoningen legt."
+    },
+    {
+      "promiseCode": "SP-DH-2022-067",
+      "text": "Er komt een speciale subsidieregeling uit de Enecoreserve voor woningeigenaren met energiearmoede. Eigenaren die meer dan 10% van besteedbaar inkomen aan energie kwijt zijn, krijgen subsidie voor het volledige renovatiebedrag.",
+      "summary": "Volledige renovatiesubsidie voor eigenaren met energiearmoede (>10% inkomen)",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energiearmoede",
+        "renovatiesubsidie",
+        "enecoreserve",
+        "woningeigenaren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 26",
+      "originalQuote": "Wanneer woningeigenaren kunnen aantonen dat ze structureel meer dan 10 procent van hun besteedbaar inkomen kwijt zijn aan energielasten, komen ze in aanmerking voor een subsidie van de gemeente voor het volledige bedrag van de renovatie."
+    },
+    {
+      "promiseCode": "SP-DH-2022-068",
+      "text": "De gemeente stopt met de regeling 'wonen op schone energie' vanuit de Enecomiddelen voor duurzaamheid vanwege het maximumbedrag van 5000 euro dat vooral rijkere wijken ten goede komt.",
+      "summary": "Stoppen regeling 'wonen op schone energie' van 5000 euro",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wonen op schone energie",
+        "enecomiddelen",
+        "subsidieregeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 26",
+      "originalQuote": "Tegelijkertijd stopt de gemeente met het aanbieden van de regeling 'wonen op schone energie' vanuit de Enecomiddelen voor duurzaamheid."
+    },
+    {
+      "promiseCode": "SP-DH-2022-069",
+      "text": "De gemeente verbreekt haar banden met de olie- en gasindustrie en Shell in het bijzonder. Er worden geen samenwerkingsverbanden meer aangegaan met de fossiele industrie en geen olie- en gasbedrijven naar Den Haag gehaald.",
+      "summary": "Verbreken banden met olie- en gasindustrie, geen samenwerking Shell",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "shell",
+        "fossiele industrie",
+        "oliebedrijven",
+        "gasbedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 26",
+      "originalQuote": "De gemeente verbreekt haar banden met de olie- en gasindustrie en Shell in het bijzonder."
+    },
+    {
+      "promiseCode": "SP-DH-2022-070",
+      "text": "In het vergunningstelsel voor particuliere verhuurders worden afspraken gemaakt over verduurzaming. Verhuurders met meer dan 10 panden moeten een plan presenteren om voor 2030 hun gemiddelde woningvoorraad op energielabel B te brengen.",
+      "summary": "Particuliere verhuurders >10 panden: plan energielabel B voor 2030",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "particuliere verhuurders",
+        "vergunningstelsel",
+        "energielabel b",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 27",
+      "originalQuote": "Particuliere verhuurders met meer dan 10 panden moeten een plan presenteren om voor 2030 hun gemiddelde woningvoorraad op energielabel B te brengen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-071",
+      "text": "De gemeente gaat collectief schone en lokaal geproduceerde energie inkopen voor bewoners die meedoen. Dit levert collectiviteitskorting op en maakt duurzame energie toegankelijk voor lagere inkomens.",
+      "summary": "Collectieve inkoop schone energie met collectiviteitskorting",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "collectieve inkoop",
+        "schone energie",
+        "collectiviteitskorting",
+        "energieleverancier"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 27",
+      "originalQuote": "De gemeente gaat collectief schone en lokaal geproduceerde energie inkopen voor iedereen die hieraan mee wil doen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-072",
+      "text": "De gemeente verzet zich tegen de aanleg van de WarmteLinQ die fossiele restwarmte vanuit de Rotterdamse haven naar Den Haag brengt.",
+      "summary": "Verzet tegen aanleg WarmteLinQ vanuit Rotterdamse haven",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "warmtelinq",
+        "fossiele restwarmte",
+        "rotterdamse haven",
+        "warmteleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 27",
+      "originalQuote": "De gemeente verzet zich tegen de aanleg van de WarmteLinQ, die fossiele restwarmte vanuit de Rotterdamse haven helemaal naar Den Haag brengt."
+    },
+    {
+      "promiseCode": "SP-DH-2022-073",
+      "text": "Er komt een harde woonlastengarantie voor sociale huurders bij verduurzaming. Het totaal aan woonlasten mag gemiddeld niet toenemen na renovatie, huurstijging mag niet meer zijn dan energiebesparing.",
+      "summary": "Woonlastengarantie bij verduurzaming: totale lasten mogen niet stijgen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woonlastengarantie",
+        "sociale huurders",
+        "verduurzaming",
+        "huurstijging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 28",
+      "originalQuote": "Er komt een harde woonlastengarantie voor sociale huurders van wie de woning wordt verduurzaamd. Dit betekent dat het totaal aan woonlasten (huur, gas/water/licht) gemiddeld niet mag toenemen na de renovatie."
+    },
+    {
+      "promiseCode": "SP-DH-2022-074",
+      "text": "Er komt een verbod op de verkoop van sociale huurwoningen met energielabel E, F en G om te voorkomen dat corporaties hun verduurzamingsopgave afschuiven.",
+      "summary": "Verbod verkoop sociale huurwoningen met slechte energielabels",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkoopverbod",
+        "sociale huurwoningen",
+        "energielabel",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 28",
+      "originalQuote": "Er komt een verbod op de verkoop van sociale huurwoningen met label E, F en G."
+    },
+    {
+      "promiseCode": "SP-DH-2022-075",
+      "text": "Voor straten met luchtvervuiling (Vailliantlaan, Neherkade, Mauritskade, Laan van Copes Cattenburch) komt een actieplan met verbeterde doorstroming, minder vervuilend verkeer en betere ventilatie voor gevoelige doelgroepen.",
+      "summary": "Actieplan luchtvervuiling voor specifieke vervuilde straten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "luchtvervuiling",
+        "doorstroming",
+        "vervuilend verkeer",
+        "ventilatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 28",
+      "originalQuote": "Voor deze straten komt de gemeente met een actieplan waarin de doorstroming wordt verbeterd, het vervuilende verkeer wordt verminderd en gebouwen met gevoelige doelgroepen betere ventilatie krijgen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-076",
+      "text": "De gemeente creëert elk jaar tenminste 100 volwaardige stageplekken met stagevergoeding voor mbo-, hbo- en wo-studenten binnen de gemeentelijke organisatie.",
+      "summary": "100 extra stageplekken per jaar bij gemeente met vergoeding",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stageplekken",
+        "stagevergoeding",
+        "studenten",
+        "gemeentelijke organisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 29",
+      "originalQuote": "De gemeente geeft zelf het goede voorbeeld door elk jaar tenminste 100 volwaardige stageplekken met een stagevergoeding extra te creëren voor mbo, hbo en wo-studenten in de gemeentelijke organisatie."
+    },
+    {
+      "promiseCode": "SP-DH-2022-077",
+      "text": "Bij nieuwbouwlocaties wordt ingezet op integratie van peuterspeelzaal, VVE, BSO, CJG en basisschool tot integrale kindcentra.",
+      "summary": "Integrale kindcentra bij nieuwbouw",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kindcentrum",
+        "peuterspeelzaal",
+        "basisschool",
+        "kinderopvang",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 29",
+      "originalQuote": "Op plekken waar nieuwbouw plaatsvindt wordt ingezet op integratie van de peuterspeelzaal, vroegtijdig voorschoolse educatie (VVE), buitenschoolse opvang (BSO), het Centrum voor Jeugd en Gezin (CJG) en de basisschool naar een integraal kindcentum."
+    },
+    {
+      "promiseCode": "SP-DH-2022-078",
+      "text": "Buurthuizen zijn ook in het weekend open en krijgen financiering voor huiswerkbegeleiding.",
+      "summary": "Buurthuizen open in weekend, financiering huiswerkbegeleiding",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurthuizen",
+        "weekend",
+        "huiswerkbegeleiding",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 29",
+      "originalQuote": "Buurthuizen zijn ook in het weekend open en organiseren in samenwerking met jongeren activiteiten, zoals sportevenementen, cursussen en muziekavonden. Ook komt er financiering voor buurthuizen en bibliotheken om huiswerkbegeleiding te organiseren."
+    },
+    {
+      "promiseCode": "SP-DH-2022-079",
+      "text": "Elke basisschool en middelbare school krijgt een conciërge als aanspreekpunt voor leerlingen en onderhoud schoolgebouw.",
+      "summary": "Conciërge voor elke basis- en middelbare school",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "conciërge",
+        "basisschool",
+        "middelbare school",
+        "schoolgebouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 30",
+      "originalQuote": "Elke basisschool en middelbare school heeft een conciërge. Deze conciërge is aanspreekpunt voor leerlingen en doet klusjes in en om het schoolgebouw."
+    },
+    {
+      "promiseCode": "SP-DH-2022-080",
+      "text": "De gemeente spreekt met scholen een acceptatieplicht af, afwijzing op basis van levensbeschouwing is niet toegestaan.",
+      "summary": "Acceptatieplicht scholen, geen afwijzing op levensbeschouwing",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "acceptatieplicht",
+        "scholen",
+        "levensbeschouwing",
+        "afwijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 30",
+      "originalQuote": "De gemeente Den Haag spreekt met de scholen in Den Haag een acceptatieplicht af. Afwijzing van leerlingen op grond van een andere levensbeschouwing kan niet."
+    },
+    {
+      "promiseCode": "SP-DH-2022-081",
+      "text": "Alle basisscholen doen verplicht mee aan schoolzwemmen.",
+      "summary": "Schoolzwemmen verplicht voor alle basisscholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "basisscholen",
+        "zwemmen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 30",
+      "originalQuote": "Alle basisscholen doen mee aan schoolzwemmen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-082",
+      "text": "Het studiegeld voor volwassenenonderwijs wordt inkomensafhankelijk gemaakt.",
+      "summary": "Inkomensafhankelijk studiegeld volwassenenonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studiegeld",
+        "volwassenenonderwijs",
+        "inkomensafhankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 30",
+      "originalQuote": "Het studiegeld voor volwassenenonderwijs wordt inkomensafhankelijk."
+    },
+    {
+      "promiseCode": "SP-DH-2022-083",
+      "text": "Er komen zelfstandige ontmoetingsplekken voor jongeren in Wateringse Veld, Ypenburg, Duindorp en Den Haag Zuidwest.",
+      "summary": "Jongerenontmoetingsplekken in 4 wijken",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontmoetingsplekken",
+        "jongeren",
+        "wateringse veld",
+        "ypenburg",
+        "duindorp",
+        "zuidwest"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 30",
+      "originalQuote": "Er komen meer zelfstandige ontmoetingsplekken voor en door jongeren. Om te beginnen in de wijken Wateringse Veld, Ypenburg, Duindorp en in Den Haag Zuidwest."
+    },
+    {
+      "promiseCode": "SP-DH-2022-084",
+      "text": "De gemeente zet zich in voor het starten van een middelbare school met havo en vwo in Den Haag Zuidwest.",
+      "summary": "Nieuwe middelbare school havo/vwo in Zuidwest",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "middelbare school",
+        "havo",
+        "vwo",
+        "zuidwest"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 30",
+      "originalQuote": "De gemeente zet zich in voor het starten van een middelbare school met havo en vwo in Den Haag Zuidwest."
+    },
+    {
+      "promiseCode": "SP-DH-2022-085",
+      "text": "Er komt meer betaalbare bedrijfsruimte voor het midden- en kleinbedrijf in Zuidwest bij winkelcentrum Leyweg, de MegaStores en de Binckhorst. Bij wijkvernieuwingen wordt een vast percentage 'sociale' bedrijfsruimte afgesproken.",
+      "summary": "Betaalbare bedrijfsruimte MKB in Zuidwest, MegaStores en Binckhorst",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bedrijfsruimte",
+        "midden-kleinbedrijf",
+        "wijkvernieuwing",
+        "bedrijfsverzamelgebouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 32",
+      "originalQuote": "Er komt meer betaalbare bedrijfsruimte (waaronder bedrijfsverzamelgebouwen) voor het midden- en kleinbedrijf, bijvoorbeeld in Zuidwest (bij winkelcentrum Leyweg), de MegaStores en de Binckhorst. Bij wijkvernieuwingen spreken we een vast percentage 'sociale' bedrijfsruimte af."
+    },
+    {
+      "promiseCode": "SP-DH-2022-086",
+      "text": "MBO-studenten in maakindustrie, bouw, installatietechniek en zorg krijgen van de gemeente een baangarantie. Hierover maakt de gemeente afspraken met werkgevers.",
+      "summary": "Baangarantie MBO-studenten in maakindustrie, bouw, installatietechniek en zorg",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "baangarantie",
+        "mbo-studenten",
+        "maakindustrie",
+        "bouw",
+        "installatietechniek",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 32",
+      "originalQuote": "MBO-studenten in deze sectoren krijgen van de gemeente een baangarantie: hierover maakt de gemeente afspraken met werkgevers."
+    },
+    {
+      "promiseCode": "SP-DH-2022-087",
+      "text": "De gemeente koopt meer producten en diensten in bij het lokale midden- en kleinbedrijf door bij aanbestedingen voorwaarden te stellen en opdrachten op te knippen in kleinere delen.",
+      "summary": "Meer gemeentelijke inkoop bij lokaal MKB via aangepaste aanbestedingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aanbestedingen",
+        "lokale-inkoop",
+        "midden-kleinbedrijf",
+        "opdrachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 32",
+      "originalQuote": "De gemeente koopt meer producten en diensten in bij het lokale midden- en kleinbedrijf. Dit kan door bij aanbestedingen voorwaarden te stellen wat betreft lokale onderwijs en werkgelegenheidskansen, het tegengaan van werkloosheid en het verminderen van armoede. Ook kunnen opdrachten worden opgeknipt in kleinere delen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-088",
+      "text": "Er wordt een Sociaal Ontwikkelbedrijf opgericht voor mensen met een beperking en/of afstand tot de arbeidsmarkt. Den Haag Werkt kan als basis dienen voor deze nieuwe organisatie.",
+      "summary": "Oprichting Sociaal Ontwikkelbedrijf op basis van Den Haag Werkt",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociaal-ontwikkelbedrijf",
+        "sociale-werkplaats",
+        "den-haag-werkt",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 32",
+      "originalQuote": "Door een Sociaal Ontwikkelbedrijf (een sociale werkplaats 'nieuwe stijl') op te richten bieden we mensen met een beperking en/of een afstand tot de arbeidsmarkt een veilige haven waar zij zichzelf kunnen ontwikkelen. De huidige organisatie van Den Haag Werkt (het werk- en ontwikkelbedrijf van de gemeente) kan als basis dienen voor deze nieuwe organisatie."
+    },
+    {
+      "promiseCode": "SP-DH-2022-089",
+      "text": "Voor mensen met grote afstand tot de arbeidsmarkt worden vaste basisbanen gecreëerd als wijkconciërge, in groenonderhoud, welzijn en cultuur met een normaal salaris.",
+      "summary": "Vaste basisbanen voor mensen met afstand tot arbeidsmarkt",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbanen",
+        "wijkconciërge",
+        "groenonderhoud",
+        "welzijn",
+        "cultuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 32",
+      "originalQuote": "Voor mensen met een grote afstand tot de arbeidsmarkt creëren we daarom vaste basisbanen, bijvoorbeeld als (wijk)conciërge, in het groenonderhoud, het welzijn en in de cultuur. Uiteraard met een normaal salaris, want werk moet lonen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-090",
+      "text": "Alle huidige en toekomstige werknemers van de gemeente Den Haag krijgen een salaris van minimaal 14 euro per uur.",
+      "summary": "Minimumloon 14 euro per uur voor gemeentepersoneel",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "gemeentepersoneel",
+        "14-euro",
+        "salaris"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 33",
+      "originalQuote": "Huidige en toekomstige werknemers van de gemeente Den Haag krijgen allemaal een salaris van minimaal 14 euro per uur."
+    },
+    {
+      "promiseCode": "SP-DH-2022-091",
+      "text": "Er komt een rem op de bouw van nieuwe hotels in het centrum en op Scheveningen omdat hotels ruimte innemen waar woningen gebouwd kunnen worden.",
+      "summary": "Stop nieuwbouw hotels centrum en Scheveningen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hotelbouw",
+        "centrum",
+        "scheveningen",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 33",
+      "originalQuote": "Er komt daarom een rem op de bouw van nieuwe hotels in het centrum en op Scheveningen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-092",
+      "text": "Het budget voor toeristische marketing en citybranding wordt gehalveerd.",
+      "summary": "Budget toeristische marketing en citybranding wordt gehalveerd",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "budget",
+        "toeristische-marketing",
+        "citybranding",
+        "halvering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 33",
+      "originalQuote": "Het budget voor toeristische marketing en citybranding wordt gehalveerd."
+    },
+    {
+      "promiseCode": "SP-DH-2022-093",
+      "text": "De toeristenbelasting wordt geen vast tarief meer maar een percentage van het overnachtingsbedrag dat de toerist betaalt.",
+      "summary": "Toeristenbelasting wordt percentage van overnachtingstarief",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeristenbelasting",
+        "percentage",
+        "overnachtingstarief",
+        "variabel-tarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 33",
+      "originalQuote": "De toeristenbelasting wordt niet langer een vast tarief, maar een percentage van het bedrag dat de toerist voor zijn/haar overnachting betaalt."
+    },
+    {
+      "promiseCode": "SP-DH-2022-094",
+      "text": "De gemeente zorgt dat de Haagse Markt een droogloop krijgt in overleg met marktkooplieden om de markt aantrekkelijk te maken op regenachtige dagen.",
+      "summary": "Droogloop voor Haagse Markt tegen regen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "haagse-markt",
+        "droogloop",
+        "marktkooplieden",
+        "overdekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 34",
+      "originalQuote": "De gemeente zorgt, in goed overleg met de marktkooplieden, dat de langgekoesterde wens van een droogloop op de Haagse Markt zo snel mogelijk in vervulling komt."
+    },
+    {
+      "promiseCode": "SP-DH-2022-095",
+      "text": "Het aandeel uitzendkrachten en ingehuurd personeel binnen de gemeente wordt teruggebracht van 15 naar 10 procent.",
+      "summary": "Externe inhuur gemeente van 15% naar 10%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "externe-inhuur",
+        "uitzendkrachten",
+        "gemeente",
+        "10-procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 34",
+      "originalQuote": "De norm van 15 procent externe inhuur wordt verlaagd naar 10 procent."
+    },
+    {
+      "promiseCode": "SP-DH-2022-096",
+      "text": "Extra budget voor schoonhouden van de stad, met afvalophaaldienst op zaterdag en zondag in wijken met afvalproblemen en uitbreiding van buurt service teams.",
+      "summary": "Extra budget voor stadschoonmaak, weekend afvalophaaldienst en meer buurt service teams",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalophaaldienst",
+        "buurt service teams",
+        "schoonmaak",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 35",
+      "originalQuote": "We maken extra budget vrij voor het schoonhouden van de stad. In wijken met afvalproblemen wordt ook op zaterdag en zondag afval opgehaald en de buurt service teams worden flink uitgebreid."
+    },
+    {
+      "promiseCode": "SP-DH-2022-097",
+      "text": "Wijkconciërges komen er in wijken met veel afvalproblemen als ogen en oren in de wijk voor afvalmeldingen en probleem-oplossing.",
+      "summary": "Wijkconciërges in wijken met afvalproblemen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkconciërges",
+        "afvalproblemen",
+        "containers",
+        "bijplaatsingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 35",
+      "originalQuote": "In wijken met veel afvalproblemen komen er wijkconciërges. De wijkconciërges worden de ogen en oren in de wijk."
+    },
+    {
+      "promiseCode": "SP-DH-2022-098",
+      "text": "Gemeente maakt samen met woningcorporaties een plan om alle binnentuinen van sociale huurwoningen op te knappen met nieuwe voorzieningen.",
+      "summary": "Opknappen alle binnentuinen sociale huurwoningen met woningcorporaties",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "binnentuinen",
+        "sociale huurwoningen",
+        "woningcorporaties",
+        "opknappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 35",
+      "originalQuote": "De gemeente maakt samen met de woningcorporaties een plan om alle binnentuinen van sociale huurwoningen op te knappen."
+    },
+    {
+      "promiseCode": "SP-DH-2022-099",
+      "text": "Voor elke boom die gekapt wordt, worden binnen een half jaar twee bomen aangeplant.",
+      "summary": "Voor elke gekapte boom binnen half jaar twee nieuwe bomen planten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bomen",
+        "kappen",
+        "aanplanten",
+        "half jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 36",
+      "originalQuote": "Voor elke boom die gekapt wordt, worden binnen een half jaar twee bomen aangeplant."
+    },
+    {
+      "promiseCode": "SP-DH-2022-100",
+      "text": "Voor elke vierkante meter groen dat verloren gaat bij bebouwing moet elders twee vierkante meter groen worden gecompenseerd.",
+      "summary": "Dubbele groene compensatie bij verlies groengebied door bebouwing",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groencompensatie",
+        "bebouwing",
+        "vierkante meter",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 36",
+      "originalQuote": "voor elke vierkante meter groen dat verloren gaat elders twee vierkante meter groen worden gecompenseerd."
+    },
+    {
+      "promiseCode": "SP-DH-2022-101",
+      "text": "Ooievaarspashouders krijgen vergoeding voor dierenarts: eerste bezoek volledig vergoed, operaties en noodzakelijke behandelingen voor de helft vergoed.",
+      "summary": "Dierenarts vergoeding voor Ooievaarspashouders",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ooievaarspass",
+        "dierenarts",
+        "vergoeding",
+        "behandelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 36",
+      "originalQuote": "Ooievaarspashouders krijgen een vergoeding voor het bezoek aan de dierenarts. Het eerste bezoek wordt volledig vergoed, mocht er hieruit blijken dat een operatie of andere medisch noodzakelijke behandeling nodig is wordt deze voor de helft door de gemeente vergoed."
+    },
+    {
+      "promiseCode": "SP-DH-2022-102",
+      "text": "Grofvuil afspraak moet in wijken zonder grote afvalproblemen altijd binnen 7 dagen te maken zijn.",
+      "summary": "Grofvuil ophalen binnen 7 dagen in reguliere wijken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grofvuil",
+        "ophalen",
+        "afspraak",
+        "7 dagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 36",
+      "originalQuote": "In overige wijken moet een afspraak voor het laten ophalen van grofvuil altijd binnen 7 dagen te maken zijn."
+    },
+    {
+      "promiseCode": "SP-DH-2022-103",
+      "text": "Bijplaatsingen moeten binnen 48 uur worden opgehaald, bederfelijke bijplaatsingen binnen 24 uur.",
+      "summary": "Bijplaatsingen binnen 48 uur ophalen, bederfelijk afval binnen 24 uur",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijplaatsingen",
+        "48 uur",
+        "24 uur",
+        "ophalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 37",
+      "originalQuote": "Bijplaatsingen moeten binnen 48 uur worden opgehaald. Voor bederfelijke bijplaatsingen (afvalzakken) geldt een norm van 24 uur."
+    },
+    {
+      "promiseCode": "SP-DH-2022-104",
+      "text": "Alle nog bestaande bovengrondse containers worden zo snel mogelijk vervangen door ondergrondse containers.",
+      "summary": "Alle bovengrondse containers vervangen door ondergrondse",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bovengrondse containers",
+        "ondergrondse containers",
+        "vervangen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SP den-haag 2022, p. 37",
+      "originalQuote": "Alle nog bestaande bovengrondse containers worden zo snel mogelijk vervangen door ondergrondse."
+    }
+  ]
+}

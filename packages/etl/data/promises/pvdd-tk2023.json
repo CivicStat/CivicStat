@@ -1,0 +1,833 @@
+{
+  "party": "PvdD",
+  "partySlug": "pvdd",
+  "program": "Een Plan voor Dier, Natuur en Mens",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "fa7381dbfdd7b4eb78c9bbf923870861d7fa9a46bd98893ebb098413194bd6f4",
+  "totalPromises": 55,
+  "promises": [
+    {
+      "promiseCode": "PVDD-2023-001",
+      "text": "Nederland zet zich maximaal in om de opwarming van de Aarde te beperken tot 1,5 graden Celsius. In 2030 zijn we klimaatneutraal. Deze nieuwe reductiedoelstelling wordt vastgelegd in de Klimaatwet.",
+      "summary": "Klimaatneutraal in 2030, 1,5 graden opwarming als doel in Klimaatwet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "opwarming",
+        "Klimaatwet",
+        "reductiedoelstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 11",
+      "originalQuote": "Nederland zet zich maximaal in om de opwarming van de Aarde te beperken tot 1,5 graden Celsius. In 2030 zijn we klimaatneutraal. Deze nieuwe reductiedoelstelling wordt vastgelegd in de Klimaatwet."
+    },
+    {
+      "promiseCode": "PVDD-2023-002",
+      "text": "Met een Burgerberaad voor het klimaat betrekken we burgers bij oplossingen voor de klimaat- en natuurcrisis. De regering heeft de plicht om de aanbevelingen in beleid en regelgeving om te zetten.",
+      "summary": "Burgerberaad voor klimaat oprichten met bindende aanbevelingen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Burgerberaad",
+        "klimaat",
+        "natuurcrisis",
+        "aanbevelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 11",
+      "originalQuote": "Met een Burgerberaad voor het klimaat betrekken we burgers bij oplossingen voor de klimaat- en natuurcrisis. [...] De regering heeft de plicht om de aanbevelingen in beleid en regelgeving om te zetten."
+    },
+    {
+      "promiseCode": "PVDD-2023-003",
+      "text": "Er komt een ministerie voor Klimaat en Biodiversiteit.",
+      "summary": "Ministerie voor Klimaat en Biodiversiteit oprichten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "klimaat",
+        "biodiversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 11",
+      "originalQuote": "Er komt een ministerie voor Klimaat en Biodiversiteit."
+    },
+    {
+      "promiseCode": "PVDD-2023-004",
+      "text": "De minister-president geeft iedere maand een persconferentie over het klimaat.",
+      "summary": "Maandelijkse klimaatpersconferentie door minister-president",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister-president",
+        "persconferentie",
+        "klimaat",
+        "maandelijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 11",
+      "originalQuote": "De minister-president geeft iedere maand een persconferentie over het klimaat."
+    },
+    {
+      "promiseCode": "PVDD-2023-005",
+      "text": "Geen enkele sector is uitgezonderd van de klimaatdoelen. De luchtvaart, scheepvaart, veehouderij en de financiële sector verliezen hun uitzonderingspositie.",
+      "summary": "Klimaatdoelen voor alle sectoren, geen uitzonderingen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sectoren",
+        "klimaatdoelen",
+        "luchtvaart",
+        "veehouderij",
+        "uitzonderingspositie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 11",
+      "originalQuote": "Geen enkele sector is uitgezonderd van de klimaatdoelen. De luchtvaart, scheepvaart, veehouderij en de financiële sector verliezen hun uitzonderingspositie."
+    },
+    {
+      "promiseCode": "PVDD-2023-006",
+      "text": "Er komt een klimaatplicht voor grote vervuilers en financiële instellingen. Bedrijven moeten met een klimaatplan laten zien hoe ze hun uitstoot in de hele keten terugdringen.",
+      "summary": "Klimaatplicht en klimaatplan voor grote vervuilers",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatplicht",
+        "vervuilers",
+        "klimaatplan",
+        "uitstoot"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 11",
+      "originalQuote": "Er komt een klimaatplicht voor grote vervuilers en financiële instellingen. Bedrijven moeten met een klimaatplan laten zien hoe ze hun uitstoot in de hele keten terugdringen."
+    },
+    {
+      "promiseCode": "PVDD-2023-007",
+      "text": "Fossiele subsidies en andere vormen van bevoordeling van fossiele bedrijven schaffen we af. Het geld dat vrijkomt investeren we in een sociaal rechtvaardige energietransitie.",
+      "summary": "Afschaffen fossiele subsidies, geld naar energietransitie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fossiele",
+        "subsidies",
+        "afschaffen",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 12",
+      "originalQuote": "Fossiele subsidies en andere vormen van bevoordeling van fossiele bedrijven schaffen we af. Het geld dat vrijkomt investeren we in een sociaal rechtvaardige energietransitie."
+    },
+    {
+      "promiseCode": "PVDD-2023-008",
+      "text": "We verhogen de belasting op CO2 en breiden die uit naar alle broeikasgassen en sectoren. Gratis rechten worden ingetrokken.",
+      "summary": "CO2-belasting verhogen en uitbreiden naar alle broeikasgassen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "CO2-belasting",
+        "broeikasgassen",
+        "sectoren",
+        "gratis rechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 12",
+      "originalQuote": "We verhogen de belasting op CO2 en breiden die uit naar alle broeikasgassen en sectoren. Gratis rechten worden ingetrokken."
+    },
+    {
+      "promiseCode": "PVDD-2023-009",
+      "text": "Er komt een extra winstbelasting voor fossiele energiebedrijven.",
+      "summary": "Extra winstbelasting voor fossiele energiebedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstbelasting",
+        "fossiele",
+        "energiebedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 12",
+      "originalQuote": "Er komt een extra winstbelasting voor fossiele energiebedrijven."
+    },
+    {
+      "promiseCode": "PVDD-2023-010",
+      "text": "We introduceren een progressieve energiebelasting die mensen met lage inkomens ontziet en ervoor zorgt dat grootverbruikers meer gaan betalen.",
+      "summary": "Progressieve energiebelasting invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "progressieve",
+        "energiebelasting",
+        "grootverbruikers",
+        "lage inkomens"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 12",
+      "originalQuote": "We introduceren een progressieve energiebelasting die mensen met lage inkomens ontziet en ervoor zorgt dat grootverbruikers meer gaan betalen."
+    },
+    {
+      "promiseCode": "PVDD-2023-011",
+      "text": "Er komt een einde aan privéjets en superjachten.",
+      "summary": "Verbod op privéjets en superjachten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "privéjets",
+        "superjachten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 12",
+      "originalQuote": "Er komt een einde aan privéjets en superjachten."
+    },
+    {
+      "promiseCode": "PVDD-2023-012",
+      "text": "We verbieden fossiele reclame en er komt een waarschuwing op verkooppunten van fossiele brandstof, vliegreizen, cruisereizen en voertuigen met een fossiele brandstofmotor.",
+      "summary": "Fossiele reclame verbieden, waarschuwingen op verkooppunten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fossiele",
+        "reclame",
+        "verbod",
+        "waarschuwingen",
+        "verkooppunten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 12",
+      "originalQuote": "We verbieden fossiele reclame en er komt een waarschuwing op verkooppunten van fossiele brandstof, vliegreizen, cruisereizen en voertuigen met een fossiele brandstofmotor."
+    },
+    {
+      "promiseCode": "PVDD-2023-013",
+      "text": "In 2030 gebruikt Nederland 50% minder energie ten opzichte van 1990.",
+      "summary": "50% minder energieverbruik in 2030 ten opzichte van 1990",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energieverbruik",
+        "besparing",
+        "doelstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 13",
+      "originalQuote": "In 2030 gebruikt Nederland 50% minder energie ten opzichte van 1990."
+    },
+    {
+      "promiseCode": "PVDD-2023-014",
+      "text": "Er komt een nationaal plan energiebesparing. Grootverbruikers moeten verplicht een energiebesparingsplan inleveren.",
+      "summary": "Nationaal energiebesparingsplan en verplichting voor grootverbruikers",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaal plan",
+        "energiebesparing",
+        "grootverbruikers",
+        "energiebesparingsplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 13",
+      "originalQuote": "Er komt een nationaal plan energiebesparing. Grootverbruikers moeten verplicht een energiebesparingsplan inleveren."
+    },
+    {
+      "promiseCode": "PVDD-2023-015",
+      "text": "Onnodige energieslurpende sectoren zoals de gangbare sierteelt en de kunstmestindustrie worden afgebouwd.",
+      "summary": "Afbouw energieslurpende sectoren zoals sierteelt en kunstmestindustrie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energieslurpende",
+        "sectoren",
+        "afbouw",
+        "sierteelt",
+        "kunstmestindustrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 13",
+      "originalQuote": "Onnodige energieslurpende sectoren zoals de gangbare sierteelt en de kunstmestindustrie worden afgebouwd."
+    },
+    {
+      "promiseCode": "PVDD-2023-016",
+      "text": "Er komt daarom een rem op de bouw van datacenters.",
+      "summary": "Rem op bouw van nieuwe datacenters",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rem",
+        "bouw",
+        "datacenters"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 13",
+      "originalQuote": "Er komt daarom een rem op de bouw van datacenters."
+    },
+    {
+      "promiseCode": "PVDD-2023-017",
+      "text": "Ons energiesysteem komt in publieke handen. Omwonenden hebben zeggenschap over het soort opwekking en de locatie.",
+      "summary": "Energiesysteem in publieke handen met zeggenschap omwonenden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiesysteem",
+        "publieke handen",
+        "omwonenden",
+        "zeggenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 14",
+      "originalQuote": "Ons energiesysteem komt in publieke handen. Omwonenden hebben zeggenschap over het soort opwekking en de locatie."
+    },
+    {
+      "promiseCode": "PVDD-2023-018",
+      "text": "Alle nieuwbouwwoningen worden voorzien van zonnepanelen. Er komen geen zonneparken in de natuur of op landbouwgrond.",
+      "summary": "Zonnepanelen verplicht op nieuwbouw, geen zonneparken in natuur",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "zonnepanelen",
+        "zonneparken",
+        "natuur",
+        "landbouwgrond"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 14",
+      "originalQuote": "Alle nieuwbouwwoningen worden voorzien van zonnepanelen. Er komen geen zonneparken in de natuur of op landbouwgrond."
+    },
+    {
+      "promiseCode": "PVDD-2023-019",
+      "text": "Energiebedrijven worden verplicht een minimumpercentage aan duurzame in Nederland opgewekte stroom te leveren. Dit percentage wordt jaarlijks verhoogd.",
+      "summary": "Verplichting minimumpercentage Nederlandse duurzame stroom voor energiebedrijven",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiebedrijven",
+        "minimumpercentage",
+        "duurzame stroom",
+        "Nederland",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 14-15",
+      "originalQuote": "Energiebedrijven worden verplicht een minimum- percentage aan duurzame in Nederland opgewekte stroom te leveren. Dit percentage wordt jaarlijks verhoogd."
+    },
+    {
+      "promiseCode": "PVDD-2023-020",
+      "text": "De waterstofinfrastructuur blijft in publieke handen.",
+      "summary": "Waterstofinfrastructuur behouden in publieke handen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waterstofinfrastructuur",
+        "publieke handen",
+        "eigendom"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 14-15",
+      "originalQuote": "De waterstofinfrastructuur blijft in publieke handen."
+    },
+    {
+      "promiseCode": "PVDD-2023-021",
+      "text": "Nederland gebruikt in 2030 geen olie, kolen en gas meer. Er komt een ambitieus afbouwplan voor fossiele brandstoffen waarbij de industrie als eerst wordt aangepakt.",
+      "summary": "Volledig stoppen met fossiele brandstoffen in 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fossiele brandstoffen",
+        "afbouwplan",
+        "industrie",
+        "olie",
+        "kolen",
+        "gas"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 15-16",
+      "originalQuote": "In 2030 gebruikt Nederland geen olie, kolen en gas meer. Er komt een ambitieus afbouwplan voor fossiele brandstoffen waarbij de industrie als eerst wordt aangepakt."
+    },
+    {
+      "promiseCode": "PVDD-2023-022",
+      "text": "Het stoppen met olie- en gaswinning op land en op zee. Er worden geen nieuwe vergunningen afgegeven. De gaskraan in Groningen gaat definitief dicht.",
+      "summary": "Stop olie- en gaswinning, geen nieuwe vergunningen, Groningen dicht",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "olie",
+        "gaswinning",
+        "vergunningen",
+        "Groningen",
+        "gaskraan"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 15-16",
+      "originalQuote": "We stoppen met olie- en gaswinning op land en op zee. Er worden geen (nieuwe) vergunningen afgegeven, ook niet bij Ternaard in de Waddenzee. De gaskraan in Groningen gaat definitief dicht, en blijft dicht."
+    },
+    {
+      "promiseCode": "PVDD-2023-023",
+      "text": "De kolencentrales sluiten zo snel mogelijk en worden niet omgebouwd tot biomassacentrales.",
+      "summary": "Sluiting kolencentrales, geen ombouw naar biomassa",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kolencentrales",
+        "sluiting",
+        "biomassacentrales",
+        "ombouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 15-16",
+      "originalQuote": "De kolencentrales sluiten zo snel mogelijk en worden niet omgebouwd tot biomassacentrales."
+    },
+    {
+      "promiseCode": "PVDD-2023-024",
+      "text": "Nederland heeft in 2030 een volledig circulaire economie.",
+      "summary": "Volledig circulaire economie in 2030",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulaire economie",
+        "volledig",
+        "Nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 17-18",
+      "originalQuote": "Nederland heeft in 2030 een volledig circulaire economie."
+    },
+    {
+      "promiseCode": "PVDD-2023-025",
+      "text": "Er komt een Grondstoffenwet met bindende verplichtingen voor het terugdringen van grondstoffengebruik.",
+      "summary": "Grondstoffenwet met bindende verplichtingen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Grondstoffenwet",
+        "bindende verplichtingen",
+        "grondstoffengebruik",
+        "terugdringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 17-18",
+      "originalQuote": "Er komt een Grondstoffenwet met bindende verplichtingen voor het terugdringen van grondstoffengebruik."
+    },
+    {
+      "promiseCode": "PVDD-2023-026",
+      "text": "Voor het repareren of herstellen van producten hoeft geen btw meer te worden betaald.",
+      "summary": "Btw-vrijstelling voor reparatie en herstel producten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "reparatie",
+        "herstel",
+        "producten",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 17-18",
+      "originalQuote": "Voor het repareren of herstellen van producten hoeft geen btw meer te worden betaald."
+    },
+    {
+      "promiseCode": "PVDD-2023-027",
+      "text": "Het totale aantal dieren in de Nederlandse veehouderij krimpt met minstens 75% in de komende 2 jaar. De stikstofuitstoot is in 2030 in ieder geval 70% lager dan in 2020.",
+      "summary": "75% krimp veehouderij in 2 jaar, 70% stikstofuitstootreductie 2030",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veehouderij",
+        "krimp",
+        "stikstofuitstoot",
+        "reductie",
+        "dieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 19-20",
+      "originalQuote": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood, krimpt met minstens 75% in de komende 2 jaar. De uitstoot van stikstof is in 2030 in ieder geval 70% lager dan in 2020."
+    },
+    {
+      "promiseCode": "PVDD-2023-028",
+      "text": "De oorspronkelijke Ecologische Hoofdstructuur wordt uiterlijk in 2027 alsnog gerealiseerd.",
+      "summary": "Ecologische Hoofdstructuur realiseren voor 2027",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Ecologische Hoofdstructuur",
+        "realisatie",
+        "natuurgebieden",
+        "verbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 20-21",
+      "originalQuote": "De oorspronkelijke Ecologische Hoofdstructuur (EHS), een netwerk van aaneengesloten natuur- gebieden, wordt uiterlijk in 2027 alsnog gereali- seerd."
+    },
+    {
+      "promiseCode": "PVDD-2023-029",
+      "text": "Rechten voor de natuur worden opgenomen in de Grondwet.",
+      "summary": "Grondwetswijziging voor natuurrechten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "natuurrechten",
+        "Grondwet",
+        "grondwetswijziging",
+        "natuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 19",
+      "originalQuote": "Rechten voor de natuur worden opgenomen in de Grondwet."
+    },
+    {
+      "promiseCode": "PVDD-2023-030",
+      "text": "Er komt een verbod op het gebruik van landbouwgif.",
+      "summary": "Verbod op landbouwgif",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "landbouwgif",
+        "pesticides",
+        "gewasbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 20-21",
+      "originalQuote": "Er komt een verbod op het gebruik van landbouwgif."
+    },
+    {
+      "promiseCode": "PVDD-2023-031",
+      "text": "De rechten van dieren worden in de Grondwet erkend en vastgelegd.",
+      "summary": "Dierenrechten opnemen in Grondwet",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dierenrechten",
+        "Grondwet",
+        "grondwetswijziging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 32",
+      "originalQuote": "De rechten van dieren worden in de Grondwet erkend en vastgelegd."
+    },
+    {
+      "promiseCode": "PVDD-2023-032",
+      "text": "De Wet dieren wordt een échte dierenbeschermingswet, waarbij de intrinsieke waarde van het dier en het natuurlijk gedrag van dieren niet meer opzij worden geschoven voor economische belangen.",
+      "summary": "Herziening Wet dieren tot dierenbeschermingswet",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Wet dieren",
+        "dierenbescherming",
+        "intrinsieke waarde",
+        "natuurlijk gedrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 32",
+      "originalQuote": "De Wet dieren wordt een échte dierenbeschermingswet, waarbij de intrinsieke waarde van het dier en het natuurlijk gedrag van dieren niet meer opzij worden geschoven voor economische belangen."
+    },
+    {
+      "promiseCode": "PVDD-2023-033",
+      "text": "Alle relevante besluiten van het kabinet worden getoetst op hun invloed op de belangen van dieren.",
+      "summary": "Dierentoets bij alle kabinetsbesluiten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kabinetsbesluiten",
+        "dierentoets",
+        "dierenbelangen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 32",
+      "originalQuote": "Alle relevante besluiten van het kabinet worden getoetst op hun invloed op de belangen van dieren."
+    },
+    {
+      "promiseCode": "PVDD-2023-034",
+      "text": "Er komt een ministerie van Volksgezondheid en Dierenwelzijn. Dit ministerie gaat zich bezighouden met het welzijn van mens én dier.",
+      "summary": "Nieuw ministerie van Volksgezondheid en Dierenwelzijn",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "Volksgezondheid",
+        "Dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 32",
+      "originalQuote": "Er komt een ministerie van Volksgezondheid en Dierenwelzijn. Dit ministerie gaat zich bezighouden met het welzijn van mens én dier."
+    },
+    {
+      "promiseCode": "PVDD-2023-035",
+      "text": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood krimpt met minstens 75% in de komende twee jaar.",
+      "summary": "75% krimp veehouderij binnen twee jaar",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veehouderij",
+        "krimp",
+        "percentage",
+        "termijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 32",
+      "originalQuote": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood krimpt met minstens 75% in de komende twee jaar."
+    },
+    {
+      "promiseCode": "PVDD-2023-036",
+      "text": "Alle dieren in de veehouderij krijgen vrije uitloop naar buiten met voldoende schuilmogelijkheden tegen weersomstandigheden.",
+      "summary": "Vrije uitloop voor alle veehouderijdieren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrije uitloop",
+        "veehouderij",
+        "schuilmogelijkheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "Alle dieren in de veehouderij krijgen vrije uitloop naar buiten met voldoende schuilmogelijkheden tegen weersomstandigheden als hitte en regen."
+    },
+    {
+      "promiseCode": "PVDD-2023-037",
+      "text": "Kraamboxen (dwangkooien) waarin zeugen tussen stangen staan worden verboden.",
+      "summary": "Verbod kraamboxen voor zeugen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kraamboxen",
+        "dwangkooien",
+        "zeugen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "Kraamboxen (dwangkooien) waarin zeugen tussen stangen staan worden verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-038",
+      "text": "Er komt een verbod op het vergassen van pasgeboren haantjes in de eierindustrie.",
+      "summary": "Verbod vergassen haantjes eierindustrie",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergassen",
+        "haantjes",
+        "eierindustrie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "Er komt een verbod op het vergassen van pasgeboren haantjes in de eierindustrie."
+    },
+    {
+      "promiseCode": "PVDD-2023-039",
+      "text": "De productie van blank kalfsvlees wordt verboden.",
+      "summary": "Verbod productie blank kalfsvlees",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "blank kalfsvlees",
+        "productie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "De productie van blank kalfsvlees wordt verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-040",
+      "text": "De eenden- en konijnenhouderij worden per direct verboden.",
+      "summary": "Direct verbod eenden- en konijnenhouderij",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eedenhouderij",
+        "konijnenhouderij",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "De eenden- en konijnenhouderij worden daarom in ieder geval per direct verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-041",
+      "text": "Diertransporten duren maximaal twee uur. Op warme dagen mogen dieren niet worden getransporteerd.",
+      "summary": "Maximaal twee uur diertransport, verbod warme dagen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diertransporten",
+        "maximum",
+        "tijdsduur",
+        "temperatuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "Diertransporten duren maximaal twee uur. Op warme dagen (dat wil zeggen: op dagen met een verwachte temperatuur van 25 graden Celsius of hoger) mogen dieren niet worden getransporteerd."
+    },
+    {
+      "promiseCode": "PVDD-2023-042",
+      "text": "Transporten van levende dieren naar landen buiten de EU zijn niet langer toegestaan.",
+      "summary": "Verbod diertransporten naar buiten EU",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diertransporten",
+        "EU",
+        "verbod",
+        "levende dieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 33",
+      "originalQuote": "Transporten van levende dieren naar landen buiten de EU zijn niet langer toegestaan."
+    },
+    {
+      "promiseCode": "PVDD-2023-043",
+      "text": "Er komt een belasting voor slachthuizen (slachttaks).",
+      "summary": "Invoering slachttaks voor slachthuizen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slachttaks",
+        "belasting",
+        "slachthuizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 34",
+      "originalQuote": "Er komt een belasting voor slachthuizen (slachttaks)."
+    },
+    {
+      "promiseCode": "PVDD-2023-044",
+      "text": "Het verbod op onverdoofd slachten gaat voor iedereen gelden: de uitzondering voor religieuze slacht wordt geschrapt.",
+      "summary": "Algemeen verbod onverdoofd slachten, ook religieus",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onverdoofd slachten",
+        "verbod",
+        "religieuze slacht",
+        "uitzondering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 34",
+      "originalQuote": "Het verbod op onverdoofd slachten gaat voor iedereen gelden: de uitzondering die ten behoeve van religieuze slacht op dit verbod is gemaakt, wordt geschrapt."
+    },
+    {
+      "promiseCode": "PVDD-2023-045",
+      "text": "Veemarkten worden verboden.",
+      "summary": "Verbod op veemarkten",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veemarkten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 34",
+      "originalQuote": "Veemarkten veroorzaken veel dierenleed en stress en worden verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-046",
+      "text": "Stallen en slachterijen krijgen per direct permanent cameratoezicht.",
+      "summary": "Permanent cameratoezicht stallen en slachterijen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cameratoezicht",
+        "stallen",
+        "slachterijen",
+        "permanent"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 34",
+      "originalQuote": "Stallen en slachterijen krijgen per direct permanent cameratoezicht."
+    },
+    {
+      "promiseCode": "PVDD-2023-047",
+      "text": "De NVWA gaat weg bij het ministerie van Landbouw, Natuur en Voedselkwaliteit.",
+      "summary": "NVWA weg van ministerie LNV",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "NVWA",
+        "ministerie",
+        "LNV",
+        "reorganisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 34",
+      "originalQuote": "De dienst gaat weg bij het ministerie van Landbouw, Natuur en Voedselkwaliteit."
+    },
+    {
+      "promiseCode": "PVDD-2023-048",
+      "text": "Er komen wettelijke regels die de brandveiligheid van stallen waarborgen, zoals verplichte sprinklerinstallaties en vluchtmogelijkheden.",
+      "summary": "Wettelijke brandveiligheidsregels voor stallen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandveiligheid",
+        "stallen",
+        "sprinklers",
+        "vluchtmogelijkheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 35",
+      "originalQuote": "Er komen wettelijke regels die de brandveiligheid van stallen waarborgen, zoals een forse beperking van het aantal dieren per stal, verplichte sprinkler- of watermistinstallaties, verplichte vluchtmogelijkheden zoals valwanden en een verbod op luchtwassers."
+    },
+    {
+      "promiseCode": "PVDD-2023-049",
+      "text": "Het levend koken van kreeften, krabben en garnalen en de verkoop van levende schaal- en schelpdieren wordt verboden.",
+      "summary": "Verbod levend koken schaaldieren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levend koken",
+        "kreeften",
+        "krabben",
+        "garnalen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 35",
+      "originalQuote": "Het levend koken van dieren als kreeften, krabben en garnalen en de verkoop van levende schaal- en schelpdieren wordt verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-050",
+      "text": "Sportvissen (de hengeljacht) wordt verboden.",
+      "summary": "Verbod op sportvissen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sportvissen",
+        "hengeljacht",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 36",
+      "originalQuote": "Sportvissen (de hengeljacht) is een vorm van tijdverdrijf die ernstig dierenleed veroorzaakt en wordt verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-051",
+      "text": "De landelijke lijst van vrij bejaagbare soorten wordt afgeschaft. Er komt een verbod op het doden van wilde dieren door hobbyjagers.",
+      "summary": "Afschaffing jachtlijst en verbod hobbyjagen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bejaagbare soorten",
+        "jachtlijst",
+        "hobbyjagers",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 36",
+      "originalQuote": "De landelijke lijst van vrij bejaagbare soorten wordt afgeschaft. Er komt een verbod op het doden van in het wild levende dieren door hobbyjagers."
+    },
+    {
+      "promiseCode": "PVDD-2023-052",
+      "text": "Het Koninklijk Jachtdepartement wordt opgeheven. Kroondomein Het Loo wordt het hele jaar publiek toegankelijk.",
+      "summary": "Opheffing Koninklijk Jachtdepartement en opening Het Loo",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Koninklijk Jachtdepartement",
+        "opheffing",
+        "Kroondomein",
+        "publieke toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 36",
+      "originalQuote": "Het Koninklijk Jachtdepartement wordt opgeheven. Kroondomein Het Loo wordt het hele jaar publiek toegankelijk en er wordt niet meer gejaagd."
+    },
+    {
+      "promiseCode": "PVDD-2023-053",
+      "text": "Het vergassen van wilde dieren, waaronder ganzen, wordt verboden.",
+      "summary": "Verbod vergassen wilde dieren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergassen",
+        "wilde dieren",
+        "ganzen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 37",
+      "originalQuote": "Het vergassen van in het wild levende dieren, waaronder ganzen, wordt verboden."
+    },
+    {
+      "promiseCode": "PVDD-2023-054",
+      "text": "Nederland maakt zich sterk voor een Europees fokverbod voor dieren gebruikt voor bont, vacht en dons.",
+      "summary": "EU-fokverbod bont, vacht en dons",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fokverbod",
+        "bont",
+        "vacht",
+        "dons",
+        "Europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 38",
+      "originalQuote": "Nederland maakt zich sterk voor een Europees fokverbod voor dieren die gebruikt worden voor de productie van bont, vacht en dons."
+    },
+    {
+      "promiseCode": "PVDD-2023-055",
+      "text": "We verbieden de import en verkoop van bont, kasjmier, kangoeroeproducten en angorawol.",
+      "summary": "Import- en verkoopverbod bont en dierlijke producten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "importverbod",
+        "verkoopverbod",
+        "bont",
+        "kasjmier",
+        "kangoeroeproducten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2023, p. 38",
+      "originalQuote": "We verbieden de import en verkoop van bont, kasjmier (geitenvacht), kangoeroeproducten en angorawol."
+    }
+  ]
+}

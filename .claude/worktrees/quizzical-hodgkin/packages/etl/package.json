@@ -1,0 +1,23 @@
+{
+  "name": "@ntp/etl",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx --env-file=.env src/index.ts",
+    "ingest": "tsx --env-file=.env src/index.ts",
+    "lint": "echo 'No lint yet'",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "echo 'No tests yet'"
+  },
+  "dependencies": {
+    "@prisma/client": "5.19.1",
+    "langfuse": "^3.38.6",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/pdf-parse": "^1.1.5",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.5"
+  }
+}

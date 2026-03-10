@@ -1,0 +1,1961 @@
+{
+  "party": "JA21",
+  "partySlug": "ja21",
+  "program": "De juiste aanpak voor Nederland",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88762/",
+  "pdfHash": "1bd99f6ed6c7248450a6134993539089d6741add65e9470b0b0e9ba6402db45a",
+  "totalPromises": 131,
+  "promises": [
+    {
+      "promiseCode": "JA21-2025-001",
+      "text": "JA21 wil een kleinere overheid realiseren als onderdeel van hun conservatief-liberale benadering.",
+      "summary": "Kleinere overheid realiseren",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "overheid",
+        "verkleining",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 3",
+      "originalQuote": "Wij kiezen voor een kleinere overheid, grootse plannen en een open blik"
+    },
+    {
+      "promiseCode": "JA21-2025-002",
+      "text": "JA21 wil de bijstandsvoorzieningen op niveau houden als vangnet voor mensen die door tegenslag buiten de boot vallen.",
+      "summary": "Bijstandsvoorzieningen op niveau houden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijstandsvoorzieningen",
+        "vangnet",
+        "niveau"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 4",
+      "originalQuote": "JA21 biedt dit vangnet door de bijstandsvoorzieningen op niveau te houden."
+    },
+    {
+      "promiseCode": "JA21-2025-003",
+      "text": "JA21 wil verplichten dat uitkeringsgerechtigden er alles aan doen om weer zelfstandig te worden, met een verplichting om werk te zoeken of werk te hebben.",
+      "summary": "Verplichte werkzoekplicht voor uitkeringsgerechtigden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitkeringen",
+        "werkzoekplicht",
+        "verplichting",
+        "zelfredzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 4",
+      "originalQuote": "Wel verplichten wij mensen er alles aan te doen om weer zelfstandig en zelfredzaam te worden. Zo kennen onze uitkeringen een verplichting om werk te zoeken of werk te hebben."
+    },
+    {
+      "promiseCode": "JA21-2025-004",
+      "text": "JA21 wil meer referenda invoeren om Nederlandse burgers meer zeggenschap te geven over de totstandkoming van nieuwe wetten.",
+      "summary": "Meer referenda voor burgerzeggenschap",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referenda",
+        "zeggenschap",
+        "wetgeving",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 5",
+      "originalQuote": "JA21 wil dus meer referenda, minder EU, meer economische vrijheid en meer invloed op ons grensbeleid."
+    },
+    {
+      "promiseCode": "JA21-2025-005",
+      "text": "JA21 wil de invloed van de EU verminderen om Nederlandse zeggenschap te herstellen.",
+      "summary": "Minder EU-invloed",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "eu",
+        "invloed",
+        "zeggenschap",
+        "soevereiniteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 5",
+      "originalQuote": "JA21 wil dus meer referenda, minder EU, meer economische vrijheid en meer invloed op ons grensbeleid."
+    },
+    {
+      "promiseCode": "JA21-2025-006",
+      "text": "JA21 wil meer economische vrijheid voor Nederlandse burgers.",
+      "summary": "Meer economische vrijheid",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "economische",
+        "vrijheid",
+        "burgers"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 5",
+      "originalQuote": "JA21 wil dus meer referenda, minder EU, meer economische vrijheid en meer invloed op ons grensbeleid."
+    },
+    {
+      "promiseCode": "JA21-2025-007",
+      "text": "JA21 wil meer Nederlandse invloed op het grensbeleid en asielbeleid.",
+      "summary": "Meer invloed op grensbeleid",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grensbeleid",
+        "asiel",
+        "invloed",
+        "nationale",
+        "bijsturing"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 5",
+      "originalQuote": "JA21 wil dus meer referenda, minder EU, meer economische vrijheid en meer invloed op ons grensbeleid."
+    },
+    {
+      "promiseCode": "JA21-2025-008",
+      "text": "JA21 wil een Minister voor Overheidsefficiëntie en Autonomie invoeren die bureaucratie moet terugdringen, overheidsstructuren afbouwen, regels tegen het licht houden en de overheid kleiner maken.",
+      "summary": "Invoering Minister voor Overheidsefficiëntie en Autonomie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "overheidsefficiëntie",
+        "bureaucratie",
+        "afbouw",
+        "overheidsstructuren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 6",
+      "originalQuote": "Daarom pleit JA21 voor een Minister voor Overheidsefficiëntie en Autonomie"
+    },
+    {
+      "promiseCode": "JA21-2025-009",
+      "text": "JA21 wil de snelst mogelijke invoering van het correctief bindend referendum en organiseert vervolgens referenda over asiel, bevolkingsgroei en natuur.",
+      "summary": "Invoering correctief bindend referendum",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "asiel",
+        "bevolkingsgroei",
+        "natuur",
+        "burgerbetrokkenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 6",
+      "originalQuote": "Daarnaast dient deze minister zorg te dragen voor de snelst mogelijke invoering van het correctief bindend referendum. Vervolgens moet hij zorgen voor de organisatie van referenda over dossiers die al jaren om meer invloed van burgers vragen, zoals asiel, bevolkingsgroei, en de manier waarop wij omgaan met natuur in ons land"
+    },
+    {
+      "promiseCode": "JA21-2025-010",
+      "text": "JA21 wil gekozen burgemeesters invoeren in plaats van het huidige benoemingssysteem.",
+      "summary": "Invoering gekozen burgemeesters",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeester",
+        "verkiezing",
+        "democratie",
+        "lokaalbestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 7",
+      "originalQuote": "Gekozen burgemeesters"
+    },
+    {
+      "promiseCode": "JA21-2025-011",
+      "text": "JA21 wil een handboek 'Vrijheid en verantwoordelijkheid' uitreiken aan alle Nederlanders die 18 jaar worden, met daarin rechten en plichten van het Nederlandse burgerschap.",
+      "summary": "Uitreiken handboek burgerschap bij 18e verjaardag",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handboek",
+        "burgerschap",
+        "rechten",
+        "plichten",
+        "achttienjaren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 7",
+      "originalQuote": "Een handboek Vrijheid en verantwoordelijkheid uitreiken als Nederlanders 18 jaar worden, met daarin de rechten en plichten van het burgerschap in Nederland"
+    },
+    {
+      "promiseCode": "JA21-2025-012",
+      "text": "JA21 wil tijdens het Nederlandse voorzitterschap van het Comité van Ministers in 2027 een internationale top organiseren om het EVRM te moderniseren.",
+      "summary": "Organiseren internationale top EVRM-modernisering in 2027",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "evrm",
+        "modernisering",
+        "internationale",
+        "top",
+        "voorzitterschap",
+        "2027"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 9",
+      "originalQuote": "Hiertoe moet Nederland in 2027 een internationale top organiseren tijdens het Nederlandse voorzitterschap van het Comité van Ministers van de Raad van Europa"
+    },
+    {
+      "promiseCode": "JA21-2025-013",
+      "text": "JA21 wil het VN Vluchtelingenverdrag uit 1951 moderniseren door toespitsing op opvang in de eigen regio en terugdraaien van het Protocol van New York.",
+      "summary": "Modernisering VN Vluchtelingenverdrag 1951",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vluchtelingenverdrag",
+        "modernisering",
+        "opvang",
+        "regio",
+        "protocol"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 9",
+      "originalQuote": "JA21 wil het verdrag moderniseren en volledig toespitsen op opvang in de eigen regio. Daartoe moet de onbeperkte toepassing als gevolg van het Protocol van New York worden teruggedraaid"
+    },
+    {
+      "promiseCode": "JA21-2025-014",
+      "text": "JA21 wil de Spreidingswet zo snel mogelijk, maar uiterlijk vóór 1 februari 2026 intrekken om nieuwe verplichte ronde te voorkomen.",
+      "summary": "Intrekking Spreidingswet vóór 1 februari 2026",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spreidingswet",
+        "intrekking",
+        "februari",
+        "2026",
+        "asielopvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 11",
+      "originalQuote": "De Spreidingswet zo snel mogelijk, maar uiterlijk vóór 1 februari 2026 intrekken om zo een nieuwe verplichte ronde te voorkomen"
+    },
+    {
+      "promiseCode": "JA21-2025-015",
+      "text": "JA21 wil voorrangsregelingen en wettelijke taakstellingen voor gemeenten bij huisvesting van statushouders afschaffen.",
+      "summary": "Afschaffen voorrangsregeling huisvesting statushouders",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorrangsregeling",
+        "taakstelling",
+        "gemeenten",
+        "statushouders",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 11",
+      "originalQuote": "Afschaffen voorrangsregeling en wettelijke taakstellingen voor gemeenten met betrekking tot de huisvesting van statushouders"
+    },
+    {
+      "promiseCode": "JA21-2025-016",
+      "text": "JA21 wil illegaliteit strafbaar stellen evenals het faciliteren hiervan, en wil stoppen met Landelijke Vreemdelingenvoorzieningen en andere illegalenopvang.",
+      "summary": "Strafbaarstelling illegaliteit en facilitering",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "illegaliteit",
+        "strafbaar",
+        "facilitering",
+        "vreemdelingenvoorzieningen",
+        "opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 11",
+      "originalQuote": "illegaliteit net als onze buurlanden strafbaar stellen, evenals het faciliteren hiervan, stoppen met de Landelijke Vreemdelingenvoorzieningen (LVV) en andere vormen van illegalenopvang"
+    },
+    {
+      "promiseCode": "JA21-2025-017",
+      "text": "JA21 wil verblijfsvergunningen asiel voor onbepaalde tijd afschaffen en criteria voor EU-langdurig ingezetene maximaal aanscherpen.",
+      "summary": "Afschaffing verblijfsvergunning asiel voor onbepaalde tijd",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verblijfsvergunning",
+        "asiel",
+        "onbepaalde",
+        "tijd",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 12",
+      "originalQuote": "Verblijfsvergunningen asiel voor onbepaalde tijd afschaffen, criteria voor verkrijgen van de status EU-langdurig ingezetene maximaal aanscherpen"
+    },
+    {
+      "promiseCode": "JA21-2025-018",
+      "text": "JA21 wil het eenstatusstelsel vervangen door een tweestatusstelsel zodat rechten van vluchtelingen niet automatisch gelden voor subsidiair beschermden.",
+      "summary": "Invoering tweestatusstelsel voor asiel",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tweestatusstelsel",
+        "eenstatusstelsel",
+        "vluchtelingen",
+        "subsidiair",
+        "beschermden"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 12",
+      "originalQuote": "Vervangen van het eenstatusstelsel door een tweestatusstelsel zodat rechten (onder andere op het gebied van gezinshereniging) van vluchtelingen niet meer automatisch van toepassing zijn op subsidiair beschermden"
+    },
+    {
+      "promiseCode": "JA21-2025-019",
+      "text": "JA21 wil het vreemdelingenrecht uit het bestuursrecht halen met aparte procedureregels, einde aan procedurestapelen en schrapping rechtsmiddel hoger beroep.",
+      "summary": "Herstructurering vreemdelingenrecht",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vreemdelingenrecht",
+        "bestuursrecht",
+        "procedureregels",
+        "hoger",
+        "beroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 12",
+      "originalQuote": "Het vreemdelingenrecht uit het bestuursrecht: aparte procedureregels voor asiel en migratie, een einde aan procedurestapelen, rechtsmiddel hoger beroep en rechtsbijstand schrappen"
+    },
+    {
+      "promiseCode": "JA21-2025-020",
+      "text": "JA21 wil geen laaggeschoolde arbeidsmigratie van buiten de EU toestaan.",
+      "summary": "Verbod laaggeschoolde arbeidsmigratie buiten EU",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "arbeidsmigratie",
+        "laaggeschoold",
+        "eu",
+        "verbod",
+        "buiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 12",
+      "originalQuote": "Geen laaggeschoolde arbeidsmigratie van buiten de EU"
+    },
+    {
+      "promiseCode": "JA21-2025-021",
+      "text": "Voorkomen dat arbeidsmigranten alsnog asielstatus verkrijgen door het hebben van een baan.",
+      "summary": "Geen asielstatus via werkgelegenheid",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmigratie",
+        "asielstatus",
+        "werkgelegenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 13",
+      "originalQuote": "Voorkomen dat arbeids- en asielmigratie vermengd raken: het hebben van een baan mag niet (alsnog) leiden tot het verkrijgen van een asielstatus."
+    },
+    {
+      "promiseCode": "JA21-2025-022",
+      "text": "Hoogopgeleide kennismigranten met economische en maatschappelijke meerwaarde voor Nederland welkom heten.",
+      "summary": "Kennismigranten welkom",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kennismigranten",
+        "meerwaarde",
+        "economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 13",
+      "originalQuote": "Hoogopgeleide kennismigranten met economische en maatschappelijke meerwaarde voor Nederland welkom heten."
+    },
+    {
+      "promiseCode": "JA21-2025-023",
+      "text": "Strenge handhaving van inschrijvingsplicht bij gemeenten voor arbeidsmigranten.",
+      "summary": "Handhaving inschrijvingsplicht",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "inschrijvingsplicht",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 13",
+      "originalQuote": "Strenge handhaving van inschrijvingsplicht bij gemeenten."
+    },
+    {
+      "promiseCode": "JA21-2025-024",
+      "text": "Invoering van verhuurdersvergunningen en huisvesting arbeidsmigranten bij werkgevers in plaats van in woonwijken.",
+      "summary": "Verhuurdersvergunningen en werkgevershuisvesting",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verhuurdersvergunningen",
+        "huisvesting",
+        "werkgevers",
+        "arbeidsmigranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 13",
+      "originalQuote": "invoering verhuurdersvergunningen, huisvesting zoveel mogelijk op terrein van de werkgever in plaats van in woonwijken en recreatieparken."
+    },
+    {
+      "promiseCode": "JA21-2025-025",
+      "text": "Het aantal huwelijkspartners dat iemand gedurende zijn leven kan laten overkomen beperken tot maximaal één.",
+      "summary": "Maximaal één huwelijkspartner laten overkomen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huwelijksmigratie",
+        "gezinshereniging",
+        "partners"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 14",
+      "originalQuote": "Het aantal huwelijkspartners dat een persoon gedurende zijn leven kan laten overkomen beperken tot maximaal één."
+    },
+    {
+      "promiseCode": "JA21-2025-026",
+      "text": "De inkomenseis voor gezinshereniging ophogen naar een modaal inkomen.",
+      "summary": "Inkomenseis naar modaal inkomen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inkomenseis",
+        "modaal",
+        "gezinshereniging"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 14",
+      "originalQuote": "De inkomenseis waaraan de ontvangende partner in Nederland moet voldoen ophogen naar een modaal inkomen."
+    },
+    {
+      "promiseCode": "JA21-2025-027",
+      "text": "Verhoging van de leeftijdsgrens naar 25 jaar voor beide partners bij gezinshereniging.",
+      "summary": "Leeftijdsgrens 25 jaar voor partners",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "gezinshereniging",
+        "partners"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 14",
+      "originalQuote": "Verhoging van de leeftijdsgrens naar 25 jaar voor beide partners."
+    },
+    {
+      "promiseCode": "JA21-2025-028",
+      "text": "De eisen voor naturalisatie aanscherpen: pas na minstens tien jaar rechtmatig verblijf.",
+      "summary": "Naturalisatie na tien jaar verblijf",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "verblijf",
+        "inburgering"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 14",
+      "originalQuote": "De eisen voor naturalisatie aanscherpen: pas na minstens tien jaar rechtmatig verblijf."
+    },
+    {
+      "promiseCode": "JA21-2025-029",
+      "text": "Bevorderen van remigratie bij mislukte integratie door (her)invoering van remigratie-uitkeringen.",
+      "summary": "Remigratie-uitkeringen invoeren",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "remigratie",
+        "uitkeringen",
+        "integratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 14",
+      "originalQuote": "Bevorderen van remigratie bij mislukte integratie: (her)invoering van remigratie-uitkeringen."
+    },
+    {
+      "promiseCode": "JA21-2025-030",
+      "text": "Een einde aan de doorgeslagen en geldverslindende diversiteits- en inclusietrainingen bij de overheid.",
+      "summary": "Stop diversiteits- en inclusietrainingen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diversiteit",
+        "inclusie",
+        "trainingen",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 15",
+      "originalQuote": "Een einde aan de doorgeslagen en geldverslindende diversiteits- en inclusietrainingen bij de overheid."
+    },
+    {
+      "promiseCode": "JA21-2025-031",
+      "text": "Niet overgaan tot herstelbetalingen voor het Nederlandse slavernijverleden.",
+      "summary": "Geen herstelbetalingen slavernij",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "herstelbetalingen",
+        "slavernij",
+        "verleden"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 15",
+      "originalQuote": "Niet overgaan tot herstelbetalingen voor het Nederlandse slavernijverleden."
+    },
+    {
+      "promiseCode": "JA21-2025-032",
+      "text": "Verscherpt toezicht op islamitisch onderwijs invoeren.",
+      "summary": "Verscherpt toezicht islamitisch onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toezicht",
+        "islamitisch",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 15",
+      "originalQuote": "Verscherpt toezicht op islamitisch onderwijs."
+    },
+    {
+      "promiseCode": "JA21-2025-033",
+      "text": "Versterkte gebedsoproepen verbieden via initiatiefwetsvoorstel Eerdmans/Stoffer.",
+      "summary": "Verbod versterkte gebedsoproepen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gebedsoproepen",
+        "verbod",
+        "initiatiefwetsvoorstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 15",
+      "originalQuote": "Versterkte gebedsoproepen verbieden via initiatiefwetsvoorstel Eerdmans/Stoffer."
+    },
+    {
+      "promiseCode": "JA21-2025-034",
+      "text": "Een algeheel boerkaverbod invoeren.",
+      "summary": "Algeheel boerkaverbod",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boerka",
+        "verbod",
+        "gezichtsbedekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 15",
+      "originalQuote": "Een algeheel boerkaverbod."
+    },
+    {
+      "promiseCode": "JA21-2025-035",
+      "text": "Stapsgewijs komen tot een Nationale Veiligheidsnorm van minimaal 2% voor binnenlandse veiligheid.",
+      "summary": "2% norm voor binnenlandse veiligheid",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veiligheidsnorm",
+        "percentage",
+        "binnenlandse",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 16",
+      "originalQuote": "Stapsgewijs komen tot een Nationale Veiligheidsnorm. Wij pleiten voor een minimumpercentage van 2% voor binnenlandse veiligheid."
+    },
+    {
+      "promiseCode": "JA21-2025-036",
+      "text": "De norm voor wijkagenten verhogen van één agent per 5.000 inwoners naar één per 4.000 inwoners.",
+      "summary": "Meer wijkagenten: 1 per 4.000 inwoners",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkagenten",
+        "norm",
+        "inwoners",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 17",
+      "originalQuote": "Fors meer wijkagenten. De norm moet van één agent per 5.000 inwoners naar één per 4.000 inwoners."
+    },
+    {
+      "promiseCode": "JA21-2025-037",
+      "text": "Geen hoofddoekjes of andere religieuze uitingen bij politie, boa's en andere overheidsdienaren die een publieke functie bekleden.",
+      "summary": "Verbod religieuze uitingen overheidsdienaren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "religieuze",
+        "uitingen",
+        "overheidsdienaren",
+        "hoofddoekjes"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 17",
+      "originalQuote": "Geen hoofddoekjes of andere religieuze uitingen bij politie, boa's en andere overheidsdienaren die een publieke functie bekleden."
+    },
+    {
+      "promiseCode": "JA21-2025-038",
+      "text": "De invoering van minimumstraffen voor ernstige gewelds- en zedendelicten.",
+      "summary": "Minimumstraffen gewelds- en zedendelicten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumstraffen",
+        "geweld",
+        "zedendelicten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 17",
+      "originalQuote": "De invoering van minimumstraffen voor ernstige gewelds- en zedendelicten"
+    },
+    {
+      "promiseCode": "JA21-2025-039",
+      "text": "De mogelijkheid tot opleggen van levenslang na drie ernstige geweldsmisdrijven: het 'three strikes and you're out'-principe.",
+      "summary": "Levenslang na drie geweldsmisdrijven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levenslang",
+        "geweldsmisdrijven",
+        "three-strikes"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 18",
+      "originalQuote": "De mogelijkheid tot opleggen van levenslang na drie ernstige geweldsmisdrijven: het 'three strikes and you're out'-principe."
+    },
+    {
+      "promiseCode": "JA21-2025-040",
+      "text": "Een landelijk dekkend ov-verbod voor geweldplegers in het openbaar vervoer.",
+      "summary": "OV-verbod voor geweldplegers",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ov-verbod",
+        "geweldplegers",
+        "openbaar",
+        "vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 18",
+      "originalQuote": "Een landelijk dekkend ov-verbod voor geweldplegers in het openbaar vervoer."
+    },
+    {
+      "promiseCode": "JA21-2025-041",
+      "text": "De terugkeer van de spoorwegpolitie.",
+      "summary": "Terugkeer spoorwegpolitie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "spoorwegpolitie",
+        "openbaar",
+        "vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 18",
+      "originalQuote": "De terugkeer van de spoorwegpolitie."
+    },
+    {
+      "promiseCode": "JA21-2025-042",
+      "text": "Het aantal delicten uitbreiden waarvoor personen met dubbele nationaliteit kunnen worden gedenaturaliseerd en uitgezet.",
+      "summary": "Uitbreiding denaturalisatie dubbele nationaliteit",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "denaturalisatie",
+        "dubbele",
+        "nationaliteit",
+        "delicten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 18",
+      "originalQuote": "Het aantal delicten uitbreiden waarvoor personen met een dubbele nationaliteit kunnen worden gedenaturaliseerd en uitgezet"
+    },
+    {
+      "promiseCode": "JA21-2025-043",
+      "text": "Standaard denaturalisering en uitzetting van terroristen met een dubbele nationaliteit.",
+      "summary": "Denaturalisatie terroristen dubbele nationaliteit",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "denaturalisatie",
+        "terroristen",
+        "dubbele",
+        "nationaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 19",
+      "originalQuote": "Standaard denaturalisering en uitzetting van terroristen met een dubbele nationaliteit."
+    },
+    {
+      "promiseCode": "JA21-2025-044",
+      "text": "Ook denaturalisatie van uitgereisde terroristen indien hierdoor staatloosheid ontstaat.",
+      "summary": "Denaturalisatie ondanks staatloosheid",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "denaturalisatie",
+        "terroristen",
+        "staatloosheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 19",
+      "originalQuote": "Ook denaturalisatie van uitgereisde terroristen indien hierdoor staatloosheid ontstaat."
+    },
+    {
+      "promiseCode": "JA21-2025-045",
+      "text": "Verbieden van buitenlandse financiering van moskeeën.",
+      "summary": "Verbod buitenlandse financiering moskeeën",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenlandse",
+        "financiering",
+        "moskeeën"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 19",
+      "originalQuote": "verbieden van buitenlandse financiering van moskeeën"
+    },
+    {
+      "promiseCode": "JA21-2025-046",
+      "text": "Investeren in een nationale cloud onder Nederlandse wetgeving zonder Amerikaanse of Chinese toegang tot onze data.",
+      "summary": "Nationale cloud voor digitale soevereiniteit",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale",
+        "cloud",
+        "digitale",
+        "soevereiniteit",
+        "data"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 20",
+      "originalQuote": "Digitale soevereiniteit. Investeer in een nationale cloud onder Nederlandse wetgeving. Geen Amerikaanse of Chinese toegang tot onze data."
+    },
+    {
+      "promiseCode": "JA21-2025-047",
+      "text": "Artikel 3:305a van het Burgerlijk Wetboek en artikel 1:2 van de Algemene wet bestuursrecht aanpassen: niet meer procederen in het 'algemeen belang'.",
+      "summary": "Aanpassing wetgeving procederen algemeen belang",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wetgeving",
+        "procederen",
+        "algemeen",
+        "belang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 20",
+      "originalQuote": "Artikel 3:305a van het Burgerlijk Wetboek en artikel 1:2 van de Algemene wet bestuursrecht aanpassen: niet meer procederen in het 'algemeen belang'."
+    },
+    {
+      "promiseCode": "JA21-2025-048",
+      "text": "Het Europees Verdrag voor de Rechten van de Mens moderniseren om democratische beslissingen nationaal te kunnen nemen.",
+      "summary": "Modernisering EVRM voor nationale democratie",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "evrm",
+        "moderniseren",
+        "democratische",
+        "beslissingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 21",
+      "originalQuote": "Internationale verdragen en met name het Europees Verdrag voor de Rechten van de Mens moderniseren, zodat we nationaal genomen democratische beslissingen en het draagvlak voor de rechtspraak versterken."
+    },
+    {
+      "promiseCode": "JA21-2025-049",
+      "text": "Wettelijk verbod op gezichtsbedekking tijdens een demonstratie.",
+      "summary": "Verbod gezichtsbedekking bij demonstraties",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezichtsbedekking",
+        "demonstratie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 21",
+      "originalQuote": "Wettelijk verbod op gezichtsbedekking tijdens een demonstratie, zodat bij vernielingen de kosten op de daders verhaald kunnen worden."
+    },
+    {
+      "promiseCode": "JA21-2025-050",
+      "text": "Afkoelhuizen voor daders van huiselijk geweld, zodat slachtoffers in hun eigen huis kunnen blijven.",
+      "summary": "Afkoelhuizen voor daders huiselijk geweld",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afkoelhuizen",
+        "daders",
+        "huiselijk",
+        "geweld"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 21",
+      "originalQuote": "Afkoelhuizen voor daders, zodat slachtoffers van huiselijk geweld in hun eigen huis kunnen blijven en daders in afwachting van hun zaak op een afgeschermde locatie zitten."
+    },
+    {
+      "promiseCode": "JA21-2025-051",
+      "text": "Verder uitrollen van het slachtofferdevice en de StopApp over heel Nederland voor betere bescherming van slachtoffers van stalking, huiselijk geweld of seksuele straatintimidatie tegen daders.",
+      "summary": "Uitrollen slachtofferdevice en StopApp in geheel Nederland",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "slachtofferdevice",
+        "stopapp",
+        "stalking",
+        "huiselijk geweld",
+        "seksuele straatintimidatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 22",
+      "originalQuote": "Verder uitrollen van het slachtofferdevice en de StopApp over heel Nederland, zodat slachtoffers van stalking, huiselijk geweld of seksuele straatintimidatie beter beschermd worden tegen daders."
+    },
+    {
+      "promiseCode": "JA21-2025-052",
+      "text": "Een Nederlandse variant van 'Claire's Law' invoeren waarmee mensen bij de politie kunnen navragen of een partner of ex-partner een verleden heeft van huiselijk geweld, stalking of misbruik.",
+      "summary": "Nederlandse variant van 'Claire's Law' invoeren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "claire's law",
+        "politie",
+        "huiselijk geweld",
+        "stalking",
+        "misbruik",
+        "partner"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 22",
+      "originalQuote": "Een Nederlandse variant van 'Claire's Law', een Engelse wet waarbij mensen bij de politie kunnen navragen of een partner of ex-partner een verleden heeft van huiselijk geweld, stalking of misbruik."
+    },
+    {
+      "promiseCode": "JA21-2025-053",
+      "text": "Het juridisch mogelijk maken om de gemaakte financiële kosten als gevolg van huiselijk geweld te verhalen op de veroordeelde pleger.",
+      "summary": "Financiële kosten huiselijk geweld verhaalbaar maken op pleger",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "financiële kosten",
+        "huiselijk geweld",
+        "verhalen",
+        "veroordeelde",
+        "pleger"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 22",
+      "originalQuote": "Het juridisch mogelijk maken om de gemaakte financiële kosten als gevolg van huiselijk geweld te verhalen op de veroordeelde pleger."
+    },
+    {
+      "promiseCode": "JA21-2025-054",
+      "text": "Een wettelijke grondslag creëren waardoor rechters een uitreisverbod op kunnen leggen bij vermoedens van genitale verminking, conform de motie Eerdmans.",
+      "summary": "Wettelijke grondslag uitreisverbod bij vermoeden genitale verminking",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijke grondslag",
+        "rechters",
+        "uitreisverbod",
+        "genitale verminking",
+        "motie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 22",
+      "originalQuote": "Een wettelijke grondslag creëren waardoor rechters een uitreisverbod op kunnen leggen bij vermoedens van genitale verminking, conform de motie Eerdmans."
+    },
+    {
+      "promiseCode": "JA21-2025-055",
+      "text": "Huiselijk geweld als grond gebruiken voor intrekking van de verblijfsvergunning.",
+      "summary": "Huiselijk geweld als grond voor intrekking verblijfsvergunning",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huiselijk geweld",
+        "intrekking",
+        "verblijfsvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 22-23",
+      "originalQuote": "Dat huiselijk geweld als grond kan worden gebruikt voor intrekking van de verblijfsvergunning."
+    },
+    {
+      "promiseCode": "JA21-2025-056",
+      "text": "Nationale koppen op EU-regels afschaffen en geen nieuwe wetgeving introduceren die verder gaat dan EU-regelgeving.",
+      "summary": "Afschaffen nationale koppen op EU-regels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale koppen",
+        "eu-regels",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 24",
+      "originalQuote": "Nationale koppen op EU-regels afschaffen: we introduceren geen nieuwe wetgeving die verder gaat dan EU-regelgeving."
+    },
+    {
+      "promiseCode": "JA21-2025-057",
+      "text": "Een minister voor Overheidsefficiëntie en Autonomie aanstellen met een harde reductiedoelstelling om regeldruk terug te dringen. Nieuwe regels alleen als oude overbodige regels worden geschrapt.",
+      "summary": "Minister voor Overheidsefficiëntie aanstellen voor regeldrukvermindering",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "overheidsefficiëntie",
+        "autonomie",
+        "reductiedoelstelling",
+        "regeldruk"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 24",
+      "originalQuote": "Minder regeldruk door een minister voor Overheidsefficiëntie en Autonomie aan te stellen die met een harde reductiedoelstelling een einde maakt aan de toenemende regeldruk en met de stofkam door bestaande wet- en regelgeving gaat. Nieuwe regels introduceren we alleen als we oude overbodige regels schrappen."
+    },
+    {
+      "promiseCode": "JA21-2025-058",
+      "text": "De bedrijfsopvolgingsregeling en de erf- en schenkbelasting afschaffen om het voortbestaan van familiebedrijven te waarborgen.",
+      "summary": "Afschaffen erf- en schenkbelasting en bedrijfsopvolgingsregeling",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijfsopvolgingsregeling",
+        "erf-schenkbelasting",
+        "familiebedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 24",
+      "originalQuote": "Het voortbestaan van familiebedrijven waarborgen door de bedrijfsopvolgingsregeling en de erf- en schenkbelasting af te schaffen."
+    },
+    {
+      "promiseCode": "JA21-2025-059",
+      "text": "Geen nationale CO2-heffingen bovenop Europese regels introduceren en bestaande nationale CO2-heffingen afschaffen voor een gelijk speelveld voor de industrie.",
+      "summary": "Afschaffen nationale CO2-heffingen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-heffingen",
+        "europese regels",
+        "industrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 24",
+      "originalQuote": "Een gelijk speelveld voor onze industrie door regelgeving gelijk te trekken met omringende landen zoals Duitsland en België. We introduceren geen nationale CO2-heffingen bovenop Europese regels en we schaffen bestaande nationale CO2-heffingen af."
+    },
+    {
+      "promiseCode": "JA21-2025-060",
+      "text": "Het huidige tweeschijvenstelsel vennootschapsbelasting (19% en 25,8%) vervangen door één helder tarief van 20% voor alle ondernemingen.",
+      "summary": "Vennootschapsbelasting uniform 20% tarief voor alle ondernemingen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vennootschapsbelasting",
+        "tweeschijvenstelsel",
+        "uniform tarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 27",
+      "originalQuote": "Een eenvoudige vennootschapsbelasting voor alle ondernemingen door het huidige tweeschijvenstelsel (19% en 25,8%) te vervangen door één helder tarief van 20% voor alle ondernemingen."
+    },
+    {
+      "promiseCode": "JA21-2025-061",
+      "text": "Box 2 volledig afschaffen en aanmerkelijk belang voortaan belasten in box 3.",
+      "summary": "Box 2 afschaffen en aanmerkelijk belang naar box 3",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "box 2",
+        "aanmerkelijk belang",
+        "box 3"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 28",
+      "originalQuote": "Box 2 volledig afschaffen. Aanmerkelijk belang (bijv. aandelen in eigen BV) voortaan belasten in box 3."
+    },
+    {
+      "promiseCode": "JA21-2025-062",
+      "text": "Het huidige systeem van fictief rendement in box 3 vervangen door een belasting op werkelijk gerealiseerd rendement.",
+      "summary": "Box 3 wijzigen naar werkelijk rendement in plaats van fictief",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "box 3",
+        "fictief rendement",
+        "werkelijk rendement"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 28",
+      "originalQuote": "Het huidige systeem van fictief rendement vervangen door een belasting op werkelijk gerealiseerd rendement."
+    },
+    {
+      "promiseCode": "JA21-2025-063",
+      "text": "De collectieve lastendruk verlagen en het aantal ambtenaren structureel terugbrengen.",
+      "summary": "Lagere lastendruk en minder ambtenaren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "collectieve lastendruk",
+        "ambtenaren",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 29",
+      "originalQuote": "Lagere lasten en een kleine overheid. We willen de hoge collectieve lastendruk verlagen en het aantal ambtenaren structureel terugbrengen."
+    },
+    {
+      "promiseCode": "JA21-2025-064",
+      "text": "Werknemers bij pensionering tot 10% van hun ouderdomspensioen in één keer kunnen laten opnemen als bedrag ineens.",
+      "summary": "Tot 10% pensioen ineens opnemen bij pensionering mogelijk maken",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pensioen",
+        "bedrag ineens",
+        "opnemen",
+        "pensionering"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 30",
+      "originalQuote": "Wij willen dat werknemers bij pensionering tot 10% van hun ouderdomspensioen in één keer kunnen opnemen (\"bedrag ineens\")."
+    },
+    {
+      "promiseCode": "JA21-2025-065",
+      "text": "De bevolkingsgroei van Nederland beperken door juridische verankering van migratieplafonds en scherpe selectie van arbeidsmigratanten en gezinshereniging.",
+      "summary": "Bevolkingsgroei beperken via migratieplafonds en selectieve migratie",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bevolkingsgroei",
+        "migratieplafonds",
+        "arbeidsmigratanten",
+        "gezinshereniging"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 32",
+      "originalQuote": "Een beleid ontwikkelen om de bevolkingsgroei van Nederland te beperken. Dat betekent onder meer het juridisch verankeren van migratie plafonds en scherpe selectie van arbeidsmigratanten en gezinshereniging."
+    },
+    {
+      "promiseCode": "JA21-2025-066",
+      "text": "Een nieuwe nota Ruimte realiseren waarbij nieuwe locaties voor woningbouw worden aangewezen.",
+      "summary": "Nieuwe nota Ruimte met aanwijzing van nieuwe woningbouwlocaties",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nota ruimte",
+        "woningbouw",
+        "locaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 32",
+      "originalQuote": "Een nieuwe nota Ruimte realiseren waarbij nieuwe locaties voor woningbouw worden aangewezen."
+    },
+    {
+      "promiseCode": "JA21-2025-067",
+      "text": "Handhaven van ondersteuning van de woningbouw middels investering van 0,5% van het BBP.",
+      "summary": "Woningbouwondersteuning 0,5% BBP handhaven",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouw",
+        "investering",
+        "bbp"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 32",
+      "originalQuote": "Handhaven van ondersteuning van de woningbouw middels de investering van 0,5% van het BBP."
+    },
+    {
+      "promiseCode": "JA21-2025-068",
+      "text": "De Wet betaalbare huur intrekken, fiscale druk op huurwoningmarkt verlagen, afbouw van huurregulering naar marktconforme huurvorming en duidelijk overheidsbeleid.",
+      "summary": "Wet betaalbare huur intrekken, huurregulering afbouwen naar marktvorming",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wet betaalbare huur",
+        "huurwoningmarkt",
+        "huurregulering",
+        "marktvorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 32",
+      "originalQuote": "Dat het investeringsvertrouwen terugkeert, bijvoorbeeld door het de Wet betaalbare huur in te trekken, door de fiscale druk op de huurwoningmarkt te verlagen, door op termijn te komen tot een afbouw van de huurregulering naar een huurvorming vanuit de markt"
+    },
+    {
+      "promiseCode": "JA21-2025-069",
+      "text": "Een regeringscommissaris woningbouwproductie aanstellen met bevoegdheden om knelpunten op te lossen en een gezonde markt te stimuleren.",
+      "summary": "Regeringscommissaris woningbouwproductie aanstellen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeringscommissaris",
+        "woningbouwproductie",
+        "bevoegdheden",
+        "knelpunten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 32",
+      "originalQuote": "Een regeringscommissaris woningbouwproductie wordt aangesteld met bevoegdheden om knelpunten op te lossen en een gezonde markt te stimuleren."
+    },
+    {
+      "promiseCode": "JA21-2025-070",
+      "text": "Consumentenbescherming wettelijk vastleggen om plotselinge en exorbitante stijgingen van de erfpachtcanon te beëindigen.",
+      "summary": "Wettelijke consumentenbescherming tegen erfpachtcanonstijgingen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "consumentenbescherming",
+        "erfpachtcanon",
+        "stijgingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 32",
+      "originalQuote": "Consumentenbescherming wettelijk vastleggen om plotselinge en exorbitante stijgingen van de erfpachtcanon te beëindigen."
+    },
+    {
+      "promiseCode": "JA21-2025-071",
+      "text": "De overdrachtsbelasting voor particuliere woningen geheel afschaffen om doorstroming te bevorderen.",
+      "summary": "Overdrachtsbelasting particuliere woningen afschaffen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overdrachtsbelasting",
+        "particuliere woningen",
+        "doorstroming"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 33",
+      "originalQuote": "De overdrachtsbelasting voor particuliere woningen geheel afschaffen, hetgeen ook de doorstroming zal bevorderen."
+    },
+    {
+      "promiseCode": "JA21-2025-072",
+      "text": "Herziening of uitbreiding van de crisis- en herstelwet specifiek voor stikstof waarbij woningbouw en infrastructuur als dringend belang projecten worden aangewezen.",
+      "summary": "Crisis- en herstelwet uitbreiden voor stikstof en woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "crisis- en herstelwet",
+        "stikstof",
+        "woningbouw",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 33",
+      "originalQuote": "JA21 pleit voor een herziening of uitbreiding van de crisis- en herstelwet specifiek voor stikstof waarbij woningbouw en infrastructuur als dringend belang projecten worden aangewezen"
+    },
+    {
+      "promiseCode": "JA21-2025-073",
+      "text": "Verlaging van accijnzen, geen kilometerheffing en geen verbod op brandstofauto's om de vrijheid van autogebruik te behouden.",
+      "summary": "Accijnzen verlagen, geen kilometerheffing en brandstofautoverbod",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "accijnzen",
+        "kilometerheffing",
+        "brandstofauto",
+        "autogebruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 34",
+      "originalQuote": "Behoud van vrijheid van autogebruik: verlaging van accijnzen, geen kilometerheffing en geen verbod op brandstofauto's."
+    },
+    {
+      "promiseCode": "JA21-2025-074",
+      "text": "Investering van 0,04% van het BBP jaarlijks om het kwaliteitsniveau van het openbaar vervoer niet te laten verschralen.",
+      "summary": "Investering 0,04% BBP jaarlijks in openbaar vervoer",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "investering",
+        "bbp",
+        "kwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 34",
+      "originalQuote": "Het kwaliteitsniveau van het openbaar vervoer niet verder verschralen: het verdient daarom een investering van 0,04% van het BBP jaarlijks."
+    },
+    {
+      "promiseCode": "JA21-2025-075",
+      "text": "Extra investering van 0,5% van het BBP voor vervanging en renovatie van infrastructuur.",
+      "summary": "Investering 0,5% BBP voor infrastructuur V&R-opgave",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "investering",
+        "bbp",
+        "infrastructuur",
+        "vervanging",
+        "renovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 34",
+      "originalQuote": "Extra investering in vervanging en renovatie van de infrastructuur van 0,5% van het BBP."
+    },
+    {
+      "promiseCode": "JA21-2025-076",
+      "text": "De vliegbelasting afschaffen om luchtvaart te ondersteunen.",
+      "summary": "Vliegbelasting afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegbelasting",
+        "luchtvaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 36",
+      "originalQuote": "De vliegbelasting afschaffen."
+    },
+    {
+      "promiseCode": "JA21-2025-077",
+      "text": "Geen krimp van Schiphol of andere luchthavens en commerciële vluchten op Lelystad Airport toestaan.",
+      "summary": "Geen luchthavenkrimp, Lelystad Airport openstellen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schiphol",
+        "luchthavens",
+        "lelystad airport",
+        "commerciële vluchten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 36",
+      "originalQuote": "Geen krimp van Schiphol of andere luchthavens. Commerciële vluchten op Lelystad Airport toestaan."
+    },
+    {
+      "promiseCode": "JA21-2025-078",
+      "text": "De recent voorgenomen verlaging van het eigen risico in de zorgverzekering ongedaan maken.",
+      "summary": "Verlaging eigen risico zorgverzekering terugdraaien",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 37",
+      "originalQuote": "De recent voorgenomen verlaging van het eigen risico ongedaan maken."
+    },
+    {
+      "promiseCode": "JA21-2025-079",
+      "text": "Het zonder goede reden missen van zorgafspraken beboeten om verspilling van zorgcapaciteit tegen te gaan.",
+      "summary": "Boetes voor gemiste zorgafspraken invoeren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgafspraken",
+        "boetes",
+        "zorgcapaciteit",
+        "verspilling"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 37",
+      "originalQuote": "Het zonder goede reden missen van zorgafspraken beboeten."
+    },
+    {
+      "promiseCode": "JA21-2025-080",
+      "text": "Drastisch snijden in administratieve lasten om zorgpersoneel vrij te spelen voor zorgverlening.",
+      "summary": "Administratieve lasten zorg drastisch verminderen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "administratieve lasten",
+        "zorgpersoneel",
+        "zorgverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 38",
+      "originalQuote": "Drastisch snijden in administratieve lasten om daarmee zorgpersoneel vrij te spelen."
+    },
+    {
+      "promiseCode": "JA21-2025-081",
+      "text": "Salarissen in de lagere schalen van de zorg ten minste met de inflatie laten meestijgen.",
+      "summary": "Zorgsalarissen lagere schalen mee laten stijgen met inflatie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salarissen",
+        "zorg",
+        "inflatie",
+        "lagere schalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 38",
+      "originalQuote": "Salarissen in de lagere schalen mee laten stijgen met de inflatie."
+    },
+    {
+      "promiseCode": "JA21-2025-082",
+      "text": "Schoolzwemmen verplicht stellen zodat ieder kind in Nederland leert zwemmen en zwemveiligheid wordt geborgd.",
+      "summary": "Schoolzwemmen verplicht stellen voor zwemveiligheid",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "verplicht",
+        "zwemveiligheid",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 41",
+      "originalQuote": "Ook wil JA21 schoolzwemmen verplicht stellen, zodat ieder kind in Nederland leert zwemmen en daarmee de zwemveiligheid geborgd wordt."
+    },
+    {
+      "promiseCode": "JA21-2025-083",
+      "text": "JA21 wil steun uitspreken voor het schrappen van de kritische depositiewaarde (KDW) en het invoeren van de rekenkundige ondergrens van 1 mol voor stikstofberekeningen.",
+      "summary": "Schrappen KDW en invoeren rekenkundige ondergrens 1 mol",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kdw",
+        "kritische depositiewaarde",
+        "rekenkundige ondergrens",
+        "stikstof",
+        "mol"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 43",
+      "originalQuote": "Steun uitspreken voor het schrappen van de KDW en het invoeren van de rekenkundige ondergrens van 1 mol."
+    },
+    {
+      "promiseCode": "JA21-2025-084",
+      "text": "JA21 wil afzien van generieke maatregelen en inzetten op regionale maatwerkpakketten rondom de meest kwetsbare natuurgebieden voor stikstofreductie.",
+      "summary": "Regionale maatwerkpakketten voor kwetsbare natuurgebieden",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale maatwerk",
+        "natuurgebieden",
+        "stikstofreductie",
+        "generieke maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 43",
+      "originalQuote": "Afzien van generieke maatregelen en inzetten op regionale maatwerkpakketten rondom de meest kwetsbare natuurgebieden."
+    },
+    {
+      "promiseCode": "JA21-2025-085",
+      "text": "JA21 wil voldoende financiële middelen voor vrijwillige extensiverings- en beëindigingsregelingen voor boeren nabij Natura2000-gebieden.",
+      "summary": "Financiering vrijwillige extensiverings- en beëindigingsregelingen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijwillige extensivering",
+        "beëindigingsregelingen",
+        "natura2000",
+        "financiële middelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 43",
+      "originalQuote": "Voldoende financiële middelen voor vrijwillige extensiverings- en beëindigingsregelingen."
+    },
+    {
+      "promiseCode": "JA21-2025-086",
+      "text": "JA21 wil dat Nederland gebruikmaakt van de juridische ruimte in de Kaderrichtlijn Water om doelen aan te passen of uit te stellen waar deze aantoonbaar onhaalbaar zijn.",
+      "summary": "Gebruikmaken juridische ruimte KRW voor aanpassing onhaalbare doelen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "krw",
+        "kaderrichtlijn water",
+        "juridische ruimte",
+        "waterkwaliteit",
+        "doelen aanpassen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 43",
+      "originalQuote": "Dat Nederland gebruikmaakt van de juridische ruimte in de KRW om doelen aan te passen of uit te stellen waar deze aantoonbaar onhaalbaar zijn."
+    },
+    {
+      "promiseCode": "JA21-2025-087",
+      "text": "JA21 wil een herijking van de KRW-normen op EU-niveau, zodat deze beter aansluiten bij de ruimtelijke realiteit van dichtbevolkte lidstaten als Nederland.",
+      "summary": "Herijking KRW-normen op EU-niveau voor dichtbevolkte landen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "krw-normen",
+        "eu-niveau",
+        "herijking",
+        "dichtbevolkte lidstaten",
+        "ruimtelijke realiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 43",
+      "originalQuote": "Een herijking van de KRW-normen op EU-niveau, zodat deze beter aansluiten bij de ruimtelijke realiteit van dichtbevolkte lidstaten als Nederland."
+    },
+    {
+      "promiseCode": "JA21-2025-088",
+      "text": "JA21 wil een voorspelbaar en lange termijn gericht landbouwbeleid dat voedselzekerheid waarborgt en ruimte biedt voor technologische innovatie.",
+      "summary": "Voorspelbaar landbouwbeleid voor voedselzekerheid en innovatie",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landbouwbeleid",
+        "voedselzekerheid",
+        "technologische innovatie",
+        "lange termijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 44",
+      "originalQuote": "Een voorspelbaar en lange termijn gericht landbouwbeleid dat voedselzekerheid waarborgt en ruimte biedt voor technologische innovatie."
+    },
+    {
+      "promiseCode": "JA21-2025-089",
+      "text": "JA21 wil extra middelen voor de beoordelingscapaciteit bij het Ctgb, zodat nieuwe gewasbeschermingsmiddelen sneller kunnen worden toegelaten.",
+      "summary": "Extra middelen Ctgb voor snellere toelating gewasbeschermingsmiddelen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ctgb",
+        "beoordelingscapaciteit",
+        "gewasbeschermingsmiddelen",
+        "toelating"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 44",
+      "originalQuote": "Extra middelen voor de beoordelingscapaciteit bij het Ctgb, zodat nieuwe gewasbeschermingsmiddelen sneller kunnen worden toegelaten."
+    },
+    {
+      "promiseCode": "JA21-2025-090",
+      "text": "JA21 wil biologische landbouw stimuleren door beleid en maatregelen.",
+      "summary": "Stimuleren biologische landbouw",
+      "theme": "LANDBOUW",
+      "specificity": "VAAG",
+      "keywords": [
+        "biologische landbouw",
+        "stimuleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 44",
+      "originalQuote": "Biologische landbouw stimuleren."
+    },
+    {
+      "promiseCode": "JA21-2025-091",
+      "text": "JA21 wil extra geld voor de NVWA voor het toezicht op onder andere veetransporten en slachthuizen ter verbetering van dierenwelzijn.",
+      "summary": "Extra geld NVWA voor toezicht veetransporten en slachthuizen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nvwa",
+        "toezicht",
+        "veetransporten",
+        "slachthuizen",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 44",
+      "originalQuote": "Extra geld voor de NVWA voor het toezicht op onder andere veetransporten en slachthuizen."
+    },
+    {
+      "promiseCode": "JA21-2025-092",
+      "text": "JA21 wil meer maatregelen vanuit de sector om stalbranden te voorkomen ter bescherming van dieren.",
+      "summary": "Meer maatregelen sector tegen stalbranden",
+      "theme": "LANDBOUW",
+      "specificity": "VAAG",
+      "keywords": [
+        "stalbranden",
+        "maatregelen",
+        "sector",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 44",
+      "originalQuote": "Meer maatregelen vanuit de sector om stalbranden te voorkomen."
+    },
+    {
+      "promiseCode": "JA21-2025-093",
+      "text": "JA21 wil de versnelling van de dierwaardige veehouderij mogelijk maken door extra financiële ondersteuning via de bijhorende maatregelpakketten.",
+      "summary": "Extra financiële ondersteuning dierwaardige veehouderij",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dierwaardige veehouderij",
+        "financiële ondersteuning",
+        "maatregelpakketten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 44",
+      "originalQuote": "De versnelling van de dierwaardige veehouderij mogelijk maken door niet alleen ambitie te tonen, maar ook te zorgen voor extra financiële ondersteuning via de bijhorende maatregelpakketten."
+    },
+    {
+      "promiseCode": "JA21-2025-094",
+      "text": "JA21 wil zo snel mogelijk duidelijkheid over wat voor Nederland geldt als een gunstige staat van instandhouding van de wolf.",
+      "summary": "Duidelijkheid gunstige staat instandhouding wolf",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wolf",
+        "gunstige staat",
+        "instandhouding",
+        "duidelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 45",
+      "originalQuote": "Zo snel mogelijk duidelijkheid over wat voor Nederland geldt als een gunstige staat van instandhouding van de wolf."
+    },
+    {
+      "promiseCode": "JA21-2025-095",
+      "text": "JA21 wil dat vergoedingen voor wolvenaanvallen en nevenschade ruimhartig en laagdrempelig beschikbaar zijn, zodat boeren snel en eerlijk gecompenseerd worden.",
+      "summary": "Ruimhartige vergoedingen voor wolvenaanvallen en nevenschade",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wolvenaanvallen",
+        "nevenschade",
+        "vergoedingen",
+        "compensatie",
+        "boeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 45",
+      "originalQuote": "Vergoedingen voor wolvenaanvallen en nevenschade moeten ruimhartig en laagdrempelig beschikbaar zijn, zodat boeren na een wolvenaanval snel en eerlijk gecompenseerd worden voor geleden schade."
+    },
+    {
+      "promiseCode": "JA21-2025-096",
+      "text": "JA21 wil dat Den Haag uiterlijk in 2026 de randvoorwaarden schept waarmee provincies voortvarend kunnen starten met actief wolvenbeheer, waarbij afschot tot de mogelijkheden behoort.",
+      "summary": "Randvoorwaarden actief wolvenbeheer inclusief afschot uiterlijk 2026",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wolvenbeheer",
+        "afschot",
+        "provincies",
+        "randvoorwaarden",
+        "2026"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 45",
+      "originalQuote": "Dat Den Haag uiterlijk in 2026 de randvoorwaarden schept waarmee provincies voortvarend kunnen starten met actief wolvenbeheer. Afschot moet dan ook tot de mogelijkheden kunnen behoren."
+    },
+    {
+      "promiseCode": "JA21-2025-097",
+      "text": "JA21 wil wet- en regelgeving aanpassen om risicogebaseerde milieubeoordeling mogelijk te maken in plaats van een rigide toets op elke vorm van uitstoot voor de visserij.",
+      "summary": "Risicogebaseerde milieubeoordeling visserij ipv rigide uitstoottoets",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "risicogebaseerde",
+        "milieubeoordeling",
+        "visserij",
+        "wet- en regelgeving",
+        "uitstoot"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 46",
+      "originalQuote": "Wet- en regelgeving aanpassen om risicogebaseerde milieubeoordeling mogelijk te maken i.p.v. een rigide toets op elke vorm van uitstoot."
+    },
+    {
+      "promiseCode": "JA21-2025-098",
+      "text": "JA21 wil visserijtoegang wettelijk verankeren in de regels voor ruimtelijke ordening op zee.",
+      "summary": "Wettelijke verankering visserijtoegang ruimtelijke ordening zee",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "visserijtoegang",
+        "wettelijk verankeren",
+        "ruimtelijke ordening",
+        "zee"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 46",
+      "originalQuote": "Visserijtoegang wettelijk verankeren in de regels voor ruimtelijke ordening op zee."
+    },
+    {
+      "promiseCode": "JA21-2025-099",
+      "text": "JA21 wil politieke steun mobiliseren om pulsvisserij opnieuw op de agenda van de EU te zetten als realistisch en milieuvriendelijk alternatief.",
+      "summary": "Pulsvisserij opnieuw op EU-agenda als milieuvriendelijk alternatief",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pulsvisserij",
+        "eu-agenda",
+        "milieuvriendelijk",
+        "politieke steun"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 46",
+      "originalQuote": "Politieke steun mobiliseren om pulsvisserij opnieuw op de agenda van de EU te zetten als realistisch en milieuvriendelijk alternatief."
+    },
+    {
+      "promiseCode": "JA21-2025-100",
+      "text": "JA21 wil het gezag van de leraar herstellen en zijn advies leidend laten zijn bij het bevorderen of laten doorstromen van leerlingen.",
+      "summary": "Herstel gezag leraar en leidend advies bij doorstroming leerlingen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezag leraar",
+        "advies",
+        "doorstroming",
+        "leerlingen",
+        "bevorderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 48",
+      "originalQuote": "Het gezag van de leraar herstellen en zijn advies leidend laten zijn bij het bevorderen of laten doorstromen van leerlingen."
+    },
+    {
+      "promiseCode": "JA21-2025-101",
+      "text": "JA21 wil een jeugdvoorziening waardoor leerlingen met gedragsproblemen passende zorg krijgen zonder dat dit de leraar tijd kost.",
+      "summary": "Jeugdvoorziening voor gedragsproblemen zonder tijdverlies leraar",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdvoorziening",
+        "gedragsproblemen",
+        "passende zorg",
+        "leraar tijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 48",
+      "originalQuote": "Een jeugdvoorziening waardoor leerlingen met gedragsproblemen passende zorg krijgen zonder dat dit de leraar tijd kost."
+    },
+    {
+      "promiseCode": "JA21-2025-102",
+      "text": "JA21 wil beperking van de maximale werktijd die door een docent mag worden besteed aan administratieve lasten tot maximaal 6%.",
+      "summary": "Maximaal 6% werktijd docent aan administratieve lasten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werktijd",
+        "docent",
+        "administratieve lasten",
+        "6 procent",
+        "maximum"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 48",
+      "originalQuote": "Beperking van de maximale werktijd die door een docent mag worden besteed aan administratieve lasten (max 6%)."
+    },
+    {
+      "promiseCode": "JA21-2025-103",
+      "text": "JA21 wil aandacht in het onderwijs voor essentiële Nederlandse waarden en vrijheden, waarbij ongeoorloofde afwezigheid tijdens relevante lessen wordt gesanctioneerd.",
+      "summary": "Nederlandse waarden onderwijs met sancties bij afwezigheid",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlandse waarden",
+        "vrijheden",
+        "onderwijs",
+        "sancties",
+        "afwezigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 48",
+      "originalQuote": "Aandacht in het onderwijs voor essentiële Nederlandse waarden en vrijheden, zoals de vrijheid van meningsuiting en gelijkwaardigheid tussen man en vrouw. Ongeoorloofde afwezigheid tijdens lessen die hierop betrekking hebben wordt gesanctioneerd."
+    },
+    {
+      "promiseCode": "JA21-2025-104",
+      "text": "JA21 wil een debat over de modernisering van artikel 23 van de Grondwet betreffende onderwijsvrijheid.",
+      "summary": "Debat modernisering artikel 23 Grondwet onderwijsvrijheid",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "artikel 23",
+        "grondwet",
+        "modernisering",
+        "onderwijsvrijheid",
+        "debat"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 48",
+      "originalQuote": "Een debat over de modernisering van artikel 23 van de Grondwet."
+    },
+    {
+      "promiseCode": "JA21-2025-105",
+      "text": "JA21 wil extra aandacht geven aan basisvaardigheden in het onderwijs.",
+      "summary": "Extra aandacht voor basisvaardigheden onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "VAAG",
+      "keywords": [
+        "basisvaardigheden",
+        "onderwijs",
+        "extra aandacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 49",
+      "originalQuote": "Extra aandacht geven aan basisvaardigheden."
+    },
+    {
+      "promiseCode": "JA21-2025-106",
+      "text": "JA21 wil leerlingen en studenten uitdagen in plaats van de kwaliteit van onderwijs verlagen.",
+      "summary": "Uitdagen leerlingen ipv verlagen onderwijskwaliteit",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerlingen uitdagen",
+        "studenten",
+        "onderwijskwaliteit",
+        "prestaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 49",
+      "originalQuote": "Leerlingen en studenten uitdagen in plaats van de kwaliteit van onderwijs verlagen."
+    },
+    {
+      "promiseCode": "JA21-2025-107",
+      "text": "JA21 wil extra investeringen in opleidingen die de kwaliteit van de leraren verbeteren.",
+      "summary": "Extra investeringen verbetering kwaliteit lerarenopleidingen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringen",
+        "lerarenopleidingen",
+        "kwaliteit verbeteren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 49",
+      "originalQuote": "Extra investeringen in opleidingen die de kwaliteit van de leraren verbeteren."
+    },
+    {
+      "promiseCode": "JA21-2025-108",
+      "text": "JA21 wil het grote aantal subsidieregelingen in het onderwijs tot een minimum beperken.",
+      "summary": "Subsidieregelingen onderwijs tot minimum beperken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidieregelingen",
+        "onderwijs",
+        "minimum beperken"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 49",
+      "originalQuote": "Het grote aantal subsidieregelingen tot een minimum beperken."
+    },
+    {
+      "promiseCode": "JA21-2025-109",
+      "text": "JA21 wil een financieringsmodel hoger onderwijs op basis van kwaliteit, relevantie en maatschappelijke impact in plaats van studentenaantallen.",
+      "summary": "Financieringsmodel hoger onderwijs op kwaliteit ipv studentenaantallen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financieringsmodel",
+        "hoger onderwijs",
+        "kwaliteit",
+        "maatschappelijke impact",
+        "studentenaantallen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 50",
+      "originalQuote": "Een financieringsmodel op basis van kwaliteit, relevantie en maatschappelijke impact i.p.v. op basis van het aantal studenten."
+    },
+    {
+      "promiseCode": "JA21-2025-110",
+      "text": "JA21 wil ongedaanmaking van de bezuiniging op het wetenschappelijk onderwijs van €500 miljoen.",
+      "summary": "Ongedaan maken bezuiniging wetenschappelijk onderwijs €500 miljoen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bezuiniging",
+        "wetenschappelijk onderwijs",
+        "500 miljoen euro",
+        "ongedaan maken"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 50",
+      "originalQuote": "Ongedaanmaking van de bezuiniging op het wetenschappelijk onderwijs van €500 miljoen."
+    },
+    {
+      "promiseCode": "JA21-2025-111",
+      "text": "JA21 wil minder instroom van buitenlandse studenten en voorrang bij inschrijving en huisvesting van Nederlandse studenten.",
+      "summary": "Minder buitenlandse studenten, voorrang Nederlandse studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenlandse studenten",
+        "instroom",
+        "nederlandse studenten",
+        "voorrang",
+        "huisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 50",
+      "originalQuote": "Minder instroom van buitenlandse studenten en voorrang bij inschrijving en huisvesting van Nederlandse studenten."
+    },
+    {
+      "promiseCode": "JA21-2025-112",
+      "text": "JA21 wil dat het Nederlands weer centraal staat als de taal waarin in het hoger onderwijs wordt gegeven op universiteit en hogeschool, met uitzonderingen voor internationale studies.",
+      "summary": "Nederlands als centrale onderwijstaal hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlands",
+        "onderwijstaal",
+        "universiteit",
+        "hogeschool",
+        "internationale studies"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 50",
+      "originalQuote": "Het Nederlands weer centraal staat als de taal waarin in het onderwijs wordt gegeven op universiteit en hogeschool (uitzonderingen daargelaten)."
+    },
+    {
+      "promiseCode": "JA21-2025-113",
+      "text": "JA21 wil een pluriform cultuurklimaat stimuleren waarbij Nederlandse tradities, taal en cultuuruitingen in voldoende mate aan bod komen.",
+      "summary": "Pluriform cultuurklimaat met Nederlandse tradities en taal",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pluriform cultuurklimaat",
+        "nederlandse tradities",
+        "cultuuruitingen",
+        "stimuleren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 51",
+      "originalQuote": "Een pluriform cultuurklimaat stimuleren waarbij Nederlandse tradities, taal en cultuuruitingen in voldoende mate aan bod komen."
+    },
+    {
+      "promiseCode": "JA21-2025-114",
+      "text": "JA21 wil dat de cultuursector minder afhankelijk wordt van structurele subsidies en meer het particulier en commercieel initiatief wordt gestimuleerd.",
+      "summary": "Cultuursector minder subsidieafhankelijk, meer particulier initiatief",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuursector",
+        "structurele subsidies",
+        "particulier initiatief",
+        "commercieel initiatief"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 51",
+      "originalQuote": "Dat de cultuursector minder afhankelijk wordt van structurele subsidies en meer het particulier en commercieel initiatief wordt gestimuleerd."
+    },
+    {
+      "promiseCode": "JA21-2025-115",
+      "text": "JA21 wil dat de NPO tot twee zenders wordt teruggebracht voor nationale gebeurtenissen, sport, debat en cultuur met afschaffing van de ledenomroepen. De NPO moet neutraliteit, objectiviteit en pluriformiteit van nieuwsvoorziening zelf waarborgen.",
+      "summary": "NPO terugbrengen tot twee zenders, afschaffing ledenomroepen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "npo",
+        "twee zenders",
+        "ledenomroepen",
+        "neutraliteit",
+        "objectiviteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 51",
+      "originalQuote": "Dat de NPO tot twee zenders wordt teruggebracht voor nationale gebeurtenissen, sport, debat en cultuur met afschaffing van de ledenomroepen. De NPO-organisatie moet neutraliteit, objectiviteit en pluriformiteit van haar nieuwsvoorziening zelf waarborgen."
+    },
+    {
+      "promiseCode": "JA21-2025-116",
+      "text": "Energiesysteem baseren op betrouwbaarheid en betaalbaarheid in plaats van ideologische overwegingen.",
+      "summary": "Energiesysteem op betrouwbaarheid en betaalbaarheid baseren",
+      "theme": "KLIMAAT",
+      "specificity": "VAAG",
+      "keywords": [
+        "energiesysteem",
+        "betrouwbaarheid",
+        "betaalbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 52",
+      "originalQuote": "De balans weer terug: een energiesysteem gebaseerd op betrouwbaarheid en betaalbaarheid."
+    },
+    {
+      "promiseCode": "JA21-2025-117",
+      "text": "Regelgeving voor de energiesector gelijktrekken met omringende landen zoals Duitsland en België. Geen nationale klimaatheffingen of andere klimaatregelgeving bovenop Europese regels introduceren.",
+      "summary": "Regelgeving energiesector gelijktrekken met omringende landen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regelgeving",
+        "energiesector",
+        "klimaatheffingen",
+        "harmonisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 53",
+      "originalQuote": "Een gelijk speelveld voor onze energiesector door regelgeving gelijk te trekken met omringende landen zoals Duitsland en België. Bovenop Europese regels introduceren we geen nationale klimaatheffingen of andere klimaatregelgeving."
+    },
+    {
+      "promiseCode": "JA21-2025-118",
+      "text": "Kolen- en aardgascentrales niet sluiten om betrouwbare fossiele infrastructuur te behouden.",
+      "summary": "Kolen- en aardgascentrales niet sluiten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kolencentrales",
+        "aardgascentrales",
+        "fossiele",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 53",
+      "originalQuote": "Onze betrouwbare fossiele infrastructuur behouden: kolen- en aardgascentrales niet sluiten."
+    },
+    {
+      "promiseCode": "JA21-2025-119",
+      "text": "De doelstelling om Nederland aardgasvrij te maken in 2050 loslaten. In Groningen verantwoord aardgas (blijven) winnen en gaswinning in de Noordzee intensiveren.",
+      "summary": "Doelstelling aardgasvrij 2050 loslaten, gaswinning intensiveren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aardgasvrij",
+        "gaswinning",
+        "groningen",
+        "noordzee"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 53",
+      "originalQuote": "Aardgas blijven gebruiken en de doelstelling aardgasvrij in 2050 loslaten. In Groningen mag aardgas op een verantwoorde manier gewonnen (blijven) worden en we intensiveren de gaswinning in de Noordzee."
+    },
+    {
+      "promiseCode": "JA21-2025-120",
+      "text": "Ten minste 20 Gigawatt aan nieuwe kerncentrales realiseren in de komende 25 jaar.",
+      "summary": "20 Gigawatt nieuwe kerncentrales in 25 jaar realiseren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "gigawatt",
+        "kernenergie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "Ten minste 20 Gigawatt aan nieuwe kerncentrales realiseren in de komende 25 jaar."
+    },
+    {
+      "promiseCode": "JA21-2025-121",
+      "text": "Zo snel mogelijk beginnen met de gefaseerde bouw van vier kerncentrales.",
+      "summary": "Gefaseerde bouw van vier kerncentrales starten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "bouw",
+        "gefaseerd"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "Zo snel mogelijk beginnen met de gefaseerde bouw van vier kerncentrales."
+    },
+    {
+      "promiseCode": "JA21-2025-122",
+      "text": "Meerdere SMR's (kleine kerncentrales) laten produceren in Nederland vóór 2035.",
+      "summary": "SMR's produceren vóór 2035",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "smr",
+        "kerncentrales",
+        "productie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "Meerdere SMR's (kleine kerncentrales) laten produceren in Nederland vóór 2035."
+    },
+    {
+      "promiseCode": "JA21-2025-123",
+      "text": "Een staatssecretaris voor kernenergie aanstellen voor effectieve uitvoering van het kernenergie-offensief.",
+      "summary": "Staatssecretaris voor kernenergie aanstellen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "staatssecretaris",
+        "kernenergie",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "Een staatssecretaris voor kernenergie aanstellen voor effectieve uitvoering."
+    },
+    {
+      "promiseCode": "JA21-2025-124",
+      "text": "De btw op energie verlagen om energierekeningen betaalbaarder te maken.",
+      "summary": "Btw op energie verlagen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "btw",
+        "energie",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "De btw op energie verlagen."
+    },
+    {
+      "promiseCode": "JA21-2025-125",
+      "text": "Het Opslag Duurzame Energie-onderdeel binnen de energiebelasting schrappen.",
+      "summary": "ODE-onderdeel energiebelasting schrappen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ode",
+        "energiebelasting",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "Het Opslag Duurzame Energie-onderdeel binnen de energiebelasting schrappen."
+    },
+    {
+      "promiseCode": "JA21-2025-126",
+      "text": "Een strenge afstandsnorm van 10 keer de masthoogte voor windturbines invoeren.",
+      "summary": "Afstandsnorm 10x masthoogte voor windturbines",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afstandsnorm",
+        "windturbines",
+        "masthoogte"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 54",
+      "originalQuote": "Een strenge afstandsnorm van 10 keer de masthoogte voor windturbines."
+    },
+    {
+      "promiseCode": "JA21-2025-127",
+      "text": "Groeien naar een schaalbaar personeelsbestand van 200.000 militairen, reservisten en burgers bij Defensie in 2035.",
+      "summary": "200.000 defensiepersoneel in 2035",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "personeel",
+        "militairen",
+        "reservisten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 56",
+      "originalQuote": "Groeien naar een schaalbaar personeelsbestand van 200.000 militairen, reservisten en burgers."
+    },
+    {
+      "promiseCode": "JA21-2025-128",
+      "text": "Lineair groeien naar uitgaven van 5% van het BBP voor defensie in 2035.",
+      "summary": "5% BBP aan defensie-uitgaven in 2035",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "bbp",
+        "begroting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 57",
+      "originalQuote": "Lineair groeien naar uitgaven van 5% van het BBP in 2035."
+    },
+    {
+      "promiseCode": "JA21-2025-129",
+      "text": "De Nederlandse ambassade verplaatsen van Tel Aviv naar Jeruzalem om de banden met bondgenoot Israël te bekrachtigen.",
+      "summary": "Nederlandse ambassade naar Jeruzalem verplaatsen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambassade",
+        "jeruzalem",
+        "israël",
+        "diplomatiek"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 58",
+      "originalQuote": "De banden met onze bondgenoot Israël bekrachtigen met het verplaatsen van de Nederlandse ambassade naar Jeruzalem."
+    },
+    {
+      "promiseCode": "JA21-2025-130",
+      "text": "Oekraïne niet toelaten tot de NAVO en de Europese Unie, ondanks onverminderde steun voor hun onafhankelijkheidsstrijd.",
+      "summary": "Oekraïne niet toelaten tot NAVO en EU",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oekraïne",
+        "navo",
+        "eu",
+        "lidmaatschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 58",
+      "originalQuote": "Oekraïne onverminderd steunen in haar strijd voor onafhankelijkheid maar niet toelaten tot de NAVO en de Europese Unie."
+    },
+    {
+      "promiseCode": "JA21-2025-131",
+      "text": "Ontwikkelingshulp beperken met een focus op noodhulp in plaats van structurele ontwikkelingssteun.",
+      "summary": "Ontwikkelingshulp beperken tot noodhulp",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontwikkelingshulp",
+        "noodhulp",
+        "buitenland"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2025, p. 58",
+      "originalQuote": "Ontwikkelingshulp beperken met een focus op noodhulp."
+    }
+  ]
+}

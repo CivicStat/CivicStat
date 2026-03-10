@@ -1,0 +1,4133 @@
+{
+  "party": "BBB",
+  "partySlug": "bbb",
+  "program": "BBB levert",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88739/",
+  "pdfHash": "5b6f5dd1de3f4584f192d144a202f54fb1f81b57558291f163ab7727de986742",
+  "totalPromises": 267,
+  "promises": [
+    {
+      "promiseCode": "BBB-2025-001",
+      "text": "De overheid moet niet het vangnet van familie, buren, verenigingen en vrijwilligers overnemen, maar deze gemeenschappen versterken en ruimte geven voor hun rol als eerste opvang in de zorgzame samenleving.",
+      "summary": "Overheid moet gemeenschappen versterken, niet overnemen als vangnet",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheid",
+        "gemeenschappen",
+        "vangnet",
+        "versterking",
+        "verenigingen",
+        "vrijwilligers"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 5",
+      "originalQuote": "De overheid moet dat niet overnemen, maar versterken en ruimte geven."
+    },
+    {
+      "promiseCode": "BBB-2025-002",
+      "text": "Elke regio in Nederland verdient een volwaardige plek in het beleid, waarbij de kracht ligt in mensen, hun arbeid, ondernemerschap, tradities en hun omgeving.",
+      "summary": "Elke regio verdient volwaardige plek in beleid",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "regio",
+        "beleid",
+        "ondernemerschap",
+        "tradities",
+        "decentralisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 5",
+      "originalQuote": "Daarom verdient elke regio een volwaardige plek in het beleid."
+    },
+    {
+      "promiseCode": "BBB-2025-003",
+      "text": "BBB wil dat Defensie net als landbouw en woningbouw bij wet wordt erkend als vitale sector, met bijbehorende prioriteit in regelgeving en vergunningverlening.",
+      "summary": "Defensie wettelijk erkennen als vitale sector met prioriteit in vergunningverlening",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensie",
+        "vitale sector",
+        "wet",
+        "vergunningverlening",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 13",
+      "originalQuote": "BBB wil daarom dat Defensie net als landbouw en woningbouw bij wet wordt erkend als vitale sector, met bijbehorende prioriteit in regelgeving en vergunningverlening."
+    },
+    {
+      "promiseCode": "BBB-2025-004",
+      "text": "BBB steunt het verhogen van de Nederlandse defensie-uitgaven en neemt het groeipad naar 3,5% van het Bruto Binnenlands Product (BBP) in 2035 als uitgangspunt.",
+      "summary": "Defensie-uitgaven verhogen naar 3,5% BBP in 2035",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "bbp",
+        "groeipad",
+        "percentage",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 13",
+      "originalQuote": "We nemen het groeipad naar 3,5% van het Bruto Binnenlands Product (BBP) in 2035 als uitgangspunt."
+    },
+    {
+      "promiseCode": "BBB-2025-005",
+      "text": "BBB wil het recht op contant betalen behouden voor keuzevrijheid, zelfstandigheid en privacy van burgers.",
+      "summary": "Recht op contant betalen behouden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "contant geld",
+        "betaalrecht",
+        "privacy",
+        "keuzevrijheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 12",
+      "originalQuote": "BBB wil het recht op contant betalen behouden – voor keuzevrijheid, zelfstandigheid en privacy."
+    },
+    {
+      "promiseCode": "BBB-2025-006",
+      "text": "BBB wil schrappen in klimaatregels die niet werken en herzien van afspraken die leiden tot onrealistische ambities of onbetaalbare oplossingen. Geen nationale koppen op Europees beleid.",
+      "summary": "Schrappen van niet-werkende klimaatregels en nationale koppen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatregels",
+        "nationale koppen",
+        "europees beleid",
+        "ambities"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 11",
+      "originalQuote": "BBB wil schrappen in regels die niet werken. Klimaatbeleid moet haalbaar, uitvoerbaar en betaalbaar zijn. We herzien afspraken als ze leiden tot onrealistische ambities of onbetaalbare oplossingen. Geen nationale koppen op Europees beleid."
+    },
+    {
+      "promiseCode": "BBB-2025-007",
+      "text": "BBB pleit voor een lange termijn landbouw- en voedselstrategie, gericht op 2050, waarin bodemgezondheid, voedselzekerheid en duurzame productie centraal staan.",
+      "summary": "Landbouw- en voedselstrategie tot 2050",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landbouw",
+        "voedselstrategie",
+        "bodemgezondheid",
+        "voedselzekerheid",
+        "duurzame productie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 11",
+      "originalQuote": "BBB pleit voor een lange termijn landbouw- en voedselstrategie, gericht op 2050. In die strategie staan bodemgezondheid, voedselzekerheid en duurzame productie centraal"
+    },
+    {
+      "promiseCode": "BBB-2025-008",
+      "text": "BBB wil de derogatie behouden om verantwoord mestgebruik mogelijk te houden.",
+      "summary": "Derogatie behouden voor mestgebruik",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "derogatie",
+        "mestgebruik",
+        "landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 11",
+      "originalQuote": "Daarom moet de derogatie behouden blijven om verantwoord mestgebruik mogelijk te houden"
+    },
+    {
+      "promiseCode": "BBB-2025-009",
+      "text": "BBB wil paal en perk stellen aan zero-emissiezones die MKB'ers, marktkooplieden, ambulante handelaren en kermisexploitanten buitensluiten.",
+      "summary": "Paal en perk aan zero-emissiezones voor MKB",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zero-emissiezones",
+        "mkb",
+        "ambulante handel",
+        "kermis",
+        "marktkooplieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 12",
+      "originalQuote": "BBB wil paal en perk stellen aan deze vormen van klimaatgekte. Levendige steden horen vol te zijn met markten, kermissen en ondernemers."
+    },
+    {
+      "promiseCode": "BBB-2025-010",
+      "text": "BBB wil dat Nederland weerbaar wordt tegen cyberdreigingen, desinformatie, sabotage, tekorten en ontwrichting door versterking van nationale veiligheid, betere coördinatie tussen overheid en bedrijfsleven en actieve betrokkenheid van burgers.",
+      "summary": "Nederland weerbaar maken tegen cyber, desinformatie en sabotage",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "weerbaarheid",
+        "cyberdreigingen",
+        "desinformatie",
+        "sabotage",
+        "nationale veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 14",
+      "originalQuote": "BBB wil dat Nederland weerbaar wordt tegen cyberdreigingen, desinformatie, sabotage, tekorten en ontwrichting, of die nu van binnenuit of van buitenaf komen. Dat vraagt om versterking van de nationale veiligheid, betere coördinatie tussen overheid en bedrijfsleven en actieve betrokkenheid van burgers."
+    },
+    {
+      "promiseCode": "BBB-2025-011",
+      "text": "BBB wil voortvarend bouwen met minder regels en meer ruimte, juist ook buiten de grote steden. Projecten als de Lelylijn en Nedersaksenlijn zijn hierin van strategisch belang.",
+      "summary": "Voortvarend bouwen met minder regels, ook buiten steden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbouw",
+        "regelvermindering",
+        "lelylijn",
+        "nedersaksenlijn",
+        "steden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 14",
+      "originalQuote": "BBB wil daarom voortvarend bouwen, met minder regels en meer ruimte, juist ook buiten de grote steden. Projecten als de Lelylijn en Nedersaksenlijn zijn hierin van strategisch belang."
+    },
+    {
+      "promiseCode": "BBB-2025-012",
+      "text": "BBB steunt militaire hulp aan Oekraïne, zoals levering van F-16's. Geen permanente NAVO-troepen in Oekraïne, toetreding tot de NAVO is onder huidige omstandigheden niet aan de orde en geen automatische EU-uitbreiding zonder grondwettelijke instemming.",
+      "summary": "Militaire hulp Oekraïne, maar geen NAVO-troepen of lidmaatschap",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oekraïne",
+        "militaire hulp",
+        "f-16",
+        "navo",
+        "eu-uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 14",
+      "originalQuote": "Wij steunen militaire hulp, zoals levering van F-16's en werken aan bredere Europese weerbaarheid. Tegelijk blijven we realistisch: geen permanente NAVO-troepen in Oekraïne, toetreding tot de NAVO is onder de huidige omstandigheden niet aan de orde en geen automatische uitbreiding van de EU zonder grondwettelijke instemming."
+    },
+    {
+      "promiseCode": "BBB-2025-013",
+      "text": "BBB wil inzetten op versterking van het nationaal programma vitale regio's om grensoverstijgende kansen goed te kunnen benutten.",
+      "summary": "Versterking nationaal programma vitale regio's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vitale regio's",
+        "grensoverstijgend",
+        "versterking",
+        "programma"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 15",
+      "originalQuote": "Zorg dat de grensoverstijgende kansen goed benut kunnen worden door bijvoorbeeld in te zetten op versterking van het nationaal programma vitale regio's."
+    },
+    {
+      "promiseCode": "BBB-2025-014",
+      "text": "BBB verzet zich tegen het opofferen van vruchtbare landbouwgrond voor industrie, windturbines of zonneparken zonder lokale steun. Dit geldt ook voor locaties die aangewezen worden voor asielopvang.",
+      "summary": "Bescherming landbouwgrond tegen industrie en energieprojecten",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landbouwgrond",
+        "windturbines",
+        "zonneparken",
+        "industrie",
+        "asielopvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 16",
+      "originalQuote": "Wij verzetten ons tegen het opofferen van vruchtbare landbouwgrond voor industrie, windturbines of zonneparken zonder lokale steun. Dit geldt ook voor locaties die aangewezen worden voor asielopvang."
+    },
+    {
+      "promiseCode": "BBB-2025-015",
+      "text": "BBB wil mijnbouwschade aanpakken en woningcorporaties laten meedoen in alle mijnbouwschadegebieden.",
+      "summary": "Mijnbouwschade aanpakken, woningcorporaties laten meedoen in alle schadegebieden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mijnbouwschade",
+        "woningcorporaties",
+        "schadegebieden",
+        "aanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 20",
+      "originalQuote": "Mijnbouwschade aanpakken en woningcorporaties laten meedoen in alle mijnbouwschade gebieden."
+    },
+    {
+      "promiseCode": "BBB-2025-016",
+      "text": "Wie door toedoen van de overheid in de problemen is gekomen, moet zo snel en menswaardig mogelijk worden geholpen, gecompenseerd en waar nodig volledig schadeloos gesteld. Geen eindeloos getouwtrek.",
+      "summary": "Snelle compensatie voor schade door overheidshandelen zonder eindeloos getouwtrek",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "compensatie",
+        "schadeloosstelling",
+        "overheidsschade",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 20",
+      "originalQuote": "Wie door toedoen van de overheid in de problemen is gekomen, moet zo snel en menswaardig mogelijk worden geholpen, gecompenseerd en waar nodig volledig schadeloos gesteld. Geen eindeloos getouwtrek, maar doen wat nodig is om vertrouwen te herstellen."
+    },
+    {
+      "promiseCode": "BBB-2025-017",
+      "text": "De overheid zet actief in op de aanwezigheid van basisvoorzieningen, zodat iedereen daar toegang toe heeft.",
+      "summary": "Overheid zorgt actief voor toegankelijke basisvoorzieningen voor iedereen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisvoorzieningen",
+        "toegang",
+        "overheid",
+        "leefbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 20",
+      "originalQuote": "Daarbij hoort dat de overheid actief inzet op de aanwezigheid van basisvoorzieningen, zodat iedereen daar toegang tot heeft."
+    },
+    {
+      "promiseCode": "BBB-2025-018",
+      "text": "De overheid ondersteunt lokale verenigingen en vrijwilligerswerk actief. Lokale initiatieven tegen armoede en eenzaamheid kunnen rekenen op steun van de overheid.",
+      "summary": "Actieve overheidssteun voor verenigingen en vrijwilligerswerk",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidssteun",
+        "verenigingen",
+        "vrijwilligerswerk",
+        "armoedebestrijding",
+        "eenzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 21",
+      "originalQuote": "De overheid ondersteunt lokale verenigingen en vrijwilligerswerk actief. (Lokale) initiatieven tegen armoede en eenzaamheid kunnen rekenen op steun van de overheid."
+    },
+    {
+      "promiseCode": "BBB-2025-019",
+      "text": "Het Fries moet zoveel mogelijk kunnen worden gebruikt als volwaardige taal. De Limburgse taal verdient steun om status 3 te verkrijgen op de Unesco-lijst van kwetsbare talen.",
+      "summary": "Ondersteuning Friese taal en Unesco status 3 voor Limburgs",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "friese taal",
+        "limburgse taal",
+        "unesco-lijst",
+        "status 3",
+        "taalbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 21",
+      "originalQuote": "Het Fries is al een volwaardige taal en moet zoveel mogelijk kunnen worden gebruikt. De Limburgse taal verdient steun om status 3 te verkrijgen op de Unesco­lijst van kwetsbare talen."
+    },
+    {
+      "promiseCode": "BBB-2025-020",
+      "text": "Er moet een einde komen aan het sluiten van streekziekenhuizen. Ze vervullen een wezenlijke functie voor de regio.",
+      "summary": "Stop met sluiting streekziekenhuizen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "streekziekenhuizen",
+        "sluiting",
+        "regionale zorg",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 22",
+      "originalQuote": "Er moet een einde komen aan het sluiten van streekziekenhuizen. Want ze vervullen een wezenlijke functie voor de regio."
+    },
+    {
+      "promiseCode": "BBB-2025-021",
+      "text": "BBB stelt een structurele bezuiniging (apparaatskorting) voor op ministeries met uitzondering van Defensie, I&W en VRO. Ook structurele apparaatskorting op andere overheidsorganisaties, uitgezonderd uitvoerende diensten.",
+      "summary": "Structurele apparaatskorting op ministeries en overheidsorganisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "apparaatskorting",
+        "ministeries",
+        "overheidsorganisaties",
+        "bezuiniging",
+        "bureaucratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 22",
+      "originalQuote": "BBB stelt een structurele bezuiniging (apparaatskorting) voor op ministeries met uitzondering van Defensie, Infrastructuur en Waterstaat en Volkshuisvesting en Ruimtelijke Ordening. Ook willen wij een structurele apparaatskorting op andere overheidsorganisaties, met uitzondering van uitvoerende diensten"
+    },
+    {
+      "promiseCode": "BBB-2025-022",
+      "text": "In 2028 stellen we een nullijn in voor rijksambtenaren, inclusief ambtsdragers. Dat betekent dat er dat jaar geen loonstijgingen worden doorgevoerd.",
+      "summary": "Nullijn voor rijksambtenaren in 2028",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nullijn",
+        "rijksambtenaren",
+        "loonstijging",
+        "ambtsdragers",
+        "2028"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 23",
+      "originalQuote": "In 2028 stellen we een nullijn in voor rijksambtenaren, inclusief ambtsdragers. Dat betekent dat er dat jaar geen loonstijgingen worden doorgevoerd."
+    },
+    {
+      "promiseCode": "BBB-2025-023",
+      "text": "Commissievergaderingen over regio-gerelateerde onderwerpen moeten naast in Den Haag ook in de regio zelf worden gehouden om betrokkenheid en zicht op de praktijk te vergroten.",
+      "summary": "Tweede Kamer commissievergaderingen ook in regio's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "commissievergaderingen",
+        "tweede kamer",
+        "regio",
+        "decentralisatie",
+        "betrokkenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 23",
+      "originalQuote": "Commissievergaderingen over regio­gerelateerde onderwerpen moeten naast in Den Haag ook in de regio zelf worden gehouden om betrokkenheid en zicht op de praktijk te vergroten."
+    },
+    {
+      "promiseCode": "BBB-2025-024",
+      "text": "Wanneer er een nieuwe locatie wordt gezocht voor een rijksdienst, wordt eerst buiten de Randstad gekeken naar vestigingsmogelijkheden.",
+      "summary": "Nieuwe rijksdiensten eerst buiten Randstad vestigen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksdiensten",
+        "vestiging",
+        "randstad",
+        "spreiding",
+        "regio"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 23",
+      "originalQuote": "Wanneer er een nieuwe locatie wordt gezocht voor een rijksdienst, wordt eerst buiten de Randstad gekeken naar vestigingsmogelijkheden."
+    },
+    {
+      "promiseCode": "BBB-2025-025",
+      "text": "Alle beleid dient een regiotoets te ondergaan die de gevolgen van beleid en de uitvoering daarvan voor regio's en het platteland in beeld brengt.",
+      "summary": "Invoering regiotoets voor alle beleid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regiotoets",
+        "beleid",
+        "platteland",
+        "gevolgenanalyse",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 23",
+      "originalQuote": "Alle beleid dient een regiotoets te ondergaan die de gevolgen van beleid en de uitvoering daarvan voor regio's en het platteland in beeld brengt."
+    },
+    {
+      "promiseCode": "BBB-2025-026",
+      "text": "BBB wil de Koning opnieuw een rol geven bij de kabinetsformatie. Zijn onafhankelijke rol als onpartijdig staatshoofd past daar uitstekend bij.",
+      "summary": "Koning krijgt weer rol bij kabinetsformatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koning",
+        "kabinetsformatie",
+        "staatshoofd",
+        "grondwet",
+        "monarchie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 23",
+      "originalQuote": "BBB wil de Koning opnieuw een rol geven bij de kabinetsformatie. Zijn onafhankelijke rol als onpartijdig staatshoofd past daar uitstekend bij."
+    },
+    {
+      "promiseCode": "BBB-2025-027",
+      "text": "Er komt een Directie Voedselzekerheid op het ministerie. Beleidsmaatregelen worden altijd getoetst op hun impact op de voedselzekerheid.",
+      "summary": "Directie Voedselzekerheid oprichten, beleidstoetsing op voedselzekerheidsimpact",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "directie",
+        "voedselzekerheid",
+        "ministerie",
+        "beleidstoetsing",
+        "impact"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 33",
+      "originalQuote": "Er komt op het ministerie een Directie Voedselzekerheid. Beleidsmaatregelen worden altijd getoetst op hun impact op de voedselzekerheid."
+    },
+    {
+      "promiseCode": "BBB-2025-028",
+      "text": "Een afwegingskader voedselzekerheid opstellen waarin het belang van voedselzekerheid altijd wordt meegewogen bij de verdeling van schaarse ruimte in het landelijk gebied.",
+      "summary": "Afwegingskader voedselzekerheid voor ruimtelijke verdeling landelijk gebied",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afwegingskader",
+        "voedselzekerheid",
+        "ruimteverdeling",
+        "landelijk gebied"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 33",
+      "originalQuote": "Afwegingskader voedselzekerheid opstellen. Waarin het belang van voedselzekerheid altijd wordt meegewogen bij de verdeling van schaarse ruimte in het landelijk gebied."
+    },
+    {
+      "promiseCode": "BBB-2025-029",
+      "text": "Geen gedwongen onteigening, gedwongen uitkoop, gedwongen verplaatsing of gedwongen extensivering op basis van stikstof.",
+      "summary": "Verbod op gedwongen onteigening en uitkoop vanwege stikstofbeleid",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onteigening",
+        "uitkoop",
+        "verplaatsing",
+        "extensivering",
+        "stikstof"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 33",
+      "originalQuote": "Geen gedwongen onteigening of gedwongen uitkoop, gedwongen verplaatsing of gedwongen extensivering op basis van stikstof."
+    },
+    {
+      "promiseCode": "BBB-2025-030",
+      "text": "Extensiveringsinstrumenten worden alleen toegepast waar strikt noodzakelijk voor het behalen van Europese doelen rond natuur- en waterkwaliteit.",
+      "summary": "Beperkt gebruik extensiveringsinstrumenten tot Europese natuurdoelen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "extensivering",
+        "instrumenten",
+        "europese doelen",
+        "natuurkwaliteit",
+        "waterkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 33",
+      "originalQuote": "Extensiveringsinstrumenten worden alleen toegepast waar strikt noodzakelijk voor het behalen van Europese doelen rond natuur­ en waterkwaliteit."
+    },
+    {
+      "promiseCode": "BBB-2025-031",
+      "text": "Net als in Frankrijk wordt de verplichte braaklegging van voedselgronden afgeschaft.",
+      "summary": "Afschaffing verplichte braaklegging voedselgronden naar Frans model",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "braaklegging",
+        "voedselgronden",
+        "afschaffing",
+        "frankrijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 33",
+      "originalQuote": "Net als in Frankrijk, wordt de verplichte braaklegging van voedsel­gronden afgeschaft."
+    },
+    {
+      "promiseCode": "BBB-2025-032",
+      "text": "Extra nationale regels bovenop EU-wetgeving worden zoveel mogelijk geschrapt voor de agrarische en visserijsector. Er komen geen nieuwe nationale regels bovenop EU-wetgeving.",
+      "summary": "Schrappen extra nationale regels bovenop EU-wetgeving agrarische sector",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale regels",
+        "eu-wetgeving",
+        "agrarische sector",
+        "visserijsector"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 34",
+      "originalQuote": "Extra nationale regels bovenop EU­wetgeving worden zoveel mogelijk geschrapt. Zo krijgen we een gelijk speelveld voor de agrarische en visserijsector. Er komen ook geen nieuwe nationale regels bovenop EU­wetgeving."
+    },
+    {
+      "promiseCode": "BBB-2025-033",
+      "text": "Geen import van voedselproducten voor menselijke consumptie die in Nederland niet mogen worden geproduceerd.",
+      "summary": "Importverbod voedselproducten die hier niet geproduceerd mogen worden",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "import",
+        "voedselproducten",
+        "productieverbod",
+        "gelijk speelveld"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 34",
+      "originalQuote": "We importeren geen voedselproducten voor menselijke consumptie die we hier niet mogen produceren."
+    },
+    {
+      "promiseCode": "BBB-2025-034",
+      "text": "PAS-melders en interimmers worden met voorrang gelegaliseerd.",
+      "summary": "Legalisering PAS-melders en interimmers met voorrang",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pas-melders",
+        "interimmers",
+        "legalisering",
+        "voorrang"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 34",
+      "originalQuote": "Pas­melders en interimmers worden met voorrang \"gelegaliseerd\"."
+    },
+    {
+      "promiseCode": "BBB-2025-035",
+      "text": "Alles wordt op alles gezet om de afbouw van de huidige derogatie terug te draaien en met de EU tot betere werkbare normen te komen.",
+      "summary": "Terugdraaien afbouw derogatie via EU-onderhandelingen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "derogatie",
+        "afbouw",
+        "eu-onderhandelingen",
+        "normen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 34",
+      "originalQuote": "Alles wordt op alles gezet om de afbouw van de huidige derogatie terug te draaien en met de EU tot betere en wel werkbare normen en afspraken te komen."
+    },
+    {
+      "promiseCode": "BBB-2025-036",
+      "text": "Wetsvoorstel om dierenextremisme strenger te kunnen bestraffen.",
+      "summary": "Wetsvoorstel strengere bestraffing dierenextremisme",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetsvoorstel",
+        "dierenextremisme",
+        "bestraffing",
+        "strafrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 34",
+      "originalQuote": "BBB werkt aan een wetsvoorstel om dierenextremisme strenger te kunnen bestraffen."
+    },
+    {
+      "promiseCode": "BBB-2025-037",
+      "text": "Jaarlijkse afrekenbare prestatieafspraken met NVWA over doelmatigheid en kostenbeheersing.",
+      "summary": "Jaarlijkse prestatieafspraken NVWA over doelmatigheid en kosten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prestatieafspraken",
+        "nvwa",
+        "doelmatigheid",
+        "kostenbeheersing"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 35",
+      "originalQuote": "Er worden jaarlijkse afrekenbare prestatieafspraken gemaakt over doelmatigheid en kostenbeheersing."
+    },
+    {
+      "promiseCode": "BBB-2025-038",
+      "text": "Start van een pilot waarbij keuringen (zoals export) deels door marktpartijen worden gedaan. Gestart wordt met stalkeuring in plaats van klepkeuring.",
+      "summary": "Pilot keuringen door marktpartijen, stalkeuring in plaats van klepkeuring",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pilot",
+        "keuringen",
+        "marktpartijen",
+        "stalkeuring",
+        "privatisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 35",
+      "originalQuote": "Start van een pilot waarbij keuringen (zoals export) (deels) door markt­partijen worden gedaan. Er wordt gestart met stalkeuring in plaats van klepkeuring."
+    },
+    {
+      "promiseCode": "BBB-2025-039",
+      "text": "Versnelde toelating van nieuwe biologische gewasbeschermingsmiddelen en groene middelen.",
+      "summary": "Versnelde toelating biologische en groene gewasbeschermingsmiddelen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "versnelde toelating",
+        "biologische middelen",
+        "gewasbeschermingsmiddelen",
+        "groene middelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 35",
+      "originalQuote": "Er komt een versnelde toe lating van nieuwe biologische gewasbeschermingsmiddelen en zogenoemde groene middelen."
+    },
+    {
+      "promiseCode": "BBB-2025-040",
+      "text": "Stop nieuwe windturbineparken op zee voordat er een volledig onafhankelijk onderzoek is naar de impact op zeeleven, bodem en vogels.",
+      "summary": "Stop nieuwe windparken zee tot onafhankelijk impact onderzoek",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windturbineparken",
+        "onderzoek",
+        "zeeleven",
+        "impact",
+        "moratorium"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 36",
+      "originalQuote": "Stop nieuwe windturbineparken op zee. Geen nieuwe windturbineparken op zee voordat er een volledig onafhankelijk onderzoek is naar de impact op zeeleven, bodem en vogels."
+    },
+    {
+      "promiseCode": "BBB-2025-041",
+      "text": "Onderzoek naar de haalbaarheid van het Noorse model 'Allemansrätten' (ieders recht) voor toegankelijkheid van natuurgebieden in Nederland.",
+      "summary": "Onderzoek Noorse model toegankelijkheid natuurgebieden",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderzoek",
+        "noorse model",
+        "allemansrätten",
+        "natuurgebieden",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 37",
+      "originalQuote": "Er komt onderzoek naar de haalbaarheid in Neder­land naar het Noorse model \"Allemansrätten\" (ieders recht)."
+    },
+    {
+      "promiseCode": "BBB-2025-042",
+      "text": "Invoering van een rekenkundige ondergrens van minimaal 1 mol voor stikstofberekeningen.",
+      "summary": "Rekenkundige ondergrens 1 mol voor stikstofberekeningen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rekenkundige ondergrens",
+        "1 mol",
+        "stikstofberekeningen",
+        "vergunningverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 38",
+      "originalQuote": "De invoering van een rekenkundige ondergrens van minimaal 1 mol."
+    },
+    {
+      "promiseCode": "BBB-2025-043",
+      "text": "Invoering van een drempelwaarde voor stikstofemissies bij voorkeur in een vorm waarbij het gebruik van AERIUS niet meer nodig is.",
+      "summary": "Drempelwaarde stikstof zonder AERIUS-systeem",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drempelwaarde",
+        "stikstofemissies",
+        "aerius",
+        "vergunningverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 38",
+      "originalQuote": "Invoering van een drempelwaarde. Is de tweede stap. Onder gelijktijdige geborgde emissie­reductie. Bij voorkeur in een vorm waarbij het gebruik van AERIUS niet meer nodig is."
+    },
+    {
+      "promiseCode": "BBB-2025-044",
+      "text": "De 170 kg/ha norm schrappen in de Nitraatrichtlijn via actieve inzet richting Europa.",
+      "summary": "Schrappen 170 kg/ha norm Nitraatrichtlijn via EU-lobby",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "170 kg/ha norm",
+        "nitraatrichtlijn",
+        "europa",
+        "lobby"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 39",
+      "originalQuote": "De 170 kg/ha norm schrappen in de Nitraatrichtlijn. Nederland zal hier richting Europa een actieve inzet op plegen."
+    },
+    {
+      "promiseCode": "BBB-2025-045",
+      "text": "Zoveel mogelijk wolven (minimaal één per roedel) krijgen een zender voor toezicht. Bij ongewenst gedrag wordt ingegrepen.",
+      "summary": "Zenders op wolven (minimaal één per roedel) voor toezicht",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wolven",
+        "zenders",
+        "roedel",
+        "toezicht",
+        "faunabeheer"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 39",
+      "originalQuote": "Zoveel mogelijk wolven (minimaal één per roedel) krijgen een zender. Bij ongewenst gedrag en aanvallen op vee grijpen we in."
+    },
+    {
+      "promiseCode": "BBB-2025-046",
+      "text": "0-stand voor wolven wordt nagestreefd buiten aangewezen leefgebieden in Nederland.",
+      "summary": "Nulstand wolven buiten aangewezen leefgebieden",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "0-stand",
+        "wolven",
+        "leefgebieden",
+        "populatiebeheer"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 39",
+      "originalQuote": "We streven naar een nulstand buiten aangewezen leefgebieden voor wol­ven in Nederland."
+    },
+    {
+      "promiseCode": "BBB-2025-047",
+      "text": "De overheid moet zich beperken tot kerntaken en onnodige bureaucratie en controlezucht wegwernen bij woningbouw. Stimuleren van burgers en ondernemers met eigen oplossingen en kleine initiatieven in plaats van alles vanuit Den Haag reguleren.",
+      "summary": "Overheid beperken tot kerntaken, minder bureaucratie bij woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheid",
+        "kerntaken",
+        "bureaucratie",
+        "controlezucht",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 42",
+      "originalQuote": "De overheid moet burgers en ondernemers vertrouwen geven om mee te bouwen aan de samenleving en zich beperken tot haar kerntaken, zonder onnodige bureaucratie en controlezucht."
+    },
+    {
+      "promiseCode": "BBB-2025-048",
+      "text": "Regels versoepelen en woningen gericht toewijzen om starters, senioren en middeninkomens weer kansen te geven op een passend huis dat aansluit bij hun financiële mogelijkheden.",
+      "summary": "Regels versoepelen en gerichte woningtoewijzing voor doelgroepen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regels",
+        "woningtoewijzing",
+        "starters",
+        "senioren",
+        "middeninkomens"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 42",
+      "originalQuote": "Door regels te versoepelen en woningen gericht toe te wijzen, zetten we in op praktisch en doelgericht resultaat."
+    },
+    {
+      "promiseCode": "BBB-2025-049",
+      "text": "Woningcorporaties stimuleren om 30.000 sociale huurwoningen per jaar te bouwen.",
+      "summary": "30.000 sociale huurwoningen per jaar door woningcorporaties",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningcorporaties",
+        "sociale huurwoningen",
+        "woningbouw",
+        "stimulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 43",
+      "originalQuote": "Woningcorporaties worden gestimuleerd om weer 30.000 sociale huurwoningen per jaar te bouwen."
+    },
+    {
+      "promiseCode": "BBB-2025-050",
+      "text": "Bij woningtoewijzing voorrang geven aan mensen met lokale binding, urgentie of belangrijke maatschappelijke bijdrage voor meer dan 50 procent van nieuwbouwwoningen.",
+      "summary": "Voorrang woningtoewijzing lokale binding >50% nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningtoewijzing",
+        "lokale binding",
+        "nieuwbouw",
+        "voorrang"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 43",
+      "originalQuote": "Bij de toewijzing van koop- en huurwoningen geven we voorrang aan mensen met een lokale binding, urgentie of mensen die een belangrijke bijdrage leveren aan de gemeenschap, denk aan onderwijzers, zorgpersoneel en politiemensen. Dit kan nu al voor 50 procent van de woningen (nieuwbouw). Voor BBB mag dit hoger worden."
+    },
+    {
+      "promiseCode": "BBB-2025-051",
+      "text": "Starterscontracten invoeren om verhuren aan starters op de woningmarkt aantrekkelijker te maken.",
+      "summary": "Starterscontracten invoeren voor betere verhuur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "starterscontracten",
+        "verhuur",
+        "starters",
+        "woningmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 43",
+      "originalQuote": "Er komen starterscontracten zodat verhuren aan starters op de woningmarkt aantrekkelijker wordt."
+    },
+    {
+      "promiseCode": "BBB-2025-052",
+      "text": "Gedoogregeling invoeren voor mensen die permanent in recreatiewoning wonen met duidelijke ingangsdatum en mogelijkheid tot transformatie van vakantieparken.",
+      "summary": "Gedoogregeling permanente bewoning recreatiewoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gedoogregeling",
+        "recreatiewoning",
+        "vakantieparken",
+        "transformatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 44",
+      "originalQuote": "Voor de mensen die nu al in een vakantiehuis wonen, wordt een gedoogregeling ingevoerd met een duidelijke ingangsdatum. Door een doordachte transformatie wordt het mogelijk gemaakt om op een vakantiepark of in een vakantiehuis te blijven wonen."
+    },
+    {
+      "promiseCode": "BBB-2025-053",
+      "text": "Boete invoeren voor gemeenten die het bouwbesluit verzwaren met aanvullende eisen.",
+      "summary": "Boete gemeenten bij verzwaren bouwbesluit",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boete",
+        "gemeenten",
+        "bouwbesluit",
+        "aanvullende eisen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 45",
+      "originalQuote": "Er komt een boete voor gemeenten die het bouwbesluit verzwaren met aanvullende eisen."
+    },
+    {
+      "promiseCode": "BBB-2025-054",
+      "text": "Vergunningsvrij delen en splitsen van woningen mogelijk maken en kamerverhuur vergemakkelijken.",
+      "summary": "Vergunningsvrij splitsen woningen en kamerverhuur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsvrij",
+        "splitsen",
+        "woningen",
+        "kamerverhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 45",
+      "originalQuote": "BBB zet in op het vergunningsvrij delen en splitsen van woningen die zich daarvoor lenen. Bijbouwen moet gemakkelijker worden. BBB wil verhuur aantrekkelijker maken, ook kamerverhuur."
+    },
+    {
+      "promiseCode": "BBB-2025-055",
+      "text": "Wet betaalbare huur afschaffen omdat deze leidt tot vermindering van huurwoningen.",
+      "summary": "Wet betaalbare huur afschaffen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet betaalbare huur",
+        "afschaffen",
+        "huurwoningen",
+        "particuliere verhuurders"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 45",
+      "originalQuote": "We willen de Wet betaalbare huur dan ook afschaffen omdat deze leidt tot het aanzienlijk verminderen van huurwoningen."
+    },
+    {
+      "promiseCode": "BBB-2025-056",
+      "text": "Onderzoek naar instelling van Grondfonds door het Rijk om gemeenten te ondersteunen bij strategische grondaankoop en herverkaveling.",
+      "summary": "Onderzoek instelling Grondfonds voor gemeenten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondfonds",
+        "grondaankoop",
+        "herverkaveling",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 46",
+      "originalQuote": "Onderzoek naar het instellen van een Grondfonds. Veel gemeenten missen de middelen om strategische gronden aan te kopen of voor te financieren. Het instellen door het Rijk van een grondfaciliteit die het aankopen van grond en herverkaveling ondersteunt kan daarbij ondersteuning bieden."
+    },
+    {
+      "promiseCode": "BBB-2025-057",
+      "text": "Afspraken maken in Europa voor verdeling van zoet water en stuwen/sluizen gebruiken voor betere waterafvoercontrole.",
+      "summary": "Europese afspraken zoetwaterverdeling en watercontrole",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europa",
+        "zoet water",
+        "stuwen",
+        "sluizen",
+        "waterafvoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 47",
+      "originalQuote": "Om de hoeveelheid zoet water in onze rivieren op peil te houden voor een leefbaar Nederland, dienen er afspraken te worden gemaakt in Europa die de verdeling van water organiseren. We zullen moeten inzetten op stuwen en sluizen om de waterafvoer beter te kunnen controleren."
+    },
+    {
+      "promiseCode": "BBB-2025-058",
+      "text": "Gekozen waterschapsbestuursleden erkennen als volwaardige volksvertegenwoordigers met terugwerkende kracht tot 2013 in kader Reglement Koninklijke Onderscheidingen.",
+      "summary": "Erkenning waterschapsbestuursleden als volksvertegenwoordigers",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waterschapsbestuursleden",
+        "volksvertegenwoordigers",
+        "koninklijke onderscheidingen",
+        "2013"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 47",
+      "originalQuote": "BBB wil dat de gekozen algemeen bestuursleden van het waterschap als volwaardige volksvertegenwoordigers worden erkend (met terugwerkende kracht 2013, oftewel gelijktijdig met de invoering van politieke verkiezingen voor de waterschappen) in het kader van artikel 14.1.c van het Reglement Koninklijke Onderscheidingen."
+    },
+    {
+      "promiseCode": "BBB-2025-059",
+      "text": "De Asielnoodmaatregelenwet invoeren die de geldigheidsduur van tijdelijke asielvergunningen verkort van vijf naar drie jaar, de asielvergunning voor onbepaalde tijd afschaft, de permanente verblijfsvergunning doet vervallen, ruimere mogelijkheden creëert om vreemdelingen ongewenst te verklaren, de voornemensprocedure afschaft, nareis beperkt zodat ongehuwde partners en meerderjarige kinderen geen afgeleide asielvergunning meer krijgen, en drie nieuwe instrumenten invoert om opvolgende asielaanvragen sneller af te handelen.",
+      "summary": "Invoering Asielnoodmaatregelenwet met verkorting asielvergunningen en strengere regels",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielnoodmaatregelenwet",
+        "asielvergunning",
+        "verblijfsvergunning",
+        "nareis",
+        "voornemensprocedure",
+        "ind"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 49",
+      "originalQuote": "De Asielnoodmaatregelenwet invoeren. Deze maakt verkorting van de geldigheidsduur van de tijdelijke asielvergunning van vijf naar drie jaar mogelijk. Deze zorgt voor het afschaffen van de mogelijkheid om een asielvergunning voor onbepaalde tijd te verkrijgen. Waarmee de permanente verblijfsvergunning vervalt. Er komen ruimere mogelijkheden om vreemdelingen zonder rechtmatig verblijf ongewenst te verklaren. Het afschaffen van de voornemensprocedure ontlast de IND. Door beperking van nareis krijgen ongehuwde partners en meerderjarige kinderen geen afgeleide asielvergunning meer. De wet voorziet verder in het invoeren van drie nieuwe instrumenten om opvolgende asielaanvragen sneller af te handelen."
+    },
+    {
+      "promiseCode": "BBB-2025-060",
+      "text": "BBB wil ervoor zorgen dat werken echt weer gaat lonen door het versterken van bestaanszekerheid en het vergroten van mogelijkheden om met een volledige baan in eigen levensonderhoud te voorzien.",
+      "summary": "Ervoor zorgen dat werken echt weer gaat lonen",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "bestaanszekerheid",
+        "werken",
+        "lonen",
+        "levensonderhoud",
+        "volledige baan"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 56",
+      "originalQuote": "BBB wil de mogelijkheden om dat te bereiken vergroten door ervoor te zorgen dat werken echt weer gaat lonen."
+    },
+    {
+      "promiseCode": "BBB-2025-061",
+      "text": "BBB wil zorgen voor een eerlijk loon voor alle vormen van arbeid.",
+      "summary": "Zorgen voor een eerlijk loon",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "eerlijk loon",
+        "arbeid",
+        "waardering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 56",
+      "originalQuote": "We waarderen echter álle vormen van arbeid, zorgen voor een eerlijk loon"
+    },
+    {
+      "promiseCode": "BBB-2025-062",
+      "text": "BBB wil zorgen voor een robuust sociaal vangnet voor mensen die echt niet kunnen werken.",
+      "summary": "Robuust sociaal vangnet",
+      "theme": "SOCIAAL",
+      "specificity": "VAAG",
+      "keywords": [
+        "sociaal vangnet",
+        "robuust",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 56",
+      "originalQuote": "een robuust sociaal vangnet en een goed pensioen. We investeren in een flexibele en toekomstbestendige arbeidsmarkt"
+    },
+    {
+      "promiseCode": "BBB-2025-063",
+      "text": "BBB wil investeren in een flexibele en toekomstbestendige arbeidsmarkt die kansen biedt aan iedereen.",
+      "summary": "Investeren in flexibele arbeidsmarkt",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "arbeidsmarkt",
+        "flexibel",
+        "toekomstbestendig",
+        "kansen",
+        "investeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 56",
+      "originalQuote": "We investeren in een flexibele en toekomstbestendige arbeidsmarkt die kansen biedt aan iedereen."
+    },
+    {
+      "promiseCode": "BBB-2025-064",
+      "text": "De regeldruk en protocoldwang in de zorg en het onderwijs aanpakken, zodat verpleegkundigen en leraren zich weer kunnen bezighouden met verplegen en lesgeven.",
+      "summary": "Regeldruk en protocoldwang in zorg en onderwijs aanpakken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeldruk",
+        "protocoldwang",
+        "zorg",
+        "onderwijs",
+        "verpleegkundigen",
+        "leraren"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 57",
+      "originalQuote": "Dat de regeldruk en protocollen dwang in bijvoorbeeld de zorg en het onderwijs worden aangepakt, zodat verpleegkundigen en leraren zich weer kunnen bezighouden met verplegen en lesgeven, de reden waarom ze voor hun beroep gekozen hebben."
+    },
+    {
+      "promiseCode": "BBB-2025-065",
+      "text": "Gerichte handhaving op structureel misbruik en schijnzelfstandigheid bij zzp'ers, met prioriteit bij kwetsbare situaties.",
+      "summary": "Gerichte handhaving schijnzelfstandigheid zzp'ers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "schijnzelfstandigheid",
+        "zzp",
+        "misbruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 57-58",
+      "originalQuote": "Gerichte handhaving op structureel misbruik en schijnzelfstandigheid, met prioriteit bij kwetsbare situaties, maar géén jacht op bonafide ondernemers."
+    },
+    {
+      "promiseCode": "BBB-2025-066",
+      "text": "Bescherming van zelfstandigen met een laag uurtarief onder de 36 euro via een rechtsvermoeden van werknemerschap in combinatie met ruimte voor uitzonderingen.",
+      "summary": "Bescherming zzp'ers uurtarief onder €36",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zelfstandigen",
+        "uurtarief",
+        "werknemerschap",
+        "rechtsvermoeden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 57-58",
+      "originalQuote": "Bescherming van zelfstandigen met een laag uurtarief (< €36), via een rechtsvermoeden van werknemerschap in combinatie met ruimte voor uitzonderingen."
+    },
+    {
+      "promiseCode": "BBB-2025-067",
+      "text": "Geen generiek uitzendverbod per sector, maar hard aanpakken van misstanden bij malafide uitzendconstructies.",
+      "summary": "Geen generiek uitzendverbod, aanpak malafide constructies",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzendverbod",
+        "misstanden",
+        "uitzendconstructies",
+        "uitbuiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 58",
+      "originalQuote": "Geen generiek uitzendverbod per sector, maar wij pakken misstanden bij malafide uitzendconstructies hard aan."
+    },
+    {
+      "promiseCode": "BBB-2025-068",
+      "text": "Handhaven van de huidige fiscale regeling voor kenniswerkers.",
+      "summary": "Handhaven fiscale regeling kenniswerkers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fiscale regeling",
+        "kenniswerkers",
+        "handhaven"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 58",
+      "originalQuote": "Handhaving van de huidige fiscale regeling voor kenniswerkers."
+    },
+    {
+      "promiseCode": "BBB-2025-069",
+      "text": "De verplichting voor kleinere werkgevers om bij ziekte twee jaar lang loon door te betalen terugbrengen naar één jaar.",
+      "summary": "Loondoorbetaling kleinere werkgevers terug naar één jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loondoorbetaling",
+        "werkgevers",
+        "ziekte",
+        "jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 59",
+      "originalQuote": "BBB wil de verplichting voor kleinere werkgevers om bij ziekte twee jaar lang loon door te betalen terugbrengen naar één jaar."
+    },
+    {
+      "promiseCode": "BBB-2025-070",
+      "text": "Het UWV hervormen tot een eenvoudige uitkeringsinstantie. Keuringen en arbeidsmarktbegeleiding worden overgeheveld naar zelfstandige partijen.",
+      "summary": "UWV hervormen tot eenvoudige uitkeringsinstantie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uwv",
+        "hervorming",
+        "uitkeringsinstantie",
+        "keuringen",
+        "arbeidsmarktbegeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 59",
+      "originalQuote": "Het UWV hervormen tot een eenvoudige uitkeringsinstantie. De huidige situatie is onhoudbaar. Uiteraard blijft een vangnet beschikbaar voor wie dat nodig heeft. Keuringen en arbeidsmarktbegeleiding worden overgeheveld naar zelfstandige partijen met kennis van zaken."
+    },
+    {
+      "promiseCode": "BBB-2025-071",
+      "text": "De AOW-uitkeringen worden niet zwaarder belast dan nu het geval is en de koppeling aan het wettelijk minimumloon wordt gehandhaafd.",
+      "summary": "Geen zwaardere belasting AOW, koppeling minimumloon handhaven",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow",
+        "belasting",
+        "minimumloon",
+        "koppeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 60",
+      "originalQuote": "De AOW-uitkeringen worden niet zwaarder belast dan nu het geval is en we handhaven de koppeling aan het wettelijk minimumloon."
+    },
+    {
+      "promiseCode": "BBB-2025-072",
+      "text": "Onderzoeken of mensen vanaf 2 jaar vóór en tot 5 jaar ná de standaard AOW leeftijd in deeltijd op vrijwillige basis kunnen instromen.",
+      "summary": "Onderzoek deeltijd AOW 2 jaar voor tot 5 jaar na standaardleeftijd",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deeltijd",
+        "aow",
+        "leeftijd",
+        "instroom",
+        "vrijwillig"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 60",
+      "originalQuote": "Onderzoeken of mensen vanaf 2 jaar vóór en tot 5 jaar ná de standaard AOW leeftijd in (deeltijd) op vrijwillige basis kunnen instromen, afhankelijk van levensloop en beroep."
+    },
+    {
+      "promiseCode": "BBB-2025-073",
+      "text": "De administratie- en beleggingskosten die pensioenuitvoerders maken normeren en maximeren, zodat er meer geld overblijft voor pensioen.",
+      "summary": "Normeren en maximeren pensioenuitvoeringskosten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitvoeringskosten",
+        "pensioen",
+        "normeren",
+        "maximeren",
+        "beleggingskosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 60",
+      "originalQuote": "De administratie- en beleggingskosten die pensioenuitvoerders maken willen we normeren en maximeren, zodat er meer geld overblijft voor pensioen."
+    },
+    {
+      "promiseCode": "BBB-2025-074",
+      "text": "Pensioenfondsen worden voortaan bestuurd door onafhankelijke vakmensen met kennis van zaken, af van het bestuursmodel waarbij werkgevers en vakbonden elkaar in evenwicht moeten houden.",
+      "summary": "Onafhankelijk bestuur pensioenfondsen, weg van werkgevers-vakbond model",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pensioenfondsen",
+        "bestuur",
+        "onafhankelijk",
+        "vakmensen",
+        "werkgevers",
+        "vakbonden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 61",
+      "originalQuote": "Pensioenfondsen worden voortaan bestuurd door onafhankelijke vakmensen met kennis van zaken. BBB wil af van het bestuursmodel, waarbij werkgevers en vakbonden elkaar in evenwicht moeten houden."
+    },
+    {
+      "promiseCode": "BBB-2025-075",
+      "text": "De regelgeving op nationaal niveau moet drastisch worden verminderd en getoetst worden op impact op concurrentievermogen van Nederland.",
+      "summary": "Drastische vermindering nationale regelgeving met concurrentietoets",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regelgeving",
+        "deregulering",
+        "concurrentievermogen",
+        "toetsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 62",
+      "originalQuote": "De regelgeving op nationaal niveau moet drastisch verminderen en worden getoetst op de impact op ons concurrentievermogen."
+    },
+    {
+      "promiseCode": "BBB-2025-076",
+      "text": "Nederland mag geen nationale koppen plaatsen op Europees beleid waarmee zwaardere verplichtingen worden opgelegd dan de EU voorschrijft.",
+      "summary": "Geen nationale verzwaring van Europese regelgeving",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europees beleid",
+        "nationale koppen",
+        "regelgeving",
+        "verplichtingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 62",
+      "originalQuote": "Er mogen geen nationale koppen komen op Europees beleid waarmee we ons zwaardere verplichtingen opleggen dan de EU voorschrijft."
+    },
+    {
+      "promiseCode": "BBB-2025-077",
+      "text": "Het klimaatbeleid wordt ingebed binnen het ministerie van Economische Zaken en Klimaat, waarbij economische belangen en brede welvaart leidend zijn.",
+      "summary": "Klimaatbeleid onder EZK met economie als leidend principe",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatbeleid",
+        "ministerie",
+        "economische belangen",
+        "welvaart",
+        "ezk"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 62",
+      "originalQuote": "Het klimaatbeleid wordt ingebed binnen het ministerie van Economische Zaken en Klimaat, waarbij economische belangen en brede welvaart leidend zijn."
+    },
+    {
+      "promiseCode": "BBB-2025-078",
+      "text": "Topsectoren worden verbonden met maakindustrie en technische opleidingen in de regio om nieuwe kansen te creëren voor bedrijfsleven en onderwijs.",
+      "summary": "Verbinding topsectoren met maakindustrie en technisch onderwijs",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "topsectoren",
+        "maakindustrie",
+        "technische opleidingen",
+        "bedrijfsleven",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 62",
+      "originalQuote": "Door topsectoren met maakindustrie en technische opleidingen in de regio te verbinden, ontstaan nieuwe kansen die ons bedrijfsleven en het onderwijs versterken."
+    },
+    {
+      "promiseCode": "BBB-2025-079",
+      "text": "Het aanbestedingsbeleid wordt hervormd zodat mkb-bedrijven eerlijke en haalbare toegang krijgen tot overheidsopdrachten, met nadruk op praktische uitvoerbaarheid en maatschappelijke waarde.",
+      "summary": "Hervorming aanbestedingsbeleid voor betere mkb-toegang tot overheidsopdrachten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aanbestedingsbeleid",
+        "mkb",
+        "overheidsopdrachten",
+        "hervorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 63",
+      "originalQuote": "Hervorming aanbestedingsbeleid. Door hervorming van het aanbestedingsbeleid krijgen mkb­bedrijven eerlijke én haalbare toegang tot overheidsopdrachten, met nadruk op praktische uit­voerbaarheid en maatschappelijke waarde."
+    },
+    {
+      "promiseCode": "BBB-2025-080",
+      "text": "De rijksoverheid onderzoekt mogelijkheden om gericht te investeren in kansrijke regionale economische clusters, zoals agrofood in Noordoost-Nederland, hightech in Twente en zorginnovatie in Limburg.",
+      "summary": "Gerichte investeringen in regionale economische clusters buiten de Randstad",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale clusters",
+        "investeringen",
+        "agrofood",
+        "hightech",
+        "zorginnovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 63",
+      "originalQuote": "Groeikansen buiten de Randstad verzilveren. De rijksoverheid onderzoekt de mogelijkheden om gericht te investeren in kansrijke regionale economische clusters, zoals agrofood in Noordoost­Nederland, hightech in Twente en zorginnovatie in Limburg."
+    },
+    {
+      "promiseCode": "BBB-2025-081",
+      "text": "Samenwerking tussen grote bedrijven, mkb, startups, onderwijs en overheid wordt actief ondersteund, met ruimte voor maatwerk en regionale investeringsagenda's.",
+      "summary": "Actieve ondersteuning van regionale ecosystemen en investeringsagenda's",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ecosystemen",
+        "samenwerking",
+        "investeringsagenda",
+        "maatwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 63",
+      "originalQuote": "Regionale ecosystemen versterken. Samenwerking tussen grote bedrijven, mkb, startups, onder­wijs en overheid wordt actief ondersteund, met ruimte voor maatwerk en regionale investerings­agenda's."
+    },
+    {
+      "promiseCode": "BBB-2025-082",
+      "text": "Richtlijnen worden proportioneel vertaald in Nederlandse regelgeving, zodat wat voor Shell geldt niet ook automatisch voor de slager op de hoek geldt.",
+      "summary": "Stop op onevenredige regeldruk voor kleine ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeldruk",
+        "proportionaliteit",
+        "kleine ondernemers",
+        "mkb"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 64",
+      "originalQuote": "Een stop op onzinnige regels voor kleine ondernemers. Richtlijnen moeten proportioneel vertaald worden in Nederlandse regelgeving: wat voor Shell geldt, mag niet ook voor de slager op de hoek gelden."
+    },
+    {
+      "promiseCode": "BBB-2025-083",
+      "text": "Eenvoudige en regionale kredietmogelijkheden worden beschikbaar gesteld voor kleine ondernemers die willen investeren of starten.",
+      "summary": "Verbetering toegang tot microfinanciering voor kleine ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "microfinanciering",
+        "kredietmogelijkheden",
+        "kleine ondernemers",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 64",
+      "originalQuote": "Toegang tot microfinanciering verbeteren. Eenvoudige en regionale kredietmogelijkheden voor kleine ondernemers die willen investeren of starten."
+    },
+    {
+      "promiseCode": "BBB-2025-084",
+      "text": "Agrariërs krijgen zonder belemmering de mogelijkheid om streekwinkels, zorgactiviteiten of toerisme op hun erf te ontwikkelen.",
+      "summary": "Ruimte voor agrarische neveninkomsten zoals streekwinkels en zorg",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "neveninkomsten",
+        "agrariërs",
+        "streekwinkels",
+        "zorgactiviteiten",
+        "toerisme"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 64",
+      "originalQuote": "Ruimte voor agrarische neveninkomsten. Agrariërs moeten zonder belemmering de mogelijkheid hebben om streekwinkels, zorgactiviteiten of toerisme op hun erf te ontwikkelen."
+    },
+    {
+      "promiseCode": "BBB-2025-085",
+      "text": "Een forse uitbreiding van de Impulsaanpak Winkelgebieden, gericht op herbestemming, bereikbaarheid en ondersteuning van lokale ondernemers.",
+      "summary": "Forse uitbreiding Impulsaanpak Winkelgebieden tegen leegstand",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "impulsaanpak",
+        "winkelgebieden",
+        "leegstand",
+        "herbestemming"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 64",
+      "originalQuote": "Leegstand aanpakken, winkelgebieden versterken. BBB wil een forse uitbreiding van de Impuls­aanpak Winkelgebieden, gericht op herbestemming, bereikbaarheid en lokale ondernemers."
+    },
+    {
+      "promiseCode": "BBB-2025-086",
+      "text": "In nieuwbouwwijken komt structureel ruimte voor kleinschalige ondernemers met een sociale functie, zoals bakkers, kapsalons, fietsenmakers of buurtwinkels.",
+      "summary": "Structurele ruimte voor lokale ondernemers in nieuwbouwwijken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nieuwbouwwijken",
+        "lokale ondernemers",
+        "buurtwinkels",
+        "sociale functie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 64",
+      "originalQuote": "Lokale ondernemers in de wijk. In nieuwbouwwijken komt structureel ruimte voor kleinschalige ondernemers met een sociale functie, zoals bakkers, kapsalons, fietsenmakers of buurtwinkels."
+    },
+    {
+      "promiseCode": "BBB-2025-087",
+      "text": "Onderzoek naar het terugdraaien van de BTW-verhoging van 9% naar 21% op logies die in 2026 wordt ingevoerd, vanwege tegenvallende belastingopbrengsten en negatieve effecten in grensregio's.",
+      "summary": "Onderzoek terugdraaien BTW-verhoging naar 21% op logies per 2026",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw-tarief",
+        "logies",
+        "recreatiesector",
+        "grensregio"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 64",
+      "originalQuote": "We willen onderzoeken of het mogelijk is om de verhoging van het BTW­tarief van 9% naar 21% op logies, die in 2026 wordt ingevoerd, terug te draaien."
+    },
+    {
+      "promiseCode": "BBB-2025-088",
+      "text": "Volledige erkenning en gelijke behandeling van energie-intensieve industrie als 'zesde cluster' naast de vijf bekende industriële regioclusters, met betere toegang tot infrastructuur en maatwerkbeleid.",
+      "summary": "Erkenning energie-intensieve industrie als zesde industriecluster",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energie-intensieve industrie",
+        "zesde cluster",
+        "basisindustrie",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 65",
+      "originalQuote": "Volledige erkenning en gelijke behandeling van energie-intensieve industrie als 'zesde cluster'. Naast de vijf bekende industriële regioclusters kent Nederland een zesde cluster: energie­intensieve bedrijven verspreid over het land"
+    },
+    {
+      "promiseCode": "BBB-2025-089",
+      "text": "Tata Steel behouden als cruciale staalproducent binnen Europa en ondersteuning van de verduurzaming van het bedrijf.",
+      "summary": "Behoud en verduurzaming van Tata Steel als strategisch anker",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tata steel",
+        "staalproductie",
+        "verduurzaming",
+        "strategisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 65",
+      "originalQuote": "Behoud Tata Steel als strategisch anker. BBB steunt de verduurzaming van Tata Steel en wil het bedrijf behouden als cruciale staalproducent binnen Europa."
+    },
+    {
+      "promiseCode": "BBB-2025-090",
+      "text": "Investeren in pilot- en opschalingsprojecten voor elektrolyse fabrieken voor groene waterstof, circulaire kunstmest op basis van dierlijke mest, monovergisting en warmteterugwinning, en CO₂-negatief staalproductie.",
+      "summary": "Investeringen in nieuwe industriële technieken en pilot-projecten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektrolyse",
+        "groene waterstof",
+        "circulaire kunstmest",
+        "monovergisting",
+        "co₂-negatief"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 65",
+      "originalQuote": "Investeren in nieuwe industriële technieken. BBB steunt pilot­ en opschalingsprojecten voor bijvoorbeeld: – Elektrolyse fabrieken voor groene waterstof, – Circulaire kunstmest op basis van dierlijke mest, – Monovergisting en warmteterugwinning, – CO₂­negatief staalproductie via innovatieve smeltprocessen."
+    },
+    {
+      "promiseCode": "BBB-2025-091",
+      "text": "Structurele erkenning van maritieme maakindustrie (scheepsbouw, offshore techniek, bagger, marinebouw en binnenvaart logistiek) als strategische sector.",
+      "summary": "Erkenning maritieme maakindustrie als strategische sector",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maritieme industrie",
+        "scheepsbouw",
+        "offshore",
+        "strategische sector"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 65",
+      "originalQuote": "Erkenning maritieme maakindustrie als strategisch. Scheepsbouw, offshore techniek, bagger, marinebouw en binnenvaart logistiek zijn van groot belang voor onze economie en veiligheid. BBB wil dat deze sector structureel wordt erkend als strategisch"
+    },
+    {
+      "promiseCode": "BBB-2025-092",
+      "text": "Onderzoek naar oprichting van een Nationale Investeringsbank (NIB) die risicodragend kapitaal beschikbaar stelt voor innovatieve bedrijven in deeptech, agrotech, energietechniek en industriële toepassingen.",
+      "summary": "Onderzoek oprichting Nationale Investeringsbank voor innovatieve bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale investeringsbank",
+        "risicodragend kapitaal",
+        "deeptech",
+        "agrotech",
+        "energietechniek"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 66",
+      "originalQuote": "Gerichte rol voor de Nationale Investeringsbank in innovatie. We onderzoeken de oprichting van een Nationale Investeringsbank (NIB) in Nederland. Deze NIB krijgt een duidelijke taak in het beschikbaar stellen van risicodragend kapitaal voor innovatieve bedrijven in deeptech, agrotech, energietechniek en industriële toepassingen"
+    },
+    {
+      "promiseCode": "BBB-2025-093",
+      "text": "Klimaatbeleid moet democratisch gelegitimeerd zijn met burgerinspraak zonder activistische vooringenomenheid.",
+      "summary": "Democratische legitimatie klimaatbeleid met burgerinspraak",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatbeleid",
+        "democratische",
+        "legitimatie",
+        "burgerinspraak",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 68",
+      "originalQuote": "Democratisch gelegitimeerd zijn, met inspraak van burgers zonder activistische vooringenomenheid."
+    },
+    {
+      "promiseCode": "BBB-2025-094",
+      "text": "Eerlijke kostenverdeling waarborgen waarbij de rekening van klimaatbeleid niet steeds bij burgers en mkb terechtkomt.",
+      "summary": "Eerlijke kostenverdeling klimaatbeleid, niet ten laste van burgers en mkb",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kostenverdeling",
+        "klimaatbeleid",
+        "burgers",
+        "mkb",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 68",
+      "originalQuote": "Eerlijke kostenverdeling waarborgen: de rekening mag niet steeds bij burgers en het mkb terechtkomen."
+    },
+    {
+      "promiseCode": "BBB-2025-095",
+      "text": "Klimaatbeleid baseren op kosten-batenanalyse van impact, ook in relatie tot Nederlandse minimale wereldwijde CO2-bijdrage.",
+      "summary": "Kosten-batenanalyse voor klimaatbeleid inclusief mondiale CO2-context",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kosten-batenanalyse",
+        "klimaatbeleid",
+        "co2-bijdrage",
+        "impact",
+        "effectiviteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 68",
+      "originalQuote": "Gebaseerd zijn op een kosten-batenanalyse van impact, ook in relatie tot onze minimale wereldwijde CO2-bijdrage."
+    },
+    {
+      "promiseCode": "BBB-2025-096",
+      "text": "Geen nationale kop bovenop Europese regelgeving, zoals aanvullende CO2-heffingen of overhaaste sluiting van kolencentrales.",
+      "summary": "Geen extra nationale klimaatregels bovenop Europese regelgeving",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese",
+        "regelgeving",
+        "co2-heffingen",
+        "kolencentrales",
+        "klimaatregels"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 68",
+      "originalQuote": "Wij willen geen nationale kop bovenop Europese regelgeving, zoals aanvullende CO2-heffingen of overhaaste sluiting van kolencentrales."
+    },
+    {
+      "promiseCode": "BBB-2025-097",
+      "text": "De extra nationale CO2-heffing voor de industrie, boven op het Europese ETS-systeem, wordt teruggedraaid om het vestigingsklimaat te verbeteren en carbon leakage te voorkomen.",
+      "summary": "Extra nationale CO2-heffing industrie terugdraaien",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-heffing",
+        "industrie",
+        "ets-systeem",
+        "vestigingsklimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 69",
+      "originalQuote": "BBB wil de extra nationale CO2-heffing voor de industrie daarom terugdraaien."
+    },
+    {
+      "promiseCode": "BBB-2025-098",
+      "text": "De sluiting van kolencentrales per 2030 wordt ingetrokken zolang elders in Europa minder efficiënte centrales draaien.",
+      "summary": "Sluiting kolencentrales 2030 intrekken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kolencentrales",
+        "sluiting",
+        "europa",
+        "efficiëntie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 69",
+      "originalQuote": "De sluiting van kolencentrales per 2030 wordt ingetrokken zolang elders in Europa minder efficiënte centrales draaien."
+    },
+    {
+      "promiseCode": "BBB-2025-099",
+      "text": "De bouw van kerncentrales wordt versneld, zowel grote als Small Modular Reactors. Er wordt gestreefd om gedurende de komende kabinetsperiode te starten met de bouw van een of meerdere SMR's.",
+      "summary": "Versnelling bouw kerncentrales en SMR's",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "small modular reactors",
+        "smr",
+        "kabinetsperiode"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 69",
+      "originalQuote": "We streven ernaar om met de bouw van een of meerdere SMR's gedurende de komende kabinetsperiode te starten."
+    },
+    {
+      "promiseCode": "BBB-2025-100",
+      "text": "De doelstelling om in 2035 uitsluitend CO2-vrije elektriciteit op te wekken wordt niet wettelijk vastgelegd.",
+      "summary": "Geen juridische vastlegging CO2-vrije elektriciteit 2035",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-vrije",
+        "elektriciteit",
+        "wettelijk",
+        "doelstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 69",
+      "originalQuote": "De doelstelling om in 2035 uitsluitend CO2-vrije elektriciteit op te wekken wordt niet wettelijk vastgelegd."
+    },
+    {
+      "promiseCode": "BBB-2025-101",
+      "text": "Er komt een pas op de plaats bij uitbreiding van wind op land en op zee. Alleen op 1 november 2025 volledig vergunde projecten worden gerealiseerd.",
+      "summary": "Pauzeknop windenergie, alleen vergunde projecten voor 1 nov 2025",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windenergie",
+        "uitbreiding",
+        "vergunning",
+        "november"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 69-70",
+      "originalQuote": "Alleen op 1 november 2025 volledig vergunde projecten worden gerealiseerd."
+    },
+    {
+      "promiseCode": "BBB-2025-102",
+      "text": "Voor windturbines op land geldt een afstandsnorm van minimaal 4x de tiphoogte, een gezondheidstoets, een eerlijk participatieproces en naleving van het voorzorgsbeginsel.",
+      "summary": "Afstandsnorm windturbines 4x tiphoogte plus gezondheidstoets",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "afstandsnorm",
+        "tiphoogte",
+        "gezondheidstoets"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 69-70",
+      "originalQuote": "Voor windturbines op land geldt een afstandsnorm van minimaal 4x de tiphoogte, een gezondheidstoets, een eerlijk participatieproces en naleving van het voorzorgsbeginsel."
+    },
+    {
+      "promiseCode": "BBB-2025-103",
+      "text": "De subsidieregeling SDE++ wordt vanaf 2026 beëindigd. Subsidies op verlieslatende technieken worden afgebouwd.",
+      "summary": "SDE++-subsidies stoppen vanaf 2026",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sde++",
+        "subsidieregeling",
+        "beëindigen",
+        "verlieslatende"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 70",
+      "originalQuote": "Vanaf 2026 beëindigen we de SDE++ regeling."
+    },
+    {
+      "promiseCode": "BBB-2025-104",
+      "text": "Eind 2029 stopt de Regionale Energie Strategie (RES). Het Rijk krijgt de regie terug over grote energieprojecten.",
+      "summary": "RES-structuur stoppen eind 2029, regie naar Rijk",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "res",
+        "regionale energie strategie",
+        "rijk",
+        "energieprojecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 70",
+      "originalQuote": "Eind 2029 stopt de Regionale Energie Strategie (RES). Het Rijk krijgt de regie terug over grote energieprojecten."
+    },
+    {
+      "promiseCode": "BBB-2025-105",
+      "text": "De toepassing van de zonneladder wordt wettelijk geborgd: eerst zonnepanelen op daken, pas daarna andere locaties.",
+      "summary": "Zonneladder wettelijk borgen: eerst daken, dan andere locaties",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zonneladder",
+        "wettelijk",
+        "zonnepanelen",
+        "daken"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 70",
+      "originalQuote": "Toepassing zonneladder wettelijk borgen. Eerst wordt er gekeken om zonnepanelen op daken te plaatsen."
+    },
+    {
+      "promiseCode": "BBB-2025-106",
+      "text": "BBB wil managementlagen verminderen zodat zorgprofessionals zelfsturend kunnen zijn in plaats van aangestuurd te worden.",
+      "summary": "Managementlagen in de zorg verminderen voor meer zelfstandigheid zorgprofessionals",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "managementlagen",
+        "zorgprofessionals",
+        "zelfsturing",
+        "organisatiestructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 73",
+      "originalQuote": "Ten eerste moeten managementlagen worden verminderd, zodat zorgprofessionals zelfsturend kunnen zijn in plaats van te worden aangestuurd."
+    },
+    {
+      "promiseCode": "BBB-2025-107",
+      "text": "BBB wil het zorggeld investeren in de mensen die werken in de zorg, in plaats van aan de zorg. Daarnaast moet zorggeld slimmer besteed worden aan zorg die echt werkt.",
+      "summary": "Zorggeld investeren in zorgmedewerkers en effectieve zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorggeld",
+        "investering",
+        "zorgmedewerkers",
+        "effectieve zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 73",
+      "originalQuote": "BBB wil investeren in de mensen die werken in de zorg, in plaats van aan de zorg. Daarnaast moet geld voor de zorg slimmer besteed worden aan zorg die echt werkt."
+    },
+    {
+      "promiseCode": "BBB-2025-108",
+      "text": "BBB wil snoeien in het basispakket om de meest noodzakelijke zorg voor iedereen betaalbaarder te maken.",
+      "summary": "Basispakket zorgverzekering inkrimpen voor meer betaalbaarheid",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basispakket",
+        "zorgverzekering",
+        "betaalbaarheid",
+        "noodzakelijke zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 73",
+      "originalQuote": "Hierom snoeien we in het basispakket, om de meest noodzakelijke zorg voor iedereen betaalbaarder te maken."
+    },
+    {
+      "promiseCode": "BBB-2025-109",
+      "text": "Winsten van zorgverzekeraars moeten voortaan geïnvesteerd worden in de zorg in plaats van als winst behouden te worden.",
+      "summary": "Winsten zorgverzekeraars herinvesteren in zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgverzekeraars",
+        "winsten",
+        "herinvestering",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 73",
+      "originalQuote": "Zorgverzekeraars houden soms grote winsten over en dat hoort wat ons betreft niet thuis in een sector die draait om mensen en niet om winst. Deze moeten voortaan geïnvesteerd worden in de zorg."
+    },
+    {
+      "promiseCode": "BBB-2025-110",
+      "text": "Ziekenhuizen krijgen een betere vergoeding dan behandelcentra omdat zij het publieke zorghart vormen.",
+      "summary": "Betere vergoeding voor ziekenhuizen ten opzichte van behandelcentra",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ziekenhuizen",
+        "behandelcentra",
+        "vergoeding",
+        "publieke zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 73",
+      "originalQuote": "Ziekenhuizen vormen het publieke zorghart waarin alle zorg geleverd wordt; zij krijgen een betere vergoeding dan behandelcentra."
+    },
+    {
+      "promiseCode": "BBB-2025-111",
+      "text": "BBB wil één wettelijk verplichte basisverzekering met gelijke inhoud en premie onderzoeken, met alleen concurrentie op aanvullende verzekering.",
+      "summary": "Onderzoek naar één verplichte basisverzekering met gelijke premie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisverzekering",
+        "wettelijk verplicht",
+        "gelijke premie",
+        "marktwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 73",
+      "originalQuote": "Eén wettelijk verplichte basisverzekering. We onderzoeken de mogelijkheid van één wettelijk verplichte basisverzekering met gelijke inhoud en premie, met alleen concurrentie op de aanvullende verzekering."
+    },
+    {
+      "promiseCode": "BBB-2025-112",
+      "text": "Alle bewezen niet werkzame zorg gaat uit de basisverzekering, met strengere selectie vanuit het Zorginstituut Nederland waarbij therapieën die niet beter presteren dan placebo worden geschrapt.",
+      "summary": "Niet-werkzame zorg uit basisverzekering",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisverzekering",
+        "therapieën",
+        "placebo",
+        "zorginstituut"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 74",
+      "originalQuote": "Alle bewezen niet werkzame zorg gaat uit de basisverzekering. Hierin willen wij strengere selectie vanuit het Zorginstituut Nederland (ZiN), met alle therapieën die niet beter presenteren dan placebo, geschrapt."
+    },
+    {
+      "promiseCode": "BBB-2025-113",
+      "text": "Gereserveerde winsten van zorgverzekeraars moeten voor minstens de helft worden ingezet voor omstandigheden die zich plotseling voordoen zoals pandemieën.",
+      "summary": "Helft winst zorgverzekeraars voor noodsituaties",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgverzekeraars",
+        "winsten",
+        "noodsituaties",
+        "pandemie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 74",
+      "originalQuote": "(Gereserveerde) winsten van zorgverzekeraars moeten voor minstens de helft worden ingezet voor omstandigheden die zich plotseling voordoen."
+    },
+    {
+      "promiseCode": "BBB-2025-114",
+      "text": "Normering van het aantal managementfuncties zonder rechtstreekse zorgtaken op 5 procent.",
+      "summary": "Managementfuncties beperken tot 5 procent",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "managementfuncties",
+        "zorgtaken",
+        "normering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 74",
+      "originalQuote": "Normering van het aantal managementfuncties zonder rechtstreekse zorgtaken, op 5 procent."
+    },
+    {
+      "promiseCode": "BBB-2025-115",
+      "text": "Een speciaal fonds oprichten ter ondersteuning van regionale ziekenhuizen met financiële ruimte voor investeringen in personeel, voorzieningen en samenwerking.",
+      "summary": "Fonds voor regionale ziekenhuizen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fonds",
+        "ziekenhuizen",
+        "investeringen",
+        "personeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 74-75",
+      "originalQuote": "Daarom richten we een speciaal fonds op ter ondersteuning van regionale ziekenhuizen. Dit fonds biedt financiële ruimte voor noodzakelijke investeringen in personeel, voorzieningen en samenwerking."
+    },
+    {
+      "promiseCode": "BBB-2025-116",
+      "text": "De productie van medicijnen moet zoveel mogelijk worden teruggehaald naar Nederland.",
+      "summary": "Medicijnproductie terughalen naar Nederland",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "medicijnproductie",
+        "nederland",
+        "terughalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 75",
+      "originalQuote": "De productie van medicijnen moet zoveel mogelijk worden teruggehaald naar Nederland."
+    },
+    {
+      "promiseCode": "BBB-2025-117",
+      "text": "Verplichte standaardisatie van digitale gegevensuitwisseling tussen zorgaanbieders om administratieve lasten terug te dringen.",
+      "summary": "Standaardisatie digitale gegevensuitwisseling zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "standaardisatie",
+        "gegevensuitwisseling",
+        "zorgaanbieders",
+        "administratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 75",
+      "originalQuote": "Daarom zetten wij in op verplichte standaardisatie van digitale gegevensuitwisseling tussen zorgaanbieders."
+    },
+    {
+      "promiseCode": "BBB-2025-118",
+      "text": "Een stop op actieprogramma's, beleidsstukken en kwaliteitscontroleurs om wildgroei aan functies die aan de zorg werken terug te dringen.",
+      "summary": "Stop op ondersteunende functies in zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieprogramma's",
+        "beleidsstukken",
+        "kwaliteitscontroleurs",
+        "wildgroei"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 75",
+      "originalQuote": "Dit betekent in ieder geval een stop op actieprogramma's, beleidsstukken, kwaliteitscontroleurs."
+    },
+    {
+      "promiseCode": "BBB-2025-119",
+      "text": "Inkoop van zorgcontracten op het niveau van de beroepsgroep in plaats van versnipperde contractering.",
+      "summary": "Inkoop op beroepsgroepsniveau",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inkoop",
+        "contractering",
+        "beroepsgroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 76",
+      "originalQuote": "Beleg de inkoop daarom op het niveau van de beroepsgroep."
+    },
+    {
+      "promiseCode": "BBB-2025-120",
+      "text": "Een eis voor nieuwe zorgtechnologie om verschillende producten onderling aansluitbaar te maken.",
+      "summary": "Koppelingseis nieuwe zorgtechnologie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgtechnologie",
+        "koppeling",
+        "systemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 76",
+      "originalQuote": "Er is een eis nodig voor nieuwe zorgtechnologie om verschillende producten onderling aansluitbaar te maken."
+    },
+    {
+      "promiseCode": "BBB-2025-121",
+      "text": "Herstel toegang Wet langdurige zorg voor ouderen met lichte zorgzwaarte-indicatie VV2 en VV3 die sinds 2015 zijn uitgesloten.",
+      "summary": "VV2 en VV3 weer onder Wlz",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wlz",
+        "vv2",
+        "vv3",
+        "zorgzwaarte"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 77",
+      "originalQuote": "Sinds 2015 zijn ouderen met een lichte zorgzwaarte­indicatie (VV2 en VV3) uitgesloten van de Wlz. BBB wil deze toegang herstellen."
+    },
+    {
+      "promiseCode": "BBB-2025-122",
+      "text": "Een deel van de wijkverpleging overhevelen van de Zorgverzekeringswet naar de Wlz voor centralere aansturing.",
+      "summary": "Wijkverpleging naar Wlz overhevelen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkverpleging",
+        "wlz",
+        "overheveling",
+        "aansturing"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 77-78",
+      "originalQuote": "BBB wil daarom een deel van de wijkverpleging overhevelen naar de Wlz."
+    },
+    {
+      "promiseCode": "BBB-2025-123",
+      "text": "Omzetplafonds in de palliatieve zorg worden geschrapt.",
+      "summary": "Schrappen omzetplafonds palliatieve zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "omzetplafonds",
+        "palliatieve",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 78",
+      "originalQuote": "In de palliatieve zorg worden omzetplafonds geschrapt."
+    },
+    {
+      "promiseCode": "BBB-2025-124",
+      "text": "De Wet Zorg en Dwang krijgt een forse herziening waarbij de frequentie van stappenplannen en consultaties wordt gereduceerd.",
+      "summary": "Herziening Wet Zorg en Dwang",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wzd",
+        "herziening",
+        "stappenplannen",
+        "consultaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 78",
+      "originalQuote": "De WZD krijgt een forse herziening We reduceren de frequentie van de stappenplannen en consultaties."
+    },
+    {
+      "promiseCode": "BBB-2025-125",
+      "text": "Landelijke middelen structureel beschikbaar stellen aan gemeenten voor sportaccommodaties via co-financiering.",
+      "summary": "Structurele middelen sportaccommodaties",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "middelen",
+        "sportaccommodaties",
+        "co-financiering",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 78",
+      "originalQuote": "De landelijke overheid stelt structureel landelijke middelen beschikbaar aan gemeenten om zo gemeenten te ondersteunen in hun sportieve uitdagingen middels co­financiering."
+    },
+    {
+      "promiseCode": "BBB-2025-126",
+      "text": "Een stop op medische transitie voor minderjarigen totdat de richtlijnen zorgvuldig herzien zijn.",
+      "summary": "Stop medische transitie minderjarigen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "medische",
+        "transitie",
+        "minderjarigen",
+        "richtlijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 79",
+      "originalQuote": "Om deze reden willen wij een stop op medische transitie voor minderjarigen, tot de richtlijnen zorgvuldig herzien zijn."
+    },
+    {
+      "promiseCode": "BBB-2025-127",
+      "text": "BBB pleit voor kleinschalige, flexibele vervoersoplossingen zoals buurtbussen, taxi's en slimme mobiliteitsdiensten in dunbevolkte gebieden, ondersteund door digitalisering.",
+      "summary": "Kleinschalige vervoersoplossingen in dunbevolkte gebieden met digitale ondersteuning",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtbussen",
+        "taxi",
+        "mobiliteitsdiensten",
+        "dunbevolkte gebieden",
+        "digitalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 81",
+      "originalQuote": "BBB pleit voor kleinschalige, flexibele vervoersoplossingen zoals buurtbussen, taxi's of slimme mobiliteitsdiensten, ondersteund door digitalisering."
+    },
+    {
+      "promiseCode": "BBB-2025-128",
+      "text": "De auto wordt erkend als essentieel vervoermiddel in de regio, met name in krimpregio's waar anders over openbaar vervoer moet worden nagedacht.",
+      "summary": "Auto erkennen als essentieel vervoermiddel in regio's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "auto",
+        "vervoermiddel",
+        "regio",
+        "krimpregio",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 81",
+      "originalQuote": "Er zal anders moeten worden nagedacht over openbaar vervoer in krimpregio's en de auto zal als essentieel vervoermiddel in de regio worden erkend."
+    },
+    {
+      "promiseCode": "BBB-2025-129",
+      "text": "De samenleving wordt zo ingericht dat voorzieningen dichtbij zijn, zodat mensen minder hoeven te reizen.",
+      "summary": "Voorzieningen dichter bij mensen brengen om reisbehoefte te verminderen",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "voorzieningen",
+        "reisafstand",
+        "samenleving",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 81",
+      "originalQuote": "Tegelijk wil BBB dat de samenleving zo wordt ingericht dat voorzieningen dichtbij zijn, zodat mensen minder hoeven te reizen."
+    },
+    {
+      "promiseCode": "BBB-2025-130",
+      "text": "De Ontwikkelingsstrategie Grootschalige Infrastructuur wordt uitgewerkt om te bepalen welke grote infrastructurele werken de komende 50 jaar nodig zijn, inclusief Lelylijn, Oude Lijn bij Leiden, Noord Zuidlijn verlenging, IJmeerverbinding vanuit Almere en passagiersverbinding Weert-Hamont.",
+      "summary": "Uitwerking infrastructuurstrategie met concrete grote werken voor 50 jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "infrastructuur",
+        "lelylijn",
+        "noord zuidlijn",
+        "ijmeerverbinding",
+        "financieringsarrangementen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 81",
+      "originalQuote": "De uitwerking van de Ontwikkelingsstrategie Grootschalige Infrastructuur moet vaststellen welke grote infrastructurele werken de komende 50 jaar nodig zijn en de route daarnaartoe. Hierbij denkt BBB onder meer aan de Lelylijn, de Oude Lijn bij Leiden, het verlengen van de Noord Zuidlijn, de IJmeerverbinding vanuit Almere en de passagiersverbinding tussen Weert en Hamont (Antwerpen)."
+    },
+    {
+      "promiseCode": "BBB-2025-131",
+      "text": "Financieringsarrangementen worden aangepast om de benodigde grote infrastructurele werken voor de komende 50 jaar mogelijk te maken.",
+      "summary": "Aanpassing financieringsarrangementen voor grote infrastructuurwerken",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financieringsarrangementen",
+        "infrastructuur",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 81",
+      "originalQuote": "We stellen onze financieringsarrangementen daar ook op in."
+    },
+    {
+      "promiseCode": "BBB-2025-132",
+      "text": "Infrastructuurprojecten worden beoordeeld op bijdrage aan regionale economische ontwikkeling, werkgelegenheid en brede welvaart. Projecten die economische groei, woningbouw of strategische spreiding stimuleren krijgen prioriteit in financiering en uitvoering.",
+      "summary": "Infrastructuurprojecten beoordelen op economische impact en prioriteren naar effect",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infrastructuurprojecten",
+        "economische ontwikkeling",
+        "werkgelegenheid",
+        "financiering",
+        "prioriteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 82",
+      "originalQuote": "Infrastructuurprojecten worden niet alleen beoordeeld op kosten en doorlooptijd. Er wordt ook gekeken naar hun bijdrage aan (regionale) economische ontwikkeling, regionale werkgelegenheid en brede welvaart. Projecten met aantoonbare potentie om economische groei, woningbouw of strategische spreiding te stimuleren verdienen prioriteit in financiering en uitvoering."
+    },
+    {
+      "promiseCode": "BBB-2025-133",
+      "text": "Onderhoud en verbetering van het wegennet, inclusief bruggen en tunnels die aan het einde van hun levensduur zijn. Faciliteren van slimme technologieën bij wegonderhoud.",
+      "summary": "Achterstallig onderhoud infrastructuur wegwerken met slimme technologieën",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderhoud",
+        "wegennet",
+        "bruggen",
+        "tunnels",
+        "technologieën"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 82",
+      "originalQuote": "Veel bruggen, tunnels en wegen zijn aan het einde van hun levensduur. [...] Onze infrastructuur moet goed worden onderhouden. Onderhoud en verbetering van ons wegennet betekent ook faciliteren van slimme technologieën."
+    },
+    {
+      "promiseCode": "BBB-2025-134",
+      "text": "Stimuleren van meer voorzieningen voor beroepschauffeurs en binnenvaart, zoals truckparkings en op-/afstapplaatsen voor verbetering arbeidsomstandigheden.",
+      "summary": "Meer voorzieningen voor beroepschauffeurs en binnenvaart creëren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voorzieningen",
+        "beroepschauffeurs",
+        "binnenvaart",
+        "truckparkings",
+        "arbeidsomstandigheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 82",
+      "originalQuote": "We stimuleren de totstandkoming van meer voorzieningen voor beroepschauffeurs en binnenvaart, zoals truckparkings en op-/afstapplaatsen. Dit voorkomt onveilige situaties, zorgt voor rust en verbetert de arbeidsomstandigheden van deze onmisbare beroepsgroepen."
+    },
+    {
+      "promiseCode": "BBB-2025-135",
+      "text": "Waddeneilanden dag en nacht bereikbaar houden voor eilandbewoners. Bij concessieverlening rekening houden met bereikbaarheid. Watertaxi's moeten nachtelijk kunnen varen.",
+      "summary": "24-uursbereikbaarheid Waddeneilanden waarborgen inclusief nachtelijke watertaxi's",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waddeneilanden",
+        "bereikbaarheid",
+        "concessies",
+        "watertaxi",
+        "nachtelijk varen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 82",
+      "originalQuote": "De Waddeneilanden horen dag en nacht bereikbaar te zijn voor eilandbewoners. [...] Bij het verlenen van concessies wordt hiermee rekening gehouden. Watertaxi's moeten daarnaast nachtelijk kunnen varen."
+    },
+    {
+      "promiseCode": "BBB-2025-136",
+      "text": "OV-boa's krijgen meer informatiebevoegdheden om zelfstandig identiteiten vast te stellen. Hun bevoegdheden worden uitgebreid voor situaties buiten hun specifieke taakgebied.",
+      "summary": "Uitbreiding bevoegdheden OV-boa's voor identiteitsvaststelling",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ov-boa",
+        "bevoegdheden",
+        "identiteitsvaststelling",
+        "informatie",
+        "taakgebied"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 83",
+      "originalQuote": "OV-boa's krijgen meer informatiebevoegdheden om zelfstandig identiteiten vast te stellen en escalatie te voorkomen. Hun bevoegdheden worden uitgebreid voor situaties buiten hun specifieke taakgebied."
+    },
+    {
+      "promiseCode": "BBB-2025-137",
+      "text": "Snelle realisatie van de Nedersaksenlijn als spoorverbinding tussen Groningen, Emmen en Enschede voor versterking bereikbaarheid oosten en noorden Nederland.",
+      "summary": "Nedersaksenlijn tussen Groningen, Emmen en Enschede snel realiseren",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nedersaksenlijn",
+        "spoorverbinding",
+        "groningen",
+        "emmen",
+        "enschede"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 83",
+      "originalQuote": "De Nedersaksenlijn is een belangrijke spoorverbinding tussen Groningen, Emmen en Enschede. Deze lijn versterkt de bereikbaarheid van het oosten en noorden van Nederland"
+    },
+    {
+      "promiseCode": "BBB-2025-138",
+      "text": "Lelystad Airport krijgt bestemming als luchtmachtbasis op basis van militair medegebruik. Opening voor commerciële vluchten alleen als PAS-melders volledig zijn gelegaliseerd en geen laagvliegroutes komen.",
+      "summary": "Lelystad Airport militaire bestemming, commercieel pas na PAS-legalisatie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelystad airport",
+        "luchtmachtbasis",
+        "militair medegebruik",
+        "pas-melders",
+        "laagvliegroutes"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 83",
+      "originalQuote": "Lelystad Airport krijgt een bestemming als luchtmachtbasis op basis van militair medegebruik. [...] Met BBB valt pas te praten over de opening van Lelystad Airport voor commerciële vluchten als de PAS-melders volledig zijn gelegaliseerd en er geen laagvliegroutes komen"
+    },
+    {
+      "promiseCode": "BBB-2025-139",
+      "text": "Onderzoeken van mogelijkheden om vliegveld Den Helder de status van luchthaven van nationaal belang te geven vanwege rol bij offshore-energievoorziening en veiligheidstaken.",
+      "summary": "Status luchthaven nationaal belang voor vliegveld Den Helder onderzoeken",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vliegveld den helder",
+        "nationaal belang",
+        "offshore-energievoorziening",
+        "veiligheidstaken",
+        "status"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 83",
+      "originalQuote": "BBB wil de mogelijkheden onderzoeken om het vliegveld bij Den Helder de status van luchthaven van nationaal belang te geven. De luchthaven speelt een cruciale rol in de ondersteuning van de offshore-energievoorziening op de Noordzee"
+    },
+    {
+      "promiseCode": "BBB-2025-140",
+      "text": "Landelijk verbod op zero-emissie zones om lokale ondernemers te beschermen tegen onrendabele uitgaven en bevoorradingsproblemen.",
+      "summary": "Landelijk verbod zero-emissie zones ter bescherming ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "zero-emissie zones",
+        "ondernemers",
+        "binnensteden",
+        "bevoorradiing"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 84",
+      "originalQuote": "Er komt een landelijk verbod op Zero-emissie zones om lokale ondernemers te beschermen."
+    },
+    {
+      "promiseCode": "BBB-2025-141",
+      "text": "Overkoepelende visie ontwikkelen voor investeringen in ondergrondse buisleidingen voor transport van CO₂, waterstof en ammoniak waarbij verschillende transitiepaden worden afgestemd.",
+      "summary": "Overkoepelende visie ondergrondse buisleidingen CO₂, waterstof, ammoniak",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buisleidingen",
+        "co₂",
+        "waterstof",
+        "ammoniak",
+        "transitiepaden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 85",
+      "originalQuote": "Er komt een overkoepelende visie waarbij de verschillende transitiepaden met elkaar in lijn worden gebracht zodat de markt weet waarop geanticipeerd kan worden."
+    },
+    {
+      "promiseCode": "BBB-2025-142",
+      "text": "BBB wil het ingroeipad naar 3,5% BBP voor defensie-uitgaven in 2035 als uitgangspunt nemen, met een structurele intensivering van ruim zes miljard euro in 2030.",
+      "summary": "Defensie-uitgaven naar 3,5% BBP in 2035, +6 miljard euro in 2030",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "bbp",
+        "intensivering",
+        "ingroeipad",
+        "krijgsmacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 87",
+      "originalQuote": "In dat kader is BBB bereid om het door het CPB geschetste ingroeipad naar 3,5% BBP in 2035 als uitgangspunt te nemen, waarbij we ons in de komende kabinetsperiode conformeren aan een structurele intensivering van ruim zes miljard euro in 2030."
+    },
+    {
+      "promiseCode": "BBB-2025-143",
+      "text": "Investeringen in defensie moeten bijdragen aan operationele slagkracht, gereedheid, innovatief vermogen en munitievoorraden van de Nederlandse krijgsmacht.",
+      "summary": "Investeren in operationele slagkracht, gereedheid en munitievoorraden",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "slagkracht",
+        "gereedheid",
+        "munitievoorraden",
+        "innovatie",
+        "defensie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 87",
+      "originalQuote": "Operationele slagkracht, gereedheid innovatief vermogen en munitievoorraden;"
+    },
+    {
+      "promiseCode": "BBB-2025-144",
+      "text": "BBB wil de Nederlandse defensie-industrie versterken en de strategische autonomie vergroten door gerichte investeringen.",
+      "summary": "Versterking defensie-industrie en strategische autonomie",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensie-industrie",
+        "strategische autonomie",
+        "versterking",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 87",
+      "originalQuote": "Versterking van de Nederlandse defensie­industrie en strategische autonomie;"
+    },
+    {
+      "promiseCode": "BBB-2025-145",
+      "text": "Investeringen in infrastructuur die ook civiele weerbaarheid vergroot, zoals spoor en logistiek, worden onderdeel van het defensiebeleid.",
+      "summary": "Investeren in infrastructuur voor civiele weerbaarheid",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "infrastructuur",
+        "weerbaarheid",
+        "spoor",
+        "logistiek",
+        "civiel"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 87",
+      "originalQuote": "Infrastructuur die ook civiele weerbaarheid vergroot (zoals spoor en logistiek);"
+    },
+    {
+      "promiseCode": "BBB-2025-146",
+      "text": "Nederland versterkt militaire samenwerking met de Verenigde Staten en biedt actieve steun aan de zelfverdediging van Oekraïne en Israël.",
+      "summary": "Versterking militaire samenwerking VS, steun Oekraïne en Israël",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "militaire samenwerking",
+        "verenigde staten",
+        "oekraïne",
+        "israël",
+        "zelfverdediging"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 88",
+      "originalQuote": "Nederland versterkt de militaire samenwerking met de Verenigde Staten. En we bieden actieve steun aan de zelfverdediging van Oekraïne en Israël."
+    },
+    {
+      "promiseCode": "BBB-2025-147",
+      "text": "Intensivering van militaire samenwerking met Taiwan en voortzetting van het varen door de Straat van Taiwan met marineschepen.",
+      "summary": "Intensivering militaire samenwerking Taiwan, varen door Straat Taiwan",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "militaire samenwerking",
+        "taiwan",
+        "straat taiwan",
+        "marineschepen",
+        "chipproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 88",
+      "originalQuote": "Intensiveren militaire samenwerking Taiwan. Taiwan staat in de frontlinie tegen een agressief en communistisch China en is belangrijk voor onze eigen chipproductie. Wij intensiveren onze militaire samenwerking en blijven door de Straat van Taiwan varen met marineschepen."
+    },
+    {
+      "promiseCode": "BBB-2025-148",
+      "text": "Nederland zal permanent een volledige brigade positioneren in Polen of Litouwen om geoefendheid en NAVO-geloofwaardigheid te vergroten.",
+      "summary": "Permanente positionering Nederlandse brigade in Polen of Litouwen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "brigade",
+        "polen",
+        "litouwen",
+        "navo",
+        "permanente positionering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 88",
+      "originalQuote": "Om de geoefendheid van onze eenheden en geloofwaardigheid binnen de NAVO te vergroten zal Nederland een volledige brigade permanent in Polen of Litouwen positioneren."
+    },
+    {
+      "promiseCode": "BBB-2025-149",
+      "text": "Nederland gaat over tot aanschaf van een tweede tankbataljon geïntegreerd met onbemande systemen voor versterking van de landmacht.",
+      "summary": "Aanschaf tweede tankbataljon met onbemande systemen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tankbataljon",
+        "onbemande systemen",
+        "landmacht",
+        "slagkracht",
+        "technologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 88",
+      "originalQuote": "Nederland zal overgaan op aanschaf van een tweede tankbataljon diep geïntegreerd met onbemande systemen, wezenlijk voor de slagkracht van onze landmacht en onze bijdrage aan de NAVO."
+    },
+    {
+      "promiseCode": "BBB-2025-150",
+      "text": "Investering in geavanceerde drone carriers, volwaardig drone-ecosysteem en luchtafweermiddelen tegen drones.",
+      "summary": "Investering drone carriers, drone-ecosysteem en luchtafweermiddelen",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drone carriers",
+        "drone-ecosysteem",
+        "luchtafweermiddelen",
+        "maritieme slagkracht",
+        "inzetbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 88-89",
+      "originalQuote": "Daarom wordt geïnvesteerd in geavanceerde drone carriers, die onze maritieme slagkracht en inzetbaarheid over de hele wereld vergroten. Nederland beschikt verder over een volwaardig drone-ecosysteem en investeert in luchtafweermiddelen tegen drones."
+    },
+    {
+      "promiseCode": "BBB-2025-151",
+      "text": "Omvorming van reservisten naar een volwaardige Nationale Garde, georganiseerd in provinciale eenheden met versterkte rechtspositie.",
+      "summary": "Omvorming reservisten naar Nationale Garde in provinciale eenheden",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale garde",
+        "reservisten",
+        "provinciale eenheden",
+        "rechtspositie",
+        "parttime militairen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 89",
+      "originalQuote": "De term 'reservist' doet geen recht aan de onmisbare inzet van deze parttime militairen, we vormen dit dan ook om, naar een volwaardige Nationale Garde. Deze wordt georganiseerd in provinciale eenheden waarbij de rechtspositie van reservisten sterk wordt geborgd."
+    },
+    {
+      "promiseCode": "BBB-2025-152",
+      "text": "Invoering van een vrijwillige Minor Defensie voor alle MBO-, HBO- en WO-studenten: een halfjaar dienst met vergoeding en studiepunten.",
+      "summary": "Minor Defensie: halfjaar vrijwillige dienst studenten met vergoeding",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minor defensie",
+        "studenten",
+        "halfjaar dienst",
+        "vergoeding",
+        "studiepunten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 89",
+      "originalQuote": "Alle studenten (MBO, HBO, WO) krijgen de mogelijkheid tot een vrijwillig halfjaar in dienst, met vergoeding en erkende studiepunten (ECT's)."
+    },
+    {
+      "promiseCode": "BBB-2025-153",
+      "text": "Oprichting van een landelijk moral injury expertisecentrum voor onderzoek, preventie en behandeling van veteranen.",
+      "summary": "Oprichting landelijk moral injury expertisecentrum voor veteranen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "moral injury expertisecentrum",
+        "veteranen",
+        "onderzoek",
+        "preventie",
+        "behandeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 89",
+      "originalQuote": "Een landelijk zogenoemd 'moral injury expertisecentrum' wordt opgericht dat onderzoek, kennis, preventie en behandeling integraal bekijkt."
+    },
+    {
+      "promiseCode": "BBB-2025-154",
+      "text": "Uitbreiding van Veteranendag met een volwaardige militaire parade naast versterking van inloophuizen en veteranencentra.",
+      "summary": "Uitbreiding Veteranendag met militaire parade, versterking veteranencentra",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veteranendag",
+        "militaire parade",
+        "veteranencentra",
+        "inloophuizen",
+        "gemeentelijke initiatieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 89",
+      "originalQuote": "Inloophuizen, veteranencentra en lokale en gemeentelijke initiatieven worden gefaciliteerd en versterkt. De viering van Veteranendag breiden we uit met een volwaardige militaire parade."
+    },
+    {
+      "promiseCode": "BBB-2025-155",
+      "text": "Terugdraaien van de krimp van het Marineterrein in Amsterdam en herstel van volledig militaire functie voor meer militairen in de Randstad.",
+      "summary": "Terugdraaien krimp Marineterrein Amsterdam, volledig militaire functie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "marineterrein",
+        "amsterdam",
+        "militaire functie",
+        "randstad",
+        "weerbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 89",
+      "originalQuote": "De krimp van het Marineterrein in Amsterdam wordt dan ook teruggedraaid en het terrein krijgt een volledig militaire functie. Meer militairen in het straatbeeld van de Randstad verhoogt de weerbaarheid van Nederlanders in onze grote steden."
+    },
+    {
+      "promiseCode": "BBB-2025-156",
+      "text": "Oprichting van een nationale medische reserve ter versterking van het zorgsysteem voor veiligheidsdoeleinden.",
+      "summary": "Oprichting nationale medische reserve ter versterking zorgsysteem",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale medische reserve",
+        "zorgsysteem",
+        "veiligheid",
+        "weerbaarheid",
+        "rampenbestrijding"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 90",
+      "originalQuote": "Tegelijkertijd wordt het zorgsysteem versterkt door de oprichting van een nationale medische reserve."
+    },
+    {
+      "promiseCode": "BBB-2025-157",
+      "text": "Invoering van een Wet Strategische Defensieproductie waarbij minimaal 50% van defensiematerieel-uitgaven in Nederland moet landen.",
+      "summary": "Wet Strategische Defensieproductie: 50% uitgaven in Nederland",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet strategische defensieproductie",
+        "defensiematerieel",
+        "nederlandse industrie",
+        "aanbestedingen",
+        "50 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 90",
+      "originalQuote": "Een Wet Strategische Defensieproductie (WSDP), waarin we vastleggen dat minimaal 50 procent van de Defensiematerieel-uitgaven uiteindelijk in Nederland moet landen."
+    },
+    {
+      "promiseCode": "BBB-2025-158",
+      "text": "Oprichting van een one-stop-shop loket voor defensie-industrie ter ondersteuning van bedrijven bij aanbestedingen en subsidietrajecten.",
+      "summary": "One-stop-shop loket defensie-industrie voor bedrijfsondersteuning",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "one-stop-shop",
+        "defensie-industrie",
+        "aanbestedingen",
+        "subsidietrajecten",
+        "ondernemingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 90",
+      "originalQuote": "Om bedrijven hierbij te ondersteunen komt er een 'one-stop-shop' loket voor defensie-industrie. Dit loket begeleidt ondernemingen bij aanbestedingen, subsidietrajecten en partnerschappen."
+    },
+    {
+      "promiseCode": "BBB-2025-159",
+      "text": "Volledige afbouw van alle afhankelijkheden van Rusland, China en gelieerde landen in de voedselketen.",
+      "summary": "Volledige afbouw voedselafhankelijkheden Rusland, China en gelieerden",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voedselketen",
+        "afhankelijkheden",
+        "rusland",
+        "china",
+        "voedselonafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 91",
+      "originalQuote": "We bouwen op termijn alle afhankelijkheden van Rusland, China en gelieerde landen in de voedselketen volledig af."
+    },
+    {
+      "promiseCode": "BBB-2025-160",
+      "text": "BBB wil de politie zichtbaar en bereikbaar maken in alle wijken en dorpen van Nederland door een sterke, goed uitgeruste en toegankelijke politieorganisatie.",
+      "summary": "Politie zichtbaar en bereikbaar maken in alle wijken en dorpen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politie",
+        "zichtbaarheid",
+        "bereikbaarheid",
+        "wijken",
+        "dorpen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 93",
+      "originalQuote": "BBB staat voor een sterke, goed uitgeruste en toegankelijke politie die zichtbaar en bereikbaar is in alle wijken en dorpen van Nederland."
+    },
+    {
+      "promiseCode": "BBB-2025-161",
+      "text": "BBB wil neutrale uniformdragers waarbij politie en andere publieke uniformberoepen geen zichtbare uitingen van politieke of religieuze overtuiging mogen tonen.",
+      "summary": "Neutrale uniformdragers zonder politieke/religieuze uitingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uniformdragers",
+        "politie",
+        "neutraliteit",
+        "religieuze uitingen",
+        "politieke overtuiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 93",
+      "originalQuote": "In de uitstraling van de politie en andere publieke uniformberoepen verwachten we een neutrale opstelling. Dat betekent dat er geen ruimte is voor zichtbare uitingen van politieke of religieuze overtuiging."
+    },
+    {
+      "promiseCode": "BBB-2025-162",
+      "text": "BBB wil inzetten op het aantrekken van meer vrijwillige brandweermannen en -vrouwen om de vrijwillige brandweer te behouden en versterken.",
+      "summary": "Meer vrijwillige brandweerlieden aantrekken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijwillige brandweer",
+        "brandweermannen",
+        "brandweervrouwen",
+        "versterking",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 93",
+      "originalQuote": "We zetten in op het aantrekken van meer vrijwillige brandweermannen en ­vrouwen. De vrijwillige brandweer bestaat (vaak) uit jonge gemotiveerde mensen die zich willen inzetten voor de veiligheid van Nederland. Dit moeten wij behouden en versterken."
+    },
+    {
+      "promiseCode": "BBB-2025-163",
+      "text": "Het sluiten van brandweerkazernes waar mogelijk voorkomen om de bereikbaarheid op peil te houden.",
+      "summary": "Sluiting brandweerkazernes voorkomen voor bereikbaarheid",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandweerkazernes",
+        "bereikbaarheid",
+        "aanrijtijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 94",
+      "originalQuote": "We willen het sluiten van brandweerkazernes waar mogelijk voorkomen om de bereikbaarheid op peil te houden."
+    },
+    {
+      "promiseCode": "BBB-2025-164",
+      "text": "Videobellen met alle meldkamers in Nederland mogelijk maken en de 112 app beter onder de aandacht brengen.",
+      "summary": "Videobellen meldkamers mogelijk maken en 112 app promoten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meldkamers",
+        "videobellen",
+        "112-app",
+        "communicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 94",
+      "originalQuote": "We willen daarom videobellen met alle meldkamers in Nederland mogelijk maken en de 112 app beter onder de aandacht brengen"
+    },
+    {
+      "promiseCode": "BBB-2025-165",
+      "text": "Verwarde personen problematiek onderbrengen bij de Geestelijke Gezondheidszorg (GGZ) in plaats van bij de politie.",
+      "summary": "Verwarde personen naar GGZ in plaats van politie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verwarde-personen",
+        "ggz",
+        "geestelijke-gezondheidszorg",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 94",
+      "originalQuote": "We willen de verwarde personen problematiek onderbrengen bij de juiste instanties. Deze problematiek hoort niet primair bij de politie, maar bij de Geestelijke Gezondheidszorg (GGZ)."
+    },
+    {
+      "promiseCode": "BBB-2025-166",
+      "text": "Diversiteit en quota afschaffen bij de werving van nieuwe politiekrachten en selectie laten plaatsvinden op basis van kwaliteiten en geschiktheid.",
+      "summary": "Diversiteit en quota afschaffen bij politiewerving",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diversiteit",
+        "quota",
+        "politiekrachten",
+        "werving",
+        "kwaliteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 94",
+      "originalQuote": "We willen diversiteit en quota afschaffen bij de werving van nieuwe politiekrachten en selectie laten plaatsvinden op basis van kwaliteiten en geschiktheid."
+    },
+    {
+      "promiseCode": "BBB-2025-167",
+      "text": "Artikel 3:305a BW wijzigen zodat alleen direct belanghebbenden in recht kunnen opkomen tegen overheidsbesluiten.",
+      "summary": "Beperken rechtszaken door wijziging artikel 3:305a BW",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel-3:305a-bw",
+        "belanghebbenden",
+        "overheidsbesluiten",
+        "rechtszaken"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 94",
+      "originalQuote": "BBB wil artikel 3:305a BW wijzigen zodat alleen direct belanghebbenden in recht kunnen opkomen tegen overheidsbesluiten."
+    },
+    {
+      "promiseCode": "BBB-2025-168",
+      "text": "Barrières in privacywetgeving wegaal voor informatie-uitwisseling bij zware criminaliteit en beperken gebruik communicatiemiddelen van gedetineerden.",
+      "summary": "Privacybarrières weg voor informatie-uitwisseling criminaliteit",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "privacywetgeving",
+        "informatie-uitwisseling",
+        "zware-criminaliteit",
+        "gedetineerden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 94",
+      "originalQuote": "We halen barrières in privacywetgeving weg voor informatie uitwisseling voor die zaken die gerelateerd zijn aan zware criminaliteit en beperken het gebruik van communicatiemiddelen van gedetineerden."
+    },
+    {
+      "promiseCode": "BBB-2025-169",
+      "text": "Anti-maffia wetgeving invoeren naar Italiaans voorbeeld om crimineel vermogen van families van criminelen af te pakken.",
+      "summary": "Anti-maffia wetgeving naar Italiaans voorbeeld invoeren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "anti-maffia-wetgeving",
+        "crimineel-vermogen",
+        "families",
+        "italië"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "Er komt anti-maffia wetgeving waarbij we naar Italiaans voorbeeld de mogelijkheden om crimineel vermogen van families van criminelen af te pakken, uitbreiden."
+    },
+    {
+      "promiseCode": "BBB-2025-170",
+      "text": "De inzet van kroongetuigen verbeteren en versterken als opsporingsmiddel bij het oprollen van criminele netwerken.",
+      "summary": "Inzet kroongetuigen verbeteren en versterken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kroongetuigen",
+        "opsporingsmiddel",
+        "criminele-netwerken"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "We verbeteren en versterken de inzet van kroongetuigen als opsporingsmiddel."
+    },
+    {
+      "promiseCode": "BBB-2025-171",
+      "text": "Meer inzet van drones in het buitengebied mogelijk maken om zichtbaarheid en slagkracht van de politie te vergroten.",
+      "summary": "Meer inzet van drones in buitengebied voor politie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drones",
+        "buitengebied",
+        "politie",
+        "zichtbaarheid",
+        "slagkracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "Daarom willen we meer inzet van drones in het buitengebied mogelijk maken, zodat de zichtbaarheid en slagkracht van de politie, ook op plekken waar afstand een rol speelt, wordt vergroot."
+    },
+    {
+      "promiseCode": "BBB-2025-172",
+      "text": "Geheime diensten bevoegdheden geven om economische (contra-)inlichtingen te verwerven naar Frans voorbeeld.",
+      "summary": "Bevoegdheden geheime diensten voor economische inlichtingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geheime-diensten",
+        "economische-inlichtingen",
+        "contra-inlichtingen",
+        "frankrijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "We geven onze geheime diensten de bevoegdheden om Nederland en haar kennis en kunde te beschermen en vooruit te helpen middels het verwerven van economische (contra-) inlichtingen, zoals bijvoorbeeld Frankrijk dat ook doet."
+    },
+    {
+      "promiseCode": "BBB-2025-173",
+      "text": "De bevoegdheid preventief fouilleren uitbreiden met juridische waarborgen om wapenbezit tegen te gaan.",
+      "summary": "Bevoegdheid preventief fouilleren uitbreiden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventief-fouilleren",
+        "wapenbezit",
+        "juridische-waarborgen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "De bevoegdheid preventief fouilleren wordt - met de nodige juridische waarborgen - uitgebreid."
+    },
+    {
+      "promiseCode": "BBB-2025-174",
+      "text": "Gevangenen in zwaarste beveiligingsregimes (EBI/AIT) standaard rechtszittingen laten bijwonen via videoverbinding.",
+      "summary": "Zittingen op afstand voor zwaarst beveiligde gevangenen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ebi",
+        "ait",
+        "rechtszittingen",
+        "videoverbinding",
+        "gedetineerden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "BBB wil dat deze gedetineerden hun rechtszittingen standaard op afstand bijwonen via videoverbinding."
+    },
+    {
+      "promiseCode": "BBB-2025-175",
+      "text": "Een taakstrafverbod invoeren bij geweld tegen hulpverleners en verplichting tot tbs-behandeling bij zedenmisdrijven.",
+      "summary": "Taakstrafverbod geweld hulpverleners en verplichte tbs zeden",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstrafverbod",
+        "hulpverleners",
+        "tbs-behandeling",
+        "zedenmisdrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 95",
+      "originalQuote": "Ook willen we een taakstrafverbod invoeren bij geweld tegen hulpverleners. Bij zedenmisdrijven worden veroordeelden verplicht om mee te werken aan tbs-behandeling."
+    },
+    {
+      "promiseCode": "BBB-2025-176",
+      "text": "Meer tweepersoonscellen creëren waar veilig mogelijk en dag- en werkprogramma's inkorten om personeelstekorten op te lossen.",
+      "summary": "Meer tweepersoonscellen en kortere programma's gevangenis",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tweepersoonscellen",
+        "werkprogramma",
+        "personeelstekorten",
+        "gevangeniswezen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 96",
+      "originalQuote": "Om de personeelstekorten op te lossen, gaan we meer tweepersoonscellen creëren waar dat veilig kan en we gaan dag- en werkprogramma's inkorten."
+    },
+    {
+      "promiseCode": "BBB-2025-177",
+      "text": "Verbod op gezichtsbedekking bij demonstraties invoeren in het kader van handhaving.",
+      "summary": "Verbod gezichtsbedekking bij demonstraties",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezichtsbedekking",
+        "demonstraties",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 96",
+      "originalQuote": "We accepteren in het kader van handhaving geen bedekking van het gezicht bij demonstraties."
+    },
+    {
+      "promiseCode": "BBB-2025-178",
+      "text": "Opruim- en reinigingskosten van demonstraties verhalen op de organisatie van de demonstratie.",
+      "summary": "Schade demonstraties verhalen op organisatoren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opruimkosten",
+        "reinigingskosten",
+        "demonstratie",
+        "organisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 96",
+      "originalQuote": "we onderzoeken of de opruim- en reinigingskosten kunnen worden verhaald op de organisatie van de demonstratie."
+    },
+    {
+      "promiseCode": "BBB-2025-179",
+      "text": "Publieke en vitale digitale netwerken blijven zoveel mogelijk in bezit van Nederlandse of Europese bedrijven of samenwerkingsverbanden om strategische kwetsbaarheid te voorkomen.",
+      "summary": "Vitale digitale infrastructuur in Nederlands/Europees bezit houden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vitale infrastructuur",
+        "digitale netwerken",
+        "nederlandse bedrijven",
+        "europese bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 98",
+      "originalQuote": "Vitale infrastructuur in eigen beheer. Publieke en vitale digitale netwerken blijven zoveel mogelijk in bezit van Nederlandse of Europese bedrijven of samenwerkingsverbanden."
+    },
+    {
+      "promiseCode": "BBB-2025-180",
+      "text": "Overheidsdata en privacygevoelige informatie worden opgeslagen bij Nederlandse of Europese partijen die de hoogste beveiligingsnormen hanteren.",
+      "summary": "Overheidsdata opslaan bij Nederlandse/Europese partijen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidsdata",
+        "privacygevoelige informatie",
+        "nederlandse partijen",
+        "beveiligingsnormen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 98",
+      "originalQuote": "Publieke data nationaal beschermen. Overheidsdata en privacygevoelige informatie worden opgeslagen bij Nederlandse of Europese partijen die de hoogste beveiligingsnormen hanteren."
+    },
+    {
+      "promiseCode": "BBB-2025-181",
+      "text": "Afhankelijkheid van buitenlandse cloud- en softwareleveranciers wordt waar mogelijk stap voor stap afgebouwd om zelfredzaamheid te vergroten.",
+      "summary": "Afhankelijkheid buitenlandse cloud/software stap voor stap afbouwen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenlandse leveranciers",
+        "cloud",
+        "software",
+        "zelfredzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 98",
+      "originalQuote": "Zelfredzaamheid vergroten. Afhankelijkheid van buitenlandse cloud- en software leveranciers wordt waar mogelijk stap voor stap afgebouwd."
+    },
+    {
+      "promiseCode": "BBB-2025-182",
+      "text": "De overheid kiest als launching customer actief voor innovatieve Nederlandse bedrijven en kennisinstellingen bij digitaliseringsprojecten.",
+      "summary": "Overheid kiest actief voor Nederlandse bedrijven bij digitalisering",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "launching customer",
+        "nederlandse bedrijven",
+        "kennisinstellingen",
+        "digitaliseringsprojecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 98",
+      "originalQuote": "Actieve keuze voor Nederlandse bedrijven bij digitaliseringsprojecten. De overheid kiest als \"launching customer\" actief voor innovatieve Nederlandse bedrijven en kennisinstellingen bij digitaliseringsprojecten."
+    },
+    {
+      "promiseCode": "BBB-2025-183",
+      "text": "Nieuwe overheidsprojecten maken waar mogelijk gebruik van open source-software en open standaarden om kosten te drukken en applicaties inzetbaar te maken op meerdere overheidslagen.",
+      "summary": "Nieuwe overheidsprojecten gebruiken open source en open standaarden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidsprojecten",
+        "open source",
+        "open standaarden",
+        "kostenreductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 98",
+      "originalQuote": "Standaard open source en open standaarden. Nieuwe overheidsprojecten maken waar mogelijk gebruik van open source-software en open standaarden om kosten te drukken en applicaties inzetbaar te maken op meerdere overheidslagen."
+    },
+    {
+      "promiseCode": "BBB-2025-184",
+      "text": "Nederlandse cybersecurity bedrijven krijgen voorrang bij veiligheidsprojecten en digitale bewaking van publieke sectoren.",
+      "summary": "Nederlandse cybersecurity bedrijven krijgen voorrang bij overheidsopdrachten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cybersecurity",
+        "bedrijven",
+        "voorrang",
+        "veiligheidsprojecten",
+        "publieke sectoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 100",
+      "originalQuote": "Nederlandse cybersecurity bedrijven krijgen voorrang bij veiligheidsprojecten en digitale bewaking van publieke sectoren."
+    },
+    {
+      "promiseCode": "BBB-2025-185",
+      "text": "Voorlichting en onderwijs over cyberveiligheid begint op de basisschool en loopt door tot het beroepsonderwijs en bijscholing voor ondernemers.",
+      "summary": "Cyberveiligheid onderwijs vanaf basisschool tot beroepsonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cyberveiligheid",
+        "onderwijs",
+        "basisschool",
+        "beroepsonderwijs",
+        "bijscholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 100",
+      "originalQuote": "Voorlichting en onderwijs over cyberveiligheid begint op de basisschool en loopt door tot het beroepsonderwijs en bijscholing voor ondernemers."
+    },
+    {
+      "promiseCode": "BBB-2025-186",
+      "text": "Europese wetgeving zoals de NIS2 wordt zonder nationale koppen omgezet naar Nederlandse wetgeving.",
+      "summary": "NIS2 wetgeving omzetten zonder nationale koppen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nis2",
+        "wetgeving",
+        "nationale koppen",
+        "omzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 100",
+      "originalQuote": "Europese wetgeving zoals de NIS2 wordt zonder nationale koppen omgezet naar Nederlandse wetgeving."
+    },
+    {
+      "promiseCode": "BBB-2025-187",
+      "text": "Het zonder toestemming maken of verspreiden van deepfakes wordt wettelijk verboden en bestraft.",
+      "summary": "Illegale deepfakes wettelijk verbieden en bestraffen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deepfakes",
+        "verbod",
+        "bestraffing",
+        "wetgeving",
+        "toestemming"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "Het zonder toestemming maken of verspreiden van deepfakes wordt wettelijk verboden en bestraft."
+    },
+    {
+      "promiseCode": "BBB-2025-188",
+      "text": "Digitale grondrechten verankeren in de Grondwet om de privacy, zeggenschap en autonomie van burgers in het digitale domein te waarborgen.",
+      "summary": "Digitale grondrechten opnemen in de Grondwet",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale grondrechten",
+        "grondwet",
+        "privacy",
+        "autonomie",
+        "burgers"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "Veranker digitale grondrechten in de Grondwet om de privacy, zeggenschap en autonomie van burgers in het digitale domein te waarborgen."
+    },
+    {
+      "promiseCode": "BBB-2025-189",
+      "text": "Het gebruik van gezichtsherkenning en andere surveillance in de publieke ruimte beperken of verbieden zonder expliciete wetgeving en strikt toezicht.",
+      "summary": "Gezichtsherkenning in publieke ruimte beperken of verbieden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezichtsherkenning",
+        "surveillance",
+        "publieke ruimte",
+        "wetgeving",
+        "toezicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "Beperk of verbied het gebruik van gezichtsherkenning en andere surveillance in de publieke ruimte zonder expliciete wetgeving en strikt toezicht."
+    },
+    {
+      "promiseCode": "BBB-2025-190",
+      "text": "Alle digitale loketten zijn begrijpelijk, veilig en toegankelijk voor iedere Nederlander, waarbij publieke en semipublieke digitale diensten 100% toegankelijk zijn voor mensen met een beperking conform de WCAG-richtlijnen.",
+      "summary": "100% toegankelijke digitale overheidsdiensten conform WCAG-richtlijnen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale loketten",
+        "toegankelijkheid",
+        "wcag-richtlijnen",
+        "beperking",
+        "overheidsdiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "Alle digitale loketten zijn begrijpelijk, veilig en toegankelijk voor iedere Nederlander, waarbij publieke en semipublieke digitale diensten 100% toegankelijk zijn voor mensen met een beperking conform de WCAG-richtlijnen."
+    },
+    {
+      "promiseCode": "BBB-2025-191",
+      "text": "De Nederlandse Digitalisering Strategie (NDS) wordt zo snel mogelijk uitgevoerd binnen de overheid om de overheid voor te bereiden op toekomstige digitale vraagstukken.",
+      "summary": "Nederlandse Digitalisering Strategie zo snel mogelijk uitvoeren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlandse digitalisering strategie",
+        "nds",
+        "uitvoering",
+        "overheid",
+        "digitalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "De Nederlandse Digitalisering Strategie (NDS). De NDS wordt zo snel mogelijk uitgevoerd binnen de overheid. Om de overheid voor te bereiden op toekomstige digitale vraagstukken."
+    },
+    {
+      "promiseCode": "BBB-2025-192",
+      "text": "Nederlandse bedrijven en kennisinstellingen krijgen voorrang bij aanbestedingen van de overheid.",
+      "summary": "Nederlandse bedrijven voorrang bij overheidsaanbestedingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlandse bedrijven",
+        "kennisinstellingen",
+        "voorrang",
+        "aanbestedingen",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "Nederlandse bedrijven en kennisinstellingen krijgen voorrang bij aanbestedingen van de overheid."
+    },
+    {
+      "promiseCode": "BBB-2025-193",
+      "text": "De oprichting van een Nationale Investeringsbank onderzoeken om innovatie te stimuleren door nationale investeringen.",
+      "summary": "Oprichting Nationale Investeringsbank onderzoeken voor innovatie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale investeringsbank",
+        "oprichting",
+        "innovatie",
+        "investeringen",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "We stimuleren innovatie door nationale investeringen, BBB wil hiervoor de oprichting van een Nationale Investeringsbank onderzoeken."
+    },
+    {
+      "promiseCode": "BBB-2025-194",
+      "text": "Nederland investeert via Defensie structureel in de ontwikkeling van het Nederlandse AI-netwerk waaronder de AI-fabriek in Groningen en lokale AI-hubs.",
+      "summary": "Structurele investering in Nederlands AI-netwerk via Defensie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ai-netwerk",
+        "defensie",
+        "ai-fabriek",
+        "groningen",
+        "ai-hubs"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 101",
+      "originalQuote": "Nederland investeert via Defensie structureel in de ontwikkeling van het Nederlandse AI-netwerk waaronder de AI-fabriek in Groningen en lokale AI-hubs."
+    },
+    {
+      "promiseCode": "BBB-2025-195",
+      "text": "Onderwijsinstellingen krijgen duidelijke structurele financiering voor taken die ertoe doen, waarbij financiering van onnodige administratieve bezigheden wordt stopgezet. Geld moet zoveel mogelijk landen in de klas.",
+      "summary": "Structurele financiering onderwijs, minder geld naar administratie, meer naar de klas",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "structurele financiering",
+        "onderwijsinstellingen",
+        "administratie",
+        "klaslokaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 103",
+      "originalQuote": "Onderwijsinstellingen hebben, naast verlagen van de regeldruk, een duidelijke structurele financiering nodig voor taken die ertoe doen. Het moet afgelopen zijn met de financiering van onnodige administratieve bezigheden. Uitgaande van de langetermijndoelen. Geld moet zoveel mogelijk landen in de klas."
+    },
+    {
+      "promiseCode": "BBB-2025-196",
+      "text": "Er komt meer balans tussen fundamenteel en praktijkgericht onderzoek, met versterking van hogescholen, praktijkgerichte lectoraten en regionale kenniscentra.",
+      "summary": "Meer balans tussen fundamenteel en praktijkgericht onderzoek",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fundamenteel onderzoek",
+        "praktijkgericht onderzoek",
+        "hogescholen",
+        "lectoraten",
+        "kenniscentra"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 103",
+      "originalQuote": "Wij willen dat er meer balans komt tussen fundamenteel en praktijkgericht onderzoek. Onderzoekers verdienen ruimte om vrij te denken én om samen te werken met de regio. Daarom zet BBB in op versterking van hogescholen, praktijkgerichte lectoraten en regionale kenniscentra."
+    },
+    {
+      "promiseCode": "BBB-2025-197",
+      "text": "Wetenschapsfinanciering wordt eenvoudiger met minder bureaucratie en meer langjarige zekerheid, zodat wetenschappers minder tijd kwijt zijn aan aanvragen schrijven.",
+      "summary": "Eenvoudigere wetenschapsfinanciering met langjarige zekerheid",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetenschapsfinanciering",
+        "bureaucratie",
+        "langjarige zekerheid",
+        "aanvragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 103",
+      "originalQuote": "Ook binnen wetenschapsfinanciering pleit BBB voor eenvoud, minder bureaucratie en meer langjarige zekerheid. Wetenschappers moeten minder tijd kwijt zijn aan het schrijven van aanvragen en meer tijd kunnen besteden aan hun vak."
+    },
+    {
+      "promiseCode": "BBB-2025-198",
+      "text": "Er komt meer aandacht voor sociale veiligheid, verschil in opvattingen en vrijheid van meningsuiting binnen de academische wereld, zodat studenten en docenten zich veilig voelen om te spreken en van mening te verschillen.",
+      "summary": "Meer sociale veiligheid en vrijheid van meningsuiting op universiteiten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale veiligheid",
+        "meningsuiting",
+        "academische vrijheid",
+        "universiteiten",
+        "studenten",
+        "docenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 103",
+      "originalQuote": "Tot slot wil BBB dat er meer aandacht komt voor sociale veiligheid, verschil in opvattingen en de vrijheid van meningsuiting binnen de academische wereld. Universiteiten horen plekken te zijn waar studenten en docenten zich veilig voelen om te spreken, te twijfelen en van mening te verschillen."
+    },
+    {
+      "promiseCode": "BBB-2025-199",
+      "text": "Meer aandacht voor lezen, schrijven en rekenen op basisscholen en in het voortgezet onderwijs en verankering van digitale vaardigheden in het curriculum.",
+      "summary": "Meer aandacht voor kernvakken lezen, schrijven, rekenen en digitale vaardigheden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lezen",
+        "schrijven",
+        "rekenen",
+        "digitale vaardigheden",
+        "curriculum",
+        "kernvakken"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 105",
+      "originalQuote": "Er dient daarom meer aandacht te komen voor lezen, schrijven en rekenen op basisscholen en in het voortgezet onderwijs en verankering van digitale vaardigheden in het curriculum."
+    },
+    {
+      "promiseCode": "BBB-2025-200",
+      "text": "Praktijkgericht onderwijs met levensvaardigheden zoals huishoudkunde, financiële zelfredzaamheid en techniek krijgt een zwaarder accent.",
+      "summary": "Zwaarder accent op praktijkgericht onderwijs met levensvaardigheden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "praktijkgericht onderwijs",
+        "levensvaardigheden",
+        "huishoudkunde",
+        "financiële zelfredzaamheid",
+        "techniek"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 105",
+      "originalQuote": "Praktijkgericht onderwijs met levensvaardigheden zoals huishoudkunde, financiële zelfredzaamheid en techniek hoort een zwaarder accent te krijgen."
+    },
+    {
+      "promiseCode": "BBB-2025-201",
+      "text": "Mensen zonder diploma die wel de nodige kwaliteiten hebben, moeten via praktische certificering gelijkwaardig kunnen worden gekwalificeerd voor werk.",
+      "summary": "Praktische certificering voor mensen zonder diploma",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "praktische certificering",
+        "diploma",
+        "kwalificatie",
+        "werk",
+        "competenties"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 105",
+      "originalQuote": "Mensen zonder diploma die wel de nodige kwaliteiten hebben, moeten via praktische certificering gelijkwaardig kunnen worden gekwalificeerd voor werk op basis van verworven kennis, vaardigheden en competenties."
+    },
+    {
+      "promiseCode": "BBB-2025-202",
+      "text": "Financiering van het speciaal onderwijs binnen een school mag niet automatisch wegvallen wanneer leerlingen verklaarbaar meer verzuimen dan 50 procent.",
+      "summary": "Behoud financiering speciaal onderwijs bij verzuim boven 50%",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "financiering",
+        "speciaal onderwijs",
+        "verzuim",
+        "50 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 106",
+      "originalQuote": "Financiering van het speciaal onderwijs binnen een school mag niet automatisch wegvallen wanneer leerlingen in het speciaal onderwijs verklaarbaar meer verzuimen dan 50 procent."
+    },
+    {
+      "promiseCode": "BBB-2025-203",
+      "text": "Een hogere eigen bijdrage vragen van studenten die fors uitlopen in hun studie door het collegegeld voor langstudeerders te verhogen.",
+      "summary": "Hoger collegegeld voor langstudeerders",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "collegegeld",
+        "langstudeerders",
+        "eigen bijdrage",
+        "studieduur"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 106",
+      "originalQuote": "Door het collegegeld voor langstudeerders te verhogen, stimuleren we tijdige afronding van opleidingen, maken we ruimte voor investeringen in onderwijskwaliteit en verlagen we de kosten voor de belastingbetaler."
+    },
+    {
+      "promiseCode": "BBB-2025-204",
+      "text": "De kleinescholentoeslag omzetten naar dunbevolktheidtoeslag, zonder dat de totale kosten stijgen.",
+      "summary": "Omzetting kleinescholentoeslag naar dunbevolktheidtoeslag",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kleinescholentoeslag",
+        "dunbevolktheidtoeslag",
+        "basisscholen",
+        "kleine kernen",
+        "kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 106",
+      "originalQuote": "De kleinescholentoeslag zetten we om naar dunbevolktheidtoeslag, zonder dat de totale kosten stijgen."
+    },
+    {
+      "promiseCode": "BBB-2025-205",
+      "text": "Stop op actieprogramma's, beleidsstukken en kwaliteitscontroleurs om wildgroei aan functies van mensen die aan het onderwijs werken terug te dringen.",
+      "summary": "Stop op actieprogramma's en kwaliteitscontroleurs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieprogramma's",
+        "beleidsstukken",
+        "kwaliteitscontroleurs",
+        "administratielast"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 107",
+      "originalQuote": "Dit betekent in ieder geval een stop op actieprogramma's, beleidsstukken en kwaliteitscontroleurs."
+    },
+    {
+      "promiseCode": "BBB-2025-206",
+      "text": "De rol van organisaties zoals de Nederlandse Organisatie voor Wetenschappelijk Onderzoek wordt teruggebracht en hun budget en activiteiten overgeheveld naar universiteiten.",
+      "summary": "Budget NWO overhevelen naar universiteiten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nwo",
+        "universiteiten",
+        "budget",
+        "autonomie",
+        "wetenschappelijk onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 108",
+      "originalQuote": "Daarbij wordt de rol van organisaties zoals de Nederlandse Organisatie voor Wetenschappelijk Onderzoek teruggebracht en hun budget en activiteiten aan universiteiten zelf overgeheveld."
+    },
+    {
+      "promiseCode": "BBB-2025-207",
+      "text": "Bekeken wordt of het mogelijk is een plafond te stellen aan de studieschuld van studenten uit de pechgeneratie en studieschuld niet mee te nemen bij hypotheekaanvragen.",
+      "summary": "Plafond studieschuld pechgeneratie, niet meetellen bij hypotheek",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studieschuld",
+        "pechgeneratie",
+        "plafond",
+        "hypotheekaanvraag"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 108",
+      "originalQuote": "Bekeken wordt of het mogelijk is een plafond te stellen aan de studieschuld van studenten uit de pechgeneratie. De studieschuld hoort niet te worden meegenomen bij een hypotheekaanvraag."
+    },
+    {
+      "promiseCode": "BBB-2025-208",
+      "text": "Alle academische disciplines bieden Nederlandstalig onderwijs aan op universiteiten en hogescholen. Engels alleen toegestaan wanneer onontkoombaar voor de studie.",
+      "summary": "Nederlands als voertaal in hoger onderwijs, Engels alleen indien noodzakelijk",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlandse taal",
+        "voertaal",
+        "universiteiten",
+        "hogescholen",
+        "engels",
+        "academische disciplines"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 108",
+      "originalQuote": "Alle academische disciplines bieden Nederlandstalig onderwijs aan op universiteiten en hogescholen. Gebruik van Engels is toegestaan wanneer dit voor de betreffende studie onontkoombaar is."
+    },
+    {
+      "promiseCode": "BBB-2025-209",
+      "text": "Alle verbeteringen voor HBO's en universiteiten dienen in principe te worden bekostigd uit bezuinigingen, kosten mogen niet meer ongelimiteerd toenemen.",
+      "summary": "Verbeteringen hoger onderwijs bekostigen uit bezuinigingen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hbo",
+        "universiteiten",
+        "kosten",
+        "bezuinigingen",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 109",
+      "originalQuote": "De kosten voor HBO's en universiteiten mogen niet meer ongelimiteerd toenemen. Alle verbeteringen dienen in principe te worden bekostigd uit bezuinigingen."
+    },
+    {
+      "promiseCode": "BBB-2025-210",
+      "text": "Het voortzetten van de subsidiëring van het Biomedical Primate Research Centre (BPRC) in Rijswijk voor dierproeven ter voorkoming van menselijk lijden.",
+      "summary": "Voortzetting subsidiëring BPRC voor dierproeven",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bprc",
+        "subsidiëring",
+        "dierproeven",
+        "biomedisch onderzoek",
+        "rijswijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 109",
+      "originalQuote": "Dit vraagt om het voortzetten van de subsidiëring van het Biomedical Primate Research Centre (BPRC) in Rijswijk."
+    },
+    {
+      "promiseCode": "BBB-2025-211",
+      "text": "BBB wil het publieke omroepbestel hervormen met minder bestuurslagen, meer focus op journalistieke kwaliteit en betere aansluiting bij hoe mensen vandaag media gebruiken.",
+      "summary": "Hervorming publieke omroep: minder bestuurslagen, meer journalistieke kwaliteit",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "omroepbestel",
+        "hervorming",
+        "bestuurslagen",
+        "journalistieke",
+        "kwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 110",
+      "originalQuote": "De publieke omroep moet worden hervormd, met minder bestuurslagen, meer focus op journalistieke kwaliteit en betere aansluiting bij hoe mensen vandaag media gebruiken."
+    },
+    {
+      "promiseCode": "BBB-2025-212",
+      "text": "BBB zorgt voor een eerlijkere verdeling van cultuurgeld over het land, zodat niet alleen de Randstad maar ook andere regio's profijt hebben van cultuursubsidies.",
+      "summary": "Eerlijkere verdeling cultuurgeld over alle regio's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurgeld",
+        "verdeling",
+        "regio's",
+        "subsidies"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 110",
+      "originalQuote": "Cultuurgeld wordt eerlijker verdeeld over het land."
+    },
+    {
+      "promiseCode": "BBB-2025-213",
+      "text": "BBB versterkt regionale en lokale omroepen om betere aansluiting te krijgen bij streekgebonden achterban en gemeenschappen buiten de Randstad.",
+      "summary": "Versterking regionale en lokale omroepen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "omroepen",
+        "regionaal",
+        "lokaal",
+        "versterking"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 110",
+      "originalQuote": "Regionale en lokale omroepen worden versterkt."
+    },
+    {
+      "promiseCode": "BBB-2025-214",
+      "text": "Minstens 50 procent van het cultuurbudget moet naar initiatieven buiten de grote steden gaan, waarbij nadrukkelijk wordt gekeken of regio's buiten de Randstad voldoende aandacht krijgen.",
+      "summary": "50% cultuurbudget naar initiatieven buiten grote steden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurbudget",
+        "plattelandscultuur",
+        "randstad",
+        "regio's",
+        "subsidiëring"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 15",
+      "originalQuote": "Minstens 50 procent van het cultuurbudget hoort naar initiatieven buiten de grote steden te gaan, waarbij nadrukkelijk wordt gekeken of de regio's buiten de Randstad voldoende aandacht krijgen."
+    },
+    {
+      "promiseCode": "BBB-2025-215",
+      "text": "BBB wil structurele steun verlenen aan streekcultuur zoals fanfares, bloemen- en fruitcorso's, varend erfgoed, trekkertrek en carnaval.",
+      "summary": "Structurele steun voor streekcultuur zoals fanfares en corso's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "streekcultuur",
+        "fanfares",
+        "corso's",
+        "erfgoed",
+        "structurele steun"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 15",
+      "originalQuote": "BBB is voor het verlenen van structurele steun aan streekcultuur zoals fanfares, bloemen- en fruitcorso's, varend erfgoed, trekkertrek en carnaval."
+    },
+    {
+      "promiseCode": "BBB-2025-216",
+      "text": "Limburgs erkenning geven onder Hoofdstuk III-status van het Europees Handvest voor regionale talen om de kwetsbare taal beter te beschermen en bevorderen.",
+      "summary": "Limburgs erkenning onder Europees Handvest Hoofdstuk III-status",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "limburgs",
+        "europees handvest",
+        "regionale talen",
+        "hoofdstuk iii-status",
+        "taalbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "Om de taal sterker te beschermen en te bevorderen, is erkenning nodig onder de zogenoemde Hoofdstuk III-status van het Europees Handvest voor regionale talen."
+    },
+    {
+      "promiseCode": "BBB-2025-217",
+      "text": "In cultuurprogramma's op basis- en middelbare scholen ruime aandacht besteden aan streekgeschiedenis, ambacht en erfgoed.",
+      "summary": "Streekgeschiedenis en erfgoed in onderwijs cultuurprogramma's",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurprogramma's",
+        "basisscholen",
+        "middelbare scholen",
+        "streekgeschiedenis",
+        "erfgoed",
+        "ambacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "In de bestaande cultuurprogramma's op basis- en middelbare scholen wordt ruime aandacht besteed aan streekgeschiedenis, ambacht en erfgoed"
+    },
+    {
+      "promiseCode": "BBB-2025-218",
+      "text": "Regionale culturele loketten oprichten voor eenvoudige toegang tot subsidies voor kleine verenigingen en lokale makers.",
+      "summary": "Regionale cultuurloketten voor subsidietoegang kleine verenigingen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale loketten",
+        "subsidies",
+        "kleine verenigingen",
+        "lokale makers",
+        "cultuursubsidies"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "Regionale cultuur loketten kunnen zorgen voor een eenvoudige toegang tot subsidies voor kleine verenigingen en lokale makers."
+    },
+    {
+      "promiseCode": "BBB-2025-219",
+      "text": "Gemeenten en provincies stimuleren om beleid te maken voor immaterieel erfgoed zoals streekmarkten en folkloristische evenementen.",
+      "summary": "Gemeenten stimuleren beleid voor immaterieel erfgoed",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "provincies",
+        "immaterieel erfgoed",
+        "streekmarkten",
+        "folkloristische evenementen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "Gemeenten en provincies worden gestimuleerd om beleid te maken voor (immaterieel) erfgoed. Zoals streekmarkten en folkloristische evenementen."
+    },
+    {
+      "promiseCode": "BBB-2025-220",
+      "text": "Musea, podia en festivals die inzetten op laagdrempelige toegang en streekbinding krijgen voorrang bij het toekennen van subsidies.",
+      "summary": "Voorrang subsidies voor musea met streekbinding",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "musea",
+        "podia",
+        "festivals",
+        "subsidies",
+        "streekbinding",
+        "laagdrempelige toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "Musea, podia en festivals die inzetten op laagdrempelige toegang en streekbinding krijgen wat BBB betreft voorrang bij het toekennen van subsidies."
+    },
+    {
+      "promiseCode": "BBB-2025-221",
+      "text": "Meerjarige evenementenvergunningen invoeren voor regelmatig terugkerende, laag risico-evenementen zoals bloemen- en fruitcorso's.",
+      "summary": "Meerjarige vergunningen voor terugkerende laag risico-evenementen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meerjarige vergunningen",
+        "evenementen",
+        "bloemencorso",
+        "fruitcorso",
+        "laag risico"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "Regelmatig terugkerende, laag risico-evenementen. Zoals bloemen- en fruitcorso's hebben een vergunning nodig die zo snel mogelijk kan worden verstrekt, zonder dat het traject keer op keer van meet af aan moet worden doorlopen."
+    },
+    {
+      "promiseCode": "BBB-2025-222",
+      "text": "Landelijke status 'cultureel erfgoed evenement' invoeren die lokale tradities erkent en extra bescherming biedt tegen overregulering.",
+      "summary": "Landelijke status cultureel erfgoed evenement invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landelijke status",
+        "cultureel erfgoed",
+        "evenement",
+        "lokale tradities",
+        "overregulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "Er moet een landelijke status komen voor evenementen die lokale tradities op het gebied van cultureel erfgoed erkent en extra bescherming biedt tegen overregulering."
+    },
+    {
+      "promiseCode": "BBB-2025-223",
+      "text": "Culturele basisinfrastructuur (BIS) hervormen en versoberen door schrapping van dubbele subsidiëring en projecten zonder publiek of maatschappelijke meerwaarde.",
+      "summary": "BIS hervormen en versoberen, dubbele subsidiëring schrappen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "culturele basisinfrastructuur",
+        "bis",
+        "hervorming",
+        "versobering",
+        "dubbele subsidiëring"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 112",
+      "originalQuote": "De culturele basisinfrastructuur (BIS) wordt hervormd en versoberd. We schrappen dubbele subsidiëring en projecten die onvoldoende publiek trekken of geen maatschappelijke meerwaarde hebben."
+    },
+    {
+      "promiseCode": "BBB-2025-224",
+      "text": "Nederlandse Publieke Omroep (NPO) hervormen door terugbrengen tot kerntaken: neutrale nieuwsvoorziening, informatie, educatie en bescheiden cultureel aanbod.",
+      "summary": "NPO hervormen tot kerntaken nieuws, informatie en educatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "npo",
+        "publieke omroep",
+        "hervorming",
+        "nieuws",
+        "informatie",
+        "educatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 113",
+      "originalQuote": "BBB wil de publieke omroep terugbrengen tot zijn kern: neutrale nieuwsvoorziening, informatie, educatie en een bescheiden cultureel aanbod."
+    },
+    {
+      "promiseCode": "BBB-2025-225",
+      "text": "Entertainment programma's bij publieke omroep kritisch beoordelen en duplicatie met commerciële zenders en ondoelmatige digitaliseringsuitgaven schrappen.",
+      "summary": "Entertainment programma's NPO kritisch beoordelen en duplicatie schrappen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "entertainment programma's",
+        "publieke omroep",
+        "commerciële zenders",
+        "digitaliseringsuitgaven",
+        "duplicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 113",
+      "originalQuote": "We gaan kritisch beoordelen welke entertainment programma's bij de publieke omroep thuishoren en door de Rijksoverheid gefinancierd moeten worden en schrappen duplicatie met commerciële zenders en ondoelmatige digitaliseringsuitgaven."
+    },
+    {
+      "promiseCode": "BBB-2025-226",
+      "text": "Samenwerking tussen regionale/lokale omroepen en landelijke omroepen verstevigen en inzetten voor behoud van streektalen.",
+      "summary": "Samenwerking regionale en landelijke omroepen voor streektalen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale omroepen",
+        "lokale omroepen",
+        "landelijke omroepen",
+        "samenwerking",
+        "streektalen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 113",
+      "originalQuote": "Wij zien kansen door versteviging van de samenwerking met de landelijke omroepen. Zij worden tevens ingezet voor het behoud van de streektaal."
+    },
+    {
+      "promiseCode": "BBB-2025-227",
+      "text": "Lokale media ondersteunen in hun nieuwsvoorziening voor gemeenschappen.",
+      "summary": "Lokale media ondersteunen in nieuwsvoorziening",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "lokale media",
+        "nieuwsvoorziening",
+        "gemeenschappen",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 113",
+      "originalQuote": "In gemeenschappen vervullen lokale media een belangrijke rol. Zij horen te worden ondersteund in de nieuwsvoorziening."
+    },
+    {
+      "promiseCode": "BBB-2025-228",
+      "text": "Beleid ontwikkelen om te borgen dat meer media in Nederlandse handen blijven tegen mediaconcentratie.",
+      "summary": "Beleid voor media in Nederlandse handen tegen concentratie",
+      "theme": "BESTUUR",
+      "specificity": "VAAG",
+      "keywords": [
+        "mediaconcentratie",
+        "nederlandse handen",
+        "eigenaarschap",
+        "omroepen",
+        "kranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 113",
+      "originalQuote": "Er dient beleid te komen om te borgen dat meer media in Nederlandse handen blijven."
+    },
+    {
+      "promiseCode": "BBB-2025-229",
+      "text": "Geen verdere overdracht van Nederlandse bevoegdheden en soevereiniteit aan Brussel. Europa beperkt zich tot economie, interne markt, defensie, buitenlandbeleid en migratie.",
+      "summary": "Geen verdere bevoegdheidsoverdracht aan EU, beperking tot vijf beleidsterreinen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "soevereiniteit",
+        "bevoegdheden",
+        "subsidiariteitstoets",
+        "brussel",
+        "beleidsterreinen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 114",
+      "originalQuote": "Geen federaal Europa. Geen verdere overdracht van Nederlandse bevoegdheden en soevereiniteit aan Brussel. BBB staat voor eenheid in verscheidenheid en voor een strenge subsidiariteitstoets. Dit betekent dat Europa alleen die zaken regelt die strikt noodzakelijk zijn en aantoonbaar beter op Europees niveau werken dan wanneer lidstaten dat zelf doen. Europa beperkt zich tot economie, interne markt, defensie, buitenlandbeleid en migratie."
+    },
+    {
+      "promiseCode": "BBB-2025-230",
+      "text": "Invoering van een Europese vertrouwensregel waarbij individuele Europees Commissarissen ter verantwoording kunnen worden geroepen in de Europese Raad.",
+      "summary": "Europese vertrouwensregel voor controle op Commissarissen via Europese Raad",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vertrouwensregel",
+        "commissarissen",
+        "europese raad",
+        "controle",
+        "verantwoording"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 114",
+      "originalQuote": "Europese vertrouwensregel. Meer controle op individuele Europees Commissarissen door deze voortaan ter verantwoording te kunnen roepen in de Europese Raad."
+    },
+    {
+      "promiseCode": "BBB-2025-231",
+      "text": "Het vetorecht inzake buitenlands beleid behouden en geen Europees leger oprichten.",
+      "summary": "Vetorecht behouden voor buitenlands beleid, geen Europees leger",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vetorecht",
+        "buitenlands beleid",
+        "europees leger",
+        "defensie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 114",
+      "originalQuote": "Vetorecht behouden. BBB wil het vetorecht niet afschaffen inzake buitenlands beleid en er komt geen Europees leger."
+    },
+    {
+      "promiseCode": "BBB-2025-232",
+      "text": "BBB wil een rem op verstikkende en onuitvoerbare EU-richtlijnen ten aanzien van verduurzaming, zoals het bijhouden van CO2-administratie en plastic-tax, en andere regelgeving.",
+      "summary": "Rem op EU-verduurzamingsrichtlijnen zoals CO2-administratie en plastic-tax",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eu-richtlijnen",
+        "verduurzaming",
+        "co2-administratie",
+        "plastic-tax"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 116",
+      "originalQuote": "BBB wil een rem op de verstikkende en onuitvoerbare EU­ richtlijnen ten aanzien van verduurzaming (zoals bijhouden van CO2­administratie en plastic­ tax) en andere regelgeving."
+    },
+    {
+      "promiseCode": "BBB-2025-233",
+      "text": "BBB pleit voor uitbreidingsmoratorium: pas op de plaats met toelating nieuwe EU-leden. Lidmaatschap komt pas in zicht na volledige toetsing aan Kopenhagen Criteria. Eerst EU hervormen, daarna uitbreiden.",
+      "summary": "Uitbreidingsmoratorium EU tot na hervorming en strikte toetsing",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitbreidingsmoratorium",
+        "eu-uitbreiding",
+        "kopenhagen criteria",
+        "hervorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 116",
+      "originalQuote": "Kritische blik op uitbreiding: pas op de plaats met toelating nieuwe leden. Lidmaatschap van de EU komt pas in zicht na volledige en strikte toetsing aan alle voorwaarden van de zogeheten Kopenhagen Criteria. Eerst moeten we de EU hervormen en pas daarna kunnen we weer uitbreiden."
+    },
+    {
+      "promiseCode": "BBB-2025-234",
+      "text": "BBB pleit voor invoering van een dwingend onderhandelingsmandaat voor Europese wetgevingsvoorstellen, zoals gebruikelijk in het Deense en Duitse Parlement, om meer controle over Europese politiek te krijgen.",
+      "summary": "Dwingend onderhandelingsmandaat voor ministers in EU zoals Denemarken en Duitsland",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderhandelingsmandaat",
+        "europese wetgeving",
+        "tweede kamer",
+        "ministers"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 116",
+      "originalQuote": "Om die reden pleit BBB voor de invoering van een dwingend onderhandelingsmandaat voor Europese wetgevingsvoorstellen, zoals dat gebruikelijk is in het Deense en het Duitse Parlement."
+    },
+    {
+      "promiseCode": "BBB-2025-235",
+      "text": "Het nieuwe Meerjarig Financieel Kader voor 2027-2032 mag niet boven het huidige plafond uitkomen en de korting voor Nederland van 1,9 miljard euro moet worden gehandhaafd en geïndexeerd.",
+      "summary": "MFK 2027-2032 niet boven huidig plafond, korting 1,9 miljard handhaven en indexeren",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meerjarig financieel kader",
+        "korting",
+        "1,9 miljard euro",
+        "indexering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 116",
+      "originalQuote": "Het nieuwe Meerjarig Financieel Kader (MFK) voor de periode 2027­2032 mag niet boven het huidige plafond uitkomen en de korting voor Nederland op de afdracht van 1,9 miljard euro moet worden gehandhaafd en geïndexeerd."
+    },
+    {
+      "promiseCode": "BBB-2025-236",
+      "text": "BBB wil geen giften, gemeenschappelijke schulden, Eurobonds of soortgelijke gezamenlijke schulden en Europese belastingen om uitgaven voor klimaat of Defensie mee te financieren.",
+      "summary": "Geen Eurobonds, gemeenschappelijke schulden of Europese belastingen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eurobonds",
+        "gemeenschappelijke schulden",
+        "europese belastingen",
+        "klimaat",
+        "defensie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 116-117",
+      "originalQuote": "BBB wil geen giften, gemeenschappelijke schulden, Eurobonds of soortgelijke gezamenlijke schulden en Europese belastingen om uitgaven mee te financieren zoals voor klimaat of Defensie."
+    },
+    {
+      "promiseCode": "BBB-2025-237",
+      "text": "BBB pleit voor herziening van artikel 90 Grondwet door toevoeging 'met inachtneming van het Nederlands belang' aan de opdracht om de internationale rechtsorde te bevorderen.",
+      "summary": "Herziening artikel 90 Grondwet: Nederlands belang voorop bij internationale rechtsorde",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel 90",
+        "grondwet",
+        "internationale rechtsorde",
+        "nederlands belang"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 117",
+      "originalQuote": "Aan artikel 90 van de Grondwet, dat opdraagt om de ontwikkeling van de internationale orde te bevorderen, dient daarom te worden toegevoegd 'met inachtneming van het Nederlands belang'."
+    },
+    {
+      "promiseCode": "BBB-2025-238",
+      "text": "BBB ondersteunt de periodieke aanwezigheid van de Nederlandse marine in de Straat van Taiwan en andere gebieden waar Nederland kan bijdragen aan internationale vrede en veiligheid.",
+      "summary": "Periodieke aanwezigheid Nederlandse marine in Straat van Taiwan",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "marine",
+        "straat van taiwan",
+        "handelsroutes",
+        "internationale veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 117",
+      "originalQuote": "Daarom ondersteunt BBB de periodieke aanwezigheid van onze marine in de Straat van Taiwan en andere gebieden waar Nederland kan bijdragen aan internationale vrede en veiligheid."
+    },
+    {
+      "promiseCode": "BBB-2025-239",
+      "text": "BBB is tegen het Mercosur-verdrag omdat dit oneerlijke concurrentie in de hand werkt. Nederland gaat geen voedsel voor menselijke consumptie importeren dat we zelf niet mogen produceren.",
+      "summary": "Tegen Mercosur-verdrag vanwege oneerlijke concurrentie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mercosur",
+        "handelsverdrag",
+        "oneerlijke concurrentie",
+        "voedselimport"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 118",
+      "originalQuote": "BBB is tegen verdragen die onze nationale belangen onvoldoende beschermen of zelfs tekort doen, zoals Mercosur. Want dit werkt oneerlijke concurrentie in de hand. We gaan geen voedsel voor menselijke consumptie importeren dat we zelf niet mogen produceren."
+    },
+    {
+      "promiseCode": "BBB-2025-240",
+      "text": "Strijders met een EU-paspoort die naar het Midden-Oosten afreisden om te vechten voor IS of andere terreurorganisaties mogen nooit meer terugkeren naar de EU, maar moeten ter plaatse worden berecht.",
+      "summary": "IS-strijders met EU-paspoort mogen nooit meer terugkeren naar EU",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "is-strijders",
+        "eu-paspoort",
+        "terreurorganisaties",
+        "berechting"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 119",
+      "originalQuote": "Strijders met een EU­paspoort die naar het Midden­Oosten afreisden om te vechten voor IS of andere terreurorganisaties mogen nooit meer terugkeren naar de EU, maar moeten ter plaatse worden berecht en daar hun straf uitzitten."
+    },
+    {
+      "promiseCode": "BBB-2025-241",
+      "text": "BBB wil de uitgaven aan ontwikkelingshulp aanzienlijk verminderen. Focus op directe noodhulp en ondersteuning in regio's zelf, in plaats van grootschalige overdrachten aan multilaterale instellingen.",
+      "summary": "Aanzienlijke vermindering uitgaven ontwikkelingshulp",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ontwikkelingshulp",
+        "uitgaven",
+        "vermindering",
+        "noodhulp",
+        "multilaterale instellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 119-120",
+      "originalQuote": "BBB wil daarom de uitgaven aan ontwikkelingshulp aanzienlijk verminderen. We focussen op directe noodhulp en ondersteuning in de regio's zelf, in plaats van grootschalige overdrachten aan multilaterale instellingen zonder zichtbare resultaten."
+    },
+    {
+      "promiseCode": "BBB-2025-242",
+      "text": "BBB wil een eerlijker belastingstelsel invoeren om de inkomstenbasis van de overheid te versterken.",
+      "summary": "Eerlijker belastingstelsel invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "belastingstelsel",
+        "inkomstenbasis",
+        "hervorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 121",
+      "originalQuote": "We versterken de inkomstenbasis met een eerlijker belastingstelsel"
+    },
+    {
+      "promiseCode": "BBB-2025-243",
+      "text": "BBB wil de afhankelijkheid van inefficiënte toeslagen verminderen.",
+      "summary": "Afhankelijkheid van inefficiënte toeslagen verminderen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslagen",
+        "afhankelijkheid",
+        "efficiëntie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 121",
+      "originalQuote": "verminderen de afhankelijkheid van inefficiënte toeslagen"
+    },
+    {
+      "promiseCode": "BBB-2025-244",
+      "text": "BBB wil de regeldruk verlagen en houdt rekening met bedrijven bij belastingmaatregelen.",
+      "summary": "Regeldruk verlagen voor bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regeldruk",
+        "bedrijven",
+        "belastingmaatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 121",
+      "originalQuote": "We verlagen de regeldruk en houden hier zo veel als mogelijk rekening mee bij belastingmaatregelen"
+    },
+    {
+      "promiseCode": "BBB-2025-245",
+      "text": "BBB wil stoppen met beleid dat geld kost maar geen maatschappelijk rendement levert.",
+      "summary": "Stoppen met ineffectief beleid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beleid",
+        "rendement",
+        "kosten",
+        "efficiëntie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 121",
+      "originalQuote": "stoppen met beleid dat geld kost als dat geen maatschappelijk rendement levert"
+    },
+    {
+      "promiseCode": "BBB-2025-246",
+      "text": "BBB neemt deel aan de CPB-doorrekening van het verkiezingsprogramma om financiële onderbouwing en transparantie te tonen.",
+      "summary": "Deelname aan CPB-doorrekening verkiezingsprogramma",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cpb",
+        "doorrekening",
+        "verkiezingsprogramma",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 122",
+      "originalQuote": "Daarom kiest BBB er bewust voor om deel te nemen aan de doorrekening van het verkiezingsprogramma door het Centraal Planbureau (CPB)."
+    },
+    {
+      "promiseCode": "BBB-2025-247",
+      "text": "BBB bezuinigt op inefficiënt beleid en uitgaven die geen sociaal rendement opleveren.",
+      "summary": "Bezuinigen op inefficiënt beleid zonder sociaal rendement",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezuinigingen",
+        "inefficiënt",
+        "beleid",
+        "sociaal rendement"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 123",
+      "originalQuote": "Te bezuinigen op inefficiënt beleid en uitgaven die geen sociaal rendement opleveren."
+    },
+    {
+      "promiseCode": "BBB-2025-248",
+      "text": "BBB bezuinigt op uitvoeringskosten buiten wonen, veiligheid, zorg en onderwijs.",
+      "summary": "Bezuinigingen uitvoeringskosten behalve kerngebieden",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezuinigingen",
+        "uitvoeringskosten",
+        "wonen",
+        "veiligheid",
+        "zorg",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 123",
+      "originalQuote": "Te bezuinigen op uitvoeringskosten buiten wonen, veiligheid, zorg en onderwijs."
+    },
+    {
+      "promiseCode": "BBB-2025-249",
+      "text": "BBB voert structurele financiering van regio's in.",
+      "summary": "Structurele financiering regio's invoeren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "structurele financiering",
+        "regio's",
+        "invoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 123",
+      "originalQuote": "Structurele invoering van financiering van onze regio's."
+    },
+    {
+      "promiseCode": "BBB-2025-250",
+      "text": "BBB schaft nationale koppen op Europees klimaatbeleid af, zoals extra CO₂-heffing.",
+      "summary": "Afschaffen nationale koppen klimaatbeleid zoals CO₂-heffing",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afschaffen",
+        "nationale koppen",
+        "klimaatbeleid",
+        "co₂-heffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 123",
+      "originalQuote": "Het afschaffen van nationale koppen op Europees klimaatbeleid (zoals extra CO₂-heffing)."
+    },
+    {
+      "promiseCode": "BBB-2025-251",
+      "text": "BBB hervormt EU-bijdragen en beperkt overdrachten zonder hervormingsvoorwaarden.",
+      "summary": "Hervormen EU-bijdragen en beperken overdrachten",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hervormen",
+        "eu-bijdragen",
+        "overdrachten",
+        "hervormingsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 123",
+      "originalQuote": "Het hervormen van EU-bijdragen en beperking van overdrachten zonder hervormingsvoorwaarden."
+    },
+    {
+      "promiseCode": "BBB-2025-252",
+      "text": "BBB introduceert een eenvoudiger belasting- en toeslagenstelsel met vaste bedragen als toelage in plaats van ingewikkelde regelingen.",
+      "summary": "Eenvoudiger belastingstelsel met vaste bedragen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingstelsel",
+        "toeslagenstelsel",
+        "vaste bedragen",
+        "toelage"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 124",
+      "originalQuote": "Op korte termijn moet er een eenvoudiger belasting- en toeslagenstelsel met vaste bedragen als toelage in plaats van ingewikkelde regelingen komen."
+    },
+    {
+      "promiseCode": "BBB-2025-253",
+      "text": "BBB verhoogt de belastingvrije voet in plaats van heffingskortingen, zodat werken altijd loont.",
+      "summary": "Hogere belastingvrije voet in plaats van heffingskortingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingvrije voet",
+        "heffingskortingen",
+        "werken",
+        "lonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 124",
+      "originalQuote": "Met ook een hogere belastingvrije voet in plaats van heffingskortingen, zodat werken altijd loont."
+    },
+    {
+      "promiseCode": "BBB-2025-254",
+      "text": "BBB belast vermogensinkomsten in box 3 over daadwerkelijk genoten inkomsten inclusief vermogenswinsten, geen vermogensaanwasbelasting.",
+      "summary": "Box 3 belasting over werkelijke inkomsten, geen vermogensaanwasbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "box 3",
+        "vermogensinkomsten",
+        "vermogenswinsten",
+        "vermogensaanwasbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 124",
+      "originalQuote": "Belastingheffing over vermogensinkomsten in box 3 vindt plaats over daadwerkelijk genoten inkomsten inclusief vermogenswinsten. Dus geen vermogensaanwasbelasting over niet gerealiseerd inkomen."
+    },
+    {
+      "promiseCode": "BBB-2025-255",
+      "text": "BBB verhoogt de belastingen op sparen in box 3 en op ondernemen in box 2 niet.",
+      "summary": "Geen verhoging belastingen box 2 en 3",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "box 2",
+        "box 3",
+        "belastingen",
+        "sparen",
+        "ondernemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 124",
+      "originalQuote": "De belastingen op sparen in box 3 en op ondernemen in box 2 niet verhogen."
+    },
+    {
+      "promiseCode": "BBB-2025-256",
+      "text": "BBB verhoogt de erf- en schenkbelasting niet.",
+      "summary": "Geen verhoging erf- en schenkbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfbelasting",
+        "schenkbelasting",
+        "verhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 124",
+      "originalQuote": "De erf- en schenkbelasting zeker niet verhogen."
+    },
+    {
+      "promiseCode": "BBB-2025-257",
+      "text": "BBB beperkt de hypotheekrenteaftrek niet verder en belast de eigenwoningwaarde niet.",
+      "summary": "Geen verdere beperking hypotheekrenteaftrek, geen eigenwoningwaardebelasting",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "eigenwoningwaarde",
+        "belasting",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 124",
+      "originalQuote": "De hypotheekrenteaftrek wordt niet verder beperkt en de (over)waarde van de eigen woning wordt niet belast."
+    },
+    {
+      "promiseCode": "BBB-2025-258",
+      "text": "BBB belast AOW-uitkeringen niet zwaarder.",
+      "summary": "Geen zwaardere belasting AOW-uitkeringen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow-uitkeringen",
+        "belasting",
+        "zwaardere"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 125",
+      "originalQuote": "AOW-uitkeringen worden niet zwaarder belast."
+    },
+    {
+      "promiseCode": "BBB-2025-259",
+      "text": "BBB handhaaft fiscale bedrijfsregelingen zoals bedrijfsopvolgingsfaciliteit, deelnemingsvrijstelling, innovatiebox en expatregeling.",
+      "summary": "Handhaven fiscale bedrijfsregelingen en faciliteiten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijfsopvolgingsfaciliteit",
+        "deelnemingsvrijstelling",
+        "innovatiebox",
+        "expatregeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 125",
+      "originalQuote": "we handhaven de bedrijfsopvolgingsfaciliteit, deelnemingsvrijstelling, innovatiebox en andere maatregelen die innovatie stimuleren zoals de expatregeling."
+    },
+    {
+      "promiseCode": "BBB-2025-260",
+      "text": "BBB hervormt de Belastingdienst met focus op automatisering, begrijpelijke communicatie en menselijke maat.",
+      "summary": "Hervorming Belastingdienst met automatisering en communicatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingdienst",
+        "hervorming",
+        "automatisering",
+        "communicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 125",
+      "originalQuote": "Hervorming van de Belastingdienst met focus op automatisering, begrijpelijke communicatie en menselijke maat."
+    },
+    {
+      "promiseCode": "BBB-2025-261",
+      "text": "BBB beperkt verplichtingen vanuit de Wet ter voorkoming van witwassen tot strikt noodzakelijke wettelijke taken.",
+      "summary": "Beperken Wwft-verplichtingen tot noodzakelijke taken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wwft",
+        "witwassen",
+        "verplichtingen",
+        "wettelijke taken"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 125",
+      "originalQuote": "Beperking van de verplichtingen vanuit de Wet ter voorkoming van witwassen (Wwft) tot de strikt noodzakelijke wettelijke taken."
+    },
+    {
+      "promiseCode": "BBB-2025-262",
+      "text": "BBB stelt een reductiedoelstelling van 25% regeldruk in 4 jaar.",
+      "summary": "25% reductie regeldruk in 4 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeldruk",
+        "reductie",
+        "25 procent",
+        "4 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 125",
+      "originalQuote": "BBB stelt een harde reductiedoelstelling voor regeldruk (25% in 4 jaar)."
+    },
+    {
+      "promiseCode": "BBB-2025-263",
+      "text": "BBB onderzoekt oprichting van een Nationale Investeringsbank die overheidsvermogen koppelt aan projecten en investeert in mkb, innovatie en infrastructuur.",
+      "summary": "Onderzoek Nationale Investeringsbank voor mkb en infrastructuur",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale investeringsbank",
+        "overheidsvermogen",
+        "mkb",
+        "innovatie",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 126",
+      "originalQuote": "De oprichting van een Nationale Investeringsbank onderzoeken die: Vermogen van de overheid koppelt aan landelijke en regionale projecten; Investeert in mkb, innovatie en infrastructuur"
+    },
+    {
+      "promiseCode": "BBB-2025-264",
+      "text": "BBB onderzoekt structurele financiering voor regio's in plaats van concurrentiemodellen zoals Regio Deals.",
+      "summary": "Onderzoek structurele regiofinanciering ipv concurrentiemodellen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "structurele financiering",
+        "regio's",
+        "regio deals",
+        "concurrentiemodellen"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 126",
+      "originalQuote": "De mogelijkheid van structurele financiering voor de regio's (in plaats van concurrentiemodellen zoals Regio Deals) onderzoeken."
+    },
+    {
+      "promiseCode": "BBB-2025-265",
+      "text": "BBB wil dat Nederland minder geld naar de EU stuurt en eist streng toezicht op Europese uitgaven.",
+      "summary": "Minder geld naar EU, streng toezicht Europese uitgaven",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eu",
+        "geld",
+        "toezicht",
+        "uitgaven"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 126",
+      "originalQuote": "BBB wil dat Nederland minder geld naar de EU stuurt en eist streng toezicht op Europese uitgaven."
+    },
+    {
+      "promiseCode": "BBB-2025-266",
+      "text": "BBB handhaaft de Nederlandse korting op EU-afdracht van 1,9 miljard euro en wil deze geïndexeerd.",
+      "summary": "Handhaven en indexeren Nederlandse EU-korting 1,9 miljard",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlandse korting",
+        "eu-afdracht",
+        "1,9 miljard",
+        "indexering"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 127",
+      "originalQuote": "de korting voor Nederland op de afdracht van 1,9 miljard euro moet worden gehandhaafd en geïndexeerd."
+    },
+    {
+      "promiseCode": "BBB-2025-267",
+      "text": "BBB houdt Cohesiefondsen en landbouwbegroting gescheiden en voorkomt samenvoeging tot één Superfonds.",
+      "summary": "Cohesiefondsen en landbouwbegroting gescheiden houden",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cohesiefondsen",
+        "landbouwbegroting",
+        "superfonds",
+        "gescheiden"
+      ],
+      "sourceRef": "Verkiezingsprogramma BBB 2025, p. 127",
+      "originalQuote": "Cohesiefondsen en landbouwbegroting mogen niet worden samengevoegd tot één Superfonds."
+    }
+  ]
+}

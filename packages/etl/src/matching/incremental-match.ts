@@ -20,7 +20,8 @@
  *   AI_MODEL_INCREMENTAL_MATCH — Override model (default: Sonnet 4)
  */
 
-import { PrismaClient, PromiseMatchType } from '@prisma/client';
+import { PrismaClient } from '@prisma/client';
+import type { PromiseMatchType } from '@prisma/client';
 import { shouldMatchMotion } from './motion-filter.js';
 import { THEME_KEYWORDS } from './semantic-matcher.js';
 import { createAIClient, chatWithRetry, getModel, modelShortName } from '../lib/ai-client.js';

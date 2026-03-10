@@ -11,7 +11,12 @@
  * For "Met handopsteken" votes: only party-level aggregates exist
  */
 
-import { PrismaClient, VoteValue } from '@prisma/client';
+import { PrismaClient } from '@prisma/client';
+import type { VoteValue } from '@prisma/client';
+
+// ESM/CJS interop: Prisma enum chained assignments aren't statically analyzable
+// by Node.js v20. Use string literals that match the enum values at runtime.
+const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValue>;
 import { tkClient, type TKBesluitVote, type TKStemming } from '../clients/tk-odata.js';
 
 export { ingestHoofdelijk };

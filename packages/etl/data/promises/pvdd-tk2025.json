@@ -1,0 +1,4410 @@
+{
+  "party": "PvdD",
+  "partySlug": "pvdd",
+  "program": "Natuurlijk.",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-17",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88761/",
+  "pdfHash": "7d661c640b903ac8d90c74f37237bd44456bd785ab530eb3f96ed759e6eea210",
+  "totalPromises": 284,
+  "promises": [
+    {
+      "promiseCode": "PvdD-2025-001",
+      "text": "5% van het BBP wordt wettelijk vastgelegd voor het bestrijden van de klimaat- en natuurcrisis",
+      "summary": "5% BBP wettelijk vastleggen voor klimaat- en natuurcrisis",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bbp",
+        "klimaatcrisis",
+        "natuurcrisis",
+        "wettelijk",
+        "vastleggen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 7",
+      "originalQuote": "We leggen wettelijk vast dat 5% van het BBP naar het bestrijden van de klimaat- en natuurcrisis gaat."
+    },
+    {
+      "promiseCode": "PvdD-2025-002",
+      "text": "Nederland zet koers om zo snel mogelijk klimaatneutraal te zijn, met 2030 als uitgangspunt",
+      "summary": "Klimaatneutraal met 2030 als uitgangspunt",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "2030",
+        "uitgangspunt",
+        "koers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 7",
+      "originalQuote": "Daarom moet Nederland koers zetten om zo snel mogelijk klimaatneutraal te zijn, met 2030 als uitgangspunt."
+    },
+    {
+      "promiseCode": "PvdD-2025-003",
+      "text": "De fossiele subsidies van in totaal 40 miljard publiek geld per jaar worden per direct beëindigd",
+      "summary": "40 miljard fossiele subsidies per direct beëindigen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fossiele subsidies",
+        "40 miljard",
+        "publiek geld",
+        "beëindigd"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 8",
+      "originalQuote": "De fossiele subsidies, in totaal 40 miljard publiek geld per jaar, worden per direct beëindigd."
+    },
+    {
+      "promiseCode": "PvdD-2025-004",
+      "text": "Er komt een Ministerie voor Natuur en Klimaat",
+      "summary": "Nieuw Ministerie voor Natuur en Klimaat oprichten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "natuur",
+        "klimaat",
+        "oprichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 8",
+      "originalQuote": "Er komt een Ministerie voor Natuur en Klimaat."
+    },
+    {
+      "promiseCode": "PvdD-2025-005",
+      "text": "De minister-president geeft iedere maand een persconferentie over de klimaat- en natuurcrisis",
+      "summary": "Maandelijkse persconferentie MP over klimaat en natuur",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister-president",
+        "maandelijks",
+        "persconferentie",
+        "klimaatcrisis",
+        "natuurcrisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 8",
+      "originalQuote": "De minister-president geeft iedere maand een persconferentie over de klimaat- en natuurcrisis."
+    },
+    {
+      "promiseCode": "PvdD-2025-006",
+      "text": "Er komt een luchtruimverbod voor privéjets en een verbod op het aanmeren en afvaren van commerciële cruiseschepen en superjachten in Nederland",
+      "summary": "Verbod op privéjets, cruiseschepen en superjachten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "luchtruimverbod",
+        "privéjets",
+        "cruiseschepen",
+        "superjachten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 8",
+      "originalQuote": "Er komt een luchtruimverbod voor privéjets en een verbod op het aanmeren en afvaren van commerciële cruiseschepen en superjachten in Nederland."
+    },
+    {
+      "promiseCode": "PvdD-2025-007",
+      "text": "In 2030 gebruikt Nederland 50% minder energie ten opzichte van 1990",
+      "summary": "50% minder energiegebruik in 2030 t.o.v. 1990",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energiegebruik",
+        "50%",
+        "2030",
+        "1990",
+        "reductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 9",
+      "originalQuote": "In 2030 gebruikt Nederland 50% minder energie ten opzichte van 1990."
+    },
+    {
+      "promiseCode": "PvdD-2025-008",
+      "text": "Er komt een rem op de bouw van datacenters; nieuwe datacenters worden slechts in zeer uitzonderlijke gevallen toegestaan voor Europese publieke digitale infrastructuur",
+      "summary": "Rem op datacentersbouw, alleen voor publieke infrastructuur",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "datacenters",
+        "bouwrem",
+        "publieke infrastructuur",
+        "uitzonderlijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 9",
+      "originalQuote": "Er komt een rem op de bouw van datacenters. Een datacenter gebruikt evenveel energie als tien- tot honderdduizenden huishoudens... Datacenters worden slechts in zeer uitzonderlijke gevallen toegestaan, en uitsluitend wanneer zij ten dienste staan aan Europese publieke digitale infrastructuur"
+    },
+    {
+      "promiseCode": "PvdD-2025-009",
+      "text": "Alle nieuwbouwwoningen worden voorzien van zonnepanelen en er komen geen zonneparken in de natuur",
+      "summary": "Zonnepanelen op alle nieuwbouw, geen zonneparken in natuur",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zonnepanelen",
+        "nieuwbouw",
+        "zonneparken",
+        "natuur",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 10",
+      "originalQuote": "Alle nieuwbouwwoningen worden voorzien van zonnepanelen. Er komen geen zonneparken in de natuur en in principe niet op landbouwgrond."
+    },
+    {
+      "promiseCode": "PvdD-2025-010",
+      "text": "We stoppen met olie- en gaswinning op land en op zee, de gaskranen in Groningse Warffum, Grijpskerk en Bedum gaan dicht en blijven dicht",
+      "summary": "Stop olie- en gaswinning, Groningse gaskranen definitief dicht",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "olie",
+        "gaswinning",
+        "groningen",
+        "gaskranen",
+        "stoppen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 11",
+      "originalQuote": "We stoppen met olie- en gaswinning op land en op zee... De gaskranen in het Groningse Warffum, Grijpskerk (Molenpolder) en Bedum gaan dicht, en blijven dicht."
+    },
+    {
+      "promiseCode": "PvdD-2025-011",
+      "text": "De kolencentrales sluiten zo snel mogelijk en worden niet omgebouwd tot biomassacentrales",
+      "summary": "Kolencentrales sluiten, geen ombouw tot biomassa",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kolencentrales",
+        "sluiting",
+        "biomassacentrales",
+        "ombouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 11",
+      "originalQuote": "De kolencentrales sluiten zo snel mogelijk en worden niet omgebouwd tot biomassacentrales."
+    },
+    {
+      "promiseCode": "PvdD-2025-012",
+      "text": "Nederland bouwt geen nieuwe kerncentrales en bestaande centrales worden zo snel mogelijk gesloten",
+      "summary": "Geen nieuwe kerncentrales, bestaande zo snel mogelijk sluiten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerncentrales",
+        "nieuwbouw",
+        "sluiting",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "Nederland bouwt geen nieuwe kerncentrales en bestaande centrales worden zo snel mogelijk gesloten."
+    },
+    {
+      "promiseCode": "PvdD-2025-013",
+      "text": "Biomassaverbranding voor energie krijgt geen subsidie meer. BECCS (biomassa in combinatie met koolstofopslag) wordt niet langer gesubsidieerd en gefaciliteerd.",
+      "summary": "Stoppen subsidies biomassaverbranding en BECCS",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "biomassaverbranding",
+        "subsidie",
+        "beccs",
+        "koolstofopslag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "Biomassaverbranding voor energie krijgt geen subsidie meer. BECCS (biomassa in combinatie met koolstofopslag) wordt niet langer gesubsidieerd en gefaciliteerd."
+    },
+    {
+      "promiseCode": "PvdD-2025-014",
+      "text": "Er komt een einde aan de bijmengverplichting van biobrandstoffen in de transport- en mobiliteitssector.",
+      "summary": "Afschaffen bijmengverplichting biobrandstoffen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "biobrandstoffen",
+        "bijmengverplichting",
+        "transport",
+        "mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "Er komt een einde aan de bijmengverplichting."
+    },
+    {
+      "promiseCode": "PvdD-2025-015",
+      "text": "We stoppen met mestvergisters omdat gas gemaakt van mest en ander agrarisch afval niet groen is en de intensieve veehouderij in stand houdt.",
+      "summary": "Stoppen met mestvergisters",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mestvergisters",
+        "mest",
+        "agrarisch afval",
+        "veehouderij"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "We stoppen met mestvergisters."
+    },
+    {
+      "promiseCode": "PvdD-2025-016",
+      "text": "Rechten voor de natuur worden opgenomen in de Grondwet.",
+      "summary": "Natuurrechten in Grondwet opnemen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "natuurrechten",
+        "grondwet",
+        "natuur",
+        "grondrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "Rechten voor de natuur worden opgenomen in de Grondwet."
+    },
+    {
+      "promiseCode": "PvdD-2025-017",
+      "text": "Ecocide wordt strafbaar. We voegen het wel bewust grootschalig beschadigen van ecosystemen als misdaad toe aan het Wetboek van Strafrecht.",
+      "summary": "Ecocide strafbaar maken in wetgeving",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ecocide",
+        "strafbaar",
+        "ecosystemen",
+        "wetboek van strafrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "Ecocide wordt strafbaar. We voegen het wel bewust grootschalig beschadigen van ecosystemen als misdaad toe aan het Wetboek van Strafrecht."
+    },
+    {
+      "promiseCode": "PvdD-2025-018",
+      "text": "Het totale aantal dieren dat in de bio-industrie wordt gefokt en gedood, krimpt met minstens 75% in de komende twee jaar.",
+      "summary": "75% krimp bio-industrie in twee jaar",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bio-industrie",
+        "dieren",
+        "krimp",
+        "75 procent",
+        "twee jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "Het totale aantal dieren dat in de bio-industrie wordt gefokt en gedood, krimpt met minstens 75% in de komende twee jaar."
+    },
+    {
+      "promiseCode": "PvdD-2025-019",
+      "text": "In 2030 zijn 75% van de stikstofgevoelige gebieden onder de kritische depositiewaarde gebracht, met prioriteit voor de meest gevoelige gebieden.",
+      "summary": "75% stikstofgevoelige gebieden onder kritische waarde in 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofgevoelige gebieden",
+        "2030",
+        "75 procent",
+        "kritische depositiewaarde"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "In 2030 zijn 75% van de stikstofgevoelige gebieden onder de kritische depositiewaarde gebracht, met prioriteit voor de meest gevoelige gebieden."
+    },
+    {
+      "promiseCode": "PvdD-2025-020",
+      "text": "In elke provincie komt één groot nieuw natuurgebied, met goede verbindingen naar al bestaande natuurgebieden. Aan de rand daarvan komt ruimte voor natuurrecreatie.",
+      "summary": "Per provincie één groot nieuw natuurgebied",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "provincie",
+        "natuurgebied",
+        "verbindingen",
+        "natuurrecreatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 12",
+      "originalQuote": "In elke provincie komt één groot nieuw natuurgebied, met goede verbindingen naar al bestaande natuurgebieden. Aan de rand daarvan komt ruimte voor natuurrecreatie."
+    },
+    {
+      "promiseCode": "PvdD-2025-021",
+      "text": "De oorspronkelijke Ecologische Hoofdstructuur (EHS) wordt uiterlijk in 2027 volledig gerealiseerd, met versterking van biodiversiteit.",
+      "summary": "Ecologische Hoofdstructuur volledig gerealiseerd in 2027",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ecologische hoofdstructuur",
+        "ehs",
+        "2027",
+        "biodiversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 13",
+      "originalQuote": "We willen het oorspronkelijke idee van de Ecologische Hoofdstructuur (nu het Natuurnetwerk Nederland) uiterlijk in 2027 volledig gerealiseerd zien, met versterking van biodiversiteit."
+    },
+    {
+      "promiseCode": "PvdD-2025-022",
+      "text": "Er komt een verbod op landbouwgif. De land- en tuinbouw worden dus gifvrij.",
+      "summary": "Verbod op landbouwgif invoeren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "landbouwgif",
+        "landbouw",
+        "tuinbouw",
+        "gifvrij"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 13",
+      "originalQuote": "Er komt een verbod op landbouwgif. De land- en tuinbouw worden dus gifvrij."
+    },
+    {
+      "promiseCode": "PvdD-2025-023",
+      "text": "We zorgen voor echt schoon en voldoende water in Nederland. Er komen extra maatregelen om de Kaderrichtlijn Water nog in 2026 te halen.",
+      "summary": "Kaderrichtlijn Water halen in 2026",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kaderrichtlijn water",
+        "2026",
+        "schoon water",
+        "maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 16",
+      "originalQuote": "We zorgen voor echt schoon en voldoende water in Nederland. Er komen extra maatregelen om de Kaderrichtlijn Water nog in 2026 te halen."
+    },
+    {
+      "promiseCode": "PvdD-2025-024",
+      "text": "Ook grootverbruikers, zoals industrie en landbouw, dringen hun drinkwatergebruik met 20% terug.",
+      "summary": "20% minder drinkwatergebruik grootverbruikers",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grootverbruikers",
+        "drinkwatergebruik",
+        "20 procent",
+        "industrie",
+        "landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 16",
+      "originalQuote": "Ook grootverbruikers, zoals industrie en landbouw, dringen hun drinkwatergebruik met 20% terug."
+    },
+    {
+      "promiseCode": "PvdD-2025-025",
+      "text": "Nederland ratificeert het VN-oceanenverdrag.",
+      "summary": "VN-oceanenverdrag ratificeren",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vn-oceanenverdrag",
+        "ratificatie",
+        "oceanenverdrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 17",
+      "originalQuote": "Nederland ratificeert het VN-oceanenverdrag."
+    },
+    {
+      "promiseCode": "PvdD-2025-026",
+      "text": "Er komt een waterverbinding, oftewel vismigratiroute, tussen het IJsselmeer en het Markermeer.",
+      "summary": "Waterverbinding tussen IJsselmeer en Markermeer",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waterverbinding",
+        "vismigratieroute",
+        "ijsselmeer",
+        "markermeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 18",
+      "originalQuote": "Er komt een waterverbinding, oftewel vismigratieroute, tussen het IJsselmeer en het Markermeer."
+    },
+    {
+      "promiseCode": "PvdD-2025-027",
+      "text": "Er worden geen nieuwe lozingsvergunningen uitgegeven en bestaande lozingsvergunningen worden zo snel mogelijk ingetrokken.",
+      "summary": "Stoppen met lozingsvergunningen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lozingsvergunningen",
+        "milieuvreemde stoffen",
+        "water",
+        "lucht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 18",
+      "originalQuote": "Er worden geen nieuwe lozingsvergunningen uitgegeven en bestaande lozingsvergunningen worden zo snel mogelijk ingetrokken."
+    },
+    {
+      "promiseCode": "PvdD-2025-028",
+      "text": "Er komt zo snel mogelijk een landelijk totaalverbod op de toepassing en het gebruik van PFAS en schadelijke PFAS vervangende chemicaliën.",
+      "summary": "Landelijk totaalverbod PFAS invoeren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "totaalverbod",
+        "pfas",
+        "chemicaliën",
+        "landelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 18",
+      "originalQuote": "Vooruitlopend op een Europees verbod komt er zo snel mogelijk een landelijk totaalverbod op de toepassing en het gebruik van PFAS en schadelijke PFAS vervangende chemicaliën."
+    },
+    {
+      "promiseCode": "PvdD-2025-029",
+      "text": "De meest vervuilende onderdelen van Tata Steel worden meteen gesloten.",
+      "summary": "Vervuilende onderdelen Tata Steel sluiten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tata steel",
+        "vervuilende onderdelen",
+        "sluiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 18",
+      "originalQuote": "De meest vervuilende onderdelen van Tata Steel worden meteen gesloten."
+    },
+    {
+      "promiseCode": "PvdD-2025-030",
+      "text": "Er komt een saneringsplan om gevaarlijke stoffen als PFAS en staalslakken zoveel mogelijk uit de leefomgeving te verwijderen, waarbij de vervuilers worden gedwongen te betalen.",
+      "summary": "Saneringsplan voor PFAS en staalslakken, vervuilers betalen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "saneringsplan",
+        "pfas",
+        "staalslakken",
+        "leefomgeving",
+        "vervuilers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "Er komt een saneringsplan om gevaarlijke stoffen als PFAS en staalslakken zoveel mogelijk uit de leefomgeving te verwijderen, waarbij de vervuilers worden gedwongen te betalen."
+    },
+    {
+      "promiseCode": "PvdD-2025-031",
+      "text": "Het Rijk neemt de regie over het toezicht en de handhaving van milieuwetgeving en de bestrijding van milieucriminaliteit. Controles zijn voortaan onaangekondigd en bedrijven betalen zelf de kosten van controles.",
+      "summary": "Rijksregie milieutoezicht, onaangekondigde controles, bedrijven betalen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "milieutoezicht",
+        "handhaving",
+        "milieucriminaliteit",
+        "controles",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "Het Rijk neemt de regie over het toezicht en de handhaving van milieuwetgeving en de bestrijding van milieucriminaliteit. [...] Controles zijn voortaan onaangekondigd en bedrijven betalen zelf de kosten van controles."
+    },
+    {
+      "promiseCode": "PvdD-2025-032",
+      "text": "Er komt een Onafhankelijke Autoriteit Gezondheid, die de gezondheid van mens, dier en omgeving moet waarborgen. Deze autoriteit kan plannen die (mogelijk) schadelijk zijn tegenhouden.",
+      "summary": "Onafhankelijke Autoriteit Gezondheid met vetorecht schadelijke plannen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "autoriteit",
+        "gezondheid",
+        "mens",
+        "dier",
+        "omgeving",
+        "vetorecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "Er komt een Onafhankelijke Autoriteit Gezondheid, die de gezondheid van mens, dier en omgeving moet waarborgen. Deze autoriteit kan plannen die (mogelijk) schadelijk zijn tegenhouden"
+    },
+    {
+      "promiseCode": "PvdD-2025-033",
+      "text": "We bouwen de overcapaciteit van afvalverbrandingsinstallaties (AVI's) zo snel mogelijk af en stoppen met de import van buitenlands afval.",
+      "summary": "Afbouw AVI-overcapaciteit, stop import buitenlands afval",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalverbrandingsinstallaties",
+        "avi",
+        "overcapaciteit",
+        "import",
+        "buitenlands afval"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "We bouwen de overcapaciteit van afvalverbrandingsinstallaties (AVI's) zo snel mogelijk af en stoppen met de import van buitenlands afval."
+    },
+    {
+      "promiseCode": "PvdD-2025-034",
+      "text": "We verbieden de verkoop van sigarettenfilters en er komt een verbod op wegwerpvapes.",
+      "summary": "Verbod verkoop sigarettenfilters en wegwerpvapes",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sigarettenfilters",
+        "wegwerpvapes",
+        "verkoop",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "We verbieden de verkoop van sigarettenfilters en er komt een verbod op wegwerpvapes."
+    },
+    {
+      "promiseCode": "PvdD-2025-035",
+      "text": "We verbieden het oplaten van met gas gevulde ballonnen, de verkoop en het oplaten van wensballonnen, en de verkoop en het buiten gebruiken van waterballonnen.",
+      "summary": "Verbod gas-ballonnen, wensballonnen en waterballonnen buiten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ballonnen",
+        "wensballonnen",
+        "waterballonnen",
+        "verbod",
+        "verkoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "We verbieden het oplaten van met gas gevulde ballonnen, de verkoop en het oplaten van wensballonnen, en de verkoop en het buiten gebruiken van waterballonnen."
+    },
+    {
+      "promiseCode": "PvdD-2025-036",
+      "text": "De ja-ja-sticker wordt landelijk ingevoerd. De regel wordt: je ontvangt geen reclamefolders, tenzij je daar met een sticker op je brievenbus om vraagt.",
+      "summary": "Landelijke invoering ja-ja-sticker voor reclamefolders",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ja-ja-sticker",
+        "reclamefolders",
+        "brievenbus",
+        "landelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "De ja-ja-sticker wordt landelijk ingevoerd. De regel wordt: je ontvangt geen reclamefolders, tenzij je daar met een sticker op je brievenbus om vraagt."
+    },
+    {
+      "promiseCode": "PvdD-2025-037",
+      "text": "We stoppen de verkoop van vogelvoer in plastic netjes.",
+      "summary": "Verbod verkoop vogelvoer in plastic netjes",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vogelvoer",
+        "plastic netjes",
+        "verkoop",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 19",
+      "originalQuote": "We stoppen de verkoop van vogelvoer in plastic netjes."
+    },
+    {
+      "promiseCode": "PvdD-2025-038",
+      "text": "Nederland werkt zo snel mogelijk toe naar een volledig circulaire economie en is in 2030 minimaal 50% circulair.",
+      "summary": "Nederland 50% circulair in 2030",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulaire economie",
+        "2030",
+        "50%",
+        "nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 20",
+      "originalQuote": "Nederland werkt zo snel mogelijk toe naar een volledig circulaire economie en is in 2030 minimaal 50% circulair."
+    },
+    {
+      "promiseCode": "PvdD-2025-039",
+      "text": "Nederland krijgt een anti-ultra fast fashion wet. Reclame voor bedrijven als SHEIN en Temu wordt hierdoor verboden en er komt een forse heffing op wegwerpkleding.",
+      "summary": "Anti-fast fashion wet, reclameverbod SHEIN/Temu, heffing wegwerpkleding",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fast fashion",
+        "shein",
+        "temu",
+        "reclameverbod",
+        "heffing",
+        "wegwerpkleding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 20",
+      "originalQuote": "Nederland krijgt een anti-ultra fast fashion wet. Reclame voor bedrijven als SHEIN en Temu wordt hierdoor verboden en er komt een forse heffing op wegwerpkleding."
+    },
+    {
+      "promiseCode": "PvdD-2025-040",
+      "text": "Er komt een Grondstoffenwet met bindende verplichtingen voor het terugdringen van grondstoffengebruik.",
+      "summary": "Grondstoffenwet met bindende verplichtingen grondstoffenreductie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondstoffenwet",
+        "bindende verplichtingen",
+        "grondstoffengebruik",
+        "terugdringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 20",
+      "originalQuote": "Er komt een Grondstoffenwet met bindende verplichtingen voor het terugdringen van grondstoffengebruik."
+    },
+    {
+      "promiseCode": "PvdD-2025-041",
+      "text": "Het huidige statiegeldsysteem voor plastic flessen en blikjes wordt uitgebreid naar álle drankverpakkingen, zoals sapflesjes en drankenkartons. De verantwoordelijkheid komt in handen van de overheid.",
+      "summary": "Uitbreiding statiegeld naar alle drankverpakkingen, overheidsregie",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statiegeld",
+        "drankverpakkingen",
+        "sapflesjes",
+        "drankenkartons",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 21",
+      "originalQuote": "Het huidige statiegeldsysteem voor plastic flessen en blikjes wordt uitgebreid naar álle drankverpakkingen, zoals sapflesjes en drankenkartons. [...] De verantwoordelijkheid voor het statiegeldsysteem komt in handen van de overheid"
+    },
+    {
+      "promiseCode": "PvdD-2025-042",
+      "text": "Er komen verplichte productgaranties van tien jaar in plaats van twee jaar, en verbod op opzettelijk verkorten van productlevensduur.",
+      "summary": "Verplichte productgarantie 10 jaar, verbod geplande veroudering",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "productgarantie",
+        "tien jaar",
+        "productlevensduur",
+        "geplande veroudering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 21",
+      "originalQuote": "Er komen verplichte productgaranties van tien jaar in plaats van twee jaar, en verbod op opzettelijk verkorten van productlevensduur."
+    },
+    {
+      "promiseCode": "PvdD-2025-043",
+      "text": "Er komt een plastictaks op de productie van nieuw fossiel plastic.",
+      "summary": "Plastictaks op productie nieuw fossiel plastic",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "plastictaks",
+        "fossiel plastic",
+        "productie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 22",
+      "originalQuote": "Er komt een plastictaks op de productie van nieuw fossiel plastic."
+    },
+    {
+      "promiseCode": "PvdD-2025-044",
+      "text": "We verbieden het toevoegen van microplastics aan producten zoals cosmetica.",
+      "summary": "Verbod microplastics in cosmetica en andere producten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "microplastics",
+        "cosmetica",
+        "verbod",
+        "producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 22",
+      "originalQuote": "We verbieden het toevoegen van microplastics aan producten zoals cosmetica."
+    },
+    {
+      "promiseCode": "PvdD-2025-045",
+      "text": "De rechten van dieren worden in de Grondwet erkend en vastgelegd.",
+      "summary": "Dierenrechten in de Grondwet",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dierenrechten",
+        "grondwet",
+        "grondwetsherziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 25",
+      "originalQuote": "De rechten van dieren worden in de Grondwet erkend en vastgelegd."
+    },
+    {
+      "promiseCode": "PvdD-2025-046",
+      "text": "Er komt een ministerie voor Dieren. Dit ministerie dient níet ook de belangen van de landbouw en vee-industrie.",
+      "summary": "Ministerie voor Dieren, los van landbouwbelangen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "dieren",
+        "landbouw",
+        "vee-industrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 25",
+      "originalQuote": "Er komt een ministerie voor Dieren. Dit ministerie dient níet ook de belangen van de landbouw en vee-industrie."
+    },
+    {
+      "promiseCode": "PvdD-2025-047",
+      "text": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood krimpt met minstens 75% in de komende twee jaar.",
+      "summary": "75% reductie dieren veehouderij binnen 2 jaar",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veehouderij",
+        "75%",
+        "reductie",
+        "twee jaar",
+        "dieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 25",
+      "originalQuote": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood krimpt met minstens 75% in de komende twee jaar."
+    },
+    {
+      "promiseCode": "PvdD-2025-048",
+      "text": "De eenden- en konijnenhouderij en viskwekerijen worden per direct verboden.",
+      "summary": "Direct verbod eenden-, konijnenhouderij en viskwekerijen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eendenhouderij",
+        "konijnenhouderij",
+        "viskwekerijen",
+        "verbod",
+        "direct"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 26",
+      "originalQuote": "Daarom worden de eenden- en konijnenhouderij en viskwekerijen in ieder geval per direct verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-049",
+      "text": "Diertransporten duren maximaal twee uur. Op koude en warme dagen (beneden 0°C of vanaf 25°C) mogen dieren niet worden getransporteerd.",
+      "summary": "Maximum 2 uur diertransport, verbod bij extreme temperaturen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diertransport",
+        "twee uur",
+        "temperatuur",
+        "0°c",
+        "25°c"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 26",
+      "originalQuote": "Diertransporten duren maximaal twee uur. Op koude en warme dagen (dat wil zeggen: in ieder geval op dagen met een verwachte temperatuur beneden 0 °C of vanaf 25 °C, dit wordt nader afgestemd op de diersoort) [...] mogen dieren niet worden getransporteerd."
+    },
+    {
+      "promiseCode": "PvdD-2025-050",
+      "text": "Er komt een kilometerheffing op transport van dieren.",
+      "summary": "Kilometerheffing op dierentransport",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kilometerheffing",
+        "dierentransport",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "Er komt daarnaast een kilometerheffing op dierentransport."
+    },
+    {
+      "promiseCode": "PvdD-2025-051",
+      "text": "Kalfjes mogen niet meer op transport worden gezet en er komt per direct een einde aan de import van kalfjes voor de kalvermesterij.",
+      "summary": "Verbod op transport en import van kalfjes",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kalfjes",
+        "transport",
+        "import",
+        "kalvermesterij",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "Kalfjes mogen niet meer op transport worden gezet. Er komt per direct een einde aan de import van kalfjes voor de kalvermesterij."
+    },
+    {
+      "promiseCode": "PvdD-2025-052",
+      "text": "Er komt een speciale belasting voor slachthuizen (slachttaks).",
+      "summary": "Slachttaks voor slachthuizen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "slachttaks",
+        "slachthuizen",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "Er komt een speciale belasting voor slachthuizen (slachttaks)."
+    },
+    {
+      "promiseCode": "PvdD-2025-053",
+      "text": "Het verbod op onverdoofd slachten gaat voor iedereen gelden: de uitzondering die ten behoeve van religieuze slacht op dit verbod is gemaakt, wordt geschrapt.",
+      "summary": "Uitbreiding verbod onverdoofd slachten naar religieuze slacht",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onverdoofd",
+        "slachten",
+        "religieus",
+        "uitzondering",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "Het verbod op onverdoofd slachten gaat voor iedereen gelden: de uitzondering die ten behoeve van religieuze slacht op dit verbod is gemaakt, wordt geschrapt."
+    },
+    {
+      "promiseCode": "PvdD-2025-054",
+      "text": "Veemarkten worden verboden.",
+      "summary": "Verbod op veemarkten",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veemarkten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "Veemarkten worden verboden, omdat ze in welke vorm dan ook veel leed en stress veroorzaken."
+    },
+    {
+      "promiseCode": "PvdD-2025-055",
+      "text": "Stallen, slachterijen en verzamelcentra krijgen per direct permanent cameratoezicht.",
+      "summary": "Permanent cameratoezicht in stallen en slachterijen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cameratoezicht",
+        "stallen",
+        "slachterijen",
+        "verzamelcentra"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "Stallen, slachterijen en verzamelcentra krijgen per direct permanent cameratoezicht."
+    },
+    {
+      "promiseCode": "PvdD-2025-056",
+      "text": "De NVWA gaat weg bij het ministerie van Landbouw en wordt ondergebracht bij Justitie en Veiligheid.",
+      "summary": "NVWA verhuist naar Justitie en Veiligheid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nvwa",
+        "justitie",
+        "veiligheid",
+        "landbouw",
+        "ministerie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 27",
+      "originalQuote": "De dienst gaat weg bij het ministerie van Landbouw en wordt ondergebracht bij Justitie en Veiligheid."
+    },
+    {
+      "promiseCode": "PvdD-2025-057",
+      "text": "Slachthuizen waar overtredingen plaatsvinden gaan direct dicht.",
+      "summary": "Directe sluiting slachthuizen bij overtredingen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slachthuizen",
+        "overtredingen",
+        "sluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 28",
+      "originalQuote": "Slachthuizen waar overtredingen plaatsvinden gaan direct dicht."
+    },
+    {
+      "promiseCode": "PvdD-2025-058",
+      "text": "Er komt een verbod op het oormerken van dieren.",
+      "summary": "Verbod op oormerken van dieren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oormerken",
+        "dieren",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 28",
+      "originalQuote": "Er komt een verbod op het oormerken van dieren."
+    },
+    {
+      "promiseCode": "PvdD-2025-059",
+      "text": "Glazen wanden worden daadwerkelijk verplicht toegepast in delen van slachthuizen en stallen, zodat van buitenaf te zien is wat er binnen gebeurt.",
+      "summary": "Verplichte glazen wanden in stallen en slachthuizen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "glazen wanden",
+        "slachthuizen",
+        "stallen",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 28",
+      "originalQuote": "Glazen wanden worden daadwerkelijk verplicht toegepast in delen van slachthuizen en stallen, zodat van buitenaf te zien is wat er binnen gebeurt."
+    },
+    {
+      "promiseCode": "PvdD-2025-060",
+      "text": "Er komt een einde aan misleidende communicatie, verhullende termen en reclame voor dierlijke producten.",
+      "summary": "Verbod misleidende reclame voor dierlijke producten",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "misleidende communicatie",
+        "reclame",
+        "dierlijke producten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 28",
+      "originalQuote": "Er komt een einde aan misleidende communicatie, verhullende termen (oftewel: humane washing) en reclame voor dierlijke producten."
+    },
+    {
+      "promiseCode": "PvdD-2025-061",
+      "text": "Dierenleed wordt verplicht zichtbaar op verpakkingen van dierlijke producten, vergelijkbaar met visuele boodschappen op pakjes sigaretten.",
+      "summary": "Verplichte waarschuwingslabels dierenleed op verpakkingen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dierenleed",
+        "verpakkingen",
+        "labels",
+        "dierlijke producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 29",
+      "originalQuote": "Dierenleed wordt verplicht zichtbaar op verpakkingen van dierlijke producten, vergelijkbaar met visuele boodschappen op pakjes sigaretten."
+    },
+    {
+      "promiseCode": "PvdD-2025-062",
+      "text": "Alle vormen van onderwaterjacht, zoals de visserij, worden verboden.",
+      "summary": "Verbod op alle vormen van visserij",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderwaterjacht",
+        "visserij",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 29",
+      "originalQuote": "Alle vormen van onderwaterjacht, zoals de visserij, worden verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-063",
+      "text": "Het aangekondigde verbod op het levend koken van kreeften en krabben treedt per direct in werking.",
+      "summary": "Direct verbod levend koken kreeften en krabben",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levend koken",
+        "kreeften",
+        "krabben",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 29",
+      "originalQuote": "Het aangekondigde verbod op het levend koken van kreeften en krabben treedt per direct in werking."
+    },
+    {
+      "promiseCode": "PvdD-2025-064",
+      "text": "Er komen geen nieuwe vis-, schaaldier- en schelpdier kwekerijen en bestaande worden zo snel mogelijk afgebouwd.",
+      "summary": "Stop nieuwe aquacultuur en afbouw bestaande",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vis",
+        "schaaldier",
+        "schelpdier",
+        "kwekerijen",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 29",
+      "originalQuote": "Er komen geen nieuwe vis-, schaaldier- en schelpdierkwekerijen en bestaande worden zo snel mogelijk afgebouwd."
+    },
+    {
+      "promiseCode": "PvdD-2025-065",
+      "text": "Sportvissen wordt verboden.",
+      "summary": "Verbod op sportvissen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sportvissen",
+        "hengelsport",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 29",
+      "originalQuote": "Sportvissen (de hengeljacht) is een vorm van tijdverdrijf die ernstig dierenleed veroorzaakt en wordt verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-066",
+      "text": "Er komt op Nederlands en Europees niveau een verbod op het kweken van insecten en op nieuwvestiging van insectenkwekerijen.",
+      "summary": "Verbod insectenkwekerijen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "insecten",
+        "kwekerijen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 29",
+      "originalQuote": "Er komt op Nederlands en Europees niveau een verbod op het kweken van insecten en op nieuwvestiging van insectenkwekerijen, om deze nieuwe vorm van vee-industrie in de kiem te smoren."
+    },
+    {
+      "promiseCode": "PvdD-2025-067",
+      "text": "Het aangekondigde EU-kooienverbod gaat zo snel mogelijk, maar uiterlijk in 2027 in.",
+      "summary": "EU-kooienverbod uiterlijk 2027",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kooienverbod",
+        "eu",
+        "2027"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 30",
+      "originalQuote": "Het aangekondigde EU-kooienverbod waarvoor 1,4 miljoen mensen een burgerinitiatief tekenden gaat zo snel mogelijk, maar uiterlijk in 2027 in."
+    },
+    {
+      "promiseCode": "PvdD-2025-068",
+      "text": "De landelijke lijst van vrij bejaagbare soorten wordt afgeschaft en er komt een verbod op het doden van in vrijheid levende dieren door hobbyjagers.",
+      "summary": "Afschaffing jachtlijst en verbod hobbyjacht",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bejaagbare soorten",
+        "hobbyjagers",
+        "jacht",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 30",
+      "originalQuote": "De landelijke lijst van vrij bejaagbare soorten wordt afgeschaft. Er komt een verbod op het doden van in vrijheid levende dieren door hobbyjagers."
+    },
+    {
+      "promiseCode": "PvdD-2025-069",
+      "text": "Het Koninklijk Jachtdepartement wordt opgeheven en Kroondomein Het Loo wordt het hele jaar publiek toegankelijk.",
+      "summary": "Opheffing Koninklijk Jachtdepartement en openstelling Het Loo",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koninklijk jachtdepartement",
+        "het loo",
+        "publiek toegankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 31",
+      "originalQuote": "Het Koninklijk Jachtdepartement wordt opgeheven. Kroondomein Het Loo wordt het hele jaar publiek toegankelijk en er wordt niet meer gejaagd of aan faunabeheer gedaan."
+    },
+    {
+      "promiseCode": "PvdD-2025-070",
+      "text": "Het vergassen van in het wild levende dieren, waaronder ganzen, wordt verboden.",
+      "summary": "Verbod vergassen wilde dieren",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergassen",
+        "wilde dieren",
+        "ganzen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 32",
+      "originalQuote": "Het vergassen van in het wild levende dieren, waaronder ganzen, wordt verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-071",
+      "text": "Er komt een verbod op het gebruik van robotgrasmaaiers die schadelijk zijn voor de biodiversiteit.",
+      "summary": "Verbod robotgrasmaaiers",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "robotgrasmaaiers",
+        "biodiversiteit",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 31",
+      "originalQuote": "Er komt een verbod op het gebruik van robotgrasmaaiers die schadelijk zijn voor de biodiversiteit en nu een gevaar vormen voor allerlei diersoorten, zoals egels die in het gras hun eten zoeken."
+    },
+    {
+      "promiseCode": "PvdD-2025-072",
+      "text": "Nederland verbiedt de import, productie en verkoop van bont, leer, kasjmier, kangoeroeproducten en angorawol. Ook dons van levend geplukte ganzen en eenden wordt verboden.",
+      "summary": "Verbod op import en verkoop van bont, leer, kasjmier en angorawol",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "importverbod",
+        "bont",
+        "leer",
+        "kasjmier",
+        "angorawol",
+        "kangoeroeproducten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 33",
+      "originalQuote": "Nederland verbiedt de import, productie en verkoop van bont, leer, kasjmier (geitenvacht), kangoeroeproducten en angorawol"
+    },
+    {
+      "promiseCode": "PvdD-2025-073",
+      "text": "Het Dolfinarium en aquaria worden gesloten. Sommige locaties kunnen dienen als tijdelijke opvanglocatie voor gestrande zeedieren.",
+      "summary": "Sluiting van Dolfinarium en aquaria",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dolfinarium",
+        "aquaria",
+        "sluiting",
+        "opvanglocatie",
+        "zeedieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 33",
+      "originalQuote": "Het Dolfinarium en aquaria worden gesloten. Sommige locaties zouden kunnen dienen als (tijdelijke) opvanglocatie voor gestrande of illegaal verhandelde zee(zoog)dieren."
+    },
+    {
+      "promiseCode": "PvdD-2025-074",
+      "text": "Onderzoek met dieren wordt zo snel mogelijk verboden. Het apenonderzoekscentrum BPRC wordt zo spoedig mogelijk gesloten volgens een tijdplan.",
+      "summary": "Verbod op dierproeven en sluiting BPRC",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dierproeven",
+        "verbod",
+        "bprc",
+        "apenonderzoek",
+        "sluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 34",
+      "originalQuote": "Onderzoek met dieren wordt zo snel mogelijk verboden. Er komt een plan (met tijdpad) om het apenonderzoekscentrum BPRC zo spoedig mogelijk te sluiten."
+    },
+    {
+      "promiseCode": "PvdD-2025-075",
+      "text": "Wettelijk voorgeschreven veiligheidsonderzoek op dieren wordt per 2030 verboden. Dierproeven in het hoger onderwijs worden per direct verboden.",
+      "summary": "Verbod dierproeven veiligheidsonderzoek 2030, direct verbod hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dierproeven",
+        "veiligheidsonderzoek",
+        "hoger onderwijs",
+        "verbod",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 35",
+      "originalQuote": "wettelijk voorgeschreven veiligheidsonderzoek wordt per 2030 verboden. Dierproeven in het hoger onderwijs (bachelor en master) worden per direct verboden"
+    },
+    {
+      "promiseCode": "PvdD-2025-076",
+      "text": "De minimumleeftijd voor het scheiden van kittens van hun moeder gaat omhoog naar twaalf weken.",
+      "summary": "Minimumleeftijd scheiden kittens verhoogd naar twaalf weken",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kittens",
+        "minimumleeftijd",
+        "twaalf weken",
+        "scheiden",
+        "moeder"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 36",
+      "originalQuote": "De minimumleeftijd voor het scheiden van kittens van hun moeder gaat omhoog naar twaalf weken."
+    },
+    {
+      "promiseCode": "PvdD-2025-077",
+      "text": "De chip- en registratieplicht voor honden wordt uitgebreid naar katten en aangemoedigd voor huisdieren met ontsnappingsgevaar.",
+      "summary": "Uitbreiding chip- en registratieplicht naar katten",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "chipplicht",
+        "registratieplicht",
+        "katten",
+        "honden",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 36",
+      "originalQuote": "De chip- en registratieplicht voor honden wordt uitgebreid naar katten"
+    },
+    {
+      "promiseCode": "PvdD-2025-078",
+      "text": "Diergeneeskundige zorg wordt vrijgesteld van btw. Er komen maximumtarieven voor dierenartskosten en een verbod op opkoop van dierenartspraktijken door buitenlandse ketens.",
+      "summary": "Btw-vrijstelling diergeneeskundige zorg en maximumtarieven",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw-vrijstelling",
+        "diergeneeskunde",
+        "maximumtarieven",
+        "dierenarts",
+        "buitenlandse ketens"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 37",
+      "originalQuote": "Net als medische hulp voor mensen wordt ook de diergeneeskundige zorg vrijgesteld van btw. Prijzen van diergeneeskundige zorg worden gereguleerd en niet meer aan de vrije markt overgelaten. Er komen maximumtarieven voor dierenartskosten. De opkoop van dierenartspraktijken door buitenlandse ketens wordt verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-079",
+      "text": "De import en handel in wilde dieren wordt verboden en er komt een waterdicht vergunningensysteem.",
+      "summary": "Verbod op import en handel wilde dieren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "importverbod",
+        "wilde dieren",
+        "handel",
+        "vergunningensysteem"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 38",
+      "originalQuote": "De import en handel in wilde dieren wordt verboden en er komt een waterdicht vergunningensysteem."
+    },
+    {
+      "promiseCode": "PvdD-2025-080",
+      "text": "Er komt structurele overheidsfinanciering voor basisvoorzieningen voor goed voedsel, zoals Mensa Mensa of schoolkantines met lokale en biologische maaltijden, vergelijkbaar met onderwijs en bibliotheken.",
+      "summary": "Structurele overheidsfinanciering voor voedsel-basisvoorzieningen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidsfinanciering",
+        "basisvoorzieningen",
+        "voedsel",
+        "schoolkantines",
+        "biologisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 43",
+      "originalQuote": "Er komt structurele overheidsfinanciering voor basisvoorzieningen voor goed voedsel, zoals Mensa Mensa of schoolkantines met lokale en biologische maaltijden, vergelijkbaar met onderwijs en bibliotheken."
+    },
+    {
+      "promiseCode": "PvdD-2025-081",
+      "text": "Supermarkten en voedselbanken gaan verplicht samenwerken om voedselverspilling tegen te gaan en voedselzekerheid te waarborgen.",
+      "summary": "Verplichte samenwerking supermarkten en voedselbanken tegen voedselverspilling",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "supermarkten",
+        "voedselbanken",
+        "samenwerking",
+        "voedselverspilling",
+        "voedselzekerheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 43",
+      "originalQuote": "Supermarkten en voedselbanken gaan verplicht samenwerken om voedselverspilling tegen te gaan en voedselzekerheid te waarborgen."
+    },
+    {
+      "promiseCode": "PvdD-2025-082",
+      "text": "De overheid koopt 100% plantaardig, biologisch en lokaal in voor alle publieke instellingen, inclusief scholen en zorginstellingen.",
+      "summary": "100% plantaardige, biologische inkoop overheid voor alle publieke instellingen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheid",
+        "inkoop",
+        "plantaardig",
+        "biologisch",
+        "publieke instellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 44",
+      "originalQuote": "De overheid koopt 100% plantaardig, biologisch en lokaal in voor alle publieke instellingen, inclusief scholen en zorginstellingen."
+    },
+    {
+      "promiseCode": "PvdD-2025-083",
+      "text": "De btw op groente, fruit, granen, peulvruchten en noten gaat naar 0%, en er komt een slachttaks op dierlijke producten.",
+      "summary": "0% btw op plantaardige producten en slachttaks op dierlijke producten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "groente",
+        "fruit",
+        "slachttaks",
+        "dierlijke producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 44",
+      "originalQuote": "Er komen prijsmaatregelen: de btw op groente, fruit, granen, peulvruchten en noten gaat naar 0%, en er komt een slachttaks op dierlijke producten."
+    },
+    {
+      "promiseCode": "PvdD-2025-084",
+      "text": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood krimpt met minstens 75% in de komende twee jaar.",
+      "summary": "75% krimp aantal dieren in veehouderij binnen twee jaar",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veehouderij",
+        "dieren",
+        "krimp",
+        "twee jaar",
+        "75 procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 45",
+      "originalQuote": "Het totale aantal dieren dat in de Nederlandse veehouderij wordt gefokt en gedood krimpt met minstens 75% in de komende twee jaar."
+    },
+    {
+      "promiseCode": "PvdD-2025-085",
+      "text": "Er komt een verbod op landbouwgif. De land- en tuinbouw worden gifvrij.",
+      "summary": "Volledig verbod op landbouwgif",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "landbouwgif",
+        "gifvrij",
+        "landbouw",
+        "tuinbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 46",
+      "originalQuote": "Er komt een verbod op landbouwgif. De land- en tuinbouw worden gifvrij."
+    },
+    {
+      "promiseCode": "PvdD-2025-086",
+      "text": "Er komt een verbod op luchtwassers en subsidies voor emissiearme stalsystemen worden stopgezet.",
+      "summary": "Verbod luchtwassers en stop subsidies emissiearme stalsystemen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "luchtwassers",
+        "subsidies",
+        "emissiearme stalsystemen",
+        "veehouderij"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 46",
+      "originalQuote": "Er komt een verbod op luchtwassers. Subsidies om de milieuschade van de veehouderij te beperken, worden niet meer besteed aan technologische lapmiddelen zoals zogenaamd emissiearme stalsystemen."
+    },
+    {
+      "promiseCode": "PvdD-2025-087",
+      "text": "Het injecteren van mest wordt verboden, evenals het gebruik van kunstmest.",
+      "summary": "Verbod op mest injecteren en kunstmest",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "mest",
+        "injecteren",
+        "kunstmest",
+        "bemesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 47",
+      "originalQuote": "Het injecteren van mest wordt verboden, evenals het gebruik van kunstmest."
+    },
+    {
+      "promiseCode": "PvdD-2025-088",
+      "text": "Alle Europese vrijhandelsverdragen die leiden tot import van goedkope producten die beneden Nederlandse standaarden zijn geproduceerd, worden geblokkeerd.",
+      "summary": "Blokkeren Europese vrijhandelsverdragen voor goedkope import onder Nederlandse standaarden",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijhandelsverdragen",
+        "import",
+        "standaarden",
+        "blokkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 48",
+      "originalQuote": "We blokkeren alle Europese vrijhandelsverdragen die leiden tot import van goedkope producten die beneden onze eigen standaarden zijn geproduceerd."
+    },
+    {
+      "promiseCode": "PvdD-2025-089",
+      "text": "Er komen heffingen aan de Europese buitengrenzen voor voedsel dat Nederland ook duurzamer kan produceren.",
+      "summary": "Heffingen aan EU-buitengrenzen voor voedsel dat Nederland duurzamer kan produceren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "heffingen",
+        "buitengrenzen",
+        "voedsel",
+        "duurzaam"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 48",
+      "originalQuote": "Er komen heffingen aan de Europese buitengrenzen voor voedsel dat we zelf ook duurzamer (kunnen) produceren."
+    },
+    {
+      "promiseCode": "PvdD-2025-090",
+      "text": "Nederland stopt per direct met het stimuleren en exporteren van systemen en producten voor industriële landbouw zoals slachterijen, megastallen en landbouwgif.",
+      "summary": "Direct stoppen met exporteren systemen industriële landbouw",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "export",
+        "industriële landbouw",
+        "slachterijen",
+        "megastallen",
+        "landbouwgif"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 48",
+      "originalQuote": "Nederland stopt per direct met het stimuleren en exporteren van systemen en producten voor industriële landbouw zoals slachterijen, megastallen en landbouwgif."
+    },
+    {
+      "promiseCode": "PvdD-2025-091",
+      "text": "De teelt en import van genetisch gemanipuleerde gewassen wordt verboden. Nederland wordt gentechvrij.",
+      "summary": "Verbod op teelt en import genetisch gemanipuleerde gewassen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gentechvrij",
+        "verbod",
+        "genetisch gemanipuleerde gewassen",
+        "teelt",
+        "import"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 49",
+      "originalQuote": "Nederland wordt gentechvrij. De teelt en import van genetisch gemanipuleerde gewassen wordt verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-092",
+      "text": "Er komt een Europees importverbod en productieverbod op gekloonde en genetisch gemanipuleerde dieren, hun nakomelingen en producten daarvan.",
+      "summary": "Europees verbod op gekloonde en genetisch gemanipuleerde dieren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "importverbod",
+        "productieverbod",
+        "gekloonde dieren",
+        "genetisch gemanipuleerde dieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 49",
+      "originalQuote": "Nederland maakt zich sterk voor een Europees importverbod en productieverbod op gekloonde en genetisch gemanipuleerde dieren, hun nakomelingen en de producten die van deze dieren worden gemaakt."
+    },
+    {
+      "promiseCode": "PvdD-2025-093",
+      "text": "Er komt verplichte etikettering voor vlees, zuivel, vis en eieren van dieren gevoed met genetisch gemanipuleerde gewassen op de voorkant van producten.",
+      "summary": "Verplichte etikettering gentech-voeding op voorkant verpakking",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verplichte etikettering",
+        "vlees",
+        "zuivel",
+        "genetisch gemanipuleerde gewassen",
+        "voorkant"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 49",
+      "originalQuote": "Er komt verplichte etikettering voor vlees, zuivel, vis en eieren afkomstig van dieren die zijn gevoed met genetisch gemanipuleerde gewassen. Wanneer gentech-ingrediënten zijn verwerkt in een product, wordt dit duidelijk vermeld op de voorkant van het product of de verpakking."
+    },
+    {
+      "promiseCode": "PvdD-2025-094",
+      "text": "Visserijsubsidies worden per direct afgeschaft.",
+      "summary": "Direct afschaffen visserijsubsidies",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "visserijsubsidies",
+        "afschaffen",
+        "direct"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Visserijsubsidies worden per direct afgeschaft."
+    },
+    {
+      "promiseCode": "PvdD-2025-095",
+      "text": "Er komt een totaalverbod op visserij en andere schadelijke activiteiten in beschermde natuurgebieden.",
+      "summary": "Totaalverbod visserij in beschermde natuurgebieden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "totaalverbod",
+        "visserij",
+        "beschermde natuurgebieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Er komt een totaalverbod op visserij en andere schadelijke activiteiten in beschermde natuurgebieden."
+    },
+    {
+      "promiseCode": "PvdD-2025-096",
+      "text": "In het Waddengebied mag niet langer commercieel gevist worden.",
+      "summary": "Verbod commerciële visserij Waddengebied",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waddengebied",
+        "commerciële visserij",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "In het Waddengebied mag niet langer commercieel gevist worden."
+    },
+    {
+      "promiseCode": "PvdD-2025-097",
+      "text": "Voor paling, kabeljauw en tonijn wordt onmiddellijk een vangstverbod ingesteld.",
+      "summary": "Onmiddellijk vangstverbod paling, kabeljauw en tonijn",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vangstverbod",
+        "paling",
+        "kabeljauw",
+        "tonijn",
+        "onmiddellijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Voor de kwetsbaarste soorten zoals paling, kabeljauw en tonijn wordt onmiddellijk een vangstverbod ingesteld."
+    },
+    {
+      "promiseCode": "PvdD-2025-098",
+      "text": "Er komen geen nieuwe viskwekerijen en bestaande viskwekerijen worden zo snel mogelijk gesloten.",
+      "summary": "Geen nieuwe viskwekerijen, bestaande sluiten",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "viskwekerijen",
+        "verbod",
+        "sluiten",
+        "nieuwe"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Er komen geen nieuwe viskwekerijen en bestaande viskwekerijen worden zo snel mogelijk gesloten."
+    },
+    {
+      "promiseCode": "PvdD-2025-099",
+      "text": "Er komt een giftaks: hoe groter de schade door gif, hoe hoger de taks. Opbrengsten ondersteunen overgang naar biologische praktijken.",
+      "summary": "Giftaks op landbouwgif naar mate van schade",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "giftaks",
+        "landbouwgif",
+        "biologische praktijken",
+        "schade"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Totdat landbouwgif verboden is, komt er een giftaks: hoe groter de bijkomende schade door het gif is, hoe hoger de taks. De opbrengsten daarvan worden gebruikt om boeren te ondersteunen in de overgang naar duurzame, biologische praktijken."
+    },
+    {
+      "promiseCode": "PvdD-2025-100",
+      "text": "Landbouwgif wordt direct verboden binnen 500 meter van woningen, scholen, wegen, paden en natuurgebieden.",
+      "summary": "500 meter bufferzone landbouwgif rond woningen en scholen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landbouwgif",
+        "verbod",
+        "500 meter",
+        "woningen",
+        "scholen",
+        "bufferzone"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Totdat het gebruik van landbouwgif is gestopt, wordt het direct verboden in de buurt van woningen en scholen (minstens 500 meter afstand), openbare wegen, fiets- en wandelpaden en plekken waar mensen werken, kinderen spelen, dieren verblijven en natuurgebieden aanwezig zijn."
+    },
+    {
+      "promiseCode": "PvdD-2025-101",
+      "text": "Er komt een verbod op het gebruik van landbouwgif op weilanden.",
+      "summary": "Verbod landbouwgif op weilanden",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "landbouwgif",
+        "weilanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Er komt een verbod op het gebruik van landbouwgif op weilanden."
+    },
+    {
+      "promiseCode": "PvdD-2025-102",
+      "text": "Er komen geen vergunningen voor de bouw van megastallen of uitbreiding van bestaande veehouderijen.",
+      "summary": "Geen vergunningen megastallen en uitbreiding veehouderijen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningen",
+        "megastallen",
+        "uitbreiding",
+        "veehouderijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 50",
+      "originalQuote": "Er komen geen vergunningen voor de bouw van megastallen of de uitbreiding van bestaande veehouderijen."
+    },
+    {
+      "promiseCode": "PvdD-2025-103",
+      "text": "Er komen geen vergunningen voor nieuwe veehouderijen.",
+      "summary": "Geen vergunningen nieuwe veehouderijen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningen",
+        "nieuwe veehouderijen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 51",
+      "originalQuote": "Er komen geen vergunningen voor nieuwe veehouderijen."
+    },
+    {
+      "promiseCode": "PvdD-2025-104",
+      "text": "Diertransporten worden beperkt tot een maximum van twee uur.",
+      "summary": "Maximum twee uur voor diertransporten",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "diertransporten",
+        "maximum",
+        "twee uur",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 51",
+      "originalQuote": "Overige diertransporten worden beperkt tot een maximum van twee uur."
+    },
+    {
+      "promiseCode": "PvdD-2025-105",
+      "text": "De geitenhouderij wordt binnen één jaar beëindigd met een onmiddellijk fokverbod.",
+      "summary": "Geitenhouderij binnen één jaar beëindigd",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geitenhouderij",
+        "één jaar",
+        "beëindigd",
+        "fokverbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 51",
+      "originalQuote": "De geitenhouderij wordt binnen één jaar beëindigd. Er komt hiertoe een onmiddellijk fokverbod."
+    },
+    {
+      "promiseCode": "PvdD-2025-106",
+      "text": "Export van mest is niet langer toegestaan.",
+      "summary": "Verbod op mestexport",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "export",
+        "mest",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 51",
+      "originalQuote": "Export van mest is niet langer toegestaan en mestfraude wordt hard aangepakt."
+    },
+    {
+      "promiseCode": "PvdD-2025-107",
+      "text": "Er komen geen vergunningen meer voor de bouw van nieuwe mestvergisters en bestaande worden ingetrokken.",
+      "summary": "Geen nieuwe mestvergisters, bestaande intrekken",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mestvergisters",
+        "vergunningen",
+        "intrekken",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 51",
+      "originalQuote": "Er komen geen vergunningen meer voor de bouw van nieuwe mestvergisters en bestaande worden ingetrokken."
+    },
+    {
+      "promiseCode": "PvdD-2025-108",
+      "text": "Er komt een verbod op verkoop van landbouwproducten onder de kostprijs (kiloknallers, plofkippen, sloopmelk).",
+      "summary": "Verbod verkoop landbouwproducten onder kostprijs",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "kostprijs",
+        "kiloknallers",
+        "plofkippen",
+        "sloopmelk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 51",
+      "originalQuote": "Er komt een verbod op het gestunt met vlees en zuivel. Kiloknallers, plofkippen en plofmelk/sloopmelk verdwijnen uit de schappen. Landbouwproducten mogen niet onder de kostprijs worden verkocht."
+    },
+    {
+      "promiseCode": "PvdD-2025-109",
+      "text": "Er wordt een wettelijke zorgplicht en klimaatplicht voor bedrijven ingevoerd, ook voor internationale bedrijven die in Nederland actief zijn. Vrijblijvende akkoorden en convenanten worden vervangen door bindende regels en handhaving.",
+      "summary": "Wettelijke zorgplicht en klimaatplicht voor bedrijven invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgplicht",
+        "klimaatplicht",
+        "bedrijven",
+        "bindende",
+        "regels",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 54-55",
+      "originalQuote": "We voeren een wettelijke zorgplicht en klimaatplicht voor bedrijven in, ook voor internationale bedrijven die in Nederland actief zijn. Vrijblijvende akkoorden en convenanten worden vervangen door bindende regels en handhaving."
+    },
+    {
+      "promiseCode": "PvdD-2025-110",
+      "text": "Er wordt direct gestopt met nieuwe concessies voor gas- en olievelden, investeringssubsidies worden afgeschaft en uitbreiding van fossiele infrastructuur zoals LNG-terminals wordt stopgezet.",
+      "summary": "Stop nieuwe concessies gas- en olievelden en fossiele infrastructuur",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "concessies",
+        "gasvelden",
+        "olievelden",
+        "lng-terminals",
+        "fossiele",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 55",
+      "originalQuote": "We stoppen direct met nieuwe concessies voor gas- en olievelden, schaffen investeringssubsidies af en stoppen met uitbreiding van fossiele infrastructuur, zoals LNG-terminals."
+    },
+    {
+      "promiseCode": "PvdD-2025-111",
+      "text": "De Monitor Brede Welvaart wordt leidend in beleid in plaats van het Bruto Binnenlands Product (BBP). De overheid stopt met rapporteren van economische groei en er komt een verplichte generatietoets voor overheidsbeleid.",
+      "summary": "Monitor Brede Welvaart leidend maken ipv BBP, verplichte generatietoets",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "monitor",
+        "brede",
+        "welvaart",
+        "bbp",
+        "generatietoets",
+        "overheidsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 55",
+      "originalQuote": "In plaats van het Bruto Binnenlands Product (BBP) maken we de Monitor Brede Welvaart leidend in beleid. De overheid stopt met rapporteren van economische groei. We voeren een verplichte generatietoets in om te garanderen dat overheidsbeleid ook rechtvaardig is voor toekomstige generaties."
+    },
+    {
+      "promiseCode": "PvdD-2025-112",
+      "text": "De onderhandelingen over maatwerkafspraken met Tata Steel worden per direct gestopt, wat betekent geen miljardensubsidie voor het staalbedrijf.",
+      "summary": "Stop onderhandelingen en subsidie Tata Steel",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tata",
+        "steel",
+        "maatwerkafspraken",
+        "miljardensubsidie",
+        "onderhandelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 55",
+      "originalQuote": "De onderhandelingen over maatwerkafspraken met één van de grootste vervuilers van Nederland, het staalbedrijf Tata Steel, worden per direct gestopt. Dat betekent geen miljardensubsidie."
+    },
+    {
+      "promiseCode": "PvdD-2025-113",
+      "text": "Er wordt gestopt met reclame voor consumptiegoederen en -diensten in de openbare ruimte en het aantal locaties voor (buiten)reclame wordt drastisch teruggebracht.",
+      "summary": "Verbod reclame consumptiegoederen openbare ruimte",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reclame",
+        "consumptiegoederen",
+        "openbare",
+        "ruimte",
+        "buitenreclame",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 55",
+      "originalQuote": "We stoppen daarom met reclame voor consumptiegoederen en -diensten in de openbare ruimte. Bovendien wordt het aantal locaties voor (buiten)reclame, zowel traditioneel als digitaal, drastisch teruggebracht."
+    },
+    {
+      "promiseCode": "PvdD-2025-114",
+      "text": "Er wordt een klimaatbelasting voor de grootste vermogens ingevoerd om toe te werken naar de norm om 5% van het BBP in te zetten voor het bestrijden van de natuur- en klimaatcrisis.",
+      "summary": "Klimaatbelasting grootste vermogens, 5% BBP voor klimaat",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatbelasting",
+        "vermogens",
+        "bbp",
+        "natuurcrisis",
+        "klimaatcrisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 55-56",
+      "originalQuote": "We voeren een klimaatbelasting voor de grootste vermogens in, op basis van de inzichten uit de Groene Belastinggids. Zo werken we toe naar de norm om 5% van het BBP in te zetten voor het bestrijden van de natuur- en klimaatcrisis."
+    },
+    {
+      "promiseCode": "PvdD-2025-115",
+      "text": "De btw op reparatie en circulaire producten wordt verlaagd naar 0%.",
+      "summary": "BTW op reparatie en circulaire producten naar 0%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "reparatie",
+        "circulaire",
+        "producten",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 56",
+      "originalQuote": "Zo verlagen we de btw op reparatie en circulaire producten naar 0%."
+    },
+    {
+      "promiseCode": "PvdD-2025-116",
+      "text": "Er wordt een vermogensplafond van 10 miljoen euro ingevoerd. Met een vertrekbelasting wordt voorkomen dat superrijken het land inruilen voor een ander belastingparadijs.",
+      "summary": "Vermogensplafond 10 miljoen euro en vertrekbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vermogensplafond",
+        "miljoen",
+        "euro",
+        "vertrekbelasting",
+        "superrijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 56",
+      "originalQuote": "Er komt een vermogensplafond van 10 miljoen euro. Met een vertrekbelasting zorgen we ervoor dat superrijken ons land niet zomaar inruilen voor een ander belastingparadijs."
+    },
+    {
+      "promiseCode": "PvdD-2025-117",
+      "text": "Het minimumloon gaat omhoog naar 18 euro per uur en beweegt voortaan automatisch mee met de mediane lonen, met als ondergrens 60% van het mediane inkomen.",
+      "summary": "Minimumloon naar 18 euro per uur, gekoppeld aan mediaan",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "euro",
+        "uur",
+        "mediane",
+        "lonen",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 57",
+      "originalQuote": "Het minimumloon gaat omhoog naar 18 euro per uur. Het beweegt voortaan automatisch mee met de mediane lonen, met als ondergrens 60% van het mediane inkomen."
+    },
+    {
+      "promiseCode": "PvdD-2025-118",
+      "text": "Het minimumjeugdloon wordt afgeschaft zodat iedereen een eerlijk loon krijgt.",
+      "summary": "Afschaffing minimumjeugdloon",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumjeugdloon",
+        "afschaffen",
+        "eerlijk",
+        "loon"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 57",
+      "originalQuote": "We schaffen het minimumjeugdloon af. Iedereen hoort een eerlijk loon te krijgen."
+    },
+    {
+      "promiseCode": "PvdD-2025-119",
+      "text": "De standaard werkweek wordt 32 uur om ruimte te creëren voor mantelzorg, vrijwilligerswerk en een betere balans tussen betaald werk en andere bezigheden.",
+      "summary": "Standaard werkweek wordt 32 uur",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkweek",
+        "uur",
+        "mantelzorg",
+        "vrijwilligerswerk",
+        "werk-privé",
+        "balans"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 57",
+      "originalQuote": "De standaard werkweek wordt 32 uur. Zo ontstaat ruimte voor mantelzorg, vrijwilligerswerk en een betere balans tussen betaald werk en andere bezigheden."
+    },
+    {
+      "promiseCode": "PvdD-2025-120",
+      "text": "De kostendelersnorm en partnertoets in de bijstand worden geschrapt zodat mensen in hetzelfde huishouden recht hebben op dezelfde bijstandsuitkering als anderen.",
+      "summary": "Afschaffing kostendelersnorm en partnertoets bijstand",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "partnertoets",
+        "bijstand",
+        "huishouden",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 58",
+      "originalQuote": "Mensen in hetzelfde huishouden hebben recht op dezelfde bijstandsuitkering als anderen, dus we schrappen de kostendelersnorm en partnertoets."
+    },
+    {
+      "promiseCode": "PvdD-2025-121",
+      "text": "'Buy Now, Pay Later' wordt verboden zowel online als in fysieke winkels vanwege het risico voor kwetsbare groepen zoals jongeren.",
+      "summary": "Verbod 'Buy Now, Pay Later' online en fysiek",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buy",
+        "now",
+        "pay",
+        "later",
+        "verbod",
+        "schulden",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 59",
+      "originalQuote": "We verbieden 'Buy Now, Pay Later' zowel online als in fysieke winkels. Deze manier om laagdrempelig schulden te maken vormt een groot risico voor kwetsbare groepen zoals jongeren en mensen die al in de schulden zitten."
+    },
+    {
+      "promiseCode": "PvdD-2025-122",
+      "text": "Alleen banken die handelen binnen ecologische grenzen krijgen een bankvergunning.",
+      "summary": "Bankvergunningen alleen voor ecologisch verantwoorde banken",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bankvergunning",
+        "ecologische grenzen",
+        "banken",
+        "vergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "Alleen banken die handelen binnen ecologische grenzen krijgen een bankvergunning."
+    },
+    {
+      "promiseCode": "PvdD-2025-123",
+      "text": "Geduldig kapitaal voor langetermijninvesteringen in minder rendabele sectoren wordt fiscaal aantrekkelijker gemaakt.",
+      "summary": "Fiscale voordelen voor geduldig kapitaal in duurzame sectoren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geduldig kapitaal",
+        "langetermijninvesteringen",
+        "fiscaal",
+        "circulaire processen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "Geduldig kapitaal, bedoeld voor langetermijninvesteringen in minder rendabele sectoren, maken we fiscaal aantrekkelijker."
+    },
+    {
+      "promiseCode": "PvdD-2025-124",
+      "text": "De ASN Bank blijft in publieke handen met een maatschappelijke missie zonder winstoogmerk.",
+      "summary": "ASN Bank publiek houden zonder winstoogmerk",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asn bank",
+        "publieke handen",
+        "maatschappelijke missie",
+        "winstoogmerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "De ASN Bank blijft in publieke handen met een maatschappelijke missie zonder winstoogmerk."
+    },
+    {
+      "promiseCode": "PvdD-2025-125",
+      "text": "Pensioenfondsen krijgen de wettelijke taak te investeren binnen ecologische grenzen en stappen uiterlijk in 2027 volledig uit fossiele industrie, vee-industrie, biomassa, kerenergie en fastfoodindustrie.",
+      "summary": "Pensioenfondsen uit vervuilende sectoren voor 2027",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pensioenfondsen",
+        "ecologische grenzen",
+        "2027",
+        "fossiele industrie",
+        "vee-industrie",
+        "biomassa",
+        "kernenergie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "Pensioenfondsen krijgen de wettelijke taak te investeren binnen ecologische grenzen. Ze stappen uiterlijk in 2027 in elk geval volledig uit de fossiele industrie, vee-industrie, biomassa, kernernergie, en fastfoodindustrie."
+    },
+    {
+      "promiseCode": "PvdD-2025-126",
+      "text": "De kapitaalbuffers van Nederlandse banken worden verhoogd om ze beter bestand te maken tegen crises.",
+      "summary": "Hogere kapitaalbuffers voor Nederlandse banken",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kapitaalbuffers",
+        "nederlandse banken",
+        "crises",
+        "financiële stabiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "We verhogen de kapitaalbuffers van Nederlandse banken om ze beter bestand te maken tegen crises."
+    },
+    {
+      "promiseCode": "PvdD-2025-127",
+      "text": "Reclame voor cryptovaluta wordt verboden en er komt beter toezicht op informatieverstrekking door cryptobedrijven.",
+      "summary": "Reclameverbod cryptovaluta en meer toezicht",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reclame",
+        "cryptovaluta",
+        "verbod",
+        "toezicht",
+        "cryptobedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "We verbieden reclame voor cryptovaluta en we houden beter toezicht op informatieverstrekking door cryptobedrijven."
+    },
+    {
+      "promiseCode": "PvdD-2025-128",
+      "text": "Er komt een bankenbelasting en een belasting op transacties om flitshandel op aandelenbeurzen tegen te gaan.",
+      "summary": "Bankenbelasting en transactiebelasting tegen flitshandel",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bankenbelasting",
+        "transactiebelasting",
+        "flitshandel",
+        "aandelenbeurzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "Er komt een bankenbelasting en een belasting op transacties om flitshandel op aandelenbeurzen tegen te gaan."
+    },
+    {
+      "promiseCode": "PvdD-2025-129",
+      "text": "Slachtoffers van milieuschade krijgen voorrang bij faillissementen en er komt een fonds voor herstel van milieuschade, gevuld met inkomsten uit milieuboetes.",
+      "summary": "Voorrang milieuslachtoffers bij faillissement en herstelfonds",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "milieuschade",
+        "faillissementen",
+        "voorrang",
+        "herstelfonds",
+        "milieuboetes"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 61",
+      "originalQuote": "Daarom krijgen slachtoffers van de milieuschade voorrang in de rij van schuldeisers bij faillissementen en zetten we een fonds op om milieuschade te herstellen, welke ook gevuld wordt met inkomsten uit boetes voor milieuovertredingen."
+    },
+    {
+      "promiseCode": "PvdD-2025-130",
+      "text": "De aanmelding voor demonstraties wordt vrijwillig en op voorhand hoeven de vorm of inhoud niet met de burgemeester gedeeld te worden",
+      "summary": "Vrijwillige aanmelding demonstraties zonder inhoudelijke melding burgemeester",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "demonstraties",
+        "aanmelding",
+        "vrijwillig",
+        "burgemeester"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 64",
+      "originalQuote": "De aanmelding voor demonstraties wordt vrijwillig en op voorhand hoeven de vorm of inhoud niet met de burgemeester gedeeld te worden."
+    },
+    {
+      "promiseCode": "PvdD-2025-131",
+      "text": "De Wet openbare manifestaties wordt in lijn gebracht met internationale mensenrechten. Tekst die regels mogelijk maakt vanwege verkeershinder of te late aanmelding wordt geschrapt",
+      "summary": "Herziening Wet openbare manifestaties conform internationale mensenrechten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "openbare",
+        "manifestaties",
+        "mensenrechten",
+        "verkeershinder"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 64",
+      "originalQuote": "De Wet openbare manifestaties wordt in lijn gebracht met de verplichtingen die volgen uit de internationale mensenrechten. We schrappen de tekst die het mogelijk maakt regels op te leggen aan een demonstratie of deze te verbieden alleen vanwege hinder voor het verkeer, of omdat de demonstratie niet of te laat is aangemeld."
+    },
+    {
+      "promiseCode": "PvdD-2025-132",
+      "text": "Het Wetsvoorstel strafbaarstelling verheerlijken van terrorisme en openbare steunbetuiging aan terroristische organisaties wordt ingetrokken",
+      "summary": "Intrekking wetsvoorstel strafbaarstelling verheerlijken terrorisme",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wetsvoorstel",
+        "terrorisme",
+        "verheerlijking",
+        "intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 64",
+      "originalQuote": "Het Wetsvoorstel strafbaarstelling verheerlijken van terrorisme en openbare steunbetuiging aan terroristische organisaties wordt ingetrokken, omdat de vage definities de vrijheid van meningsuiting ernstig beperken"
+    },
+    {
+      "promiseCode": "PvdD-2025-133",
+      "text": "Alle publieke dienstverleners en gemeenten worden verplicht een risicoanalyse te doen op discriminatie",
+      "summary": "Verplichte risicoanalyse discriminatie voor publieke dienstverleners",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "publieke",
+        "dienstverleners",
+        "gemeenten",
+        "risicoanalyse",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 65",
+      "originalQuote": "Alle publieke dienstverleners en gemeenten worden verplicht een risicoanalyse te doen op discriminatie."
+    },
+    {
+      "promiseCode": "PvdD-2025-134",
+      "text": "Groepsbelediging op grond van genderidentiteit, genderexpressie en geslachtskenmerken wordt strafbaar gemaakt",
+      "summary": "Strafbaarstelling groepsbelediging op grond van genderidentiteit",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groepsbelediging",
+        "genderidentiteit",
+        "genderexpressie",
+        "strafbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 65",
+      "originalQuote": "We maken groepsbelediging op grond van genderidentiteit, genderexpressie en geslachtskenmerken strafbaar."
+    },
+    {
+      "promiseCode": "PvdD-2025-135",
+      "text": "Het verbod op etnisch profileren wordt uitgebreid; er komt een wettelijk verbod op het gebruik van etniciteit en nationaliteit als indicator in risicoprofielen voor opsporing",
+      "summary": "Uitbreiding verbod etnisch profileren in risicoprofielen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "etnisch",
+        "profileren",
+        "verbod",
+        "risicoprofielen",
+        "opsporing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 66",
+      "originalQuote": "Het verbod op etnisch profileren wordt uitgebreid; er komt een (wettelijk) verbod op het gebruik van etniciteit en nationaliteit als indicator in risicoprofielen die worden gebruikt voor het opsporen van potentiële wet- en regelovertreders"
+    },
+    {
+      "promiseCode": "PvdD-2025-136",
+      "text": "1 juli wordt uitgeroepen tot nationale herdenkings- en feestdag voor het slavernijverleden. Er komt een herstelfonds voor nazaten van tot slaafgemaakten",
+      "summary": "1 juli nationale slavernijherdenkingsdag met herstelfonds",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "1 juli",
+        "slavernij",
+        "herdenkingsdag",
+        "herstelfonds",
+        "nazaten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 66",
+      "originalQuote": "We roepen 1 juli uit tot nationale herdenkings- en feestdag. Zo herdenken we het leed van het slavernijverleden, de formele afschaffing en vieren we de vrijheid. Er komt een herstelfonds voor nazaten van tot slaafgemaakten."
+    },
+    {
+      "promiseCode": "PvdD-2025-137",
+      "text": "Slavernij en slavenhandel wordt bij wet aangemerkt als een misdaad tegen de menselijkheid",
+      "summary": "Wettelijke aanmerking slavernij als misdaad tegen menselijkheid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slavernij",
+        "slavenhandel",
+        "wet",
+        "misdaad",
+        "menselijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 66",
+      "originalQuote": "Slavernij en de slavenhandel die in het verleden heeft plaatsgevonden wordt bij wet als een misdaad tegen de menselijkheid aangemerkt."
+    },
+    {
+      "promiseCode": "PvdD-2025-138",
+      "text": "De officiële geslachtsregistratie wordt waar mogelijk afgeschaft. Het wijzigen van geslachtsvermelding wordt mogelijk op basis van een Eigen Verklaring, de deskundigenverklaring vervalt",
+      "summary": "Afschaffing geslachtsregistratie en invoering Eigen Verklaring",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geslachtsregistratie",
+        "afschaffen",
+        "eigen verklaring",
+        "deskundigenverklaring"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 66",
+      "originalQuote": "We schaffen de officiële geslachtsregistratie overal waar dat kan af. Tot die tijd maken we het wijzigen van de geslachtsvermelding mogelijk op basis van een Eigen Verklaring. De deskundigenverklaring vervalt"
+    },
+    {
+      "promiseCode": "PvdD-2025-139",
+      "text": "De identificatieplicht wordt afgeschaft en de onnodige geslachtsaanduiding verdwijnt van de Nederlandse ID-kaart",
+      "summary": "Afschaffing identificatieplicht en geslachtsaanduiding op ID",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "identificatieplicht",
+        "afschaffen",
+        "geslachtsaanduiding",
+        "id-kaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 67",
+      "originalQuote": "We schaffen de identificatieplicht af en de politie houdt geen gegevens bij van mensen die niet verdacht worden van een strafbaar feit. Daarnaast verdwijnt de onnodige geslachtsaanduiding op de Nederlandse ID-kaart."
+    },
+    {
+      "promiseCode": "PvdD-2025-140",
+      "text": "Het gedeeltelijk verbod op gezichtsbedekkende kleding (boerkaverbod) wordt teruggedraaid",
+      "summary": "Terugdraaien boerkaverbod",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boerkaverbod",
+        "gezichtsbedekkende",
+        "kleding",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 67",
+      "originalQuote": "Het gedeeltelijk verbod op gezichtsbedekkende kleding (boerkaverbod) wordt teruggedraaid."
+    },
+    {
+      "promiseCode": "PvdD-2025-141",
+      "text": "De Raad voor de Rechtspraak wordt een Hoog College van Staat en krijgt een eigen begroting die niet meer valt onder het ministerie van Justitie",
+      "summary": "Raad voor de Rechtspraak wordt Hoog College van Staat",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raad",
+        "rechtspraak",
+        "hoog college",
+        "staat",
+        "begroting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 69",
+      "originalQuote": "de Raad voor de Rechtspraak – net als de Raad van State en de Nationale Ombudsman – een Hoog College van Staat. De Raad voor de Rechtspraak krijgt een eigen begroting en valt niet meer onder die van het ministerie van justitie"
+    },
+    {
+      "promiseCode": "PvdD-2025-142",
+      "text": "Het toetsingsverbod wordt afgeschaft, zodat rechters in alle lagen wetten kunnen toetsen aan de Grondwet",
+      "summary": "Afschaffing toetsingsverbod voor constitutionele toetsing",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toetsingsverbod",
+        "afschaffen",
+        "rechters",
+        "grondwet",
+        "toetsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 69",
+      "originalQuote": "We schaffen het toetsingsverbod af, zodat rechters in alle lagen – van rechtbank tot Hoge Raad – wetten kunnen toetsen aan de Grondwet."
+    },
+    {
+      "promiseCode": "PvdD-2025-143",
+      "text": "Boetes worden inkomensafhankelijk gemaakt zodat ze mensen met verschillende inkomens gelijk treffen",
+      "summary": "Invoering inkomensafhankelijke boetes",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boetes",
+        "inkomensafhankelijk",
+        "gelijke",
+        "behandeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 69",
+      "originalQuote": "Een geldboete treft mensen met minder geld veel harder dan vermogende mensen. Daarom worden boetes inkomensafhankelijk."
+    },
+    {
+      "promiseCode": "PvdD-2025-144",
+      "text": "Vergunningenbeleid wordt strenger en transparanter om criminele structuren tegen te gaan en het publieke belang te beschermen.",
+      "summary": "Strenger en transparanter vergunningenbeleid",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningen",
+        "criminaliteit",
+        "transparantie",
+        "publiek belang"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 70",
+      "originalQuote": "Vergunningenbeleid wordt strenger en transparanter, zodat criminele structuren geen grip krijgen op legale sectoren en het publieke belang beschermd blijft."
+    },
+    {
+      "promiseCode": "PvdD-2025-145",
+      "text": "De nekklem wordt verboden en het stroomstootwapen wordt afgeschaft.",
+      "summary": "Verbod nekklem en afschaffing stroomstootwapen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nekklem",
+        "stroomstootwapen",
+        "politie",
+        "geweld"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 70",
+      "originalQuote": "De nekklem wordt verboden en het stroomstootwapen wordt afgeschaft."
+    },
+    {
+      "promiseCode": "PvdD-2025-146",
+      "text": "Er komt zo snel mogelijk een einde aan de inzet van dieren binnen het politiekorps.",
+      "summary": "Einde inzet politiedieren",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "politie",
+        "dieren",
+        "honden",
+        "paarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 70",
+      "originalQuote": "Er komt zo snel mogelijk een einde aan de inzet van dieren, zoals honden en paarden, binnen het politiekorps."
+    },
+    {
+      "promiseCode": "PvdD-2025-147",
+      "text": "Niet-fatale wurging en psychisch geweld worden strafbaar en partnergeweld krijgt een strafverzwarende bepaling.",
+      "summary": "Strafbaarstelling niet-fatale wurging en psychisch geweld",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wurging",
+        "psychisch geweld",
+        "partnergeweld",
+        "strafverzwaring"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 70",
+      "originalQuote": "Niet-fatale wurging en psychisch geweld, zoals controleren, uitschelden, dreigen of isoleren van familie en vrienden, worden strafbaar. Partnergeweld krijgt een strafverzwarende bepaling"
+    },
+    {
+      "promiseCode": "PvdD-2025-148",
+      "text": "Verspreiding en bezit van pornografie waarbij sprake is van geweld en niet-fatale wurging wordt verboden.",
+      "summary": "Verbod geweldpornografie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pornografie",
+        "geweld",
+        "wurging",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 71",
+      "originalQuote": "Verspreiding en bezit van pornografie waarbij sprake is van geweld en (niet-fatale) wurging wordt verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-149",
+      "text": "Gebruik en productie van softdrugs wordt gelegaliseerd zodat teelt legaal wordt en er accijns over kan worden geheven.",
+      "summary": "Legalisering softdrugs",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "softdrugs",
+        "legalisering",
+        "cannabis",
+        "accijns"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 71",
+      "originalQuote": "Gebruik en de productie van softdrugs wordt gelegaliseerd, zodat teelt legaal wordt en er accijns over kan worden geheven."
+    },
+    {
+      "promiseCode": "PvdD-2025-150",
+      "text": "De gaskraan gaat definitief dicht in heel Groningen, ook onder de Waddenzee en Noordzee.",
+      "summary": "Definitieve sluiting gaskraan Groningen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "groningen",
+        "waddenzee",
+        "noordzee"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 71",
+      "originalQuote": "De gaskraan gaat definitief dicht in heel Groningen, ook onder de Waddenzee en Noordzee."
+    },
+    {
+      "promiseCode": "PvdD-2025-151",
+      "text": "De nieuwe Mijnbouwwet wordt met spoed ingevoerd en bevat een duidelijke einddatum voor alle gaswinning in Nederland.",
+      "summary": "Nieuwe Mijnbouwwet met einddatum gaswinning",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mijnbouwwet",
+        "gaswinning",
+        "einddatum"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 71",
+      "originalQuote": "De nieuwe Mijnbouwwet wordt met spoed ingevoerd en bevat een duidelijke einddatum voor alle gaswinning in Nederland, op land én op zee."
+    },
+    {
+      "promiseCode": "PvdD-2025-152",
+      "text": "De kiesgerechtigde leeftijd wordt verlaagd naar 16 jaar.",
+      "summary": "Stemrecht vanaf 16 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesrecht",
+        "stemrecht",
+        "jongeren",
+        "16 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 73",
+      "originalQuote": "De kiesgerechtigde leeftijd wordt daarom verlaagd naar 16 jaar en daarvoor worden de Grondwet en de Kieswet aangepast."
+    },
+    {
+      "promiseCode": "PvdD-2025-153",
+      "text": "De geborgde zetels in de waterschapsbesturen voor boeren en beheerorganisaties worden afgeschaft.",
+      "summary": "Afschaffing geborgde zetels waterschappen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waterschappen",
+        "geborgde zetels",
+        "boeren",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 73",
+      "originalQuote": "De geborgde zetels in de waterschapsbesturen, die nu nog gereserveerd zijn voor boeren en beheerorganisaties, worden afgeschaft"
+    },
+    {
+      "promiseCode": "PvdD-2025-154",
+      "text": "Het aantal zetels in de Tweede Kamer wordt verhoogd met behoud van de huidige kiesdrempel.",
+      "summary": "Verhoging aantal Kamerzetels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "tweede kamer",
+        "zetels",
+        "kiesdrempel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 73",
+      "originalQuote": "Ook verhogen we het aantal zetels, met behoud van de huidige kiesdrempel."
+    },
+    {
+      "promiseCode": "PvdD-2025-155",
+      "text": "De koning en zijn familie gaan belasting betalen en persoonlijke inkomsten vallen onder de Wet normering topinkomens.",
+      "summary": "Belastingplicht voor koningshuis",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koningshuis",
+        "belasting",
+        "topinkomens",
+        "normering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 73-74",
+      "originalQuote": "De koning en zijn familie gaan net als iedereen belasting betalen... Persoonlijke inkomsten van de leden van het koningshuis gaan vallen onder de Wet normering topinkomens."
+    },
+    {
+      "promiseCode": "PvdD-2025-156",
+      "text": "Deepfakes die zonder toestemming iemands identiteit gebruiken worden verboden.",
+      "summary": "Verbod ongeautoriseerde deepfakes",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deepfakes",
+        "identiteit",
+        "toestemming",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 74",
+      "originalQuote": "Deepfakes die zonder toestemming iemands identiteit gebruiken, worden verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-157",
+      "text": "De minimumleeftijd voor het gebruiken van sociale media wordt 16 jaar.",
+      "summary": "Minimumleeftijd sociale media 16 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale media",
+        "minimumleeftijd",
+        "16 jaar",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 75",
+      "originalQuote": "De minimumleeftijd voor het gebruiken van sociale media wordt 16 jaar."
+    },
+    {
+      "promiseCode": "PvdD-2025-158",
+      "text": "Een afkoelperiode van ten minste twee jaar wordt ingesteld voordat bewindspersonen, Kamerleden of topambtenaren een lobbyfunctie mogen bekleden.",
+      "summary": "Afkoelperiode van twee jaar voor lobbyfuncties",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afkoelperiode",
+        "twee jaar",
+        "lobby",
+        "bewindspersonen",
+        "integriteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 72",
+      "originalQuote": "Zo wordt een afkoelperiode van ten minste twee jaar ingesteld voordat (voormalige) bewindspersonen, Kamerleden of topambtenaren een lobbyfunctie mogen bekleden."
+    },
+    {
+      "promiseCode": "PvdD-2025-159",
+      "text": "Politie, justitie en inlichtingendiensten mogen alleen gegevens over burgers opvragen bij bedrijven wanneer er sprake is van een concrete verdenking die door de rechter wordt getoetst.",
+      "summary": "Rechterlijke toetsing verplicht voor gegevensopvraging door opsporingsdiensten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rechterlijke",
+        "toetsing",
+        "gegevensopvraging",
+        "opsporingsdiensten",
+        "privacy"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 77",
+      "originalQuote": "Alleen wanneer er sprake is van een concrete verdenking die door de rechter wordt getoetst, mogen politie, justitie en inlichtingendiensten gegevens over burgers opvragen bij bedrijven."
+    },
+    {
+      "promiseCode": "PvdD-2025-160",
+      "text": "Er komen strengere normen voor het aftappen van telefoons en opsporing- en veiligheidsdiensten mogen geen digitale apparaten binnendringen zonder zwaarwichtige, door de rechter getoetste reden.",
+      "summary": "Strengere normen voor telefoonafluistering en digitale inbraak door diensten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "telefoonafluistering",
+        "digitale",
+        "inbraak",
+        "rechterlijke",
+        "toetsing",
+        "veiligheidsdiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 77",
+      "originalQuote": "Opsporing- en veiligheidsdiensten mogen geen digitale apparaten binnendringen zonder dat daar een zwaarwichtige, door de rechter getoetste reden voor is. [...] Er komen strengere normen voor het aftappen van telefoons."
+    },
+    {
+      "promiseCode": "PvdD-2025-161",
+      "text": "De Sleepwet wordt ingetrokken en vervangen door een nieuwe privacyvriendelijke Wet op de inlichtingen- en veiligheidsdiensten (Wiv).",
+      "summary": "Sleepwet wordt ingetrokken en vervangen door privacyvriendelijke Wiv",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sleepwet",
+        "intrekking",
+        "wiv",
+        "privacyvriendelijk",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 77",
+      "originalQuote": "In plaats daarvan wordt de Sleepwet ingetrokken en er komt een nieuwe privacyvriendelijke Wet op de inlichtingen- en veiligheidsdiensten (Wiv)."
+    },
+    {
+      "promiseCode": "PvdD-2025-162",
+      "text": "De voorgestelde 'Super SyRi'-wet (WGS) wordt niet ingevoerd.",
+      "summary": "Super SyRi-wet wordt niet ingevoerd",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "super",
+        "syri",
+        "wgs",
+        "dataverzameling",
+        "massale"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 77",
+      "originalQuote": "De voorgestelde 'Super SyRi'-wet (WGS), waarbij de overheid en bedrijven massaal gegevens verzamelen, koppelen en analyseren, voeren we niet in."
+    },
+    {
+      "promiseCode": "PvdD-2025-163",
+      "text": "Camera's met gezichtsherkenning worden niet toegestaan in openbare ruimte, winkels en horeca. Er komt een verbod op particuliere camera's met gezichtsherkenning in de openbare ruimte. De politie stopt met het Camera in Beeld-surveillancenetwerk.",
+      "summary": "Verbod op gezichtsherkenning in openbare ruimte en stopzetting Camera in Beeld",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezichtsherkenning",
+        "verbod",
+        "openbare",
+        "ruimte",
+        "camera",
+        "beeld",
+        "surveillancenetwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 77",
+      "originalQuote": "Camera's met gezichtsherkenning staan we niet toe in de openbare ruimte, winkels en horeca. Daarnaast komt er een verbod op particuliere camera's met gezichtsherkenning, zoals slimme deurbellen, in de openbare ruimte. De politie stopt dus ook met het 'Camera in Beeld'-surveillancenetwerk."
+    },
+    {
+      "promiseCode": "PvdD-2025-164",
+      "text": "Het eigen risico in de zorgverzekering wordt afgeschaft.",
+      "summary": "Afschaffen eigen risico zorgverzekering",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 80",
+      "originalQuote": "We schaffen het eigen risico af."
+    },
+    {
+      "promiseCode": "PvdD-2025-165",
+      "text": "Vanaf 2030 worden strenge WHO-luchtkwaliteitsnormen verplicht gesteld.",
+      "summary": "WHO-luchtkwaliteitsnormen verplicht vanaf 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "who",
+        "luchtkwaliteitsnormen",
+        "2030",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 81",
+      "originalQuote": "Daarom stellen we strenge WHO-luchtkwaliteitsnormen vanaf 2030 verplicht"
+    },
+    {
+      "promiseCode": "PvdD-2025-166",
+      "text": "Stadscentra worden beperkt toegankelijk voor verkeer, alleen bestemmingsverkeer is toegestaan.",
+      "summary": "Alleen bestemmingsverkeer in stadscentra",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadscentra",
+        "bestemmingsverkeer",
+        "toegankelijkheid",
+        "verkeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 81",
+      "originalQuote": "Om de gezondheid van bewoners te beschermen, worden stadscentra beperkt toegankelijk: alleen bestemmingsverkeer is toegestaan."
+    },
+    {
+      "promiseCode": "PvdD-2025-167",
+      "text": "De land- en tuinbouw wordt gifvrij gemaakt.",
+      "summary": "Gifvrije land- en tuinbouw",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landbouw",
+        "tuinbouw",
+        "gifvrij",
+        "bestrijdingsmiddelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 81",
+      "originalQuote": "We maken de land- en tuinbouw gifvrij"
+    },
+    {
+      "promiseCode": "PvdD-2025-168",
+      "text": "Er komen wettelijke normen voor minimale afstand tussen veestallen en woonkernen, scholen en kinderdagverblijven.",
+      "summary": "Wettelijke afstandsnormen veestallen en woonkernen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veestallen",
+        "woonkernen",
+        "afstandsnormen",
+        "scholen",
+        "kinderdagverblijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 81",
+      "originalQuote": "Om de gezondheid van omwonenden te beschermen, komen er wettelijke normen voor de minimale afstand tussen veestallen en woonkernen, scholen en kinderdagverblijven."
+    },
+    {
+      "promiseCode": "PvdD-2025-169",
+      "text": "Er wordt een totaalverbod ingevoerd op de toepassing en het gebruik van PFAS, inclusief verbod op uitstoot en lozingen.",
+      "summary": "Totaalverbod op PFAS-gebruik en uitstoot",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pfas",
+        "totaalverbod",
+        "uitstoot",
+        "lozingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 82",
+      "originalQuote": "Er komt een totaalverbod op de toepassing en het gebruik van PFAS. Bedrijven mogen geen PFAS uitstoten naar de lucht of lozen in het water."
+    },
+    {
+      "promiseCode": "PvdD-2025-170",
+      "text": "Houtstook wordt volledig aan banden gelegd en per gemeente uitgerold.",
+      "summary": "Verbod op houtstook per gemeente",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "houtstook",
+        "verbod",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 82",
+      "originalQuote": "We leggen houtstook volledig aan banden. Dit wordt per gemeente uitgerold."
+    },
+    {
+      "promiseCode": "PvdD-2025-171",
+      "text": "De wettelijke geluidsnormen voor verkeer, industrie en luchtvaart worden verlaagd.",
+      "summary": "Verlaging geluidsnormen verkeer, industrie en luchtvaart",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geluidsnormen",
+        "verkeer",
+        "industrie",
+        "luchtvaart",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 82",
+      "originalQuote": "Daarom verlagen we de wettelijke geluidsnormen voor verkeer, industrie en luchtvaart."
+    },
+    {
+      "promiseCode": "PvdD-2025-172",
+      "text": "Er wordt een regeringscommissaris voor volksgezondheid aangesteld met de opdracht volksgezondheid in brede zin te verbeteren.",
+      "summary": "Aanstelling regeringscommissaris volksgezondheid",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeringscommissaris",
+        "volksgezondheid",
+        "aanstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 82",
+      "originalQuote": "Daarom stellen we een regeringscommissaris voor volksgezondheid aan, die de opdracht heeft om volksgezondheid in brede zin te verbeteren."
+    },
+    {
+      "promiseCode": "PvdD-2025-173",
+      "text": "BTW op alle groenten, fruit, noten, peulvruchten en granen wordt afgeschaft.",
+      "summary": "Afschaffing BTW op gezonde voedingsmiddelen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "groenten",
+        "fruit",
+        "noten",
+        "peulvruchten",
+        "granen",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 83",
+      "originalQuote": "We schaffen btw op alle groenten, fruit, noten, peulvruchten en granen af."
+    },
+    {
+      "promiseCode": "PvdD-2025-174",
+      "text": "Op en rond scholen wordt alleen gezond voedsel aangeboden.",
+      "summary": "Alleen gezond voedsel op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scholen",
+        "gezond voedsel",
+        "verbod",
+        "fastfood"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 83",
+      "originalQuote": "Zeker kinderen moeten gezond leren eten en daarom wordt op en rond scholen alleen gezond voedsel aangeboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-175",
+      "text": "Kindermarketing voor ultrabewerkt voedsel wordt verboden, inclusief reclame voor snoep en fastfood gericht op kinderen.",
+      "summary": "Verbod kindermarketing ultrabewerkt voedsel",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kindermarketing",
+        "ultrabewerkt voedsel",
+        "reclame",
+        "verbod",
+        "snoep",
+        "fastfood"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 84",
+      "originalQuote": "Tot die tijd is in ieder geval kindermarketing voor ultrabewerkt voedsel verboden: geen reclame voor (en óp) snoep en fastfood die gericht is op kinderen."
+    },
+    {
+      "promiseCode": "PvdD-2025-176",
+      "text": "Ongezond eten wordt hoger belast bij de fabrikant, bijvoorbeeld door een gestaffelde suikertaks.",
+      "summary": "Hogere belasting op ongezond eten en suikertaks",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "suikertaks",
+        "ongezond eten",
+        "belasting",
+        "fabrikant"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 84",
+      "originalQuote": "Ongezond eten wordt hoger belast bij de fabrikant, bijvoorbeeld door een gestaffelde suikertaks."
+    },
+    {
+      "promiseCode": "PvdD-2025-177",
+      "text": "2% van het budget van het ministerie van VWS wordt vrijgemaakt voor structurele financiering van eerstelijnszorg op buurtniveau.",
+      "summary": "2% VWS-budget voor eerstelijnszorg buurtniveau",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vws",
+        "budget",
+        "2%",
+        "eerstelijnszorg",
+        "buurtniveau",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 85",
+      "originalQuote": "Hier wordt meer structurele financiering voor vrijgemaakt, te beginnen bij 2% van het budget van het ministerie van Volksgezondheid, Welzijn en Sport (VWS)."
+    },
+    {
+      "promiseCode": "PvdD-2025-178",
+      "text": "Mondzorg komt terug in het basispakket van de zorgverzekering.",
+      "summary": "Mondzorg terug in basispakket",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mondzorg",
+        "basispakket",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 85",
+      "originalQuote": "Mondzorg wordt weer toegankelijk voor iedereen en komt terug in het basispakket."
+    },
+    {
+      "promiseCode": "PvdD-2025-179",
+      "text": "Vergoeding voor anticonceptiemiddelen komt voor alle leeftijden terug in het basispakket, evenals sterilisatie.",
+      "summary": "Anticonceptie en sterilisatie terug in basispakket",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "anticonceptiemiddelen",
+        "sterilisatie",
+        "basispakket",
+        "vergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 85",
+      "originalQuote": "Vergoeding voor anticonceptiemiddelen komt voor alle leeftijden terug in het basispakket, evenals sterilisatie."
+    },
+    {
+      "promiseCode": "PvdD-2025-180",
+      "text": "Het hiv-preventiemiddel PrEP wordt opgenomen in het basispakket.",
+      "summary": "PrEP in basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prep",
+        "hiv",
+        "preventie",
+        "basispakket"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 85",
+      "originalQuote": "Het hiv-preventiemiddel PrEP wordt opgenomen in het basispakket."
+    },
+    {
+      "promiseCode": "PvdD-2025-181",
+      "text": "Lactatiekundige begeleiding bij borstvoeding wordt opgenomen in het basispakket.",
+      "summary": "Lactatiekundige begeleiding in basispakket",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lactatiekundige",
+        "borstvoeding",
+        "basispakket",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 85",
+      "originalQuote": "Bij het geven van borstvoeding is goede begeleiding en hulp van lactatiekundigen belangrijk. Dit hoort in het basispakket."
+    },
+    {
+      "promiseCode": "PvdD-2025-182",
+      "text": "Reclames voor alcohol worden verboden.",
+      "summary": "Verbod op alcoholreclame",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "alcohol",
+        "reclame",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 86",
+      "originalQuote": "Reclames voor alcohol worden verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-183",
+      "text": "De minimumleeftijd om tabaksproducten en vapes te kopen wordt jaarlijks met één jaar verhoogd, zodat kinderen geboren na 2008 nooit gaan roken.",
+      "summary": "Jaarlijkse verhoging minimumleeftijd tabak en vapes",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumleeftijd",
+        "tabaksproducten",
+        "vapes",
+        "2008",
+        "roken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 86",
+      "originalQuote": "De minimumleeftijd om tabaksproducten en vapes te mogen kopen wordt jaarlijks met één jaar verhoogd, zodat kinderen die na 2008 zijn geboren nooit gaan roken."
+    },
+    {
+      "promiseCode": "PvdD-2025-184",
+      "text": "De verkoop van (e)sigaretten en andere tabaksproducten wordt vergunningplichtig en kan alleen nog in tabakszaken.",
+      "summary": "Vergunningplicht en beperking verkoop tabaksproducten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sigaretten",
+        "tabaksproducten",
+        "vergunningplichtig",
+        "tabakszaken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 86",
+      "originalQuote": "De verkoop van (e)sigaretten en andere tabaksproducten wordt vergunningplichtig en kan alleen nog in tabakszaken."
+    },
+    {
+      "promiseCode": "PvdD-2025-185",
+      "text": "De GGZ wordt onderdeel van de zorg in elke buurt en wordt zowel fysiek als digitaal toegankelijk gemaakt. Het wegwerken van de wachttijden in de GGZ krijgt prioriteit.",
+      "summary": "GGZ in elke buurt beschikbaar, wegwerken wachttijden krijgt prioriteit",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ggz",
+        "buurt",
+        "toegankelijkheid",
+        "wachttijden",
+        "prioriteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "De GGZ wordt onderdeel van de zorg in elke buurt – zowel fysiek als digitaal toegankelijk. Het wegwerken van de wachttijden in de GGZ krijgt prioriteit."
+    },
+    {
+      "promiseCode": "PvdD-2025-186",
+      "text": "De loonkloof van helpenden en verzorgenden ten opzichte van werk in andere sectoren wordt gedicht. Medisch specialisten komen in loondienst.",
+      "summary": "Loonkloof zorgpersoneel dichten, medisch specialisten in loondienst",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "loonkloof",
+        "helpenden",
+        "verzorgenden",
+        "medisch",
+        "specialisten",
+        "loondienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "De loonkloof van helpenden en verzorgenden ten opzichte van werk in andere sectoren wordt gedicht. Daarnaast krijgen zorgmedewerkers meer te zeggen over de inhoud van hun werk en werkroosters. Medisch specialisten komen in loondienst."
+    },
+    {
+      "promiseCode": "PvdD-2025-187",
+      "text": "Absurde beloningen, winstuitkeringen en bonussen aan de top van de zorg worden per direct afgeschaft.",
+      "summary": "Afschaffen beloningen en bonussen aan top van zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beloningen",
+        "winstuitkeringen",
+        "bonussen",
+        "zorg",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "Absurde beloningen, winstuitkeringen en bonussen aan de top van de zorg schaffen we per direct af."
+    },
+    {
+      "promiseCode": "PvdD-2025-188",
+      "text": "Er komt een taskforce om verspilling in de zorg op alle fronten tegen te gaan, van onnodige medicatie tot bureaucratie en inefficiënte organisatie.",
+      "summary": "Taskforce tegen verspilling in de zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "taskforce",
+        "verspilling",
+        "zorg",
+        "medicatie",
+        "bureaucratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "Er komt een taskforce om verspilling in de zorg op alle fronten tegen te gaan – van onnodige medicatie en overbehandeling tot bureaucratie en inefficiënte organisatie."
+    },
+    {
+      "promiseCode": "PvdD-2025-189",
+      "text": "Essentiële hulpmiddelen worden voortaan in Europa geproduceerd. Er wordt een voorraad cruciale medicijnen en hulpmiddelen aangelegd.",
+      "summary": "Europese productie hulpmiddelen, voorraad medicijnen aanleggen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hulpmiddelen",
+        "europa",
+        "productie",
+        "voorraad",
+        "medicijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "We leggen een voorraad cruciale medicijnen en hulpmiddelen aan. Essentiële (hulp)middelen worden voortaan in Europa geproduceerd."
+    },
+    {
+      "promiseCode": "PvdD-2025-190",
+      "text": "Zorg voor kwetsbare ouderen thuis wordt voortaan georganiseerd vanuit alleen nog de Zorgverzekeringswet en de Wmo, in plaats van drie wetten en financieringsstromen.",
+      "summary": "Vereenvoudiging financieringsstromen ouderenzorg naar twee wetten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderen",
+        "zorg",
+        "zorgverzekeringswet",
+        "wmo",
+        "financieringsstromen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "Zorg die kwetsbare ouderen thuis nodig hebben wordt voortaan niet vanuit drie wetten en financieringsstromen georganiseerd, maar alleen nog vanuit de Zorgverzekeringswet en de Wmo."
+    },
+    {
+      "promiseCode": "PvdD-2025-191",
+      "text": "Regionale ziekenhuizen blijven open en verdwijnen niet door fusies. Elk streekziekenhuis beschikt over een verloskamer.",
+      "summary": "Regionale ziekenhuizen open houden, verloskamer per streekziekenhuis",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ziekenhuizen",
+        "fusies",
+        "streekziekenhuis",
+        "verloskamer",
+        "regionaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 87",
+      "originalQuote": "Regionale ziekenhuizen blijven open en verdwijnen niet door fusies. Zo is goede zorg bereikbaar voor iedereen. Elk streekziekenhuis beschikt over een verloskamer."
+    },
+    {
+      "promiseCode": "PvdD-2025-192",
+      "text": "Het eigen risico wordt afgeschaft. De inkomensafhankelijke bijdrage gaat omhoog. De zorgtoeslag wordt hierdoor overbodig.",
+      "summary": "Afschaffing eigen risico, hogere inkomensafhankelijke bijdrage",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen",
+        "risico",
+        "afgeschaft",
+        "inkomensafhankelijke",
+        "bijdrage",
+        "zorgtoeslag"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 88",
+      "originalQuote": "Het eigen risico wordt afgeschaft. De inkomensafhankelijke bijdrage gaat omhoog. De zorgtoeslag wordt op deze manier overbodig en het mijden van zorg door de angst voor te hoge kosten wordt tegengegaan."
+    },
+    {
+      "promiseCode": "PvdD-2025-193",
+      "text": "Er komt een zorgfonds met uitgebreide dekking, ook voor mondzorg, fysiotherapie en definitieve anticonceptie.",
+      "summary": "Zorgfonds met mondzorg, fysiotherapie en anticonceptie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgfonds",
+        "mondzorg",
+        "fysiotherapie",
+        "anticonceptie",
+        "dekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 88",
+      "originalQuote": "We komen met een zorgfonds met een uitgebreide dekking, ook voor mondzorg, fysiotherapie en (definitieve) anticonceptie."
+    },
+    {
+      "promiseCode": "PvdD-2025-194",
+      "text": "De leeftijdsgrens voor jeugdhulp gaat naar 21 jaar en wordt vanaf 18 jaar geleidelijk afgebouwd.",
+      "summary": "Leeftijdsgrens jeugdhulp naar 21 jaar, geleidelijke afbouw vanaf 18",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "jeugdhulp",
+        "21",
+        "jaar",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 89",
+      "originalQuote": "De leeftijdsgrens gaat naar 21 jaar en de jeugdhulp wordt vanaf 18 jaar geleidelijk afgebouwd."
+    },
+    {
+      "promiseCode": "PvdD-2025-195",
+      "text": "Abortus wordt uit het Wetboek van Strafrecht gehaald.",
+      "summary": "Abortus uit Wetboek van Strafrecht halen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortus",
+        "wetboek",
+        "strafrecht",
+        "decriminaliseren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 90",
+      "originalQuote": "Abortus is geen misdaad, deze medische ingreep wordt uit het Wetboek van Strafrecht gehaald."
+    },
+    {
+      "promiseCode": "PvdD-2025-196",
+      "text": "Er komt een wettelijk verbod op conversietherapieën waarmee wordt geprobeerd om de seksuele oriëntatie, genderidentiteit of -expressie van mensen te veranderen.",
+      "summary": "Wettelijk verbod op conversietherapieën",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "conversietherapie",
+        "seksuele",
+        "oriëntatie",
+        "genderidentiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 91",
+      "originalQuote": "Er komt een wettelijk verbod op 'conversiehandelingen' waarmee wordt geprobeerd om de seksuele oriëntatie, genderidentiteit of -expressie van mensen te veranderen."
+    },
+    {
+      "promiseCode": "PvdD-2025-197",
+      "text": "De veehouderij wordt gekrompen met 75% van het aantal dieren dat wordt gefokt en gedood, waardoor de stikstofcrisis wordt opgelost en landbouwgrond en agrarische bebouwing vrijkomt voor natuur en woningen.",
+      "summary": "75% krimp veehouderij voor meer ruimte voor woningen en natuur",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veehouderij",
+        "krimp",
+        "dieren",
+        "stikstofcrisis",
+        "landbouwgrond",
+        "woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 94",
+      "originalQuote": "Door te kiezen voor een krimp met 75% van het aantal dieren dat wordt gefokt en gedood in de veehouderij wordt de stikstofcrisis opgelost, komt er veel landbouwgrond en agrarische bebouwing vrij."
+    },
+    {
+      "promiseCode": "PvdD-2025-198",
+      "text": "De minister voor Volkshuisvesting maakt een Deltaplan wonen dat zowel nieuwe woonruimte creëert als bestaande woningen energiezuinig of energieneutraal maakt.",
+      "summary": "Deltaplan wonen voor nieuwe woonruimte en verduurzaming",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deltaplan",
+        "wonen",
+        "woonruimte",
+        "energieneutraal",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 94",
+      "originalQuote": "De minister voor Volkshuisvesting maakt een Deltaplan wonen: zowel nieuwe woonruimte creëren, als bestaande woningen energiezuinig of energieneutraal maken."
+    },
+    {
+      "promiseCode": "PvdD-2025-199",
+      "text": "Er komt een stop op de bouw van distributiecentra, megadatacentra en grote kantoorpanden. Ook geen nieuwe bedrijfshallen zolang er nog leegstaande bedrijfshallen in de regio zijn.",
+      "summary": "Stop op bouw distributiecentra, datacentra en kantoren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "distributiecentra",
+        "datacentra",
+        "kantoorpanden",
+        "bedrijfshallen",
+        "bouwstop"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 95",
+      "originalQuote": "Er komt een stop op de bouw van distributiecentra, megadatacentra en grote kantoorpanden. Er komen ook geen nieuwe bedrijfshallen zolang er nog leegstaande bedrijfshallen in de regio zijn."
+    },
+    {
+      "promiseCode": "PvdD-2025-200",
+      "text": "De woningvoorraad is in 2030 energieneutraal. Zonnepanelen op daken worden de norm. Alle nieuwbouwwoningen worden voorzien van zonnepanelen en/of een groen dak.",
+      "summary": "Woningvoorraad energieneutraal in 2030, zonnepanelen norm",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningvoorraad",
+        "energieneutraal",
+        "2030",
+        "zonnepanelen",
+        "nieuwbouw",
+        "groen dak"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 95",
+      "originalQuote": "De woningvoorraad is in 2030 energieneutraal. Zonnepanelen op daken worden de norm. Alle nieuwbouwwoningen worden voorzien van zonnepanelen en/of een groen dak"
+    },
+    {
+      "promiseCode": "PvdD-2025-201",
+      "text": "Alle nieuwbouw wordt circulair gebouwd, gasvrij, natuurinclusief, minstens energieneutraal, en zo mogelijk energiepositief.",
+      "summary": "Alle nieuwbouw wordt circulair, gasvrij en energieneutraal",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "circulair",
+        "gasvrij",
+        "natuurinclusief",
+        "energieneutraal",
+        "energiepositief"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 95",
+      "originalQuote": "Alle nieuwbouw wordt circulair gebouwd, gasvrij, natuurinclusief, minstens energieneutraal, en zo mogelijk energiepositief."
+    },
+    {
+      "promiseCode": "PvdD-2025-202",
+      "text": "Het woningwaardenstelsel (WWS) wordt dwingend en wordt uitgebreid naar alle woningen inclusief de vrije sector. De WOZ-waarde wordt niet langer meegenomen in het WWS.",
+      "summary": "WWS verplicht voor alle woningen, WOZ-waarde eruit",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningwaardenstelsel",
+        "wws",
+        "vrije sector",
+        "woz-waarde",
+        "huurprijzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 96",
+      "originalQuote": "We maken het woningwaardenstelsel (WWS) dwingend... Huurwoningen in de vrije sector gaan ook onder het WWS vallen. Het WWS wordt voor alle woningen verplicht. De WOZ-waarde van een woning wordt niet langer meegenomen in het woningwaarderingsstelsel"
+    },
+    {
+      "promiseCode": "PvdD-2025-203",
+      "text": "De huren worden voor de komende vijf jaar bevroren, ook in de vrije sector worden de maximale huurprijzen beperkt.",
+      "summary": "Huurbevriezing voor vijf jaar, ook in vrije sector",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "huren",
+        "bevroren",
+        "vijf jaar",
+        "vrije sector",
+        "huurprijzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 96",
+      "originalQuote": "De huren worden voor de komende vijf jaar bevroren. Ook in de vrije sector worden de maximale huurprijzen beperkt."
+    },
+    {
+      "promiseCode": "PvdD-2025-204",
+      "text": "De Wet kraken en leegstand van 2010 wordt afgeschaft. Kraken is niet langer strafbaar.",
+      "summary": "Afschaffing kraakverbod uit 2010",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kraken",
+        "wet",
+        "leegstand",
+        "2010",
+        "afschaffen",
+        "strafbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 96",
+      "originalQuote": "Kraken is niet langer strafbaar. De Wet kraken en leegstand van 2010 schaffen we af."
+    },
+    {
+      "promiseCode": "PvdD-2025-205",
+      "text": "Minimaal 40% van de nieuwbouwwoningen is sociale huur. Er worden geen sociale huurwoningen meer verkocht, tenzij deze minstens een-op-een vervangen worden in dezelfde gemeente.",
+      "summary": "40% nieuwbouw sociale huur, geen verkoop zonder vervanging",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "40%",
+        "sociale huur",
+        "verkoop",
+        "vervanging",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 97",
+      "originalQuote": "Er komen meer betaalbare woningen: minimaal 40% van de nieuwbouwwoningen is sociale huur. Er worden geen sociale huurwoningen meer verkocht, tenzij deze minstens een-op-een vervangen worden in dezelfde gemeente."
+    },
+    {
+      "promiseCode": "PvdD-2025-206",
+      "text": "Er wordt ten minste één nieuwe boom per inwoner per jaar aangeplant, waarmee 1% van Nederland in de schaduw wordt gezet.",
+      "summary": "Één boom per inwoner per jaar, 1% Nederland in schaduw",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boom",
+        "inwoner",
+        "jaar",
+        "aanplant",
+        "nederland",
+        "schaduw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 99",
+      "originalQuote": "kiezen voor massale aanplant van bomen: ten minste één nieuwe boom per inwoner per jaar... We planten een boom voor elke inwoner, daarmee zetten we 1% van Nederland in de schaduw."
+    },
+    {
+      "promiseCode": "PvdD-2025-207",
+      "text": "Voor elke vierkante meter die wordt bebouwd worden 4 vierkante meters nieuw groen in de buurt aangelegd.",
+      "summary": "4m² groen voor elke 1m² bebouwing",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bebouwing",
+        "vierkante meter",
+        "groen",
+        "buurt",
+        "compensatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 99",
+      "originalQuote": "Voor elke vierkante meter die wordt bebouwd worden 4 vierkante meters nieuw groen in de buurt aangelegd."
+    },
+    {
+      "promiseCode": "PvdD-2025-208",
+      "text": "Elke gemeente moet voldoen aan de norm van minstens 75m² kwalitatief groen per woning, met gelijke verdeling over verschillende buurten.",
+      "summary": "Norm 75m² groen per woning voor alle gemeenten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeente",
+        "norm",
+        "75m²",
+        "groen",
+        "woning",
+        "buurten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 99",
+      "originalQuote": "Elke gemeente moet voldoen aan de norm van minstens 75m² kwalitatief groen per woning, waarbij gelet wordt op een gelijke verdeling van het groen over de verschillende buurten."
+    },
+    {
+      "promiseCode": "PvdD-2025-209",
+      "text": "Investeren in veilige en snelle fietspaden, fietsstraten en snelfietsroutes, en in een aantrekkelijke groene omgeving. Verkeerslichten worden zo afgesteld dat fietsers en voetgangers eerder groen licht krijgen.",
+      "summary": "Investeren in fietsinfrastructuur en voorrang bij verkeerslichten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietspaden",
+        "fietsstraten",
+        "snelfietsroutes",
+        "verkeerslichten",
+        "investering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 102",
+      "originalQuote": "We investeren in veilige en snelle fietspaden, fietsstraten en snelfietsroutes, en in een aantrekkelijke groene omgeving, zoals bloemrijke bermen en struiken. Verkeerslichten worden zo afgesteld dat fietsers en voetgangers eerder groen licht krijgen."
+    },
+    {
+      "promiseCode": "PvdD-2025-210",
+      "text": "Het openbaar vervoer wordt minimaal 50% goedkoper, zodat het ov financieel aantrekkelijker wordt dan de auto. Voor mensen met een inkomen tot 150% van het sociaal minimum wordt het openbaar vervoer gratis.",
+      "summary": "OV wordt 50% goedkoper, gratis voor lage inkomens",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "prijsverlaging",
+        "50%",
+        "gratis",
+        "sociaal minimum"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "Het openbaar vervoer wordt minimaal 50% goedkoper, zodat het ov financieel aantrekkelijker wordt dan de auto. Voor mensen met een inkomen tot 150% van het sociaal minimum wordt het openbaar vervoer gratis."
+    },
+    {
+      "promiseCode": "PvdD-2025-211",
+      "text": "In de treinen wordt het klassensysteem afgeschaft, voor iedereen moet er een goede zitplaats zijn tegen een redelijke prijs.",
+      "summary": "Afschaffen klassensysteem in treinen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "treinen",
+        "klassensysteem",
+        "afschaffen",
+        "zitplaats"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "In de treinen wordt het klassensysteem afgeschaft, voor iedereen moet er een goede zitplaats zijn tegen een redelijke prijs."
+    },
+    {
+      "promiseCode": "PvdD-2025-212",
+      "text": "De Lelylijn en Nedersaksenlijn komen er zo snel mogelijk. Ook zorgen we voor een nieuwe, snelle treinverbinding tussen Utrecht en Breda.",
+      "summary": "Aanleg Lelylijn, Nedersaksenlijn en Utrecht-Breda verbinding",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelylijn",
+        "nedersaksenlijn",
+        "treinverbinding",
+        "utrecht",
+        "breda"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "De Lelylijn en Nedersaksenlijn komen er zo snel mogelijk. Ook zorgen we voor een nieuwe, snelle treinverbinding tussen Utrecht en Breda."
+    },
+    {
+      "promiseCode": "PvdD-2025-213",
+      "text": "De maximumsnelheid op autosnelwegen wordt overdag en 's nachts 100 km per uur en op ringwegen 70 km per uur.",
+      "summary": "Maximumsnelheid snelwegen 100 km/u, ringwegen 70 km/u",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "autosnelwegen",
+        "100 km/u",
+        "ringwegen",
+        "70 km/u"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "De maximumsnelheid op autosnelwegen wordt overdag en 's nachts 100 km per uur en op ringwegen 70 km per uur."
+    },
+    {
+      "promiseCode": "PvdD-2025-214",
+      "text": "Binnen de bebouwde kom is de maximumsnelheid 30 km per uur.",
+      "summary": "Maximumsnelheid bebouwde kom 30 km/u",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "bebouwde kom",
+        "30 km/u"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "Binnen de bebouwde kom is de maximumsnelheid 30 km per uur."
+    },
+    {
+      "promiseCode": "PvdD-2025-215",
+      "text": "We voeren een intelligente kilometerheffing in op alle wegen en voor alle voertuigen, gedifferentieerd naar type voertuig en brandstofgebruik.",
+      "summary": "Invoering intelligente kilometerheffing voor alle voertuigen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kilometerheffing",
+        "intelligent",
+        "voertuigen",
+        "brandstofgebruik",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "We voeren een intelligente kilometerheffing in op alle wegen en voor alle voertuigen, gedifferentieerd naar type voertuig en brandstofgebruik."
+    },
+    {
+      "promiseCode": "PvdD-2025-216",
+      "text": "De verkoop van auto's die relatief vervuilend en gevaarlijk zijn, zoals pick-up trucks en SUV's, wordt verboden met het oog op veiligheid en leefbaarheid van steden en dorpen.",
+      "summary": "Verbod op verkoop pick-up trucks en SUV's",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkoop",
+        "verbod",
+        "pick-up trucks",
+        "suv's",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 103",
+      "originalQuote": "De verkoop van auto's die relatief vervuilend en gevaarlijk zijn, zoals pick-up trucks en SUV's, wordt verboden met het oog op veiligheid en leefbaarheid van steden en dorpen."
+    },
+    {
+      "promiseCode": "PvdD-2025-217",
+      "text": "Er komen geen nieuwe wegen en geen verbreding van bestaande wegen. Dat betekent dat onder andere de verbreding van de A27 bij Amelisweerd niet doorgaat.",
+      "summary": "Geen nieuwe wegen of verbreding, A27 Amelisweerd gaat niet door",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwe wegen",
+        "verbreding",
+        "a27",
+        "amelisweerd"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 104",
+      "originalQuote": "Daarom komen er geen nieuwe wegen en geen verbreding van bestaande wegen. Dat betekent dat onder andere de verbreding van de A27 bij Amelisweerd niet doorgaat."
+    },
+    {
+      "promiseCode": "PvdD-2025-218",
+      "text": "In 2030 zijn vrijwel alle nieuwe bestel- en vrachtauto's in Nederland elektrisch.",
+      "summary": "Bestel- en vrachtauto's elektrisch in 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "2030",
+        "bestelauto's",
+        "vrachtauto's",
+        "elektrisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 104",
+      "originalQuote": "In 2030 zijn vrijwel alle nieuwe bestel- en vrachtauto's in Nederland elektrisch."
+    },
+    {
+      "promiseCode": "PvdD-2025-219",
+      "text": "Er komt een progressieve vliegtaks. De belasting wordt hoger naarmate je vaker en verder vliegt.",
+      "summary": "Progressieve vliegtaks op basis van frequentie en afstand",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegtaks",
+        "progressief",
+        "belasting",
+        "frequentie",
+        "afstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 104",
+      "originalQuote": "Er komt een progressieve vliegtaks. De belasting wordt hoger naarmate je vaker en verder vliegt."
+    },
+    {
+      "promiseCode": "PvdD-2025-220",
+      "text": "Schiphol halveert. Lelystad Airport en vliegveld Twente gaan niet open voor commerciële vluchten. Eindhoven Airport, Maastricht Aachen Airport, Groningen Airport Eelde en Rotterdam The Hague Airport sluiten.",
+      "summary": "Schiphol halveert, meerdere luchthavens sluiten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schiphol",
+        "halvering",
+        "lelystad airport",
+        "eindhoven airport",
+        "sluiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 104",
+      "originalQuote": "Schiphol halveert. Lelystad Airport en vliegveld Twente gaan niet open voor commerciële vluchten. Eindhoven Airport, Maastricht Aachen Airport, Groningen Airport Eelde en Rotterdam The Hague Airport sluiten."
+    },
+    {
+      "promiseCode": "PvdD-2025-221",
+      "text": "Er komt een verbod op korte vluchten tot 750 kilometer waar de trein een goed alternatief is.",
+      "summary": "Verbod korte vluchten tot 750 km met treinalternatief",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "korte vluchten",
+        "750 kilometer",
+        "trein",
+        "alternatief"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 104",
+      "originalQuote": "Er komt een verbod op korte vluchten tot 750 kilometer waar de trein een goed alternatief is."
+    },
+    {
+      "promiseCode": "PvdD-2025-222",
+      "text": "Privévliegtuigen worden verboden.",
+      "summary": "Verbod op privévliegtuigen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "privévliegtuigen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 104",
+      "originalQuote": "Privévliegtuigen worden verboden."
+    },
+    {
+      "promiseCode": "PvdD-2025-223",
+      "text": "Nachtvluchten worden verboden in heel Nederland.",
+      "summary": "Landelijk verbod op nachtvluchten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nachtvluchten",
+        "verbod",
+        "nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 105",
+      "originalQuote": "Nachtvluchten worden verboden in heel Nederland."
+    },
+    {
+      "promiseCode": "PvdD-2025-224",
+      "text": "Er komt net als op benzine accijns op scheepsbrandstof. Het gebruik van walstroom wordt verplicht voor aangemeerde schepen.",
+      "summary": "Accijns op scheepsbrandstof en verplicht walstroomgebruik",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "accijns",
+        "scheepsbrandstof",
+        "walstroom",
+        "verplicht",
+        "schepen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 105",
+      "originalQuote": "er komt net als op benzine accijns op scheepsbrandstof. Het gebruik van walstroom wordt verplicht voor aangemeerde schepen."
+    },
+    {
+      "promiseCode": "PvdD-2025-225",
+      "text": "Klassgrootte wordt beperkt tot maximaal 21 leerlingen, waarbij scholen zelf beslissen over de klassengrootte en de medezeggenschapsraad instemmingsrecht krijgt.",
+      "summary": "Maximaal 21 leerlingen per klas met instemmingsrecht medezeggenschapsraad",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klassengrootte",
+        "leerlingen",
+        "medezeggenschapsraad",
+        "instemmingsrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 109",
+      "originalQuote": "We willen af van 'plofklassen' en werken toe naar kleinere klassen van maximaal 21 leerlingen. De school gaat over de klassengrootte en de medezeggenschapsraad krijgt instemmingsrecht."
+    },
+    {
+      "promiseCode": "PvdD-2025-226",
+      "text": "De basisbeurs wordt verhoogd naar minimaal 500 euro per maand voor uitwonende studenten en 130 euro per maand voor thuiswonende studenten.",
+      "summary": "Basisbeurs verhogen naar €500 uitwonend, €130 thuiswonend per maand",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisbeurs",
+        "studenten",
+        "uitwonend",
+        "thuiswonend"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 113",
+      "originalQuote": "Daarom verhogen we de basisbeurs naar minimaal 500 euro per maand voor uitwonende studenten en 130 euro per maand voor thuiswonende studenten."
+    },
+    {
+      "promiseCode": "PvdD-2025-227",
+      "text": "De rente op studieschulden wordt structureel naar 0% gebracht.",
+      "summary": "Studieschuldrente naar 0%",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studieschuld",
+        "rente",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 113",
+      "originalQuote": "De rente op studieschulden gaat structureel naar 0%."
+    },
+    {
+      "promiseCode": "PvdD-2025-228",
+      "text": "Het bindend studieadvies wordt afgeschaft en vervangen door persoonlijke en onderbouwde terugkoppeling aan studenten.",
+      "summary": "Afschaffen bindend studieadvies",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend studieadvies",
+        "studenten",
+        "terugkoppeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 114",
+      "originalQuote": "Het bindend studieadvies wordt afgeschaft. In plaats daarvan krijgen studenten voortaan een persoonlijke en onderbouwde terugkoppeling."
+    },
+    {
+      "promiseCode": "PvdD-2025-229",
+      "text": "Mobiele telefoons worden geweerd uit de hele school, niet alleen uit de klas.",
+      "summary": "Telefoonverbod in hele school",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mobiele telefoon",
+        "school",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 111",
+      "originalQuote": "We weren de mobiele telefoon niet alleen uit de klas, maar uit de hele school."
+    },
+    {
+      "promiseCode": "PvdD-2025-230",
+      "text": "Scholen bieden gezonde maaltijden aan met 100% biologische en plantaardige inkoop, en schoolmelkregelingen worden stopgezet.",
+      "summary": "100% biologische plantaardige schoolmaaltijden, stop schoolmelk",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolmaaltijden",
+        "biologisch",
+        "plantaardig",
+        "schoolmelk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 112-113",
+      "originalQuote": "Net als in veel andere landen bieden scholen gezonde maaltijden aan, met 100% biologische en plantaardige inkoop. [...] Schoolmelkregelingen worden stopgezet."
+    },
+    {
+      "promiseCode": "PvdD-2025-231",
+      "text": "Werkgevers worden verplicht een stagevergoeding van minimaal 500 euro per maand te betalen bij voltijdstages, naar rato bij deeltijd voor mbo-, hbo- en wo-studenten.",
+      "summary": "Verplichte stagevergoeding €500 per maand voltijd",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "werkgevers",
+        "studenten",
+        "mbo",
+        "hbo",
+        "wo"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 114",
+      "originalQuote": "Werkgevers worden verplicht een stagevergoeding te betalen aan hun stagiairs van minimaal 500 euro per maand bij een stage in voltijd en naar rato bij deeltijd. Dit geldt voor zowel mbo-, hbo-, als wo-studenten."
+    },
+    {
+      "promiseCode": "PvdD-2025-232",
+      "text": "Artikel 23 van de Grondwet wordt aangepast om te voorkomen dat vrijheid van onderwijs wordt misbruikt voor discriminatie tegen homoseksualiteit en genderdiversiteit.",
+      "summary": "Aanpassing Grondwet artikel 23 tegen onderwijsdiscriminatie",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwet",
+        "artikel 23",
+        "discriminatie",
+        "homoseksualiteit",
+        "genderdiversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 112",
+      "originalQuote": "De vrijheid van onderwijs mag niet misbruikt worden om te discrimineren. Intentieverklaringen die homoseksualiteit en genderdiversiteit afwijzen zijn onacceptabel. Artikel 23 van de Grondwet wordt daarom aangepast."
+    },
+    {
+      "promiseCode": "PvdD-2025-233",
+      "text": "Er komen mogelijkheden voor het verzamelen van studiepunten met vrijwilligerswerk.",
+      "summary": "Studiepunten voor vrijwilligerswerk",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studiepunten",
+        "vrijwilligerswerk",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 115",
+      "originalQuote": "Er komen mogelijkheden voor het verzamelen van studiepunten met vrijwilligerswerk."
+    },
+    {
+      "promiseCode": "PvdD-2025-234",
+      "text": "Er komt een wettelijk verbod op het gebruik van dieren in het middelbaar en hoger onderwijs.",
+      "summary": "Wettelijk verbod op dierproeven in onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dierproeven",
+        "verbod",
+        "middelbaar onderwijs",
+        "hoger onderwijs",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 115",
+      "originalQuote": "Er komt een wettelijk verbod op het gebruik van dieren in het middelbaar en hoger onderwijs."
+    },
+    {
+      "promiseCode": "PvdD-2025-235",
+      "text": "Competities voor onderzoeksfinanciering met een slagingskans van minder dan 25% worden stopgezet. De hierbij vrijgekomen middelen worden evenredig verdeeld over wetenschappers als vrij te besteden onderzoeksgeld.",
+      "summary": "Stoppen onderzoekscompetities onder 25% slagingskans",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoeksfinanciering",
+        "competities",
+        "slagingskans",
+        "wetenschappers",
+        "onderzoeksgeld"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 115",
+      "originalQuote": "Competities voor onderzoeksfinanciering met een slagingskans van minder dan 25% worden stopgezet. De hierbij vrijgekomen middelen worden evenredig verdeeld over wetenschappers als vrij te besteden onderzoeksgeld."
+    },
+    {
+      "promiseCode": "PvdD-2025-236",
+      "text": "Er komt een openbaar register van nevenactiviteiten van alle onderzoekers, professoren en docenten op universiteiten en hogescholen.",
+      "summary": "Openbaar register nevenactiviteiten onderzoekers",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar register",
+        "nevenactiviteiten",
+        "onderzoekers",
+        "professoren",
+        "docenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 115",
+      "originalQuote": "Er komt een openbaar register van nevenactiviteiten van alle onderzoekers, professoren en docenten op universiteiten en hogescholen."
+    },
+    {
+      "promiseCode": "PvdD-2025-237",
+      "text": "Het budget voor kunst, cultuur en erfgoed wordt verhoogd om de toegankelijkheid ervan voor alle inwoners van Nederland te vergroten.",
+      "summary": "Budget kunst en cultuur wordt verhoogd",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "kunst",
+        "cultuur",
+        "erfgoed",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 116",
+      "originalQuote": "Het budget voor kunst, cultuur en erfgoed wordt verhoogd om de toegankelijkheid ervan voor alle inwoners van Nederland te vergroten."
+    },
+    {
+      "promiseCode": "PvdD-2025-238",
+      "text": "De bezuiniging op de NPO wordt teruggedraaid.",
+      "summary": "Bezuiniging NPO terugdraaien",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezuiniging",
+        "npo",
+        "publieke omroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 116",
+      "originalQuote": "Daarom wordt de bezuiniging op de NPO teruggedraaid."
+    },
+    {
+      "promiseCode": "PvdD-2025-239",
+      "text": "Cultuureducatie en cultuurparticipatie worden in de wet verankerd.",
+      "summary": "Cultuureducatie wettelijk verankeren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuureducatie",
+        "cultuurparticipatie",
+        "wet",
+        "verankering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 116",
+      "originalQuote": "Cultuureducatie en cultuurparticipatie worden in de wet verankerd."
+    },
+    {
+      "promiseCode": "PvdD-2025-240",
+      "text": "Fair Pay wordt overal verplicht in de culturele sector, en daarvoor worden structureel middelen vrijgemaakt.",
+      "summary": "Fair Pay verplicht in culturele sector",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fair pay",
+        "culturele sector",
+        "verplicht",
+        "middelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 116",
+      "originalQuote": "Fair Pay wordt overal verplicht, en daarvoor worden structureel middelen vrijgemaakt."
+    },
+    {
+      "promiseCode": "PvdD-2025-241",
+      "text": "Museumbezoek wordt financieel toegankelijk voor alle burgers. Musea worden gratis voor mensen met een laag inkomen en voor studenten.",
+      "summary": "Gratis musea voor lage inkomens en studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "museumbezoek",
+        "gratis",
+        "laag inkomen",
+        "studenten",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 117",
+      "originalQuote": "Museumbezoek wordt financieel toegankelijk voor alle burgers. Zo worden musea gratis voor mensen met een laag inkomen en voor studenten."
+    },
+    {
+      "promiseCode": "PvdD-2025-242",
+      "text": "Cultuur-, kunst- en muziekeducatie krijgen een vaste plek in het lesprogramma van het basis-, voortgezet en middelbaar beroepsonderwijs.",
+      "summary": "Kunsteducatie vast in alle lesprogramma's",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunsteducatie",
+        "lesprogramma",
+        "basisonderwijs",
+        "voortgezet onderwijs",
+        "mbo"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 117",
+      "originalQuote": "Cultuur-, kunst- en muziekeducatie krijgen een vaste plek in het lesprogramma van het basis-, voortgezet en middelbaar beroepsonderwijs."
+    },
+    {
+      "promiseCode": "PvdD-2025-243",
+      "text": "Het verlaagde btw-tarief van 9% voor de kunst- en cultuursector wordt behouden.",
+      "summary": "Behoud 9% btw voor kunst en cultuur",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw-tarief",
+        "kunst",
+        "cultuur",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 117",
+      "originalQuote": "We behouden het verlaagde btw-tarief van 9% voor de kunst- en cultuursector."
+    },
+    {
+      "promiseCode": "PvdD-2025-244",
+      "text": "Culturele instellingen die zich laten sponsoren door bedrijven uit de fossiele industrie krijgen geen subsidie meer van de overheid.",
+      "summary": "Geen subsidie bij fossiele sponsoring",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "culturele instellingen",
+        "fossiele industrie",
+        "subsidie",
+        "sponsoring"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 117",
+      "originalQuote": "Culturele instellingen die zich laten sponsoren door bedrijven uit de fossiele industrie krijgen geen subsidie meer van de overheid."
+    },
+    {
+      "promiseCode": "PvdD-2025-245",
+      "text": "Nederland verbreekt volledig de samenwerking met Israël door een complete militaire, economische, politieke, sportieve en academische boycot tot de genocide en bezetting stoppen. Wapenhandel, import van Israëlische wapens en uitwisseling van inlichtingen worden stopgezet.",
+      "summary": "Volledige boycot van Israël op alle terreinen tot genocide en bezetting stoppen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boycot",
+        "israël",
+        "wapenhandel",
+        "samenwerking",
+        "genocide",
+        "bezetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 121",
+      "originalQuote": "Nederland verbreekt de samenwerking met Israël. Er komt een volledige militaire, economische, politieke, sportieve en academische boycot van Israël, totdat de genocide en bezetting worden gestopt. De Nederlandse wapenhandel met Israël, inclusief de import van Israëlische wapens voor Nederlandse krijgsmacht of politie en de doorvoer van wapens, en de uitwisseling van inlichtingen, stopt."
+    },
+    {
+      "promiseCode": "PvdD-2025-246",
+      "text": "Het EU-Israël Associatieverdrag wordt onmiddellijk opgeschort. Als dit in EU-verband niet mogelijk is, neemt Nederland met een coalition of the willing het voortouw.",
+      "summary": "Opschorting EU-Israël Associatieverdrag, desnoods met coalitie van bereid",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-israël",
+        "associatieverdrag",
+        "opschorting",
+        "coalition"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 121",
+      "originalQuote": "Het EU-Israël Associatieverdrag wordt onmiddellijk opgeschort. Indien dit in EU-verband niet mogelijk blijkt, neemt Nederland, met een coalition of the willing, het voortouw."
+    },
+    {
+      "promiseCode": "PvdD-2025-247",
+      "text": "Nederland sluit zich aan bij de zaak van Zuid-Afrika tegen Israël bij het Internationaal Gerechtshof.",
+      "summary": "Aansluiting bij Zuid-Afrika's zaak tegen Israël bij Internationaal Gerechtshof",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zuid-afrika",
+        "israël",
+        "internationaal gerechtshof",
+        "zaak"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 121",
+      "originalQuote": "Nederland sluit zich aan bij de zaak van Zuid-Afrika tegen Israël bij het Internationaal Gerechtshof."
+    },
+    {
+      "promiseCode": "PvdD-2025-248",
+      "text": "Nederland erkent de Palestijnse staat en zet de Nederlandse vertegenwoordiging van de Palestijnse gebieden in Ramallah om naar een ambassade.",
+      "summary": "Erkenning Palestijnse staat en omzetting vertegenwoordiging naar ambassade",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "palestijnse staat",
+        "erkenning",
+        "ambassade",
+        "ramallah"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 121-122",
+      "originalQuote": "De Nederlandse vertegenwoordiging van de Palestijnse gebieden in Ramallah wordt omgezet naar een ambassade. Nederland erkent de Palestijnse staat."
+    },
+    {
+      "promiseCode": "PvdD-2025-249",
+      "text": "Nederland verhoogt zijn steun aan UNRWA en maakt middelen vrij voor de wederopbouw van Gaza. Nederland nodigt gewonde Palestijnen uit Gaza uit voor medische behandeling in Nederland.",
+      "summary": "Verhoogde steun UNRWA, middelen Gaza-wederopbouw en medische opvang gewonden",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "unrwa",
+        "gaza",
+        "wederopbouw",
+        "medische behandeling",
+        "palestijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 122",
+      "originalQuote": "Nederland verhoogt zijn steun aan UNRWA en maakt middelen vrij voor de wederopbouw van Gaza, waar miljoenen mensen afhankelijk zijn van humanitaire hulp. Nederland nodigt gewonde Palestijnen uit Gaza uit voor medische behandeling in Nederland."
+    },
+    {
+      "promiseCode": "PvdD-2025-250",
+      "text": "Nederland en Europa worden volledig onafhankelijk van de import van Russische olie en gas.",
+      "summary": "Volledige onafhankelijkheid van Russische olie- en gasimport",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onafhankelijkheid",
+        "russische olie",
+        "russisch gas",
+        "import"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 122",
+      "originalQuote": "Nederland en Europa worden volledig onafhankelijk van de import van Russische olie en gas."
+    },
+    {
+      "promiseCode": "PvdD-2025-251",
+      "text": "Er komt binnen afzienbare tijd een nationaal monument voor Srebrenica, met een belangrijke rol voor de stichting Nationaal Monument Srebrenica Genocide.",
+      "summary": "Nationaal Srebrenica-monument binnen afzienbare tijd",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaal monument",
+        "srebrenica",
+        "genocide",
+        "stichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 123",
+      "originalQuote": "Er komt binnen afzienbare tijd een nationaal monument, met een belangrijke rol voor de stichting Nationaal Monument Srebrenica Genocide."
+    },
+    {
+      "promiseCode": "PvdD-2025-252",
+      "text": "Het voormalige gebouw van het Joegoslavië-tribunaal wordt een museum en educatief centrum, met ruimte voor dialoog, lessen en workshops voor scholen.",
+      "summary": "Joegoslavië-tribunaalgebouw wordt museum en educatief centrum",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "joegoslavië-tribunaal",
+        "museum",
+        "educatief centrum",
+        "scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 123",
+      "originalQuote": "Het voormalige gebouw van het Joegoslavië-tribunaal wordt een museum en educatief centrum, met ruimte voor dialoog, lessen en workshops voor scholen."
+    },
+    {
+      "promiseCode": "PvdD-2025-253",
+      "text": "De genocide van Srebrenica krijgt structureel aandacht in het geschiedenisonderwijs, waarbij ook het perspectief van slachtoffers en nabestaanden centraal staat.",
+      "summary": "Structurele aandacht Srebrenica-genocide in geschiedenisonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "srebrenica",
+        "genocide",
+        "geschiedenisonderwijs",
+        "slachtoffers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 123",
+      "originalQuote": "De genocide van Srebrenica krijgt structureel aandacht in het geschiedenisonderwijs, waarbij ook het perspectief van slachtoffers en nabestaanden centraal staat."
+    },
+    {
+      "promiseCode": "PvdD-2025-254",
+      "text": "Nederland zet zich in voor een alternatief voor de NAVO in de vorm van een samenwerkingsverband tussen betrouwbare Europese en niet-Europese landen zonder de VS.",
+      "summary": "Alternatief voor NAVO zonder VS met betrouwbare landen",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "navo-alternatief",
+        "samenwerkingsverband",
+        "europese landen",
+        "vs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 125",
+      "originalQuote": "Nederland zet zich in voor een alternatief voor de NAVO in de vorm van een samenwerkingsverband tussen betrouwbare Europese en niet-Europese landen zonder de VS."
+    },
+    {
+      "promiseCode": "PvdD-2025-255",
+      "text": "Nederland steunt geen specifieke NAVO-norm en geen wettelijke verankering van een defensienorm. Uitgaven gaan niet ten koste van klimaat, natuur, sociale zekerheid, zorg en onderwijs.",
+      "summary": "Geen NAVO-norm, defensie-uitgaven niet ten koste van andere sectoren",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "navo-norm",
+        "defensienorm",
+        "klimaat",
+        "sociale zekerheid",
+        "zorg",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 125",
+      "originalQuote": "Nederland steunt geen specifieke NAVO-norm en geen wettelijke verankering van een defensienorm. Uitgaven gaan niet ten koste van klimaat, natuur, sociale zekerheid, zorg en onderwijs."
+    },
+    {
+      "promiseCode": "PvdD-2025-256",
+      "text": "Er komt een windfall tax of solidariteitsbijdrage waarbij de winsten van de wapenindustrie maximaal worden belast en ten goede komen aan de samenleving.",
+      "summary": "Windfall tax op wapenindustrie-winsten voor de samenleving",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windfall tax",
+        "wapenindustrie",
+        "winsten",
+        "solidariteitsbijdrage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 125",
+      "originalQuote": "De wapenindustrie wordt maximaal belast. Er komt een windfall tax of solidariteitsbijdrage waarbij de winsten van de wapenindustrie ten goede komen aan de samenleving."
+    },
+    {
+      "promiseCode": "PvdD-2025-257",
+      "text": "Nederland koopt geen wapens meer van landen die zich schuldig maken aan mensenrechtenschendingen, zoals Israël en Saoedi-Arabië.",
+      "summary": "Geen wapenaankoop van landen met mensenrechtenschendingen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wapenaankoop",
+        "mensenrechtenschendingen",
+        "israël",
+        "saoedi-arabië"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 125",
+      "originalQuote": "Nederland koopt geen wapens meer van landen die zich schuldig maken aan mensenrechtenschendingen, zoals Israël en Saoedi-Arabië."
+    },
+    {
+      "promiseCode": "PvdD-2025-258",
+      "text": "Nederland komt met maatregelen die de samenleving beschermen tegen hybride oorlogsvoering, zoals cyberaanvallen en het vernielen van internetkabels en sabotage van waterzuiveringsinstallaties.",
+      "summary": "Maatregelen tegen hybride oorlogsvoering zoals cyberaanvallen en sabotage",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hybride oorlogsvoering",
+        "cyberaanvallen",
+        "internetkabels",
+        "waterzuiveringsinstallaties",
+        "sabotage",
+        "maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "Nederland komt met maatregelen die de samenleving beschermen tegen hybride oorlogsvoering, zoals cyberaanvallen en het vernielen van internetkabels en sabotage van waterzuiveringsinstallaties."
+    },
+    {
+      "promiseCode": "PvdD-2025-259",
+      "text": "Er komt een strenger wapenexportbeleid en de wapenlobby zit niet meer aan de beleidstafel.",
+      "summary": "Strenger wapenexportbeleid en uitsluiting wapenlobby van beleidstafel",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wapenexport",
+        "wapenlobby",
+        "beleidstafel",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "Er komt een strenger wapenexportbeleid en de wapenlobby zit niet meer aan de beleidstafel."
+    },
+    {
+      "promiseCode": "PvdD-2025-260",
+      "text": "Er komt geen extra ruimte voor defensie-oefeningen in Nederland, maar we zetten juist in op het verminderen van militaire oefeningen en terreinen in Nederland.",
+      "summary": "Vermindering militaire oefeningen en terreinen in Nederland",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensie-oefeningen",
+        "militaire oefeningen",
+        "terreinen",
+        "verminderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "Er komt geen extra ruimte voor defensie-oefeningen in Nederland, maar we zetten juist in op het verminderen van militaire oefeningen en terreinen in Nederland."
+    },
+    {
+      "promiseCode": "PvdD-2025-261",
+      "text": "Er komt geen Europees leger. Nederland levert geen soldaten aan internationale militaire interventies, tenzij deze een duidelijk afgebakend humanitair karakter hebben.",
+      "summary": "Geen Europees leger en beperkte deelname aan militaire interventies",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europees leger",
+        "soldaten",
+        "militaire interventies",
+        "humanitair karakter"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "Er komt geen Europees leger. Nederland levert geen soldaten aan internationale militaire interventies, tenzij deze een duidelijk afgebakend humanitair karakter hebben."
+    },
+    {
+      "promiseCode": "PvdD-2025-262",
+      "text": "De opkomstplicht wordt niet opnieuw ingevoerd.",
+      "summary": "Geen herinvoering opkomstplicht",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opkomstplicht",
+        "herinvoering",
+        "leger"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "De opkomstplicht wordt niet opnieuw ingevoerd."
+    },
+    {
+      "promiseCode": "PvdD-2025-263",
+      "text": "De leeftijd waarop militairen uitgezonden mogen worden voor missies wordt verhoogd van 18 naar 21 jaar.",
+      "summary": "Minimumleeftijd uitzending militairen verhoogd naar 21 jaar",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijd",
+        "militairen",
+        "uitzending",
+        "missies",
+        "21 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "De leeftijd waarop onze militairen uitgezonden mogen worden voor missies wordt verhoogd van 18 naar 21 jaar."
+    },
+    {
+      "promiseCode": "PvdD-2025-264",
+      "text": "Kernwapens worden niet langer op Nederlands grondgebied gestationeerd. Nederland ondertekent het VN Verdrag inzake het Verbod op Kernwapens.",
+      "summary": "Kernwapens weg uit Nederland en ondertekening VN-kernwapenverbod",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kernwapens",
+        "nederlands grondgebied",
+        "vn verdrag",
+        "kernwapenverbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 126",
+      "originalQuote": "Kernwapens worden niet langer op Nederlands grondgebied gestationeerd. Nederland draagt op geen enkele manier bij aan de ontwikkeling van nieuwe kernwapens in Europees verband en ondertekent het VN Verdrag inzake het Verbod op Kernwapens."
+    },
+    {
+      "promiseCode": "PvdD-2025-265",
+      "text": "De circa 300 miljard euro aan Europese subsidies voor de vee-industrie worden afgeschaft. De vrijgekomen middelen worden ingezet voor transitie naar een agro-ecologisch en plantaardig voedselsysteem.",
+      "summary": "Afschaffen €300 miljard EU-subsidies vee-industrie voor agro-ecologische transitie",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "300 miljard euro",
+        "europese subsidies",
+        "vee-industrie",
+        "agro-ecologisch",
+        "plantaardig voedselsysteem"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 127",
+      "originalQuote": "De circa 300 miljard euro aan Europese miljarden subsidies voor de vee-industrie en voor andere schadelijke landbouwpraktijken worden afgeschaft. De vrijgekomen middelen worden ingezet voor een transitie naar een agro-ecologisch en plantaardig voedselsysteem."
+    },
+    {
+      "promiseCode": "PvdD-2025-266",
+      "text": "Europese fossiele subsidies voor luchtvaart, scheepvaart en industrie worden afgeschaft via een hervorming van de Energiebelastingrichtlijn.",
+      "summary": "Afschaffing EU fossiele subsidies luchtvaart, scheepvaart en industrie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fossiele subsidies",
+        "luchtvaart",
+        "scheepvaart",
+        "industrie",
+        "energiebelastingrichtlijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 127",
+      "originalQuote": "Europese fossiele subsidies voor luchtvaart, scheepvaart en industrie worden afgeschaft via een hervorming van de Energiebelastingrichtlijn."
+    },
+    {
+      "promiseCode": "PvdD-2025-267",
+      "text": "De Europese Unie vermindert de uitstoot van broeikasgassen versneld met 75% in 2030 ten opzichte van 1990. Uiterlijk in 2040 is de EU écht klimaatneutraal.",
+      "summary": "EU klimaatdoelen: 75% CO2-reductie in 2030, klimaatneutraal in 2040",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "broeikasgassen",
+        "75%",
+        "2030",
+        "1990",
+        "2040",
+        "klimaatneutraal"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 127",
+      "originalQuote": "Daarom gaat de Europese Unie de uitstoot van broeikasgassen versneld verminderen met 75% in 2030 (ten opzichte van 1990). Uiterlijk in 2040 is de Europese Unie écht klimaatneutraal."
+    },
+    {
+      "promiseCode": "PvdD-2025-268",
+      "text": "Er komt een Europees verbod op consumentenvuurwerk en de EU-richtlijn over vuurwerk wordt aangescherpt.",
+      "summary": "Europees verbod op consumentenvuurwerk",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europees verbod",
+        "consumentenvuurwerk",
+        "eu-richtlijn",
+        "vuurwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 127",
+      "originalQuote": "Er komt ook een Europees verbod op consumentenvuurwerk en de EU-richtlijn over de productie en het gebruik van vuurwerk wordt aangescherpt zodat het beschermen van dieren, natuur en milieu leidend is."
+    },
+    {
+      "promiseCode": "PvdD-2025-269",
+      "text": "Het telen van genetisch gemanipuleerde gewassen, inclusief nieuwe gengewassen, blijft verboden. De etiketteringsverplichting voor gentechvoedsel blijft in stand.",
+      "summary": "Verbod op genetisch gemanipuleerde gewassen en behoud etikettering gentechvoedsel",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "genetisch gemanipuleerde gewassen",
+        "gengewassen",
+        "verboden",
+        "etiketteringsverplichting",
+        "gentechvoedsel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 127",
+      "originalQuote": "Het telen van genetisch gemanipuleerde gewassen, met inbegrip van nieuwe gengewassen, blijft verboden. De etiketteringsverplichting voor gentechvoedsel blijft in stand, zodat burgers bewust kunnen kiezen voor gentechvrij."
+    },
+    {
+      "promiseCode": "PvdD-2025-270",
+      "text": "Er komt een bindend mechanisme om toezicht te houden en jaarlijks verslag uit te brengen over de staat van democratie en rechtstaat in EU-lidstaten.",
+      "summary": "Bindend EU-mechanisme voor jaarlijks toezicht democratie en rechtstaat",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bindend mechanisme",
+        "toezicht",
+        "jaarlijks verslag",
+        "democratie",
+        "rechtstaat",
+        "eu-lidstaten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 128",
+      "originalQuote": "Er komt een bindend mechanisme om toezicht te houden en jaarlijks verslag uit te brengen over de staat van democratie en eerbiediging van de rechtsstaat in de EU-lidstaten."
+    },
+    {
+      "promiseCode": "PvdD-2025-271",
+      "text": "Nederland stopt de maandelijkse verhuizing van het Europees Parlement van Brussel naar Straatsburg. Dit bespaart 200 miljoen euro per jaar en voorkomt 20.000 ton CO2-uitstoot.",
+      "summary": "Stop verhuizing Europees Parlement tussen Brussel en Straatsburg",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europees parlement",
+        "brussel",
+        "straatsburg",
+        "200 miljoen euro",
+        "20.000 ton co2"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 128",
+      "originalQuote": "Nederland zet zich ervoor in om de maandelijkse verhuizing van het Europees Parlement van Brussel naar Straatsburg te stoppen. Eén plek voor het Europees Parlement is genoeg, bespaart de burger jaarlijks 200 miljoen euro en voorkomt 20.000 ton aan CO2-uitstoot."
+    },
+    {
+      "promiseCode": "PvdD-2025-272",
+      "text": "Nederland trekt zijn steun in voor het Mercosur-verdrag met Brazilië.",
+      "summary": "Nederland tegen Mercosur-handelsverbrag met Brazilië",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mercosur-verdrag",
+        "brazilië",
+        "handelsverbrag",
+        "steun intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 129",
+      "originalQuote": "De Nederlandse regering moet zich in lijn met het aangenomen voorstel van de Partij voor de Dieren uitspreken tegen het schadelijke Mercosur-verdrag. We zijn tegen het Amazone-verwoestende EU-Mercosur-verdrag met onder andere Brazilië."
+    },
+    {
+      "promiseCode": "PvdD-2025-273",
+      "text": "Nederland stapt uit alle verdragen die multinationals de mogelijkheid geven om miljardenclaims in te dienen via investeringsbescherming zoals ICS of ISDS.",
+      "summary": "Nederland verlaat alle verdragen met investeringsbescherming voor multinationals",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verdragen",
+        "multinationals",
+        "miljardenclaims",
+        "investeringsbescherming",
+        "ics",
+        "isds"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 129",
+      "originalQuote": "Nederland stapt uit alle verdragen die multinationals de mogelijkheid geven om miljardenclaims in te dienen buiten de normale rechter om via zogenaamde investeringsbescherming (zoals ICS of ISDS)."
+    },
+    {
+      "promiseCode": "PvdD-2025-274",
+      "text": "Nederland stopt met het exporteren van fokdieren en stalsystemen voor vee-industrie. Alle budgetten voor exportpromotie worden geschrapt en het landbouwattachénetwerk wordt opgeheven.",
+      "summary": "Stop export fokdieren/stalsystemen en opheffing landbouwattachénetwerk",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "export",
+        "fokdieren",
+        "stalsystemen",
+        "vee-industrie",
+        "exportpromotie",
+        "landbouwattachénetwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 129",
+      "originalQuote": "De export van fokdieren of stalsystemen om in landen elders de vee-industrie op te bouwen wordt niet meer toegestaan. Alle bestaande budgetten voor exportpromotie worden geschrapt. Het landbouwattachénetwerk gericht op de belangen van de agro-industrie wordt opgeheven."
+    },
+    {
+      "promiseCode": "PvdD-2025-275",
+      "text": "Er komt bindende Nederlandse IMVO-wetgeving die bedrijven verplicht mensenrechten, milieuvervuiling, dierenwelzijn en biodiversiteitsverlies in productieketens te identificeren en aan te pakken.",
+      "summary": "Bindende IMVO-wet voor bedrijven over mensenrechten en milieu in ketens",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "imvo-wetgeving",
+        "bedrijven",
+        "mensenrechten",
+        "milieuvervuiling",
+        "dierenwelzijn",
+        "productieketens"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 130",
+      "originalQuote": "Er komt bindende Nederlandse IMVO-wetgeving, in lijn met internationale richtlijnen voor bedrijven en mensenrechten van de OESO en de Verenigde Naties. De wetgeving verplicht bedrijven om schending van mensenrechten (inclusief kinderrechten), milieuvervuiling, aantasting van dierenwelzijn en biodiversiteitsverlies in hun productieketens te identificeren, te voorkomen en aan te pakken."
+    },
+    {
+      "promiseCode": "PvdD-2025-276",
+      "text": "De bezuinigingen op ontwikkelingssamenwerking worden per direct teruggedraaid. Minimaal 1% van het bruto nationaal inkomen wordt besteed aan ontwikkelingssamenwerking.",
+      "summary": "Minimaal 1% BNI naar ontwikkelingssamenwerking en terugdraaien bezuinigingen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bezuinigingen",
+        "ontwikkelingssamenwerking",
+        "1%",
+        "bruto nationaal inkomen",
+        "bni"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 131",
+      "originalQuote": "De bezuinigingen op ontwikkelingssamenwerking worden per direct teruggedraaid. Minimaal 1% van ons bruto nationaal inkomen (bni) wordt besteed aan ontwikkelingssamenwerking."
+    },
+    {
+      "promiseCode": "PvdD-2025-277",
+      "text": "Er komt een minister van Ontwikkelingssamenwerking.",
+      "summary": "Aparte minister voor Ontwikkelingssamenwerking",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "ontwikkelingssamenwerking",
+        "ministerie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 131",
+      "originalQuote": "Er komt een minister van Ontwikkelingssamenwerking."
+    },
+    {
+      "promiseCode": "PvdD-2025-278",
+      "text": "Het Europese migratiepact wordt van tafel gehaald om te voorkomen dat mensen, waaronder kinderen, langdurig verblijven in (deels) gesloten kampen langs de Europese buitengrenzen.",
+      "summary": "Het Europese migratiepact gaat van tafel",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "migratiepact",
+        "europa",
+        "kampen",
+        "buitengrenzen",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 133",
+      "originalQuote": "Het Europese migratiepact gaat van tafel. Dit akkoord zal onder meer leiden tot langdurig verblijf van mensen, waaronder kinderen, in (deels) gesloten kampen langs de Europese buitengrenzen."
+    },
+    {
+      "promiseCode": "PvdD-2025-279",
+      "text": "Het quotum van de VN-Vluchtelingenorganisatie (UNHCR) voor het opvangen van vluchtelingen wordt verhoogd.",
+      "summary": "Het UNHCR-quotum wordt verhoogd",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "unhcr",
+        "quotum",
+        "vluchtelingen",
+        "opvang",
+        "vn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 133",
+      "originalQuote": "Het quotum van de VN-Vluchtelingenorganisatie (UNHCR) wordt verhoogd."
+    },
+    {
+      "promiseCode": "PvdD-2025-280",
+      "text": "Frontex wordt vervangen door humanitaire missies die mensen in nood daadwerkelijk helpen, in plaats van de huidige grensbewaking die faalt in hulpverlening.",
+      "summary": "Frontex wordt vervangen door humanitaire missies",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "frontex",
+        "humanitaire missies",
+        "grensbewaking",
+        "hulpverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 133-134",
+      "originalQuote": "Frontex moet worden vervangen door humanitaire missies die mensen in nood daadwerkelijk helpen."
+    },
+    {
+      "promiseCode": "PvdD-2025-281",
+      "text": "De Richtlijn Tijdelijke Bescherming wordt op Europees niveau uitgebreid met nationaliteiten waarvan het inwilligingspercentage hoog ligt, zoals mensen uit Syrië, Eritrea en Jemen.",
+      "summary": "RTB wordt uitgebreid naar meer nationaliteiten",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "richtlijn tijdelijke bescherming",
+        "nationaliteiten",
+        "syrië",
+        "eritrea",
+        "jemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 134",
+      "originalQuote": "De Richtlijn Tijdelijke Bescherming (RTB), die nu voor Oekraïners geldt, wordt op Europees niveau uitgebreid met nationaliteiten waarvan het inwilligingspercentage hoog ligt (denk aan mensen uit Syrië, Eritrea, Jemen)."
+    },
+    {
+      "promiseCode": "PvdD-2025-282",
+      "text": "De Koppelingswet wordt afgeschaft zodat ongedocumenteerde mensen weer toegang krijgen tot zorg, onderwijs, onderdak, werk en andere levensbehoeften.",
+      "summary": "De Koppelingswet wordt afgeschaft",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koppelingswet",
+        "ongedocumenteerden",
+        "zorg",
+        "onderwijs",
+        "onderdak"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 134",
+      "originalQuote": "We schaffen de Koppelingswet af. Deze wet beperkt of ontneemt ongedocumenteerde mensen toegang tot zorg, onderwijs, onderdak, werk en nog veel meer levensbehoeften."
+    },
+    {
+      "promiseCode": "PvdD-2025-283",
+      "text": "De wachttijd bij de IND voor verblijfsvergunningaanvragen wordt aanzienlijk verkort zodat mensen snel een zorgvuldig besluit krijgen over hun verblijfsrecht.",
+      "summary": "IND-wachttijden worden aanzienlijk verkort",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ind",
+        "wachttijd",
+        "verblijfsvergunning",
+        "besluit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 134",
+      "originalQuote": "De wachttijd bij de IND wordt aanzienlijk verkort."
+    },
+    {
+      "promiseCode": "PvdD-2025-284",
+      "text": "Kinderrechten uit het Internationaal Verdrag inzake de Rechten van het Kind worden vastgelegd in de Vreemdelingenwet. Gewortelde kinderen worden niet uitgezet en krijgen een verblijfsvergunning.",
+      "summary": "Kinderrechten worden vastgelegd in Vreemdelingenwet",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderrechten",
+        "vreemdelingenwet",
+        "gewortelde kinderen",
+        "verblijfsvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD 2025, p. 134",
+      "originalQuote": "Kinderrechten, zoals vastgelegd in het Internationaal Verdrag inzake de Rechten van het Kind (IVRK), worden in de Vreemdelingenwet vastgelegd. Gewortelde kinderen worden niet uitgezet en krijgen een verblijfsvergunning."
+    }
+  ]
+}

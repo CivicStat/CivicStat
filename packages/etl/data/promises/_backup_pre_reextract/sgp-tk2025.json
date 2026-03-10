@@ -1,0 +1,3291 @@
+{
+  "party": "SGP",
+  "partySlug": "sgp",
+  "program": "Stem christelijk voor Nederland",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88768/",
+  "pdfHash": "24a3045fb4b0219bd6fabad14bb57037d1fbced4a0f961bf83e5517d27510d6a",
+  "totalPromises": 212,
+  "promises": [
+    {
+      "promiseCode": "SGP-2025-001",
+      "text": "De SGP wil meer steun voor mantelzorg bieden om de druk op de formele zorg te verminderen en mensen in staat te stellen zich beter te richten op hun betaalde arbeid.",
+      "summary": "Meer steun voor mantelzorg om druk op formele zorg te verlichten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mantelzorg",
+        "steun",
+        "formele zorg",
+        "druk",
+        "betaalde arbeid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 8",
+      "originalQuote": "Meer steun voor mantelzorg kan de druk op de formele zorg verlichten en stelt mensen in staat zich beter te richten op hun betaalde arbeid."
+    },
+    {
+      "promiseCode": "SGP-2025-002",
+      "text": "De SGP wil zorg dragen voor zondagsrust van werknemers en ondernemers om een gezond ritme van werken en rusten te waarborgen en te voorkomen dat de economie en burgers doldraaien.",
+      "summary": "Zorg voor zondagsrust werknemers en ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zondagsrust",
+        "werknemers",
+        "ondernemers",
+        "arbeidsritme",
+        "economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 8",
+      "originalQuote": "Een gezond ritme van werken en rusten voorkomt dat de economie en burgers doldraaien. Zorg dus voor (zondags)rust van werknemers en ondernemers."
+    },
+    {
+      "promiseCode": "SGP-2025-003",
+      "text": "De SGP wil het gezin financieel ondersteunen, in het bijzonder eenverdienersgezinnen, zodat het dagelijks leven weer betaalbaar wordt.",
+      "summary": "Financiële steun voor gezinnen, vooral eenverdieners",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezin",
+        "financiële steun",
+        "eenverdieners",
+        "betaalbaarheid",
+        "dagelijks leven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 6",
+      "originalQuote": "We helpen (eenverdieners)gezinnen ook financieel, zodat het dagelijks leven weer betaalbaar wordt."
+    },
+    {
+      "promiseCode": "SGP-2025-004",
+      "text": "De SGP wil armoede aanpakken, zowel in Nederland als internationaal.",
+      "summary": "Armoede aanpakken dichtbij en ver weg",
+      "theme": "SOCIAAL",
+      "specificity": "VAAG",
+      "keywords": [
+        "armoede",
+        "aanpak",
+        "nederland",
+        "internationaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 6",
+      "originalQuote": "En we pakken armoede aan. Dichtbij en ver weg."
+    },
+    {
+      "promiseCode": "SGP-2025-005",
+      "text": "In het burgerschapsonderwijs moeten naast de wettelijke kernwaarden vrijheid, gelijkheid en solidariteit ook de christelijke deugden geloof, hoop en liefde worden behandeld.",
+      "summary": "Christelijke deugden toevoegen aan burgerschapsonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerschapsonderwijs",
+        "kernwaarden",
+        "deugden",
+        "geloof",
+        "hoop",
+        "liefde"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98",
+      "originalQuote": "In het burgerschapsonderwijs moeten bij de uitwerking van de wettelijke kernwaarden vrijheid, gelijkheid en solidariteit ook de deugden geloof, hoop en liefde aan bod komen."
+    },
+    {
+      "promiseCode": "SGP-2025-006",
+      "text": "De overheid treedt actief in contact met kerken over publieke taken en biedt kerken ruimte om bij te dragen aan armoedebestrijding, maatschappelijke ondersteuning en het functioneren als noodsteunpunt.",
+      "summary": "Actieve samenwerking overheid met kerken bij publieke taken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerken",
+        "publieke taken",
+        "armoede",
+        "maatschappelijke ondersteuning",
+        "noodsteunpunt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98",
+      "originalQuote": "De overheid treedt actief in contact met kerken over de uitoefening van publieke taken. Zij biedt kerken waar mogelijk de ruimte om daaraan bij te dragen, bijvoorbeeld als het gaat om armoede, maatschappelijke ondersteuning of het zijn van een noodsteunpunt."
+    },
+    {
+      "promiseCode": "SGP-2025-007",
+      "text": "Nederland krijgt op zondag een rijverbod voor vrachtverkeer, zoals andere landen dat ook hebben. Gemeenten behouden vrijheid om winkelopenstelling te reguleren.",
+      "summary": "Zondags rijverbod voor vrachtverkeer invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zondag",
+        "rijverbod",
+        "vrachtverkeer",
+        "winkelopenstelling",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98",
+      "originalQuote": "Net als andere landen krijgt Nederland op zondag een rijverbod voor vrachtverkeer."
+    },
+    {
+      "promiseCode": "SGP-2025-008",
+      "text": "Er komt geen algemeen toezicht op vormen van informeel onderwijs in kerken, scouting en sportverenigingen. Ernstige problemen zoals aanzetten tot geweld worden wel gericht bestreden.",
+      "summary": "Geen algemeen toezicht op informeel onderwijs bij maatschappelijke organisaties",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toezicht",
+        "informeel onderwijs",
+        "kerken",
+        "scouting",
+        "sportverenigingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98",
+      "originalQuote": "Er komt dus geen algemeen toezicht op vormen van informeel onderwijs in onder andere kerken, scouting en sportverenigingen."
+    },
+    {
+      "promiseCode": "SGP-2025-009",
+      "text": "Islamitische gebedsoproepen met geluidsversterking worden niet toegestaan in de publieke ruimte.",
+      "summary": "Verbod op versterkte islamitische gebedsoproepen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "islamitische",
+        "gebedsoproepen",
+        "geluidsversterking",
+        "publieke ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98",
+      "originalQuote": "Islamitische gebedsoproepen met geluidsversterking horen niet in de publieke ruimte."
+    },
+    {
+      "promiseCode": "SGP-2025-010",
+      "text": "Er komen zwaardere vereisten bij goedkeuring van verdragen, zoals een tweederdemeerderheid in Tweede en Eerste Kamer.",
+      "summary": "Tweederdemeerderheid vereist voor verdraggoedkeuring",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verdragen",
+        "tweederdemeerderheid",
+        "tweede kamer",
+        "eerste kamer",
+        "goedkeuring"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 12-13",
+      "originalQuote": "Er komen zwaardere vereisten bij goedkeuring van verdragen, zoals een tweederdemeerderheid in Tweede en Eerste Kamer."
+    },
+    {
+      "promiseCode": "SGP-2025-011",
+      "text": "Nederland streeft ernaar het aantal verdragen te verminderen en sluit zich in beginsel niet aan bij nieuwe verdragen die de vrije handelingsruimte van de wetgever beperken.",
+      "summary": "Vermindering aantal verdragen en geen nieuwe beperkende verdragen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verdragen",
+        "wetgever",
+        "handelingsruimte",
+        "vermindering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 12-13",
+      "originalQuote": "Nederland streeft ernaar het aantal verdragen te verminderen en sluit zich in beginsel niet aan bij nieuwe verdragen die de vrije handelingsruimte van de wetgever beperken."
+    },
+    {
+      "promiseCode": "SGP-2025-012",
+      "text": "Het recht op openbaarmaking van overheidsinformatie via de Wet open overheid (Woo) wordt in aansluiting bij andere landen strikter geregeld.",
+      "summary": "Strengere regeling Wet open overheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woo",
+        "openbaarmaking",
+        "overheidsinformatie",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 12-13",
+      "originalQuote": "Het recht op openbaarmaking van overheidsinformatie via de Wet open overheid (Woo) wordt in aansluiting bij andere landen strikter geregeld."
+    },
+    {
+      "promiseCode": "SGP-2025-013",
+      "text": "De Grondwet moet het recht op leven erkennen, ook voor ongeboren kinderen.",
+      "summary": "Grondwet uitbreiding met recht op leven ongeboren kinderen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwet",
+        "recht op leven",
+        "ongeboren kinderen",
+        "grondwetswijziging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 12-13",
+      "originalQuote": "De Grondwet moet, net als dat in internationale verdragen het geval is, het recht op leven erkennen, ook voor ongeboren kinderen."
+    },
+    {
+      "promiseCode": "SGP-2025-014",
+      "text": "Het kiesstelsel wordt verbeterd door lijstverbindingen bij verkiezingen weer mogelijk te maken.",
+      "summary": "Herinvoering lijstverbindingen bij verkiezingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesstelsel",
+        "lijstverbindingen",
+        "verkiezingen",
+        "kiesrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 12-13",
+      "originalQuote": "Het kiesstelsel gaat niet op de schop, maar wordt wel verbeterd, bijvoorbeeld door lijstverbindingen bij verkiezingen weer mogelijk te maken."
+    },
+    {
+      "promiseCode": "SGP-2025-015",
+      "text": "Bij de verdeling van subsidie wordt meer gewicht gegeven aan het aantal leden van politieke jongerenorganisaties. Het basisbedrag wordt ook verhoogd.",
+      "summary": "Meer subsidie politieke jongerenorganisaties op basis ledenaantal",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "subsidie",
+        "jongerenorganisaties",
+        "ledenaantal",
+        "basisbedrag",
+        "politiek"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 12-13",
+      "originalQuote": "Om te stimuleren dat meer jongeren betrokken raken bij de politiek wordt bij de verdeling van de subsidie meer gewicht gegeven aan het aantal leden van politieke jongerenorganisaties. Het basisbedrag wordt ook verhoogd."
+    },
+    {
+      "promiseCode": "SGP-2025-016",
+      "text": "Er komt een verbod op gezichtsbedekkende kleding bij demonstraties. Personen die zich hier niet aan houden worden bestraft.",
+      "summary": "Verbod gezichtsbedekkende kleding bij demonstraties",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "gezichtsbedekkende kleding",
+        "demonstraties",
+        "straf"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 14-15",
+      "originalQuote": "Er komt een verbod op gezichtsbedekkende kleding bij demonstraties. Personen die zich hier niet aan houden worden bestraft."
+    },
+    {
+      "promiseCode": "SGP-2025-017",
+      "text": "Het gebruik van antisemitische leuzen, vlaggen en afbeeldingen bij demonstraties wordt verboden. De IHRA-definitie is hierbij leidend. Demonstraties die deze uitingen toestaan worden verboden en ontbonden.",
+      "summary": "Verbod antisemitische uitingen bij demonstraties",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "antisemitisme",
+        "ihra-definitie",
+        "demonstraties",
+        "verbod",
+        "leuzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 14-15",
+      "originalQuote": "Het gebruik van antisemitische leuzen, vlaggen en afbeeldingen bij demonstraties wordt verboden. De zogenaamde IHRA-definitie is hierbij leidend. Demonstraties die deze uitingen toestaan worden verboden en ontbonden."
+    },
+    {
+      "promiseCode": "SGP-2025-018",
+      "text": "Demonstraties bij nationale herdenkingen zijn niet langer toegestaan, ook niet in de buurt van zicht- en gehoorafstand.",
+      "summary": "Verbod demonstraties bij nationale herdenkingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "demonstraties",
+        "herdenkingen",
+        "verbod",
+        "gehoorafstand",
+        "zichtafstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 14-15",
+      "originalQuote": "Demonstraties bij (nationale) herdenkingen zijn niet langer toegestaan. Ook niet in de buurt van zicht- en gehoorafstand."
+    },
+    {
+      "promiseCode": "SGP-2025-019",
+      "text": "Het belastinggebied van gemeenten wordt vergroot, waarbij de Rijksoverheid gelijktijdig en evenredig de belasting op arbeid en de lasten voor bedrijven verlaagt.",
+      "summary": "Uitbreiding gemeentelijk belastinggebied met verlaging rijkslasten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastinggebied",
+        "gemeenten",
+        "arbeidsbelasting",
+        "bedrijfslasten",
+        "decentralisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 16-17",
+      "originalQuote": "Het belastinggebied van gemeenten wordt vergroot, waarbij de Rijksoverheid gelijktijdig en evenredig de belasting op arbeid en de lasten voor bedrijven verlaagt."
+    },
+    {
+      "promiseCode": "SGP-2025-020",
+      "text": "De werkgelegenheid van de Rijksoverheid wordt evenrediger verdeeld over de provincies, met name om Zeeland, Flevoland, Limburg, Friesland en Drenthe meer recht te doen.",
+      "summary": "Eerlijke verdeling rijkswerkgelegenheid over provincies",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkgelegenheid",
+        "rijksoverheid",
+        "provincies",
+        "zeeland",
+        "limburg",
+        "friesland",
+        "drenthe",
+        "flevoland"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 16-17",
+      "originalQuote": "De werkgelegenheid van de Rijksoverheid wordt evenrediger verdeeld over de provincies, met name om Zeeland, Flevoland, Limburg, Friesland en Drenthe meer recht te doen."
+    },
+    {
+      "promiseCode": "SGP-2025-021",
+      "text": "Er komt een structurele subsidieregeling voor grote monumenten, waaronder monumentale kerkgebouwen en kerktorens.",
+      "summary": "Structurele subsidie voor monumentale kerkgebouwen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidieregeling",
+        "monumenten",
+        "kerkgebouwen",
+        "kerktorens",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 16-17",
+      "originalQuote": "Er komt een structurele subsidieregeling voor grote monumenten, waaronder monumentale kerkgebouwen en kerktorens."
+    },
+    {
+      "promiseCode": "SGP-2025-022",
+      "text": "De Nederlandse Publieke Omroep beperkt het aanbod en het aantal kanalen. Amusement en het inkopen van uitzendrechten voor grote sporttoernooien is geen taak voor de publieke omroep. De NPO wordt reclamevrij.",
+      "summary": "Inkrimping NPO: minder kanalen, geen amusement/sport, reclamevrij",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "npo",
+        "kanalen",
+        "amusement",
+        "sporttoernooien",
+        "reclamevrij",
+        "publieke omroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 16-17",
+      "originalQuote": "De Nederlandse Publieke Omroep (NPO) beperkt het aanbod en het aantal kanalen. Amusement en het inkopen van uitzendrechten voor grote sporttoernooien is geen taak voor de publieke omroep. De NPO wordt reclamevrij."
+    },
+    {
+      "promiseCode": "SGP-2025-023",
+      "text": "De abortus wet wordt ingetrokken",
+      "summary": "Intrekken van de abortus wet",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortus",
+        "wet",
+        "intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "De SGP wil dat de abortuswet wordt ingetrokken."
+    },
+    {
+      "promiseCode": "SGP-2025-024",
+      "text": "Er komt een Moeder en Kind Fonds om hulp en ondersteuning te bieden aan onbedoeld zwangere vrouwen en hun (ongeboren) kindje",
+      "summary": "Instelling Moeder en Kind Fonds voor onbedoeld zwangere vrouwen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "moeder",
+        "kind",
+        "fonds",
+        "zwangerschap",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "Er komt een Moeder en Kind Fonds om hulp en ondersteuning te bieden aan onbedoeld zwangere vrouwen en hun (ongeboren) kindje."
+    },
+    {
+      "promiseCode": "SGP-2025-025",
+      "text": "In elke provincie komt tenminste één 'babyhuis' voor kwetsbare moeders en hun kindje",
+      "summary": "Minimaal één babyhuis per provincie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "babyhuis",
+        "provincie",
+        "moeders",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "In elke provincie komt tenminste één 'babyhuis' voor kwetsbare moeders en hun kindje."
+    },
+    {
+      "promiseCode": "SGP-2025-026",
+      "text": "De eigen bijdragen voor een ziekenhuisbevalling zonder indicatie en voor kraamzorg worden geschrapt",
+      "summary": "Schrappen eigen bijdrage ziekenhuisbevalling en kraamzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen",
+        "bijdrage",
+        "ziekenhuisbevalling",
+        "kraamzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "De eigen bijdragen voor een ziekenhuisbevalling zonder indicatie en voor kraamzorg worden geschrapt."
+    },
+    {
+      "promiseCode": "SGP-2025-027",
+      "text": "Abortusklinieken moeten transparanter zijn. (Financiële) jaarverslagen worden openbaar",
+      "summary": "Openbare jaarverslagen abortusklinieken",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortusklinieken",
+        "transparantie",
+        "jaarverslagen",
+        "openbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "Abortusklinieken moeten transparanter zijn. (Financiële) jaarverslagen worden openbaar."
+    },
+    {
+      "promiseCode": "SGP-2025-028",
+      "text": "De SGP voert weer een vaste minimale bedenktermijn in van vijf dagen",
+      "summary": "Bedenktermijn van vijf dagen voor abortus",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedenktermijn",
+        "vijf",
+        "dagen",
+        "abortus"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "De SGP voert weer een vaste minimale bedenktermijn in van vijf dagen."
+    },
+    {
+      "promiseCode": "SGP-2025-029",
+      "text": "De 24-wekengrens is medisch achterhaald en moet daarom worden verlaagd",
+      "summary": "Verlaging 24-wekengrens voor abortus",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "24-wekengrens",
+        "verlaging",
+        "abortus"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 19",
+      "originalQuote": "De 24-wekengrens is medisch achterhaald en moet daarom worden verlaagd."
+    },
+    {
+      "promiseCode": "SGP-2025-030",
+      "text": "De SGP legt activiteiten van Nederlandse abortusklinieken in het buitenland aan banden",
+      "summary": "Beperking Nederlandse abortusklinieken in buitenland",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "abortusklinieken",
+        "buitenland",
+        "beperking",
+        "activiteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 20",
+      "originalQuote": "De SGP legt activiteiten van Nederlandse abortusklinieken in het buitenland aan banden."
+    },
+    {
+      "promiseCode": "SGP-2025-031",
+      "text": "De instellingssubsidie aan Rutgers wordt onder de loep genomen",
+      "summary": "Heroverweging subsidie Rutgers",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "instellingssubsidie",
+        "rutgers",
+        "herziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 20",
+      "originalQuote": "De instellingssubsidie aan Rutgers wordt onder de loep genomen."
+    },
+    {
+      "promiseCode": "SGP-2025-032",
+      "text": "Toetsing van euthanasieverzoeken wordt aangescherpt. Dit moet niet langer achteraf, maar vooraf gebeuren",
+      "summary": "Voorafgaande toetsing euthanasieverzoeken",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toetsing",
+        "euthanasie",
+        "vooraf",
+        "aanscherpen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 20",
+      "originalQuote": "Toetsing van euthanasieverzoeken wordt aangescherpt. Dit moet niet langer achteraf, maar vooraf gebeuren."
+    },
+    {
+      "promiseCode": "SGP-2025-033",
+      "text": "De SGP wil dat personen of organisaties die informatie over zelfmoordmethoden verstrekken strafbaar worden gesteld",
+      "summary": "Strafbaarstelling verstrekken zelfmoordinformatie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "strafbaarstelling",
+        "zelfmoordmethoden",
+        "informatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 20",
+      "originalQuote": "De SGP wil dat personen of organisaties die informatie over zelfmoordmethoden verstrekken strafbaar worden gesteld."
+    },
+    {
+      "promiseCode": "SGP-2025-034",
+      "text": "De mogelijkheid voor embryoselectie op basis van gezondheid of geslacht trekken we in",
+      "summary": "Intrekken mogelijkheid embryoselectie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "embryoselectie",
+        "intrekken",
+        "gezondheid",
+        "geslacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 21",
+      "originalQuote": "De mogelijkheid voor embryoselectie op basis van gezondheid of geslacht trekken we in."
+    },
+    {
+      "promiseCode": "SGP-2025-035",
+      "text": "Er komt geen overheidsaanbod van preconceptionele dragerschapsscreening",
+      "summary": "Geen overheidsaanbod preconceptionele screening",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "preconceptionele",
+        "dragerschapsscreening",
+        "overheidsaanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 21",
+      "originalQuote": "Er komt geen overheidsaanbod van preconceptionele dragerschapsscreening."
+    },
+    {
+      "promiseCode": "SGP-2025-036",
+      "text": "De SGP wil gebruik van buitenlands donorzaad bij kunstmatige bevruchting verbieden",
+      "summary": "Verbod buitenlands donorzaad kunstmatige bevruchting",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buitenlands",
+        "donorzaad",
+        "kunstmatige",
+        "bevruchting",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 21",
+      "originalQuote": "De SGP wil gebruik van buitenlands donorzaad bij kunstmatige bevruchting verbieden."
+    },
+    {
+      "promiseCode": "SGP-2025-037",
+      "text": "De regeling voor levensbeëindiging van jonge kinderen wordt ingetrokken",
+      "summary": "Intrekken regeling levensbeëindiging kinderen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levensbeëindiging",
+        "kinderen",
+        "regeling",
+        "intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 22",
+      "originalQuote": "De regeling voor levensbeëindiging van jonge kinderen wordt ingetrokken."
+    },
+    {
+      "promiseCode": "SGP-2025-038",
+      "text": "De SGP wil de euthanasiewet intrekken",
+      "summary": "Intrekken euthanasiewet",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "euthanasiewet",
+        "intrekken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 22",
+      "originalQuote": "De SGP wil de euthanasiewet intrekken."
+    },
+    {
+      "promiseCode": "SGP-2025-039",
+      "text": "De SGP wil dat euthanasie bij psychisch lijden niet langer mogelijk is",
+      "summary": "Verbod euthanasie bij psychisch lijden",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "euthanasie",
+        "psychisch",
+        "lijden",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 22",
+      "originalQuote": "De SGP wil dat euthanasie bij psychisch lijden niet langer mogelijk is."
+    },
+    {
+      "promiseCode": "SGP-2025-040",
+      "text": "De SGP wil de regeldruk in de zorg halveren",
+      "summary": "Halvering regeldruk in de zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeldruk",
+        "zorg",
+        "halveren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 22",
+      "originalQuote": "De SGP wil de regeldruk in de zorg halveren."
+    },
+    {
+      "promiseCode": "SGP-2025-041",
+      "text": "Er komt een inkomensafhankelijk maximum aan eigen bijdragen per huishouden",
+      "summary": "Inkomensafhankelijk maximum eigen bijdragen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inkomensafhankelijk",
+        "maximum",
+        "eigen",
+        "bijdragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 23",
+      "originalQuote": "Er komt een inkomensafhankelijk maximum aan eigen bijdragen per huishouden."
+    },
+    {
+      "promiseCode": "SGP-2025-042",
+      "text": "Alle nieuwe medisch specialisten gaan in loondienst",
+      "summary": "Loondienst voor nieuwe medisch specialisten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "medisch",
+        "specialisten",
+        "loondienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 23",
+      "originalQuote": "Alle nieuwe medisch specialisten gaan in loondienst."
+    },
+    {
+      "promiseCode": "SGP-2025-043",
+      "text": "Er komt een structurele mantelzorgvergoeding voor wie noodgedwongen zorgtaken op zich neemt",
+      "summary": "Structurele mantelzorgvergoeding",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "structurele",
+        "mantelzorgvergoeding",
+        "zorgtaken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 23",
+      "originalQuote": "Er komt een structurele mantelzorgvergoeding voor wie noodgedwongen zorgtaken op zich neemt."
+    },
+    {
+      "promiseCode": "SGP-2025-044",
+      "text": "De SGP wil een totaalverbod op online en offline gokken. Dit houdt tevens een verbod in op loterijen",
+      "summary": "Totaalverbod op gokken en loterijen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "totaalverbod",
+        "gokken",
+        "loterijen",
+        "online",
+        "offline"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 24",
+      "originalQuote": "De SGP pleit voor een totaalverbod op online en offline gokken. Dit houdt tevens een verbod in op loterijen."
+    },
+    {
+      "promiseCode": "SGP-2025-045",
+      "text": "De SGP wil productie, distributie en bezit van pornografie verbieden",
+      "summary": "Verbod productie en bezit pornografie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pornografie",
+        "verbod",
+        "productie",
+        "distributie",
+        "bezit"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 24",
+      "originalQuote": "De SGP wil productie, distributie en bezit van pornografie verbieden."
+    },
+    {
+      "promiseCode": "SGP-2025-046",
+      "text": "De SGP bevriest het eigen risico de komende kabinetsperiode op 385 euro",
+      "summary": "Bevriezen eigen risico op 385 euro",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen",
+        "risico",
+        "bevriezen",
+        "385",
+        "euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 25",
+      "originalQuote": "De SGP bevriest het eigen risico de komende kabinetsperiode op 385 euro."
+    },
+    {
+      "promiseCode": "SGP-2025-047",
+      "text": "De SGP wil tandheelkundige controle opnemen in het basispakket",
+      "summary": "Tandheelkundige controle in basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandheelkundige",
+        "controle",
+        "basispakket"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 26",
+      "originalQuote": "De SGP wil tandheelkundige controle opnemen in het basispakket."
+    },
+    {
+      "promiseCode": "SGP-2025-048",
+      "text": "Extra middelen inzetten voor het terugdringen van wachttijden in de geestelijke gezondheidszorg, met prioriteit voor mensen met de ernstigste psychische problemen.",
+      "summary": "Extra middelen voor terugdringen GGZ-wachttijden",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "middelen",
+        "wachttijden",
+        "ggz",
+        "psychische problemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "De SGP wil extra middelen voor het terugdringen van de wachttijden in de ggz. Met prioriteit wordt ingezet op hulp voor mensen met de ernstigste psychische problemen."
+    },
+    {
+      "promiseCode": "SGP-2025-049",
+      "text": "Regionale afspraken maken over de beschikbaarheid en financiering van cruciale geestelijke gezondheidszorg.",
+      "summary": "Regionale afspraken over beschikbaarheid en financiering cruciale GGZ",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regionale afspraken",
+        "beschikbaarheid",
+        "financiering",
+        "ggz"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Er komen regionale afspraken over de beschikbaarheid en financiering van cruciale ggz."
+    },
+    {
+      "promiseCode": "SGP-2025-050",
+      "text": "Psychiaters laten meedraaien in avond-, nacht- en weekenddiensten, net als huisartsen.",
+      "summary": "Psychiaters in avond-, nacht- en weekenddiensten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "psychiaters",
+        "avonddiensten",
+        "nachtdiensten",
+        "weekenddiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Psychiaters gaan, net als huisartsen, meedraaien in avond-, nacht- en weekenddiensten."
+    },
+    {
+      "promiseCode": "SGP-2025-051",
+      "text": "Een wettelijke grondslag en structurele bekostiging voor geestelijke verzorging invoeren.",
+      "summary": "Wettelijke grondslag en bekostiging geestelijke verzorging",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijke grondslag",
+        "structurele bekostiging",
+        "geestelijke verzorging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Er komt een wettelijke grondslag en structurele bekostiging voor geestelijke verzorging."
+    },
+    {
+      "promiseCode": "SGP-2025-052",
+      "text": "Bemoeizorg wettelijk vastleggen en meer passende woon-zorgplekken creëren voor personen met verward gedrag.",
+      "summary": "Bemoeizorg wettelijk vastleggen, meer woon-zorgplekken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bemoeizorg",
+        "wettelijke vastlegging",
+        "woon-zorgplekken",
+        "verward gedrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Er zijn meer passende woon-zorgplekken voor deze groep nodig. Bemoeizorg wordt wettelijk vastgelegd."
+    },
+    {
+      "promiseCode": "SGP-2025-053",
+      "text": "De doordecentralisatie van beschermd wonen stopzetten.",
+      "summary": "Stopzetting doordecentralisatie beschermd wonen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "doordecentralisatie",
+        "beschermd wonen",
+        "stopzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "De doordecentralisatie van beschermd wonen wordt stopgezet."
+    },
+    {
+      "promiseCode": "SGP-2025-054",
+      "text": "Investeren in buurthuiskamers waar ontmoeting en formele en informele zorg samenkomen.",
+      "summary": "Investering in buurthuiskamers voor ontmoeting en zorg",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investering",
+        "buurthuiskamers",
+        "ontmoeting",
+        "informele zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "De SGP investeert in buurthuiskamers waar ontmoeting en (in)formele zorg samenkomen."
+    },
+    {
+      "promiseCode": "SGP-2025-055",
+      "text": "De STORM-aanpak breed implementeren in het onderwijs.",
+      "summary": "Brede implementatie STORM-aanpak in onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "storm-aanpak",
+        "implementatie",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "De SGP wil dat de STORM-aanpak breed geïmplementeerd wordt in het onderwijs."
+    },
+    {
+      "promiseCode": "SGP-2025-056",
+      "text": "Voldoende middelen (landelijk en lokaal) beschikbaar stellen voor een goede uitvoering van de Wet integrale suïcidepreventie.",
+      "summary": "Voldoende middelen voor Wet integrale suïcidepreventie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "middelen",
+        "wet integrale suïcidepreventie",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Er moeten voldoende middelen zijn (landelijk en lokaal) voor een goede uitvoering van de Wet integrale suïcidepreventie."
+    },
+    {
+      "promiseCode": "SGP-2025-057",
+      "text": "De bekendheid van telefoonnummer 113 verder verbeteren.",
+      "summary": "Bekendheid telefoonnummer 113 verbeteren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bekendheid",
+        "telefoonnummer 113",
+        "verbetering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "De bekendheid van het telefoonnummer 113 moet verder worden verbeterd."
+    },
+    {
+      "promiseCode": "SGP-2025-058",
+      "text": "Een kabinetsbrede aanpak en financiering van suïcidepreventie invoeren.",
+      "summary": "Kabinetsbrede aanpak en financiering suïcidepreventie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kabinetsbrede aanpak",
+        "financiering",
+        "suïcidepreventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Er komt een kabinetsbrede aanpak en financiering van suïcidepreventie."
+    },
+    {
+      "promiseCode": "SGP-2025-059",
+      "text": "Privacywetgeving die hulp aan suïcidale personen in de weg staat aanpassen.",
+      "summary": "Aanpassing privacywetgeving voor hulp suïcidale personen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "privacywetgeving",
+        "aanpassing",
+        "suïcidale personen",
+        "hulpverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Privacywetgeving die hulp aan suïcidale personen in de weg staat, wordt aangepast."
+    },
+    {
+      "promiseCode": "SGP-2025-060",
+      "text": "Aan nabestaanden van suïcide voortaan altijd professionele nazorg aanbieden.",
+      "summary": "Professionele nazorg voor nabestaanden suïcide",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nabestaanden",
+        "suïcide",
+        "professionele nazorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Aan nabestaanden van suïcide wordt voortaan altijd professionele nazorg aangeboden."
+    },
+    {
+      "promiseCode": "SGP-2025-061",
+      "text": "Hormoonbehandelingen bij kinderen verbieden vanwege het onomkeerbare karakter en het internationale debat over de wetenschappelijke onderbouwing.",
+      "summary": "Verbod hormoonbehandelingen bij kinderen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hormoonbehandelingen",
+        "kinderen",
+        "verbod",
+        "transgenderzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "wil de SGP hormoonbehandelingen bij kinderen verbieden."
+    },
+    {
+      "promiseCode": "SGP-2025-062",
+      "text": "Transgenderbehandelingen bij minderjarigen sterk ontmoedigen zolang deze nog plaatsvinden in Nederland.",
+      "summary": "Ontmoediging transgenderbehandelingen minderjarigen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transgenderbehandelingen",
+        "minderjarigen",
+        "ontmoediging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Zolang er in Nederland nog dergelijke behandelingen plaatsvinden, moeten deze sterk worden ontmoedigd, zeker als het gaat om minderjarigen."
+    },
+    {
+      "promiseCode": "SGP-2025-063",
+      "text": "Behandelingen waarvoor geen aantoonbare medische noodzaak bestaat niet langer collectief vergoeden.",
+      "summary": "Stoppen vergoeding behandelingen zonder medische noodzaak",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "behandelingen",
+        "medische noodzaak",
+        "collectieve vergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Behandelingen waarvoor geen aantoonbare medische noodzaak bestaat, worden niet langer collectief vergoed."
+    },
+    {
+      "promiseCode": "SGP-2025-064",
+      "text": "Doorlopend onderzoek naar de oorzaken van de vraag naar transgenderzorg uitvoeren.",
+      "summary": "Onderzoek oorzaken vraag transgenderzorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderzoek",
+        "oorzaken",
+        "transgenderzorg",
+        "vraag"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "Er komt doorlopend onderzoek naar de oorzaken van de vraag naar transgenderzorg."
+    },
+    {
+      "promiseCode": "SGP-2025-065",
+      "text": "Onderzoek naar transitiespijt uitvoeren en een ondersteuningsaanbod voor deze personen creëren.",
+      "summary": "Onderzoek transitiespijt en ondersteuningsaanbod",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderzoek",
+        "transitiespijt",
+        "ondersteuningsaanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 28",
+      "originalQuote": "We doen onderzoek naar transitiespijt en creëren een ondersteuningsaanbod voor deze personen."
+    },
+    {
+      "promiseCode": "SGP-2025-066",
+      "text": "Het gezin krijgt een plaats in de Grondwet",
+      "summary": "Grondwettelijke verankering van het gezin",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezin",
+        "grondwet",
+        "grondwettelijke",
+        "verankering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 30",
+      "originalQuote": "Het gezin krijgt een plaats in de Grondwet."
+    },
+    {
+      "promiseCode": "SGP-2025-067",
+      "text": "Er komt in Nederland een minister van gezin en jeugd, naar voorbeeld van Vlaanderen. Over de staat van het gezin wordt jaarlijks gerapporteerd",
+      "summary": "Nieuwe minister van gezin en jeugd met jaarrapportage",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "gezin",
+        "jeugd",
+        "jaarrapportage",
+        "vlaanderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 30",
+      "originalQuote": "In aansluiting bij Vlaanderen moet er in Nederland een minister van gezin en jeugd komen. Over de staat van het gezin wordt jaarlijks gerapporteerd."
+    },
+    {
+      "promiseCode": "SGP-2025-068",
+      "text": "Stellen die in algehele gemeenschap van goederen willen trouwen, kunnen dit eenvoudig en zonder extra kosten doen",
+      "summary": "Kosteloos trouwen in gemeenschap van goederen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "trouwen",
+        "gemeenschap",
+        "goederen",
+        "kosten",
+        "huwelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 30",
+      "originalQuote": "Stellen die in algehele gemeenschap van goederen willen trouwen, moeten dit eenvoudig en zonder extra kosten kunnen doen."
+    },
+    {
+      "promiseCode": "SGP-2025-069",
+      "text": "De Rijksoverheid lanceert een bewustwordingscampagne over het belang van sterke relaties en de schade van scheiden",
+      "summary": "Bewustwordingscampagne over relaties en scheiden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "campagne",
+        "bewustwording",
+        "relaties",
+        "scheiden",
+        "rijksoverheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 30",
+      "originalQuote": "De Rijksoverheid lanceert een bewustwordingscampagne over het belang van sterke relaties en de schade van scheiden."
+    },
+    {
+      "promiseCode": "SGP-2025-070",
+      "text": "De Rijksoverheid stimuleert en faciliteert gemeenten om laagdrempelige ondersteuning voor versterking en behoud van relaties aan te bieden",
+      "summary": "Stimulering gemeentelijke relatieondersteuning",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "relatieondersteuning",
+        "laagdrempelig",
+        "versterking",
+        "facilitering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "De Rijksoverheid stimuleert en faciliteert gemeenten om laagdrempelige ondersteuning voor versterking en behoud van relaties aan te bieden."
+    },
+    {
+      "promiseCode": "SGP-2025-071",
+      "text": "Professionele relatie- en gezinstherapie wordt weer opgenomen in het basispakket",
+      "summary": "Relatie- en gezinstherapie in basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "relatietherapie",
+        "gezinstherapie",
+        "basispakket",
+        "zorgverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "Professionele relatie- en gezinstherapie wordt weer opgenomen in het basispakket."
+    },
+    {
+      "promiseCode": "SGP-2025-072",
+      "text": "De maatschappelijke diensttijd voor jongeren wordt voortgezet",
+      "summary": "Voortzetting maatschappelijke diensttijd jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maatschappelijke",
+        "diensttijd",
+        "jongeren",
+        "voortzetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "De maatschappelijke diensttijd voor jongeren wordt voortgezet. Zo leren zij een bijdrage te leveren aan de samenleving."
+    },
+    {
+      "promiseCode": "SGP-2025-073",
+      "text": "Er komt meer vergunningsvrije ruimte voor het realiseren van (pre-)mantelzorgwoningen",
+      "summary": "Vergunningsvrije ruimte voor mantelzorgwoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsvrij",
+        "mantelzorgwoningen",
+        "woningbouw",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "Er moet meer vergunningsvrije ruimte komen voor het realiseren van (pre-)mantelzorgwoningen."
+    },
+    {
+      "promiseCode": "SGP-2025-074",
+      "text": "Het verbod op draagmoederschap blijft gehandhaafd en verdere legalisering wordt stopgezet. Nederland zet zich in voor een internationaal verbod op draagmoederschap",
+      "summary": "Handhaving verbod draagmoederschap en internationaal verbod",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "draagmoederschap",
+        "verbod",
+        "legalisering",
+        "internationaal",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "Het verbod op draagmoederschap blijft gehandhaafd. Verdere legalisering van draagmoederschap wordt stopgezet. Nederland spant zich in om een einde te maken aan de praktijk in landen waar (commercieel) draagmoederschap nu wel is toegestaan en waar vrouwen worden uitgebuit. De SGP zet zich in voor een internationaal verbod op draagmoederschap."
+    },
+    {
+      "promiseCode": "SGP-2025-075",
+      "text": "Er komt geen regeling voor het zogenoemde meerouderschap",
+      "summary": "Geen regeling voor meerouderschap",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meerouderschap",
+        "regeling",
+        "ouderschap",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "Het is ongewenst de regels te versoepelen ten aanzien van het aantal ouders dat kinderen heeft. Er komt geen regeling voor het zogenoemde meerouderschap."
+    },
+    {
+      "promiseCode": "SGP-2025-076",
+      "text": "Adoptiekinderen moeten te allen tijde hun dossier kunnen inzien om hun herkomst te achterhalen",
+      "summary": "Inzagerecht adoptievet dossier voor adoptiekinderen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "adoptiekinderen",
+        "dossier",
+        "inzien",
+        "herkomst",
+        "adoptie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 32",
+      "originalQuote": "Adoptiekinderen moeten te allen tijde hun dossier kunnen inzien om hun herkomst te achterhalen."
+    },
+    {
+      "promiseCode": "SGP-2025-077",
+      "text": "De overdraagbaarheid van de algemene heffingskorting wordt verder verruimd",
+      "summary": "Verruiming overdraagbaarheid algemene heffingskorting",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "heffingskorting",
+        "overdraagbaarheid",
+        "belasting",
+        "verruiming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 34",
+      "originalQuote": "De overdraagbaarheid van de algemene heffingskorting wordt in 2028 gelukkig weer ingevoerd. Dankzij een amendement van de SGP is deze regeling verruimd naar middeninkomens. We willen dat deze overdraagbaarheid verder verruimd wordt."
+    },
+    {
+      "promiseCode": "SGP-2025-078",
+      "text": "De SGP is voorstander van het splitsingstelsel waarbij het totale gezinsinkomen gedeeld wordt door twee en fiscale partners ieder apart belast worden",
+      "summary": "Invoering splitsingstelsel voor gezinsbelasting",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "splitsingstelsel",
+        "gezinsinkomen",
+        "belasting",
+        "fiscaal",
+        "partners"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 34",
+      "originalQuote": "De SGP is voorstander van het splitsingstelsel. Het totale gezinsinkomen wordt gedeeld door twee en daarna worden de fiscale partners ieder apart belast."
+    },
+    {
+      "promiseCode": "SGP-2025-079",
+      "text": "Er komt een eenvoudige kinderbijdrage die kinderbijslag, kindgebonden budget en kinderopvangtoeslag vervangt",
+      "summary": "Eenvoudige kinderbijdrage ter vervanging drie regelingen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderbijdrage",
+        "kinderbijslag",
+        "kindgebonden",
+        "kinderopvangtoeslag",
+        "vereenvoudiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 34",
+      "originalQuote": "Daarom moet er een eenvoudige kinderbijdrage worden ingevoerd. De kinderbijslag, het kindgebonden budget en de kinderopvangtoeslag gaan hierin op, Zonder terugvorderingen en met maximale keuzevrijheid voor gezinnen."
+    },
+    {
+      "promiseCode": "SGP-2025-080",
+      "text": "Er komt een zwemlesbonus van 1.000 euro voor elk kind van vier jaar oud voor gratis zwemlessen",
+      "summary": "Zwemlesbonus 1.000 euro per 4-jarig kind",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwemlesbonus",
+        "zwemlessen",
+        "kinderen",
+        "euro",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 34",
+      "originalQuote": "Daarom maken we geld vrij om ieder kind de mogelijkheid te geven om gratis deze lessen te volgen: de zwemlesbonus van 1.000 euro voor elk kind van vier jaar oud."
+    },
+    {
+      "promiseCode": "SGP-2025-081",
+      "text": "Er komt een wettelijk recht op betaald rouwverlof voor rouwende gezinnen met kinderen",
+      "summary": "Wettelijk recht betaald rouwverlof gezinnen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rouwverlof",
+        "wettelijk",
+        "recht",
+        "betaald",
+        "gezinnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 35",
+      "originalQuote": "Er komt een wettelijk recht op betaald rouwverlof voor rouwende gezinnen met kinderen, flexibel inzetbaar en in goed overleg met de werkgever in te vullen."
+    },
+    {
+      "promiseCode": "SGP-2025-082",
+      "text": "De SGP wil een verbod op sociale media voor kinderen jonger dan 15 jaar",
+      "summary": "Verbod sociale media onder 15 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale",
+        "media",
+        "verbod",
+        "kinderen",
+        "leeftijdsgrens"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 36",
+      "originalQuote": "De SGP wil een verbod op sociale media voor kinderen jonger dan 15 jaar."
+    },
+    {
+      "promiseCode": "SGP-2025-083",
+      "text": "Leeftijdsverificatie wordt verplicht en vindt plaats op app-storeniveau waarbij koppeling plaatsvindt van de API-systemen",
+      "summary": "Verplichte leeftijdsverificatie app-stores",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsverificatie",
+        "verplicht",
+        "app-store",
+        "api",
+        "systemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 36",
+      "originalQuote": "Leeftijdsverificatie wordt verplicht en vindt plaats op app-storeniveau waarbij koppeling plaatsvindt van de API-systemen."
+    },
+    {
+      "promiseCode": "SGP-2025-084",
+      "text": "De SGP pleit voor een verbod op het blootstellen van kinderen jonger dan 18 jaar aan onzedelijke beelden in de fysieke en digitale wereld",
+      "summary": "Verbod onzedelijke beelden minderjarigen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "onzedelijke",
+        "beelden",
+        "kinderen",
+        "minderjarigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 36",
+      "originalQuote": "De SGP pleit voor een verbod op het blootstellen van kinderen jonger dan 18 jaar aan onzedelijke beelden in de fysieke, dan wel digitale wereld."
+    },
+    {
+      "promiseCode": "SGP-2025-085",
+      "text": "De SGP wil met prioriteit de jeugdhulpplicht wettelijk afbakenen",
+      "summary": "Wettelijke afbakening jeugdhulpplicht",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdhulpplicht",
+        "wettelijk",
+        "afbakenen",
+        "gemeenten",
+        "jeugdhulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 33",
+      "originalQuote": "De SGP wil met prioriteit de jeugdhulpplicht wettelijk afbakenen."
+    },
+    {
+      "promiseCode": "SGP-2025-086",
+      "text": "Er komt extra budget voor het versterken van de verbinding tussen onderwijs en jeugdhulp",
+      "summary": "Extra budget verbinding onderwijs-jeugdhulp",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "onderwijs",
+        "jeugdhulp",
+        "verbinding",
+        "versterken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 33",
+      "originalQuote": "Er komt extra budget voor het versterken van de verbinding tussen onderwijs en jeugdhulp."
+    },
+    {
+      "promiseCode": "SGP-2025-087",
+      "text": "In de jeugdzorg komt een wettelijke regeling waarbij aan de grootouders het recht op contact met de kleinkinderen wordt geregeld",
+      "summary": "Wettelijk contactrecht grootouders kleinkinderen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grootouders",
+        "contactrecht",
+        "kleinkinderen",
+        "wettelijk",
+        "jeugdzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 34",
+      "originalQuote": "In de jeugdzorg moet een wettelijke regeling komen, waarbij aan de grootouders het recht op contact met de kleinkinderen wordt geregeld."
+    },
+    {
+      "promiseCode": "SGP-2025-088",
+      "text": "Voor de reguliere taken van scholen wordt alleen nog structurele bekostiging verstrekt via de lumpsum",
+      "summary": "Alleen structurele lumpsum bekostiging scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "structurele",
+        "bekostiging",
+        "lumpsum",
+        "scholen",
+        "reguliere"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 38",
+      "originalQuote": "Voor de reguliere taken van scholen wordt alleen nog structurele bekostiging verstrekt via de lumpsum zodat scholen maximale zekerheid krijgen voor het voeren van stabiel personeelsbeleid."
+    },
+    {
+      "promiseCode": "SGP-2025-089",
+      "text": "In het basisonderwijs kunnen scholen langjarige aanvullende bekostiging krijgen voor het benoemen van conciërges",
+      "summary": "Bekostiging conciërges basisonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisonderwijs",
+        "conciërges",
+        "bekostiging",
+        "langjarig",
+        "aanvullend"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 38",
+      "originalQuote": "In het basisonderwijs kunnen scholen langjarige aanvullende bekostiging krijgen voor het benoemen van conciërges."
+    },
+    {
+      "promiseCode": "SGP-2025-090",
+      "text": "De Wet uitbreiding bestuurlijk instrumentarium onderwijs moet worden teruggedraaid",
+      "summary": "Terugdraaien Wet bestuurlijk instrumentarium onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "bestuurlijk",
+        "instrumentarium",
+        "onderwijs",
+        "terugdraaien"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 39",
+      "originalQuote": "De Wet uitbreiding bestuurlijk instrumentarium onderwijs moet worden teruggedraaid."
+    },
+    {
+      "promiseCode": "SGP-2025-091",
+      "text": "Er komt een enkelvoudig advies voor het praktijkonderwijs om de doorstroming en begeleiding van leerlingen te verbeteren.",
+      "summary": "Enkelvoudig advies praktijkonderwijs invoeren",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "praktijkonderwijs",
+        "advies",
+        "enkelvoudig",
+        "doorstroming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-41",
+      "originalQuote": "Er komt een enkelvoudig advies voor het praktijkonderwijs."
+    },
+    {
+      "promiseCode": "SGP-2025-092",
+      "text": "Er komt geen vijfjarig vmbo voor alle leerlingen. Soepele overgangen en doorlopende leerlijnen tussen praktijkonderwijs, vmbo en mbo worden versterkt.",
+      "summary": "Geen vijfjarig vmbo, versterken overgangen praktijkonderwijs-vmbo-mbo",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vmbo",
+        "vijfjarig",
+        "overgangen",
+        "doorlopende",
+        "leerlijnen",
+        "mbo"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-41",
+      "originalQuote": "Er komt geen vijfjarig vmbo voor alle leerlingen. Soepele overgangen en doorlopende leerlijnen tussen praktijkonderwijs, vmbo en mbo worden versterkt."
+    },
+    {
+      "promiseCode": "SGP-2025-093",
+      "text": "Er komt geen vervolg op de overdadige kwaliteitsafspraken in het mbo om bureaucratie te verminderen.",
+      "summary": "Stoppen met overdadige kwaliteitsafspraken mbo",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kwaliteitsafspraken",
+        "mbo",
+        "overdadig",
+        "vervolg"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-41",
+      "originalQuote": "Er komt geen vervolg op de overdadige kwaliteitsafspraken in het mbo."
+    },
+    {
+      "promiseCode": "SGP-2025-094",
+      "text": "Leven lang leren wordt opgenomen als wettelijke opdracht voor het mbo en hbo om arbeidsmarktknelpunten op te lossen en scholingskansen te bieden.",
+      "summary": "Wettelijke opdracht leven lang leren voor mbo en hbo",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leven lang leren",
+        "wettelijke",
+        "opdracht",
+        "mbo",
+        "hbo",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-41",
+      "originalQuote": "Leven lang leren wordt opgenomen als wettelijke opdracht voor het mbo en hbo."
+    },
+    {
+      "promiseCode": "SGP-2025-095",
+      "text": "Alle studenten verdienen een fatsoenlijke stagevergoeding voor hun stages in het beroepsonderwijs.",
+      "summary": "Fatsoenlijke stagevergoeding voor alle studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stagevergoeding",
+        "studenten",
+        "fatsoenlijk",
+        "stages",
+        "beroepsonderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-41",
+      "originalQuote": "Alle studenten verdienen een fatsoenlijke stagevergoeding."
+    },
+    {
+      "promiseCode": "SGP-2025-096",
+      "text": "Er komt een actieplan voor een duidelijke aansluiting van het mbo en hbo op de behoefte van Defensie inzake personeel, materieel en innovatie.",
+      "summary": "Actieplan aansluiting mbo/hbo op Defensiebehoeften",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "mbo",
+        "hbo",
+        "defensie",
+        "personeel",
+        "materieel",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-41",
+      "originalQuote": "Er komt een actieplan voor een duidelijke aansluiting van het mbo en hbo op de behoefte van Defensie inzake personeel, materieel en innovatie."
+    },
+    {
+      "promiseCode": "SGP-2025-097",
+      "text": "De Nederlandse taal wordt versterkt als voertaal in het hoger onderwijs, zeker in de bacheloropleiding. Er komen strengere normen voor beheersing van het Nederlands door buitenlandse studenten en docenten.",
+      "summary": "Nederlandse taal versterken als voertaal hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nederlandse",
+        "taal",
+        "voertaal",
+        "hoger onderwijs",
+        "bacheloropleiding",
+        "normen",
+        "buitenlandse"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-42",
+      "originalQuote": "De Nederlandse taal wordt versterkt als voertaal in het hoger onderwijs, zeker in de bacheloropleiding. Er komen strengere normen voor beheersing van het Nederlands door buitenlandse studenten en docenten."
+    },
+    {
+      "promiseCode": "SGP-2025-098",
+      "text": "Er komt een actieplan voor ondersteuning van studerende moeders en andere mantelzorgers om studiepunten en studentenwelzijn te verbeteren.",
+      "summary": "Actieplan ondersteuning studerende moeders en mantelzorgers",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "ondersteuning",
+        "studerende",
+        "moeders",
+        "mantelzorgers",
+        "studentenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-42",
+      "originalQuote": "Er komt een actieplan voor ondersteuning van studerende moeders en andere mantelzorgers."
+    },
+    {
+      "promiseCode": "SGP-2025-099",
+      "text": "Er komt een investering in starters- en stimuleringsbeurzen voor studenten in het hoger onderwijs.",
+      "summary": "Investering in starters- en stimuleringsbeurzen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investering",
+        "startersbeurzen",
+        "stimuleringsbeurzen",
+        "studenten",
+        "hoger onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-42",
+      "originalQuote": "Er komt een investering in starters- en stimuleringsbeurzen."
+    },
+    {
+      "promiseCode": "SGP-2025-100",
+      "text": "Studenten die zich ernstig misdragen en intimiderend gedrag vertonen worden door het bevoegd gezag uitgeschreven van onderwijsinstellingen.",
+      "summary": "Uitschrijving studenten bij ernstig wangedrag en intimidatie",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studenten",
+        "misdragen",
+        "intimiderend",
+        "gedrag",
+        "bevoegd",
+        "gezag",
+        "uitgeschreven"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 40-42",
+      "originalQuote": "Studenten die zich ernstig misdragen en intimiderend gedrag vertonen worden door het bevoegd gezag uitgeschreven."
+    },
+    {
+      "promiseCode": "SGP-2025-101",
+      "text": "Nederland moet in 2035 5% van het BBP besteden aan Defensie, waarbij 1,5% wordt besteed aan bredere investeringen in maatschappelijke weerbaarheid en infrastructuur.",
+      "summary": "Defensie-uitgaven naar 5% BBP in 2035 (1,5% voor weerbaarheid)",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "bbp",
+        "weerbaarheid",
+        "infrastructuur",
+        "navo-norm"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 44-45",
+      "originalQuote": "In 2035 besteedt Nederland 5% van het BBP aan onze Defensie, waarbij 1,5% wordt besteed aan bredere investeringen in maatschappelijke weerbaarheid en infrastructuur."
+    },
+    {
+      "promiseCode": "SGP-2025-102",
+      "text": "De basispolitiezorg moet groeien met minstens 500 fte om elke wijk en elk dorp een vaste wijkagent te geven.",
+      "summary": "Basispolitiezorg uitbreiden met minimaal 500 fte",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basispolitiezorg",
+        "fte",
+        "wijkagenten",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 46-47",
+      "originalQuote": "De basispolitiezorg moet groeien met minstens 500 fte."
+    },
+    {
+      "promiseCode": "SGP-2025-103",
+      "text": "Nederland koopt meer F-35's en meer luchtverdediging in om te voldoen aan NAVO-doelstellingen.",
+      "summary": "Inkoop meer F-35's en luchtverdediging voor NAVO",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "f-35",
+        "luchtverdediging",
+        "navo",
+        "wapensystemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 44-45",
+      "originalQuote": "De SGP wil dat Nederland meer F-35's en meer luchtverdediging inkoopt."
+    },
+    {
+      "promiseCode": "SGP-2025-104",
+      "text": "Er komt een totaalverbod op betaalde seks om seksuele uitbuiting en exploitatie tegen te gaan.",
+      "summary": "Totaalverbod op betaalde seks",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prostitutie",
+        "totaalverbod",
+        "seksuele uitbuiting",
+        "exploitatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 52-53",
+      "originalQuote": "Er komt een totaalverbod op betaalde seks om seksuele uitbuiting en exploitatie van kwetsbare mensen voor seksuele doeleinden effectief tegen te gaan."
+    },
+    {
+      "promiseCode": "SGP-2025-105",
+      "text": "Het wietexperiment wordt beëindigd en coffeeshops gaan dicht in streven naar drugsvrije samenleving.",
+      "summary": "Beëindiging wietexperiment en sluiting coffeeshops",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wietexperiment",
+        "coffeeshops",
+        "drugsbeleid",
+        "beëindiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 52-53",
+      "originalQuote": "Het wietexperiment wordt beëindigd... Coffeeshops gaan dicht."
+    },
+    {
+      "promiseCode": "SGP-2025-106",
+      "text": "Daders van misdrijven krijgen geen automatische voorwaardelijke invrijheidstelling meer, ook niet bij straffen onder de zes jaar.",
+      "summary": "Afschaffing automatische voorwaardelijke invrijheidstelling",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorwaardelijke invrijheidstelling",
+        "gevangenisstraf",
+        "strafrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 48-49",
+      "originalQuote": "Daders van misdrijven, ook onder de zes jaar gevangenisstraf, krijgen geen automatische voorwaardelijke invrijheidstelling meer."
+    },
+    {
+      "promiseCode": "SGP-2025-107",
+      "text": "Terroristen verliezen het Nederlanderschap of krijgen beperking van rechten zoals kiesrecht en overheidsdienst.",
+      "summary": "Terroristen verliezen staatsburgerschap of rechten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "terrorisme",
+        "nederlanderschap",
+        "kiesrecht",
+        "overheidsdienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 50-51",
+      "originalQuote": "Terroristen verliezen het Nederlanderschap. Kan dat niet, dan moeten rechten zoals kiesrecht en overheidsdienst geweigerd worden."
+    },
+    {
+      "promiseCode": "SGP-2025-108",
+      "text": "Er komt een taakstrafverbod bij geweld tegen hulpverleners om agenten, boa's en hulpverleners beter te beschermen.",
+      "summary": "Taakstrafverbod bij geweld tegen hulpverleners",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taakstrafverbod",
+        "geweld",
+        "hulpverleners",
+        "agenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 46-47",
+      "originalQuote": "Daarom pleit de SGP voor een taakstrafverbod bij geweld tegen hulpverleners."
+    },
+    {
+      "promiseCode": "SGP-2025-109",
+      "text": "Websites die prostitutie aanbieden gaan op zwart en er komt een hardere aanpak van online seksueel kindermisbruik.",
+      "summary": "Blokkering prostitutiewebsites en aanpak kindermisbruik online",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prostitutiewebsites",
+        "kindermisbruik",
+        "internetblokkade"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 50-51",
+      "originalQuote": "Websites die prostitutie aanbieden, gaan op zwart."
+    },
+    {
+      "promiseCode": "SGP-2025-110",
+      "text": "De Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding moet permanent worden.",
+      "summary": "Permanente wet terrorismebestrijding",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terrorismebestrijding",
+        "wetgeving",
+        "bestuurlijke maatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 50-51",
+      "originalQuote": "De Tijdelijke wet bestuurlijke maatregelen terrorismebestrijding moet permanent worden."
+    },
+    {
+      "promiseCode": "SGP-2025-111",
+      "text": "Bedrijven en organisaties moeten transparant zijn over het gebruik van data van burgers.",
+      "summary": "Transparantie over datagebruik door bedrijven en organisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transparantie",
+        "datagebruik",
+        "bedrijven",
+        "organisaties",
+        "burgers"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "Bedrijven en organisaties moeten transparant zijn over het gebruik van data van burgers."
+    },
+    {
+      "promiseCode": "SGP-2025-112",
+      "text": "Er komt een verbod op het creëren en verspreiden van deepfakes. Burgers krijgen, naar Deens voorbeeld, op grond van de Auteurswet copyright op hun eigen lichaam, gezichtskenmerken en stem.",
+      "summary": "Verbod op deepfakes en copyright op eigen lichaam naar Deens voorbeeld",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deepfakes",
+        "verbod",
+        "copyright",
+        "auteurswet",
+        "lichaam",
+        "gezichtskenmerken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "Er komt een verbod op het creëren en verspreiden van deepfakes. Burgers krijgen, naar Deens voorbeeld, op grond van de Auteurswet copyright op hun eigen lichaam, gezichtskenmerken en stem."
+    },
+    {
+      "promiseCode": "SGP-2025-113",
+      "text": "De capaciteit van het Digital Trust Centre wordt versterkt ter ondersteuning van ondernemers bij cyberveiligheid.",
+      "summary": "Versterking capaciteit Digital Trust Centre",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "digital trust centre",
+        "capaciteit",
+        "cyberveiligheid",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "De SGP wil ondernemers ondersteunen bij het werken aan cyberveiligheid. De capaciteit van het Digital Trust Centre wordt versterkt."
+    },
+    {
+      "promiseCode": "SGP-2025-114",
+      "text": "Er wordt een ethische toelatingscommissie ingesteld voor de toelating van nieuwe technologische ontwikkelingen met grote maatschappelijke impact.",
+      "summary": "Ethische toelatingscommissie voor nieuwe technologie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ethische toelatingscommissie",
+        "technologie",
+        "toelating",
+        "maatschappelijke impact"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "Voor de toelating van nieuwe technologische ontwikkelingen met grote impact op de samenleving is een ethische toelatingscommissie nodig."
+    },
+    {
+      "promiseCode": "SGP-2025-115",
+      "text": "Er worden ethische richtlijnen geïntegreerd voor AI inclusief regelmatie controles en onafhankelijke evaluaties om eerlijke, veilige en betrouwbare werking te garanderen.",
+      "summary": "Ethische AI-richtlijnen met controles en evaluaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ai",
+        "ethische richtlijnen",
+        "controles",
+        "evaluaties",
+        "betrouwbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "Er moeten ethische richtlijnen worden geïntegreerd voor AI waaronder het voorkomen van vooringenomenheid en het beschermen van privacy. Regelmatige controles en onafhankelijke evaluaties zijn noodzakelijk om te garanderen dat AI-systemen op een eerlijke, veilige en betrouwbare manier functioneren."
+    },
+    {
+      "promiseCode": "SGP-2025-116",
+      "text": "De regels voor verkoop van riskante AI-systemen aan buitenlandse partijen worden aangescherpt.",
+      "summary": "Aanscherping regels voor AI-verkoop aan buitenlandse partijen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ai-systemen",
+        "verkoop",
+        "buitenlandse partijen",
+        "aanscherping",
+        "regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "De regels voor verkoop van riskante AI-systemen aan buitenlandse partijen moeten aangescherpt worden."
+    },
+    {
+      "promiseCode": "SGP-2025-117",
+      "text": "Nederland investeert in regionale productiecapaciteit voor nieuwe technologieën zoals een AI-fabriek in Groningen, waarbij Nederlands belang prevaleert boven Europees belang.",
+      "summary": "Investering in AI-fabriek Groningen, Nederlands boven Europees belang",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ai-fabriek",
+        "groningen",
+        "productiecapaciteit",
+        "technologie",
+        "nederlands belang"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "De SGP wil daarom investeren in regionale productiecapaciteit voor nieuwe technologieën zoals een AI-fabriek in Groningen, waarbij het Nederlands belang prevaleert boven Europees belang."
+    },
+    {
+      "promiseCode": "SGP-2025-118",
+      "text": "De macht van grote platforms wordt aan banden gelegd zodat concurrentie mogelijk blijft, zo nodig door aanpassing mededingingsregels.",
+      "summary": "Beperking macht grote platforms voor behoud concurrentie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "platforms",
+        "macht",
+        "concurrentie",
+        "mededingingsregels"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "De macht van grote platforms moet aan banden worden gelegd zodat concurrentie mogelijk blijft. Indien nodig worden hiervoor mededingingsregels aangepast."
+    },
+    {
+      "promiseCode": "SGP-2025-119",
+      "text": "De overheid maakt afspraken met het bedrijfsleven om kwetsbare groepen te beschermen tegen cybercrime en zorgt dat overheidsdienstverlening ook voor minder digitaal vaardigen goed bereikbaar is.",
+      "summary": "Bescherming kwetsbare groepen tegen cybercrime via overheid-bedrijfsleven",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kwetsbare groepen",
+        "cybercrime",
+        "bescherming",
+        "overheidsdienstverlening",
+        "digitale vaardigheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 54",
+      "originalQuote": "De SGP wil dat de overheid afspraken maakt met het bedrijfsleven om kwetsbare groepen te beschermen tegen cybercrime. Overheidsdienstverlening moet ook voor minder digitaal vaardige burgers goed bereikbaar te zijn."
+    },
+    {
+      "promiseCode": "SGP-2025-120",
+      "text": "Zero-tolerancebeleid invoeren voor antisemitische incidenten, met verhoogde pakkans en meer capaciteit bij Politie en OM voor opsporing en vervolging.",
+      "summary": "Zero-tolerancebeleid antisemitisme met meer capaciteit Politie en OM",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zero-tolerancebeleid",
+        "antisemitisme",
+        "politiecapaciteit",
+        "opsporing",
+        "vervolging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Er komt een zero-tolerancebeleid voor antisemitische incidenten. De pakkans moet omhoog, er moet meer capaciteit bij Politie en OM worden vrijgemaakt voor de opsporing en vervolging en rechtszaken moeten meer leiden tot een veroordeling."
+    },
+    {
+      "promiseCode": "SGP-2025-121",
+      "text": "Veiligheidsfonds instellen voor de beveiliging van Joodse scholen, instellingen en objecten zodat de Joodse gemeenschap niet meer zelf hoeft op te draaien voor beveiligingskosten.",
+      "summary": "Veiligheidsfonds voor beveiliging Joodse instellingen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veiligheidsfonds",
+        "beveiliging",
+        "joodse scholen",
+        "beveiligingskosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "De SGP wil een veiligheidsfonds voor de beveiliging van Joodse scholen, instellingen en objecten zodat de Joodse gemeenschap niet meer zelf hoeft op te draaien voor de toenemende beveiligingskosten."
+    },
+    {
+      "promiseCode": "SGP-2025-122",
+      "text": "Organisaties die zich schuldig maken aan antisemitisme volgens de IHRA-definitie worden verboden en ontbonden.",
+      "summary": "Verbod organisaties antisemitisme volgens IHRA-definitie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "organisaties",
+        "verbod",
+        "antisemitisme",
+        "ihra-definitie",
+        "ontbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Organisaties die zich schuldig maken aan antisemitisme volgens de IHRA-definitie worden verboden en ontbonden."
+    },
+    {
+      "promiseCode": "SGP-2025-123",
+      "text": "Haatpredikers die antisemitisme verspreiden worden uit Nederland geweerd. Organisaties die antisemitische haatpredikers uitnodigen worden gescreend en waar mogelijk verboden.",
+      "summary": "Weren haatpredikers en screenen organisaties die hen uitnodigen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "haatpredikers",
+        "antisemitisme",
+        "weren",
+        "screening",
+        "organisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Haatpredikers die antisemitisme verspreiden worden uit Nederland geweerd. Organisaties die antisemitische haatpredikers uitnodigen worden gescreend en waar mogelijk verboden nog langer bijeenkomsten te organiseren."
+    },
+    {
+      "promiseCode": "SGP-2025-124",
+      "text": "Koosjere slacht blijft toegestaan.",
+      "summary": "Koosjere slacht toegestaan houden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koosjere slacht",
+        "toegestaan",
+        "religievrijheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Koosjere slacht blijft toegestaan."
+    },
+    {
+      "promiseCode": "SGP-2025-125",
+      "text": "Organisaties die haatzaaiers een podium bieden mogen geen overheidssteun ontvangen.",
+      "summary": "Geen overheidssteun voor organisaties die haatzaaiers podium bieden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "organisaties",
+        "haatzaaiers",
+        "overheidssteun",
+        "podium"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Het kan niet zo zijn dat organisaties die haatzaaiers een podium bieden op enigerlei wijze overheidssteun ontvangen."
+    },
+    {
+      "promiseCode": "SGP-2025-126",
+      "text": "Universiteiten mogen studenten van onderwijsactiviteiten uitsluiten bij antisemitisch gemotiveerd gedrag of steun aan boycot van Israël (BDS), Samidoun of andere antisemitische organisaties.",
+      "summary": "Universiteiten mogen studenten uitsluiten bij antisemitisch gedrag of BDS-steun",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "universiteiten",
+        "studenten",
+        "uitsluiten",
+        "antisemitisme",
+        "bds",
+        "boycot"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Universiteiten mogen studenten van onderwijsactiviteiten uitsluiten bij antisemitisch gemotiveerd gedrag of steun aan boycot van Israël (BDS), Samidoun of andere antisemitische organisaties."
+    },
+    {
+      "promiseCode": "SGP-2025-127",
+      "text": "Antisemitische relschoppers met dubbele nationaliteit worden ontdaan van hun Nederlanderschap, uitgeschreven bij onderwijsinstellingen en uitgezet.",
+      "summary": "Antisemitische relschoppers dubbele nationaliteit: ontneming burgerschap en uitzetting",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "antisemitisme",
+        "relschoppers",
+        "dubbele nationaliteit",
+        "burgerschap",
+        "uitzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 57",
+      "originalQuote": "Als antisemitische relschoppers op universiteiten of bij demonstraties een dubbele nationaliteit hebben, moeten zij worden ontdaan van hun Nederlanderschap, uitgeschreven bij de onderwijsinstelling en uitgezet."
+    },
+    {
+      "promiseCode": "SGP-2025-128",
+      "text": "Budget verhogen voor educatie op scholen over de Holocaust en Joodse geschiedenis. Kennis over de Holocaust blijft verplicht kerndoel in het burgerschapsonderwijs.",
+      "summary": "Meer budget Holocaust-educatie, verplicht kerndoel burgerschapsonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "holocaust-educatie",
+        "joodse geschiedenis",
+        "kerndoel",
+        "burgerschapsonderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 58",
+      "originalQuote": "Daarom komt er meer budget voor educatie op scholen over de Holocaust en Joodse geschiedenis. Kennis over de Holocaust blijft een verplicht kerndoel in het burgerschapsonderwijs."
+    },
+    {
+      "promiseCode": "SGP-2025-129",
+      "text": "Budget voor herinneringscentra over het oorlogsverleden en de Holocaust substantieel en structureel verhogen.",
+      "summary": "Substantieel meer budget voor herinneringscentra Holocaust",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "herinneringscentra",
+        "oorlogsverleden",
+        "holocaust",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 58",
+      "originalQuote": "De SGP wil het budget voor herinneringscentra over het oorlogsverleden en de Holocaust substantieel en structureel verhogen."
+    },
+    {
+      "promiseCode": "SGP-2025-130",
+      "text": "Elke leerling moet kennis maken met de Joodse gemeenschap door een verplicht bezoek aan een relevante organisatie of museum zoals het Joods Cultureel Kwartier in Amsterdam.",
+      "summary": "Verplicht bezoek alle leerlingen aan Joodse organisatie of museum",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leerlingen",
+        "verplicht bezoek",
+        "joodse gemeenschap",
+        "museum",
+        "joods cultureel kwartier"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 58",
+      "originalQuote": "In het kader van het Nationaal Plan Holocausteducatie moet elke leerling kennis maken met de (geschiedenis van de) Joodse gemeenschap door een bezoek aan een relevante organisatie of museum zoals het Joods Cultureel Kwartier in Amsterdam."
+    },
+    {
+      "promiseCode": "SGP-2025-131",
+      "text": "Antisemitisme krijgt een aparte strafbaarstelling in het Wetboek van Strafrecht op basis van de IHRA-definitie.",
+      "summary": "Aparte strafbaarstelling antisemitisme in Wetboek van Strafrecht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "antisemitisme",
+        "strafbaarstelling",
+        "wetboek van strafrecht",
+        "ihra-definitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 58",
+      "originalQuote": "Antisemitisme verdient een aparte strafbaarstelling in het Wetboek van Strafrecht op basis van de IHRA-definitie."
+    },
+    {
+      "promiseCode": "SGP-2025-132",
+      "text": "Sociale media platforms die antisemitische content niet binnen 24 uur verwijderen gaan beboeten.",
+      "summary": "Boetes sociale media platforms die antisemitische content niet binnen 24 uur verwijderen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale media",
+        "platforms",
+        "boetes",
+        "antisemitische content",
+        "24 uur"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 58",
+      "originalQuote": "De SGP wil platforms die deze content niet binnen 24 uur verwijderen gaan beboeten."
+    },
+    {
+      "promiseCode": "SGP-2025-133",
+      "text": "Nederlandse ambassade in Israël wordt verhuisd naar Jeruzalem, de ongedeelde hoofdstad van Israël.",
+      "summary": "Nederlandse ambassade verhuizen naar Jeruzalem",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambassade",
+        "israël",
+        "verhuizing",
+        "jeruzalem",
+        "hoofdstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 59",
+      "originalQuote": "De Nederlandse ambassade in Israël wordt verhuisd naar Jeruzalem, de ongedeelde hoofdstad van Israël."
+    },
+    {
+      "promiseCode": "SGP-2025-134",
+      "text": "Nederland stemt voortaan tegen anti-Israëlische resoluties bij de Verenigde Naties.",
+      "summary": "Tegen anti-Israëlische VN-resoluties stemmen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederland",
+        "verenigde naties",
+        "anti-israëlische resoluties",
+        "stemgedrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 59",
+      "originalQuote": "Nederland stemt voortaan tegen anti-Israëlische resoluties."
+    },
+    {
+      "promiseCode": "SGP-2025-135",
+      "text": "Integratietoets verbreden met vragen over het jodendom, antisemitisme en de plaats van Israël in de wereld.",
+      "summary": "Integratietoets uitbreiden met vragen over jodendom en antisemitisme",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "integratietoets",
+        "jodendom",
+        "antisemitisme",
+        "israël"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 60",
+      "originalQuote": "De SGP wil de integratietoets verbreden met vragen over het jodendom, antisemitisme en de plaats van Israël in de wereld."
+    },
+    {
+      "promiseCode": "SGP-2025-136",
+      "text": "In de wet vastleggen dat aspirant-burgers expliciet afstand doen van antisemitische ideeën als voorwaarde voor naturalisatie.",
+      "summary": "Wettelijke verplichting afstand antisemitisme bij naturalisatie",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "naturalisatie",
+        "antisemitische ideeën",
+        "afstand",
+        "burgerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 60",
+      "originalQuote": "De SGP wil in de wet vastleggen dat aspirant-burgers expliciet afstand doen van antisemitische ideeën (inclusief ontkenning van Israëls bestaansrecht) als voorwaarde voor naturalisatie."
+    },
+    {
+      "promiseCode": "SGP-2025-137",
+      "text": "Inburgeraars worden verplicht te ondertekenen het Joodse leven te beschermen. Bij overtreding kunnen er gevolgen zijn voor hun verblijfsstatus.",
+      "summary": "Verplichte ondertekening bescherming Joods leven bij inburgering",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inburgering",
+        "ondertekening",
+        "joods leven",
+        "beschermen",
+        "verblijfsstatus"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 60",
+      "originalQuote": "Inburgeraars worden, net als in Duitsland, verplicht te ondertekenen het Joodse leven te beschermen. Houden nieuwkomers zich hier niet aan, dan kan dat gevolgen hebben voor hun verblijfsstatus."
+    },
+    {
+      "promiseCode": "SGP-2025-138",
+      "text": "Nieuwkomers worden in het kader van hun inburgering verplicht om een bezoek te brengen aan het Nationaal Holocaustmuseum of één van de andere herinneringscentra.",
+      "summary": "Verplicht bezoek Holocaustmuseum voor alle nieuwkomers bij inburgering",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwkomers",
+        "inburgering",
+        "verplicht bezoek",
+        "holocaustmuseum",
+        "herinneringscentra"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 60",
+      "originalQuote": "De SGP wil dat nieuwkomers in het kader van hun inburgering worden verplicht om een bezoek te brengen aan het Nationaal Holocaustmuseum of één van de andere herinneringscentra."
+    },
+    {
+      "promiseCode": "SGP-2025-139",
+      "text": "UNRWA wordt opgeheven. Tot dit zover is, doneert Nederland niet aan deze organisatie.",
+      "summary": "Opheffing UNRWA en stoppen Nederlandse donaties",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "unrwa",
+        "opheffing",
+        "donaties",
+        "nederland",
+        "stopzetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 61",
+      "originalQuote": "UNRWA wordt opgeheven. Tot dit zover is, doneert Nederland niet aan deze organisatie."
+    },
+    {
+      "promiseCode": "SGP-2025-140",
+      "text": "Een sturend richtgetal met duidelijke bovengrens voor het migratiesaldo inclusief bandbreedtes voor alle migratiesoorten invoeren met bijbehorend langjarig, integraal migratiebeleid.",
+      "summary": "Migratiesaldo begrenzen met richtgetallen en bandbreedtes",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "migratiesaldo",
+        "richtgetal",
+        "bovengrens",
+        "bandbreedtes",
+        "migratiebeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 65",
+      "originalQuote": "De SGP wil een sturend richtgetal met een duidelijk bovengrens voor het migratiesaldo inclusief bandbreedtes voor alle migratiesoorten met bijbehorend langjarig, integraal migratiebeleid"
+    },
+    {
+      "promiseCode": "SGP-2025-141",
+      "text": "Wettelijk vastleggen dat bij overschrijding van vooraf vastgestelde bandbreedtes altijd gerichte beleidsmaatregelen volgen om de instroom verder te beperken.",
+      "summary": "Automatische beleidsmaatregelen bij overschrijding migratiegrenzen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijk",
+        "bandbreedtes",
+        "beleidsmaatregelen",
+        "instroom",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 65",
+      "originalQuote": "Wettelijk wordt vastgelegd dat bij overschrijding van de vooraf vastgestelde bandbreedtes altijd gerichte beleidsmaatregelen volgen om de instroom verder te beperken."
+    },
+    {
+      "promiseCode": "SGP-2025-142",
+      "text": "Een jaarlijkse Staat van de Demografie invoeren en hierover debat voeren met de Tweede Kamer om demografische ontwikkelingen te monitoren.",
+      "summary": "Jaarlijkse Staat van de Demografie met Tweede Kamer debat",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "demografie",
+        "jaarlijks",
+        "monitoring",
+        "tweede kamer",
+        "debat"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 65",
+      "originalQuote": "De regering brengt een jaarlijkse Staat van de Demografie en voert hierover een debat met de Tweede Kamer om de demografische ontwikkelingen te monitoren"
+    },
+    {
+      "promiseCode": "SGP-2025-143",
+      "text": "Asielaanvragen afhandelen in partnerlanden buiten de Europese Unie onder Nederlandse verantwoordelijkheid met respect voor mensenrechten.",
+      "summary": "Asielaanvragen afhandelen in partnerlanden buiten EU",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielaanvragen",
+        "partnerlanden",
+        "buitenland",
+        "afhandeling",
+        "mensenrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 66",
+      "originalQuote": "Nederland zet in op afhandeling van asielaanvragen in partnerlanden buiten de Europese Unie. Dit moet plaatsvinden onder verantwoordelijkheid van de Nederlandse overheid en met respect voor de mensenrechten."
+    },
+    {
+      "promiseCode": "SGP-2025-144",
+      "text": "Uitzettcentra ontwikkelen met landen buiten de EU waar uitgeprocedeerde asielzoekers humaan worden opgevangen voordat zij terugkeren.",
+      "summary": "Uitzettcentra buiten EU voor uitgeprocedeerde asielzoekers",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitzettcentra",
+        "uitgeprocedeerd",
+        "opvang",
+        "terugkeer",
+        "buitenland"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 66",
+      "originalQuote": "Met landen buiten de EU worden uitzettcentra ontwikkeld waar uitgeprocedeerde asielzoekers humaan worden opgevangen en waarvandaan zij zo spoedig mogelijk terugkeren."
+    },
+    {
+      "promiseCode": "SGP-2025-145",
+      "text": "De geldigheid van tijdelijke verblijfsvergunningen verkorten naar drie jaar voor frequentere beoordeling van verblijfsrecht.",
+      "summary": "Verblijfsvergunningen verkorten naar drie jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verblijfsvergunning",
+        "drie jaar",
+        "verkorten",
+        "beoordeling",
+        "verblijfsrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 68",
+      "originalQuote": "De geldigheid van de tijdelijke verblijfsvergunning wordt verkort naar drie jaar zodat frequenter wordt beoordeeld of iemand nog verblijfsrecht heeft of niet."
+    },
+    {
+      "promiseCode": "SGP-2025-146",
+      "text": "Hoger beroep afschaffen voor migranten uit veilige landen en asielzoekers die volgens Dublin-verordening naar andere EU-lidstaten moeten.",
+      "summary": "Hoger beroep afschaffen voor bepaalde migrantengroepen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hoger beroep",
+        "afschaffen",
+        "veilige landen",
+        "dublin-verordening",
+        "uitzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 67",
+      "originalQuote": "Hoger beroep wordt afgeschaft voor migranten uit veilige landen en voor asielzoekers die conform de Dublin-verordening naar andere EU-lidstaten moeten worden uitgezet."
+    },
+    {
+      "promiseCode": "SGP-2025-147",
+      "text": "De dwangsomregeling voor asielzoekers definitief afschaffen en alle terugvordermogelijkheden benutten bij asielzoekers met eigen inkomsten.",
+      "summary": "Dwangsomregeling afschaffen en terugvordering verhogen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dwangsomregeling",
+        "afschaffen",
+        "terugvordering",
+        "inkomsten",
+        "asielzoekers"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 68",
+      "originalQuote": "Er gaat een definitieve streep door de ineffectieve dwangsomregeling voor asielzoekers, waardoor miljoenen belastinggeld moeten worden uitgekeerd. Tot die tijd worden alle terugvordermogelijkheden benut bij asielzoekers met eigen inkomsten."
+    },
+    {
+      "promiseCode": "SGP-2025-148",
+      "text": "De termijn voor naturalisatie verlengen naar tien jaar en de taaleis verhogen naar B1-niveau.",
+      "summary": "Naturalisatie naar tien jaar en B1-taaleis",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "naturalisatie",
+        "tien jaar",
+        "taaleis",
+        "b1-niveau",
+        "verlenging"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 72",
+      "originalQuote": "De termijn voor naturalisatie wordt verlengd naar tien jaar en de taaleis gaat omhoog naar B1-niveau."
+    },
+    {
+      "promiseCode": "SGP-2025-149",
+      "text": "Een flexibel opvanglandschap realiseren met vaste voorraad en financiering van 41.000 plekken, waarbij bij onderbezetting studenten gebruik kunnen maken van de opvang.",
+      "summary": "Opvangcapaciteit van 41.000 plekken met flexibele invulling",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opvanglandschap",
+        "41000 plekken",
+        "financiering",
+        "onderbezetting",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 69",
+      "originalQuote": "wordt gewerkt aan een flexibel opvanglandschap met een vaste voorraad en financiering van 41.000 plekken. Bij onderbezetting van de asielopvang kunnen studenten of andere groepen die huisvesting zoeken hiervan gebruik maken."
+    },
+    {
+      "promiseCode": "SGP-2025-150",
+      "text": "De winstbelasting voor landbouwbedrijven gaat beter aansluiten op de landbouwpraktijk door te rekenen met het voortschrijdend gemiddelde over enkele jaren. Er komt een fiscale investeringsreserve voor investeringen in stalvernieuwing voor milieu en dierenwelzijn.",
+      "summary": "Winstbelasting aanpassen en fiscale investeringsreserve stalvernieuwing",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstbelasting",
+        "landbouwbedrijven",
+        "voortschrijdend gemiddelde",
+        "fiscale investeringsreserve",
+        "stalvernieuwing",
+        "milieu",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 74-75",
+      "originalQuote": "De winstbelasting voor landbouwbedrijven gaat beter aansluiten op de landbouwpraktijk, bijvoorbeeld door te rekenen met het voortschrijdend gemiddelde over enkele jaren. Er komt een fiscale investerings-reserve voor investeringen in stalvernieuw-ing voor milieu en dierenwelzijn."
+    },
+    {
+      "promiseCode": "SGP-2025-151",
+      "text": "Import van voedsel dat niet volgens de Europese maatlat voor voedselveiligheid, dierenwelzijn en milieu geproduceerd is, wordt belast en zoveel mogelijk geweerd, waarbij de opbrengst zoveel mogelijk wordt geïnvesteerd in verduurzaming van de landbouw.",
+      "summary": "Belasting op niet-Europese standaard voedselimport voor verduurzaming landbouw",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voedselimport",
+        "belasting",
+        "europese maatlat",
+        "voedselveiligheid",
+        "dierenwelzijn",
+        "verduurzaming",
+        "landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 75-76",
+      "originalQuote": "Import van voedsel dat niet volgens de Europese maatlat voor voedselveiligheid, dierenwelzijn en milieu geproduceerd is, wordt belast en zoveel mogelijk geweerd, waarbij de opbrengst zoveel mogelijk wordt geïnvesteerd in verduurzaming van de landbouw."
+    },
+    {
+      "promiseCode": "SGP-2025-152",
+      "text": "Er komt een verbod op misbruik van economische afhankelijkheid voor fatsoenlijke vergoedingen voor kwaliteitseisen en milieukeurmerken. De prijs voor kortlopende pacht wordt begrensd.",
+      "summary": "Verbod misbruik economische afhankelijkheid en pachprijsbeperking",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbod",
+        "economische afhankelijkheid",
+        "kwaliteitseisen",
+        "milieukeurmerken",
+        "pachtprijs",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 76",
+      "originalQuote": "Er komt een verbod op misbruik van economische afhankelijkheid voor fatsoenlijke vergoedingen voor kwaliteitseisen en milieukeurmerken. [...] De prijs voor kortlopende pacht wordt begrensd."
+    },
+    {
+      "promiseCode": "SGP-2025-153",
+      "text": "Het Investeringsfonds Duurzame Landbouw wordt versterkt en kan bijvoorbeeld worden gevoed door bijdragen van supermarktketens.",
+      "summary": "Versterking Investeringsfonds Duurzame Landbouw met supermarktbijdragen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringsfonds",
+        "duurzame landbouw",
+        "versterking",
+        "supermarktketens",
+        "bijdragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 76",
+      "originalQuote": "Het Investeringsfonds Duurzame Landbouw dat ondernemers middels investeringssteun, omschakelvergoedingen en garantstellingen helpt bij verduurzaming wordt versterkt. Het fonds kan bijvoorbeeld worden gevoed door bijdragen van supermarktketens."
+    },
+    {
+      "promiseCode": "SGP-2025-154",
+      "text": "De glastuinbouw wordt gevrijwaard van ETS2 en de bijmengverplichting voor groen gas.",
+      "summary": "Glastuinbouw vrijstelling ETS2 en groengasbijmengverplichting",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "glastuinbouw",
+        "ets2",
+        "bijmengverplichting",
+        "groen gas",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 77",
+      "originalQuote": "De glastuinbouw wordt gevrijwaard van ETS2 en de bijmengverplichting voor groen gas."
+    },
+    {
+      "promiseCode": "SGP-2025-155",
+      "text": "Het aantal proefdieren moet echt omlaag. Er wordt geïnvesteerd in alternatieven en juridisch ruimte gegeven om die alternatieven toe te passen. Experimenteren in het lab met de genen van dieren en het klonen ervan blijft verboden.",
+      "summary": "Reductie proefdieren, alternatieven ontwikkelen, genexperimenten verbieden",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "proefdieren",
+        "reductie",
+        "alternatieven",
+        "genexperimenten",
+        "klonen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 77",
+      "originalQuote": "Het aantal proefdieren moet echt omlaag. Er wordt geïnvesteerd in alternatieven en juridisch ruimte gegeven om die alternatieven toe te passen. [...] Experimenteren in het lab met de genen van dieren en het klonen ervan blijft verboden."
+    },
+    {
+      "promiseCode": "SGP-2025-156",
+      "text": "Er komt een agrarische autoriteit, vergelijkbaar met de Autoriteit Diergeneesmiddelen, die verantwoordelijk is voor de ontwikkeling van doelsturing in mest- en emissiebeleid.",
+      "summary": "Oprichting agrarische autoriteit voor doelsturing mest en emissies",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "agrarische autoriteit",
+        "doelsturing",
+        "mestbeleid",
+        "emissiebeleid",
+        "autoriteit diergeneesmiddelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 78",
+      "originalQuote": "Er komt een agrarische autoriteit, vergelijkbaar met de Autoriteit Diergeneesmiddelen, die verantwoordelijk is voor de ontwikkeling van doelsturing."
+    },
+    {
+      "promiseCode": "SGP-2025-157",
+      "text": "De Nitraatrichtlijn moet herzien worden, inclusief het afschaffen van de eendimensionale 170 kilogram norm voor dierlijke mest.",
+      "summary": "Herziening Nitraatrichtlijn en afschaffen 170kg dierlijke mestnorm",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nitraatrichtlijn",
+        "herziening",
+        "170 kilogram norm",
+        "dierlijke mest",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 79",
+      "originalQuote": "De Nitraatrichtlijn moet daarom herzien worden, inclusief het afschaffen van de eendimensionale 170 kilogram norm voor dierlijke mest."
+    },
+    {
+      "promiseCode": "SGP-2025-158",
+      "text": "De stikstofuitstoot van vliegtuigen die hoger vliegen dan negenhonderd meter wordt niet weg gerekend, maar meegenomen in de stikstofaanpak.",
+      "summary": "Stikstofuitstoot vliegtuigen boven 900m meenemen in stikstofaanpak",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofuitstoot",
+        "vliegtuigen",
+        "negenhonderd meter",
+        "stikstofaanpak",
+        "luchtvaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 80",
+      "originalQuote": "De stikstofuitstoot van vliegtuigen die hoger vliegen dan negenhonderd meter wordt niet weg gerekend, maar meegenomen in de stikstofaanpak, zodat de luchtvaart haar evenredige bijdrage gaat leveren."
+    },
+    {
+      "promiseCode": "SGP-2025-159",
+      "text": "Er komt meer ruimte voor bejaging van predatoren van weide- en akkervogels. In een groot deel van Nederland is actief beheer van de wolf nodig.",
+      "summary": "Uitbreiding jacht op predatoren en actief wolfbeheer",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bejaging",
+        "predatoren",
+        "weidevogels",
+        "akkervogels",
+        "wolfbeheer",
+        "actief beheer"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 81-82",
+      "originalQuote": "Er komt meer ruimte voor bejaging van predatoren van weide- en akkervogels. [...] In een groot deel van Nederland is gelet op de wildstand en de aanwezigheid van mensen en vee geen duurzame plaats voor vestiging van wolven. In deze gebieden is actief beheer van de wolf nodig."
+    },
+    {
+      "promiseCode": "SGP-2025-160",
+      "text": "Klimaatwetgeving wordt aangepast om rekening te houden met de milieugevolgen van alternatieve energiebronnen.",
+      "summary": "Aanpassing klimaatwetgeving voor milieugevolgen alternatieve energie",
+      "theme": "KLIMAAT",
+      "specificity": "VAAG",
+      "keywords": [
+        "klimaatwetgeving",
+        "milieugevolgen",
+        "energiebronnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 84",
+      "originalQuote": "Klimaatwetgeving moet op dit punt aangepast worden."
+    },
+    {
+      "promiseCode": "SGP-2025-161",
+      "text": "Het gebruik van milieubelastende brandstoffen wordt in de komende drie decennia zo veel mogelijk afgebouwd.",
+      "summary": "Afbouw milieubelastende brandstoffen in drie decennia",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brandstoffen",
+        "afbouw",
+        "decennia",
+        "milieu"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 84",
+      "originalQuote": "De SGP wil het gebruik van milieubelastende brandstoffen in de komende drie decennia zo veel mogelijk afbouwen."
+    },
+    {
+      "promiseCode": "SGP-2025-162",
+      "text": "Het verlaagde btw-tarief voor reparatiediensten wordt uitgebreid naar mobieltjes, laptops, wasmachines en andere apparatuur. Ook komen er reparatievouchers, gefinancierd door producenten en importeurs.",
+      "summary": "Uitbreiding verlaagde btw reparaties en reparatievouchers",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw-tarief",
+        "reparatiediensten",
+        "vouchers",
+        "producenten",
+        "importeurs"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 84",
+      "originalQuote": "Het verlaagde btw-tarief voor reparatiediensten wordt uitgebreid naar mobieltjes, laptops, wasmachines en andere apparatuur. Ook komen er reparatievouchers, gefinancierd door producenten en importeurs (UPV)."
+    },
+    {
+      "promiseCode": "SGP-2025-163",
+      "text": "Het energiegebruik wordt verlaagd met een derde in de komende twee decennia.",
+      "summary": "Energiegebruik verlagen met één derde in twee decennia",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energiegebruik",
+        "verlaging",
+        "decennia",
+        "besparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 84-85",
+      "originalQuote": "We streven naar verlaging van ons energiegebruik, met een derde in de komende twee decennia."
+    },
+    {
+      "promiseCode": "SGP-2025-164",
+      "text": "Europese producteisen worden aangescherpt zodat producten langer meegaan, eenvoudig gerepareerd kunnen worden en een serieus aandeel recyclaat bevatten.",
+      "summary": "Aanscherping Europese producteisen voor duurzaamheid",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "producteisen",
+        "reparatie",
+        "recyclaat",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 85",
+      "originalQuote": "De SGP wil Europese producteisen zo aanscherpen dat producten en apparaten langer meegaan, eenvoudig gerepareerd of gedemonteerd kunnen worden en dat een serieus aandeel recyclaat in plaats van ruwe grondstoffen gebruikt wordt."
+    },
+    {
+      "promiseCode": "SGP-2025-165",
+      "text": "Er komt een heffing voor gebruik van plastic polymeren in producten die op onze markt komen.",
+      "summary": "Heffing op plastic polymeren in producten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "heffing",
+        "plastic",
+        "polymeren",
+        "producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 85",
+      "originalQuote": "Er komt een heffing voor gebruik van plastic polymeren in producten die op onze markt komen."
+    },
+    {
+      "promiseCode": "SGP-2025-166",
+      "text": "Goedkope ultra fast fashion worden uitgebannen door een fikse heffing op kledingstukken die maar kort meegaan.",
+      "summary": "Fikse heffing op kort meegaande kledingstukken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "heffing",
+        "kledingstukken",
+        "fast fashion"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 85",
+      "originalQuote": "Goedkope ultra fast fashion worden uitgebannen door een fikse heffing op kledingstukken die maar kort meegaan."
+    },
+    {
+      "promiseCode": "SGP-2025-167",
+      "text": "Het Rijk ondersteunt de bouw van tenminste twee grote kerncentrales, mede door via een Staatsdeelneming de financieringskosten sterk te verlagen.",
+      "summary": "Ondersteuning bouw van tenminste twee grote kerncentrales",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "staatsdeelneming",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 87",
+      "originalQuote": "Het Rijk ondersteunt de bouw van tenminste twee grote kerncentrales, mede door via een Staatsdeelneming de financieringskosten sterk te verlagen."
+    },
+    {
+      "promiseCode": "SGP-2025-168",
+      "text": "Er komt een stikstofvrijstelling voor procedures voor aanleg van trafo's en kabels om het elektriciteitsnet te versnellen.",
+      "summary": "Stikstofvrijstelling voor aanleg elektriciteitsnet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofvrijstelling",
+        "trafo",
+        "kabels",
+        "elektriciteitsnet"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 86",
+      "originalQuote": "De SGP wil versnelling van procedures voor aanleg van trafo's en kabels. Er komt hiervoor een stikstofvrijstelling."
+    },
+    {
+      "promiseCode": "SGP-2025-169",
+      "text": "De Volume Correctie Regeling voor industriële netkosten komt terug om de concurrentiepositie te behouden.",
+      "summary": "Terugkeer Volume Correctie Regeling voor industrie",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "volume correctie regeling",
+        "netkosten",
+        "industrie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 88",
+      "originalQuote": "Omliggende landen geven hun industrie nog steeds korting op de nettarieven. Die Volume Correctie Regeling komt hier ook terug."
+    },
+    {
+      "promiseCode": "SGP-2025-170",
+      "text": "Er komt een sociaal tarief, een maximum energieprijs, voor kwetsbare huishoudens.",
+      "summary": "Sociaal tarief en maximum energieprijs voor kwetsbaren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociaal tarief",
+        "maximum energieprijs",
+        "huishoudens"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 89",
+      "originalQuote": "De SGP wil een sociaal tarief, een maximum energieprijs, voor kwetsbare huishoudens."
+    },
+    {
+      "promiseCode": "SGP-2025-171",
+      "text": "Zakelijke leaserijders worden verplicht om te kiezen voor een emissieloze auto of een zuinige hybride.",
+      "summary": "Verplichting emissieloze auto's of hybrides voor zakelijke lease",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leaserijders",
+        "emissieloze auto",
+        "hybride",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 90",
+      "originalQuote": "Zakelijke leaserijders worden verplicht om te kiezen voor een emissieloze auto of, gelet op de problemen bij het verkrijgen van een netaansluiting voor laadpalen, voor een zuinige hybride."
+    },
+    {
+      "promiseCode": "SGP-2025-172",
+      "text": "Er komt een vrachtwagenheffing waarvan de inkomsten terugvloeien naar de sector voor verduurzaming.",
+      "summary": "Vrachtwagenheffing met terugvloei naar verduurzaming",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrachtwagenheffing",
+        "terugvloei",
+        "verduurzaming",
+        "transport"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 90",
+      "originalQuote": "Er komt een vrachtwagenheffing. De inkomsten vloeien terug naar de sector voor ondersteuning bij de ontwikkeling van en overstap naar elektrisch transport en het rijden op alternatieve brandstoffen."
+    },
+    {
+      "promiseCode": "SGP-2025-173",
+      "text": "Gebruik van schadelijke PFAS door de industrie wordt verboden.",
+      "summary": "Verbod op schadelijke PFAS in industrie",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pfas",
+        "verbod",
+        "industrie",
+        "schadelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 92",
+      "originalQuote": "Gebruik van schadelijke PFAS door de industrie wordt verboden."
+    },
+    {
+      "promiseCode": "SGP-2025-174",
+      "text": "Het toezicht op indirecte lozingen van bedrijven op oppervlaktewater gaat van gemeenten naar waterschappen.",
+      "summary": "Overdracht toezicht lozingen naar waterschappen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toezicht",
+        "lozingen",
+        "waterschappen",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 92",
+      "originalQuote": "Het toezicht op indirecte lozingen van bedrijven op het oppervlaktewater gaat van de gemeenten naar de waterschappen."
+    },
+    {
+      "promiseCode": "SGP-2025-175",
+      "text": "Overheid en bedrijfsleven maken afspraken in een langjarig, nationaal ondernemersakkoord over belastingklimaat, regeldruk, verduurzaming en financiering. De overheid committeert zich aan het aanpakken van knelpunten zoals netcongestie, arbeidskrapte en infrastructuur.",
+      "summary": "Langjarig nationaal ondernemersakkoord over belastingklimaat en regeldruk",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondernemersakkoord",
+        "belastingklimaat",
+        "regeldruk",
+        "netcongestie",
+        "arbeidskrapte"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 95-96",
+      "originalQuote": "Overheid en bedrijfsleven maken afspraken in een langjarig, nationaal ondernemersakkoord over onder meer belastingklimaat, regeldruk, verduurzaming en financiering. De overheid committeert zich op haar beurt aan het aanpakken van knelpunten, zoals netcongestie, arbeidskrapte en infrastructuur."
+    },
+    {
+      "promiseCode": "SGP-2025-176",
+      "text": "De bedrijfsopvolgingsregeling blijft behouden voor familiebedrijven die denken in generaties en niet in kwartalen.",
+      "summary": "Behoud bedrijfsopvolgingsregeling voor familiebedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijfsopvolgingsregeling",
+        "familiebedrijven",
+        "bedrijfsoverdracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 95-96",
+      "originalQuote": "Familiebedrijven denken in generaties en niet in kwartalen. Zij verdienen daarom onze steun. De bedrijfsopvolgingsregeling blijft behouden."
+    },
+    {
+      "promiseCode": "SGP-2025-177",
+      "text": "De winstbelasting voor het bedrijfsleven en de werkgeverslasten worden verlicht, vooral gericht op het mkb. Dit geldt specifiek voor familiebedrijven, ondernemingen in de maakindustrie en andere bedrijven die zorgen voor veel werkgelegenheid.",
+      "summary": "Verlaging winstbelasting en werkgeverslasten, vooral voor mkb",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstbelasting",
+        "werkgeverslasten",
+        "mkb",
+        "maakindustrie",
+        "werkgelegenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 95-96",
+      "originalQuote": "De winstbelasting voor het bedrijfsleven en de werkgeverslasten worden verlicht, vooral gericht op het mkb. Vaak zijn dit familiebedrijven, ondernemingen in de maakindustrie en andere bedrijven die zorgen voor veel werkgelegenheid."
+    },
+    {
+      "promiseCode": "SGP-2025-178",
+      "text": "De durfkapitaalregeling keert terug om het verstrekken van financiering aan startups en snelgroeiende bedrijven met veel potentie en een hoog risico te stimuleren.",
+      "summary": "Terugkeer durfkapitaalregeling voor startup-financiering",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "durfkapitaalregeling",
+        "startups",
+        "financiering",
+        "risicokapitaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 96-97",
+      "originalQuote": "De durfkapitaalregeling keert terug, zodat het verstrekken van financiering aan startups en snelgroeiende bedrijven met veel potentie en een hoog risico wordt gestimuleerd."
+    },
+    {
+      "promiseCode": "SGP-2025-179",
+      "text": "Er wordt een uitgebreide regelschrapoperatie uitgevoerd waarbij zeker een kwart van de regels verdwijnt.",
+      "summary": "Regelschrapoperatie: kwart van regels verdwijnt",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regelschrapoperatie",
+        "deregulering",
+        "administratieve",
+        "lastenverlichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 97-98",
+      "originalQuote": "Er komt een uitgebreide regelschrapoperatie waarbij zeker een kwart van de regels verdwijnt."
+    },
+    {
+      "promiseCode": "SGP-2025-180",
+      "text": "De lasten op arbeid worden verlaagd en de belastingen op consumptie verhoogd om werken lonender te maken. Er wordt meer belast naar gebruik.",
+      "summary": "Lagere arbeidslasten, hogere consumptiebelastingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidslasten",
+        "consumptiebelasting",
+        "belastingverschuiving",
+        "werken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98-99",
+      "originalQuote": "De SGP wil dat werken lonender wordt en dat er meer belast wordt naar gebruik. Daarom verlagen we de lasten op arbeid en verhogen we de belastingen op consumptie."
+    },
+    {
+      "promiseCode": "SGP-2025-181",
+      "text": "De vliegbelasting wordt verhoogd en het tarief wordt afhankelijk van de afstand. Tegelijkertijd wordt internationaal treinverkeer juist gestimuleerd.",
+      "summary": "Afstandsafhankelijke vliegbelasting, stimulering internationale trein",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegbelasting",
+        "afstand",
+        "treinverkeer",
+        "transport",
+        "mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98-99",
+      "originalQuote": "De vliegbelasting wordt verhoogd en het tarief wordt afhankelijk van de afstand. Tegelijkertijd wordt internationaal treinverkeer juist gestimuleerd."
+    },
+    {
+      "promiseCode": "SGP-2025-182",
+      "text": "De btw op het openbaar vervoer wordt afgeschaft.",
+      "summary": "Afschaffing btw openbaar vervoer",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw",
+        "openbaar",
+        "vervoer",
+        "belastingvrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98-99",
+      "originalQuote": "De btw op het openbaar vervoer wordt afgeschaft."
+    },
+    {
+      "promiseCode": "SGP-2025-183",
+      "text": "De belasting op vermogen (box 3) wordt gebaseerd op het daadwerkelijk behaalde rendement in plaats van een forfaitair rendement, met rekening houden met inflatie.",
+      "summary": "Box 3 gebaseerd op werkelijk rendement, rekening met inflatie",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vermogensbelasting",
+        "box3",
+        "rendement",
+        "inflatie",
+        "spaargeld"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 98-99",
+      "originalQuote": "De belasting op vermogen (box 3) wordt gebaseerd op het daadwerkelijk behaalde rendement. Door de lage rente is de huidige belastingdruk namelijk veel te hoog in relatie tot de opbrengst van bijvoorbeeld spaargeld en onroerend goed. We belasten het rendement als dat liquide is en houden zo veel mogelijk rekening met de inflatie."
+    },
+    {
+      "promiseCode": "SGP-2025-184",
+      "text": "Er komt een acceptatieplicht van contant geld zonder onnodige uitzonderingen. Een digitale euro is daarentegen niet nodig.",
+      "summary": "Acceptatieplicht contant geld, geen digitale euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "contant",
+        "geld",
+        "acceptatieplicht",
+        "digitale",
+        "euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 99-100",
+      "originalQuote": "Er komt, op initiatief van de SGP, reeds een acceptatieplicht van contant geld. Deze moet zo snel mogelijk ingevoerd worden, zonder onnodige uitzonderingen. Een digitale euro is daarentegen niet nodig."
+    },
+    {
+      "promiseCode": "SGP-2025-185",
+      "text": "Een fatsoenlijk bestaansminimum wordt gerealiseerd met een vierjaarlijkse herijking en een daling van kinderarmoede.",
+      "summary": "Fatsoenlijk bestaansminimum, vierjaarlijkse herijking, minder kinderarmoede",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bestaansminimum",
+        "kinderarmoede",
+        "herijking",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 100-101",
+      "originalQuote": "We maken werk van een fatsoenlijk bestaansminimum met een vierjaarlijkse herijking en een daling van kinderarmoede."
+    },
+    {
+      "promiseCode": "SGP-2025-186",
+      "text": "Er komt een sociaal tarief, een maximum energieprijs, voor kwetsbare huishoudens omdat energie een eerste levensbehoefte is.",
+      "summary": "Sociaal energietarief voor kwetsbare huishoudens",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energietarief",
+        "sociaal",
+        "maximum",
+        "kwetsbare",
+        "huishoudens"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 100-101",
+      "originalQuote": "Energie is een eerste levensbehoefte. De energiebelasting voor kleinverbruikers mag een prikkel zijn om zuinig aan te doen, maar moet huishoudens niet klemzetten. Er komt een sociaal tarief, een maximum energieprijs, voor kwetsbare huishoudens."
+    },
+    {
+      "promiseCode": "SGP-2025-187",
+      "text": "De verplichte loondoorbetaling bij ziekte wordt in een eerste stap verkort van twee naar anderhalf jaar.",
+      "summary": "Loondoorbetalingsplicht verkort naar anderhalf jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loondoorbetaling",
+        "ziekte",
+        "anderhalf",
+        "jaar",
+        "werkgever"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 101-102",
+      "originalQuote": "De verplichte loondoorbetaling bij ziekte wordt in een eerste stap verkort van twee naar anderhalf jaar."
+    },
+    {
+      "promiseCode": "SGP-2025-188",
+      "text": "De bijstand wordt stapsgewijs verhoogd en blijft gekoppeld aan het wettelijk minimumloon voor mensen die echt niet kunnen rondkomen.",
+      "summary": "Stapsgewijze verhoging bijstand, gekoppeld aan minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijstand",
+        "verhoging",
+        "minimumloon",
+        "koppeling",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 102-103",
+      "originalQuote": "Te veel mensen komen niet rond van een bijstandsuitkering. De bijstand wordt daarom stapsgewijs verhoogd en blijft gekoppeld aan het wettelijk minimumloon."
+    },
+    {
+      "promiseCode": "SGP-2025-189",
+      "text": "De duur van de werkloosheidsuitkering gaat naar één jaar, waarbij de opbouw van rechten over een langere periode verloopt en de uitkering hoger begint en trapsgewijs wordt afgebouwd.",
+      "summary": "Werkloosheidsuitkering naar één jaar, hogere start, trapsgewijze afbouw",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkloosheidsuitkering",
+        "jaar",
+        "opbouw",
+        "afbouw",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 102-103",
+      "originalQuote": "De werkloosheidsuitkering begint hoger en wordt trapsgewijs afgebouwd, zodat de inkomensval bij werkloosheid kleiner wordt. De duur van de werkloosheidsuitkering gaat naar één jaar, waarbij de opbouw van rechten over een langere periode verloopt."
+    },
+    {
+      "promiseCode": "SGP-2025-190",
+      "text": "Er wordt niet alleen binnenstedelijk, maar ook buitenstedelijk gebouwd. Tegelijk wordt als een goed rentmeester met de beschikbare ruimte omgegaan: verdichten als het kan, uitbreiden als het moet.",
+      "summary": "Bouwen binnen- en buitenstedelijk met zorgvuldig ruimtegebruik",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "binnenstedelijk",
+        "buitenstedelijk",
+        "verdichting",
+        "uitbreiding",
+        "rentmeesterschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 105",
+      "originalQuote": "Er wordt niet alleen binnenstedelijk, maar ook buitenstedelijk gebouwd. Tegelijk gaan we wel als een goed rentmeester met de beschikbare ruimte om. Verdichten als het kan, uitbreiden als het moet!"
+    },
+    {
+      "promiseCode": "SGP-2025-191",
+      "text": "Industrieel bouwen wordt aantrekkelijker gemaakt, bijvoorbeeld door keuringen te versimpelen en te werken met een landelijk keurmerk per type woning.",
+      "summary": "Stimuleren industrieel bouwen via versimpeling keuringen en landelijk keurmerk",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "industrieel bouwen",
+        "keuringen",
+        "versimpeling",
+        "landelijk keurmerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 105",
+      "originalQuote": "Industrieel bouwen wordt aantrekkelijker gemaakt. Bijvoorbeeld door de keuringen te versimpelen en door te werken met een landelijk keurmerk per type woning."
+    },
+    {
+      "promiseCode": "SGP-2025-192",
+      "text": "Er komt een stikstofvrijstelling voor woningbouwprojecten.",
+      "summary": "Invoering stikstofvrijstelling voor woningbouwprojecten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofvrijstelling",
+        "woningbouwprojecten",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 106",
+      "originalQuote": "Er komt een stikstofvrijstelling voor woningbouwprojecten."
+    },
+    {
+      "promiseCode": "SGP-2025-193",
+      "text": "De Rijksoverheid moet bijspringen met extra budget voor de bouw van sociale huurwoningen die meer urgentie verdient.",
+      "summary": "Extra rijksbudget voor sociale huurwoningenbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksbudget",
+        "sociale huurwoningen",
+        "urgentie",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 106",
+      "originalQuote": "Ook de bouw van sociale huurwoningen verdient meer urgentie. De Rijksoverheid moet bijspringen met extra budget."
+    },
+    {
+      "promiseCode": "SGP-2025-194",
+      "text": "Het alcoholslotprogramma wordt snel opnieuw ingevoerd voor aanpak van drank- en drugsrijders.",
+      "summary": "Herinvoering alcoholslotprogramma tegen drank- en drugsrijders",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "alcoholslot",
+        "programma",
+        "drank",
+        "drugs",
+        "rijders"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 110",
+      "originalQuote": "Drank- en drugsrijders worden hard aangepakt. Het alcoholslotprogramma wordt snel opnieuw ingevoerd."
+    },
+    {
+      "promiseCode": "SGP-2025-195",
+      "text": "Het openbaar vervoer wordt goedkoper door btw-vrijstelling, gratis ov voor kinderen tot 11 jaar en terugkeer van de jongerendagkaart.",
+      "summary": "Goedkoper openbaar vervoer via btw-vrijstelling en gratis ov voor kinderen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw-vrijstelling",
+        "openbaar vervoer",
+        "gratis",
+        "kinderen",
+        "jongerendagkaart"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 112",
+      "originalQuote": "Het ov wordt goedkoper door een btw-vrijstelling. De SGP wil verder gratis ov voor kinderen tot en met 11 jaar en terugkeer van de jongerendagkaart."
+    },
+    {
+      "promiseCode": "SGP-2025-196",
+      "text": "De vliegbelasting voor vluchten over lange afstand moet omhoog, met terugsluis naar de sector voor verduurzaming.",
+      "summary": "Hogere vliegbelasting lange afstand met terugsluis voor verduurzaming",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vliegbelasting",
+        "lange afstand",
+        "terugsluis",
+        "verduurzaming"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 113",
+      "originalQuote": "De vliegbelasting voor vluchten over lange afstand moet omhoog, met een terugsluis naar de sector voor ondersteuning bij verduurzaming."
+    },
+    {
+      "promiseCode": "SGP-2025-197",
+      "text": "Schiphol en andere luchthavens worden op zondag gesloten voor niet-noodzakelijke vluchten.",
+      "summary": "Zondag sluiting luchthavens voor niet-noodzakelijke vluchten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schiphol",
+        "luchthavens",
+        "zondag",
+        "sluiting",
+        "vluchten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 114",
+      "originalQuote": "Schiphol (en andere luchthavens) worden op zondag gesloten voor niet noodzakelijke vluchten."
+    },
+    {
+      "promiseCode": "SGP-2025-198",
+      "text": "De SGP is voor het invoeren van een vignet voor buitenlandse verkeersdeelnemers.",
+      "summary": "Invoering vignet voor buitenlandse verkeersdeelnemers",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vignet",
+        "buitenlandse",
+        "verkeersdeelnemers",
+        "invoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 111",
+      "originalQuote": "De SGP is voor het invoeren van een vignet voor buitenlandse verkeersdeelnemers."
+    },
+    {
+      "promiseCode": "SGP-2025-199",
+      "text": "Nederland beëindigt (Europese) subsidies aan organisaties die wereldwijd abortus promoten. Nederland voert geen feministisch buitenlandbeleid en verzet zich in internationale gremia tegen genderideologie.",
+      "summary": "Beëindigen subsidies aan organisaties die abortus promoten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "abortus",
+        "organisaties",
+        "buitenlandbeleid",
+        "genderideologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 116",
+      "originalQuote": "Nederland steunt hulporganisaties die het leven beschermen. (Europese) subsidies aan organisaties die wereldwijd abortus promoten, worden beëindigd. Nederland voert geen feministisch buitenlandbeleid en verzet zich in internationale gremia tegen genderideologie."
+    },
+    {
+      "promiseCode": "SGP-2025-200",
+      "text": "Nederland blijft Oekraïne steunen met geld, wapens, humanitaire en diplomatieke middelen. De sancties tegen Rusland blijven.",
+      "summary": "Oekraïne blijven steunen met geld, wapens en diplomatieke middelen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "oekraïne",
+        "steun",
+        "wapens",
+        "sancties",
+        "rusland"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 116",
+      "originalQuote": "Nederland blijft Oekraïne steunen met geld, wapens, humanitaire en diplomatieke middelen. De sancties tegen Rusland blijven."
+    },
+    {
+      "promiseCode": "SGP-2025-201",
+      "text": "De Iraanse Revolutionaire Garde komt op de Europese terreurlijst. Gerichte sancties blijven belangrijk om druk op het regime uit te oefenen.",
+      "summary": "Iraanse Revolutionaire Garde op Europese terreurlijst",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "iran",
+        "revolutionaire garde",
+        "terreurlijst",
+        "sancties",
+        "regime"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 116",
+      "originalQuote": "De Iraanse Revolutionaire Garde komt op de Europese terreurlijst. Gerichte sancties blijven belangrijk om druk op het regime uit te oefenen."
+    },
+    {
+      "promiseCode": "SGP-2025-202",
+      "text": "Nederland zet zich in voor een Europese Gezant godsdienstvrijheid.",
+      "summary": "Europese Gezant godsdienstvrijheid",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese gezant",
+        "godsdienstvrijheid",
+        "diplomatiek"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 118",
+      "originalQuote": "Nederland zet zich in voor een Europese Gezant godsdienstvrijheid."
+    },
+    {
+      "promiseCode": "SGP-2025-203",
+      "text": "Nederland koppelt de uitgaven voor ontwikkelingssamenwerking weer aan de groei van de economie. De SGP wil toewerken naar de besteding van 0,7% van ons nationale inkomen aan ontwikkelingssamenwerking.",
+      "summary": "0,7% van nationaal inkomen aan ontwikkelingssamenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "economische groei",
+        "0,7%",
+        "nationaal inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 119",
+      "originalQuote": "Zoals decennialang gebruikelijk was, koppelt Nederland de uitgaven voor ontwikkelingssamenwerking weer aan de groei van de economie. De SGP wil de drastische bezuinigingen van afgelopen jaren terugdraaien en toewerken naar de besteding van 0,7% van ons nationale inkomen aan ontwikkelingssamenwerking."
+    },
+    {
+      "promiseCode": "SGP-2025-204",
+      "text": "De kosten van asielopvang in Nederland moeten minder als ontwikkelingsuitgave worden meegerekend.",
+      "summary": "Asielopvangkosten minder als ontwikkelingsuitgave meetellen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielopvang",
+        "kosten",
+        "ontwikkelingsuitgave",
+        "meegerekend"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 119",
+      "originalQuote": "De kosten van asielopvang in Nederland moeten minder als ontwikkelingsuitgave worden meegerekend."
+    },
+    {
+      "promiseCode": "SGP-2025-205",
+      "text": "De term 'steeds hechter wordende Unie' wordt geschrapt uit EU-verdragen.",
+      "summary": "Schrappen term 'steeds hechter wordende Unie' uit EU-verdragen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-verdragen",
+        "steeds hechter wordende unie",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 121",
+      "originalQuote": "De term 'steeds hechter wordende Unie' wordt geschrapt."
+    },
+    {
+      "promiseCode": "SGP-2025-206",
+      "text": "Europese verdragen moeten met tweederde meerderheid worden goedgekeurd in beide Kamers der Staten-Generaal.",
+      "summary": "Tweederde meerderheid voor Europese verdragen in beide Kamers",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese verdragen",
+        "tweederde meerderheid",
+        "staten-generaal",
+        "goedkeuring"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 121",
+      "originalQuote": "Europese verdragen moeten met tweederde meerderheid worden goedgekeurd in beide Kamers der Staten-Generaal."
+    },
+    {
+      "promiseCode": "SGP-2025-207",
+      "text": "Nederland zet in op het beperken van het EU-meerjarenbegroting tot onder 1% van ons bruto binnenlands product (BBP) en minder Nederlandse afdrachten. De cohesiefondsen worden gehalveerd.",
+      "summary": "EU-begroting onder 1% BBP, cohesiefondsen halveren",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-begroting",
+        "1% bbp",
+        "nederlandse afdrachten",
+        "cohesiefondsen",
+        "halvering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 121",
+      "originalQuote": "Nederland zet in op het beperken van het EU-meerjarenbegroting tot onder 1% van ons bruto binnenlands product (BBP) en minder Nederlandse afdrachten. De cohesiefondsen worden gehalveerd."
+    },
+    {
+      "promiseCode": "SGP-2025-208",
+      "text": "De onderhandelingen met Turkije over EU-toetreding worden afgebroken.",
+      "summary": "Onderhandelingen EU-toetreding Turkije afbreken",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "turkije",
+        "eu-toetreding",
+        "onderhandelingen",
+        "afbreken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 122",
+      "originalQuote": "De onderhandelingen met Turkije over EU-toetreding worden afgebroken."
+    },
+    {
+      "promiseCode": "SGP-2025-209",
+      "text": "Nederland moet zich in de EU steviger inzetten voor het naleven van Europese begrotingsregels. De schuldnorm van 60% van het BBP en de tekortnorm van maximaal 3% van het BBP moeten nageleefd worden.",
+      "summary": "Naleven EU-begrotingsregels: schuldnorm 60% BBP, tekortnorm 3% BBP",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "begrotingsregels",
+        "schuldnorm",
+        "bbp",
+        "tekortnorm",
+        "eu"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 124-125",
+      "originalQuote": "De begrotingsregels, zoals de schuldnorm van 60% van het BBP en de tekortnorm van maximaal 3% van het BBP, moeten nageleefd worden zodat het financieel beleid degelijk en houdbaar is."
+    },
+    {
+      "promiseCode": "SGP-2025-210",
+      "text": "Er komen in Europees verband geen extra opkoopprogramma's, geen extra leningen en geen gemeenschappelijke schulden (eurobonds).",
+      "summary": "Geen EU-opkoopprogramma's, leningen of eurobonds",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opkoopprogramma",
+        "leningen",
+        "eurobonds",
+        "gemeenschappelijke schulden",
+        "eu"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 124-125",
+      "originalQuote": "Er komen daarnaast in Europees verband geen extra opkoopprogramma's, geen extra leningen en geen gemeenschappelijke schulden (eurobonds)."
+    },
+    {
+      "promiseCode": "SGP-2025-211",
+      "text": "Belastingen blijven een nationale aangelegenheid. De Europese Centrale Bank gaat zich weer richten op haar kerntaken: het bewaken van de prijsstabiliteit.",
+      "summary": "Belastingen nationaal houden, ECB focus op prijsstabiliteit",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingen",
+        "nationale aangelegenheid",
+        "ecb",
+        "prijsstabiliteit",
+        "kerntaken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 124-125",
+      "originalQuote": "Belastingen blijven een nationale aangelegenheid. De Europese Centrale Bank gaat zich weer richten op haar kerntaken: het bewaken van de prijsstabiliteit."
+    },
+    {
+      "promiseCode": "SGP-2025-212",
+      "text": "De SGP kijkt kritisch naar de uitgaven aan (onnodige) zorg, sociale zekerheid en de uitgaven bij de overheid zelf. Ook verhogen we de belastingen op milieu.",
+      "summary": "Kritisch naar zorg/sociale uitgaven, verhogen milieubelastingen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidsuitgaven",
+        "zorguitgaven",
+        "sociale zekerheid",
+        "milieubelastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2025, p. 124-125",
+      "originalQuote": "De SGP kijkt daarom kritisch naar de uitgaven aan (onnodige) zorg, sociale zekerheid en de uitgaven bij de overheid zelf. Ook verhogen we de belastingen op milieu."
+    }
+  ]
+}

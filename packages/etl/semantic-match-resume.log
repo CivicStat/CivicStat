@@ -1,0 +1,160 @@
+🚀 CIVICSTAT ETL - Tweede Kamer Data Ingest
+==========================================
+
+[LANGFUSE] Tracing enabled
+
+═══════════════════════════════════════════════════════
+  SEMANTIC MATCHING — CivicStat
+═══════════════════════════════════════════════════════
+  Provider: openrouter (https://openrouter.ai/api/v1)
+  Model:    claude-sonnet-4
+  Method:   semantic-claude (semantic-claude-v1)
+  Party:    all
+  Limit:    all
+  Parallel: 20 promises concurrently
+  Dry run:  false
+  Resume:   true (1511 already processed)
+═══════════════════════════════════════════════════════
+
+[15:43:33] Found 4820 total promises, 3309 to process (1511 already done)
+
+[15:43:33] Processing with concurrency=20
+
+[15:48:08] Progress: 1561/4820 (32.4%) | Matches: 19291 | E:18 I:694 C:17 | Errors: 0 | API: 292 | ETA: ~4h 58m
+[15:51:46] Progress: 1611/4820 (33.4%) | Matches: 20229 | E:62 I:1557 C:48 | Errors: 0 | API: 530 | ETA: ~4h 23m
+[15:55:43] Progress: 1661/4820 (34.5%) | Matches: 21157 | E:99 I:2382 C:114 | Errors: 0 | API: 788 | ETA: ~4h 16m
+    [ERROR] AI API call failed for Volt-2025-248 batch 0: Unexpected end of JSON input
+    [RETRY] API 500 (OpenRouter API error 500: {"error":{"message":"Internal Server Error","code":500), attempt 1/3, waiting 4000ms...
+[15:59:28] Progress: 1711/4820 (35.5%) | Matches: 22055 | E:136 I:3159 C:198 | Errors: 1 | API: 1029 | ETA: ~4h 7m
+[16:03:35] Progress: 1761/4820 (36.5%) | Matches: 23053 | E:196 I:4030 C:265 | Errors: 1 | API: 1296 | ETA: ~4h 5m
+[16:07:16] Progress: 1811/4820 (37.6%) | Matches: 24053 | E:251 I:4885 C:355 | Errors: 1 | API: 1532 | ETA: ~3h 57m
+[16:11:07] Progress: 1861/4820 (38.6%) | Matches: 24931 | E:290 I:5645 C:434 | Errors: 1 | API: 1783 | ETA: ~3h 52m
+[16:15:03] Progress: 1911/4820 (39.6%) | Matches: 25867 | E:350 I:6469 C:486 | Errors: 1 | API: 2041 | ETA: ~3h 49m
+[16:18:44] Progress: 1961/4820 (40.7%) | Matches: 26756 | E:397 I:7252 C:545 | Errors: 1 | API: 2284 | ETA: ~3h 43m
+    [RETRY] API 500 (OpenRouter API error 500: {"error":{"message":"Internal Server Error","code":500), attempt 1/3, waiting 4000ms...
+[16:22:48] Progress: 2011/4820 (41.7%) | Matches: 27626 | E:436 I:8052 C:576 | Errors: 1 | API: 2552 | ETA: ~3h 40m
+[16:26:24] Progress: 2061/4820 (42.8%) | Matches: 28569 | E:476 I:8923 C:608 | Errors: 1 | API: 2785 | ETA: ~3h 34m
+    [WARN] Failed to parse Claude response as JSON: Unterminated string in JSON at position 3047 (line 91 column 46)
+    [WARN] Response preview: [
+  {
+    "motionIndex": 0,
+    "matchType": "NO_MATCH",
+    "confidence": 0.9,
+    "predictedDirection": "VOOR",
+    "matchReason": "Motie over veiligheid hulpverleners heeft geen verband met deepfak...
+[16:30:23] Progress: 2111/4820 (43.8%) | Matches: 29505 | E:515 I:9726 C:702 | Errors: 1 | API: 3042 | ETA: ~3h 31m
+[16:34:02] Progress: 2161/4820 (44.8%) | Matches: 30340 | E:566 I:10479 C:733 | Errors: 1 | API: 3281 | ETA: ~3h 26m
+[16:37:54] Progress: 2211/4820 (45.9%) | Matches: 31310 | E:606 I:11358 C:784 | Errors: 1 | API: 3530 | ETA: ~3h 22m
+[16:42:00] Progress: 2261/4820 (46.9%) | Matches: 32355 | E:681 I:12277 C:835 | Errors: 1 | API: 3795 | ETA: ~3h 19m
+[16:45:52] Progress: 2311/4820 (47.9%) | Matches: 33448 | E:740 I:13263 C:883 | Errors: 1 | API: 4043 | ETA: ~3h 15m
+[16:49:40] Progress: 2361/4820 (49.0%) | Matches: 34427 | E:785 I:14155 C:925 | Errors: 1 | API: 4287 | ETA: ~3h 11m
+[16:53:25] Progress: 2411/4820 (50.0%) | Matches: 35138 | E:805 I:14831 C:940 | Errors: 1 | API: 4538 | ETA: ~3h 7m
+[16:57:18] Progress: 2461/4820 (51.1%) | Matches: 35989 | E:859 I:15594 C:974 | Errors: 1 | API: 4787 | ETA: ~3h 3m
+[17:01:16] Progress: 2511/4820 (52.1%) | Matches: 36934 | E:907 I:16458 C:1007 | Errors: 1 | API: 5045 | ETA: ~2h 59m
+[17:04:48] Progress: 2561/4820 (53.1%) | Matches: 38040 | E:957 I:17433 C:1088 | Errors: 1 | API: 5272 | ETA: ~2h 54m
+[17:08:57] Progress: 2611/4820 (54.2%) | Matches: 38938 | E:991 I:18244 C:1141 | Errors: 1 | API: 5540 | ETA: ~2h 51m
+[17:12:47] Progress: 2661/4820 (55.2%) | Matches: 39827 | E:1032 I:19037 C:1196 | Errors: 1 | API: 5792 | ETA: ~2h 47m
+[17:16:37] Progress: 2711/4820 (56.2%) | Matches: 40657 | E:1096 I:19736 C:1263 | Errors: 1 | API: 6041 | ETA: ~2h 43m
+[17:20:23] Progress: 2761/4820 (57.3%) | Matches: 41590 | E:1127 I:20514 C:1387 | Errors: 1 | API: 6284 | ETA: ~2h 39m
+[17:24:11] Progress: 2811/4820 (58.3%) | Matches: 42609 | E:1171 I:21444 C:1432 | Errors: 1 | API: 6529 | ETA: ~2h 35m
+    [ERROR] Upsert failed for promise=6e5b82ba-8928-4b59-97ee-0b4aedb5758a motion=09b174a8-832b-4bdf-a9dc-d657ce8c7596: 
+Invalid `prisma.promiseMotionMatch.upsert()` invocation in
+/Users/koenbekkering/Documents/New project/packages/etl/src/matching/semantic-matcher.ts:583:41
+
+  580 // Upsert matches to DB
+  581 for (const match of matchResults) {
+  582   try {
+→ 583     await prisma.promiseMotionMatch.upsert(
+Server has closed the connection.
+    [ERROR] Upsert failed for promise=6e5b82ba-8928-4b59-97ee-0b4aedb5758a motion=0a49907f-4ab5-40d7-80cc-2e57d1eae1bf: 
+Invalid `prisma.promiseMotionMatch.upsert()` invocation in
+/Users/koenbekkering/Documents/New project/packages/etl/src/matching/semantic-matcher.ts:583:41
+
+  580 // Upsert matches to DB
+  581 for (const match of matchResults) {
+  582   try {
+→ 583     await prisma.promiseMotionMatch.upsert(
+Server has closed the connection.
+    [ERROR] AI API call failed for SP-2025-032 batch 16: terminated
+    [ERROR] AI API call failed for PvdD-2025-198 batch 64: terminated
+    [ERROR] AI API call failed for Volt-2025-035 batch 48: terminated
+    [ERROR] AI API call failed for PVV-2025-171 batch 64: terminated
+    [ERROR] AI API call failed for PvdD-2025-094 batch 48: terminated
+    [ERROR] AI API call failed for Volt-2025-543 batch 64: terminated
+    [ERROR] AI API call failed for SP-2025-134 batch 48: terminated
+    [ERROR] AI API call failed for NSC-2025-060 batch 16: terminated
+    [ERROR] AI API call failed for DENK-2025-063 batch 16: terminated
+    [ERROR] AI API call failed for PvdD-2025-205 batch 32: terminated
+    [ERROR] AI API call failed for PVV-2025-134 batch 64: terminated
+    [ERROR] AI API call failed for D66-2025-095 batch 16: terminated
+    [ERROR] AI API call failed for NSC-2025-152 batch 32: terminated
+    [ERROR] AI API call failed for SP-2025-065 batch 48: terminated
+    [ERROR] AI API call failed for D66-2025-004 batch 16: terminated
+    [ERROR] AI API call failed for CU-2025-060 batch 64: terminated
+    [ERROR] AI API call failed for Volt-2025-437 batch 16: terminated
+    [ERROR] AI API call failed for CU-2023-079 batch 48: terminated
+    [ERROR] AI API call failed for BBB-2025-147 batch 0: fetch failed
+[17:40:26] Progress: 2861/4820 (59.4%) | Matches: 43541 | E:1230 I:22285 C:1464 | Errors: 20 | API: 6777 | ETA: ~2h 49m
+    [ERROR] AI API call failed for BBB-2025-202 batch 32: terminated
+[17:44:07] Progress: 2911/4820 (60.4%) | Matches: 44545 | E:1278 I:23201 C:1504 | Errors: 21 | API: 7015 | ETA: ~2h 44m
+[17:48:11] Progress: 2961/4820 (61.4%) | Matches: 45383 | E:1326 I:23962 C:1533 | Errors: 21 | API: 7277 | ETA: ~2h 39m
+[17:51:59] Progress: 3011/4820 (62.5%) | Matches: 46298 | E:1366 I:24775 C:1595 | Errors: 21 | API: 7519 | ETA: ~2h 34m
+[17:55:53] Progress: 3061/4820 (63.5%) | Matches: 47180 | E:1424 I:25550 C:1644 | Errors: 21 | API: 7773 | ETA: ~2h 30m
+[17:59:34] Progress: 3111/4820 (64.5%) | Matches: 47987 | E:1466 I:26279 C:1680 | Errors: 21 | API: 8010 | ETA: ~2h 25m
+[18:03:43] Progress: 3161/4820 (65.6%) | Matches: 48981 | E:1525 I:27194 C:1700 | Errors: 21 | API: 8275 | ETA: ~2h 20m
+[18:07:17] Progress: 3211/4820 (66.6%) | Matches: 49957 | E:1554 I:28107 C:1734 | Errors: 21 | API: 8507 | ETA: ~2h 16m
+[18:11:15] Progress: 3261/4820 (67.7%) | Matches: 50927 | E:1599 I:28980 C:1786 | Errors: 21 | API: 8766 | ETA: ~2h 11m
+[18:15:06] Progress: 3311/4820 (68.7%) | Matches: 51687 | E:1636 I:29675 C:1814 | Errors: 21 | API: 9023 | ETA: ~2h 7m
+[18:18:54] Progress: 3361/4820 (69.7%) | Matches: 52740 | E:1676 I:30642 C:1860 | Errors: 21 | API: 9268 | ETA: ~2h 2m
+[18:22:38] Progress: 3411/4820 (70.8%) | Matches: 53569 | E:1744 I:31377 C:1886 | Errors: 21 | API: 9510 | ETA: ~1h 57m
+    [ERROR] AI API call failed for PvdD-2025-282 batch 16: OpenRouter API error 400: {"error":{"message":"timeout","code":400},"user_id":"user_39hzRLw5I3HTQwFULc1Srl4KHFw"}
+[18:26:41] Progress: 3461/4820 (71.8%) | Matches: 54381 | E:1786 I:32111 C:1922 | Errors: 22 | API: 9777 | ETA: ~1h 53m
+[18:30:17] Progress: 3511/4820 (72.8%) | Matches: 55346 | E:1829 I:32997 C:1958 | Errors: 22 | API: 10004 | ETA: ~1h 49m
+[18:34:24] Progress: 3561/4820 (73.9%) | Matches: 56162 | E:1868 I:33749 C:1983 | Errors: 22 | API: 10277 | ETA: ~1h 44m
+[18:38:02] Progress: 3611/4820 (74.9%) | Matches: 57094 | E:1914 I:34594 C:2024 | Errors: 22 | API: 10513 | ETA: ~1h 40m
+[18:42:06] Progress: 3661/4820 (76.0%) | Matches: 57970 | E:1982 I:35361 C:2065 | Errors: 22 | API: 10776 | ETA: ~1h 36m
+[18:45:54] Progress: 3711/4820 (77.0%) | Matches: 58889 | E:1997 I:36220 C:2110 | Errors: 22 | API: 11022 | ETA: ~1h 31m
+[18:49:41] Progress: 3761/4820 (78.0%) | Matches: 59835 | E:2040 I:37085 C:2148 | Errors: 22 | API: 11271 | ETA: ~1h 27m
+[18:53:22] Progress: 3811/4820 (79.1%) | Matches: 60672 | E:2083 I:37827 C:2200 | Errors: 22 | API: 11512 | ETA: ~1h 23m
+[18:57:16] Progress: 3861/4820 (80.1%) | Matches: 61584 | E:2141 I:38604 C:2277 | Errors: 22 | API: 11766 | ETA: ~1h 19m
+[19:01:02] Progress: 3911/4820 (81.1%) | Matches: 62502 | E:2179 I:39418 C:2343 | Errors: 22 | API: 12009 | ETA: ~1h 14m
+[19:05:09] Progress: 3961/4820 (82.2%) | Matches: 63428 | E:2218 I:40279 C:2369 | Errors: 22 | API: 12278 | ETA: ~1h 10m
+[19:08:42] Progress: 4011/4820 (83.2%) | Matches: 64237 | E:2255 I:41004 C:2416 | Errors: 22 | API: 12511 | ETA: ~1h 6m
+[19:12:40] Progress: 4061/4820 (84.3%) | Matches: 65138 | E:2300 I:41828 C:2448 | Errors: 22 | API: 12766 | ETA: ~1h 2m
+    [RETRY] API 500 (OpenRouter API error 500: {"error":{"message":"Internal Server Error","code":500), attempt 1/3, waiting 4000ms...
+[19:16:32] Progress: 4111/4820 (85.3%) | Matches: 66102 | E:2357 I:42714 C:2469 | Errors: 22 | API: 13014 | ETA: ~58m
+[19:20:27] Progress: 4161/4820 (86.3%) | Matches: 67086 | E:2393 I:43606 C:2525 | Errors: 22 | API: 13265 | ETA: ~53m
+[19:24:19] Progress: 4211/4820 (87.4%) | Matches: 68151 | E:2439 I:44581 C:2569 | Errors: 22 | API: 13510 | ETA: ~49m
+[19:28:21] Progress: 4261/4820 (88.4%) | Matches: 69086 | E:2488 I:45410 C:2626 | Errors: 22 | API: 13773 | ETA: ~45m
+[19:31:58] Progress: 4311/4820 (89.4%) | Matches: 70008 | E:2534 I:46239 C:2673 | Errors: 22 | API: 14008 | ETA: ~41m
+    [ERROR] AI API call failed for Volt-2025-354 batch 0: Unexpected end of JSON input
+[19:36:13] Progress: 4361/4820 (90.5%) | Matches: 70914 | E:2575 I:47072 C:2705 | Errors: 23 | API: 14281 | ETA: ~37m
+[19:39:47] Progress: 4411/4820 (91.5%) | Matches: 71769 | E:2612 I:47855 C:2740 | Errors: 23 | API: 14515 | ETA: ~33m
+    [RETRY] API 500 (OpenRouter API error 500: {"error":{"message":"Internal Server Error","code":500), attempt 1/3, waiting 4000ms...
+[19:43:51] Progress: 4461/4820 (92.6%) | Matches: 72690 | E:2643 I:48716 C:2769 | Errors: 23 | API: 14779 | ETA: ~29m
+[19:47:22] Progress: 4511/4820 (93.6%) | Matches: 73517 | E:2681 I:49432 C:2842 | Errors: 23 | API: 15010 | ETA: ~25m
+[19:51:19] Progress: 4561/4820 (94.6%) | Matches: 74505 | E:2741 I:50283 C:2919 | Errors: 23 | API: 15263 | ETA: ~21m
+[19:55:14] Progress: 4611/4820 (95.7%) | Matches: 75434 | E:2790 I:51104 C:2978 | Errors: 23 | API: 15519 | ETA: ~16m
+[19:59:05] Progress: 4661/4820 (96.7%) | Matches: 76381 | E:2849 I:51906 C:3064 | Errors: 23 | API: 15770 | ETA: ~12m
+[20:03:01] Progress: 4711/4820 (97.7%) | Matches: 77204 | E:2918 I:52614 C:3110 | Errors: 23 | API: 16024 | ETA: ~8m
+[20:06:48] Progress: 4761/4820 (98.8%) | Matches: 78127 | E:2968 I:53436 C:3161 | Errors: 23 | API: 16266 | ETA: ~4m
+[20:10:42] Progress: 4811/4820 (99.8%) | Matches: 79009 | E:3008 I:54244 C:3195 | Errors: 23 | API: 16515 | ETA: ~0m
+
+═══ Semantic Matching Complete ═══
+  Total promises processed:  4,820
+  Promises skipped (already): 0
+  Promises with 0 matches:   37
+  Total candidates evaluated: 264,720
+  Total new matches created:  79,211
+    EXPLICIT:    3,018 (3.8%)
+    IMPLICIT:    54,419 (68.7%)
+    CONTRADICTS: 3,212 (4.1%)
+  Average matches/promise:   16.4
+  Model:                     claude-sonnet-4 via openrouter
+  API calls made:            16,522
+  Errors (logged):           23
+  Session duration:          4h 27m
+  Checkpoint file:           /Users/koenbekkering/Documents/New project/packages/etl/data/semantic-progress.json
+═════════════════════════════════
+
+[LANGFUSE] Traces flushed and client shut down

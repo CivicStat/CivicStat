@@ -1,0 +1,1684 @@
+{
+  "party": "GroenLinks-PvdA",
+  "partySlug": "groenlinks-pvda",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Verkiezingsprogramma GroenLinks-PvdA Den Haag 2026",
+  "electionYear": 2026,
+  "sourceFile": "groenlinks_den-haag_2026.pdf",
+  "extractedAt": "2026-03-03T12:38:47.396Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "Bouwen van nieuwe woningen volgens betaalbaarheidsnorm van minstens 50% sociale huur, 20% goedkope middenhuur en 20% reguliere middenhuur of betaalbare koop.",
+      "originalText": "Alle nieuwe projecten krijgen een betaalbaarheidsnorm van minstens 50% sociale huur, 20% goedkope middenhuur en 20% reguliere middenhuur of betaalbare koop. We pakken maximaal de regie om dat te realiseren.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "sociale huur",
+        "middenhuur",
+        "betaalbaarheidsnorm",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Invoeren van een hotelstop zolang de wooncrisis niet is opgelost.",
+      "originalText": "We kiezen voor woningen, niet voor hotelkamers. Zolang de wooncrisis niet is opgelost, willen wij een hotelstop.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotelstop",
+        "wooncrisis",
+        "woningen"
+      ]
+    },
+    {
+      "text": "Oprichten van een fonds betaalbaar wonen van 150 miljoen euro om grond en leegstaande panden te kopen voor betaalbare woningbouw.",
+      "originalText": "We pakken het voortouw in de strijd tegen de wooncrisis dankzij een fonds betaalbaar wonen van 150 miljoen euro. Hiermee kopen we als gemeente actief grond en leegstaande panden en transformeren deze om zo de productie van betaalbare woningen te versnellen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "fonds",
+        "150 miljoen",
+        "grond",
+        "leegstand",
+        "betaalbare woningen"
+      ]
+    },
+    {
+      "text": "Actief grondbeleid voeren door strategisch grond opkopen en leegstaande gebouwen transformeren.",
+      "originalText": "De gemeente gaat voor actief grondbeleid. We kopen grond strategisch op, transformeren leegstaande gebouwen, en pakken speculatie aan. Zo kunnen we sneller bouwen, houden we woningen betaalbaar en krijgen we een sterkere onderhandelingspositie.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "actief grondbeleid",
+        "grond",
+        "leegstand",
+        "transformatie",
+        "speculatie"
+      ]
+    },
+    {
+      "text": "Betaalbare woningen eerlijker over de stad verspreiden door extra sociale huur in dure wijken te bouwen.",
+      "originalText": "We pakken de Haagse tweedeling tussen zand en veen aan door betaalbare woningen eerlijker over de stad te verspreiden. In dure wijken bouwen we daarom extra sociale huur. De gemeente zorgt er proactief voor dat er genoeg projecten in dure wijken van de grond komen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sociale huur",
+        "dure wijken",
+        "verspreiding",
+        "tweedeling"
+      ]
+    },
+    {
+      "text": "Versnellen toekenning van vergunningen door versterking van ambtelijke capaciteit om belemmeringen voor woningbouw aan te pakken.",
+      "originalText": "Waar mogelijk versnellen we de toekenning van vergunningen dankzij het versterken van ambtelijke capaciteit. We pakken de uitstoot van stikstof aan en stellen ons voor voorspelbaar en betrouwbaar op richting ontwikkelaars. Zo pakken we belemmeringen voor woningbouw aan.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vergunningen",
+        "ambtelijke capaciteit",
+        "woningbouw"
+      ]
+    },
+    {
+      "text": "Nieuwbouw wordt grotendeels geconcentreerd in Zuid-West, rondom stations en in de Binckhorst. Hoogbouw boven 100 meter alleen bij stations en Binckhorst.",
+      "originalText": "Nieuwbouw wordt grotendeels geconcentreerd in Zuid-West, rondom de stations, en in de Binckhorst, maar als er eventuele kansen zijn elders in de stad, benutten we die ook. Hoogbouw boven 100 meter bouwen we alleen bij de stations en in de Binckhorst.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "nieuwbouw",
+        "zuid-west",
+        "hoogbouw",
+        "100 meter"
+      ]
+    },
+    {
+      "text": "Den Haag krijgt een leegstandsverordening en we gaan hard handhaven en beboeten op leegstand van woningen.",
+      "originalText": "We pakken leegstand hard aan door pandeigenaren die de problemen in stand houden in de portemonnee te raken. Dankzij GroenLinks-PvdA krijgt Den Haag eindelijk een leegstandsverordening. We gaan hard handhaven en beboeten op leegstand.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leegstandsverordening",
+        "handhaven",
+        "beboeten",
+        "leegstand"
+      ]
+    },
+    {
+      "text": "Invoering van leegstandsbelasting in Den Haag.",
+      "originalText": "De leegstandsbelasting, die er dankzij de Tweede Kamerfractie van GroenLinks-PvdA komt, introduceren we ook in Den Haag.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leegstandsbelasting",
+        "invoering"
+      ]
+    },
+    {
+      "text": "Hotelstop invoeren, verhuur via AirBnB verder aan banden leggen en geen vergunningen meer voor short stay appartementen zolang wooncrisis niet is opgelost.",
+      "originalText": "Daarom kiezen we voor een hotelstop, leggen we verhuur via AirBnB nog verder aan banden en geven we geen vergunningen meer uit voor de bouw van short stay appartementen zolang de wooncrisis niet is opgelost.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hotelstop",
+        "airbnb",
+        "short stay",
+        "vergunningen"
+      ]
+    },
+    {
+      "text": "Bij sloop van sociale huurwoningen 70% instemming van huurders vragen, net als bij renovatie.",
+      "originalText": "We spreken in het sociaal statuut af dat er bij sloop, net als bij renovatie, 70% instemming van huurders wordt gevraagd. Zo voorkomen we dat woningcorporaties voor sloop kiezen als weg van de minste weerstand.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "sloop",
+        "70% instemming",
+        "huurders",
+        "sociaal statuut"
+      ]
+    },
+    {
+      "text": "Uitbreiden van woonwagenplaatsen voortzetten na jaren van uitsterfbeleid.",
+      "originalText": "Na jaren van een uitsterfbeleid zijn we gestart met het uitbreiden van woonwagenplaatsen. Daar gaan we mee door.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonwagenplaatsen",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Uitbannen van dakloosheid in 2030.",
+      "originalText": "Dakloosheid is allereerst een woonprobleem. Daarom pakken we het ook aan als woonprobleem en gaan we vol voor het uitbannen van dakloosheid in 2030",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "dakloosheid",
+        "uitbannen",
+        "2030"
+      ]
+    },
+    {
+      "text": "Verdubbelen van convenantwoningen voor dakloze mensen en jongeren uit de jeugdzorg.",
+      "originalText": "Dankzij GroenLinks-PvdA zet Den Haag nu al in op het verdubbelen van dit soort woningen (convenantwoningen). Er moet echter nog veel gebeuren om dit ook in de praktijk te brengen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "verdubbelen",
+        "convenantwoningen",
+        "dakloze mensen",
+        "jeugdzorg"
+      ]
+    },
+    {
+      "text": "Stoppen met het beboeten van dakloze mensen en schrappen van de boete op buitenslapen.",
+      "originalText": "Boetes voor buitenslapen, wildplassen en vervuiling raken dakloze mensen, en brengen ze alleen maar verder in de problemen. Daarom stoppen we met het beboeten van dakloze mensen, en schrappen de boete op buitenslapen in het geheel.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "beboeten",
+        "dakloze mensen",
+        "buitenslapen",
+        "schrappen"
+      ]
+    },
+    {
+      "text": "Uitbreiden van de Haagse pandbrigade voor meer controle en handhaving op hoge huren, intimidatie en slechte woonkwaliteit.",
+      "originalText": "Daarom pakken we hun misstanden hard aan. We breiden de Haagse pandbrigade verder uit, zodat zij nog meer kunnen controleren en handhaven op hoge huren, intimidatie, discriminatie en slechte woonkwaliteit.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pandbrigade",
+        "uitbreiden",
+        "handhaving",
+        "hoge huren"
+      ]
+    },
+    {
+      "text": "Uitbreiden van verplichte verhuurvergunning naar meer wijken om huisjesmelkers te weren.",
+      "originalText": "We breiden de verplichte verhuurvergunning uit naar meer wijken, zodat we huisjesmelkers uit die wijken kunnen weren.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verhuurvergunning",
+        "uitbreiden",
+        "wijken",
+        "huisjesmelkers"
+      ]
+    },
+    {
+      "text": "Vergroten van het Haagse Proceskostenfonds om huurders financieel te ondersteunen bij geschillen met verhuurders.",
+      "originalText": "Vergroten we het Haagse Proceskostenfonds om huurders in sociale en middeldure huurwoningen financieel te ondersteunen wanneer ze geschillen hebben met hun verhuurder. Hiermee verlagen we de drempel voor huurders om hun recht te halen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "proceskostenfonds",
+        "vergroten",
+        "huurders",
+        "geschillen"
+      ]
+    },
+    {
+      "text": "Een vocht- en schimmeloffensief waarbij binnen twee weken een expert naar woningen met schimmel komt kijken en maatregelen kan afdwingen bij verhuurders.",
+      "originalText": "GroenLinks-PvdA komt met een vocht- en schimmeloffensief. Als je schimmel hebt, komt binnen twee weken een onafhankelijke expert naar je woning kijken die maatregelen kan afdingen bij de verhuurder. We brengen de complexen met de meeste schimmel in kaart en zorgen er via de prestatieafspraken voor dat woningcorporaties deze met prioriteit aanpakken.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "schimmel",
+        "expert",
+        "verhuurder",
+        "twee weken",
+        "vocht"
+      ]
+    },
+    {
+      "text": "In de komende periode minstens 60.000 woningen isoleren om huizen te verduurzamen en woonlasten direct te verlagen.",
+      "originalText": "Isolatie is de beste manier om huizen te verduurzamen én woonlasten direct te verlagen. Daarom zetten we vol in op het isoleren van woningen. We versnellen de aanpak verder en willen in de komende periode minstens 60.000 woningen isoleren.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "isoleren",
+        "60000",
+        "woningen",
+        "verduurzamen",
+        "woonlasten"
+      ]
+    },
+    {
+      "text": "Winkelcentrum Leyweg omvormen tot het tweede centrum van Den Haag met nieuwe faciliteiten zoals een bioscoop, sportschool, cultuur en evenementen.",
+      "originalText": "We vormen winkelcentrum Leyweg om tot het tweede centrum van Den Haag dat over veel meer gaat dan alleen winkels en horeca. Leyweg wordt dé plek waar voorzieningen en nieuwe faciliteiten zoals een bioscoop, een sportschool, cultuur en evenementen samenkomen.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leyweg",
+        "winkelcentrum",
+        "bioscoop",
+        "sportschool",
+        "cultuur"
+      ]
+    },
+    {
+      "text": "Een Haags Publiek Warmtebedrijf oprichten voor duurzame en betaalbare energie en op termijn de bestaande Eneconetten opkopen.",
+      "originalText": "Dankzij GroenLinks-PvdA werkt Den Haag aan het oprichten van een Haags publiek warmtebedrijf. Daarmee maken we van warmte weer een nutsfunctie waarin duurzaamheid en betaalbaarheid centraal staan en bewaken we belangen van bewoners. We kopen (mede dankzij betrokkenheid van EBN, een staatsbedrijf) op termijn de bestaande Eneconetten op, zodat alle Haagse netten in handen komen van het gemeentelijke bedrijf en we zo echt regie kunnen voeren.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "warmtebedrijf",
+        "publiek",
+        "eneco",
+        "opkopen",
+        "gemeentelijk"
+      ]
+    },
+    {
+      "text": "Op alle geschikte gemeentelijke daken voor 2030 zonnepanelen leggen of deze anders benutten voor vergroening of klimaatadaptie.",
+      "originalText": "Op alle geschikte gemeentelijke daken liggen voor 2030 zonnepanelen, of zij worden op een andere manier benut voor vergroening of klimaatadaptie. Als het kan doen we dat samen met een lokale energiecoöperatie.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zonnepanelen",
+        "2030",
+        "gemeentelijke daken",
+        "vergroening",
+        "klimaatadaptie"
+      ]
+    },
+    {
+      "text": "Inwoners van Den Haag die voor het eerst een huis kopen krijgen een gratis warmtescan.",
+      "originalText": "Inwoners van Den Haag die voor het eerst een huis kopen krijgen een gratis warmtescan.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gratis",
+        "warmtescan",
+        "eerste huis",
+        "starters",
+        "kopers"
+      ]
+    },
+    {
+      "text": "In de komende vier jaar minimaal 60.000 huizen isoleren met extra financiële ondersteuning voor mensen die het minder breed hebben.",
+      "originalText": "We willen nog meer tempo met de isolatie aanpak: in de komende vier jaar worden minimaal 60.000 huizen geïsoleerd. Financiële ondersteuning, bijvoorbeeld via subsidies en kortingsacties, zetten we door. We hebben extra oog voor Hagenaars die het minder breed hebben, bijvoorbeeld door het blijven aanbieden van isolatievouchers.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "isoleren",
+        "60000",
+        "vier jaar",
+        "subsidies",
+        "isolatievouchers"
+      ]
+    },
+    {
+      "text": "Den Haag plant de komende jaren 10.000 nieuwe bomen, vooral in wijken waar nu weinig groen is.",
+      "originalText": "De komende jaren planten we 10.000 nieuwe bomen, vooral in wijken waar nu weinig groen is. Bomen zijn onmisbaar voor schaduw, schone lucht en biodiversiteit.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bomen",
+        "planten",
+        "groen",
+        "wijken"
+      ]
+    },
+    {
+      "text": "De gemeente schapt het onderscheid tussen Residentie- en Hofstadkwaliteit voor gelijkwaardig onderhoud van de openbare ruimte.",
+      "originalText": "We schrappen het onderscheid tussen Residentie- en Hofstadkwaliteit, waardoor er nu onterecht meer aandacht is voor de openbare ruimte in toeristische gebieden dan in woonwijken.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderhoud",
+        "openbare ruimte",
+        "kwaliteit",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Nieuwbouwwoningen worden netbewust gebouwd en zijn waterbesparend.",
+      "originalText": "Nieuwbouwwoningen worden netbewust gebouwd en zijn waterbesparend.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nieuwbouw",
+        "energie",
+        "water",
+        "duurzaam"
+      ]
+    },
+    {
+      "text": "De gemeente start vrijwillige pilots waarin bewoners hun straat in de zomer tijdelijk autoluw maken.",
+      "originalText": "Daarom starten we met vrijwillige pilots waarin bewoners hun straat in de zomer tijdelijk autoluw maken. Werkt het goed, dan kunnen deze straten uitgroeien tot permanente, groene leefstraten die de buurt sterker en gezonder maken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leefstraten",
+        "autoluw",
+        "pilots",
+        "bewoners"
+      ]
+    },
+    {
+      "text": "De gemeente plaatst meer ondergrondse afvalcontainers en haalt vaker afval op dat naast containers staat.",
+      "originalText": "We zorgen voor een schone stad door meer ondergrondse afvalcontainers te plaatsen en vaker afval dat naast de container staat op te halen. Zeker in wijken waar bewoners nu veel last hebben van afval op straat.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afval",
+        "containers",
+        "schoonmaak",
+        "ondergronds"
+      ]
+    },
+    {
+      "text": "Er komen Circulaire Buurthubs waar bewoners spullen kunnen laten repareren, hergebruiken of inleveren.",
+      "originalText": "Er komen Circulaire Buurthubs waar bewoners spullen kunnen laten repareren, hergebruiken of inleveren, bijvoorbeeld in samenwerking met kringloopwinkels.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "circulair",
+        "buurthubs",
+        "repareren",
+        "hergebruik"
+      ]
+    },
+    {
+      "text": "De gemeente maakt een actieplan voor meer openbare en toegankelijke toiletten en douches en wasruimtes voor dakloze mensen.",
+      "originalText": "Wij willen snel een actieplan voor meer openbare en voor iedereen toegankelijke toiletten en douches en wasruimtes voor dakloze mensen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toiletten",
+        "actieplan",
+        "toegankelijkheid",
+        "daklozen"
+      ]
+    },
+    {
+      "text": "De papieren afvalkalender wordt teruggebracht zodat iedereen weet wanneer afval wordt opgehaald.",
+      "originalText": "Ook brengen we de papieren afvalkalender terug, zodat iedereen altijd bij de hand heeft wanneer afval wordt opgehaald en waar inzamelpunten in de buurt zijn.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afvalkalender",
+        "communicatie",
+        "inzameling",
+        "service"
+      ]
+    },
+    {
+      "text": "Waterkwaliteit verbeteren en natuur herstellen langs Haagse sloten, singels en vijvers. Harde oevers waar mogelijk groen en natuurvriendelijk maken.",
+      "originalText": "Daarom verbeteren we de waterkwaliteit en herstellen we natuur langs Haagse sloten, singels en vijvers. Harde oevers maken we waar mogelijk groen en natuurvriendelijk, zodat vissen, watervogels en andere dieren weer ruimte krijgen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "waterkwaliteit",
+        "sloten",
+        "natuurherstel"
+      ]
+    },
+    {
+      "text": "Meer afvalbakken plaatsen in drukke parken zoals het Zuiderpark in de zomer ter bescherming tegen vervuiling.",
+      "originalText": "We beschermen onze parken en groengebieden tegen vervuiling door meer afvalbakken in drukke parken zoals het Zuiderpark in de zomer, gerichte handhaving en goede voorlichting.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "afvalbakken",
+        "zuiderpark",
+        "parken"
+      ]
+    },
+    {
+      "text": "Meer nestkasten voor vogels en vleermuizen plaatsen en zorgen voor veilige broed- en rustplekken voor wilde dieren.",
+      "originalText": "We plaatsen bijvoorbeeld meer nestkasten voor vogels en vleermuizen en zorgen voor veilige broed- en rustplekken.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nestkasten",
+        "vogels",
+        "vleermuizen"
+      ]
+    },
+    {
+      "text": "Het tekort aan hondenlosloopgebieden aanpakken zodat elke wijk voldoende veilige plekken krijgt waar honden verantwoord kunnen loslopen.",
+      "originalText": "We pakken het tekort aan hondenlosloopgebieden aan en zorgen dat elke wijk voldoende veilige plekken krijgt waar honden verantwoord kunnen loslopen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "hondenlosloopgebieden",
+        "wijken",
+        "honden"
+      ]
+    },
+    {
+      "text": "Meer broodcontainers plaatsen ter voorkoming van problemen met overlastdieren zoals meeuwen en ratten.",
+      "originalText": "We voorkomen problemen met betere afvalinzameling, het beperken van voedselbronnen en duidelijke voorlichting aan bewoners, zoals door het voederverbod en het plaatsen van meer broodcontainers.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "broodcontainers",
+        "overlastdieren",
+        "afvalinzameling"
+      ]
+    },
+    {
+      "text": "Zo snel mogelijk meer straten 30 km/uur maken en vanaf 2030 overal de norm van 30 km/uur invoeren.",
+      "originalText": "Daarom worden zo snel mogelijk meer straten 30 km/uur, en vanaf 2030 is het overal de norm.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "30 km/uur",
+        "snelheidslimiet",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Bewoners kunnen straten nomineren om woonstraten 15 km/uur te maken.",
+      "originalText": "Bewoners kunnen straten nomineren om woonstraten 15 km/uur te maken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonstraten",
+        "15 km/uur",
+        "bewoners"
+      ]
+    },
+    {
+      "text": "Meer veilige oversteekplekken voor voetgangers en fietsers aanleggen.",
+      "originalText": "We zorgen voor meer veilige oversteekplekken voor voetgangers en fietsers.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "oversteekplekken",
+        "voetgangers",
+        "fietsers"
+      ]
+    },
+    {
+      "text": "Bredere fietspaden aanleggen zodat fietsers elkaar veilig kunnen inhalen.",
+      "originalText": "Daarom kiezen we voor bredere fietspaden zodat fietsers elkaar veilig kunnen inhalen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietspaden",
+        "fietsers",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Meer fietsparkeerplekken creëren op straat, in buurtfietsenstallingen en bij nieuwbouw en stations.",
+      "originalText": "We zorgen voor meer fietsparkeerplekken op straat, in buurtfietsenstallingen, bij nieuwbouw en voldoende fietsenstallingen rondom stations en drukbezochte plekken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fietsparkeren",
+        "fietsenstallingen",
+        "stations"
+      ]
+    },
+    {
+      "text": "Kids voor Niks uitbreiden van kinderen tot 11 jaar naar kinderen tot 16 jaar voor gratis openbaar vervoer.",
+      "originalText": "Een van onze grote successen de afgelopen jaren was de start van 'Kids voor Niks', de proef waarin kinderen tot en met 11 jaar gratis kunnen reizen. Dat succes zetten we voort, maken we structureel en breiden we uit naar 16 jaar.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "kids voor niks",
+        "gratis ov",
+        "kinderen"
+      ]
+    },
+    {
+      "text": "Alle bus- en tramhaltes aanpassen zodat ze toegankelijk zijn voor mensen met een beperking.",
+      "originalText": "We passen alle bus- en tramhaltes aan zodat ze toegankelijk zijn voor mensen met een beperking.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "haltes",
+        "toegankelijkheid",
+        "beperking"
+      ]
+    },
+    {
+      "text": "Een snellere tramverbinding realiseren tussen treinstations en Zuidwest (Zuidwestlandcorridor) en met Rijswijk, Delft en Westland.",
+      "originalText": "Een snellere tramverbinding tussen de treinstations en Zuidwest (de Zuidwestlandcorridor), en met Rijswijk, Delft en het Westland heeft onze absolute prioriteit.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "tramverbinding",
+        "zuidwest",
+        "rijswijk"
+      ]
+    },
+    {
+      "text": "Voldoende laadpunten voor elektrische auto's plaatsen in alle wijken.",
+      "originalText": "Daarom zorgt de gemeente voor voldoende laadpunten in alle wijken en neemt een actieve regierol tussen ontwikkelaars, netbeheerders en andere partijen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "laadpunten",
+        "elektrisch rijden",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Het aantal parkeervergunningen per adres beperken. Derde vergunningen niet meer mogelijk, tweede vergunningen 50% duurder maken.",
+      "originalText": "We scherpen het parkeerbeleid aan met een beperking van het aantal parkeervergunningen per adres. Derde vergunningen zijn niet meer mogelijk. Tweede parkeervergunningen worden alleen uitgegeven als de parkeerdruk lager is dan 95% en worden stapsgewijs 50% duurder.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeervergunningen",
+        "50% duurder",
+        "parkeerbeleid"
+      ]
+    },
+    {
+      "text": "We maken in nieuwe contracten met parkeergarages de afspraak dat bewoners met een tweede parkeervergunning hier ook kunnen parkeren.",
+      "originalText": "We maken in nieuwe contracten met parkeergarages de afspraak dat bewoners met een tweede parkeervergunning hier ook kunnen parkeren.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeergarages",
+        "tweede parkeervergunning",
+        "contracten"
+      ]
+    },
+    {
+      "text": "We voeren een uitzondering in op de parkeernorm bij het optoppen van woningen.",
+      "originalText": "We voeren een uitzondering in op de parkeernorm bij het optoppen van woningen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeernorm",
+        "optoppen",
+        "woningen"
+      ]
+    },
+    {
+      "text": "We verlagen de parkeernorm in het stationsgebied het meest vanwege de grote ruimtevraag.",
+      "originalText": "Daarnaast verlagen we de parkeernorm in het stationsgebied het meest vanwege de grote ruimtevraag.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeernorm",
+        "stationsgebied",
+        "verlagen"
+      ]
+    },
+    {
+      "text": "We reserveren middelen om als gemeente een parkeergarage in de Schilderswijk op te kunnen kopen.",
+      "originalText": "We reserveren middelen om als gemeente een parkeergarage in de Schilderswijk op te kunnen kopen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeergarage",
+        "schilderswijk",
+        "opkopen"
+      ]
+    },
+    {
+      "text": "We beginnen met het volledig autovrij maken van het Lange Voorhout.",
+      "originalText": "We beginnen met het volledig autovrij maken van het Lange Voorhout.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "autovrij",
+        "lange voorhout",
+        "volledig"
+      ]
+    },
+    {
+      "text": "We toveren straten als Westeinde, Anna Pauwlonastraat en de Denneweg om tot fietsstraten waar de fiets voorrang heeft op de auto.",
+      "originalText": "Straten als Westeinde, Anna Pauwlonastraat en de Denneweg toveren we om tot fietsstraten waar de fiets voorrang heeft op de auto.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "fietsstraten",
+        "westeinde",
+        "anna pauwlonastraat",
+        "denneweg"
+      ]
+    },
+    {
+      "text": "We laten de expresstram tussen de grote stations en Scheveningen extra vaak rijden.",
+      "originalText": "Om dat mogelijk te maken laten we de expresstram tussen de grote stations en Scheveningen extra vaak rijden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "expresstram",
+        "scheveningen",
+        "stations"
+      ]
+    },
+    {
+      "text": "We trekken tram 3 door naar Kijkduin, zodat ook de familiebadplaats makkelijker met OV te bereiken is.",
+      "originalText": "We trekken tram 3 door naar Kijkduin, zodat ook de familiebadplaats makkelijker met OV te bereiken is.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tram 3",
+        "kijkduin",
+        "doortrekken"
+      ]
+    },
+    {
+      "text": "We verdichten bestaande bedrijventerreinen, zodat duurzame en sociale ondernemers of nieuwe start-ups daar een kans krijgen op betaalbare bedrijfsruimte.",
+      "originalText": "Daarom verdichten we bestaande bedrijventerreinen, zodat duurzame en sociale ondernemers of nieuwe start-ups daar een kans krijgen op betaalbare bedrijfsruimte.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bedrijventerreinen",
+        "verdichten",
+        "start-ups"
+      ]
+    },
+    {
+      "text": "We voeren de leegstandsheffing ook in voor bedrijfs- en kantoorpanden.",
+      "originalText": "Om aan meer locaties te komen waar ondernemers aan de slag kunnen, voeren we de leegstandsheffing ook in voor bedrijfs- en kantoorpanden.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "leegstandsheffing",
+        "bedrijfspanden",
+        "kantoorpanden"
+      ]
+    },
+    {
+      "text": "We sturen op het beperken van toerisme, onder andere via het verhogen van toeristenbelasting.",
+      "originalText": "We zetten de leefbaarheid en woonbehoeften van Scheveningers weer op één en sturen op het beperken van toerisme, onder andere via het verhogen van toeristenbelasting.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toeristenbelasting",
+        "verhogen",
+        "toerisme"
+      ]
+    },
+    {
+      "text": "De gemeente Den Haag garandeert een hoger minimumloon – 60% van het mediane loon, minstens 18 euro per uur.",
+      "originalText": "Als eerste stap garandeert de gemeente Den Haag een hoger minimumloon – 60% van het mediane loon, minstens 18 euro per uur.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "minimumloon",
+        "18 euro",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "We voeren in Den Haag Basisbanen in. Met mensen die al langdurig aan de zijlijn staan wordt samen gezocht naar geschikte werktaken.",
+      "originalText": "Daarom voeren we in Den Haag ook Basisbanen in. Met mensen die al langdurig aan de zijlijn staan wordt samen gezocht naar geschikte werktaken om uit te voeren.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "basisbanen",
+        "werktaken",
+        "langdurig"
+      ]
+    },
+    {
+      "text": "Investeren in kansen voor vrouwen om economische zelfstandigheid op te bouwen via scholing, ontwikkeling, begeleiding naar werk of ondersteuning bij starten onderneming.",
+      "originalText": "We versterken de economische zelfstandigheid van vrouwen. Nog te veel vrouwen zijn financieel afhankelijk van een partner en vallen buiten gemeentelijke ondersteuning omdat ze geen uitkering ontvangen. Daarom investeren we in kansen om een eigen inkomen op te bouwen: via scholing, ontwikkeling, begeleiding naar werk of ondersteuning bij het starten van een onderneming.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vrouwen",
+        "economische zelfstandigheid",
+        "scholing",
+        "onderneming"
+      ]
+    },
+    {
+      "text": "Bufferbudget inzetten om overgang van uitkering naar (deeltijd)werk soepeler te maken voor mensen die deeltijd werken naast hun uitkering.",
+      "originalText": "Mensen die deeltijd werken naast hun uitkering, moeten erop vooruitgaan. Doordat mensen mogen bijverdienen in de bijstand, komen ze juist eerder weer aan het werk. Daar gaan we mee door, en we maken de stap naar (deeltijd)werk soepeler door de inzet van een bufferbudget waarmee de overgang van uitkering naar werk makkelijker wordt.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bufferbudget",
+        "uitkering",
+        "deeltijdwerk",
+        "bijstand"
+      ]
+    },
+    {
+      "text": "Budget voor bestrijding van kinderarmoede verdubbelen naar 4 miljoen euro om te garanderen dat alle kinderen kunnen meedoen aan sport, cultuur en schoolactiviteiten.",
+      "originalText": "Daarom verdubbelen we het budget voor de bestrijding van kinderarmoede naar 4 miljoen euro. Zo garanderen we dat alle kinderen kunnen meedoen aan sport, cultuur en (school)activiteiten.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "kinderarmoede",
+        "4 miljoen euro",
+        "sport",
+        "cultuur"
+      ]
+    },
+    {
+      "text": "Meldpunt Fraude bij uitkeringen afschaffen om vertrouwen boven wantrouwen te zetten.",
+      "originalText": "We zetten vertrouwen boven wantrouwen en schaffen het Meldpunt Fraude bij uitkeringen af. Inwoners moeten niet bang hoeven zijn dat buren of bekenden een melding over hen doen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "meldpunt fraude",
+        "uitkeringen",
+        "afschaffen",
+        "vertrouwen"
+      ]
+    },
+    {
+      "text": "Anonieme telefoon- en chatlijn inrichten waar bewoners vragen kunnen stellen over regelingen en uitleg krijgen over gegevensgebruik.",
+      "originalText": "Daarom richten we een anonieme telefoon- en chatlijn in waar bewoners vragen kunnen stellen over regelingen. Hier wordt ook duidelijk uitgelegd waarvoor gegevens worden gebruikt en waarom deze nodig zijn.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "telefoonlijn",
+        "chatlijn",
+        "anoniem",
+        "regelingen"
+      ]
+    },
+    {
+      "text": "Kostendelersnorm afschaffen die het delen van een woning bestraft en dakloosheid in de hand werkt.",
+      "originalText": "Onnodig strenge regels schaffen we af of passen we zo ruim mogelijk toe. Daarom gaan we verder met het afschaffen van de kostendelersnorm, die het delen van een woning bestraft en dakloosheid in de hand werkt.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "kostendelersnorm",
+        "afschaffen",
+        "woning delen",
+        "dakloosheid"
+      ]
+    },
+    {
+      "text": "Taal- en integratiecursussen voor arbeidsmigranten faciliteren zodat zij en hun kinderen als volwaardige inwoners kunnen meedoen in de samenleving.",
+      "originalText": "De gemeente Den Haag gaat taal- en integratiecursussen voor arbeidsmigranten faciliteren, zodat zij en hun kinderen als volwaardige inwoners mee kunnen doen in onze samenleving. Met werkgevers gaan we om tafel hoe zij hier (financieel) aan gaan bijdragen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "taalcursussen",
+        "integratiecursussen",
+        "arbeidsmigranten",
+        "faciliteren"
+      ]
+    },
+    {
+      "text": "Thuiswerken voor sekswerkers als pilot toestaan in Den Haag zonder negatieve effecten op privacy, welzijn of omgeving.",
+      "originalText": "We willen dat sekswerkers veilig en prettig kunnen thuiswerken, zonder dat dit negatieve effecten heeft op hun privacy, welzijn of hun omgeving. We willen daarom thuiswerken als pilot toestaan in Den Haag.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sekswerkers",
+        "thuiswerken",
+        "pilot",
+        "toestaan"
+      ]
+    },
+    {
+      "text": "Marktwerking in de WMO wordt aangepakt met minder concurrentie en aanbieders, meer samenwerking op basis van kwaliteit en structurele subsidies voor zorgorganisaties.",
+      "originalText": "We zijn kritisch op marktwerking in de zorg. Zorg draait immers om mensen, niet om winst. Daarom zetten we de plannen om marktwerking te verminderen door. We zetten in op minder concurrentie en aanbieders en meer samenwerking op basis van kwaliteit. Met structurele subsidies bieden we zorgorganisaties zekerheid.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wmo",
+        "marktwerking",
+        "zorgorganisaties",
+        "structurele subsidies"
+      ]
+    },
+    {
+      "text": "Zo snel mogelijk kijken naar alternatieven voor vervoerder Noot die het doelgroepenvervoer en leerlingenvervoer verzorgt vanwege kwaliteitsproblemen.",
+      "originalText": "Het doelgroepenvervoer (het leerlingenvervoer en de AV070) biedt niet de kwaliteit en betrouwbaarheid waar de passagiers recht op hebben. Oplossingen voor huidige problemen mogen niet wachten tot de nieuwe aanbesteding. We kijken zo snel mogelijk naar alternatieven voor vervoerder Noot.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "doelgroepenvervoer",
+        "leerlingenvervoer",
+        "noot",
+        "alternatieven"
+      ]
+    },
+    {
+      "text": "Zorgen voor genoeg woningen voor mensen die uitstromen uit zorginstellingen zoals maatschappelijke opvang en jeugdzorg in het woonbeleid.",
+      "originalText": "Zorg en wonen zijn onlosmakelijk met elkaar verbonden. Daarom houden we in ons woonbeleid rekening met de zorgbehoeften en zorgen we voor genoeg woningen voor mensen die uitstromen uit zorginstellingen zoals de maatschappelijke opvang en de jeugdzorg.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningen",
+        "uitstroom",
+        "zorginstellingen",
+        "woonbeleid"
+      ]
+    },
+    {
+      "text": "Doorgaan met de Haagse Zorgverzekering en gemeente kan in schrijnende situaties een verzekering afsluiten voor inwoners van Den Haag.",
+      "originalText": "Daarom gaan we door met de Haagse Zorgverzekering, die voordelig is voor mensen met een lager inkomen. In schrijnende situaties willen we dat de gemeente een verzekering kan afsluiten voor inwoners van Den Haag.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haagse zorgverzekering",
+        "gemeente",
+        "zorgverzekering",
+        "inkomen"
+      ]
+    },
+    {
+      "text": "Inzetten op kleinschalige GGZ-teams die snel op meldingen van problemen met onbegrepen gedrag kunnen reageren.",
+      "originalText": "We zien steeds vaker problemen met onbegrepen gedrag. Vaak is de oorzaak dat mensen kampen met psychische klachten. Door in te zetten op kleinschalige ggz-teams die snel op meldingen af kunnen, voorkomen we zo veel mogelijk dat problemen verder uit de hand lopen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ggz-teams",
+        "onbegrepen gedrag",
+        "psychische klachten",
+        "meldingen"
+      ]
+    },
+    {
+      "text": "Bieden van een plek naar het concept van Skaeve Huse voor mensen die niet in een woonwijk kunnen wonen.",
+      "originalText": "Ook voor mensen die niet gemakkelijk in een woonwijk of maatschappelijke opvang kunnen wonen. Daarom bieden we hen een plek naar het concept van Skaeve Huse. Dit is een plek op enige afstand van een woonwijk, omdat een prikkelarme manier van wonen hen helpt, met duidelijke regels en de juiste begeleiding.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "skaeve huse",
+        "woning",
+        "begeleiding",
+        "prikkelarm"
+      ]
+    },
+    {
+      "text": "Het aantal rook- en vapevrije zones uitbreiden en nieuwe tabakszaken weren voor een rookvrije generatie.",
+      "originalText": "We zetten ons in voor een rookvrije generatie. We breiden het aantal rook- en vapevrije zones uit en weren nieuwe tabakszaken.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rookvrije zones",
+        "vapevrije zones",
+        "tabakszaken",
+        "rookvrije generatie"
+      ]
+    },
+    {
+      "text": "Wijkcentra versterken door alle sociale partners samen te brengen met huisartsen, wijkverpleegkundigen en gemeentelijke diensten op één plek.",
+      "originalText": "Wijkcentra, huisartsen en wijkverpleegkundigen worden versterkt, zodat hulp dichtbij en vertrouwd is. We bouwen aan een sterk netwerk van eerstelijnszorg en sociale ondersteuning in alle buurten. Dit doen we door alle sociale partners samen te brengen in de wijkcentra. Daar vind je huisartsen, wijkverpleegkundigen, gemeentelijke diensten en andere hulpverleners op één plek.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkcentra",
+        "huisartsen",
+        "wijkverpleegkundigen",
+        "eerstelijnszorg"
+      ]
+    },
+    {
+      "text": "Zorgen voor wijkbudgetten en extra investeren in wijken met lagere levensverwachting en slechtere gezondheid.",
+      "originalText": "We zorgen voor wijkbudgetten, zodat er per wijk financieel kan worden gekeken wat werkt. We investeren extra in wijken met een lagere levensverwachting en slechtere gezondheid.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkbudgetten",
+        "levensverwachting",
+        "gezondheid",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Bij ruimtelijke planvorming rekening houden met voorzieningen zoals huisartsenpraktijken om bereikbaarheid van huisartsenzorg te waarborgen.",
+      "originalText": "Voor beginnende huisartsen wordt het steeds moeilijker om een geschikte plek te vinden om een praktijk te vestigen. Het is onacceptabel dat patiënten ver moeten reizen voor huisartsenzorg, zeker mensen die slecht ter been zijn. Daarom moet er bij ruimtelijke planvorming rekening worden gehouden met voorzieningen zoals een huisartsenpraktijk.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ruimtelijke planvorming",
+        "huisartsenpraktijken",
+        "huisartsenzorg",
+        "bereikbaarheid"
+      ]
+    },
+    {
+      "text": "Wijkgerichte jeugdzorgpunten inrichten waar jongeren en ouders terecht kunnen voor advies, ondersteuning en doorverwijzing.",
+      "originalText": "We zetten in op wijkgerichte jeugdzorgpunten waar jongeren en ouders gemakkelijk terecht kunnen voor advies, ondersteuning en doorverwijzing. Bij deze centra zijn hulpverleners vanuit verschillende disciplines aanwezig.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdzorgpunten",
+        "wijkgericht",
+        "jongeren",
+        "ouders"
+      ]
+    },
+    {
+      "text": "Zorgen dat een kind nooit langer dan drie weken hoeft te wachten op een intakegesprek bij jeugdzorg.",
+      "originalText": "Het is onaanvaardbaar dat kinderen door lange wachtlijsten thuis komen te zitten en niet naar school kunnen. Dit pakken we als eerste aan. We maken afspraken met jeugdzorginstellingen en zorgen ervoor dat een kind nooit langer dan drie weken hoeft te wachten op een intakegesprek.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "wachtlijsten",
+        "intakegesprek",
+        "drie weken",
+        "jeugdzorg"
+      ]
+    },
+    {
+      "text": "Het aanmeldproces en de klachtenprocedure voor jeugdzorg versimpelen om het systeem makkelijker en overzichtelijker te maken.",
+      "originalText": "Het jeugdzorgsysteem moet makkelijker en overzichtelijker zijn. Er zijn nog steeds veel ouders die niet weten waar ze aan toe zijn en van wie klachten niet worden gehoord of afgehandeld. Daarom versimpelen we het aanmeldproces en de klachtenprocedure.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdzorg",
+        "aanmeldproces",
+        "klachtenprocedure",
+        "versimpelen"
+      ]
+    },
+    {
+      "text": "Met gemeenten in de regio één rapportagestandaard voor de jeugdzorg maken om administratieve lasten tot een minimum te beperken.",
+      "originalText": "Met gemeenten in de regio maken we één rapportagestandaard voor de jeugdzorg om administratieve lasten tot een minimum te beperken.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdzorg",
+        "rapportagestandaard",
+        "administratieve lasten",
+        "regionale samenwerking"
+      ]
+    },
+    {
+      "text": "Investeren in aangepaste faciliteiten en ondersteuning voor jongeren met beperkingen of speciale behoeften.",
+      "originalText": "We investeren in aangepaste faciliteiten en ondersteuning voor jongeren met beperkingen of speciale behoeften, zodat zij volwaardig kunnen deelnemen aan de samenleving.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "faciliteiten",
+        "ondersteuning",
+        "jongeren",
+        "beperkingen"
+      ]
+    },
+    {
+      "text": "Meer jongerenwerkers inzetten op straat, in scholen en online, en meer structurele straatcoaches voor de oudere jeugd.",
+      "originalText": "Meer jongerenwerkers op straat, in scholen én online. We kiezen voor preventie, perspectief en vertrouwen. Voor de oudere jeugd zetten we meer (en structureel) straatcoaches in.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenwerkers",
+        "straatcoaches",
+        "preventie",
+        "oudere jeugd"
+      ]
+    },
+    {
+      "text": "Huisbezoeken uitbreiden voor ouderen, mantelzorgers en mensen met een beperking en meer capaciteit inzetten voor gezinscoaches.",
+      "originalText": "We breiden huisbezoeken uit voor ouderen, mantelzorgers en mensen met een beperking. We zetten hier meer capaciteit op in. Dat geldt ook voor de gezinscoaches.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huisbezoeken",
+        "ouderen",
+        "mantelzorgers",
+        "gezinscoaches"
+      ]
+    },
+    {
+      "text": "Het aantal ontmoetingsplekken in de stad fors uitbreiden, met name in wijken waar veel ouderen wonen en de eenzaamheid groot is.",
+      "originalText": "We breiden het aantal ontmoetingsplekken in de stad fors uit. Plekken waar je elkaar tegen komt en waar professionals makkelijk kunnen 'aanlanden'. Met name in de wijken waar veel ouderen wonen, waar de eenzaamheid groot is en waar de sociale cohesie minder is.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ontmoetingsplekken",
+        "ouderen",
+        "eenzaamheid",
+        "sociale cohesie"
+      ]
+    },
+    {
+      "text": "Het aantal zorgkamers in de stad uitbreiden waar mensen terecht kunnen met vragen over zorg, gezin en andere ingewikkelde situaties.",
+      "originalText": "We breiden het aantal zorgkamers uit in de stad waar mensen terecht kunnen met vragen over zorg, gezin en andere ingewikkelde situaties. We doen dit naar het goede voorbeeld in Den Haag Zuidwest, waar ontzettend veel mensen in beeld komen, die anders buiten beeld zouden blijven.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zorgkamers",
+        "zorgvragen",
+        "gezinsondersteuning",
+        "toeleiding"
+      ]
+    },
+    {
+      "text": "Een coördinerend wethouder ouderenbeleid aanstellen en de inzet op een seniorvriendelijke stad doorzetten.",
+      "originalText": "Wij willen daarom in het volgende college een coördinerend wethouder ouderenbeleid en zetten de inzet op een seniorvriendelijke stad door.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wethouder",
+        "ouderenbeleid",
+        "seniorvriendelijke stad",
+        "coördinatie"
+      ]
+    },
+    {
+      "text": "Het aanbod aan ouderenconsulenten verbreden met extra kennis over culturelle gemeenschappen.",
+      "originalText": "We verbreden het aanbod aan ouderenconsulenten met extra kennis over culturele gemeenschappen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ouderenconsulenten",
+        "culturele gemeenschappen",
+        "diversiteit",
+        "ondersteuning"
+      ]
+    },
+    {
+      "text": "Met schoolbesturen concrete afspraken maken om onderadvisering in Den Haag tegen te gaan.",
+      "originalText": "We willen geen onderadvisering meer in Den Haag. We maken met de schoolbesturen hierover concrete afspraken.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "onderadvisering",
+        "schoolbesturen",
+        "afspraken",
+        "kansengelijkheid"
+      ]
+    },
+    {
+      "text": "Het aanbod van speciaal onderwijs uitbreiden en wachtlijsten aanpakken om thuiszitters te voorkomen.",
+      "originalText": "We willen geen thuitzitters en pakken de wachtlijsten aan, ieder kind heeft recht op onderwijs. Het aanbod van speciaal onderwijs breiden wij uit.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "speciaal onderwijs",
+        "wachtlijsten",
+        "thuitzitters",
+        "onderwijsrecht"
+      ]
+    },
+    {
+      "text": "Gratis huiswerkbegeleiding uitbreiden waar dat nog ontbreekt zodat bijles en huiswerkbegeleiding voor ieder kind bereikbaar zijn.",
+      "originalText": "Extra hulp op school mag geen luxe zijn. Samen met scholen zorgen we dat bijles en huiswerkbegeleiding voor ieder kind bereikbaar zijn. We breiden gratis huiswerkbegeleiding uit waar dat nog ontbreekt.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huiswerkbegeleiding",
+        "bijles",
+        "gratis",
+        "toegankelijkheid"
+      ]
+    },
+    {
+      "text": "Kleine bibliotheken op basisscholen en bibliotheken in de wijk inzetten in het kader van het leesoffensief.",
+      "originalText": "In het kader van het leesoffensief zetten we in op (kleine) bibliotheken op basisscholen en bibliotheken in de wijk. Dat is de beste manier om alle kinderen aan het lezen te krijgen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bibliotheken",
+        "basisscholen",
+        "leesoffensief",
+        "lezen"
+      ]
+    },
+    {
+      "text": "Kansengelijkheid tafels opzetten in kwetsbare wijken voor een gerichte wijkaanpak in samenwerking met scholen.",
+      "originalText": "Dit doen we door een gerichte wijkaanpak in samenwerking met scholen en andere maatschappelijke tafels. In kwetsbare wijken gaan we kansengelijkheid tafels opzetten.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kansengelijkheid tafels",
+        "kwetsbare wijken",
+        "wijkaanpak",
+        "scholen"
+      ]
+    },
+    {
+      "text": "Structureel laptops en tablets bekostigen zodat elk kind in Den Haag een eigen device heeft voor school.",
+      "originalText": "Een laptop of tablet is voor kinderen en jongeren cruciaal om mee te kunnen doen op school én sociaal. We gaan deze structureel bekostigen, zodat elk kind een eigen device heeft. Den Haag is hierin als enige grote stad nog niet structureel actief — dat gaan we veranderen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "laptop",
+        "tablet",
+        "device",
+        "kinderen",
+        "structureel"
+      ]
+    },
+    {
+      "text": "Een Haagse Lerarenbeurs invoeren voor scholen in achterstandswijken om leraren te stimuleren zich te ontwikkelen.",
+      "originalText": "We voeren een Haagse Lerarenbeurs in voor scholen in achterstandswijken. Zo kunnen we Haagse leraren aanmoedigen om zich te blijven ontwikkelen en wordt het aantrekkelijker om hier les te komen geven.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "lerarenbeurs",
+        "achterstandswijken",
+        "leraren",
+        "ontwikkeling"
+      ]
+    },
+    {
+      "text": "Nieuwe leraren actief naar Den Haag trekken door samenwerking met lerarenopleidingen en hulp bij betaalbare huisvesting.",
+      "originalText": "We trekken nieuwe leraren actief naar Den Haag door samen te werken met lerarenopleidingen, startende docenten extra te begeleiden en hen te helpen aan betaalbare huisvesting. Zo zorgen we dat Den Haag niet alleen een plek is om les te geven, maar ook een plek waar leraren zich thuis voelen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leraren",
+        "werving",
+        "huisvesting",
+        "lerarenopleidingen"
+      ]
+    },
+    {
+      "text": "Een Haagse Studentenpas invoeren die studenten korting geeft bij culturele instellingen, sportlocaties en lokale activiteiten.",
+      "originalText": "Met een Haagse Studentenpas geven we studenten korting bij Haagse culturele instellingen, sportlocaties en lokale activiteiten. Zo versterken we de band tussen studenten en de stad, maken we cultuur en sport toegankelijk voor iedereen en stimuleren we dat meer studenten na hun studie in Den Haag blijven wonen en werken.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "studentenpas",
+        "korting",
+        "cultuur",
+        "sport",
+        "studenten"
+      ]
+    },
+    {
+      "text": "Investeren in duurzame en optimaal geventileerde schoolgebouwen, alle nieuwe gebouwen energieneutraal maken.",
+      "originalText": "We investeren in duurzame en optimaal geventileerde schoolgebouwen. Alle nieuwe gebouwen worden energieneutraal en bestaande gebouwen maken we zo duurzaam mogelijk. De luchtkwaliteit binnen en rondom alle Haagse scholen moet goed zijn.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "schoolgebouwen",
+        "energieneutraal",
+        "ventilatie",
+        "duurzaam"
+      ]
+    },
+    {
+      "text": "Een programma 'Optimaal Ventileren op Haagse scholen' starten voor betere luchtkwaliteit op scholen.",
+      "originalText": "We brengen in kaart in welke wijken extra actie nodig is voor een gezonde luchtkwaliteit en starten een programma 'Optimaal Ventileren op Haagse scholen'.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "ventileren",
+        "luchtkwaliteit",
+        "scholen",
+        "programma"
+      ]
+    },
+    {
+      "text": "Meer groene en toegankelijke schoolpleinen realiseren voor een veilige en gezonde schoolomgeving.",
+      "originalText": "We zorgen voor meer groene, groenblauwe en toegankelijke schoolpleinen voor een veilige, inclusieve en gezonde schoolomgeving.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolpleinen",
+        "groen",
+        "toegankelijk",
+        "veilig"
+      ]
+    },
+    {
+      "text": "De Haagse pandbrigade uitbreiden die handhaaft op discriminerende verhuurders.",
+      "originalText": "De Haagse pandbrigade, die onder andere handhaaft op discriminerende verhuurders, wordt uitgebreid.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pandbrigade",
+        "uitbreiden",
+        "discriminatie",
+        "verhuurders"
+      ]
+    },
+    {
+      "text": "Uitgaansgelegenheden die discrimineren krijgen één waarschuwing en verliezen bij volgende overtreding hun vergunning.",
+      "originalText": "Uitgaansgelegenheden die worden betrapt op discrimineren, krijgen één waarschuwing en verliezen bij een volgende overtreding hun vergunning.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "uitgaansgelegenheden",
+        "discriminatie",
+        "vergunning",
+        "handhaving"
+      ]
+    },
+    {
+      "text": "De subsidieregeling voor tegemoetkoming van kosten voor wijziging van geslachtsaanduiding in de gemeentelijke basisregistratie wordt voortgezet.",
+      "originalText": "De subsidieregeling voor tegemoetkoming van de kosten voor de wijziging van de geslachtsaanduiding in de gemeentelijke basisregistratie wordt voortgezet.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidieregeling",
+        "transpersonen",
+        "geslachtsaanduiding"
+      ]
+    },
+    {
+      "text": "Een speciale gendertoets wordt ingevoerd om gemeentelijk beleid en gemeentefinanciën op genderinclusiviteit te toetsen.",
+      "originalText": "Met een speciale gendertoets toetsen we of ons gemeentelijk beleid voldoende genderinclusief is en of onze gemeentefinanciën op een eerlijke wijze verdeeld worden (gender budgeting).",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gendertoets",
+        "beleid",
+        "gemeentefinanciën"
+      ]
+    },
+    {
+      "text": "De vrouwenrechtswinkel wordt behouden zodat kwetsbare vrouwen gratis juridisch advies kunnen krijgen.",
+      "originalText": "We zorgen ervoor dat de vrouwenrechtswinkel behouden blijft, zodat kwetsbare vrouwen in (juridische) nood gratis advies kunnen krijgen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vrouwenrechtswinkel",
+        "juridisch advies",
+        "kwetsbare vrouwen"
+      ]
+    },
+    {
+      "text": "Bij nieuwbouw en renovatie van gebouwen en ontwerp van openbare ruimte is toegankelijkheid een harde eis.",
+      "originalText": "Bij nieuwbouw en renovatie van bestaande gebouwen en ontwerp van de openbare ruimte is toegankelijkheid een harde eis.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toegankelijkheid",
+        "nieuwbouw",
+        "renovatie",
+        "openbare ruimte"
+      ]
+    },
+    {
+      "text": "Er wordt gezorgd voor voldoende ruimte voor islamitische begraafplaatsen en hindoeïstische uitstrooiplekken.",
+      "originalText": "We zorgen voor voldoende ruimte voor islamitische begraafplaatsen en voor uitstrooiplekken die passen bij hindoeïstische rituelen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "islamitische begraafplaatsen",
+        "uitstrooiplekken",
+        "hindoeïstisch"
+      ]
+    },
+    {
+      "text": "Ambtenaren krijgen de mogelijkheid om op Keti Koti als feestdag vrij te nemen.",
+      "originalText": "Ambtenaren krijgen de mogelijkheid om op Keti Koti als feestdag vrij te nemen.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "keti koti",
+        "feestdag",
+        "ambtenaren"
+      ]
+    },
+    {
+      "text": "Er komt een Monument ter herdenking van het Indisch-Oceanische koloniaal en slavernijverleden.",
+      "originalText": "Er komt een Monument ter herdenking van het Indisch-Oceanische koloniaal en slavernijverleden.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "monument",
+        "indisch-oceanische",
+        "koloniaal verleden"
+      ]
+    },
+    {
+      "text": "Lespakketten over koloniaal en slavernijverleden worden uitgebreid naar kinderen van 6 tot 12 jaar.",
+      "originalText": "We gaan door met de lespakketten voor scholen over het koloniaal en slavernijverleden en breiden deze uit naar kinderen van 6 t/m 12 jaar.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "lespakketten",
+        "koloniaal verleden",
+        "kinderen 6-12 jaar"
+      ]
+    },
+    {
+      "text": "Cultuuruitgaven groeien mee met de toekomstige inwonersgroei en komen op hetzelfde niveau als Amsterdam, Utrecht en Rotterdam.",
+      "originalText": "We willen dat cultuuruitgaven meegroeien met de toekomstige inwonersgroei van de stad. Ook willen we dat Den Haag op termijn op hetzelfde niveau van cultuuruitgaven per inwoner komt als Amsterdam, Utrecht en Rotterdam.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuuruitgaven",
+        "inwonersgroei",
+        "amsterdam",
+        "utrecht",
+        "rotterdam"
+      ]
+    },
+    {
+      "text": "De gemeentelijke bijdrage aan cultuuronderwijs voor Ooievaarspashouders wordt verdubbeld.",
+      "originalText": "De gemeentelijke bijdrage aan het cultuuronderwijs voor Ooievaarspashouders wordt verdubbeld.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "cultuuronderwijs",
+        "ooievaarspas",
+        "verdubbeld"
+      ]
+    },
+    {
+      "text": "Winkelcentrum Leyweg wordt omgetoverd tot een tweede culturele hotspot naast Dakota.",
+      "originalText": "Wij willen, naast Dakota, winkelcentrum Leyweg omtoveren tot een tweede culturele hotspot met ruimte voor ontwikkeling van talent en ondernemerschap.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "leyweg",
+        "culturele hotspot",
+        "dakota"
+      ]
+    },
+    {
+      "text": "Iedere inwoner van Den Haag krijgt een gratis basislidmaatschap van Bibliotheek Den Haag.",
+      "originalText": "Iedere inwoner van Den Haag krijgt een gratis basislidmaatschap van Bibliotheek Den Haag. Met de Ooievaarspas word je automatisch lid van de Bibliotheek Den Haag en krijg je een pas.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gratis lidmaatschap",
+        "bibliotheek den haag",
+        "ooievaarspas"
+      ]
+    },
+    {
+      "text": "De Haagse subsidie voor culturele broedplaatsen wordt verlengd, het budget verhoogd en uitgebreid naar creatieve ondernemers.",
+      "originalText": "Wij verlengen de Haagse subsidie culturele broedplaatsen, verhogen het budget, en breiden de doelgroep uit met creatieve ondernemers.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidie",
+        "broedplaatsen",
+        "creatieve ondernemers"
+      ]
+    },
+    {
+      "text": "In de Binckhorst wordt een pand als nieuwe grote broedplaats voor creatief commercieel aangewezen.",
+      "originalText": "Bij het ontwikkelen van de Binckhorst willen wij dat er genoeg ruimte blijft voor de creatieve industrie die zich daar nu heeft gehuisvest – zoals Maakhaven – en dat er een pand als nieuwe grote broedplaats voor onder meer creatief commercieel wordt aangewezen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "binckhorst",
+        "broedplaats",
+        "creatief commercieel"
+      ]
+    },
+    {
+      "text": "Parkpop en het Chuck Deeley-festival worden teruggebracht in Den Haag.",
+      "originalText": "Daarnaast willen wij Parkpop en het Chuck Deeley-festival (beide laatste editie in 2022) terugbrengen in Den Haag.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkpop",
+        "chuck deeley-festival",
+        "terugbrengen"
+      ]
+    },
+    {
+      "text": "Meer cultuurankers worden toegevoegd, bijvoorbeeld podium Noord in Mariahoeve.",
+      "originalText": "Wij willen deze ankers blijvend ondersteunen en meer cultuurankers toevoegen, bijvoorbeeld podium Noord in Mariahoeve.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuurankers",
+        "podium noord",
+        "mariahoeve"
+      ]
+    },
+    {
+      "text": "De Ooievaarspas wordt bij meer sportplekken bruikbaar en sportlocaties mogen de pas niet meer weigeren.",
+      "originalText": "We willen dan ook dat de Ooievaarspas bij meer sportplekken bruikbaar wordt en dat sportlocaties de pas niet meer mogen weigeren.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ooievaarspas",
+        "sportplekken",
+        "sportlocaties"
+      ]
+    },
+    {
+      "text": "Een nationaal monument Srebrenica genocide realiseren in Den Haag",
+      "originalText": "Den Haag heeft een bijzondere betrokkenheid met de genocide in Srebrenica, onder andere vanwege het Joegoslavië tribunaal en de Nederlandse Dutchbat missie. Daarom willen we dat onze stad een nationaal monument Srebrenica genocide krijgt.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "monument",
+        "srebrenica",
+        "genocide"
+      ]
+    },
+    {
+      "text": "Wijkbudgetten en buurtbegroting stimuleren en meer gemeentelijke budgetten overhevelen naar stadsdelen",
+      "originalText": "We verstevigen de betrokkenheid van bewoners in hun eigen wijk en/of stadsdeel door het stimuleren van wijkbudgetten, buurtbegroting en deconcentratie van gemeentelijke taken. We hevelen meer budgetten over naar de stadsdelen en kijken hoe we die budgetten directer kunnen koppelen aan de uitvoering van de wijkagenda's.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkbudgetten",
+        "buurtbegroting",
+        "stadsdelen"
+      ]
+    },
+    {
+      "text": "Onderzoeken of stadsdeelcommissies of wijkraden meerwaarde hebben en deze per 2030 laten ingaan",
+      "originalText": "We gaan de komende periode samen met bewoners, wijkorganisaties en experts onderzoeken of werken met stadsdeelcommissies (zoals in Amsterdam) of wijkraden (zoals in Rotterdam) ook voor Den Haag meerwaarde heeft. Als dat zo is, zorgen we dat het per 2030 in werking kan gaan.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "stadsdeelcommissies",
+        "wijkraden",
+        "2030"
+      ]
+    },
+    {
+      "text": "Een top 20 samenstellen van sociaal onveilige plekken en de publieke inrichting verbeteren",
+      "originalText": "We gaan een top 20 samenstellen van plekken die door mensen als sociaal onveilig worden ervaren. We verbeteren de publieke inrichting van deze plekken op basis van bewoners en gebruikers, bijvoorbeeld door betere verlichting, overzichtelijke ruimtes zonder donkere hoeken en duidelijke looproutes.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "top 20",
+        "onveilige plekken",
+        "verlichting"
+      ]
+    },
+    {
+      "text": "Noodsteunpunten inrichten voor rampen en crises",
+      "originalText": "We verbeteren de paraatheid van onze gemeente bij rampen en crises door te oefenen op verschillende noodscenario's. We richten noodsteunpunten in en communiceren in begrijpelijke taal over wat te doen bij noodsituaties.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "noodsteunpunten",
+        "rampen",
+        "crises"
+      ]
+    },
+    {
+      "text": "Regelmatig wapeninleveracties organiseren om wapens van straat te halen",
+      "originalText": "Wapenbezit moet worden tegengegaan. We willen daarom regelmatig wapeninleveracties om zoveel mogelijk wapens van straat te halen.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wapeninleveracties",
+        "wapens",
+        "straat"
+      ]
+    },
+    {
+      "text": "Een publiek toegankelijk algoritmeregister inrichten",
+      "originalText": "Er komt daarom een publiek toegankelijk algoritmeregister. Daarin staan alle algoritmes die namens de gemeente geautomatiseerde keuzes maken, besluiten voorbereiden, of voorspellingen doen over individuele burgers en groepen burgers.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "algoritmeregister",
+        "publiek toegankelijk",
+        "algoritmes"
+      ]
+    },
+    {
+      "text": "Een publiek toegankelijk sensorregister inrichten voor alle sensoren in de openbare ruimte",
+      "originalText": "Er komt een publiek toegankelijk sensorregister, waarin alle sensoren in de openbare ruimte worden opgenomen. Dit betreft daarmee camera's (ook die voor openbare orde en opsporing), luchtkwaliteits- en geursensoren, verkeers- en snelheidsmeters etc.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sensorregister",
+        "sensoren",
+        "openbare ruimte"
+      ]
+    },
+    {
+      "text": "De gemeente opent een loket Digitale Zaken waar burgers terecht kunnen met vragen en klachten over gemeentelijke digitale zaken en foutieve gegevens kunnen corrigeren.",
+      "originalText": "De gemeente opent een loket Digitale Zaken, waar burgers terecht kunnen met al hun vragen en klachten over gemeentelijke digitale zaken, ook zaken die de gemeente heeft uitbesteed of data verwerkt binnen samenwerkingsverbanden. Dit wordt ook een gemeentelijk meldpunt om foutieve gegevens over burgers die van het ene computersysteem zijn doorgesijpeld in andere ICT-systemen in de keten te corrigeren.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "digitale zaken",
+        "loket",
+        "burgerservice",
+        "ict"
+      ]
+    },
+    {
+      "text": "We voeren een lobbyregister in voor leden van het college van burgemeester en wethouders om vertrouwen in politiek en bestuurders te herstellen.",
+      "originalText": "We voeren een lobbyregister in voor leden van het college van burgemeester en wethouders. Dit doen we als stap om het vertrouwen in de politiek en bestuurders te herstellen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lobbyregister",
+        "transparantie",
+        "college",
+        "integriteit"
+      ]
+    },
+    {
+      "text": "Bij alle grote subsidiestromen komt er apart budget voor experimenten of kleinschalige initiatieven om verschillende initiatieven eerlijke kansen te geven.",
+      "originalText": "We geven organisaties tijd en vertrouwen om iets moois op te bouwen. We zorgen ervoor dat zo veel mogelijk verschillende initiatieven een eerlijke kans krijgen om zo goed mogelijk aan te sluiten bij de inwoners. Bij alle grote subsidiestromen komt er apart budgetten voor experimenten of kleinschalige initiatieven.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidies",
+        "experimenten",
+        "kleinschalige initiatieven",
+        "budget"
+      ]
+    }
+  ]
+}

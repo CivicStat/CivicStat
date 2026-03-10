@@ -17,6 +17,7 @@
   "devDependencies": {
     "@types/node": "^20.14.9",
     "@types/pdf-parse": "^1.1.5",
+    "prisma": "5.19.1",
     "tsx": "^4.7.0",
     "typescript": "^5.4.5"
   }

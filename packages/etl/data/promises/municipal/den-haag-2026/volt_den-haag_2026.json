@@ -1,0 +1,1393 @@
+{
+  "party": "Volt",
+  "partySlug": "volt",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Verkiezingsprogramma Volt Den Haag 2026",
+  "electionYear": 2026,
+  "sourceFile": "volt_den-haag_2026.pdf",
+  "extractedAt": "2026-03-03T12:04:33.075Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "In elk stadsdeel een representatief wijkpanel oprichten en een gemeentelijke verplichting invoeren om adviezen te behandelen en publiek terug te koppelen.",
+      "originalText": "Vaste wijkpanels en opvolgingsplicht: in elk stadsdeel een representatief wijkpanel en een gemeentelijke verplichting om adviezen te behandelen en publiek terug te koppelen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkpanel",
+        "stadsdeel",
+        "adviezen",
+        "terugkoppeling"
+      ]
+    },
+    {
+      "text": "Jaarlijks burgerberaad organiseren voor de hele stad én op stadsdeelniveau, met verplichte opvolging door de gemeente.",
+      "originalText": "Jaarlijks burgerberaad: minstens één keer per jaar voor de hele stad én op stadsdeelniveau, met verplichte opvolging door de gemeente.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "burgerberaad",
+        "jaarlijks",
+        "stadsdeelniveau",
+        "opvolging"
+      ]
+    },
+    {
+      "text": "Bij elk raadsvoorstel participatierapportage maken die inzichtelijk maakt welke partijen betrokken zijn, wat is opgehaald en hoe dat is verwerkt.",
+      "originalText": "Participatierapportage: bij elk raadsvoorstel inzichtelijk maken welke partijen betrokken zijn, wat is opgehaald en hoe dat is verwerkt.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "participatierapportage",
+        "raadsvoorstel",
+        "transparantie"
+      ]
+    },
+    {
+      "text": "Uitbreiding van de Haagse Jongerenraad, jaarlijkse jongerenconferentie organiseren en directe koppeling aan besluitvorming realiseren.",
+      "originalText": "Meer invloed voor jongeren: uitbreiding van de Haagse Jongerenraad, jaarlijkse jongerenconferentie en directe koppeling aan besluitvorming.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jongerenraad",
+        "jongerenconferentie",
+        "jongeren",
+        "besluitvorming"
+      ]
+    },
+    {
+      "text": "Internationaal inwonersforum oprichten van internationale bewoners, meertalige informatie aanbieden en samenwerking met The Hague International Centre.",
+      "originalText": "Internationaal inwonersforum: adviesorgaan van internationale bewoners, meertalige informatie en samenwerking met The Hague International Centre.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "internationaal",
+        "inwonersforum",
+        "meertalig",
+        "internationale bewoners"
+      ]
+    },
+    {
+      "text": "Den Haag laten aansluiten bij het European Capital of Democracy-netwerk en experimenten uitvoeren met gelote burgerpanels of een burgerparlement.",
+      "originalText": "Europese en digitale democratische vernieuwing: aansluiten bij het European Capital of Democracy-netwerk, experimenten met gelote burgerpanels of een burgerparlement en veilige, meertalige online participatietools.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "european capital of democracy",
+        "burgerpanels",
+        "burgerparlement"
+      ]
+    },
+    {
+      "text": "Een lobbyregister invoeren als tweede gemeente in Nederland om inzichtelijk te maken wie bij het stadsbestuur aan tafel zit.",
+      "originalText": "Lobbyisten en belangenbehartigers oefenen invloed uit op ons stadsbestuur, zonder dat dat inzichtelijk is. Daarom voert Den Haag als tweede gemeente in Nederland een lokaal lobbyregister in.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lobbyregister",
+        "transparantie",
+        "belangenbehartigers"
+      ]
+    },
+    {
+      "text": "Een onafhankelijk journalistiek fonds instellen om vrije lokale journalistiek te ondersteunen.",
+      "originalText": "We blijven voldoende middelen en ruimte vrijmaken voor vrije lokale journalistiek middels een onafhankelijk journalistiek fonds.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "journalistiek fonds",
+        "lokale media",
+        "onafhankelijk"
+      ]
+    },
+    {
+      "text": "Een verplichting voor 'open source' invoeren van alle met publieke middelen aangeschafte software.",
+      "originalText": "We stellen een verplichting voor 'open source' van alle met publieke middelen aangeschafte software.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "open source",
+        "software",
+        "publieke middelen"
+      ]
+    },
+    {
+      "text": "Één pagina aanmaken waarop alle informatie vanuit de gemeente te vinden is en alle informatie op B1-taalniveau presenteren.",
+      "originalText": "Volt wil daarom dat de gemeente één pagina aanmaakt waarop alle informatie vanuit de gemeente te vinden is, mogelijk met links naar externe pagina's. We willen dat alle informatie vanuit de gemeente zo veel mogelijk wordt gepresenteerd op B1-taalniveau.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "informatie",
+        "vindbaar",
+        "b1-taalniveau",
+        "toegankelijkheid"
+      ]
+    },
+    {
+      "text": "Het netwerk van cultuur- en sportcoaches in de stad uitbreiden.",
+      "originalText": "We breiden het netwerk van cultuur- en sportcoaches in de stad uit.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuurcoaches",
+        "sportcoaches",
+        "netwerk",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Gemeentelijke subsidies vaker meerjarig uitgeven, met een minimum van twee jaar.",
+      "originalText": "Gemeentelijke subsidies moeten vaker meerjarig worden uitgegeven, met een minimum van twee jaar.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "subsidies",
+        "meerjarig",
+        "twee jaar",
+        "cultuur"
+      ]
+    },
+    {
+      "text": "In elk stadsdeel een Haags Sociaal Huis inrichten met één loket en één maatschappelijk werker voor alle hulpvragen.",
+      "originalText": "Volt wil dat iedere inwoner van Den Haag met een hulpvraag kan aankloppen bij het Haags Sociaal Huis. Dat is een aanpak die eenvoudig, menselijk en nabij is, gebaseerd op vertrouwen, concrete kansen en het opbouwen van een leven. Het doel is een stad met één ingang voor hulp, vaste aanspreekpunten en snelle, praktische steun. In elk stadsdeel komt een Haags Sociaal Huis met medewerkers die de buurt goed kennen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haags sociaal huis",
+        "stadsdeel",
+        "één loket",
+        "maatschappelijk werker"
+      ]
+    },
+    {
+      "text": "Wijkcentra, buurthuizen en verenigingen structureel ondersteunen financieel en organisatorisch.",
+      "originalText": "Volt ziet wijkcentra, buurthuizen en verenigingen als het kloppend hart van Den Haag. Deze plekken verdienen daarom structurele steun van de gemeente, bijvoorbeeld financieel, maar ook organisatorisch. We willen dat wijkcentra en verenigingen toegankelijk en betaalbaar blijven voor bewoners, goed onderhouden en duurzaam ondersteund worden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkcentra",
+        "buurthuizen",
+        "verenigingen",
+        "structurele steun"
+      ]
+    },
+    {
+      "text": "Een pilot starten met een bouwdepot waarbij jongeren in kwetsbare positie maandelijks financiële steun ontvangen zonder voorwaarden.",
+      "originalText": "Volt wil dat Den Haag start met een pilot waarbij jongeren in een kwetsbare positie maandelijks financieel worden ondersteund zonder verdere voorwaarden. Dit heet een bouwdepot en wordt al door meerdere gemeenten gebruikt. Hoewel dit in strijd is met de participatiewet, wordt dit gedoogd.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bouwdepot",
+        "pilot",
+        "jongeren",
+        "financiële steun"
+      ]
+    },
+    {
+      "text": "Den Haag kandidaat stellen als Culturele Hoofdstad van Europa in 2033.",
+      "originalText": "Volt stelt het doel dat Den Haag zich kandidaat stelt als Culturele Hoofdstad van Europa in 2033. Dit biedt een unieke kans om de rijke cultuur, historie en internationale identiteit van Den Haag aan Europa te tonen. Het is een impuls voor de lokale economie, stimuleert samenwerking tussen culturele instellingen en versterkt het culturele en internationale imago van de stad.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "culturele hoofdstad van europa",
+        "2033",
+        "kandidaatstelling"
+      ]
+    },
+    {
+      "text": "Jaarlijks terugkerende interculturele evenementen zoals het Embassy Festival behouden.",
+      "originalText": "Volt wil jaarlijks terugkerende evenementen, zoals het Embassy Festival, behouden. Dit zijn plekken waar internationale bewoners muziek, eten, verhalen en kunst uit hun land en cultuur delen. Zo ontstaat een laagdrempelige en feestelijke manier om elkaar te ontmoeten en elkaars achtergrond te leren kennen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "embassy festival",
+        "interculturele evenementen",
+        "behouden",
+        "jaarlijks"
+      ]
+    },
+    {
+      "text": "Inkomensondersteunende regelingen versimpelen en meer vrij besteedbaar geld geven in plaats van tegoeden.",
+      "originalText": "We versimpelen de regelingen voor inkomensondersteuning, geven meer vrij besteedbaar geld en zetten vaste budgetten in voor noodzakelijke kosten, zodat inwoners sneller en passend geholpen kunnen worden. Slechts 3 van de 16 Ooievaarsregelingen heeft de vorm van vrij besteedbaar geld, terwijl het geven van geld veel voordelen heeft.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "inkomensondersteuning",
+        "versimpelen",
+        "vrij besteedbaar geld",
+        "ooievaarsregelingen"
+      ]
+    },
+    {
+      "text": "Den Haag laten uitgroeien tot Europese Vrijwilligershoofdstad in de komende vijf jaar.",
+      "originalText": "Uiteindelijk moet Den Haag in de komende vijf jaar uitgroeien tot Europese Vrijwilligershoofdstad.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "europese vrijwilligershoofdstad",
+        "vijf jaar",
+        "vrijwilligerswerk"
+      ]
+    },
+    {
+      "text": "Gratis rechtshulp opnemen in Ooievaarsregelingen voor mensen die dreigen hun huis te verliezen.",
+      "originalText": "Daarom nemen we in de Ooievaarsregelingen gratis rechtshulp op voor mensen die dreigen hun huis te verliezen. Zo kunnen zij hun rechten kennen en verdedigen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rechtshulp",
+        "ooievaarsregelingen",
+        "huisuitzetting"
+      ]
+    },
+    {
+      "text": "Sociaal werkers plaatsen op scholen, mbo's, hbo's en universiteiten voor vroegtijdige signalering van dakloosheid.",
+      "originalText": "Op scholen, mbo's, hbo's en universiteiten komen sociaal werkers die signalen van onveilig wonen of dreigende dakloosheid tijdig oppakken.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sociaal werkers",
+        "scholen",
+        "dakloosheid",
+        "signalering"
+      ]
+    },
+    {
+      "text": "Structureel de ETHOS-Light-telling uitvoeren voor monitoring van dakloosheid.",
+      "originalText": "Daarnaast voert Den Haag structureel de ETHOS-Light-telling uit, zodat ook kinderen, jongeren, ouderen en arbeidsmigranten in beeld zijn en passende hulp krijgen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ethos-light",
+        "monitoring",
+        "dakloosheid"
+      ]
+    },
+    {
+      "text": "Eén fysiek en digitaal gemeenteloket realiseren voor dakloosheidshulp.",
+      "originalText": "Volt wil één fysiek én digitaal gemeenteloket waar inwoners direct zien waar ze recht op hebben, in heldere taal en zonder bureaucratische omwegen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeenteloket",
+        "dakloosheid",
+        "toegankelijkheid"
+      ]
+    },
+    {
+      "text": "Housing First-pilot starten naar voorbeeld van Helsinki en Lyon.",
+      "originalText": "We starten een Housing First-pilot, naar voorbeeld van Helsinki en Lyon: mensen krijgen direct een eigen woning en intensieve, langdurige begeleiding, zonder eerst aan voorwaarden te moeten voldoen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "housing first",
+        "pilot",
+        "begeleiding"
+      ]
+    },
+    {
+      "text": "Haagse 5-Bruggenlocatie realiseren met dag- en nachtopvang, transitiewoningen en werkplekken.",
+      "originalText": "Ook realiseren we een Haagse 5-Bruggenlocatie, geïnspireerd op Nantes: één plek waar dag- en nachtopvang, transitiewoningen, een sociaal verhuurkantoor, werk- en opleidingsplekken en buurtvoorzieningen samenkomen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "5-bruggenlocatie",
+        "opvang",
+        "transitiewoningen"
+      ]
+    },
+    {
+      "text": "Kleinschalige holistische centra openen in meerdere stadsdelen naar voorbeeld van Gent en Lyon.",
+      "originalText": "Tot slot openen we kleinschalige holistische centra in meerdere stadsdelen, naar voorbeeld van Gent en Lyon, die preventie, crisisopvang, snelle doorstroom en hulp aan arbeidsmigranten combineren.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "holistische centra",
+        "stadsdelen",
+        "crisisopvang"
+      ]
+    },
+    {
+      "text": "Mobiele priklocaties en pop-upcentra voor vaccinaties in drukbezochte buurten realiseren.",
+      "originalText": "De gemeente biedt voorlichting met mobiele priklocaties en pop-up centra in drukbezochte buurten, meertalige voorlichting via vertrouwde ambassadeurs zoals huisartsen en religieuze leiders.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mobiele priklocaties",
+        "vaccinaties",
+        "pop-up centra"
+      ]
+    },
+    {
+      "text": "Jaarlijkse wijkgerichte zorgmonitor invoeren en openbaar delen.",
+      "originalText": "Tot slot wil Volt dat er ieder jaar een wijkgerichte zorgmonitor komt. Deze informatie wordt openbaar gedeeld op de gemeentelijke website en besproken in bijeenkomsten per stadsdeel.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zorgmonitor",
+        "wijkgericht",
+        "transparantie"
+      ]
+    },
+    {
+      "text": "Investeren in kwalitatief goede sportvelden, -hallen en -zalen.",
+      "originalText": "We investeren in kwalitatief goede sportvelden, -hallen en -zalen en stimuleren samenwerking tussen clubs.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "sportvelden",
+        "sporthallen",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Alle scholen worden volledig duurzaam gemaakt in 2035 met zonnepanelen, warmtepompen en circulaire materialen.",
+      "originalText": "Ons doel is dat alle scholen in 2035 volledig duurzaam zijn, met bijvoorbeeld zonnepanelen, warmtepompen en circulaire materialen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "scholen",
+        "duurzaam",
+        "zonnepanelen",
+        "warmtepompen",
+        "2035"
+      ]
+    },
+    {
+      "text": "Investeren in verkoelende, groene en watervriendelijke speelplekken en schoolpleinen.",
+      "originalText": "We investeren bovendien in verkoelende, groene en watervriendelijke speelplekken en schoolpleinen. Deze dragen bij aan biodiversiteit, klimaatadaptatie, beweging en welzijn van kinderen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolpleinen",
+        "groen",
+        "investeren",
+        "klimaatadaptatie"
+      ]
+    },
+    {
+      "text": "Iedere school krijgt een vaste maatschappelijk werker.",
+      "originalText": "Preventieve en vroegtijdige hulp wordt laagdrempeliger wanneer iedere school beschikt over een vaste maatschappelijk werker en de samenwerking tussen onderwijs en zorg structureel wordt georganiseerd in het Sociaal Huis.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "school",
+        "maatschappelijk werker",
+        "zorg",
+        "ondersteuning"
+      ]
+    },
+    {
+      "text": "Schoolgebouwen ruimer opzetten met multifunctionele ruimtes bij renovatie en nieuwbouw.",
+      "originalText": "Door schoolgebouwen bij renovatie en nieuwbouw ruimer op te zetten met multifunctionele ruimtes ontstaat plek voor diverse oplossingen: klassenondersteuners kunnen met subgroepen werken om leraren te ontlasten en leerlingen gerichter te bedienen, (onderwijs)organisaties hebben ruimte voor overleg en training en er is plek voor zorgvoorzieningen in de school of voor overleg met ouders.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schoolgebouwen",
+        "multifunctionele ruimtes",
+        "renovatie",
+        "nieuwbouw"
+      ]
+    },
+    {
+      "text": "Gratis gezonde schoolmaaltijden aanbieden voor alle leerlingen als onderdeel van het onderwijsprogramma.",
+      "originalText": "Volt pleit ook in Den Haag voor het gratis aanbieden van gezonde schoolmaaltijden voor alle leerlingen, waarbij deze maaltijden integraal deel uitmaken van het onderwijsprogramma en bijdragen aan gezonde eetgewoonten.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gratis",
+        "schoolmaaltijden",
+        "leerlingen",
+        "gezond"
+      ]
+    },
+    {
+      "text": "Europese subsidies inzetten voor groene schoolpleinen, duurzame renovatie en digitale innovatie.",
+      "originalText": "Volt benut alle kansen om schoolverbeteringen betaalbaar te maken door Europese subsidies, zoals het Europees Fonds voor Regionale Ontwikkeling en Erasmus+, in te zetten voor groene schoolpleinen, duurzame renovatie en digitale innovatie.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "europese subsidies",
+        "groene schoolpleinen",
+        "duurzame renovatie",
+        "digitale innovatie"
+      ]
+    },
+    {
+      "text": "Multifunctioneel gebruik van schoolgebouwen stimuleren door verhuur aan verenigingen en maatschappelijke initiatieven.",
+      "originalText": "stimuleren we het multifunctioneel gebruik van schoolgebouwen, bijvoorbeeld door deze buiten schooltijd te verhuren aan verenigingen en maatschappelijke initiatieven.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "multifunctioneel gebruik",
+        "schoolgebouwen",
+        "verhuur",
+        "verenigingen"
+      ]
+    },
+    {
+      "text": "Alle gemeentelijke voorzieningen, gebouwen, openbaar vervoer en sport- en cultuurvoorzieningen toegankelijk maken voor mensen met een beperking.",
+      "originalText": "Alle gemeentelijke voorzieningen, gebouwen, openbaar vervoer, sport- en cultuurvoorzieningen worden toegankelijk gemaakt voor mensen met een beperking.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "toegankelijkheid",
+        "gemeentelijke voorzieningen",
+        "beperking",
+        "openbaar vervoer"
+      ]
+    },
+    {
+      "text": "BOA's en gemeente-medewerkers training geven om straatintimidatie en hatecrimes tegen vrouwen en LHBTI+'ers te herkennen en aan te pakken.",
+      "originalText": "Boa's en andere gemeente-medewerkers krijgen training om straatintimidatie en hatecrimes tegen vrouwen en LHBTI+'ers te herkennen en aan te pakken.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "boa",
+        "training",
+        "straatintimidatie",
+        "hatecrimes",
+        "lhbti"
+      ]
+    },
+    {
+      "text": "Structurele gemeentelijke ondersteuning van Pride-evenementen, Coming Out Dag en community-initiatieven.",
+      "originalText": "Daarom kiezen we voor structurele gemeentelijke ondersteuning van Pride-evenementen, Coming Out Dag en community-initiatieven.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "pride",
+        "coming out dag",
+        "gemeentelijke ondersteuning",
+        "community"
+      ]
+    },
+    {
+      "text": "Boa's en gemeentepersoneel krijgen training tegen straatintimidatie, uitbreiding online meldpunt en publiekscampagnes.",
+      "originalText": "Daarom krijgen Haagse boa's en al het andere gemeentepersoneel een training over het tegengaan van straatintimidatie. Om slachtoffers bij te staan zetten we in op betere aangiftebegeleiding, uitbreiding van het online meldpunt en publiekscampagnes.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "boa's",
+        "training",
+        "straatintimidatie",
+        "meldpunt"
+      ]
+    },
+    {
+      "text": "Van alle nieuwe woningen moet ten minste 80% sociaal of betaalbaar zijn.",
+      "originalText": "We blijven ambitieus nieuwe woningen bouwen in Den Haag, van alle nieuwe woningen moet ten minste 80% sociaal of betaalbaar zijn.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "woningen",
+        "80%",
+        "sociaal",
+        "betaalbaar"
+      ]
+    },
+    {
+      "text": "Oprichten van een woonfonds zodat gemeente zelf bijdraagt aan woningbouw en profiteert van opbrengsten.",
+      "originalText": "Met het oprichten van een woonfonds zorgen we dat de gemeente zelf bij gaat dragen aan het bouwen van woningen en profiteert van de opbrengsten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woonfonds",
+        "gemeente",
+        "woningbouw",
+        "opbrengsten"
+      ]
+    },
+    {
+      "text": "Streven naar 40% sociale woningen bouwen de komende jaren.",
+      "originalText": "In Den Haag moet het aantal sociale huurwoningen omhoog, we streven er naar 40% sociaal te bouwen de komende jaren.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "40%",
+        "sociale woningen",
+        "bouwen"
+      ]
+    },
+    {
+      "text": "Woningdelen en splitsen makkelijker maken zodat er in bestaande woningen meer mensen kunnen wonen.",
+      "originalText": "Woningdelen en splitsen maken we makkelijker, zodat er in bestaande woningen meer mensen kunnen wonen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "woningdelen",
+        "splitsen",
+        "bestaande woningen"
+      ]
+    },
+    {
+      "text": "Handhaving tegen misstanden op huurmarkt en tegen leegstand actief voortzetten.",
+      "originalText": "We blijven actief werk maken van handhaving tegen misstanden op de huurmarkt en gaan handhaven tegen leegstand.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "handhaving",
+        "huurmarkt",
+        "leegstand"
+      ]
+    },
+    {
+      "text": "Haagse pandbrigade krijgt meer capaciteit voor handhaving op huurmarkt.",
+      "originalText": "Volt vindt dat de gemeente hier actief op moet blijven handhaven en stelt voor dat de Haagse pandbrigade meer capaciteit krijgt.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pandbrigade",
+        "capaciteit",
+        "handhaving"
+      ]
+    },
+    {
+      "text": "Leegstandsheffing invoeren en actief leegstandsbeheer.",
+      "originalText": "Hier maken we werk van door actief leegstandsbeheer en een leegstandsheffing in te voeren.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leegstandsheffing",
+        "leegstandsbeheer",
+        "invoeren"
+      ]
+    },
+    {
+      "text": "Bij nieuwbouwprojecten minimum percentage parkeerplaatsen invullen met deelmobiliteit.",
+      "originalText": "Daarom wil Volt Den Haag dat er met ontwikkelaars duidelijke afspraken worden gemaakt dat een minimum percentage van de gerealiseerde parkeerplaatsen wordt ingevuld met deelmobiliteit.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeerplaatsen",
+        "deelmobiliteit",
+        "nieuwbouw",
+        "afspraken"
+      ]
+    },
+    {
+      "text": "8-jarigen toets invoeren: bij elk mobiliteitsproject toetsen of een kind van 8 jaar er veilig zelfstandig gebruik van kan maken",
+      "originalText": "Met een 8-jarigen toets wordt bij elk mobiliteitsproject getoetst of een kind van 8 jaar er veilig zelfstandig gebruik van kan maken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "8-jarigen toets",
+        "mobiliteitsproject",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Standaardsnelheid in Den Haag wordt 30 km/u, 50 km/u alleen onder strenge veiligheids- en leefbaarheidsvoorwaarden",
+      "originalText": "De standaardsnelheid in Den Haag wordt 30 km/u. 50 km/u is alleen toegestaan onder strenge veiligheids- en leefbaarheidsvoorwaarden.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "snelheidslimiet",
+        "30 km/u",
+        "verkeersveiligheid"
+      ]
+    },
+    {
+      "text": "Aantal parkeervergunningen verminderen en parkeerplekken herinrichten voor fietsparkeerplekken, groen, speelruimte en terrassen",
+      "originalText": "We verminderen het aantal parkeervergunningen in de stad. Parkeerplekken worden heringericht voor fietsparkeerplekken, groen, speelruimte, ontmoetingsplekken en terrassen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "parkeervergunningen",
+        "parkeerplekken",
+        "herinrichting"
+      ]
+    },
+    {
+      "text": "Plafond op parkeervergunningen in binnenstad en vooroorlogse wijken dat jaarlijks met 2% wordt verlaagd",
+      "originalText": "Volt wil deze ruimte eerlijker verdelen en kiest daarom voor een plafond op het aantal parkeervergunningen in de binnenstad en vooroorlogse wijken, dat jaarlijks met 2% wordt verlaagd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "parkeervergunningen",
+        "plafond",
+        "2% verlaging"
+      ]
+    },
+    {
+      "text": "Grote auto's betalen meer voor parkeervergunningen en parkeerplekken om ruimtegebruik eerlijker te maken",
+      "originalText": "Grote auto's betalen meer voor parkeervergunningen en parkeerplekken om ruimtegebruik eerlijker te maken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "grote auto's",
+        "parkeertarieven",
+        "eerlijke verdeling"
+      ]
+    },
+    {
+      "text": "Onderzoek naar parkeertarieven voor grote auto's vóór begroting van 2028",
+      "originalText": "Volt wil dat er vóór de begroting van 2028 een onderzoek wordt gedaan naar de invoering van dit systeem. De uitkomsten worden gedeeld met de gemeenteraad, zodat er een weloverwogen besluit kan worden genomen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "onderzoek",
+        "2028",
+        "parkeertarieven"
+      ]
+    },
+    {
+      "text": "Investeren in fiets en openbaar vervoer: snelfietsroutes, fietsstraten en OV-verbindingen uitbreiden",
+      "originalText": "We investeren in fiets en openbaar vervoer. Snelfietsroutes, fietsstraten en OV-verbindingen worden uitgebreid.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "snelfietsroutes",
+        "fietsstraten",
+        "ov-verbindingen"
+      ]
+    },
+    {
+      "text": "Regionale snelfietsroutes naar Westland, Wassenaar, Rijswijk en Leidschendam-Voorburg aanleggen",
+      "originalText": "Er komen regionale snelfietsroutes naar het Westland, Wassenaar, Rijswijk en Leidschendam-Voorburg, met aparte fietspaden en voorrang bij verkeerslichten.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "snelfietsroutes",
+        "westland",
+        "wassenaar",
+        "rijswijk"
+      ]
+    },
+    {
+      "text": "Deelmobiliteit organiseren met vaste plekken voor deelfietsen, deelscooters en deelauto's",
+      "originalText": "Deelmobiliteit wordt veilig en overzichtelijk georganiseerd met vaste plekken voor deelfietsen, deelscooters en deelauto's.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "deelmobiliteit",
+        "vaste plekken",
+        "deelauto's"
+      ]
+    },
+    {
+      "text": "OV-netwerk uitbreiden met busbanen, tramverbindingen en onderzoek naar Haags metronet",
+      "originalText": "Het OV-netwerk wordt uitgebreid met busbanen, tramverbindingen en onderzoeken voor op lange termijn een Haags metronet.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ov-netwerk",
+        "busbanen",
+        "tramverbindingen",
+        "metronet"
+      ]
+    },
+    {
+      "text": "Nieuwe tramverbindingen onderzoeken: Laan van NOI naar Scheveningen, tram 11 naar Zuiderstrand, Kijkduin-Zuidwest-Rijswijk",
+      "originalText": "Nieuwe verbindingen om te onderzoeken zijn onder andere van Station Laan van NOI naar Scheveningen voor betere ontsluiting van de badplaats, het doortrekken van tram 11 naar Zuiderstrand en een tangentverbinding van Kijkduin via Zuidwest naar Rijswijk.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "tramverbindingen",
+        "scheveningen",
+        "zuiderstrand",
+        "kijkduin"
+      ]
+    },
+    {
+      "text": "Zero-emissiezones handhaven en inzetten op emissievrije voertuigen, pakketpunten en sloopregeling oude auto's",
+      "originalText": "We hanteren de huidige zero-emissiezones die de stad schoner en gezonder maken. Ook zetten we in op emissievrije voertuigen, pakketpunten en een sloopregeling voor de oude auto's.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zero-emissiezones",
+        "emissievrije voertuigen",
+        "sloopregeling"
+      ]
+    },
+    {
+      "text": "Alle bestel- en vrachtauto's emissievrij tegen 2030, alle nieuwe voertuigen op kenteken emissievrij vanaf 2035",
+      "originalText": "Tegen 2030 zijn alle bestel- en vrachtauto's emissievrij, en vanaf 2035 moeten alle nieuwe voertuigen op kenteken emissievrij zijn.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "2030",
+        "2035",
+        "emissievrij",
+        "vrachtauto's"
+      ]
+    },
+    {
+      "text": "Mobiliteitsbudgetten voor auto, fiets en OV integreren en parkeertarief-opbrengsten naar duurzame mobiliteit",
+      "originalText": "Mobiliteitsbudgetten voor auto, fiets en OV worden geïntegreerd en opbrengsten uit parkeertarieven gaan naar duurzame mobiliteit.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mobiliteitsbudgetten",
+        "integratie",
+        "parkeertarieven"
+      ]
+    },
+    {
+      "text": "Taalonderwijs als structureel recht voor alle inwoners, ongeacht verblijfsstatus",
+      "originalText": "Taalonderwijs als structureel recht: toegankelijk voor alle inwoners, ongeacht verblijfsstatus.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "taalonderwijs",
+        "structureel recht",
+        "inwoners"
+      ]
+    },
+    {
+      "text": "Wijkbudgetten beschikbaar stellen om ontmoetingsinitiatieven tussen nieuwkomers en maatschappelijke organisaties te ondersteunen.",
+      "originalText": "Volt wil dat de gemeente actief bruggen bouwt tussen nieuwkomers en maatschappelijke organisaties. Daarvoor stellen we wijkbudgetten beschikbaar om ontmoetingsinitiatieven te ondersteunen, en stimuleren mentorprojecten waarbij ervaren inwoners nieuwkomers begeleiden.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkbudgetten",
+        "ontmoetingsinitiatieven",
+        "nieuwkomers",
+        "integratie"
+      ]
+    },
+    {
+      "text": "Tijdelijk leegstaande kantoren of panden benutten voor opvang en woonruimte voor statushouders.",
+      "originalText": "Daarnaast benutten we tijdelijk leegstaande kantoren of panden voor opvang en woonruimte.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "leegstaande panden",
+        "opvang",
+        "woonruimte",
+        "statushouders"
+      ]
+    },
+    {
+      "text": "Laagdrempelige wijkloketten instellen waar mensen terecht kunnen voor rechtshulp, werk, vrijwilligerswerk en integratievragen.",
+      "originalText": "Volt wil laagdrempelige wijkloketten waar mensen terecht kunnen voor rechtshulp, werk, vrijwilligerswerk en integratievragen. Dit combineren we met digitale toegang en meertalige informatie.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkloketten",
+        "rechtshulp",
+        "meertalige informatie",
+        "integratievragen"
+      ]
+    },
+    {
+      "text": "Investeren in meer en nog beter getrainde boa's die voldoende tijd en capaciteit hebben om meldingen van bewoners snel op te pakken.",
+      "originalText": "Investeren in meer en nog beter getrainde boa's die voldoende tijd en capaciteit hebben om meldingen van bewoners snel op te pakken.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "boa's",
+        "training",
+        "handhaving",
+        "capaciteit"
+      ]
+    },
+    {
+      "text": "Buurtinterventieteams en -preventieteams versterken met middelen, ondersteuning en snelle opvolging van hun signalen door de gemeente.",
+      "originalText": "Buurtinterventieteams en -preventieteams versterken met middelen, ondersteuning en snelle opvolging van hun signalen door de gemeente.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "buurtinterventieteams",
+        "preventieteams",
+        "middelen",
+        "ondersteuning"
+      ]
+    },
+    {
+      "text": "Anonieme inleverpunten voor messen instellen en educatieve programma's ontwikkelen om messengeweld onder jongeren aan te pakken.",
+      "originalText": "Messengeweld onder jongeren aanpakken met anonieme inleverpunten en educatieve programma's die veiligheid, bewustwording en sociale weerbaarheid bevorderen.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "messengeweld",
+        "inleverpunten",
+        "educatieve programma's",
+        "jongeren"
+      ]
+    },
+    {
+      "text": "Meer straatverlichting en slimmere straatverlichting aanleggen om de fysieke inrichting van de openbare ruimte te verbeteren.",
+      "originalText": "Fysieke inrichting van de openbare ruimte verbeteren. Gedacht kan worden aan meer straatverlichting en slimmere straatverlichting. Ook het inzetten van slimme technologie zoals cameratoezicht kan helpen bij het creëren van meer gevoel van veiligheid op straat.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "straatverlichting",
+        "openbare ruimte",
+        "slimme technologie",
+        "veiligheid"
+      ]
+    },
+    {
+      "text": "Cameratoezicht blijven inzetten op overlastgebieden met een duidelijk privacybeleid en transparantie, gecombineerd met moderne technologie.",
+      "originalText": "Cameratoezicht blijven inzetten op overlastgebieden met een duidelijk privacybeleid en transparantie, gecombineerd met moderne technologie.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cameratoezicht",
+        "overlastgebieden",
+        "privacybeleid",
+        "moderne technologie"
+      ]
+    },
+    {
+      "text": "Samenwerken met onderwijsinstellingen en startups om algoritmes te ontwikkelen voor slimme camera's die verdachte situaties herkennen en valse meldingen verminderen.",
+      "originalText": "Volt wil daarom samenwerken met lokale onderwijsinstellingenen startups om algoritmes te ontwikkelen die verdachte situaties beter herkennen en valse meldingen verminderen.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "slimme camera's",
+        "algoritmes",
+        "onderwijsinstellingen",
+        "startups"
+      ]
+    },
+    {
+      "text": "Inleverpunten in Haagse wijken oprichten waar jongeren anoniem hun messen kunnen afstaan, waarna de wapens worden vernietigd.",
+      "originalText": "Volt pleit daarom voor inleverpunten in Haagse wijken waar jongeren anoniem hun messen kunnen afstaan. De ingeleverde wapens worden vernietigd.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "inleverpunten",
+        "messen",
+        "jongeren",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Educatieve programma's voor jongeren van 12 tot 16 jaar opzetten over gevaren van messenbezit en conflictpreventie.",
+      "originalText": "opbrengsten hiervan worden ingezet voor educatieve programma's voor jongeren van 12 tot 16 jaar. In deze programma's leren zij over de gevaren van messenbezit, hoe je conflicten kunt voorkomen en hoe je sterker in sociale situaties kunt staan.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "educatieve programma's",
+        "jongeren",
+        "messenbezit",
+        "conflictpreventie"
+      ]
+    },
+    {
+      "text": "Een gerichte meldcampagne rondom wapengeweld en intimidatie organiseren via sociale media, buurtbijeenkomsten en scholen.",
+      "originalText": "pleiten wij voor een gerichte meldcampagne rondom wapengeweld en intimidatie op straat. Met een toegankelijke en herkenbare communicatiecampagne, verspreid via sociale media, buurtbijeenkomsten en scholen",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "meldcampagne",
+        "wapengeweld",
+        "intimidatie",
+        "sociale media"
+      ]
+    },
+    {
+      "text": "Speciaal getrainde communicatieteams inzetten bij grote demonstraties naar voorbeeld van Duitse Anti-Konflikt-Teams.",
+      "originalText": "Volt stelt voor om, naar voorbeeld van de Duitse Anti-Konflikt-Teams, bij demonstraties teams in te zetten van herkenbare functionarissen. Zij gaan al in een vroeg stadium in gesprek met demonstranten, hulpdiensten en omwonenden.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "communicatieteams",
+        "demonstraties",
+        "anti-konflikt-teams",
+        "functionarissen"
+      ]
+    },
+    {
+      "text": "Het Haags Hitteplan updaten met maatregelen die gezondheid, natuur en leefbaarheid beschermen tegen hete zomers.",
+      "originalText": "Volt wil dat Den Haag voorbereid is op hete zomers. Daarom updaten we het Haags Hitteplan met maatregelen die gezondheid, natuur en leefbaarheid beschermen.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haags hitteplan",
+        "hitte",
+        "gezondheid",
+        "klimaatadaptatie"
+      ]
+    },
+    {
+      "text": "100% circulair aanbesteden door de gemeente om het goede voorbeeld te geven in de circulaire transitie.",
+      "originalText": "We zetten in op een circulaire gemeente en geven het goede voorbeeld door 100% circulair aan te besteden.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "circulair aanbesteden",
+        "100%",
+        "circulaire economie",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "Voor 2030 ten minste 10.000 laadpalen voor elektrische en hybride auto's plaatsen in Den Haag.",
+      "originalText": "Voor 2030 staan er in Den Haag ten minste 10.000 laadpalen voor elektrische en hybride auto's.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "laadpalen",
+        "10.000",
+        "2030",
+        "elektrische auto's"
+      ]
+    },
+    {
+      "text": "Het laadtarief tijdelijk verhogen om de uitbreiding van laadinfrastructuur te bekostigen.",
+      "originalText": "Om dit te bekostigen verhogen we tijdelijk het laadtarief.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "laadtarief",
+        "verhogen",
+        "laadinfrastructuur",
+        "bekostigen"
+      ]
+    },
+    {
+      "text": "Meldingsapplicaties koppelen aan beloningssystemen en containertuintjes uitbreiden om afvaloverlast tegen te gaan.",
+      "originalText": "We koppelen meldingsapplicaties aan beloningssystemen, waarderen bewoners die zich inzetten voor hun wijk en stimuleren placemaking rond containers: met groen, kunst en herkenbare ontwerpen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "meldingsapplicaties",
+        "beloningssystemen",
+        "containertuintjes",
+        "afval"
+      ]
+    },
+    {
+      "text": "De natuur rechten geven als een van de eerste steden in Nederland door natuurgebieden juridische status te verlenen.",
+      "originalText": "We geven de natuur rechten als een van de eerste steden in Nederland.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "natuurrechten",
+        "juridische status",
+        "natuurgebieden",
+        "rechtspersonen"
+      ]
+    },
+    {
+      "text": "Een Groen-Blauw-raamwerk ontwikkelen om groene plekken en water met elkaar te verbinden voor recreatie en biodiversiteit.",
+      "originalText": "Groene plekken en water worden zoveel mogelijk met elkaar verbonden, daarvoor zetten we in op een Groen-Blauw-raamwerk, goed voor recreatie en biodiversiteit.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groen-blauw-raamwerk",
+        "groene plekken",
+        "water",
+        "biodiversiteit"
+      ]
+    },
+    {
+      "text": "Meer schone en toegankelijke openbare toiletten in Den Haag realiseren.",
+      "originalText": "Volt wil meer schone en toegankelijke openbare toiletten in Den Haag.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "openbare toiletten",
+        "schoon",
+        "toegankelijk",
+        "voorzieningen"
+      ]
+    },
+    {
+      "text": "Iedereen in Den Haag krijgt binnen 15 minuten lopen toegang tot een groene plek zoals een park, plantsoen of groene speelplek.",
+      "originalText": "Iedereen in Den Haag moet binnen 15 minuten lopen toegang hebben tot een groene plek: een park, plantsoen, hofje of groene speelplek.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groene plek",
+        "park",
+        "15 minuten lopen",
+        "toegang"
+      ]
+    },
+    {
+      "text": "Stimuleringsregelingen invoeren en verplichtingen opleggen voor groene daken bij nieuwbouw en renovatie.",
+      "originalText": "Volt wil dat Den Haag volop inzet op vergroening van daken, door stimuleringsregelingen, duidelijke richtlijnen en verplichtingen bij nieuwbouw en renovatie.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groene daken",
+        "stimuleringsregelingen",
+        "nieuwbouw",
+        "renovatie",
+        "verplichtingen"
+      ]
+    },
+    {
+      "text": "Een groenblauw-raamwerk creëren met wandelroutes en de Haagse Beek overal weer openmaken, omzoomd met parken.",
+      "originalText": "We verbinden groen en water door de stad door in te zetten op het creëren van een groenblauw-raamwerk. De Haagse Beek maken we weer overal open, en omzomen de waterkant met parken aan beide kanten.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groenblauw-raamwerk",
+        "haagse beek",
+        "open maken",
+        "parken",
+        "wandelroutes"
+      ]
+    },
+    {
+      "text": "Schoonmaak, afvalvoorzieningen, rolstoeltoegankelijke toiletten, douches en drinkwatertappunten bij het strand uitbreiden.",
+      "originalText": "Schoonmaak, afvalvoorzieningen, rolstoeltoegankelijke toiletten, douches en drinkwatertappunten moeten worden uitgebreid",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "strand",
+        "toiletten",
+        "douches",
+        "drinkwatertappunten",
+        "uitbreiden"
+      ]
+    },
+    {
+      "text": "Meer openbare toiletten plaatsen in Haagse wijken, parken en drukbezochte plekken, met meer rolstoeltoegankelijke voorzieningen.",
+      "originalText": "Volt wil meer openbare toiletten in Haagse wijken, parken en drukbezochte plekken. Tot slot moeten meer toiletten rolstoeltoegankelijk zijn, zodat ook mensen met een beperking zich vrij en waardig door Den Haag kunnen bewegen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "openbare toiletten",
+        "wijken",
+        "parken",
+        "rolstoeltoegankelijk"
+      ]
+    },
+    {
+      "text": "Een Green Innovation Park realiseren als hub voor groene start-ups, gefinancierd via Europese subsidies.",
+      "originalText": "Uiteindelijk wil Volt in Den Haag toewerken naar een Green Innovation Park, als hub waar start-ups in deze sector dicht bij elkaar kunnen gaan zitten. We gaan hiervoor op zoek naar een geschikte plek in de stad. Om dit te financieren zetten we in op Europese subsidies en het cofinancieringsfonds.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "green innovation park",
+        "start-ups",
+        "groene bedrijven",
+        "europese subsidies"
+      ]
+    },
+    {
+      "text": "Een nieuwe toerismevisie maken en citymarketing versterken om Den Haag als reisbestemming zichtbaarder te maken.",
+      "originalText": "We investeren in toerisme en maken een nieuwe toerismevisie, gefocust op verschillende doelgroepen zoals zakelijke reizigers, culturele bezoekers en dagjesmensen. We versterken de citymarketing en de zichtbaarheid van Den Haag als interessante reisbestemming.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "toerismevisie",
+        "citymarketing",
+        "reisbestemming",
+        "toerisme"
+      ]
+    },
+    {
+      "text": "Een evenementenvisie opstellen om bestaande evenementen te behouden en nieuwe toe te voegen, zoals een Tour de France etappe.",
+      "originalText": "Volt wil samen met de inwoners van Den Haag een evenementenvisie opstellen waarmee we bestaande evenementen behouden en vernieuwen, maar ook nieuwe initiatieven toevoegen, zoals internationale sporttoernooien of een etappe van de Tour de France.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "evenementenvisie",
+        "tour de france",
+        "sporttoernooien",
+        "evenementen"
+      ]
+    },
+    {
+      "text": "Één centraal ondernemersportaal opzetten met alle informatie, regelingen en vergunningprocessen voor bedrijven.",
+      "originalText": "Met één centraal ondernemersportaal worden alle informatie, regelingen en contactpunten duidelijk vindbaar. In dit portaal komen ook simpelere vergunning- en subsidieprocessen, zodat de administratieve lasten voor bedrijven worden verlaagd.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ondernemersportaal",
+        "vergunningen",
+        "regelingen",
+        "administratieve lasten"
+      ]
+    },
+    {
+      "text": "Bedrijventerreinen veilig, duurzaam en toekomstbestendig maken met prioriteit voor groene bedrijven.",
+      "originalText": "Volt wil investeren in de huidige bedrijventerreinen door ze veilig, duurzaam en toekomstbestendig te maken, ook voor energietransitie, klimaatadaptatie en circulaire economie. Met name groene ondernemingen en bedrijven die bijdragen aan het profiel van Den Haag moeten een plek krijgen.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "bedrijventerreinen",
+        "duurzaam",
+        "groene bedrijven",
+        "energietransitie"
+      ]
+    },
+    {
+      "text": "Kunstmatige intelligentie inzetten om publieke dienstverlening te verbeteren met heldere ethische kaders en een gemeentelijke AI-richtlijn.",
+      "originalText": "Kunstmatige intelligentie wordt ingezet om publieke dienstverlening en stedelijke uitdagingen te verbeteren, met heldere ethische kaders, een gemeentelijke AI-richtlijn en samenwerking met andere overheden.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kunstmatige intelligentie",
+        "ai-richtlijn",
+        "publieke dienstverlening"
+      ]
+    },
+    {
+      "text": "Een 24/7 actieve Den Haag Chatbot ontwikkelen om inwoners te helpen bij ingewikkelde procedures en vragen.",
+      "originalText": "Voorbeelden hoe AI de inwoners van Den Haag gaat helpen zijn bijvoorbeeld een 24/7 actieve Den Haag Chatbot om inwoners te helpen bij ingewikkelde procedures, vragen of actief delen van informatie die interessant is voor gerichte groepen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "chatbot",
+        "24/7",
+        "procedures",
+        "inwoners"
+      ]
+    },
+    {
+      "text": "Een app ontwikkelen waar alle meldingen over de omgeving gemakkelijk kunnen worden ingediend via één applicatie.",
+      "originalText": "Een voorbeeld hiervan is dat meldingen over de omgeving, zoals afval op straat, een onveilige situatie, woonoverlast, gemakkelijk ingediend worden via één app.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "app",
+        "meldingen",
+        "omgeving",
+        "digitaal"
+      ]
+    },
+    {
+      "text": "Fysiek contact met de gemeente altijd mogelijk houden naast digitale dienstverlening.",
+      "originalText": "Inwoners en ondernemers krijgen gebruiksvriendelijke, verbonden en veilige digitale diensten, waarbij zij zelf zeggenschap houden over hun gegevens. Fysiek contact met de gemeente blijft altijd mogelijk.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "fysiek contact",
+        "gemeente",
+        "toegankelijkheid"
+      ]
+    },
+    {
+      "text": "Een voortrekkersrol spelen bij de invoering van de eWallet waarmee inwoners controle houden over hun digitale identiteit en documenten.",
+      "originalText": "De gemeente speelt een voortrekkersrol bij de invoering van de eWallet, waarmee inwoners controle houden over hun digitale identiteit en documenten.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ewallet",
+        "digitale identiteit",
+        "voortrekkersrol"
+      ]
+    },
+    {
+      "text": "Niet-persoonsgebonden gemeentelijke data openbaar en gratis beschikbaar maken voor iedereen.",
+      "originalText": "Niet-persoonsgebonden data worden openbaar beschikbaar gesteld en de gemeente kiest zo veel mogelijk voor open source oplossingen, waarbij verouderde en onveilige software tijdig wordt vervangen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "open data",
+        "transparantie",
+        "niet-persoonsgebonden"
+      ]
+    },
+    {
+      "text": "Zoveel mogelijk kiezen voor open source softwareoplossingen en verouderde onveilige software tijdig vervangen.",
+      "originalText": "Niet-persoonsgebonden data worden openbaar beschikbaar gesteld en de gemeente kiest zo veel mogelijk voor open source oplossingen, waarbij verouderde en onveilige software tijdig wordt vervangen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "open source",
+        "software",
+        "digitale veiligheid"
+      ]
+    },
+    {
+      "text": "Het cyber- en IT-crisisplan meerdere keren per jaar testen met realistische scenario's.",
+      "originalText": "Het cyber- en IT-crisisplan wordt meerdere keren per jaar getest met realistische scenario's.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "crisisplan",
+        "cyberbeveiliging",
+        "testen"
+      ]
+    },
+    {
+      "text": "Faciliteren van alles wat nodig is voor een derde Haagse Vredesconferentie.",
+      "originalText": "Alles faciliteren voor een derde Haagse Vredesconferentie.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vredesconferentie",
+        "internationaal",
+        "faciliteren"
+      ]
+    },
+    {
+      "text": "Blijven investeren in huisvesting van internationale organisaties en ontwikkeling van de Internationale Zone.",
+      "originalText": "Door te blijven investeren in de huisvesting van internationale organisaties en de ontwikkeling van de Internationale Zone, versterkt Den Haag zijn internationale positie, creëert werkgelegenheid en vermindert overlast bij grote conferenties.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "internationale organisaties",
+        "internationale zone",
+        "investeren"
+      ]
+    },
+    {
+      "text": "Een informatiepunt voor EU-subsidies en -kansen instellen waar inwoners en ondernemers terecht kunnen voor informatie over Europese subsidies en internationale rechten.",
+      "originalText": "Inwoners en ondernemers van Den Haag moeten bij de gemeente terecht kunnen voor informatie over Europese subsidies, Europese kansen en internationale rechten. Bijvoorbeeld voor middelen die vanuit de Europese Green Deal beschikbaar zijn voor vergroening van versteende buurten en duurzame renovatie van woningen door Haagse ondernemers.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "informatiepunt",
+        "eu-subsidies",
+        "ondernemers"
+      ]
+    },
+    {
+      "text": "De EU-strategie van Den Haag verder uitwerken en implementeren, onder andere door aan te sluiten bij het Europese plan 'Readiness 2030'.",
+      "originalText": "Den Haag heeft als één van de weinige gemeenten in Nederland een EU-strategie. Volt moedigt dat vanzelfsprekend aan. Maar we zijn ook ambitieus: we willen dat de EU-strategie van Den Haag verder wordt uitgewerkt en geïmplementeerd. Bijvoorbeeld door aan te sluiten bij een groot Europees plan dat 'Readiness 2030' heet.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "eu-strategie",
+        "implementeren",
+        "readiness 2030"
+      ]
+    },
+    {
+      "text": "De Internationale Zone tussen de binnenstad en Scheveningen verder verdichten en de noodzakelijke infrastructuur verbeteren voor internationale conferenties.",
+      "originalText": "Volt wil dat hiervoor de Internationale Zone tussen de binnenstad en Scheveningen verder wordt verdicht en de noodzakelijke infrastructuur wordt verbeterd. Zo wordt de overlast voor de bewoners verminderd en biedt Den Haag meer mogelijkheden voor internationale conferenties.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "internationale zone",
+        "verdichten",
+        "infrastructuur",
+        "conferenties"
+      ]
+    },
+    {
+      "text": "Bij nieuwbouwprojecten structureel regionaal afstemmen met gezamenlijke parkeernormen, mobiliteitshubs, betere fiets- en OV-verbindingen en P+R-faciliteiten aan de stadsrand.",
+      "originalText": "Volt wil dat Den Haag bij nieuwbouwprojecten structureel regionaal afstemt: gezamenlijke parkeernormen, mobiliteitshubs, betere fiets- en OV-verbindingen en P+R-faciliteiten aan de stadsrand.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "nieuwbouwprojecten",
+        "parkeernormen",
+        "mobiliteitshubs",
+        "p+r-faciliteiten"
+      ]
+    },
+    {
+      "text": "Binnen de MRDH samenwerken aan de invoering van Zero-Emissiezones voor stadslogistiek met uniforme regels en gedeelde hubs.",
+      "originalText": "Daarnaast werken we binnen de MRDH samen aan de invoering van Zero-Emissiezones voor stadslogistiek. Door uniforme regels en gedeelde hubs krijgen ondernemers duidelijkheid en worden wijken gezonder.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "zero-emissiezones",
+        "stadslogistiek",
+        "mrdh",
+        "gedeelde hubs"
+      ]
+    }
+  ]
+}

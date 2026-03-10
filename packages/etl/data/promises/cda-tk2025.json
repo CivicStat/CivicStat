@@ -1,0 +1,2467 @@
+{
+  "party": "CDA",
+  "partySlug": "cda",
+  "program": "Bouwen op vertrouwen",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-17",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88765/",
+  "pdfHash": "fc08304b2033a72055c59f1bec76d2e72668db40b3c4086351fe5dd6d308b2e8",
+  "totalPromises": 162,
+  "promises": [
+    {
+      "promiseCode": "CDA-2025-001",
+      "text": "Het CDA wil een dienstplicht invoeren om ervoor te zorgen dat iedereen meedoet in de samenleving.",
+      "summary": "Invoering van dienstplicht",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienstplicht",
+        "samenleving",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 3",
+      "originalQuote": "Met een dienstplicht en stevige inburgering zorgen we dat iedereen meedoet."
+    },
+    {
+      "promiseCode": "CDA-2025-002",
+      "text": "Het CDA wil de inburgering versterken om ervoor te zorgen dat iedereen meedoet in de samenleving.",
+      "summary": "Versterking van inburgering",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inburgering",
+        "integratie",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 3",
+      "originalQuote": "Met een dienstplicht en stevige inburgering zorgen we dat iedereen meedoet."
+    },
+    {
+      "promiseCode": "CDA-2025-003",
+      "text": "Jaarlijks 100.000 woningen bouwen",
+      "summary": "Woningbouw van 100.000 per jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouw",
+        "100000",
+        "woningen",
+        "jaarlijks"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "jaarlijks 100.000 woningen te bouwen"
+    },
+    {
+      "promiseCode": "CDA-2025-004",
+      "text": "De gang naar de Raad van State beperken bij woningbouw procedures",
+      "summary": "Beperking Raad van State procedures woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "raad van state",
+        "woningbouw",
+        "procedures",
+        "juridisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "De gang naar de Raad van State beperken we"
+    },
+    {
+      "promiseCode": "CDA-2025-005",
+      "text": "De hypotheekrenteaftrek stap voor stap afbouwen en tegelijk de inkomstenbelasting evenveel verlagen",
+      "summary": "Afbouw hypotheekrenteaftrek met compensatie inkomstenbelasting",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "afbouw",
+        "inkomstenbelasting",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "De hypotheekrenteaftrek bouwen we stap voor stap af, terwijl we tegelijk de inkomstenbelasting evenveel verlagen"
+    },
+    {
+      "promiseCode": "CDA-2025-006",
+      "text": "Asielaanvragen laten plaatsvinden buiten Europa",
+      "summary": "Asielprocedures buiten Europa",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "asielaanvragen",
+        "europa",
+        "asielsysteem",
+        "extern"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "Asielaanvragen gebeuren buiten Europa, zodat mensensmokkel stopt"
+    },
+    {
+      "promiseCode": "CDA-2025-007",
+      "text": "Uitgeprocedeerde asielzoekers die niet meewerken aan terugkeer maken zich strafbaar",
+      "summary": "Strafbaarstelling niet-meewerkende uitgeprocedeerden",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "uitgeprocedeerd",
+        "asielzoekers",
+        "terugkeer",
+        "strafbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "Uitgeprocedeerde asielzoekers die niet meewerken aan terugkeer maken zich strafbaar"
+    },
+    {
+      "promiseCode": "CDA-2025-008",
+      "text": "De spreidingswet uitvoeren voor asielopvang",
+      "summary": "Uitvoering spreidingswet asielopvang",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "spreidingswet",
+        "asielopvang",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "We voeren de spreidingswet uit, zodat de chaos in de asielopvang stopt"
+    },
+    {
+      "promiseCode": "CDA-2025-009",
+      "text": "Het wietexperiment stoppen",
+      "summary": "Stoppen wietexperiment",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wietexperiment",
+        "stoppen",
+        "drugs"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "We stoppen met het wietexperiment"
+    },
+    {
+      "promiseCode": "CDA-2025-010",
+      "text": "Een wiettaks heffen zolang het wietexperiment nog loopt",
+      "summary": "Wiettaks tijdens wietexperiment",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wiettaks",
+        "wietexperiment",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "Zolang het nog loopt, heffen we een wiettaks"
+    },
+    {
+      "promiseCode": "CDA-2025-011",
+      "text": "De verlaging van het eigen risico terugdraaien",
+      "summary": "Terugdraaien verlaging eigen risico",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen risico",
+        "verlaging",
+        "terugdraaien",
+        "zorgpremie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 4",
+      "originalQuote": "We draaien de verlaging van het eigen risico terug, want die maakt de premie alleen maar duurder"
+    },
+    {
+      "promiseCode": "CDA-2025-012",
+      "text": "Een motiequotum invoeren in de Tweede Kamer",
+      "summary": "Motiequotum Tweede Kamer",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "motiequotum",
+        "tweede kamer",
+        "debat"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "In de Tweede Kamer komt een motiequotum, zodat het debat weer gaat over wat echt belangrijk is"
+    },
+    {
+      "promiseCode": "CDA-2025-013",
+      "text": "De Eerste Kamer wordt om de drie jaar verkozen voor 38 en 37 leden met een zittingsduur van 6 jaar",
+      "summary": "Hervorming verkiezing Eerste Kamer",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eerste kamer",
+        "verkiezing",
+        "drie jaar",
+        "38 leden",
+        "37 leden",
+        "6 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "De Eerste Kamer wordt om de drie jaar voor 38 en 37 leden verkozen en de zittingsduur wordt 6 jaar"
+    },
+    {
+      "promiseCode": "CDA-2025-014",
+      "text": "De militaire opkomstplicht herstellen",
+      "summary": "Herstel militaire opkomstplicht",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opkomstplicht",
+        "militair",
+        "herstel",
+        "defensie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "We herstellen de militaire opkomstplicht zodat er altijd genoeg mensen klaarstaan om ons te verdedigen"
+    },
+    {
+      "promiseCode": "CDA-2025-015",
+      "text": "Statushouders moeten verplicht inburgeren, anders verliezen ze hun status",
+      "summary": "Verplichte inburgering statushouders",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "statushouders",
+        "inburgering",
+        "verplicht",
+        "status"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "Statushouders moeten verplicht inburgeren, anders verliezen ze hun status"
+    },
+    {
+      "promiseCode": "CDA-2025-016",
+      "text": "Kinderen van statushouders volgen verplichte voor- en vroegschoolse educatie",
+      "summary": "Verplichte voorschoolse educatie statushouderkinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "statushouders",
+        "kinderen",
+        "voorschoolse educatie",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "Kinderen van statushouders volgen verplichte voor- en vroegschoolse educatie"
+    },
+    {
+      "promiseCode": "CDA-2025-017",
+      "text": "Kinderbijslag en kindgebonden budget verhogen en samenvoegen tot één regeling",
+      "summary": "Verhoging en samenvoeging kinderbijslag",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebonden budget",
+        "verhogen",
+        "samenvoegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "kinderbijslag en kindgebonden budget te verhogen en samen te voegen tot één eenvoudige regeling"
+    },
+    {
+      "promiseCode": "CDA-2025-018",
+      "text": "Eén ruimere regeling invoeren voor betaald verlof voor beide ouders in het eerste jaar van hun kind",
+      "summary": "Nieuwe regeling betaald ouderschapsverlof",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouderschapsverlof",
+        "betaald verlof",
+        "beide ouders",
+        "eerste jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "Er komt één ruimere regeling voor betaald verlof voor beide ouders in het eerste jaar van hun kind"
+    },
+    {
+      "promiseCode": "CDA-2025-019",
+      "text": "Een verplichte leeftijdscheck invoeren voor social media",
+      "summary": "Verplichte leeftijdscheck social media",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leeftijdscheck",
+        "social media",
+        "verplicht",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "voeren een verplichte leeftijdscheck in voor social media"
+    },
+    {
+      "promiseCode": "CDA-2025-020",
+      "text": "De kostendelersnorm in de Participatiewet afschaffen",
+      "summary": "Afschaffing kostendelersnorm Participatiewet",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "participatiewet",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "We schaffen de kostendelersnorm in de Participatiewet af"
+    },
+    {
+      "promiseCode": "CDA-2025-021",
+      "text": "Mantelzorgwoningen mogen vergunningsvrij op eigen erf worden gebouwd",
+      "summary": "Vergunningsvrije bouw mantelzorgwoningen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mantelzorgwoningen",
+        "vergunningsvrij",
+        "eigen erf",
+        "bouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 5",
+      "originalQuote": "Mantelzorgwoningen mogen vergunningsvrij op eigen erf worden gebouwd"
+    },
+    {
+      "promiseCode": "CDA-2025-022",
+      "text": "Het CDA wil een nationale investeringsbank oprichten die investeringen in Nederland aanjaagt.",
+      "summary": "Oprichten nationale investeringsbank",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationale",
+        "investeringsbank",
+        "investeringen",
+        "nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 6",
+      "originalQuote": "We richten een nationale investeringsbank op die investeringen in Nederland aanjaagt."
+    },
+    {
+      "promiseCode": "CDA-2025-023",
+      "text": "De Nederlandse klimaatwet wordt aangepast om te volgen aan de Europese klimaatdoelen.",
+      "summary": "Nederlandse klimaatwet aanpassen aan Europese doelen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatwet",
+        "nederlandse",
+        "europese",
+        "klimaatdoelen",
+        "aanpassen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 6",
+      "originalQuote": "Daarom volgen we de Europese klimaatdoelen en passen we de Nederlandse klimaatwet daarop aan."
+    },
+    {
+      "promiseCode": "CDA-2025-024",
+      "text": "De nationale CO₂-heffing wordt geschrapt.",
+      "summary": "Nationale CO₂-heffing schrappen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale",
+        "co2-heffing",
+        "schrappen",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 6",
+      "originalQuote": "De nationale CO₂-heffing schrappen we, want we willen bedrijven niet wegjagen."
+    },
+    {
+      "promiseCode": "CDA-2025-025",
+      "text": "Er worden normen gesteld voor stikstof die in 2035 en daarvoor moeten worden behaald.",
+      "summary": "Stikstofnormen voor 2035 stellen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofnormen",
+        "2035",
+        "normen",
+        "behaald"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 6",
+      "originalQuote": "We werken samen om de stikstofdoelen te behalen, maar stellen ook normen die in 2035 en daarvoor moeten worden behaald."
+    },
+    {
+      "promiseCode": "CDA-2025-026",
+      "text": "Het stikstoffonds wordt opnieuw opgericht om boeren perspectief te geven en voedselproductie te beschermen.",
+      "summary": "Stikstoffonds opnieuw oprichten voor boeren",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstoffonds",
+        "boeren",
+        "perspectief",
+        "voedselproductie",
+        "beschermen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 6",
+      "originalQuote": "Het stikstoffonds richten we opnieuw op om boeren perspectief te geven en onze voedselproductie van topkwaliteit te beschermen."
+    },
+    {
+      "promiseCode": "CDA-2025-027",
+      "text": "Het arbeidsongeschiktheidsstelsel wordt vernieuwd.",
+      "summary": "Arbeidsongeschiktheidsstelsel vernieuwen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsongeschiktheidsstelsel",
+        "vernieuwen",
+        "werknemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 6",
+      "originalQuote": "Het arbeidsongeschiktheidsstelsel vernieuwen we, want na 20 jaar is dat hard nodig."
+    },
+    {
+      "promiseCode": "CDA-2025-028",
+      "text": "Het CDA wil de onevenredige verantwoordingsdruk in de samenleving verminderen door het terugdringen van overtollige regels en bureaucratie",
+      "summary": "Verminderen onevenredige verantwoordingsdruk door minder regels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verantwoordingsdruk",
+        "regels",
+        "bureaucratie",
+        "deregulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 7",
+      "originalQuote": "We stoppen met de gedachte dat meer regels altijd leiden tot het maken van minder fouten. Onevenredige verantwoordingsdruk zorgt voor maatschappelijke schade"
+    },
+    {
+      "promiseCode": "CDA-2025-029",
+      "text": "De kinderbijslag en het kindgebondenbudget worden samengevoegd in één regeling met een hoger vast en een lager variabel deel. Alle kindregelingen worden door één instantie automatisch uitgekeerd.",
+      "summary": "Kinderbijslag en kindgebondenbudget samenvoegen in één regeling",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderbijslag",
+        "kindgebondenbudget",
+        "vereenvoudiging",
+        "automatische uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 9",
+      "originalQuote": "We vereenvoudigen en verhogen de financiële kindregelingen door de kinderbijslag en het kindgebondenbudget samen te voegen in één regeling met een hoger vast en een lager variabel deel. Ook worden alle kindregelingen door één instantie automatisch uitgekeerd."
+    },
+    {
+      "promiseCode": "CDA-2025-030",
+      "text": "Er komt naast zwangerschaps- en bevallingsverlof één regeling voor betaald verlof voor beide partners in het eerste jaar van het kind. Ook voor lagere inkomens moet deze regeling aantrekkelijk zijn.",
+      "summary": "Nieuwe regeling betaald ouderschapsverlof voor beide partners",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouderschapsverlof",
+        "betaald verlof",
+        "beide partners",
+        "eerste jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 9",
+      "originalQuote": "We vereenvoudigen en verruimen de verschillende verlofregelingen: er komt naast zwangerschaps- en bevallingsverlof één regeling voor betaald verlof voor beide partners in het eerste jaar van het kind. Ook voor lagere inkomens moet deze regeling aantrekkelijk zijn."
+    },
+    {
+      "promiseCode": "CDA-2025-031",
+      "text": "Bijna gratis kinderopvang wordt ingevoerd, met een inkomensafhankelijke bijdrage voor hogere inkomens. De kinderopvangtoeslag wordt direct uitbetaald aan opvangorganisaties.",
+      "summary": "Invoering bijna gratis kinderopvang",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderopvang",
+        "gratis",
+        "inkomensafhankelijk",
+        "directe uitbetaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 9",
+      "originalQuote": "We ondersteunen gezinnen in de hoge kosten door bijna gratis kinderopvang. Voor de hogere inkomens blijft er een inkomensafhankelijke bijdrage. We betalen de kinderopvangtoeslag direct uit aan de opvangorganisaties."
+    },
+    {
+      "promiseCode": "CDA-2025-032",
+      "text": "Voor peuters van twee en drie jaar die dat voor hun ontwikkeling nodig hebben, komen er op indicatie gratis voor- en vroegschoolse programma's beschikbaar.",
+      "summary": "Gratis voor- en vroegschoolse programma's voor peuters op indicatie",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "peuters",
+        "vroegschoolse educatie",
+        "gratis",
+        "ontwikkeling",
+        "indicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 9",
+      "originalQuote": "Voor alle peuters van twee en drie jaar die dat voor hun ontwikkeling nodig hebben, komen er op indicatie gratis voor- en vroegschoolse programma's beschikbaar."
+    },
+    {
+      "promiseCode": "CDA-2025-033",
+      "text": "Er komt verplichtende leeftijdsverificatie door een 'Kijkwijzer'-aanpak voor gebruik van specifieke apps door kinderen.",
+      "summary": "Verplichte leeftijdsverificatie voor apps via Kijkwijzer-systeem",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leeftijdsverificatie",
+        "kijkwijzer",
+        "apps",
+        "kinderen",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 9-10",
+      "originalQuote": "willen een verplichtende leeftijdsverificatie door een 'Kijkwijzer'-aanpak voor gebruik van specifieke apps."
+    },
+    {
+      "promiseCode": "CDA-2025-034",
+      "text": "Er worden strengere regels opgesteld voor kinderen die geld verdienen met onlinefilmpjes en vlogs als nieuwe vorm van kinderarbeid.",
+      "summary": "Strengere regels tegen kinderarbeid via online content",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kinderarbeid",
+        "onlinefilmpjes",
+        "vlogs",
+        "strengere regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 10",
+      "originalQuote": "Kinderen die geld verdienen met onlinefilmpjes en vlogs zijn een nieuwe vorm van kinderarbeid. We stellen strengere regels op."
+    },
+    {
+      "promiseCode": "CDA-2025-035",
+      "text": "Het Zilvervlootsparen voor jongeren wordt herintroduceerd om hen te stimuleren al op jonge leeftijd een financiële buffer op te bouwen.",
+      "summary": "Herintroductie Zilvervlootsparen voor jongeren",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zilvervlootsparen",
+        "jongeren",
+        "financiële buffer",
+        "sparen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 10",
+      "originalQuote": "We willen sparen bevorderen en herintroduceren het Zilvervlootsparen voor jongeren. Zo stimuleren we dat zij al op jonge leeftijd een buffer opbouwen en financieel weerbaar worden."
+    },
+    {
+      "promiseCode": "CDA-2025-036",
+      "text": "Rouwverlof voor het verlies van naasten of bij het verlies van een ongeboren kind wordt wettelijk geregeld.",
+      "summary": "Wettelijke regeling rouwverlof",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rouwverlof",
+        "wettelijke regeling",
+        "verlies",
+        "naasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 10",
+      "originalQuote": "Het verlies van een naaste is ingrijpend. Daarom willen we rouwverlof voor het verlies van naasten of bij het verlies van een ongeboren kind wettelijk regelen."
+    },
+    {
+      "promiseCode": "CDA-2025-037",
+      "text": "Banken moeten een vast aanspreekpunt hebben voor verenigingen en een bankrekening openen moet binnen twee weken kunnen.",
+      "summary": "Vast bankaanspreekpunt voor verenigingen binnen twee weken",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "banken",
+        "verenigingen",
+        "aanspreekpunt",
+        "twee weken",
+        "bankrekening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 11",
+      "originalQuote": "Banken moeten een vast aanspreekpunt hebben voor verenigingen. Een bankrekening openen moet binnen twee weken kunnen, en het moet makkelijker worden voor verenigingen om van penningmeester te wisselen."
+    },
+    {
+      "promiseCode": "CDA-2025-038",
+      "text": "Er wordt een Gemeenschapsfonds opgericht voor het behoud van voorzieningen zoals buurthuizen en sportaccommodaties, gezamenlijk gefinancierd door overheid, samenleving en bedrijfsleven.",
+      "summary": "Oprichting Gemeenschapsfonds voor buurt- en sportvoorzieningen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenschapsfonds",
+        "buurthuizen",
+        "sportaccommodaties",
+        "voorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 11",
+      "originalQuote": "We richten een Gemeenschapsfonds op voor het behoud van voorzieningen zoals buurthuizen en sportaccommodaties. Het Gemeenschapsfonds kan gezamenlijk gefinancierd worden door overheid, samenleving en bedrijfsleven."
+    },
+    {
+      "promiseCode": "CDA-2025-039",
+      "text": "De duur van het cultuurplan wordt naar acht jaar gebracht en kleine culturele BIS-instellingen en fondsen worden samengevoegd met regionale afdelingen.",
+      "summary": "Cultuurplan naar acht jaar, samenvoeging culturele instellingen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurplan",
+        "acht jaar",
+        "bis-instellingen",
+        "samenvoeging",
+        "regionale afdelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 12",
+      "originalQuote": "Het Rijksgesubsidieerde bestel gaat op de schop. De kleine culturele basisinfrastructuur-instellingen (BIS) en de fondsen worden samengevoegd, met regionale afdelingen. De duur van het cultuurplan brengen we naar acht jaar."
+    },
+    {
+      "promiseCode": "CDA-2025-040",
+      "text": "5 mei wordt een nationale vrije dag voor iedereen en er wordt aandacht voor gevraagd in cao's.",
+      "summary": "5 mei nationale vrije dag voor iedereen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "5 mei",
+        "nationale feestdag",
+        "vrije dag",
+        "cao"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 12",
+      "originalQuote": "5 mei is de nationale feestdag waarop we onze vrijheid, Nederland en ons Nederlands burgerschap vieren. We vinden het belangrijk dat dit jaarlijks een vrije dag is voor iedereen en vragen hiervoor aandacht in cao's."
+    },
+    {
+      "promiseCode": "CDA-2025-041",
+      "text": "Anonieme social media-accounts kunnen verboden worden en er komt een laagdrempelig meldpunt voor slachtoffers van deepfakes, doxing, grooming of phishing.",
+      "summary": "Verbod anonieme social media-accounts en meldpunt online criminaliteit",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "anonieme accounts",
+        "social media",
+        "verbod",
+        "meldpunt",
+        "deepfakes",
+        "doxing"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 12-13",
+      "originalQuote": "Daarom willen we anonieme social media-accounts kunnen verbieden. We willen de wetgeving aanscherpen om krachtig op te kunnen treden en een laagdrempelig meldpunt instellen voor slachtoffers van deepfakes, doxing, grooming of phishing."
+    },
+    {
+      "promiseCode": "CDA-2025-042",
+      "text": "Er komen wettelijke termijnen van twee keer vier jaar voor benoemingen van topfunctionarissen, directie en leden Raden van Toezicht bij media.",
+      "summary": "Termijnlimiet van 2x4 jaar voor mediatopfunctionarissen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijke termijnen",
+        "vier jaar",
+        "topfunctionarissen",
+        "media",
+        "raden van toezicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 13",
+      "originalQuote": "Er komen wettelijke termijnen van twee keer vier jaar voor benoemingen van topfunctionarissen, directie en leden Raden van Toezicht."
+    },
+    {
+      "promiseCode": "CDA-2025-043",
+      "text": "Met Stichting Waarborgfonds Sport wordt een fonds opgezet voor sportclubs om accommodaties te herbouwen, renoveren en/of verduurzamen. De BOSA-subsidieregeling wordt verhoogd.",
+      "summary": "Waarborgfonds Sport voor renovatie sportaccommodaties",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "waarborgfonds sport",
+        "sportclubs",
+        "accommodaties",
+        "renovatie",
+        "verduurzaming",
+        "bosa"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 13",
+      "originalQuote": "Wij zetten met Stichting Waarborgfonds Sport een fonds op voor sportclubs om hun accommodaties te herbouwen, te renoveren en/of te verduurzamen. Verder verhogen we de subsidieregeling Bouw en Onderhoud Sport Accommodaties (BOSA) voor de aanschaf van materiaal."
+    },
+    {
+      "promiseCode": "CDA-2025-044",
+      "text": "De legalisering van online gokken wordt teruggedraaid en online gok-reclames worden verboden.",
+      "summary": "Terugdraaien legalisering online gokken en reclameverbod",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "online gokken",
+        "legalisering",
+        "terugdraaien",
+        "reclameverbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 13",
+      "originalQuote": "We willen de legalisering van online gokken terugdraaien en online gok-reclames verbieden."
+    },
+    {
+      "promiseCode": "CDA-2025-045",
+      "text": "Er komt een leeftijdsgrens van 21 jaar voor online gokken.",
+      "summary": "Leeftijdsgrens 21 jaar voor online gokken",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "21 jaar",
+        "online gokken"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 13-14",
+      "originalQuote": "Er komt een leeftijdsgrens van 21 jaar voor online gokken."
+    },
+    {
+      "promiseCode": "CDA-2025-046",
+      "text": "Voor alle statushouders is het inburgeringsonderwijs verplicht, in het uiterste geval op straffe van verlies van hun status.",
+      "summary": "Verplicht inburgeringsonderwijs voor statushouders op straffe van statusverlies",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "statushouders",
+        "inburgeringsonderwijs",
+        "verplicht",
+        "statusverlies"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 14",
+      "originalQuote": "Voor alle statushouders is het inburgeringsonderwijs verplicht, in het uiterste geval op straffe van verlies van hun status."
+    },
+    {
+      "promiseCode": "CDA-2025-047",
+      "text": "Inburgeringsplichtigen moeten binnen maximaal drie jaar de Nederlandse taal spreken en schrijven.",
+      "summary": "Taaleisen binnen drie jaar voor inburgeraars",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inburgeringsplichtigen",
+        "drie jaar",
+        "nederlandse taal",
+        "spreken",
+        "schrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 15",
+      "originalQuote": "Inburgeringsplichtigen spreken en schrijven binnen maximaal drie jaar de Nederlandse taal."
+    },
+    {
+      "promiseCode": "CDA-2025-048",
+      "text": "Voor- en vroegschoolse educatie wordt verplicht voor kinderen van statushouders die nog inburgeringsplichtig zijn.",
+      "summary": "Verplichte vroegschoolse educatie voor kinderen van inburgeraars",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vroegschoolse educatie",
+        "verplicht",
+        "kinderen",
+        "statushouders",
+        "inburgeringsplichtigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 15",
+      "originalQuote": "We verplichten voor- en vroegschoolse educatie voor kinderen van statushouders die nog inburgeringsplichtig zijn, zodat jonge kinderen niet met een taalachterstand op school hoeven te beginnen en de ouders kunnen inburgeren."
+    },
+    {
+      "promiseCode": "CDA-2025-049",
+      "text": "Arbeidsmigranten die hier langdurig verblijven, volgen een verplicht taaltraject. De werkgever is hiervoor verantwoordelijk.",
+      "summary": "Verplicht taaltraject voor arbeidsmigranten via werkgever",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmigranten",
+        "verplicht taaltraject",
+        "werkgever",
+        "verantwoordelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 15",
+      "originalQuote": "Arbeidsmigranten die hier langdurig verblijven, volgen een verplicht taaltraject dat is toegespitst op werk en deelnemen in de samenleving. De werkgever is hiervoor verantwoordelijk."
+    },
+    {
+      "promiseCode": "CDA-2025-050",
+      "text": "Alle kansrijke asielzoekers krijgen na één maand toegang tot de arbeidsmarkt, ook via leer-werktrajecten met taallessen en vakopleiding.",
+      "summary": "Arbeidsmarkttoegang asielzoekers na één maand",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "één maand",
+        "arbeidsmarkt",
+        "leer-werktrajecten",
+        "taallessen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 15",
+      "originalQuote": "Alle kansrijke asielzoekers moeten na één maand toegang tot de arbeidsmarkt krijgen. Dat kan ook via leer-werktrajecten waarbij taallessen worden gecombineerd met een vakopleiding en werkervaring."
+    },
+    {
+      "promiseCode": "CDA-2025-051",
+      "text": "Een nieuwe wet op de politieke partijen wordt ingevoerd waarin interne partijdemocratie een eis wordt voor politieke partijen.",
+      "summary": "Wet op politieke partijen met eis van interne partijdemocratie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet",
+        "politieke partijen",
+        "interne partijdemocratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 17",
+      "originalQuote": "We willen een nieuwe wet op de politieke partijen. Interne partijdemocratie versterkt betrokkenheid van burgers en moedigt aan tot meedoen. Daarom wordt interne partijdemocratie een eis voor politieke partijen."
+    },
+    {
+      "promiseCode": "CDA-2025-052",
+      "text": "De zittingsduur van de Eerste Kamer wordt verlengd naar zes jaar, waarbij om de drie jaar beurtelings 38 en 37 leden worden gekozen.",
+      "summary": "Eerste Kamer krijgt zittingsduur van zes jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eerste kamer",
+        "zittingsduur",
+        "zes jaar",
+        "verkiezingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 17",
+      "originalQuote": "De zittingsduur van de Eerste Kamer wordt verlengd naar zes jaar, waarbij om de drie jaar beurtelings 38 en 37 leden worden gekozen."
+    },
+    {
+      "promiseCode": "CDA-2025-053",
+      "text": "Een motie-quotum wordt ingevoerd: een maximumaantal moties dat een fractie jaarlijks kan indienen.",
+      "summary": "Motie-quotum voor fracties wordt ingevoerd",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "motie-quotum",
+        "fracties",
+        "maximum",
+        "moties"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 17",
+      "originalQuote": "Om de profileringsdrang die blijkt uit de stortvloed aan moties te beteugelen, willen we een motie-quotum invoeren: een maximumaantal moties dat een fractie jaarlijks kan indienen."
+    },
+    {
+      "promiseCode": "CDA-2025-054",
+      "text": "De Maatschappelijke Diensttijd wordt behouden voor jongeren tussen twaalf en dertig jaar die niet deelnemen aan de militaire opkomstplicht.",
+      "summary": "Maatschappelijke Diensttijd blijft bestaan voor jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maatschappelijke diensttijd",
+        "jongeren",
+        "militaire opkomstplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 17",
+      "originalQuote": "We behouden de Maatschappelijke Diensttijd (MDT) voor jongeren tussen twaalf en dertig jaar die niet deelnemen aan de militaire opkomstplicht."
+    },
+    {
+      "promiseCode": "CDA-2025-055",
+      "text": "Rechters krijgen de mogelijkheid om wetgeving te toetsen aan de Nederlandse Grondwet.",
+      "summary": "Grondwettoetsing door rechters wordt mogelijk",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rechters",
+        "grondwettoetsing",
+        "nederlandse grondwet"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 18",
+      "originalQuote": "We willen rechters de mogelijkheid bieden om wetgeving te toetsen aan de Nederlandse Grondwet."
+    },
+    {
+      "promiseCode": "CDA-2025-056",
+      "text": "Een wettelijke meldplicht voor buitenlandse giften aan stichtingen en religieuze instellingen wordt geïntroduceerd, met verplichte publicatie van donateurs, bedragen en bestedingsdoelen.",
+      "summary": "Meldplicht buitenlandse giften aan organisaties",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meldplicht",
+        "buitenlandse giften",
+        "stichtingen",
+        "religieuze instellingen",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 18",
+      "originalQuote": "We introduceren een wettelijke meldplicht voor buitenlandse giften aan stichtingen en religieuze instellingen, met verplichte publicatie van donateurs, bedragen en bestedingsdoelen."
+    },
+    {
+      "promiseCode": "CDA-2025-057",
+      "text": "Een verbod wordt ingesteld op buitenlandse financiering van maatschappelijke of religieuze instellingen uit landen die op de Freedom House-lijst als onvrij staan, tenzij volledige transparantie en toetsing vooraf plaatsvinden.",
+      "summary": "Verbod financiering vanuit onvrije landen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "buitenlandse financiering",
+        "freedom house",
+        "onvrije landen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 18",
+      "originalQuote": "We stellen een verbod in op buitenlandse financiering van maatschappelijke of religieuze instellingen uit landen die op de Freedom House-lijst als onvrij staan, tenzij volledige transparantie en toetsing vooraf plaatsvinden."
+    },
+    {
+      "promiseCode": "CDA-2025-058",
+      "text": "De stekker wordt getrokken uit het wietexperiment en een wiettaks wordt ingevoerd totdat het experiment beëindigd is.",
+      "summary": "Wietexperiment wordt beëindigd en wiettaks ingevoerd",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wietexperiment",
+        "wiettaks",
+        "beëindiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 20",
+      "originalQuote": "We trekken de stekker uit het wietexperiment. We voeren een wiettaks in totdat we van het wietexperiment af zijn."
+    },
+    {
+      "promiseCode": "CDA-2025-059",
+      "text": "Alle boa's worden standaard uitgerust met bodycams, waardoor beelden van strafbare delicten direct als bewijs kunnen dienen in de rechtszaal.",
+      "summary": "Bodycams worden standaard voor alle boa's",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boa's",
+        "bodycams",
+        "bewijs",
+        "rechtszaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 21",
+      "originalQuote": "Alle boa's moeten standaard worden uitgerust met bodycams, waardoor beelden van strafbare delicten direct als bewijs kunnen dienen in de rechtszaal."
+    },
+    {
+      "promiseCode": "CDA-2025-060",
+      "text": "Veroordeelde terroristen met een dubbele nationaliteit moeten de Nederlandse nationaliteit kwijtraken en worden teruggestuurd naar het land van herkomst.",
+      "summary": "Intrekking Nederlandse nationaliteit veroordeelde terroristen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terroristen",
+        "dubbele nationaliteit",
+        "intrekking",
+        "uitzetting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 21",
+      "originalQuote": "Veroordeelde terroristen met een dubbele nationaliteit moeten de Nederlandse nationaliteit kwijtraken en worden teruggestuurd naar het land van herkomst."
+    },
+    {
+      "promiseCode": "CDA-2025-061",
+      "text": "De enkelband wordt geïntroduceerd als mogelijkheid voor de rechter om op te leggen als hoofdstraf.",
+      "summary": "Enkelband als hoofdstraf voor rechters",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "enkelband",
+        "hoofdstraf",
+        "rechter"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 21",
+      "originalQuote": "Wij zien de enkelband als volwaardige straf en introduceren dit als mogelijkheid voor de rechter om het als hoofdstraf op te leggen."
+    },
+    {
+      "promiseCode": "CDA-2025-062",
+      "text": "Conversietherapie wordt verboden.",
+      "summary": "Verbod op conversietherapie",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "conversietherapie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 21",
+      "originalQuote": "Conversietherapie is verwerpelijk en moet verboden worden."
+    },
+    {
+      "promiseCode": "CDA-2025-063",
+      "text": "De leeftijdsgrens van sekswerkers wordt verhoogd naar 21 jaar.",
+      "summary": "Minimumleeftijd sekswerkers naar 21 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sekswerkers",
+        "leeftijdsgrens",
+        "21 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 22",
+      "originalQuote": "We verhogen de leeftijdsgrens van sekswerkers naar 21 jaar."
+    },
+    {
+      "promiseCode": "CDA-2025-064",
+      "text": "Gratis schoolfruit wordt ingevoerd voor alle kinderen op de basisschool.",
+      "summary": "Gratis schoolfruit voor basisschoolkinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolfruit",
+        "basisschool",
+        "kinderen",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 24",
+      "originalQuote": "Wij willen gratis schoolfruit voor kinderen op de basisschool."
+    },
+    {
+      "promiseCode": "CDA-2025-065",
+      "text": "Een brede suikerbelasting wordt geïntroduceerd.",
+      "summary": "Introductie brede suikerbelasting",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "suikerbelasting",
+        "belasting",
+        "gezondheid",
+        "voeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 24",
+      "originalQuote": "We introduceren een brede suikerbelasting."
+    },
+    {
+      "promiseCode": "CDA-2025-066",
+      "text": "De leeftijdsgrens voor tabaksverkoop wordt verhoogd naar 21 jaar en er komt een generatiegebonden rookverbod waarbij roken stapsgewijs wordt verboden.",
+      "summary": "Verhogen tabaksverkoop naar 21 jaar en generatiegebonden rookverbod",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tabaksverkoop",
+        "leeftijdsgrens",
+        "rookverbod",
+        "21 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 24",
+      "originalQuote": "We verhogen de leeftijdsgrens van tabaksverkoop naar 21 jaar en willen een generatiegebonden rookverbod waarbij we roken stapsgewijs verbieden."
+    },
+    {
+      "promiseCode": "CDA-2025-067",
+      "text": "Het aantal tabaksverkooppunten wordt teruggedrongen, er komt een verbod op wegwerpvapes, jaarlijkse indexatie-accijns op tabak en accijns op e-sigaretten.",
+      "summary": "Terugdringen tabaksverkooppunten en verbod wegwerpvapes",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tabaksverkooppunten",
+        "wegwerpvapes",
+        "verbod",
+        "accijns"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 24",
+      "originalQuote": "We dringen het aantal tabaksverkooppunten terug, voeren een verbod in op wegwerpvapes, willen een jaarlijkse indexatie-accijns op tabak en accijns op e-sigaretten."
+    },
+    {
+      "promiseCode": "CDA-2025-068",
+      "text": "Er komt een nieuwe afdracht zodat de tabaksindustrie gaat meebetalen aan de maatschappelijke kosten die zij veroorzaken.",
+      "summary": "Nieuwe afdracht tabaksindustrie voor maatschappelijke kosten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tabaksindustrie",
+        "afdracht",
+        "maatschappelijke kosten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 24",
+      "originalQuote": "We voeren een nieuwe afdracht in, zodat de tabaksindustrie gaat meebetalen aan de maatschappelijke kosten die zij zelf veroorzaken."
+    },
+    {
+      "promiseCode": "CDA-2025-069",
+      "text": "Er komt een verbod op kindermarketing voor ongezonde producten en diensten.",
+      "summary": "Verbod kindermarketing ongezonde producten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kindermarketing",
+        "verbod",
+        "ongezonde producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 24",
+      "originalQuote": "Er komt een verbod op kindermarketing voor ongezonde producten en diensten."
+    },
+    {
+      "promiseCode": "CDA-2025-070",
+      "text": "De minister krijgt bevoegdheden om concentratie en regionale specialisatie van zorgaanbod af te dwingen.",
+      "summary": "Minister krijgt bevoegdheden voor zorgconcentratie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "bevoegdheden",
+        "concentratie",
+        "zorg",
+        "specialisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 25",
+      "originalQuote": "De minister krijgt bevoegdheden om concentratie en regionale specialisatie af te dwingen."
+    },
+    {
+      "promiseCode": "CDA-2025-071",
+      "text": "Het vergoedingspercentage voor ongecontracteerde jeugdzorg wordt stopgezet.",
+      "summary": "Stoppen vergoeding ongecontracteerde jeugdzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ongecontracteerde jeugdzorg",
+        "vergoedingspercentage",
+        "stoppen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 27",
+      "originalQuote": "Om ervoor te zorgen dat de jeugdhulp van goede kwaliteit is, stoppen we het vergoedingspercentage voor ongecontracteerde jeugdzorg."
+    },
+    {
+      "promiseCode": "CDA-2025-072",
+      "text": "In de Wlz wordt wonen en zorg gescheiden, met name in de ouderenzorg.",
+      "summary": "Scheiden wonen en zorg in ouderenzorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wlz",
+        "wonen",
+        "zorg",
+        "scheiden",
+        "ouderenzorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 28",
+      "originalQuote": "In de Wlz scheiden we wonen en zorg met name in de ouderenzorg."
+    },
+    {
+      "promiseCode": "CDA-2025-073",
+      "text": "De tijd die zorgverleners aan administratie besteden wordt gehalveerd door breed administratielasten aan te pakken.",
+      "summary": "Halvering administratietijd zorgverleners",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "administratieve lasten",
+        "zorgverleners",
+        "halveren",
+        "tijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 29",
+      "originalQuote": "Het doel is om de tijd die zorgverleners aan administratie besteden, te halveren."
+    },
+    {
+      "promiseCode": "CDA-2025-074",
+      "text": "Bij pensionering blijft de BIG-registratie nog vijf jaar geldig zodat verpleegkundigen makkelijker weer aan de slag kunnen.",
+      "summary": "BIG-registratie vijf jaar geldig na pensionering",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "big-registratie",
+        "pensionering",
+        "vijf jaar",
+        "verpleegkundigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 29",
+      "originalQuote": "Bij pensionering moet de BIG-registratie nog vijf jaar geldig blijven, zodat verpleegkundigen makkelijker weer aan de slag kunnen."
+    },
+    {
+      "promiseCode": "CDA-2025-075",
+      "text": "De vergoeding van ongecontracteerde zorg wordt stopgezet om de groei van het aanbod af te remmen.",
+      "summary": "Stoppen vergoeding ongecontracteerde zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ongecontracteerde zorg",
+        "vergoeding",
+        "stoppen",
+        "aanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 29",
+      "originalQuote": "We stoppen met de vergoeding van ongecontracteerde zorg, om de groei van het aanbod af te remmen en de zorgverzekeraars aan te moedigen om kosten te drukken en betere kwaliteitseisen te kunnen stellen."
+    },
+    {
+      "promiseCode": "CDA-2025-076",
+      "text": "Bij de Kamer van Koophandel worden hogere eisen gesteld aan het starten van een zorgbedrijf en er komt één standaard voor alle zorgdomeinen.",
+      "summary": "Hogere eisen starten zorgbedrijf en één standaard",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kamer van koophandel",
+        "zorgbedrijf",
+        "hogere eisen",
+        "standaard"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 30",
+      "originalQuote": "Bij de Kamer van Koophandel worden hogere eisen gesteld aan het starten van een zorgbedrijf. Er komt één standaard voor alle zorgdomeinen."
+    },
+    {
+      "promiseCode": "CDA-2025-077",
+      "text": "De Abortuswet blijft ongewijzigd.",
+      "summary": "Abortuswet blijft ongewijzigd",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortuswet",
+        "ongewijzigd"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 30",
+      "originalQuote": "De Abortuswet blijft ongewijzigd."
+    },
+    {
+      "promiseCode": "CDA-2025-078",
+      "text": "Een stabiele productie van minimaal honderdduizend woningen per jaar realiseren, waarvan twee derde betaalbaar en 30 procent sociale huur.",
+      "summary": "Minimaal 100.000 woningen per jaar bouwen, 2/3 betaalbaar, 30% sociale huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningproductie",
+        "honderdduizend",
+        "woningen",
+        "sociale huur",
+        "betaalbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 32",
+      "originalQuote": "We willen een stabiele productie van minimaal honderdduizend woningen per jaar. Het uitgangspunt is twee derde betaalbaar waarvan 30 procent sociale huur."
+    },
+    {
+      "promiseCode": "CDA-2025-079",
+      "text": "De hypotheekrenteaftrek wordt geleidelijk afgebouwd over een transitieperiode van dertig jaar, met opbrengsten gebruikt voor verlaging van de inkomstenbelasting.",
+      "summary": "Hypotheekrenteaftrek afbouwen in 30 jaar, opbrengst naar inkomstenbelasting",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "afbouw",
+        "dertig jaar",
+        "transitieperiode",
+        "inkomstenbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 33",
+      "originalQuote": "Daarom bouwen we de hypotheekrenteaftrek geleidelijk af. De opbrengsten gebruiken we een op een om de inkomstenbelasting te verlagen... De geleidelijke afbouw vindt plaats over een lange transitieperiode van dertig jaar"
+    },
+    {
+      "promiseCode": "CDA-2025-080",
+      "text": "Een leegstandsheffing wordt wettelijk geïntroduceerd en er komt een bouwplicht binnen maximaal twee jaar bij het verlenen van een omgevingsvergunning.",
+      "summary": "Leegstandsheffing invoeren en bouwplicht binnen 2 jaar na vergunning",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leegstandsheffing",
+        "bouwplicht",
+        "twee jaar",
+        "omgevingsvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 32",
+      "originalQuote": "We introduceren een leegstandsheffing in de wet: nu staan nog te veel panden onnodig leeg... Bij het verlenen van een omgevingsvergunning komt er een bouwplicht binnen maximaal twee jaar."
+    },
+    {
+      "promiseCode": "CDA-2025-081",
+      "text": "Woningdelen tot en met drie personen wordt vergunningsvrij toegestaan door gemeenten ruimte te geven.",
+      "summary": "Woningdelen tot 3 personen vergunningsvrij maken",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningdelen",
+        "drie personen",
+        "vergunningsvrij",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 33",
+      "originalQuote": "We geven gemeenten de ruimte om woningdelen tot en met drie personen vergunningsvrij toe te staan."
+    },
+    {
+      "promiseCode": "CDA-2025-082",
+      "text": "Een tijd- en plaatsgebonden congestieheffing wordt ingevoerd tijdens de spits in drukke gebieden, te beginnen op de drukste verbindingen rondom grote steden.",
+      "summary": "Congestieheffing tijdens spits in drukke gebieden rondom grote steden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "congestieheffing",
+        "spits",
+        "drukke gebieden",
+        "grote steden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 37",
+      "originalQuote": "We willen een tijd- en plaatsgebonden congestieheffing – een heffing tijdens de spits in drukke gebieden om bij te dragen aan een betere doorstroming, schonere lucht en een leefbaarder straatbeeld, te beginnen op de drukste verbindingen rondom grote steden."
+    },
+    {
+      "promiseCode": "CDA-2025-083",
+      "text": "De MRB wordt hervormd om te heffen op voertuigoppervlak in plaats van gewicht, passend bij de transitie naar elektrische auto's.",
+      "summary": "MRB hervormen naar heffing op voertuigoppervlak ipv gewicht",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mrb",
+        "hervorming",
+        "voertuigoppervlak",
+        "gewicht",
+        "elektrische auto's"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 38",
+      "originalQuote": "We hervormen de MRB, zodat deze beter aansluit bij de transitie naar elektrische auto's door deze te heffen op voertuigoppervlak in plaats van gewicht."
+    },
+    {
+      "promiseCode": "CDA-2025-084",
+      "text": "Het alcoholslot wordt heringevoerd om de verkeersveiligheid te bevorderen.",
+      "summary": "Alcoholslot herinvoeren voor verkeersveiligheid",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "alcoholslot",
+        "herinvoeren",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 38",
+      "originalQuote": "We willen het alcoholslot herinvoeren om de verkeersveiligheid te bevorderen."
+    },
+    {
+      "promiseCode": "CDA-2025-085",
+      "text": "Een zerotolerantiebeleid op het gebruik van drugs in het verkeer wordt ingevoerd, met zwaardere bestraffing van overtredingen.",
+      "summary": "Zerotolerantiebeleid drugs in verkeer met zwaardere straffen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zerotolerantiebeleid",
+        "drugs",
+        "verkeer",
+        "bestraffing",
+        "overtredingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 38",
+      "originalQuote": "Voor verkeersveiligheid is er een zerotolerantiebeleid op het gebruik van drugs in het verkeer. Overtredingen worden zwaarder bestraft."
+    },
+    {
+      "promiseCode": "CDA-2025-086",
+      "text": "De vrachtwagenheffing wordt verbreed naar alle wegen in plaats van alleen snelwegen om sluiproutes te voorkomen.",
+      "summary": "Vrachtwagenheffing uitbreiden naar alle wegen ipv alleen snelwegen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrachtwagenheffing",
+        "alle wegen",
+        "snelwegen",
+        "sluiproutes"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 38",
+      "originalQuote": "We verbreden de heffing naar alle wegen (niet alleen snelwegen), om sluiproutes te voorkomen."
+    },
+    {
+      "promiseCode": "CDA-2025-087",
+      "text": "De kostendelersnorm in de Participatiewet wordt afgeschaft om geen financiële boete op te leggen als volwassenen een huis delen.",
+      "summary": "Kostendelersnorm Participatiewet afschaffen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "participatiewet",
+        "afschaffen",
+        "volwassenen",
+        "huis delen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 35",
+      "originalQuote": "We schaffen de kostendelersnorm in de Participatiewet af. We willen geen financiële boete opleggen als volwassenen een huis delen."
+    },
+    {
+      "promiseCode": "CDA-2025-088",
+      "text": "Gemeenten maken verplicht een verduurzamingsplan per wijk.",
+      "summary": "Verplichte verduurzamingsplannen per wijk voor gemeenten",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeenten",
+        "verduurzamingsplan",
+        "wijk",
+        "verplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 35",
+      "originalQuote": "Gemeenten maken verplicht een verduurzamingsplan per wijk."
+    },
+    {
+      "promiseCode": "CDA-2025-089",
+      "text": "Flexstuderen wordt mogelijk gemaakt door collegegeld per vak te kunnen betalen voor studenten die zich inzetten voor de samenleving.",
+      "summary": "Flexstuderen mogelijk maken via collegegeld per vak",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "flexstuderen",
+        "collegegeld",
+        "vak",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 41",
+      "originalQuote": "Daarom maken we flexstuderen mogelijk. Door collegegeld per vak te kunnen betalen, verlagen we de druk voor studenten die zich op een positieve manier inzetten voor de samenleving"
+    },
+    {
+      "promiseCode": "CDA-2025-090",
+      "text": "Een wettelijke stagevergoeding wordt ingevoerd voor stages in het mbo en hoger onderwijs.",
+      "summary": "Wettelijke stagevergoeding invoeren voor mbo en ho",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "wettelijk",
+        "mbo",
+        "hoger onderwijs",
+        "stages"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 41",
+      "originalQuote": "Daarnaast voeren we een wettelijke stagevergoeding in voor stages in het mbo en hoger onderwijs."
+    },
+    {
+      "promiseCode": "CDA-2025-091",
+      "text": "Er komt een beursprogramma voor excellente studenten in het hoger onderwijs.",
+      "summary": "Beursprogramma voor excellente studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beurs",
+        "programma",
+        "excellente",
+        "studenten",
+        "hoger onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 42",
+      "originalQuote": "Er komt een beursprogramma voor excellente studenten."
+    },
+    {
+      "promiseCode": "CDA-2025-092",
+      "text": "Voor internationale studenten wordt een verplichte cursus Nederlands onderdeel van de propedeuse.",
+      "summary": "Verplichte Nederlandse cursus voor internationale studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "internationale",
+        "studenten",
+        "verplichte",
+        "cursus",
+        "nederlands",
+        "propedeuse"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 42",
+      "originalQuote": "Voor studenten uit het buitenland vormt een verplichte cursus Nederlands onderdeel van de propedeuse."
+    },
+    {
+      "promiseCode": "CDA-2025-093",
+      "text": "Nederland moet voldoen aan de Lissabon-doelstelling om 3 procent van het bbp te investeren in onderzoek en innovatie, waarvan 1 procent door de overheid en 2 procent privaat.",
+      "summary": "3% bbp investering in onderzoek en innovatie volgens Lissabon-doelstelling",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lissabon",
+        "doelstelling",
+        "3 procent",
+        "bbp",
+        "onderzoek",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 42-43",
+      "originalQuote": "Nederland moet voldoen aan de Lissabon-doelstelling om 3 procent van het bbp te investeren in onderzoek en innovatie (R&D), waarvan 1 procent door de overheid en 2 procent privaat."
+    },
+    {
+      "promiseCode": "CDA-2025-094",
+      "text": "De kostendelersnorm wordt afgeschaft om studentenhuisvesting te creëren.",
+      "summary": "Afschaffing kostendelersnorm voor studentenhuisvesting",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "afschaffen",
+        "studentenhuisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 42",
+      "originalQuote": "creëren huisvesting door de kostendelersnorm af te schaffen"
+    },
+    {
+      "promiseCode": "CDA-2025-095",
+      "text": "Tijdelijke contracten voor studenten worden weer mogelijk gemaakt.",
+      "summary": "Tijdelijke contracten voor studenten weer mogelijk",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tijdelijke",
+        "contracten",
+        "studenten",
+        "mogelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 42",
+      "originalQuote": "We maken tijdelijke contracten voor studenten weer mogelijk"
+    },
+    {
+      "promiseCode": "CDA-2025-096",
+      "text": "Er komen leerrechten voor werkenden en werkzoekenden die bij alle erkende opleidingen te besteden zijn.",
+      "summary": "Leerrechten voor werkenden en werkzoekenden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerrechten",
+        "werkenden",
+        "werkzoekenden",
+        "erkende",
+        "opleidingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 43",
+      "originalQuote": "Er komen leerrechten voor werkenden en werkzoekenden. Deze zijn bij alle erkende opleidingen te besteden."
+    },
+    {
+      "promiseCode": "CDA-2025-097",
+      "text": "De nationale CO2-heffing wordt geschrapt.",
+      "summary": "Nationale CO2-heffing wordt afgeschaft",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-heffing",
+        "afschaffing",
+        "klimaatbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 46",
+      "originalQuote": "We schrappen de nationale CO2-heffing."
+    },
+    {
+      "promiseCode": "CDA-2025-098",
+      "text": "Minimaal één elektriciteitscentrale die in 2030 geen kolen meer verbrandt, wordt benut voor negatieve emissietechnologieën (CO₂-onttrekking aan de atmosfeer).",
+      "summary": "Kolencentrale wordt in 2030 hergebruikt voor negatieve emissies",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektriciteitscentrale",
+        "kolen",
+        "negatieve emissies",
+        "co2-onttrekking",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 47",
+      "originalQuote": "benutten daarvoor de locatie van minimaal één elektriciteitscentrale die in 2030 geen kolen meer verbrandt"
+    },
+    {
+      "promiseCode": "CDA-2025-099",
+      "text": "Een win-win-lening wordt ingevoerd: een belastingkorting in box 3 voor particulieren die een lening aan het Nederlandse MKB verstrekken.",
+      "summary": "Belastingkorting voor particuliere MKB-leningen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "win-win-lening",
+        "belastingkorting",
+        "box-3",
+        "mkb",
+        "particuliere lening"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 46",
+      "originalQuote": "voeren we de 'win-win-lening' in, een belastingkorting in box 3 voor particulieren die een lening aan het Nederlandse mkb verstrekken"
+    },
+    {
+      "promiseCode": "CDA-2025-100",
+      "text": "Regelgeving wordt scherp gereduceerd met minimaal 20 procent, met betere en efficiëntere regelgeving als doel.",
+      "summary": "Regelgeving wordt met 20% verminderd",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeldruk",
+        "reductie",
+        "20-procent",
+        "deregulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 46",
+      "originalQuote": "minder regels (scherpe reductie van zeker 20 procent), betere regelgeving"
+    },
+    {
+      "promiseCode": "CDA-2025-101",
+      "text": "Werkgevers worden verplicht vier weken na beëindiging van het dienstverband arbeidsmigranten te blijven huisvesten.",
+      "summary": "Werkgevers huisvesten arbeidsmigranten 4 weken na ontslag",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkgevers",
+        "arbeidsmigranten",
+        "huisvesting",
+        "vier weken",
+        "dienstverband"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 48",
+      "originalQuote": "Werkgevers blijven een arbeidsmigrant vier weken na het beëindigen van het dienstverband huisvesten"
+    },
+    {
+      "promiseCode": "CDA-2025-102",
+      "text": "Werkgevers worden verplicht Nederlandse les te verzorgen voor hun arbeidsmigranten.",
+      "summary": "Nederlandse les verplicht voor arbeidsmigranten van werkgevers",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "werkgevers",
+        "nederlandse les",
+        "arbeidsmigranten",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 48",
+      "originalQuote": "Werkgevers worden verplicht Nederlandse les te verzorgen voor hun arbeidsmigranten."
+    },
+    {
+      "promiseCode": "CDA-2025-103",
+      "text": "Elke gemeente voert een effectieve, randvoorwaardelijke bedrijfseffectrapportage uit voordat een bedrijf zich vestigt.",
+      "summary": "Gemeenten verplicht tot bedrijfseffectrapportage bij vestiging",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeente",
+        "bedrijfseffectrapportage",
+        "vestiging",
+        "voorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 48",
+      "originalQuote": "Elke gemeente voert een effectieve, randvoorwaardelijke bedrijfseffectrapportage uit: voordat een bedrijf zich ergens vestigt"
+    },
+    {
+      "promiseCode": "CDA-2025-104",
+      "text": "Het recht op reparatie wordt vastgelegd voor gewone producten zoals smartphones.",
+      "summary": "Recht op reparatie wordt wettelijk vastgelegd",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "recht op reparatie",
+        "wetgeving",
+        "smartphone",
+        "producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 47",
+      "originalQuote": "We leggen het recht op reparatie vast van hele gewone producten, zoals je smartphone."
+    },
+    {
+      "promiseCode": "CDA-2025-105",
+      "text": "Nederland past de Klimaatwet aan op Europees ambitieus klimaatbeleid en groene industriepolitiek, met nationale doelen voor uitstoot van broeikasgassen in niet-ETS-sectoren en Europese doelen voor ETS-sectoren.",
+      "summary": "Klimaatwet aanpassen aan Europees beleid met nationale en Europese uitstootdoelen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatwet",
+        "broeikasgassen",
+        "ets-sectoren",
+        "uitstootdoelen",
+        "europees klimaatbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 51",
+      "originalQuote": "We kiezen voor Europees ambitieus klimaatbeleid en groene industriepolitiek en passen onze Klimaatwet daarop aan. De industrie en energiesector worden bekeken en beoordeeld vanuit een Europese aanpak. Dat betekent dat we kiezen voor nationale doelen voor uitstoot van broeikasgassen in de niet-ETS-sectoren en een Europees doel voor uitstoot in alle ETS-sectoren."
+    },
+    {
+      "promiseCode": "CDA-2025-106",
+      "text": "Er komt een gezamenlijke strategische investeringsagenda waarin gericht in samenhang met bedrijven en kennisclusters aan missies en sleuteltechnologieën voor klimaatverandering wordt gewerkt.",
+      "summary": "Strategische investeringsagenda voor klimaattechnologie met bedrijven en kennis",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringsagenda",
+        "kennisclusters",
+        "sleuteltechnologieën",
+        "klimaatverandering",
+        "missies"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 51",
+      "originalQuote": "Er komt een gezamenlijke strategische investeringsagenda, waarin heel gericht en in samenhang met bedrijven en kennisclusters aan missies en sleuteltechnologieën voor klimaatverandering en transitie wordt gewerkt."
+    },
+    {
+      "promiseCode": "CDA-2025-107",
+      "text": "Er worden duidelijke normen gesteld voor PFAS, microplastics en andere schadelijke stoffen waarbij gebruik daarvan Europees verboden wordt in consumentenverpakkingen en materialen waar ze niet essentieel zijn.",
+      "summary": "Europees verbod PFAS en microplastics in niet-essentiële toepassingen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pfas",
+        "microplastics",
+        "consumentenverpakkingen",
+        "europees verbod",
+        "schadelijke stoffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 51",
+      "originalQuote": "Wij willen duidelijke normen stellen voor PFAS, microplastics en andere schadelijke stoffen en chemicaliën. Zo moet het gebruik daarvan Europees verboden worden in consumentenverpakkingen en materialen waarin ze niet van essentiële waarde zijn."
+    },
+    {
+      "promiseCode": "CDA-2025-108",
+      "text": "Het Nationaal Programma Circulaire Economie wordt versneld uitgevoerd.",
+      "summary": "Versnelling Nationaal Programma Circulaire Economie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nationaal programma",
+        "circulaire economie",
+        "versnelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 51",
+      "originalQuote": "We versnellen het Nationaal Programma Circulaire Economie."
+    },
+    {
+      "promiseCode": "CDA-2025-109",
+      "text": "Er komt een landelijke campagne tegen hittestress.",
+      "summary": "Landelijke campagne tegen hittestress",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landelijke campagne",
+        "hittestress",
+        "klimaatadaptatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 52",
+      "originalQuote": "Er komt een landelijke campagne tegen hittestress."
+    },
+    {
+      "promiseCode": "CDA-2025-110",
+      "text": "Het vergunningsproces van elektriciteitsprojecten wordt drastisch versimpeld en versneld door versnelde beroepsprocedures en meer vergunningsvrije ruimte.",
+      "summary": "Versnelling vergunningsproces elektriciteitsprojecten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsproces",
+        "elektriciteitsprojecten",
+        "beroepsprocedures",
+        "vergunningsvrij"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 53",
+      "originalQuote": "We pakken de netcongestie voortvarend aan. Dat gaan we doen door het vergunningsproces van elektriciteitsprojecten drastisch te versimpelen en te versnellen. Onder andere door een versnelde beroepsprocedures en meer vergunningsvrije ruimte."
+    },
+    {
+      "promiseCode": "CDA-2025-111",
+      "text": "Er worden twee nieuwe kerncentrales ontwikkeld en gebouwd, waarbij onderzoek naar kleine modulaire kernreactoren (SMR's) wordt gestimuleerd.",
+      "summary": "Bouw van twee nieuwe kerncentrales en ontwikkeling SMR's",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "smr",
+        "kernreactoren",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 53",
+      "originalQuote": "We gaan door met de ontwikkeling van twee nieuwe kerncentrales. De bouw vindt zorgvuldig en in goed overleg met de omgeving plaats. We onderzoeken en stimuleren de ontwikkeling van kleine, modulaire kernreactoren (SMR's)."
+    },
+    {
+      "promiseCode": "CDA-2025-112",
+      "text": "Er komt een Wet vitale infrastructuur waarmee energie-infrastructuurprojecten van nationaal belang versneld gerealiseerd kunnen worden door andere regelingen tijdelijk buiten werking te stellen.",
+      "summary": "Wet vitale infrastructuur voor versnelling energie-infrastructuur",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet vitale infrastructuur",
+        "energie-infrastructuur",
+        "nationaal belang",
+        "versnelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 54",
+      "originalQuote": "Met een Wet vitale infrastructuur zorgen we ervoor dat (energie)infrastructuurprojecten van nationaal belang versneld gerealiseerd kunnen worden door andere regelingen tijdelijk en selectief buiten werking te stellen."
+    },
+    {
+      "promiseCode": "CDA-2025-113",
+      "text": "Er komen regionale grondbanken onder de regie van regionale landinrichtingscommissies om herinrichting van landbouw en natuur te creëren.",
+      "summary": "Regionale grondbanken onder regie landinrichtingscommissies",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondbanken",
+        "landinrichtingscommissies",
+        "herinrichting",
+        "landbouw",
+        "natuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 56",
+      "originalQuote": "Om grondmobiliteit te creëren komen er regionale grondbanken onder de regie van regionale landinrichtingscommissies om zo herinrichting van landbouw en natuur te creëren."
+    },
+    {
+      "promiseCode": "CDA-2025-114",
+      "text": "De Dienst Landelijk Gebied (DLG) en de productschappen 2.0 worden herintroduceerd.",
+      "summary": "Herintroduceren DLG en productschappen 2.0",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dienst landelijk gebied",
+        "dlg",
+        "productschappen",
+        "herintroduceren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 56",
+      "originalQuote": "Wij herintroduceren de Dienst Landelijk Gebied (DLG) en de productschappen 2.0."
+    },
+    {
+      "promiseCode": "CDA-2025-115",
+      "text": "De veredelingstechnieken CRISPR-Cas en cisgenese worden toegestaan bij de veredeling van planten.",
+      "summary": "CRISPR-Cas en cisgenese toegestaan voor plantenveredeling",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "crispr-cas",
+        "cisgenese",
+        "veredelingstechnieken",
+        "plantenveredeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 57",
+      "originalQuote": "De veredelingstechnieken CRISPR-Cas en cisgenese worden toegestaan bij de veredeling van planten."
+    },
+    {
+      "promiseCode": "CDA-2025-116",
+      "text": "De hogere nationale CO2-heffing voor glastuinbouw wordt geschrapt.",
+      "summary": "Schrappen hogere CO2-heffing glastuinbouw",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-heffing",
+        "glastuinbouw",
+        "schrappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 57",
+      "originalQuote": "We realiseren de ambitie om in 2040 klimaatneutraal te zijn en schrappen de hogere nationale CO2-heffing."
+    },
+    {
+      "promiseCode": "CDA-2025-117",
+      "text": "Er wordt gestuurd op stikstofreductie voor alle sectoren in 2035 met een tussendoel in 2030, door het instellen van een emissienorm per bedrijf.",
+      "summary": "Stikstofreductie 2035 met tussendoel 2030 via emissienorm per bedrijf",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofreductie",
+        "emissienorm",
+        "bedrijf",
+        "2035",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 58",
+      "originalQuote": "We sturen op stikstofreductie voor de landbouwsector, en alle overige sectoren, in 2035 (met een tussendoel in 2030). Dit kan door het instellen van een emissienorm per bedrijf."
+    },
+    {
+      "promiseCode": "CDA-2025-118",
+      "text": "Het Stikstoffonds wordt hersteld, zodat ruime middelen beschikbaar zijn voor de transitie in de agrarische sector en natuurbeheer.",
+      "summary": "Herstel Stikstoffonds voor agrarische transitie",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstoffonds",
+        "herstel",
+        "agrarische sector",
+        "natuurbeheer",
+        "transitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 58",
+      "originalQuote": "We herstellen het Stikstoffonds, zodat ruime middelen beschikbaar zijn om de noodzakelijke transitie in de agrarische sector en natuurbeheer mogelijk te maken."
+    },
+    {
+      "promiseCode": "CDA-2025-119",
+      "text": "Er komt een Innovatie- en versterkingswet die de gemiddelde doorlooptijd van vergunningen minimaal halveert.",
+      "summary": "Innovatie- en versterkingswet halveert vergunningsdoorlooptijd",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "innovatie- en versterkingswet",
+        "vergunningen",
+        "doorlooptijd",
+        "halveren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 59",
+      "originalQuote": "Om het vergunningenbeleid te versnellen en te verbeteren wil het CDA een Innovatie- en versterkingswet. De nieuwe wet stelt voor dat de gemiddelde doorlooptijd minimaal wordt gehalveerd."
+    },
+    {
+      "promiseCode": "CDA-2025-120",
+      "text": "Er komt een schot tussen groene stikstof (ammoniak) en grijze stikstof (NOx).",
+      "summary": "Schot tussen groene en grijze stikstof",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groene stikstof",
+        "grijze stikstof",
+        "ammoniak",
+        "nox",
+        "schot"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 60",
+      "originalQuote": "Er komt een schot tussen groene stikstof (ammoniak) en grijze stikstof (NOx)."
+    },
+    {
+      "promiseCode": "CDA-2025-121",
+      "text": "Er wordt ingezet op actief beheer en beperking van de wolfpopulatie voor veiligheid van mens en dier.",
+      "summary": "Actief beheer en beperking wolfpopulatie",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wolf",
+        "populatie",
+        "beheer",
+        "beperking",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 60",
+      "originalQuote": "De wolf is terug in ons land. Wij kiezen voor veiligheid van mens en dier en voor de bescherming van boeren en vee. We zetten in op actief beheer en beperking van de populatie."
+    },
+    {
+      "promiseCode": "CDA-2025-122",
+      "text": "Primaire waterkeringen voldoen uiterlijk in 2050 aan de nieuwste normen.",
+      "summary": "Waterkeringen voldoen in 2050 aan nieuwste normen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waterkeringen",
+        "normen",
+        "2050",
+        "deltaprogramma"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 61",
+      "originalQuote": "Primaire waterkeringen voldoen uiterlijk in 2050 aan de nieuwste normen met extra aandacht voor risicogebieden voor overstromingen."
+    },
+    {
+      "promiseCode": "CDA-2025-123",
+      "text": "Er komt een nationale drinkwaterstrategie waarin keuzes over beschikbaarheid van drinkwater voor gebruikers worden gemaakt.",
+      "summary": "Nationale drinkwaterstrategie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drinkwaterstrategie",
+        "beschikbaarheid",
+        "drinkwater",
+        "gebruikers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 61",
+      "originalQuote": "Er komt een nationale drinkwaterstrategie waarin keuzes over de beschikbaarheid van drinkwater voor gebruikers worden gemaakt."
+    },
+    {
+      "promiseCode": "CDA-2025-124",
+      "text": "Producenten moeten bijdragen aan grote rioolwaterzuiveringsinstallaties voor verwijdering van medicijnresten.",
+      "summary": "Producenten dragen bij aan zuivering medicijnresten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "producenten",
+        "rioolwaterzuivering",
+        "medicijnresten",
+        "watervervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 61",
+      "originalQuote": "Producenten moeten bijdragen aan grote rioolwaterzuiveringsinstallaties waarin innovatieve technologie voor de verwijdering van medicijnresten wordt toegepast."
+    },
+    {
+      "promiseCode": "CDA-2025-125",
+      "text": "Voor elke overheidsorganisatie, zoals adviesraden, komen er maximale bestuurstermijnen.",
+      "summary": "Maximale bestuurstermijnen voor alle overheidsorganisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidsorganisaties",
+        "adviesraden",
+        "bestuurstermijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 64",
+      "originalQuote": "Voor elke overheidsorganisatie, zoals adviesraden, komen er maximale bestuurstermijnen."
+    },
+    {
+      "promiseCode": "CDA-2025-126",
+      "text": "Er komt een beroepsopleiding voor nieuwe belastinginspecteurs.",
+      "summary": "Beroepsopleiding voor nieuwe belastinginspecteurs",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beroepsopleiding",
+        "belastinginspecteurs",
+        "belastingdienst"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 64",
+      "originalQuote": "We willen een beroepsopleiding voor nieuwe belastinginspecteurs."
+    },
+    {
+      "promiseCode": "CDA-2025-127",
+      "text": "Een toevoeging voor sociale rechtshulp wordt mogelijk gemaakt voor belastingadviseurs om fiscale rechtshulp breder beschikbaar te maken.",
+      "summary": "Sociale rechtshulp toevoeging voor belastingadviseurs",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale rechtshulp",
+        "belastingadviseurs",
+        "fiscale rechtshulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 64",
+      "originalQuote": "We willen een toevoeging voor sociale rechtshulp voor belastingadviseurs mogelijk maken, om fiscale rechtshulp breder beschikbaar te maken."
+    },
+    {
+      "promiseCode": "CDA-2025-128",
+      "text": "Jaarlijks wordt de onterecht niet-geïnde belasting (tax gap) in Nederland in kaart gebracht.",
+      "summary": "Jaarlijkse kartlegging van tax gap Nederland",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tax gap",
+        "belastingheffing",
+        "jaarlijkse kartlegging"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 64",
+      "originalQuote": "We willen dat jaarlijks de onterecht niet-geïnde belasting, de zogenaamde tax gap, in Nederland in kaart wordt gebracht."
+    },
+    {
+      "promiseCode": "CDA-2025-129",
+      "text": "Bij nieuwe wetgeving gelden voortaan horizonbepalingen, zodat wetten die een tijdelijk probleem adresseren na verloop van tijd vanzelf vervallen.",
+      "summary": "Horizonbepalingen bij nieuwe wetgeving",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "horizonbepalingen",
+        "wetgeving",
+        "tijdelijke wetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 64",
+      "originalQuote": "Bij nieuwe wetgeving gelden voortaan horizonbepalingen, zodat wetten die een tijdelijk probleem adresseren na verloop van tijd vanzelf vervallen."
+    },
+    {
+      "promiseCode": "CDA-2025-130",
+      "text": "Het inkomensbegrip in de belastingen, toeslagen en sociale zekerheidsloon wordt vereenvoudigd en geharmoniseerd, waardoor automatisch toekennen van toeslagen mogelijk wordt.",
+      "summary": "Harmonisatie inkomensbegrip voor automatische toeslagtoekenning",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inkomensbegrip",
+        "toeslagen",
+        "automatische toekenning",
+        "sociale zekerheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 65",
+      "originalQuote": "We vereenvoudigen en harmoniëren het inkomensbegrip in de belastingen, toeslagen en sociale zekerheidsloon, zodat uitvoeringsinstellingen dat eenvoudig uit de polisadministratie kunnen halen. Dit maakt ook het automatisch toekennen van toeslagen mogelijk."
+    },
+    {
+      "promiseCode": "CDA-2025-131",
+      "text": "Conceptteksten tot aan de besluitvormingspositie vallen niet onder de Wet open overheid (Woo).",
+      "summary": "Uitsluiting conceptteksten van Woo-reikwijdte",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet open overheid",
+        "woo",
+        "conceptteksten",
+        "besluitvorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 65",
+      "originalQuote": "Conceptteksten tot aan de besluitvormingspositie vallen niet onder de Woo."
+    },
+    {
+      "promiseCode": "CDA-2025-132",
+      "text": "Zoveel mogelijk Specifieke Uitkeringen (SPUK's) voor gemeenten en provincies worden overgeheveld naar het Gemeente- of Provinciefonds.",
+      "summary": "Overheveling SPUK's naar gemeente- en provinciefonds",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "specifieke uitkeringen",
+        "spuk",
+        "gemeentefonds",
+        "provinciefonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 65",
+      "originalQuote": "Zoveel mogelijk Specifieke Uitkeringen (SPUK's) voor gemeenten en provincies worden overgeheveld naar het Gemeente- of Provinciefonds waarbij prestatieafspraken worden gemaakt, waardoor de verantwoordingslast vermindert."
+    },
+    {
+      "promiseCode": "CDA-2025-133",
+      "text": "Voor Bonaire komt er een speciaal groeifonds, waarbij demografische groei is gekoppeld aan investeringsruimte voor de leefomgeving en voorzieningen.",
+      "summary": "Speciaal groeifonds voor Bonaire gekoppeld aan demografische groei",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bonaire",
+        "groeifonds",
+        "demografische groei",
+        "investeringsruimte",
+        "leefomgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 67",
+      "originalQuote": "Voor Bonaire, dat te maken heeft met een forse bevolkingsgroei, komt er een speciaal groeifonds, waarbij demografische groei is gekoppeld aan investeringsruimte voor de leefomgeving en voorzieningen."
+    },
+    {
+      "promiseCode": "CDA-2025-134",
+      "text": "Er komt een beleidskader om vast te stellen welke investeringen zich kwalificeren voor een onrendabele maatschappelijke top.",
+      "summary": "Beleidskader voor kwalificatie onrendabele maatschappelijke top",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beleidskader",
+        "onrendabele top",
+        "maatschappelijke investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 67",
+      "originalQuote": "Er komt een beleidskader om vast te stellen welke investeringen zich kwalificeren voor een onrendabele maatschappelijke top."
+    },
+    {
+      "promiseCode": "CDA-2025-135",
+      "text": "Het arbeidsmarktpakket dat met sociale partners is afgesproken moet met urgentie worden doorgezet, inclusief meer zekerheid voor flexwerkers, een nieuwe crisisregeling voor personeelsbehoud en wetgeving voor het tweede ziektejaar.",
+      "summary": "Arbeidsmarktpakket met sociale partners doorvoeren met urgentie",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsmarktpakket",
+        "sociale partners",
+        "flexwerkers",
+        "crisisregeling",
+        "tweede ziektejaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 69",
+      "originalQuote": "We willen werknemers meer zekerheid bieden en werkgeverschap aantrekkelijker maken. Daarom moet het arbeidsmarktpakket dat met sociale partners is afgesproken met urgentie worden doorgezet. Het gaat dan onder meer om meer zekerheid voor flexwerkers, een nieuwe crisisregeling voor personeelsbehoud en wetgeving voor het tweede ziektejaar."
+    },
+    {
+      "promiseCode": "CDA-2025-136",
+      "text": "Er wordt een rechtsvermoeden van werknemerschap ingevoerd onder een bepaald tarief om schijnzelfstandigheid tegen te gaan.",
+      "summary": "Rechtsvermoeden werknemerschap onder bepaald tarief invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechtsvermoeden",
+        "werknemerschap",
+        "tarief",
+        "schijnzelfstandigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 69",
+      "originalQuote": "We zetten de handhaving door de Belastingdienst op schijnzelfstandigheid door en introduceren een rechtsvermoeden van werknemerschap onder een bepaald tarief."
+    },
+    {
+      "promiseCode": "CDA-2025-137",
+      "text": "De arbeidskorting wordt hervormd naar een arbeidskorting die voor elk gewerkt uur wordt toegepast zodat werken meer loont.",
+      "summary": "Arbeidskorting hervormen naar uurbasis",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "arbeidskorting",
+        "hervorming",
+        "gewerkt uur",
+        "werken loont"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 69",
+      "originalQuote": "We zetten de arbeidskorting beter in en hervormen deze naar een arbeidskorting die voor elk gewerkt uur wordt toegepast zodat werken meer loont."
+    },
+    {
+      "promiseCode": "CDA-2025-138",
+      "text": "Toeslagen worden automatisch uitgekeerd, zodat er op termijn geen terugvorderingen meer zijn.",
+      "summary": "Automatische uitkering toeslagen zonder terugvorderingen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toeslagen",
+        "automatisch",
+        "uitkering",
+        "terugvorderingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 69",
+      "originalQuote": "Toeslagen worden automatisch uitgekeerd, zodat er op termijn geen terugvorderingen meer zijn."
+    },
+    {
+      "promiseCode": "CDA-2025-139",
+      "text": "Het kabinet voert minimaal twee keer per jaar overleg met sociale partners over arbeidsmarkt en economie.",
+      "summary": "Minimaal twee keer per jaar overleg kabinet met sociale partners",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kabinet",
+        "overleg",
+        "sociale partners",
+        "arbeidsmarkt",
+        "economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 70",
+      "originalQuote": "Het kabinet voert minimaal twee keer per jaar overleg met sociale partners over arbeidsmarkt en economie."
+    },
+    {
+      "promiseCode": "CDA-2025-140",
+      "text": "Via sociale ontwikkelbedrijven en gemeenten wordt de basisbaan ingevoerd zodat iedereen in Nederland aan het werk kan of op weg naar passend werk.",
+      "summary": "Invoering basisbaan via sociale ontwikkelbedrijven en gemeenten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbaan",
+        "sociale ontwikkelbedrijven",
+        "gemeenten",
+        "passend werk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 70",
+      "originalQuote": "Via de sociale ontwikkelbedrijven en gemeenten kan door de invoering van de basisbaan iedereen in Nederland aan het werk of op weg naar passend werk."
+    },
+    {
+      "promiseCode": "CDA-2025-141",
+      "text": "Er komt een nieuwe banenafspraak waarin Rijk, gemeenten, UWV en werkgevers/werknemers afspreken hoe ze meer mensen ondersteunen naar regulier werk.",
+      "summary": "Nieuwe banenafspraak tussen Rijk, gemeenten, UWV en sociale partners",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "banenafspraak",
+        "rijk",
+        "gemeenten",
+        "uwv",
+        "regulier werk"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 70",
+      "originalQuote": "Er komt een nieuwe banenafspraak waarin Rijk, gemeenten, UWV en werkgevers/werknemers afspreken hoe ze meer mensen die op termijn zicht op werk hebben gaan ondersteunen naar regulier werk."
+    },
+    {
+      "promiseCode": "CDA-2025-142",
+      "text": "De Participatiewet wordt hervormd met als uitgangspunt dat iedereen een waardevolle bijdrage aan de samenleving kan leveren.",
+      "summary": "Hervorming Participatiewet met uitgangspunt waardevolle bijdrage",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "participatiewet",
+        "hervorming",
+        "waardevolle bijdrage",
+        "samenleving"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 70",
+      "originalQuote": "We hervormen de Participatiewet met als uitgangspunt dat iedereen een waardevolle bijdrage aan de samenleving kan leveren."
+    },
+    {
+      "promiseCode": "CDA-2025-143",
+      "text": "Het arbeidsongeschiktheidsstelsel wordt herzien met nadruk op passend werk, snellere interventie, preventie en duurzame re-activatie, samen met sociale partners.",
+      "summary": "Herziening arbeidsongeschiktheidsstelsel met sociale partners",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsongeschiktheidsstelsel",
+        "herziening",
+        "passend werk",
+        "re-activatie",
+        "sociale partners"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 71",
+      "originalQuote": "We herzien het stelsel voor de arbeidsongeschiktheidsverzekering met de nadruk op passend werk, snellere interventie, preventie en duurzame re-activatie, op basis van het advies van de Octas, in relatie tot de Ziektewet. Het moet ook eenvoudiger, duidelijker en eerlijker. Dat doen we samen met sociale partners."
+    },
+    {
+      "promiseCode": "CDA-2025-144",
+      "text": "Er komt één uitkering voor duurzame en niet-duurzame arbeidsongeschikten; rechten van bestaande uitkeringen blijven onaangetast.",
+      "summary": "Één uitkering voor alle arbeidsongeschikten",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitkering",
+        "arbeidsongeschikten",
+        "duurzaam",
+        "niet-duurzaam"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 71",
+      "originalQuote": "Voor een toekomstbestendig arbeidsongeschiktheidsstelsel maken we één uitkering voor duurzame en niet-duurzame arbeidsongeschikten; we tasten de rechten van bestaande uitkeringen niet aan."
+    },
+    {
+      "promiseCode": "CDA-2025-145",
+      "text": "Er wordt een wettelijke regeling voor transitieverlof ingevoerd om de arbeidsmarktpositie van transgenderpersonen te versterken.",
+      "summary": "Wettelijke regeling transitieverlof invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "transitieverlof",
+        "wettelijke regeling",
+        "transgenderpersonen",
+        "arbeidsmarktpositie"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 71",
+      "originalQuote": "We versterken de arbeidsmarktpositie van transgenderpersonen door het invoeren van een wettelijke regeling voor transitieverlof."
+    },
+    {
+      "promiseCode": "CDA-2025-146",
+      "text": "Er wordt één overzicht van schulden en betalingscapaciteit gecreëerd zodat schulden verantwoord kunnen worden geïnd en huishoudens niet onder het sociaal minimum belanden.",
+      "summary": "Één overzicht schulden en betalingscapaciteit invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schulden",
+        "betalingscapaciteit",
+        "overzicht",
+        "sociaal minimum"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 72",
+      "originalQuote": "We willen één overzicht van schulden en betalingscapaciteit van mensen, zodat schulden verantwoord kunnen worden geïnd en huishoudens niet onder het sociaal minimum belanden."
+    },
+    {
+      "promiseCode": "CDA-2025-147",
+      "text": "Er komt een Nationale Betaaldag voor alle inkomensregelingen om mensen meer grip op hun financiën te geven.",
+      "summary": "Nationale Betaaldag voor alle inkomensregelingen invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale betaaldag",
+        "inkomensregelingen",
+        "financiën",
+        "grip"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 72",
+      "originalQuote": "We willen een Nationale Betaaldag voor alle inkomensregelingen. Op dit moment zit er nog te veel verschil tussen momenten in de maand waarop bedragen worden uitgekeerd en waarop vaste lasten worden afgeschreven. Zo kunnen mensen meer grip krijgen op hun financiën."
+    },
+    {
+      "promiseCode": "CDA-2025-148",
+      "text": "Er komt een Europees verbod op lootboxes en buy now pay later en strengere regels voor finfluencers.",
+      "summary": "Europees verbod lootboxes en buy now pay later",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europees verbod",
+        "lootboxes",
+        "buy now pay later",
+        "finfluencers"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 72",
+      "originalQuote": "We willen een Europees verbod op lootboxes en buy now pay later en strengere regels voor finfluencers: verleidingstechnieken om meer en risicovol te consumeren en beleggen, meer online te zijn en meer data te geven."
+    },
+    {
+      "promiseCode": "CDA-2025-149",
+      "text": "De 21 leefvormen in de AOW worden vereenvoudigd zodat er geen controles aan huis meer hoeven plaats te vinden.",
+      "summary": "Vereenvoudiging 21 AOW-leefvormen zonder huiscontroles",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow",
+        "leefvormen",
+        "vereenvoudigen",
+        "controles",
+        "huis"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 73",
+      "originalQuote": "We vereenvoudigen de 21 leefvormen in de AOW, zodat er geen controles aan huis meer hoeven plaats te vinden."
+    },
+    {
+      "promiseCode": "CDA-2025-150",
+      "text": "Lidstaten die de rechtsstaat beschadigen of vernielen, worden gekort op EU-fondsen of verliezen hun stemrecht in EU-raden, met verplichte uittreding als ultieme sanctie.",
+      "summary": "EU-sancties tegen lidstaten die rechtsstaat beschadigen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eu-fondsen",
+        "stemrecht",
+        "rechtsstaat",
+        "sancties",
+        "uittreding"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 75",
+      "originalQuote": "Lidstaten die de rechtsstaat beschadigen of vernielen, korten we op EU-fondsen of verliezen hun stemrecht in EU-raden. Verplichte uittreding is de ultieme sanctie."
+    },
+    {
+      "promiseCode": "CDA-2025-151",
+      "text": "Het veto op buitenlands beleid in de EU wordt opgeheven bij het veroordelen van mensenrechtenschendingen en het opstellen van sanctielijsten.",
+      "summary": "Opheffing EU-veto bij mensenrechten en sancties",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veto",
+        "buitenlands beleid",
+        "mensenrechtenschendingen",
+        "sanctielijsten"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 75",
+      "originalQuote": "We heffen het veto op buitenlands beleid in de EU op bij het veroordelen van mensenrechtenschendingen en het opstellen van sanctielijsten."
+    },
+    {
+      "promiseCode": "CDA-2025-152",
+      "text": "Nederland committeert zich aan de NAVO-norm om uiterlijk in 2035 3,5 procent van het bbp uit te geven aan defensie, met daarnaast 1,5 procent aan defensie-gerelateerde doelen.",
+      "summary": "NAVO-norm 3,5% bbp defensie-uitgaven in 2035",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "navo-norm",
+        "defensie-uitgaven",
+        "bbp",
+        "percentage",
+        "2035"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 81",
+      "originalQuote": "Nederland committeert zich aan de afspraken van de NAVO-capaciteitsdoelstellingen en de nieuwe NAVO-norm om uiterlijk in 2035 3,5 procent van het bbp uit te geven aan defensie. Daarnaast geven we ook 1,5 procent van het bbp aan defensie-gerelateerde doelen uit."
+    },
+    {
+      "promiseCode": "CDA-2025-153",
+      "text": "Er wordt een vrijheidsbijdrage geïntroduceerd voor burgers en bedrijven om extra defensie-uitgaven te financieren.",
+      "summary": "Nieuwe vrijheidsbijdrage voor defensiefinanciering",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrijheidsbijdrage",
+        "defensie-uitgaven",
+        "burgers",
+        "bedrijven",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 81",
+      "originalQuote": "Daarnaast introduceren we een vrijheidsbijdrage voor iedereen, burgers en bedrijven."
+    },
+    {
+      "promiseCode": "CDA-2025-154",
+      "text": "De militaire opkomstplicht wordt opnieuw ingevoerd naar Scandinavisch model, met alternatieven zoals Maatschappelijke Diensttijd voor jongeren die niet vrijwillig voor defensie kiezen.",
+      "summary": "Herinvoering militaire dienstplicht naar Scandinavisch model",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opkomstplicht",
+        "scandinavisch model",
+        "maatschappelijke diensttijd",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 82",
+      "originalQuote": "Door de toenemende militaire dreigingen willen wij een heractivering van de militaire opkomstplicht, naar Scandinavisch model"
+    },
+    {
+      "promiseCode": "CDA-2025-155",
+      "text": "De norm van 0,7 procent bbp voor ontwikkelingssamenwerking wordt hersteld in fases, met toerekening van asielopvang gemaximeerd tot 10 procent van het budget.",
+      "summary": "Herstel 0,7% bbp-norm ontwikkelingssamenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "bbp-norm",
+        "0,7 procent",
+        "asielopvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 80",
+      "originalQuote": "Wij zijn voorstander van de norm van 0,7 procent bbp voor ontwikkelingssamenwerking, conform internationale afspraak, en zetten stappen in fases naar het herstel van deze norm."
+    },
+    {
+      "promiseCode": "CDA-2025-156",
+      "text": "Bevroren Russische tegoeden worden ingezet voor de wederopbouw van Oekraïne en de Russische schaduwvloot wordt geweerd uit Nederlandse havens.",
+      "summary": "Russische tegoeden voor Oekraïne-wederopbouw",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "russische tegoeden",
+        "oekraïne",
+        "wederopbouw",
+        "schaduwvloot",
+        "havens"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 77",
+      "originalQuote": "Bevroren Russische tegoeden worden ingezet voor de wederopbouw van Oekraïne en we handhaven bestaande sancties strenger, bijvoorbeeld door de Russische schaduwvloot te weren uit onze havens."
+    },
+    {
+      "promiseCode": "CDA-2025-157",
+      "text": "Een verbod op producten uit illegale Israëlische nederzettingen wordt ingevoerd en sancties tegen verantwoordelijken voor het nederzettingenbeleid.",
+      "summary": "Verbod producten illegale nederzettingen en sancties",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederzettingen",
+        "producten",
+        "verbod",
+        "sancties",
+        "israël"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 78",
+      "originalQuote": "Het kabinet moet verder gaan dan ontmoedigen en effectieve maatregelen nemen, zoals sancties tegen verantwoordelijken en een verbod op producten uit de illegale nederzettingen."
+    },
+    {
+      "promiseCode": "CDA-2025-158",
+      "text": "Een Nationale Investeringsbank wordt opgericht door samenvoeging van Invest-NL/Invest-International en delen van RVO, met substantieel kapitaal om private financiering aan te jagen.",
+      "summary": "Oprichting Nationale Investeringsbank uit Invest-NL en delen RVO",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale investeringsbank",
+        "invest-nl",
+        "invest-international",
+        "rvo",
+        "private financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 87",
+      "originalQuote": "We vormen Invest-NL/Invest-International, en gedeeltes van RVO, om tot een Nationale Investeringsbank, met een flink kapitaal om private financiering aan te jagen."
+    },
+    {
+      "promiseCode": "CDA-2025-159",
+      "text": "Publieke investeringen in innovatie en R&D (publiek en privaat) worden gedaan om de Lissabon-doelstelling van 3 procent te halen.",
+      "summary": "Lissabon-doelstelling 3% voor R&D via publieke investeringen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "innovatie",
+        "r&d",
+        "lissabon-doelstelling",
+        "publieke investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 87",
+      "originalQuote": "We doen publieke investeringen in innovatie en R&D (publiek en privaat), om de Lissabon-doelstelling van 3 procent te halen."
+    },
+    {
+      "promiseCode": "CDA-2025-160",
+      "text": "Een Grondbank wordt opgericht en actief grondbeleid gevoerd om meer regie te voeren op de woningbouwopgave en economische ontwikkeling.",
+      "summary": "Oprichting Grondbank voor regie woningbouw en economische ontwikkeling",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondbank",
+        "grondbeleid",
+        "woningbouwopgave",
+        "economische ontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 86",
+      "originalQuote": "Met de oprichting van een Grondbank en actief grondbeleid kunnen we meer regie voeren op de woningbouwopgave en economische ontwikkeling."
+    },
+    {
+      "promiseCode": "CDA-2025-161",
+      "text": "Een vrijheidsbijdrage voor burgers en bedrijven wordt ingevoerd om defensie-uitgaven te financieren, waarbij iedereen evenredig bijdraagt naar draagkracht.",
+      "summary": "Vrijheidsbijdrage voor burgers en bedrijven ter financiering defensie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrijheidsbijdrage",
+        "burgers",
+        "bedrijven",
+        "defensie-uitgaven",
+        "draagkracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 87",
+      "originalQuote": "Voor een deel financieren we de defensie-uitgaven via een vrijheidsbijdrage voor burgers en bedrijven, zodat iedereen evenredig bijdraagt naar draagkracht."
+    },
+    {
+      "promiseCode": "CDA-2025-162",
+      "text": "Verbruiksbelastingen op suiker en accijns op tabak, e-sigaretten en alcohol worden geheven vanuit een gezondheidsdoelstelling.",
+      "summary": "Verbruiksbelastingen op suiker en accijns vanuit gezondheidsdoelstelling",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbruiksbelastingen",
+        "suiker",
+        "accijns",
+        "tabak",
+        "e-sigaretten",
+        "alcohol",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma CDA 2025, p. 88",
+      "originalQuote": "Verbruiksbelastingen (bijvoorbeeld op suiker) en accijns (tabak, e-sigaretten, alcohol) heffen we vanuit een gezondheidsdoelstelling."
+    }
+  ]
+}

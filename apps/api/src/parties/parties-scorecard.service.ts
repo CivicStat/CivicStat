@@ -197,14 +197,27 @@ export class PartiesScorecardService {
         let votedFor: boolean | null = null;
 
         if (partyRecords.length === 0) {
-          // Fall back to raw stemming data (party-level "met handopsteken" votes)
+          // Try TK format: rawData.Stemming[].ActorNaam
           const rawStemmingen = (vote as any).rawData?.Stemming || [];
           const partyNames = [party.abbreviation, party.name].filter(Boolean);
-          const partyVote = rawStemmingen.find(
-            (s: any) => partyNames.some(n => s.ActorNaam === n)
-          );
-          if (!partyVote) { noData++; continue; }
-          votedFor = partyVote.Soort?.toLowerCase() === "voor";
+
+          if (rawStemmingen.length > 0) {
+            const partyVote = rawStemmingen.find(
+              (s: any) => partyNames.some(n => s.ActorNaam === n)
+            );
+            if (!partyVote) { noData++; continue; }
+            votedFor = partyVote.Soort?.toLowerCase() === "voor";
+          } else {
+            // Municipal format: rawData.voteBreakdown.partiesFor/partiesAgainst
+            const breakdown = (vote as any).rawData?.voteBreakdown;
+            if (!breakdown) { noData++; continue; }
+            const partiesFor: string[] = breakdown.partiesFor || [];
+            const partiesAgainst: string[] = breakdown.partiesAgainst || [];
+            const isFor = partyNames.some(n => partiesFor.includes(n));
+            const isAgainst = partyNames.some(n => partiesAgainst.includes(n));
+            if (!isFor && !isAgainst) { noData++; continue; }
+            votedFor = isFor;
+          }
         } else {
           const forCount = partyRecords.filter((r: any) => r.voteValue === "FOR").length;
           const againstCount = partyRecords.filter((r: any) => r.voteValue === "AGAINST").length;
@@ -1005,13 +1018,13 @@ export class PartiesScorecardService {
       if (byId) return byId;
     }
 
-    const byTkId = await prisma.party.findUnique({ where: { tkId: idOrAbbr } });
-    if (byTkId) return byTkId;
-
     const byAbbr = await prisma.party.findFirst({
       where: { abbreviation: { equals: idOrAbbr, mode: "insensitive" } },
     });
     if (byAbbr) return byAbbr;
+
+    const byTkId = await prisma.party.findUnique({ where: { tkId: idOrAbbr } });
+    if (byTkId) return byTkId;
 
     throw new NotFoundException("Party not found");
   }

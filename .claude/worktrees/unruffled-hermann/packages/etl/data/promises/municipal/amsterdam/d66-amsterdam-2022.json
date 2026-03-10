@@ -1,0 +1,1487 @@
+{
+  "party": "D66",
+  "partySlug": "d66",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Een nieuw Amsterdam",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 97,
+  "promises": [
+    {
+      "promiseCode": "D66-AMS-2022-001",
+      "text": "Jaarlijkse nieuwbouw van 9.000 woningen met specifieke verdeling: 30% sociale huur, 40% middenhuur en -koop, en 30% hogere segmenten.",
+      "summary": "9.000 nieuwe woningen per jaar met 30% sociale huur, 40% middensegment, 30% duur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "woningbouwprogrammering",
+        "sociale huur",
+        "middenhuur",
+        "woningaantal"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 7",
+      "originalQuote": "We zetten in op de bouw van 9.000 woningen per jaar, met een woningbouwprogrammering van 30% sociale huur, 40% middenhuur en -koop, en 30% huur en koop in het hogere segment"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-002",
+      "text": "50% van nieuwe woningen wordt betaalbaar en beschikbaar voor middeninkomens (€35.000 - €70.000 bruto per jaar).",
+      "summary": "50% nieuwe woningen voor middeninkomens €35.000-€70.000",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "middeninkomens",
+        "nieuwbouw",
+        "betaalbaar",
+        "inkomensgrenzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 8",
+      "originalQuote": "We zorgen ervoor dat 50% van de nieuw te bouwen woningen betaalbaar en beschikbaar wordt voor middeninkomens (€35.000 - €70.000 bruto-inkomen per jaar)"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-003",
+      "text": "In het middensegment wordt 30% gereserveerd voor betaalbare koopwoningen tot €355.000 (prijspeil 2022).",
+      "summary": "30% middensegment voor koopwoningen tot €355.000",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "middensegment",
+        "koopwoningen",
+        "betaalbaar",
+        "prijsgrens"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 8",
+      "originalQuote": "In het middensegment reserveren we 30% voor betaalbare koopwoningen tot € 355.000 (prijspeil 2022)"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-004",
+      "text": "30% van nieuwe woningen in het sociale segment wordt oorgemerkt voor jongeren en studenten.",
+      "summary": "30% sociale nieuwbouw voor jongeren en studenten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huur",
+        "jongeren",
+        "studenten",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 8",
+      "originalQuote": "We oormerken 30% van de nieuwe woningen in het sociale segment voor jongeren en studenten"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-005",
+      "text": "Forse uitbreiding van voorrangsregeling voor cruciale beroepen in sociaal en middenhuur, met speciale aandacht voor leraren tegen lerarentekort.",
+      "summary": "Uitbreiding voorrangsregeling cruciale beroepen, focus op leraren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voorrangsregeling",
+        "cruciale beroepen",
+        "leraren",
+        "sociale huur",
+        "middenhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 8",
+      "originalQuote": "We breiden de voorrangsregeling voor cruciale beroepen fors uit in sociaal en middenhuur, met specifieke aandacht voor leraren om het lerarentekort op te lossen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-006",
+      "text": "Opkoopbescherming van goedkope en middeldure huizen in de hele stad door middel van woonplicht.",
+      "summary": "Opkoopbescherming hele stad via woonplicht",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opkoopbescherming",
+        "woonplicht",
+        "goedkope woningen",
+        "middeldure woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 8",
+      "originalQuote": "Huizen zijn er om in te wonen. We zorgen voor opkoopbescherming van goedkope en middeldure huizen in de hele stad doormiddel van de woonplicht"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-007",
+      "text": "Particuliere vakantieverhuur alleen met vergunning, in drukke wijken niet toegestaan, elders maximum dertig nachten.",
+      "summary": "Vakantieverhuur: vergunning verplicht, drukke wijken verboden, max 30 nachten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vakantieverhuur",
+        "vergunning",
+        "drukke wijken",
+        "maximum nachten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 8",
+      "originalQuote": "Particuliere vakantieverhuur blijft alleen mogelijk met een vergunning en wordt in drukke wijken niet toegestaan. In de rest van de stad blijft het maximum aantal nachten dertig"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-008",
+      "text": "Stedelijk isolatieprogramma met onderwijsinstellingen om energieverbruik te verminderen en werkgelegenheid te bevorderen.",
+      "summary": "Stedelijk isolatieprogramma met onderwijsinstellingen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "isolatieprogramma",
+        "onderwijsinstellingen",
+        "energieverbruik",
+        "werkgelegenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 10",
+      "originalQuote": "Isoleren is hét sleutelwoord om ons energieverbruik te verminderen. Er komt een stedelijk isolatieprogramma met onderwijsinstellingen dat werkgelegenheid bevordert"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-009",
+      "text": "Alle VvE's en bedrijfspanden moeten een groen (duurzaam) meerjarenonderhoudsplan hebben.",
+      "summary": "Verplichte groene meerjarenonderhoudsplannen voor VvE's en bedrijven",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vve",
+        "bedrijfspanden",
+        "meerjarenonderhoudsplan",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 10",
+      "originalQuote": "Alle vve's en bedrijfspanden moeten een groen (duurzaam) meerjaren onderhoudsplan (MJOP) hebben"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-010",
+      "text": "Amsterdam zet een GroeneDaken-fonds op waar Amsterdammers aandelen kunnen kopen voor duurzame daken met zonne-energie en biodiversiteit.",
+      "summary": "GroeneDaken-fonds voor duurzame daken met participatiemogelijkheid",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groenedaken-fonds",
+        "aandelen",
+        "duurzame daken",
+        "zonne-energie",
+        "biodiversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 10",
+      "originalQuote": "Amsterdam zet een GroeneDaken-fonds op. Amsterdammers kunnen een aandeel kopen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-011",
+      "text": "Groennorm op buurtniveau invoeren waarbij elke buurt een eigen park(je) heeft, inclusief privaat groen.",
+      "summary": "Groennorm per buurt met eigen park per buurt",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groennorm",
+        "buurtniveau",
+        "park",
+        "privaat groen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 12",
+      "originalQuote": "Er komt een groennorm op buurtniveau en de groennorm in nieuwe woonwijken wordt de ondergrens. Bij de groennorm hoort ook privaat groen (o.a. tuinen, daken en gevels). Het uitgangspunt is dat elke buurt een eigen park(je) heeft"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-012",
+      "text": "De Herengracht wordt parkeervrij voor meer verblijfsruimte in de binnenstad.",
+      "summary": "Herengracht parkeervrij maken",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "herengracht",
+        "parkeervrij",
+        "verblijfsruimte",
+        "binnenstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 12",
+      "originalQuote": "De Herengracht wordt parkeervrij zodat er meer verblijfsruimte komt in de binnenstad"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-013",
+      "text": "D66 heeft de ambitie de CO2-reductiedoelstelling te verhogen van 55% naar 60% in 2030.",
+      "summary": "CO2-reductie verhogen naar 60% in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-reductie",
+        "klimaatdoelstelling",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 14",
+      "originalQuote": "D66 heeft de ambitie de doelstelling om de CO2-reductie te verhogen: van 55% naar 60% in 2030."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-014",
+      "text": "Er komt een grootstedelijk circulair isolatieprogramma met onderwijsinstellingen, waarbij jongeren die uitstromen van technische mbo's direct een stage en baangarantie hebben.",
+      "summary": "Circulair isolatieprogramma met stage en baangarantie mbo'ers",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "isolatieprogramma",
+        "mbo",
+        "stage",
+        "baangarantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 14",
+      "originalQuote": "Daarom komt er een grootstedelijk circulair isolatieprogramma met onder andere onderwijsinstellingen, waarbij jongeren die uitstromen van de technische mbo's direct een stage en baangarantie hebben."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-015",
+      "text": "Voor het eind van 2024 moet elke Amsterdammer kennis hebben genomen van de isolatiemogelijkheden voor het gebouw dat zij bewonen.",
+      "summary": "Alle Amsterdammers geïnformeerd over isolatie eind 2024",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "isolatiemogelijkheden",
+        "informatie",
+        "2024"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 14",
+      "originalQuote": "Voor het eind van 2024 moet elke Amsterdammer kennis hebben genomen van de isolatiemogelijkheden voor het gebouw dat zij bewonen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-016",
+      "text": "De korting op leges voor omgevingsvergunningen bij duurzame verbouwing wordt verdubbeld van maximaal €25.000 naar €50.000 per project.",
+      "summary": "Legeskorting duurzame verbouwing naar €50.000",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "legeskorting",
+        "omgevingsvergunning",
+        "duurzame verbouwing",
+        "50000 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 14",
+      "originalQuote": "We verdubbelen de korting die gegeven kan worden op de leges voor een omgevingsvergunning bij een duurzame verbouwing: van maximaal €25.000 per project naar €50.000 per project"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-017",
+      "text": "De gemeente gaat een interne CO2-prijs hanteren waardoor de business case voor klimaatmaatregelen zichtbaar wordt voor gemeente, bedrijven en inwoners.",
+      "summary": "Gemeente hanteert interne CO2-prijs",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "co2-prijs",
+        "business case",
+        "klimaatmaatregelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 14",
+      "originalQuote": "De gemeente gaat een interne CO2-prijs hanteren waardoor de business case voor het tegengaan van klimaatverandering zichtbaar wordt voor de gemeente, bedrijven en inwoners van de stad."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-018",
+      "text": "De gemeente stelt eigen daken beschikbaar voor Amsterdammers zonder eigen dak om zelf energie op te kunnen wekken. Uitgangspunt is: we laten geen dak onbenut.",
+      "summary": "Gemeentelijke daken beschikbaar voor energieopwekking",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeentelijke daken",
+        "energieopwekking",
+        "zonnepanelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 15",
+      "originalQuote": "De gemeente stelt eigen daken beschikbaar voor deze mensen om zelf energie op te kunnen wekken. Het uitgangspunt is: we laten geen dak onbenut"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-019",
+      "text": "Met elk van de honderd grootste daken van Amsterdam wordt een plan van aanpak gemaakt voor zonne-energie, of anders groene daken. Uitgangspunt: ja, tenzij gemotiveerd kan worden waarom hiervan af wordt geweken.",
+      "summary": "Plan van aanpak voor 100 grootste daken Amsterdam",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grootste daken",
+        "zonne-energie",
+        "groene daken",
+        "plan van aanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 15",
+      "originalQuote": "Met elk van deze honderd bedrijven en instellingen wordt een plan van aanpak gemaakt voor zonne-energie. Waar dit geen mogelijkheid blijkt te zijn worden er groene daken gerealiseerd. Er wordt uitgegaan van een ja, tenzij benadering"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-020",
+      "text": "Alle geschikte daken worden vergroend in een wijk-bij-wijk aanpak. De voorwaarden voor subsidie van groene daken worden versoepeld.",
+      "summary": "Alle geschikte daken vergroenen per wijk, subsidie versoepeld",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groene daken",
+        "wijk-bij-wijk",
+        "subsidie",
+        "versoepeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 15",
+      "originalQuote": "We brengen de temperatuur in de stad verder terug, door alle geschikte daken te vergroenen, in een wijk-bij-wijk aanpak. We versoepelen de voorwaarden voor subsidie van groene daken"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-021",
+      "text": "De openingstijden van gemeentelijke milieustraten worden verruimd en opengesteld voor het mkb, zodat er meer afval hoogwaardiger kan worden verwerkt.",
+      "summary": "Milieustraten langer open en toegankelijk voor mkb",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "milieustraten",
+        "openingstijden",
+        "mkb",
+        "afvalverwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 18",
+      "originalQuote": "We verruimen de openingstijden van gemeentelijke milieustraten en stellen deze open voor het mkb. Zo kan er meer afval ingezameld worden en hoogwaardiger worden verwerkt"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-022",
+      "text": "Grote bedrijven en ketens die veel verpakt takeaway eten verkopen dat als wegwerpafval terugkomt, gaan extra belasting betalen om verantwoordelijk te worden voor rondzwervend afval.",
+      "summary": "Extra belasting voor bedrijven met wegwerp-takeaway verpakkingen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "extra belasting",
+        "takeaway",
+        "wegwerpafval",
+        "rondzwervend afval"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 18",
+      "originalQuote": "Grote bedrijven en ketens die veel verpakt takeaway eten verkopen dat we op straat terugvinden als wegwerpafval, gaan extra belasting betalen. Zo worden zij verantwoordelijk voor het voorkomen van rondzwervend afval in winkelstraten."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-023",
+      "text": "Het metronetwerk wordt uitgebreid door de grote ring te sluiten. Vanaf de Isolatorweg wordt de lijn noordelijk verlengd via Spaarndammerdijk, Houthavens, NDSM-terrein naar het Noorderpark.",
+      "summary": "Metronetwerk uitbreiden: grote ring sluiten via Noord",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metronetwerk",
+        "grote ring",
+        "isolatorweg",
+        "noorderpark"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 19",
+      "originalQuote": "We breiden het metronetwerk uit door de grote ring te sluiten en de randgebieden nog meer bij de stad te betrekken. Vanaf de Isolatorweg wordt de bestaande lijn niet in oostelijke, maar in noordelijke richting verlengd. De verlengde route voert vanaf de Isolatorweg via de Spaarndammerdijk, de Houthavens, het NDSM-terrein, het Johan van Hasseltkanaal en het Mosveld naar het Noorderpark"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-024",
+      "text": "De Noord/Zuidlijn wordt doorgetrokken naar Hoofddorp via Schiphol in het zuiden en naar Zaandam in het noorden.",
+      "summary": "Noord/Zuidlijn doorgetrokken naar Hoofddorp en Zaandam",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noord/zuidlijn",
+        "hoofddorp",
+        "zaandam",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 19",
+      "originalQuote": "De Noord/Zuidlijn wordt aan beide kanten doorgetrokken. In zuidelijke richting via Schiphol tot Station Hoofddorp, in noordelijke richting tot aan Zaandam"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-025",
+      "text": "Het fietsnetwerk wordt uitgebreid met twee fietsbruggen over het IJ: één vanaf het KNSM-eiland naar Johan van Hasseltweg in Noord en één tussen Houthavens en NDSM-werf.",
+      "summary": "Twee nieuwe fietsbruggen over het IJ",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietsbruggen",
+        "ij",
+        "knsm-eiland",
+        "houthavens",
+        "ndsm"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 19",
+      "originalQuote": "Het fietsnetwerk wordt uitgebreid met twee fietsbruggen over het IJ. Een van de bruggen wordt aan de oostkant gepositioneerd; vanaf het KNSM-eiland naar de Johan van Hasseltweg in Noord. De andere brug vinden we aan de westkant; tussen de Houthavens en de NDSM-werf"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-026",
+      "text": "30 km/u wordt in de hele stad de norm, behalve op hoofdnetwegen zoals de Wibautstraat en Leeuwarderweg.",
+      "summary": "30 km/u stadsbrede norm, behalve hoofdnetwegen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "30 km/u",
+        "snelheidsbeperking",
+        "hoofdnetwegen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 21",
+      "originalQuote": "30 km/u wordt in de hele stad de norm. Daarbij gelden de hoofdnetwegen zoals de Wibautstraat en de Leeuwarderweg als uitzondering."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-027",
+      "text": "Op smalle fietspaden komt een maximumsnelheid van 20 km/h voor e-bikes.",
+      "summary": "20 km/h limiet voor e-bikes op smalle fietspaden",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "e-bikes",
+        "maximumsnelheid",
+        "20 km/h",
+        "smalle fietspaden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 21",
+      "originalQuote": "Op smalle fietspaden komt een maximumsnelheid van 20 km/h"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-028",
+      "text": "Betaald parkeren wordt de norm zodat de auto alleen nog gebruikt wordt indien noodzakelijk.",
+      "summary": "Betaald parkeren wordt de norm",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "betaald parkeren",
+        "parkeerbeleid",
+        "autogebruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 21",
+      "originalQuote": "Betaald parkeren wordt de norm. Zo wordt de auto alleen nog gebruikt indien noodzakelijk"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-029",
+      "text": "D66 stimuleert deelmobiliteit door vergunningen te versnellen en stelt ruimte beschikbaar op slimme plekken voor bijvoorbeeld deelfietsen, e-bikes of gedeelde taxi's.",
+      "summary": "Versnelling deelmobiliteit vergunningen en ruimte voor deelfietsen en gedeelde taxi's",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "deelmobiliteit",
+        "vergunningen",
+        "deelfiets",
+        "e-bike",
+        "gedeelde taxi"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 22",
+      "originalQuote": "We stimuleren deelmobiliteit door vergunning te versnellen. Daarnaast stellen we ruimte beschikbaar op slimme plekken waar je bijvoorbeeld een deelfiets (of e-bike) kunt gebruiken of een gedeelde taxi kan nemen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-030",
+      "text": "D66 wil meer plekken aan wal hebben waar goederen en afvalstoffen geladen en gelost kunnen worden, met stimulering van vervoer over water via grachten, het IJ en het Amsterdams Rijnkanaal.",
+      "summary": "Meer laad- en losplekken aan wal voor vervoer over water",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vervoer water",
+        "laad- en losplekken",
+        "grachten",
+        "ij",
+        "amsterdams rijnkanaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 22",
+      "originalQuote": "Waar mogelijk, stimuleren we vervoer over water. De infrastructuur over water gaat niet alleen over de grachten, maar ook over het IJ en het Amsterdams Rijnkanaal. D66 wil meer plekken aan wal hebben waar goederen en afvalstoffen geladen en gelost kunnen worden"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-031",
+      "text": "D66 wil de beperkte venstertijden voor bevoorrading aanpassen zodat ondernemers dit efficiënter kunnen organiseren en laad- en losruimte multifunctioneel kunnen inzetten.",
+      "summary": "Aanpassen venstertijden bevoorrading voor efficiëntere organisatie",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "venstertijden",
+        "bevoorrading",
+        "laad- en losruimte",
+        "multifunctioneel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 22",
+      "originalQuote": "We passen de beperkte venstertijden voor bevoorrading aan. Daardoor kunnen ondernemers dit efficiënter organiseren en zijn ze zeker van hun levertijden. Bovendien kunnen we op die manier laad- en losruimte multifunctioneel inzetten"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-032",
+      "text": "D66 verhoogt de projectsubsidie voor kunstenaars en makers weer, die tijdens de coronacrisis is verminderd, om ruimte te bieden aan experimenten en ambitieuze projecten.",
+      "summary": "Verhoging projectsubsidie voor kunstenaars na coronabezuinigingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "projectsubsidie",
+        "kunstenaars",
+        "experimenten",
+        "coronacrisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 24",
+      "originalQuote": "Op de post projectsubsidie is tijdens de coronacrisis flink bezuinigd. Als we de kunst en cultuur in onze stad weer een nieuwe impuls willen geven en volop ruimte bieden aan experimenten en ambitieuze projecten, dan moeten deze makers weer aan de slag kunnen en projecten kunnen opzetten. D66 kiest er daarom voor de projectsubsidie weer te verhogen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-033",
+      "text": "D66 creëert een aparte post voor broedplaatsen en draait de bezuinigingen hierop terug, met inzet op duurzame ontwikkeling van broedplaatsen en diversiteit aan disciplines van beeldende kunst tot muziek en dans.",
+      "summary": "Aparte budgetpost voor broedplaatsen en terugdraaien bezuinigingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "broedplaatsen",
+        "budgetpost",
+        "beeldende kunst",
+        "muziek",
+        "dans"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 24",
+      "originalQuote": "Broedplaatsen bieden woon- en werkruimte aan kunstenaars, maar afgelopen periode is hierop bezuinigd. D66 wil dat terugdraaien. Wij creëren een aparte post voor broedplaatsen en kiezen er expliciet voor om ruimte te maken voor kunst en kunstenaars"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-034",
+      "text": "D66 zorgt voor goed toegeruste cultuurhuizen in stadsdelen West, Nieuw-West, Noord en Zuidoost met als specifieke opdracht een sleutelrol te spelen in talentontwikkeling en kunstervaringen.",
+      "summary": "Goed toegeruste cultuurhuizen in West, Nieuw-West, Noord en Zuidoost",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurhuizen",
+        "west",
+        "nieuw-west",
+        "noord",
+        "zuidoost",
+        "talentontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 24-25",
+      "originalQuote": "We zorgen dat er in Stadsdelen als West, Nieuw-West, Noord en Zuidoost goed toegeruste cultuurhuizen zijn. Deze huizen hebben als specifieke opdracht een sleutelrol te spelen in het stimuleren van de ontwikkeling van talent en van de ervaring van kunst en cultuur in hun stadsdeel"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-035",
+      "text": "D66 alloceert specifiek budget aan kunst in de openbare ruimte, zoals tentoonstellingen in de openlucht, om Amsterdammers laagdrempelig met kunst in aanraking te laten komen.",
+      "summary": "Specifiek budget voor kunst in openbare ruimte en tentoonstellingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kunst openbare ruimte",
+        "tentoonstellingen",
+        "openlucht",
+        "budget"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 25",
+      "originalQuote": "We alloceren specifiek budget aan kunst in de openbare ruimte, zoals tentoonstellingen in de openlucht, om Amsterdammers op een laagdrempelige manier met kunst in aanraking te laten komen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-036",
+      "text": "D66 investeert in een fantastische viering van 750 jaar Amsterdam waar alle Amsterdammers zich onderdeel van voelen en schrijft een specifieke opdracht uit voor kunstenaars om hiervoor projecten te ontwikkelen.",
+      "summary": "Investering in viering 750 jaar Amsterdam met specifieke kunstenaarsopdrachten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "750 jaar amsterdam",
+        "viering",
+        "kunstenaarsopdrachten",
+        "projecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 25",
+      "originalQuote": "We investeren in een fantastische viering van 750 jaar Amsterdam waar alle Amsterdammers zich onderdeel van voelen. We schrijven een specifieke opdracht uit voor kunstenaars om hiervoor projecten te ontwikkelen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-037",
+      "text": "D66 zet zich in voor kleinschalige evenementen tot 250 bezoekers zonder vergunning door het pakket aan regels zoveel mogelijk te beperken.",
+      "summary": "Kleinschalige evenementen tot 250 bezoekers zonder vergunning",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "evenementen",
+        "250 bezoekers",
+        "vergunning",
+        "regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 25",
+      "originalQuote": "D66 wil dat we het pakket aan regels zo veel mogelijk beperken. De partij zet zich daarom ook in voor kleinschalige evenementen tot 250 bezoekers zonder vergunning"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-038",
+      "text": "D66 verhoogt het budget voor het Kunstenplan en de meerjarig gefinancierde instellingen die de infrastructuur van de cultuur vormen, zodat Amsterdam een infrastructuur heeft die past bij de grote stad.",
+      "summary": "Verhoging budget Kunstenplan en meerjarig gefinancierde culturele instellingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kunstenplan",
+        "budget",
+        "culturele instellingen",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 25-26",
+      "originalQuote": "Het budget voor het Kunstenplan en de meerjarig gefinancierde instellingen die de infrastructuur van onze cultuur vormen wordt verhoogd, zodat we een infrastructuur hebben die past bij onze grote stad"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-039",
+      "text": "Elke Amsterdammer krijgt toegang tot een OBA-abonnement via gratis lidmaatschap voor iedereen tot en met 25 jaar of via de stadspas.",
+      "summary": "Gratis OBA-lidmaatschap voor jongeren tot 25 jaar en stadspashouders",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oba",
+        "bibliotheek",
+        "gratis",
+        "lidmaatschap",
+        "jongeren",
+        "stadspas"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 32",
+      "originalQuote": "We zorgen dat elke Amsterdammer toegang heeft tot een OBA-abonnement via gratis lidmaatschap voor iedereen tot en met 25 jaar of via de stadspas"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-040",
+      "text": "De gemeente zorgt voor voldoende mbo-stageplekken en neemt hierin een voorbeeldrol.",
+      "summary": "Gemeente biedt voldoende mbo-stageplekken",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mbo",
+        "stageplekken",
+        "gemeente",
+        "voorbeeldrol"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 33",
+      "originalQuote": "De gemeente heeft een voorbeeldrol en zorgt ook voor voldoende mbo-stageplekken"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-041",
+      "text": "Er wordt een platform gelanceerd waar leerkrachten meer van elkaars werk kunnen profiteren, voorbij het burgerschapsonderwijs.",
+      "summary": "Platform voor samenwerking tussen leerkrachten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "platform",
+        "leerkrachten",
+        "samenwerking",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 33",
+      "originalQuote": "D66 lanceert een platform waar leerkrachten meer van elkaars werk kunnen profiteren, voorbij het initiatief voor het burgerschapsonderwijs"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-042",
+      "text": "Er wordt een Amsterdams impactfonds opgezet in samenwerking met bestaande financierders voor sociale ondernemers.",
+      "summary": "Oprichting Amsterdams impactfonds voor sociale ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "impactfonds",
+        "sociale",
+        "ondernemers",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 34",
+      "originalQuote": "in samenwerking met bestaande financierders een Amsterdams impactfonds op te zetten"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-043",
+      "text": "De gemeente doet een substantieel deel van haar inkopen bij sociale firma's om deze te ondersteunen.",
+      "summary": "Substantieel deel gemeentelijke inkoop bij sociale firma's",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inkopen",
+        "sociale",
+        "firma",
+        "gemeente",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 34",
+      "originalQuote": "Om sociale firma's te ondersteunen gaat de gemeente een substantieel deel van haar inkopen bij sociale firma's doen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-044",
+      "text": "Amsterdamse werkzoekenden die zich willen om- of bijscholen naar werk in sectoren met personeelstekort kunnen een renteloze lening krijgen voor relevante opleidingen.",
+      "summary": "Renteloze leningen voor om- en bijscholing werkzoekenden",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "renteloze",
+        "lening",
+        "bijscholing",
+        "werkzoekenden",
+        "personeelstekort"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 37",
+      "originalQuote": "Amsterdamse werkzoekenden die zich willen om- of bijscholen naar werk in sectoren met een personeelstekort kunnen een renteloze lening krijgen voor het volgen van een relevante opleiding of cursus"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-045",
+      "text": "Er komt een actieplan voor transpersonen waarin de gemeente zich hard maakt voor acceptatie, aanpak van hoge werkloosheid en bevordering van mentale gezondheid.",
+      "summary": "Actieplan voor transpersonen met focus op acceptatie en werkgelegenheid",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "transpersonen",
+        "acceptatie",
+        "werkloosheid",
+        "mentale",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 38",
+      "originalQuote": "Er komt een actieplan voor transpersonen waarin de gemeente zich onder andere hard maakt voor de acceptatie van transpersonen, de hoge werkloosheid aanpakt en mentale gezondheid bevordert"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-046",
+      "text": "Er worden regenboogzebrapaden geïnitieerd in alle stadsdelen ter bevordering van LHBTIQ+ zichtbaarheid.",
+      "summary": "Regenboogzebrapaden in alle stadsdelen",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regenboogzebrapaden",
+        "stadsdelen",
+        "lhbtiq",
+        "zichtbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 39",
+      "originalQuote": "met het initiëren van regenboogzebrapaden in alle stadsdelen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-047",
+      "text": "Minimaal 70% van nieuwe straatnamen moet gaan naar strijders tegen slavernij, vrouwen en ondervertegenwoordigde groepen.",
+      "summary": "70% nieuwe straatnamen voor ondervertegenwoordigde groepen",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "straatnamen",
+        "70%",
+        "vrouwen",
+        "ondervertegenwoordigde",
+        "groepen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 40",
+      "originalQuote": "Minimaal 70% van de nieuwe straatnamen moet hieraan voldoen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-048",
+      "text": "Amsterdam moet een briefadres beschikbaar stellen voor personen voor minimaal negen maanden.",
+      "summary": "Briefadres voor personen gedurende minimaal negen maanden",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "briefadres",
+        "gemeente",
+        "periode",
+        "negen maanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 41",
+      "originalQuote": "gemeente Amsterdam voor een periode van minimaal negen maanden een briefadres beschikbaar stellen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-049",
+      "text": "Er worden alternatieven gezocht voor het gebruik van hostile architecture.",
+      "summary": "Alternatieven voor hostile architecture zoeken",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "alternatieven",
+        "hostile architecture",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 41",
+      "originalQuote": "Daarnaast worden er alternatieven gezocht voor het gebruik van hostile architecture"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-050",
+      "text": "Amsterdam investeert verder in de buurtrechter, met name in kwetsbare buurten.",
+      "summary": "Investeren in buurtrechter in kwetsbare buurten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtrechter",
+        "investeren",
+        "kwetsbare buurten",
+        "rechtsbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 41",
+      "originalQuote": "Daarom investeren we verder in de buurtrechter"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-051",
+      "text": "Er wordt extra geïnvesteerd in het beleid 'Positief perspectief, weerbaar opgroeien in Amsterdam' gericht op preventie van jeugdproblematiek door versterking van jongerenwerk.",
+      "summary": "Extra investeren in preventiebeleid jeugdproblematiek",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventie",
+        "jeugdproblematiek",
+        "jongerenwerk",
+        "investeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 41",
+      "originalQuote": "We investeren extra in het beleid \"Positief perspectief, weerbaar opgroeien in Amsterdam\", gericht op preventie van jeugdproblematiek door het versterken van jongerenwerk"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-052",
+      "text": "Amsterdam blijft investeren in een preventief interventieteam op basisscholen.",
+      "summary": "Investeren in preventief interventieteam basisscholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventief",
+        "interventieteam",
+        "basisscholen",
+        "investeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 41",
+      "originalQuote": "We blijven investeren in een preventief interventieteam op basisscholen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-053",
+      "text": "Er komt een Amsterdams platform voor welzijnswerkers, politie, scholen en jongerenwerkers voor laagdrempelig contact en probleemsignalering.",
+      "summary": "Platform voor samenwerking welzijnswerkers en partners",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "platform",
+        "welzijnswerkers",
+        "politie",
+        "scholen",
+        "jongerenwerkers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 41-42",
+      "originalQuote": "We willen een goed werkend Amsterdams platform voor welzijnswerkers, politie, scholen en jongerenwerkers"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-054",
+      "text": "Amsterdam draagt zich aan als pilotstad voor experimenteerruimte met legalisering van MDMA en xtc wanneer die ruimte door het Rijk wordt aangeboden.",
+      "summary": "Amsterdam als pilotstad voor MDMA/xtc experiment",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pilotstad",
+        "experimenteerruimte",
+        "mdma",
+        "xtc",
+        "legalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 42",
+      "originalQuote": "We dragen Amsterdam aan als een pilotstad voor experimenteerruimte met legalisering van MDMA en xtc, wanneer die ruimte door het Rijk wordt een aangeboden"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-055",
+      "text": "Amsterdam handhaaft geen i-criterium bij coffeeshops omdat dit leidt tot verschuiving naar straathandel.",
+      "summary": "Geen i-criterium handhaven bij coffeeshops",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "i-criterium",
+        "coffeeshops",
+        "straathandel",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 42",
+      "originalQuote": "Amsterdam handhaaft geen i-criterium (het verbod op toegang bij coffeeshops voor mensen die niet in Nederland wonen), omdat dit zal leiden tot een verschuiving naar straathandel"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-056",
+      "text": "BOA's worden niet bewapend en de veiligheid wordt gegarandeerd door goede samenwerking met de politie.",
+      "summary": "BOA's blijven onbewapend",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boa",
+        "bewapening",
+        "veiligheid",
+        "politie",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 43",
+      "originalQuote": "Boa's worden niet bewapend. De veiligheid van boa's moet worden gegarandeerd door goede samenwerking met de politie"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-057",
+      "text": "Amsterdam handhaaft het huidige vuurwerkverbod en organiseert met Oud & Nieuw een grote professionele vuurwerkshow en kleinschalige evenementen in verschillende buurten.",
+      "summary": "Vuurwerkverbod handhaven plus professionele shows",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vuurwerkverbod",
+        "vuurwerkshow",
+        "evenementen",
+        "buurten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 44",
+      "originalQuote": "Amsterdam handhaaft het huidige vuurwerkverbod. Er komt met Oud & Nieuw een grote professionele vuurwerkshow en meerdere kleinschalige evenementen in verschillende buurten"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-058",
+      "text": "Het jaarlijkse maximum van de financiële vergoeding voor vrijwilligerswerk wordt verhoogd naar 2.400 euro.",
+      "summary": "Vrijwilligersvergoeding verhogen naar €2.400",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrijwilligerswerk",
+        "vergoeding",
+        "maximum",
+        "2400 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 48",
+      "originalQuote": "Het jaarlijkse maximum van de financiële vergoeding wordt verhoogd naar 2.400 euro"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-059",
+      "text": "Menstruatie-armoede wordt tegengegaan door bijvoorbeeld menstruatieproducten gratis beschikbaar te stellen op scholen.",
+      "summary": "Gratis menstruatieproducten op scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "menstruatie-armoede",
+        "menstruatieproducten",
+        "gratis",
+        "scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 49",
+      "originalQuote": "We gaan menstruatie-armoede tegen, door bijvoorbeeld menstruatieproducten gratis beschikbaar te stellen op scholen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-060",
+      "text": "De rentes bij de Stadsbank van Lening en pandjesbank worden verder verlaagd tot minimaal het wettelijk maximum van 10% dat in de private sector geldt.",
+      "summary": "Rentes Stadsbank verlagen naar maximaal 10%",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsbank van lening",
+        "pandjesbank",
+        "rente",
+        "10 procent",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 50",
+      "originalQuote": "De rentes bij de Stadsbank van Lening en de pandjesbank moeten verder worden verlaagd, tot minimaal het wettelijk maximum dat in de private sector geldt – nu 10%"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-061",
+      "text": "Elke kwetsbare buurt krijgt een jongerencentrum.",
+      "summary": "Jongerencentrum in elke kwetsbare buurt",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jongerencentrum",
+        "kwetsbare",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 52",
+      "originalQuote": "We zorgen dat elke kwetsbare buurt een jongerencentrum krijgt"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-062",
+      "text": "Alle voortgezet onderwijsscholen in kwetsbare buurten worden verbonden aan cultuur- en sportaanbod.",
+      "summary": "Cultuur- en sportaanbod voor vo-scholen in kwetsbare buurten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voortgezet onderwijs",
+        "cultuur",
+        "sport",
+        "kwetsbare buurten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 52",
+      "originalQuote": "We zorgen dat alle voortgezet onderwijsscholen in kwetsbare buurten worden verbonden aan cultuur- en sportaanbod"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-063",
+      "text": "Laptops en studiematerialen worden gesubsidieerd voor kinderen en jongeren met ontoereikende middelen.",
+      "summary": "Subsidie laptops en studiematerialen voor kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "laptop",
+        "studiematerialen",
+        "subsidie",
+        "kinderen",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 52",
+      "originalQuote": "We subsidiëren laptops en andere studiematerialen voor kinderen en jongeren die daar onvoldoende middelen voor hebben"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-064",
+      "text": "Studielokalen op scholen blijven langer open voor leerlingen zonder prettige studieruimte thuis.",
+      "summary": "Langere openingstijden studielokalen scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studielokaal",
+        "school",
+        "openingstijden",
+        "studieruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 52",
+      "originalQuote": "We laten studielokalen op scholen langer open voor leerlingen die thuis geen prettige studieruimte hebben"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-065",
+      "text": "Er komt een centraal aanspreekpunt bij de gemeente voor studenten en een bestuurder krijgt specifiek de portefeuille studentenzaken.",
+      "summary": "Centraal aanspreekpunt en portefeuille voor studenten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aanspreekpunt",
+        "studenten",
+        "bestuurder",
+        "portefeuille",
+        "studentenzaken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 52",
+      "originalQuote": "We stellen een centraal aanspreekpunt aan bij de gemeente voor studenten, daarnaast benoemen we een bestuurder specifiek met de portefeuille studentenzaken"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-066",
+      "text": "Er worden meer rookvrije zones gecreëerd in parken, rondom scholen en speelpleinen waar veel kinderen komen.",
+      "summary": "Meer rookvrije zones in parken en rondom scholen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rookvrij",
+        "parken",
+        "scholen",
+        "speelpleinen",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 54",
+      "originalQuote": "We creëren meer rookvrije zones in Amsterdam om werk te maken van een rookvrije generatie. Zien roken doet roken. Daarom willen wij rookvrije zones in parken, rondom scholen, speelpleinen en andere plekken waar veel kinderen komen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-067",
+      "text": "Amsterdam stopt met houtstook in de stad en geeft subsidies voor het vervangen van houtkachels. Bij nieuwbouw wordt houtstook vermeden.",
+      "summary": "Stop met houtstook en subsidie voor vervangen houtkachels",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "houtstook",
+        "subsidie",
+        "houtkachel",
+        "nieuwbouw",
+        "luchtvervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 54",
+      "originalQuote": "We stoppen met houtstook in de stad om de ernstige luchtvervuiling die dit veroorzaakt terug te dringen. We stimuleren mensen om houtstook te mijden door goede voorlichting te geven en subsidies te geven voor het vervangen van de houtkachel. Bij nieuwbouw dient het gebruik van houtstook vermeden te worden"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-068",
+      "text": "Amsterdam heeft als doel om in 2026 geen nieuwe hiv-besmettingen meer te hebben.",
+      "summary": "Geen nieuwe hiv-besmettingen in 2026",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hiv",
+        "besmettingen",
+        "2026",
+        "soa-poli",
+        "testmogelijkheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 55",
+      "originalQuote": "We blijven een voortrekker in de bestrijding van soa's en hiv, met als doel om in 2026 geen nieuwe hiv-besmettingen meer te hebben"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-069",
+      "text": "In elk buurtteam worden welzijnscoaches aangesteld voor coaching, initiatieven en verbinding met sociale basis.",
+      "summary": "Welzijnscoaches in elk buurtteam",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtteam",
+        "welzijnscoach",
+        "coaching",
+        "sociale basis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 55",
+      "originalQuote": "We stellen in elk Buurtteam welzijnscoaches aan. Een welzijnscoach verbindt mensen met de sociale basis, en zorgt voor het ontstaan van initiatieven waar de bewoners zelf behoefte aan hebben"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-070",
+      "text": "Buurtteams krijgen budget voor uitzonderlijke gevallen en maatwerk voor bewoners.",
+      "summary": "Budget voor buurtteams voor uitzonderlijke gevallen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buurtteam",
+        "budget",
+        "uitzonderlijke gevallen",
+        "maatwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 55",
+      "originalQuote": "We geven de Buurtteams budget voor uitzonderlijke gevallen, omdat de hulpvraag van bewoners niet altijd in een hokje valt te plaatsen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-071",
+      "text": "Amsterdam sluit aan bij het Volwassenenfonds zodat volwassenen rond het bestaansminimum contributie en materialen voor sport vergoed krijgen.",
+      "summary": "Aansluiting bij Volwassenenfonds voor sportcontributie",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "volwassenenfonds",
+        "bestaansminimum",
+        "sportcontributie",
+        "materialen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 59",
+      "originalQuote": "We sluiten als Amsterdam aan bij het Volwassenenfonds zodat ook volwassen die rond het bestaansminimum leven contributie, lesgeld en/of materialen voor sport of creatieve activiteiten vergoed krijgen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-072",
+      "text": "Er komt een track & trace-systeem voor beleidsontwikkeling om inwoners helder te informeren wie wat, waarom en wanneer besluit.",
+      "summary": "Track & trace-systeem voor beleidsontwikkeling",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "track & trace",
+        "beleidsontwikkeling",
+        "informatievoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "Een track & trace-systeem voor beleidsontwikkeling zou hiervoor een geschikt instrument kunnen zijn"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-073",
+      "text": "Informatie wordt toegankelijker voor internationals door meer Engelstalige communicatie van de gemeente.",
+      "summary": "Meer Engelstalige gemeentelijke communicatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "engelstalige communicatie",
+        "internationals",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "Informatie wordt ook toegankelijker voor de internationals in de stad door meer Engelstalige communicatie"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-074",
+      "text": "Het raadsinformatiesysteem wordt toegankelijk en laagdrempelig gemaakt voor inwoners.",
+      "summary": "Toegankelijk raadsinformatiesysteem",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "raadsinformatiesysteem",
+        "toegankelijkheid",
+        "inwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "Het raadsinformatiesysteem wordt toegankelijk en laagdrempelig"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-075",
+      "text": "Er komen burgerfora en -beraden voor stadsdelen en er wordt geëxperimenteerd met burgerbegrotingen.",
+      "summary": "Burgerfora en burgerbegrotingen voor stadsdelen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerfora",
+        "beraden",
+        "burgerbegrotingen",
+        "stadsdelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "We stellen burgerfora en -beraden ook in voor stadsdelen en we experimenteren met vormen als burgerbegrotingen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-076",
+      "text": "Er komt een digitale jongerenraad van 12-16 jaar, naar het voorbeeld van de Raad van Europa.",
+      "summary": "Digitale jongerenraad 12-16 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale jongerenraad",
+        "jongeren",
+        "12-16 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "Er komt een digitale jongerenraad van 12-16 jaar, naar het voorbeeld van de Raad van Europa"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-077",
+      "text": "Raadsleden en stadsdeelcommissies krijgen meer inspraak in gekozen bestuurders middels hoorzittingen voor kandidaat-wethouders en stadsdeelbestuurders.",
+      "summary": "Hoorzittingen voor kandidaat-bestuurders",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hoorzittingen",
+        "wethouders",
+        "stadsdeelbestuurders",
+        "inspraak"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "Raadsleden en stadsdeelcommissies krijgen middels een hoorzitting voor kandidaat-wethouders en stadsdeelbestuurders meer inspraak in gekozen bestuurders"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-078",
+      "text": "Er wordt geïnvesteerd in lokale omroepen en media voor democratische controle.",
+      "summary": "Investeringen in lokale omroepen en media",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lokale omroepen",
+        "media",
+        "democratische controle"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 62",
+      "originalQuote": "We investeren in lokale omroepen en media voor een goede lokale en regionale democratische controle"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-079",
+      "text": "Stadsdeelcommissies krijgen eigen bevoegdheden en bijbehorend budget voor de wijk.",
+      "summary": "Eigen bevoegdheden en budget voor stadsdeelcommissies",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdeelcommissies",
+        "bevoegdheden",
+        "budget",
+        "wijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 63",
+      "originalQuote": "Stadsdeelcommissies beschikken over eigen bevoegdheden en bijbehorend budget voor de wijk"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-080",
+      "text": "Amsterdammers die hun erfpachtaanvraag na 8 januari 2020 doen, krijgen een aanbod volgens de voorwaarden voor aanvragers van voor die datum.",
+      "summary": "Gelijke erfpachtvoorwaarden ongeacht aanvraagdatum",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpacht",
+        "aanvraag",
+        "8 januari 2020",
+        "voorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 65",
+      "originalQuote": "D66 maakt zich er sterk voor dat Amsterdammers die hun aanvraag na 8 januari 2020 doen, een aanbod krijgen volgens de voorwaarden die nu alleen gelden voor Amsterdammers die voor die datum hun aanvraag hebben gedaan"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-081",
+      "text": "Huiseigenaren krijgen de mogelijkheid om de grond onder hun woning te kopen.",
+      "summary": "Mogelijkheid grondaankoop voor huiseigenaren",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huiseigenaren",
+        "grondaankoop",
+        "erfpacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 65",
+      "originalQuote": "D66 wil huiseigenaren daarnaast ook de mogelijkheid geven om de grond onder hun woning te kopen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-082",
+      "text": "Het parkeerregime in Noord wordt vóór 2030 heroverwogen om bereikbaarheid te behouden.",
+      "summary": "Heroverwegen parkeerregime Noord voor 2030",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerregime",
+        "noord",
+        "2030",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 69",
+      "originalQuote": "Het parkeerregime in Noord zal daarom vóór 2030 worden heroverwogen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-083",
+      "text": "In Buitenveldert worden meer betaalbare woningen gebouwd waar ruimte is, en het wordt makkelijker om leegstaande kantoor- en winkelpanden om te bouwen tot (middenhuur)woningen voor starters, studenten en alleenstaanden.",
+      "summary": "Meer betaalbare woningen in Buitenveldert en omzetten leegstand naar middenhuur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "betaalbare woningen",
+        "buitenveldert",
+        "leegstand",
+        "middenhuur",
+        "starters"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 75",
+      "originalQuote": "Waar ruimte is, zoals in Buitenveldert, bouwen we meer betaalbare woningen. Ook wordt het makkelijker om leegstaande kantoor- en winkelpanden om te bouwen tot (middenhuur)woningen voor starters, studenten en alleenstaanden"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-084",
+      "text": "Er wordt geïnvesteerd in onderhoud van stadsparken zoals Vondel-, Beatrix, Sarphati- en Martin Luther Kingpark en het Boelebos wordt aangelegd op de Zuidas.",
+      "summary": "Investeringen in onderhoud stadsparken en aanleg Boelebos op Zuidas",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsparken",
+        "onderhoud",
+        "boelebos",
+        "zuidas",
+        "vondelpark"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 75",
+      "originalQuote": "We investeren in onderhoud van stadsparken zoals Vondel-, Beatrix, Sarphati- en Martin Luther Kingpark en leggen het Boelebos aan op de Zuidas"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-085",
+      "text": "Er wordt een pilot gestart om de openbare ruimte inclusiever te maken voor kwetsbare groepen zoals personen met een beperking en ouderen, met bredere stoepen en hulpmiddelen om de weg niet kwijt te raken.",
+      "summary": "Pilot voor inclusievere openbare ruimte met bredere stoepen en hulpmiddelen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pilot",
+        "openbare ruimte",
+        "toegankelijkheid",
+        "stoepen",
+        "hulpmiddelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 75",
+      "originalQuote": "We starten een pilot om de openbare ruimte inclusiever te maken voor kwetsbare groepen zoals personen met een beperking en ouderen. Denk aan: bredere stoepen en hulpmiddelen om de weg niet kwijt te raken"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-086",
+      "text": "Met situatie-afhankelijke maatregelen worden schoolroutes veiliger gemaakt, zoals inrijverboden, fietsstraten, 30 km zones of drempels.",
+      "summary": "Schoolroutes veiliger maken met inrijverboden, fietsstraten en drempels",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolroutes",
+        "verkeersveiligheid",
+        "inrijverboden",
+        "fietsstraten",
+        "drempels"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 76",
+      "originalQuote": "Met situatie-afhankelijke maatregelen maken we schoolroutes veiliger, zoals bijvoorbeeld inrijverboden, fietsstraten, 30 km zone of drempels"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-087",
+      "text": "In West wordt jaarlijks 500 woningen gerealiseerd in het midden en vrije segment met de focus op het middensegment.",
+      "summary": "Jaarlijks 500 woningen in middensegment in stadsdeel West",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "500 woningen",
+        "middensegment",
+        "west",
+        "jaarlijks",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 81",
+      "originalQuote": "Het maken van afspraken om in West jaarlijks 500 woningen te realiseren in het midden en vrije segment met de focus op het middensegment"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-088",
+      "text": "Er wordt een snelheidsverlaging naar 30 km/u voor al het verkeer in het hele stadsdeel West ingevoerd.",
+      "summary": "Snelheidsverlaging naar 30 km/u in heel stadsdeel West",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "snelheidsverlaging",
+        "30 km/u",
+        "west",
+        "verkeersveiligheid",
+        "stadsdeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 82",
+      "originalQuote": "We willen een snelheidsverlaging van al het verkeer naar 30 km/u in het hele stadsdeel"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-089",
+      "text": "Er wordt verdubbeling van de handhaving voor afvaloverlast in stadsdeel West ingevoerd, aangevuld met meer afvalcontainers en vaker legen.",
+      "summary": "Verdubbeling handhaving afval plus meer containers in West",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "handhaving",
+        "afvaloverlast",
+        "containers",
+        "west",
+        "verdubbeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 82-83",
+      "originalQuote": "D66 West wil meer afvalcontainers, de containers vaker laten legen, verdubbeling van de handhaving in het gebied en duidelijke communicatie"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-090",
+      "text": "Er wordt een woonplicht ingevoerd in de binnenstad, zodat huizen die er zijn ook bewoond worden en ten goede komen aan mensen die er willen wonen.",
+      "summary": "Invoering woonplicht in binnenstad tegen leegstand",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woonplicht",
+        "binnenstad",
+        "leegstand",
+        "bewoning",
+        "centrum"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 84",
+      "originalQuote": "Wij zijn sterk voorstander van het invoeren van een woonplicht in de binnenstad, zodat de huizen die er zijn ook bewoond worden. De woningen moeten ten goede komen aan mensen die er willen wonen en willen bouwen aan de buurt"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-091",
+      "text": "D66 wil een stagemakelaar die bedrijven helpt bij het aanbieden van stages in het centrum.",
+      "summary": "Stagemakelaar voor bedrijven in centrum",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stagemakelaar",
+        "bedrijven",
+        "stages",
+        "centrum"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 85",
+      "originalQuote": "D66 wil een stagemakelaar die bedrijven helpt bij het aanbieden van stages in het centrum."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-092",
+      "text": "We verruimen de openingstijden van de lokale Buurt- en Wijkcentra. Zodat jonge Amsterdammers ook in weekenden en vakantieperiodes hier terecht kunnen.",
+      "summary": "Verruimde openingstijden buurt- en wijkcentra",
+      "theme": "JEUGD",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openingstijden",
+        "buurtcentra",
+        "wijkcentra",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 85",
+      "originalQuote": "We verruimen de openingstijden van de lokale Buurt- en Wijkcentra. Zodat jonge Amsterdammers ook in weekenden en vakantieperiodes hier terecht kunnen"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-093",
+      "text": "We creëren meer sport- en spelmogelijkheden voor jongeren in het Centrum. Denk bijvoorbeeld aan het ontwikkelen van een basketbalveld of skatepark op het Marineterrein.",
+      "summary": "Basketbalveld of skatepark op Marineterrein",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basketbalveld",
+        "skatepark",
+        "marineterrein",
+        "sportfaciliteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 85",
+      "originalQuote": "We creëren meer sport- en spelmogelijkheden voor jongeren in het Centrum. Denk bijvoorbeeld aan het ontwikkelen van een basketbalveld of skatepark op het Marineterrein."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-094",
+      "text": "We willen alleen auto's in het centrum van bewoners, hun bezoekers en ondernemers. Dat willen we bereiken door extra te investeren in innovatieve oplossingen. Zoals bijvoorbeeld door nummerplaatherkenning.",
+      "summary": "Autobeperking centrum via nummerplaatherkenning",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "autobeperking",
+        "centrum",
+        "nummerplaatherkenning",
+        "bewoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 85",
+      "originalQuote": "We willen alleen auto's in het centrum van bewoners, hun bezoekers en ondernemers. Dat willen we bereiken door extra te investeren in innovatieve oplossingen. Zoals bijvoorbeeld door nummerplaatherkenning"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-095",
+      "text": "Daarnaast maken we fietsstallingen in het centrum gratis voor bewoners, ook voor lange-termijn-parkeren.",
+      "summary": "Gratis fietsstallingen centrum bewoners",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietsstallingen",
+        "gratis",
+        "centrum",
+        "bewoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 85-86",
+      "originalQuote": "Daarnaast maken we fietsstallingen in het centrum gratis voor bewoners, ook voor lange-termijn-parkeren."
+    },
+    {
+      "promiseCode": "D66-AMS-2022-096",
+      "text": "We zetten in op een verhoging van het aantal keren dat containers worden geleegd, willen overal containertuintjes en willen meer, kleinere, vuilniswagens die rijden op schone energie.",
+      "summary": "Meer containerleging, tuintjes en schone vuilniswagens",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "containers",
+        "containertuintjes",
+        "vuilniswagens",
+        "schone energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 86",
+      "originalQuote": "We zetten in op een verhoging van het aantal keren dat containers worden geleegd, willen overal containertuintjes en willen meer, kleinere, vuilniswagens die rijden op schone energie"
+    },
+    {
+      "promiseCode": "D66-AMS-2022-097",
+      "text": "We willen zo min mogelijk groot vrachtverkeer en geen touringcars meer door het Centrum, vanwege het milieu, veiligheid en de kwetsbare staat van bruggen en kades.",
+      "summary": "Verbod touringcars en beperking vrachtverkeer centrum",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "touringcars",
+        "vrachtverkeer",
+        "centrum",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 amsterdam 2022, p. 86",
+      "originalQuote": "We willen zo min mogelijk groot vrachtverkeer en geen touringcars meer door het Centrum, vanwege het milieu, veiligheid en de kwetsbare staat van bruggen en kades."
+    }
+  ]
+}

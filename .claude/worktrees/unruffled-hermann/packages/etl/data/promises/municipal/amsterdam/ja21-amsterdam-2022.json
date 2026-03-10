@@ -1,0 +1,381 @@
+{
+  "party": "JA21",
+  "partySlug": "ja21",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "JA21 Amsterdam Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 24,
+  "promises": [
+    {
+      "promiseCode": "JA21-AMS-2022-001",
+      "text": "Stadsbreed preventief fouilleren wordt ingevoerd en cameratoezicht wordt uitgebreid om daders op te sporen en grote en kleine criminaliteit aan te pakken.",
+      "summary": "Preventief fouilleren stadsbreed en uitbreiding cameratoezicht",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventief fouilleren",
+        "cameratoezicht",
+        "criminaliteit",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 2",
+      "originalQuote": "Daarom voeren we stadsbreed preventief fouilleren in, en om daders op te sporen breiden we cameratoezicht uit."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-002",
+      "text": "Het aantal handhavers wordt snel verhoogd zodat de politie zich kan focussen op kerntaken. Alle handhavers krijgen een wapenstok en pepperspray voor verdediging.",
+      "summary": "Meer handhavers met wapenstok en pepperspray",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhavers",
+        "wapenstok",
+        "pepperspray",
+        "uitrusting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 2",
+      "originalQuote": "Daarnaast moet het aantal handhavers snel worden verhoogd om ervoor te zorgen dat de politie zich kan focussen op hun kerntaken. Daarom krijgen alle handhavers een wapenstok en pepperspray om zich te kunnen verdedigen"
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-003",
+      "text": "Het kraakverbod wordt onverkort gehandhaafd zonder uitzonderingen of tolerantie voor krakers.",
+      "summary": "Zero tolerance handhaving kraakverbod",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kraakverbod",
+        "handhaving",
+        "zero tolerance",
+        "eigendomsrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 2",
+      "originalQuote": "Het kraakverbod moet onverkort worden gehandhaafd. Zero exceptions, zero tolerance."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-004",
+      "text": "De afschaffing van het Team Openbaar Vervoer van de politie wordt teruggedraaid en er komt een sms/WhatsApp-mogelijkheid voor meldingen van onveilige situaties in stations, metro's en trams.",
+      "summary": "Team Openbaar Vervoer terug en digitale meldmogelijkheden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "team openbaar vervoer",
+        "openbaar vervoer",
+        "meldingen",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 3",
+      "originalQuote": "Daarom moet de afschaffing van het Team Openbaar Vervoer van de politie worden teruggedraaid, en moet de mogelijkheid om de politie te sms'en en Whatsappen over onveilige situaties in alle stations, metro's en trams duidelijk worden aangegeven."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-005",
+      "text": "De illegalenopvang wordt per direct gesloten. De complexen kunnen dienen als studentenhuisvesting.",
+      "summary": "Illegalenopvang sluiten, complexen voor studenten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "illegalenopvang",
+        "sluiting",
+        "studentenhuisvesting",
+        "herbestemming"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 3",
+      "originalQuote": "De illegalenopvang wordt per direct gesloten. Illegalen kunnen alleen opvang krijgen als ze meewerken aan vertrek. De complexen waar zij gehuisvest zijn, kunnen dienen als studentenhuisvesting."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-006",
+      "text": "Amsterdam wordt uitgebreid ten westen van Nieuw West richting A5 en ten oosten van IJburg richting Almere, voor minstens 50.000 woningen voor 125.000 Amsterdammers.",
+      "summary": "Stadsuitbreiding Osdorp en IJburg: 50.000 woningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsuitbreiding",
+        "osdorp",
+        "ijburg",
+        "woningbouw",
+        "50.000 woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 3",
+      "originalQuote": "Ten westen van Nieuw West breiden we Osdorp verder uit richting de A5, en ten oosten van IJburg spuiten we nieuwe eilanden op richting Almere. Dit geeft ruimte voor minstens 50.000 woningen voor 125.000 Amsterdammers."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-007",
+      "text": "50 procent van de nieuwe woningen moet middeldure huur (€750-€1050 per maand) of koop (maximaal €324.000) worden voor de middenklasse.",
+      "summary": "50% nieuwbouw middelduur: €750-1050 huur, €324k koop",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "middeldure huur",
+        "nieuwbouw",
+        "50 procent",
+        "middenklasse",
+        "koopprijzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 3-4",
+      "originalQuote": "Daarom is het nodig dat 50 procent van de nieuwe woningen in Amsterdam middeldure huur (€750 - €1050 per maand) of koop (koopprijs: maximaal €324.000) wordt."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-008",
+      "text": "De erfpachtbetalingen worden afgeschaft, grond blijft eigendom van de gemeente.",
+      "summary": "Erfpachtbetalingen afschaffen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erfpacht",
+        "afschaffen",
+        "betalingen",
+        "grondbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 4",
+      "originalQuote": "Het erfpachtstelsel is oneerlijk, ontransparant en een enorme onteigeningsoperatie. Daarom worden de erfpachtbetalingen afgeschaft."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-009",
+      "text": "Amsterdammers met middeninkomen die langer dan 5 jaar in sociale huur wonen in buurten met meer dan 50% sociale huur, krijgen de kans hun woning te kopen voor WOZ-waarde.",
+      "summary": "Kooprecht sociale huur na 5 jaar voor WOZ-waarde",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huur",
+        "kooprecht",
+        "5 jaar",
+        "woz-waarde",
+        "middeninkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 4",
+      "originalQuote": "Daarom geeft JA21 Amsterdammers met een middeninkomen die langer dan 5 jaar in een sociale huurwoning wonen in een buurt met meer dan 50 procent sociale huur, de kans om hun sociale huurwoning te kopen voor de WOZ-waarde."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-010",
+      "text": "Er komt een woonplicht: wie een woning in Amsterdam koopt, moet er ook gaan wonen.",
+      "summary": "Woonplicht voor kopers",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woonplicht",
+        "zelfwoonplicht",
+        "kopers",
+        "beleggers"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 4",
+      "originalQuote": "Daarom stellen we een woonplicht in. Wie een woning in Amsterdam wil kopen, moet er ook gaan wonen."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-011",
+      "text": "Minimaal 12.000 woningen per jaar bouwen.",
+      "summary": "12.000 woningen per jaar bouwen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouw",
+        "12.000",
+        "nieuwbouw",
+        "jaarproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 4",
+      "originalQuote": "Minimaal 12.000 woningen per jaar bouwen"
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-012",
+      "text": "Het budget voor taalonderwijs voor volwassenen wordt verhoogd met één miljoen euro per jaar.",
+      "summary": "Taalonderwijs budget +€1 miljoen per jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taalonderwijs",
+        "volwassenen",
+        "budget",
+        "één miljoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 5",
+      "originalQuote": "We investeren fors in het taalonderwijs voor volwassenen, dit budget wordt verhoogd met één miljoen euro per jaar."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-013",
+      "text": "Het lotingssysteem voor scholen wordt afgeschaft en vervangen door vrije schoolkeuze op basis van vraag en aanbod.",
+      "summary": "Afschaffen lotingssysteem, vrije schoolkeuze",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lotingssysteem",
+        "afschaffen",
+        "vrije schoolkeuze",
+        "vraag en aanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 5",
+      "originalQuote": "JA21 wil de vrije schoolkeuze en daarmee de vrijheid van onderwijs in Amsterdam herstellen. Daarom moeten de gegevens van de afgelopen jaren uit de centrale loting worden gebruikt om de vraag naar scholen in kaart te brengen"
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-014",
+      "text": "De metroring wordt gesloten tussen Station Sloterdijk en het Centraal Station.",
+      "summary": "Metroring sluiten Sloterdijk-Centraal Station",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metroring",
+        "sloterdijk",
+        "centraal station",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 6",
+      "originalQuote": "De metroring moet worden gesloten tussen Station Sloterdijk en het Centraal Station."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-015",
+      "text": "De Oost-West verbinding tussen Zeeburgereiland, Station Muiderpoort, Leidseplein, Station Lelylaan, Osdorp en Schiphol wordt een sneltram- of metroverbinding.",
+      "summary": "Oost-West sneltram/metro Zeeburgereiland-Schiphol",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "oost-west verbinding",
+        "sneltram",
+        "metro",
+        "zeeburgereiland",
+        "schiphol"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 6-7",
+      "originalQuote": "De Oost-West verbinding tussen Zeeburgereiland, Station Muiderpoort, het Leidseplein, Station Lelylaan, Osdorp en Schiphol moet een sneltram- of metroverbinding worden."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-016",
+      "text": "Er komt een algeheel bouwverbod voor windturbines in Amsterdam.",
+      "summary": "Algeheel windturbineverbod",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "windturbines",
+        "bouwverbod",
+        "verbod",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 7",
+      "originalQuote": "Daarom wil JA21 een algeheel bouwverbod voor windturbines."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-017",
+      "text": "De stadsdelen worden afgeschaft conform landelijke wetgeving.",
+      "summary": "Stadsdelen afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsdelen",
+        "afschaffen",
+        "bestuur",
+        "democratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 8",
+      "originalQuote": "Daarom schaffen we de stadsdelen af, conform landelijke wetgeving die Amsterdam al jaren ontduikt."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-018",
+      "text": "Er komen 6 extra raadsleden voor een voltijds raadslidmaatschap om het stadsbestuur beter te kunnen controleren.",
+      "summary": "6 extra raadsleden, voltijds raadslidmaatschap",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "raadsleden",
+        "6 extra",
+        "voltijds",
+        "controle"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 8",
+      "originalQuote": "Daarom willen we een voltijds raadslidmaatschap, en 6 extra raadsleden, om het stadsbestuur goed te kunnen controleren"
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-019",
+      "text": "De gemeentelijke lasten per huishouden gaan met 20% omlaag door te stoppen met subsidies, duurzaamheidsambities en diversiteitsprojecten.",
+      "summary": "Gemeentelijke lasten 20% omlaag",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentelijke lasten",
+        "20 procent",
+        "belastingen",
+        "omlaag"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 9",
+      "originalQuote": "De gemeentelijke lasten per huishouden gaan wat JA21 met 20% omlaag door te stoppen met allerlei onzinsubsidies, doorgeslagen duurzaamheisambities en diversiteitsprojecten."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-020",
+      "text": "De reclamebelasting wordt geschrapt.",
+      "summary": "Reclamebelasting afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reclamebelasting",
+        "afschaffen",
+        "ondernemers",
+        "belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 9",
+      "originalQuote": "Zo schrappen we de reclamebelasting"
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-021",
+      "text": "De Kunstraad wordt opgeheven en het verdelen, toetsen en controleren van cultuursubsidies wordt de verantwoordelijkheid van de wethouder Cultuur. Ambtenaren en experts die belast zijn met de uitvoering rouleren in termijnen van maximaal vier jaar.",
+      "summary": "Kunstraad opheffen, wethouder verantwoordelijk voor subsidies, ambtenaren rouleren per 4 jaar",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstraad",
+        "cultuursubsidies",
+        "wethouder",
+        "ambtenaren",
+        "roulatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 11",
+      "originalQuote": "We heffen deze overbodige, zwaar gepolitiseerde organisatie op en maken het verdelen, toetsen en controleren van de subsidies de verantwoordelijkheid van de wethouder Cultuur. De ambtenaren en experts die belast zijn met de uitvoering, rouleren in termijnen van maximaal vier jaar."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-022",
+      "text": "Alle Rijksmonumenten en Gemeentelijke monumenten mogen niet worden gesloopt, en alleen onder zeer strikte voorwaarden worden aangepast. Alle andere vooroorlogse wijken worden beschermd tegen sloop en krijgen een beschermd stadsgezicht.",
+      "summary": "Monumenten beschermen tegen sloop, vooroorlogse wijken beschermd stadsgezicht",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rijksmonumenten",
+        "gemeentelijke monumenten",
+        "vooroorlogse wijken",
+        "beschermd stadsgezicht",
+        "sloop"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 11-12",
+      "originalQuote": "Alle Rijksmonumenten en Gemeentelijke monumenten mogen niet worden gesloopt, en alleen onder zeer strikte voorwaarden worden aangepast. Daarnaast moeten ook alle andere vooroorlogse wijken worden beschermd tegen sloop, en een beschermd stadsgezicht worden."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-023",
+      "text": "Bijstandsgerechtigden moeten een tegenprestatie leveren, zoals bardiensten op sportvereniging, koffie schenken in verzorgingstehuis of investeren in scholing.",
+      "summary": "Tegenprestatie verplicht voor bijstandsgerechtigden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijstandsgerechtigden",
+        "tegenprestatie",
+        "sportvereniging",
+        "verzorgingstehuis",
+        "scholing"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 11",
+      "originalQuote": "Zo vragen we aan bijstandsgerechtigden om een tegenprestatie te leveren. Dat kan het draaien van bardiensten op de sportvereniging zijn, koffie schenken in het verzorgingstehuis of investeren in jezelf door middel van scholing."
+    },
+    {
+      "promiseCode": "JA21-AMS-2022-024",
+      "text": "Het budget voor taalonderwijs voor volwassenen wordt verhoogd met een miljoen euro per jaar. Door het Taaloffensief worden laaggeletterde Amsterdammers ondersteund om door te leren naar niveau B2.",
+      "summary": "Miljoen euro extra naar taalonderwijs volwassenen, doelstelling niveau B2",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "taalonderwijs",
+        "volwassenen",
+        "miljoen euro",
+        "taaloffensief",
+        "niveau b2"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 amsterdam 2022, p. 11-12",
+      "originalQuote": "Dit budget wordt verhoogd met een miljoen euro per jaar. Doormiddel van het Taaloffensief worden laaggeletterde Amsterdammers ondersteund en aangemoedigd om door te leren naar niveau B2."
+    }
+  ]
+}

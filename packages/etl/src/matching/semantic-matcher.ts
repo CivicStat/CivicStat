@@ -31,7 +31,8 @@
  *   DATABASE_URL       — Postgres connection string
  */
 
-import { PrismaClient, PromiseMatchType } from '@prisma/client';
+import { PrismaClient } from '@prisma/client';
+import type { PromiseMatchType } from '@prisma/client';
 import { shouldMatchMotion } from './motion-filter.js';
 import { createAIClient, chatWithRetry, getModel, modelShortName, AIError } from '../lib/ai-client.js';
 import type { AIClient } from '../lib/ai-client.js';

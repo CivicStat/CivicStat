@@ -23,12 +23,19 @@ const MATCH_TYPE_WEIGHTS: Record<string, number> = {
   CONTRADICTS: 1.0,
 };
 
+const MOTION_TYPE_WEIGHTS: Record<string, number> = {
+  'Wetsvoorstel': 2.0,
+  'Amendement': 1.5,
+  'Motie': 1.0,
+};
+
 const MIN_MOTIONS_THRESHOLD = 3;
 
 const PERIOD_DEFAULTS: Record<number, { start: string; end: string }> = {
   2022: { start: "2022-03-16", end: "2026-03-18" }, // Municipal elections 2022
   2023: { start: "2023-11-22", end: "2099-12-31" },
   2025: { start: "2023-11-22", end: "2099-12-31" },
+  2026: { start: "2022-03-16", end: "2099-12-31" }, // Municipal elections 2026 — score against current council term
 };
 
 // ─── Types ──────────────────────────────────────────────────
@@ -64,6 +71,7 @@ interface ScorecardResult {
   matchingAlgorithm: string;
   note?: string;
   byTheme: Record<string, { consistent: number; inconsistent: number; mixed: number; total: number; insufficientData: number }>;
+  byDocumentType: Record<string, { count: number; weightContribution: number }>;
   promises: PromiseScore[];
 }
 
@@ -136,6 +144,7 @@ async function computeScorecard(
   let mixedCount = 0;
   let insufficientDataCount = 0;
   const byTheme: Record<string, { consistent: number; inconsistent: number; mixed: number; total: number; insufficientData: number }> = {};
+  const byDocumentType: Record<string, { count: number; weightContribution: number }> = {};
 
   for (const promise of promises) {
     const expectedDir = promise.expectedVoteDirection || (programType === "REGEERAKKOORD" ? "VOOR" : null);
@@ -151,7 +160,13 @@ async function computeScorecard(
       if (match.confidence < 0.3) continue;
 
       const matchTypeWeight = MATCH_TYPE_WEIGHTS[match.matchType] ?? 0.5;
-      const effectiveWeight = matchTypeWeight * match.confidence;
+      const soort = match.motion.soort ?? 'Motie';
+      const motionTypeWeight = MOTION_TYPE_WEIGHTS[soort] ?? 1.0;
+      const effectiveWeight = matchTypeWeight * match.confidence * motionTypeWeight;
+
+      // Track document type distribution
+      if (!byDocumentType[soort]) byDocumentType[soort] = { count: 0, weightContribution: 0 };
+      byDocumentType[soort].count++;
 
       const vote = match.motion.votes?.[0];
       if (!vote) { noData++; continue; }
@@ -160,13 +175,27 @@ async function computeScorecard(
       let votedFor: boolean | null = null;
 
       if (partyRecords.length === 0) {
+        // Try TK format: rawData.Stemming[].ActorNaam
         const rawStemmingen = (vote as any).rawData?.Stemming || [];
         const partyNames = [partyAbbr, partyName].filter(Boolean);
-        const partyVote = rawStemmingen.find(
-          (s: any) => partyNames.some((n: string) => s.ActorNaam === n),
-        );
-        if (!partyVote) { noData++; continue; }
-        votedFor = partyVote.Soort?.toLowerCase() === "voor";
+
+        if (rawStemmingen.length > 0) {
+          const partyVote = rawStemmingen.find(
+            (s: any) => partyNames.some((n: string) => s.ActorNaam === n),
+          );
+          if (!partyVote) { noData++; continue; }
+          votedFor = partyVote.Soort?.toLowerCase() === "voor";
+        } else {
+          // Try municipal format: rawData.voteBreakdown.partiesFor/partiesAgainst
+          const breakdown = (vote as any).rawData?.voteBreakdown;
+          if (!breakdown) { noData++; continue; }
+          const partiesFor: string[] = breakdown.partiesFor || [];
+          const partiesAgainst: string[] = breakdown.partiesAgainst || [];
+          const isFor = partyNames.some(n => partiesFor.includes(n));
+          const isAgainst = partyNames.some(n => partiesAgainst.includes(n));
+          if (!isFor && !isAgainst) { noData++; continue; }
+          votedFor = isFor;
+        }
       } else {
         const forCount = partyRecords.filter((r: any) => r.voteValue === "FOR").length;
         const againstCount = partyRecords.filter((r: any) => r.voteValue === "AGAINST").length;
@@ -181,6 +210,7 @@ async function computeScorecard(
         opposed++;
         weightedOpposed += effectiveWeight;
       }
+      byDocumentType[soort].weightContribution += effectiveWeight;
     }
 
     const totalWithVotes = aligned + opposed;
@@ -260,6 +290,7 @@ async function computeScorecard(
       ? `${insufficientDataCount} belofte(n) hebben onvoldoende data (< ${MIN_MOTIONS_THRESHOLD} moties)`
       : undefined,
     byTheme,
+    byDocumentType,
     promises: scoredPromises,
   };
 }
@@ -286,11 +317,11 @@ export async function computeScorecards(opts: {
     console.log(`🏛  Scoped to parliament: ${parliamentRecord.name}\n`);
   }
 
-  // Default years: municipal = 2022, national = 2023+2025
+  // Default years: municipal = 2022+2026, national = 2023+2025
   const years = opts.year
     ? [opts.year]
     : parliamentRecord
-      ? [2022]
+      ? [2022, 2026]
       : [2023, 2025];
 
   // Find all parties that have promises
@@ -391,8 +422,11 @@ export async function computeScorecards(opts: {
         });
 
         upsertCount++;
+        const docTypeSummary = Object.entries(scorecard.byDocumentType)
+          .map(([type, { count }]) => `${type}: ${count}`)
+          .join(', ');
         console.log(
-          `  ✅ ${party.abbreviation} (TK${year}): MCS ${scorecard.mandateConsistencyScore}, ${scorecard.scoredPromises}/${scorecard.totalPromises} scored`,
+          `  ✅ ${party.abbreviation} (TK${year}): MCS ${scorecard.mandateConsistencyScore}, ${scorecard.scoredPromises}/${scorecard.totalPromises} scored | ${docTypeSummary || 'no matches'}`,
         );
       } catch (err) {
         errorCount++;

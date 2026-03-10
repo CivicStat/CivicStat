@@ -1,0 +1,1139 @@
+{
+  "party": "PvdA",
+  "partySlug": "pvda",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "PvdA Den Haag Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 74,
+  "promises": [
+    {
+      "promiseCode": "PvdA-DH-2022-001",
+      "text": "De PvdA pleit voor concrete getalsmatige uitwerking van beloften in het op te stellen coalitieakkoord en collegeprogramma.",
+      "summary": "Concrete getalsmatige uitwerking in coalitieakkoord",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coalitieakkoord",
+        "collegeprogramma",
+        "getalsmatige uitwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 3",
+      "originalQuote": "De PvdA pleit voor concrete (getalsmatige) uitwerking in het op te stellen coalitieakkoord/collegeprogramma."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-002",
+      "text": "De gemeente hanteert als uitgangspunt jaarlijks 4000 nieuwe woningen te bouwen in Den Haag.",
+      "summary": "Jaarlijks 4000 nieuwe woningen bouwen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woningbouw",
+        "nieuwbouw",
+        "woningen",
+        "bouwproductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 7",
+      "originalQuote": "We bouwen meer betaalbare woningen, uitgangspunt is jaarlijks 4000 nieuwe woningen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-003",
+      "text": "Voor elk nieuwbouwproject geldt een norm van minimaal 40% sociale huur door woningcorporaties, 20% middeldure huur en 20% betaalbare koop.",
+      "summary": "40% sociale huur, 20% middeldure huur, 20% betaalbare koop per nieuwbouwproject",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "sociale huur",
+        "middeldure huur",
+        "betaalbare koop",
+        "woningmix"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 7",
+      "originalQuote": "Voor elk nieuwbouwproject geldt een norm van minimaal 40% sociale huur (door woningcorporaties), 20% middeldure huur en 20% betaalbare koop."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-004",
+      "text": "Zittende huurders krijgen bij sloop-nieuwbouw een terugkeergarantie waarin duidelijk wordt wat voor woning ze kunnen krijgen, wanneer en tegen welke huur.",
+      "summary": "Terugkeergarantie voor zittende huurders bij sloop-nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sloop-nieuwbouw",
+        "terugkeergarantie",
+        "huurders",
+        "woningkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 8",
+      "originalQuote": "Zittende huurders krijgen een terugkeergarantie waarin duidelijk wordt wat voor woning ze kunnen krijgen, wanneer en tegen welke huur."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-005",
+      "text": "De gemeente verhoogt de kosten van bouwvergunningen naar het gemiddelde van andere grote steden, maar stelt woningcorporaties vrij van deze verhoging.",
+      "summary": "Bouwvergunningskosten verhogen naar gemiddelde grote steden, corporaties uitgezonderd",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bouwvergunning",
+        "leges",
+        "woningcorporaties",
+        "kostenverhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 8",
+      "originalQuote": "We verhogen de kosten van bouwvergunningen (leges) naar het gemiddelde van andere grote steden. De woningcorporaties stellen we vrij."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-006",
+      "text": "Er komt een actieplan tegen leegstaande panden en braakliggende terreinen. Via een pandenbank verwerft de gemeente panden die leegstaan of voor louche activiteiten worden gebruikt.",
+      "summary": "Actieplan tegen leegstand met pandenbank voor verwerving leegstaande panden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leegstand",
+        "pandenbank",
+        "actieplan",
+        "braakliggend terrein"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 8",
+      "originalQuote": "Er komt een actieplan tegen leegstaande panden en braakliggende terreinen Via een pandenbank verwerven we panden die leegstaan of voor louche activiteiten worden gebruikt."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-007",
+      "text": "De gemeente realiseert flexwoningen op braakliggend terrein en in leegstaande gebouwen, te gebruiken voor een periode van 5 tot 15 jaar.",
+      "summary": "Flexwoningen op braakliggend terrein voor 5-15 jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "flexwoningen",
+        "braakliggend terrein",
+        "tijdelijke huisvesting",
+        "leegstaande gebouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 8",
+      "originalQuote": "De gemeente realiseert flexwoningen op braakliggend terrein en in leegstaande gevouwen, te gebruiken voor een periode van 5 tot 15 jaar."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-008",
+      "text": "De gemeente stelt voor de vrije huursector een woonruimteverdeelsysteem op om woningen passend bij het inkomen toe te wijzen en discriminatie tegen te gaan.",
+      "summary": "Woonruimteverdeelsysteem voor vrije huursector tegen discriminatie",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vrije huursector",
+        "woonruimteverdeling",
+        "discriminatie",
+        "inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 8",
+      "originalQuote": "We stellen voor de vrije huursector een woonruimteverdeelsysteem op om zo woningen passend bij het inkomen toe te wijzen en discriminatie tegen te gaan."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-009",
+      "text": "De gemeente introduceert een verhuurvergunning met stevige eisen aan goed verhuurderschap en trekt de vergunning in bij misstanden.",
+      "summary": "Verhuurvergunning met eisen aan verhuurderschap, intrekking bij misstanden",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verhuurvergunning",
+        "verhuurderschap",
+        "handhaving",
+        "misstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 8",
+      "originalQuote": "Met een verhuurvergunning stellen we stevige eisen aan goed verhuurderschap. Om zo veel te hoge huren, slecht onderhoud en bizarre eisen aan nieuwe huurders tegen te gaan. De gemeente trekt de vergunning in bij misstanden en handhaaft hierop."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-010",
+      "text": "De Haagse pandbrigade wordt structureel uitgebreid, met focus op de grootste misstanden en de meest kwetsbare wijken.",
+      "summary": "Structurele uitbreiding pandbrigade voor kwetsbare wijken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "handhaving",
+        "woningkwaliteit",
+        "kwetsbare wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 9",
+      "originalQuote": "We breiden de Haagse pandbrigade structureel uit, met de focus op de grootste misstanden en de meest kwetsbare wijken."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-011",
+      "text": "De huurbalie breidt uit met verschillende fysieke locaties in de stad, met spreekuren vooral in wijken waar sprake is van veel misstanden.",
+      "summary": "Uitbreiding huurbalie met fysieke locaties en spreekuren in probleemwijken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huurbalie",
+        "spreekuren",
+        "fysieke locaties",
+        "misstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 9",
+      "originalQuote": "De huurbalie breidt uit met verschillende fysieke locaties in de stad. Hier is ook specifieke aandacht voor studenten en arbeidsmigranten. Er komen spreekuren vooral in de wijken waar sprake is van veel misstanden."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-012",
+      "text": "De eigen bijdrage voor een urgentieverklaring wordt afgeschaft.",
+      "summary": "Afschaffing eigen bijdrage urgentieverklaring",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "urgentieverklaring",
+        "eigen bijdrage",
+        "woningtoewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 9",
+      "originalQuote": "De eigen bijdrage voor een urgentieverklaring wordt afgeschaft."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-013",
+      "text": "Er komen veel meer ondergrondse containers verspreid over de stad voor plastic, papier, glas en kleding om de drempel voor afvalscheiding te verlagen.",
+      "summary": "Veel meer ondergrondse containers voor afvalscheiding door hele stad",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondergrondse containers",
+        "afvalscheiding",
+        "plastic",
+        "papier",
+        "glas"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 10",
+      "originalQuote": "Er komen veel meer ondergrondse containers verspreid over de stad voor plastic, papier, glas en kleding. Dit verlaagt ook de drempel om afval te scheiden."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-014",
+      "text": "Er komen vaste ophaaldagen voor grofvuil per wijk.",
+      "summary": "Vaste ophaaldagen grofvuil per wijk invoeren",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grofvuil",
+        "ophaaldagen",
+        "wijkindeling",
+        "afvalinzameling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 10",
+      "originalQuote": "Er komen vaste ophaaldagen voor grofvuil per wijk."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-015",
+      "text": "Den Haag moet een klimaatneutrale stad zijn in 2030.",
+      "summary": "Den Haag klimaatneutraal in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "energietransitie",
+        "duurzaamheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 13",
+      "originalQuote": "Den Haag moet een klimaatneutrale stad zijn in 2030."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-016",
+      "text": "Op elk Haags dak moeten zonnepanelen komen te liggen, waarbij de gemeente het voortouw neemt en zelf het goede voorbeeld geeft.",
+      "summary": "Zonnepanelen op elk Haags dak, gemeente geeft voorbeeld",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zonnepanelen",
+        "daken",
+        "hernieuwbare energie",
+        "gemeentelijk voorbeeld"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 13",
+      "originalQuote": "Onze ambitie is dat op elk Haags dak zonnepanelen komen te liggen. De gemeente neemt hierin het voortouw en geeft zelf het goede voorbeeld."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-017",
+      "text": "De gemeente zet als doel de helft van de toegenomen verstening in 2030 te hebben teruggedrongen om hittestress tegen te gaan.",
+      "summary": "Helft van verstening terugdringen tegen 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verstening",
+        "vergroening",
+        "hittestress",
+        "klimaatadaptatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 14",
+      "originalQuote": "Inzet is dat we de helft van de toegenomen verstening in 2030 teruggedrongen hebben."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-018",
+      "text": "Voor elke boom die door een particulier wordt aangevraagd om te kappen, plant de gemeente een nieuwe boom in de buurt van een sociale huurcomplex.",
+      "summary": "Voor elke gekapte particuliere boom nieuwe boom bij sociale huur",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bomen",
+        "compensatie",
+        "sociale huur",
+        "kapvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 14",
+      "originalQuote": "Voor elke boom die door een particulier wordt aangevraagd, planten we er een in de buurt van een sociale huurcomplex."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-019",
+      "text": "30 km per uur wordt de standaardsnelheid in Haagse woonwijken, met uitzondering van doorgaande wegen mits de verkeersveiligheid op orde is.",
+      "summary": "30 km/u standaardsnelheid in woonwijken",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "snelheidslimiet",
+        "verkeersveiligheid",
+        "woonwijken",
+        "30 kilometer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 15",
+      "originalQuote": "30 km per uur wordt de standaardsnelheid in Haagse woonwijken. Doorgaande wegen kunnen worden uitgezonderd, mits de verkeersveiligheid op orde is."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-020",
+      "text": "De gemeente verhoogt de prijs voor een tweede parkeervergunning en stelt maximum van twee vergunningen per huishouden in de hele stad.",
+      "summary": "Hogere prijs tweede parkeervergunning, max twee per huishouden",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunning",
+        "parkeerbeleid",
+        "huishouden",
+        "prijsverhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 15",
+      "originalQuote": "Daarom verhogen we de prijs voor een tweede parkeervergunning en kunnen in de hele stad maximaal twee vergunningen per huishouden worden verkregen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-021",
+      "text": "De gemeente voert betaald parkeren in de hele stad in, te beginnen in gebieden waar de parkeerdruk het hoogst is.",
+      "summary": "Betaald parkeren hele stad, start bij hoogste parkeerdruk",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "betaald parkeren",
+        "parkeerdruk",
+        "parkeerbeleid",
+        "straattarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 15",
+      "originalQuote": "Ons uitgangspunt is betaald parkeren in de hele stad. Daarmee beginnen we in gebieden waar de parkeerdruk het hoogst is."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-022",
+      "text": "Alle kinderen vanaf twee jaar krijgen de mogelijkheid om minstens vier dagdelen deel te nemen aan een voor- en vroegschoolse educatie (vve) traject. Ouders met een laag inkomen hebben gratis toegang.",
+      "summary": "VVE voor alle kinderen 2+, 4 dagdelen minimum, gratis voor lage inkomens",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vroegschoolse educatie",
+        "vve",
+        "dagdelen",
+        "gratis toegang",
+        "laag inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 18",
+      "originalQuote": "Alle kinderen vanaf twee jaar krijgen de mogelijkheid om minstens vier dagdelen deel te nemen aan een vve-traject. Ouders met een laag inkomen hebben gratis toegang."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-023",
+      "text": "Docenten op scholen in kwetsbare wijken krijgen extra beloning om de grootste lerarentekorten aan te pakken waar goede docenten het grootste verschil kunnen maken.",
+      "summary": "Extra beloning docenten kwetsbare wijken tegen lerarentekort",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "docenten",
+        "beloning",
+        "kwetsbare wijken",
+        "lerarentekort"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 18",
+      "originalQuote": "We gaan docenten op scholen in kwetsbare wijken extra belonen. Hier zien we de grootste lerarentekorten, terwijl goede docenten hier het grootste verschil kunnen maken."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-024",
+      "text": "Docenten en onderwijsondersteuners van buiten de stad krijgen voorrang bij het huren van middeldure huurwoningen en er komen oplossingen voor scholen met te weinig parkeerplekken.",
+      "summary": "Voorrang huurwoningen en parkeeroplossingen voor docenten van buiten stad",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "docenten",
+        "huurwoningen",
+        "voorrang",
+        "parkeerplekken",
+        "onderwijsondersteuners"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 18",
+      "originalQuote": "Voor docenten en ambulante onderwijsondersteuners van buiten de stad maken we werken in Den Haag aantrekkelijk door ze voorrang te bieden bij het huren van een middeldure huurwoning en te zoeken naar oplossingen voor scholen met te weinig parkeerplekken."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-025",
+      "text": "Er komen afspraken met scholen, trainingsprogramma's voor leraren en een adviesraad om onderadvisering tegen te gaan en het adviseringsbeleid te verbeteren.",
+      "summary": "Afspraken, training en adviesraad tegen onderadvisering",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderadvisering",
+        "trainingsprogramma",
+        "adviesraad",
+        "scholen",
+        "advisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 18",
+      "originalQuote": "We gaan onderadvisering tegen. Daarom maken we afspraken met scholen, starten we trainingsprogramma's voor (leraren op) scholen waar grote verschillen zitten tussen adviezen en toets-/uitstroomresultaten en komt er een adviesraad, die samen met scholen het beleid rondom de advisering gaat verbeteren."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-026",
+      "text": "Er komt gratis huiswerkbegeleiding op meer plekken in de stad, zoals in bibliotheken, buurthuizen, sportclubs en op scholen.",
+      "summary": "Gratis huiswerkbegeleiding uitbreiden naar meer locaties",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huiswerkbegeleiding",
+        "gratis",
+        "bibliotheken",
+        "buurthuizen",
+        "sportclubs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 19",
+      "originalQuote": "Daarom zorgen we voor gratis huiswerkbegeleiding op meer plekken in de stad, zoals in bibliotheken, buurthuizen, sportclubs en op scholen zelf."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-027",
+      "text": "Er komt in samenwerking met scholen een Haags actieplan ouderbetrokkenheid.",
+      "summary": "Haags actieplan ouderbetrokkenheid met scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "ouderbetrokkenheid",
+        "scholen",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 19",
+      "originalQuote": "Er komt in samenwerking met de scholen een Haags actieplan ouderbetrokkenheid."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-028",
+      "text": "De gemeente gaat meer traineeships op MBO-niveau aanbieden en ROC's krijgen meer budget voor decanen/studiebegeleiders om stages te vinden.",
+      "summary": "Meer MBO-traineeships gemeente en extra budget ROC's voor stagebegeleiding",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "traineeships",
+        "mbo",
+        "budget",
+        "roc",
+        "stagebegeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 19",
+      "originalQuote": "De gemeente gaat meer traineeships op MBO-niveau aanbieden. ROC's in Den Haag krijgen meer budget om gericht decanen/studiebegeleiders aan te trekken die met MBO'ers aan de slag gaan om stages te vinden."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-029",
+      "text": "Er komt een studentenkorting voor in Den Haag wonende studenten voor cultuur- en sportvoorzieningen en verruiming van openingstijden horeca waar mogelijk.",
+      "summary": "Studentenkorting cultuur/sport en langere horeca-openingstijden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studentenkorting",
+        "cultuur",
+        "sport",
+        "horeca",
+        "openingstijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 19",
+      "originalQuote": "Dit doen we met door voldoende goede studentenhuisvesting te realiseren in de hele stad, een studentenkorting voor in Den Haag wonende studenten voor cultuur- en sportvoorzieningen en het verruimen van de openingstijden van de horeca waar dit kan."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-030",
+      "text": "Het budget voor Taal in de Buurt wordt verhoogd zodat mensen in vertrouwde wijkcentra of via kinderscholen hun taalvaardigheid kunnen verbeteren.",
+      "summary": "Hoger budget Taal in de Buurt voor wijkcentra en scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "taal in de buurt",
+        "wijkcentra",
+        "taalvaardigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 19",
+      "originalQuote": "We vergroten het aanbod van taalcursussen in de stad. Om taalonderwijs toegankelijker te maken, verhogen we het budget voor Taal in de Buurt zodat mensen in hun vertrouwde wijkcentrum of via de school van hun kinderen hun taalvaardigheid kunnen verbeteren."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-031",
+      "text": "De OZB wordt hoger voor leegstaande panden om winkeleigenaren te stimuleren tot verhuur of verkoop.",
+      "summary": "Hogere OZB voor leegstaande panden",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "leegstand",
+        "panden",
+        "winkels"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 20",
+      "originalQuote": "De OZB wordt hoger in geval van leegstaand."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-032",
+      "text": "Er wordt een gemeentelijk keurmerk ontwikkeld voor bedrijven die zich actief inzetten tegen discriminatie in horeca en woningmarkt.",
+      "summary": "Gemeentelijk antidiscriminatie-keurmerk voor bedrijven",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "keurmerk",
+        "discriminatie",
+        "bedrijven",
+        "horeca",
+        "woningmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 22",
+      "originalQuote": "We ontwikkelen een gemeentelijk keurmerk voor bedrijven die zich actief inzetten tegen discriminatie, zoals in de horeca en op de woningmarkt."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-033",
+      "text": "Ondernemers die discrimineren verliezen hun exploitatievergunning. De gemeente zet mystery guests in om discriminatie op te sporen.",
+      "summary": "Exploitatievergunning vervalt bij discriminatie, mystery guests ingezet",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "exploitatievergunning",
+        "discriminatie",
+        "mystery guests",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 22",
+      "originalQuote": "Wie discrimineert, verliest zijn exploitatievergunning."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-034",
+      "text": "Investeren in basisbanen via structurele financiering van de Stip-regeling en uitbreiding van het aantal banen voor mensen met afstand tot de arbeidsmarkt als conciërge of hulp in scholen, bibliotheken en wijkcentra.",
+      "summary": "Investeren in basisbanen via structurele financiering Stip-regeling",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbanen",
+        "stip-regeling",
+        "arbeidsmarkt",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 25",
+      "originalQuote": "We investeren in basisbanen zodat mensen met afstand tot de arbeidsmarkt zich maatschappelijk nuttig kunnen maken als conciërge of hulp in scholen, bibliotheken, wijkcentra en bij het schoonhouden van de straat. Dat kan door structurele financiering van de Stip-regeling, uitbreiding van het aantal banen"
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-035",
+      "text": "Den Haag hanteert geen kostendelersnorm bij bijstandsuitkeringen om samenwonen niet te bestraffen vanwege de woningnood.",
+      "summary": "Geen kostendelersnorm hanteren bij bijstandsuitkeringen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "bijstand",
+        "samenwonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 25",
+      "originalQuote": "Den Haag hanteert geen kostendelersnorm. Een straf op samenwonen is onwenselijk en ook niet realistisch met het oog op de woningnood."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-036",
+      "text": "De inkomensgrens voor de Ooievaarspas verhogen zodat meer mensen met korting kunnen sporten, naar de bibliotheek of museum. Uitbreiding van tegemoetkoming voor sport- en cultuurdeelname voor kinderen uit arme gezinnen.",
+      "summary": "Verhogen inkomensgrens Ooievaarspas en uitbreiding tegemoetkomingen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ooievaarspas",
+        "inkomensgrens",
+        "kinderarmoede",
+        "cultuurdeelname"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 25",
+      "originalQuote": "We verhogen de inkomensgrens voor de Ooievaarspas om te voorkomen dat mensen die net te veel verdienen alsnog minder overhouden omdat ze de pas moeten inleveren. We breiden de tegemoetkoming in de kosten uit voor sportdeelname en cultuurdeelname voor kinderen uit arme gezinnen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-037",
+      "text": "Het Jongeren Perspectief Fonds uitbreiden naar andere groepen, waarmee schulden worden overgenomen in ruil voor afspraken over onderwijs of werk.",
+      "summary": "Uitbreiding Jongeren Perspectief Fonds naar andere groepen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jongeren perspectief fonds",
+        "schuldhulp",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 26",
+      "originalQuote": "Het Jongeren Perspectief Fonds, waarmee schulden worden overgenomen en met de jongere afspraken worden gemaakt over naar school gaan of (vrijwilligers)werk, is een groot succes. Daarom breiden we dit fonds uit naar andere groepen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-038",
+      "text": "Een gezamenlijk preventiefonds oprichten samen met zorgverzekeraars om gezondheidsverschillen in Den Haag aan te pakken.",
+      "summary": "Gezamenlijk preventiefonds met zorgverzekeraars voor gezondheidsverschillen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventiefonds",
+        "zorgverzekeraars",
+        "gezondheidsverschillen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 26",
+      "originalQuote": "Daarom vergroten we de preventieve rol die de gemeente speelt om een gezondere levensstijl te bevorderen. Samen met de verzekeraars gaan we de krachten bundelen om de gezondheidsverschillen in Den Haag aan te pakken. Dit doen we met behulp van een gezamenlijk preventiefonds."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-039",
+      "text": "In elke wijk komt een wijkteam met hands-on professionals voor vroegsignalering, preventie en toeleiding, inclusief een gezondheidscoach voor het begeleiden naar een gezondere levensstijl.",
+      "summary": "Wijkteams met professionals en gezondheidscoach in elke wijk",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkteams",
+        "gezondheidscoach",
+        "preventie",
+        "vroegsignalering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 27",
+      "originalQuote": "In elke wijk komt een wijkteam met professionals die goed in contact staan met inwoners, die inwoners bij elkaar kunnen brengen en met oplossingen kunnen komen voor problemen in de wijk. Om de gezondheidsverschillen in de stad aan te pakken, hebben de wijkteams ook een gezondheidscoach nodig"
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-040",
+      "text": "Een fysiek gemeentelijk zorgloket oprichten waar mensen snel en gemakkelijk naar de juiste hulp worden verwezen.",
+      "summary": "Fysiek gemeentelijk zorgloket voor verwijzing naar hulp",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgloket",
+        "hulpverwijzing",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 27",
+      "originalQuote": "We zetten daarom een (fysiek) gemeentelijk zorgloket op, waar mensen snel en gemakkelijk naar de juiste hulp worden verwezen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-041",
+      "text": "Twintig extra ontmoetingsplekken opzetten waar mensen uit de wijk samen kunnen komen, met extra budget en faciliterende rol van de gemeente.",
+      "summary": "Twintig extra ontmoetingsplekken in wijken",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontmoetingsplekken",
+        "wijkontmoeting",
+        "buurthuizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 28",
+      "originalQuote": "We zetten twintig extra ontmoetingsplekken op waar mensen uit de wijk samen kunnen komen. We maken hiervoor meer budget vrij en gaan een faciliterende rol spelen als gemeente."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-042",
+      "text": "Vijftien extra straatcoaches aanstellen, vijf extra kinderwerkers in kwetsbare wijken en community builders uitbreiden naar tien.",
+      "summary": "15 extra straatcoaches, 5 kinderwerkers en 10 community builders",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "straatcoaches",
+        "kinderwerkers",
+        "community builders",
+        "jeugdwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 28",
+      "originalQuote": "Bovendien maken we geld vrij voor vijftien extra straatcoaches, vijf extra kinderwerkers in de meest kwetsbare wijken en breiden we de community builders uit naar tien."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-043",
+      "text": "Winteropvang de hele winter openhouden voor daklozen, laagdrempelig en zonder eigen bijdrage, in plaats van alleen bij temperaturen onder nul.",
+      "summary": "Winteropvang hele winter open, laagdrempelig en gratis",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "winteropvang",
+        "daklozen",
+        "laagdrempelig",
+        "eigen bijdrage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 28",
+      "originalQuote": "Nu is de winteropvang alleen geopend als de (gevoels)temperatuur onder nul is. Wij willen dat de hele winter iedereen een dak boven zijn hoofd heeft, laagdrempelig en zonder eigen bijdrage."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-044",
+      "text": "De gemeente verstevigt de betrokkenheid van bewoners in hun eigen wijk en/of stadsdeel door het stimuleren van wijkbudgetten, buurtbegroting en deconcentratie van gemeentelijke taken.",
+      "summary": "Stimuleren wijkbudgetten, buurtbegroting en deconcentratie gemeentelijke taken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkbudgetten",
+        "buurtbegroting",
+        "deconcentratie",
+        "gemeentelijke taken",
+        "bewonersbetrokkenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 32",
+      "originalQuote": "We verstevigen de betrokkenheid van bewoners in hun eigen wijk en/of stadsdeel door het stimuleren van wijkbudgetten, buurtbegroting en deconcentratie van gemeentelijke taken."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-045",
+      "text": "Er worden burgerpanels georganiseerd waarbij de gemeente deelnemers op basis van loting uitnodigt om beleidsthema's en keuzes voor de stad te bespreken. De reactie en suggesties van dit panel worden bij elk groot voorstel in de raad behandeld.",
+      "summary": "Burgerpanels op basis van loting voor alle grote raadsvoorstellen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerpanels",
+        "loting",
+        "beleidsthema's",
+        "raadsvoorstellen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 32",
+      "originalQuote": "We organiseren burgerpanels waarbij de gemeente deelnemers op basis van loting uitnodigt om beleidsthema's en keuzes voor de stad te bespreken. De reactie en suggesties van dit panel willen we bij elk groot voorstel in de raad behandelen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-046",
+      "text": "Er komen burgeradviesraden per stadsdeel bestaande uit een gelote vertegenwoordiging van bewoners en een afvaardiging van de bewonersorganisaties die in gesprek gaan met de wijkwethouder en gemeenteraad.",
+      "summary": "Burgeradviesraden per stadsdeel met gelote bewoners en bewonersorganisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgeradviesraden",
+        "stadsdeel",
+        "loting",
+        "bewonersorganisaties",
+        "wijkwethouder"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 32",
+      "originalQuote": "Er komen burgeradviesraden per stadsdeel bestaande uit een gelote vertegenwoordiging van bewoners en een afvaardiging van de bewonersorganisaties. Die gaan in gesprek met de wijkwethouder en gemeenteraad over problemen en oplossingen in de wijk."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-047",
+      "text": "De wijkagenda's en wijkbudgetten worden uitgebreid om knelpunten en problemen aan te pakken. Het budget voor participatie wordt uitgebreid.",
+      "summary": "Uitbreiding wijkagenda's, wijkbudgetten en participatiebudget",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkagenda's",
+        "wijkbudgetten",
+        "participatiebudget",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 32",
+      "originalQuote": "De wijkagenda's en wijkbudgetten breiden we uit om knelpunten en problemen aan te pakken. We breiden het budget voor participatie uit."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-048",
+      "text": "De verbeteringen in het Haags integriteitsbeleid worden in volle omvang doorgezet.",
+      "summary": "Doorzetten verbeteringen Haags integriteitsbeleid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "integriteitsbeleid",
+        "verbeteringen",
+        "doorzettten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 32",
+      "originalQuote": "De verbeteringen in het Haags integriteitsbeleid in volle omvang door te zetten."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-049",
+      "text": "Er komen 'oplosteams' om lastige casussen met Wmo-, huisvesting-, of bijstandsregels op te lossen en te voorkomen dat kwetsbare burgers geen of slechte hulp krijgen.",
+      "summary": "Oplosteams voor complexe zorgcasussen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "oplosteams",
+        "wmo",
+        "huisvesting",
+        "bijstand",
+        "kwetsbare burgers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 33",
+      "originalQuote": "Er komen 'oplosteams' om lastige casussen met Wmo-, huisvesting-, of bijstandsregels op te lossen en te voorkomen dat kwetsbare burgers geen of slechte hulp krijgen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-050",
+      "text": "De openingstijden van gemeentelijke dienstverlening worden verruimd voor paspoorten en rijbewijzen om lange wachttijden te voorkomen.",
+      "summary": "Verruiming openingstijden gemeentelijke dienstverlening",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openingstijden",
+        "dienstverlening",
+        "paspoort",
+        "rijbewijs",
+        "wachttijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 33",
+      "originalQuote": "De bestaande dienstverlening van de gemeente moet voldoende capaciteit hebben om zonder lange wachttijden een paspoort of rijbewijs aan te kunnen vragen. Daarom worden de openingstijden verruimd."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-051",
+      "text": "Het aantal jeugdopbouwwerkers wordt fors uitgebreid als onderdeel van de wijkgerichte veiligheidsaanpak.",
+      "summary": "Forse uitbreiding jeugdopbouwwerkers",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdopbouwwerkers",
+        "uitbreiding",
+        "wijkgericht",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 34",
+      "originalQuote": "We breiden het aantal jeugdopbouwwerkers fors uit."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-052",
+      "text": "Afsteken van vuurwerk door particulieren wordt verboden. De gemeente organiseert in verschillende wijken samen met buurtbewoners veilige vuurwerkshows.",
+      "summary": "Vuurwerkverbod particulieren en gemeentelijke vuurwerkshows",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vuurwerkverbod",
+        "particulieren",
+        "vuurwerkshows",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 35",
+      "originalQuote": "De gemeente organiseert in verschillende wijken samen met buurtbewoners veilige vuurwerkshows. Afsteken van vuurwerk door particulieren wordt verboden."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-053",
+      "text": "Iedere aanhouding en controle wordt geregistreerd in de ProCo-app om etnisch profileren tegen te gaan.",
+      "summary": "Registratieplicht aanhoudingen in ProCo-app",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aanhoudingen",
+        "controles",
+        "proco-app",
+        "registratie",
+        "etnisch profileren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 35",
+      "originalQuote": "Iedere aanhouding en controle wordt geregistreerd in de ProCo-app."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-054",
+      "text": "De Pandbrigade wordt versterkt om malafide verhuurders en woonoverlast harder aan te pakken.",
+      "summary": "Versterking Pandbrigade tegen malafide verhuurders",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "versterking",
+        "malafide verhuurders",
+        "woonoverlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 35",
+      "originalQuote": "Malafide verhuurders en woonoverlast worden zonder pardon aangepakt. Wantoestanden zoals overbewoning en illegale onderverhuur hebben een enorme negatieve invloed op een straat en wijk en het gevoel van veiligheid. De Pandbrigade wordt versterkt."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-055",
+      "text": "De gemeente gaat concentratie van coffeeshops actief tegen door evenwichtigere spreiding, niet door het aantal te verminderen.",
+      "summary": "Herverspreiding coffeeshops tegen concentratie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coffeeshops",
+        "concentratie",
+        "spreiding",
+        "herverspreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 36",
+      "originalQuote": "De gemeente gaat concentratie van coffeeshops actief tegen. Niet door het aantal te verminderen, maar te komen tot evenwichtigere spreiding."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-056",
+      "text": "Het cultuurbudget in Den Haag wordt verhoogd in de richting van het gemiddelde dat de vier grote steden per inwoner besteden aan cultuur.",
+      "summary": "Cultuurbudget verhogen naar gemiddelde van vier grote steden per inwoner",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuurbudget",
+        "verhoging",
+        "grote steden",
+        "gemiddelde",
+        "inwoner"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 38",
+      "originalQuote": "We streven ernaar dat het cultuurbudget in Den Haag wordt verhoogd in de richting van het gemiddelde dat de vier grote steden per inwoner besteden."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-057",
+      "text": "Er wordt een fonds opgezet dat rechtstreeks ten goede komt aan individuele kunstenaars en lokale makers in de wijken, met verdeling tussen wijken en verbinding van lokale makers met hun wijk.",
+      "summary": "Fonds voor individuele kunstenaars en lokale makers in wijken opzetten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fonds",
+        "kunstenaars",
+        "lokale makers",
+        "wijken",
+        "verdeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 38",
+      "originalQuote": "Daarom zetten we een fonds op dat rechtstreeks ten goede komt aan individuele kunstenaars en lokale makers in de wijken. Hierbij is verdeling tussen de wijken en de verbinding van lokale makers met hun wijk van belang."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-058",
+      "text": "In de subsidievoorwaarden wordt gesteld dat betaling van kunstenaars en cultuurmakers geschiedt volgens de Fair Practice Code.",
+      "summary": "Subsidievoorwaarden: betaling volgens Fair Practice Code",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidievoorwaarden",
+        "fair practice code",
+        "betaling",
+        "kunstenaars",
+        "cultuurmakers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 38",
+      "originalQuote": "We stellen in de subsidievoorwaarden dat betaling van kunstenaars en cultuurmakers geschiedt volgens de Fair Practice Code."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-059",
+      "text": "Er komen geen bezuinigingen op bibliotheken, er worden juist extra vestigingen geopend.",
+      "summary": "Geen bezuinigingen op bibliotheken, extra vestigingen openen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheken",
+        "bezuinigingen",
+        "vestigingen",
+        "openen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 38",
+      "originalQuote": "Er komen daarom geen bezuinigingen op bibliotheken, er worden juist extra vestigingen geopend."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-060",
+      "text": "Jonge stadsbewoners onder de 27 jaar krijgen met een Cultureel Jongeren Pas (CJP) meer culturele toegang.",
+      "summary": "CJP voor jongeren onder 27 voor meer culturele toegang",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jongeren",
+        "27 jaar",
+        "cjp",
+        "culturele toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 39",
+      "originalQuote": "Jonge stadsbewoners onder de 27 jaar krijgen met een Cultureel Jongeren Pas (CJP) meer culturele toegang."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-061",
+      "text": "Er wordt gepleit voor een nieuw zwembad in Laak, meer zwemwater en gemeentelijke zwemlessen vanaf 5 jaar.",
+      "summary": "Nieuw zwembad in Laak en gemeentelijke zwemlessen vanaf 5 jaar",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwembad",
+        "laak",
+        "zwemlessen",
+        "5 jaar",
+        "zwemwater"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 39",
+      "originalQuote": "Zo pleiten we voor een nieuw zwembad in Laak, voor meer zwemwater en gemeentelijke zwemlessen vanaf 5 jaar."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-062",
+      "text": "Er wordt verkend om een sportcentrum in Transvaal te realiseren, de Houtzagerij in de Schilderswijk uit te breiden en het sportcentrum aan de Laan van Poot te vernieuwen.",
+      "summary": "Sportcentrum Transvaal verkennen, Houtzagerij uitbreiden, Laan van Poot vernieuwen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportcentrum",
+        "transvaal",
+        "houtzagerij",
+        "schilderswijk",
+        "laan van poot"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 39",
+      "originalQuote": "We verkennen de komst van een sportcentrum in Transvaal, breiden de Houtzagerij in de Schilderswijk uit en ondersteunen waar mogelijk de plannen om het sportcentrum aan de Laan van Poot te vernieuwen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-063",
+      "text": "Voor elke wijk komt er een meerjaren-wijkplan over sportdeelname.",
+      "summary": "Meerjaren-wijkplan sportdeelname per wijk",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkplan",
+        "sportdeelname",
+        "meerjaren",
+        "wijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 39",
+      "originalQuote": "Voor elke wijk komt er een meerjaren-wijkplan over sportdeelname."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-064",
+      "text": "Elke vereniging moet de Ooievaarspas aanbieden, anders krijgt die geen gemeentelijke ondersteuning.",
+      "summary": "Ooievaarspas verplicht voor gemeentelijke ondersteuning verenigingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ooievaarspas",
+        "verenigingen",
+        "ondersteuning",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 40",
+      "originalQuote": "Elke vereniging moet de Ooievaarspas aanbieden, anders krijgt die geen gemeentelijke ondersteuning."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-065",
+      "text": "Er wordt een servicecentrum opgericht voor hulp en ondersteuning van de organisatie van sportverenigingen.",
+      "summary": "Servicecentrum voor ondersteuning sportverenigingen oprichten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "servicecentrum",
+        "sportverenigingen",
+        "ondersteuning",
+        "organisatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 40",
+      "originalQuote": "We richten een servicecentrum op voor hulp en ondersteuning van de organisatie van sportverenigingen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-066",
+      "text": "De OZB wordt verhoogd naar het niveau van andere grote steden.",
+      "summary": "OZB verhogen naar niveau andere grote steden",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "verhoging",
+        "grote steden",
+        "niveau"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 42",
+      "originalQuote": "Om noodzakelijke inkomsten op te halen kiezen we ervoor de OZB te verhogen naar het niveau van andere grote steden"
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-067",
+      "text": "De Volendamlaan, Driebergenstraat en Vreeswijkstraat (langs Zuiderpark) worden aangepakt om te hard rijden te voorkomen.",
+      "summary": "Aanpak snelheidsoverschrijding Volendamlaan, Driebergenstraat en Vreeswijkstraat",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "volendamlaan",
+        "driebergenstraat",
+        "vreeswijkstraat",
+        "snelheidsbeperking",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 45",
+      "originalQuote": "De Volendamlaan, Driebergenstraat en Vreeswijkstraat (langs Zuiderpark) worden aangepakt om te hard rijden te voorkomen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-068",
+      "text": "Winkelcentrum Leyenburg krijgt een grote opknapbeurt en er komt cameratoezicht.",
+      "summary": "Renovatie winkelcentrum Leyenburg met cameratoezicht",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winkelcentrum",
+        "leyenburg",
+        "renovatie",
+        "cameratoezicht",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 45",
+      "originalQuote": "Winkelcentrum Leyenburg krijgt een grote opknapbeurt en er komt cameratoezicht."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-069",
+      "text": "Er komt een permanente basisschool in Bezuidenhout-West om het tekort in de wijk op te vangen en ruimte te creëren voor kinderen in de nieuwbouw.",
+      "summary": "Permanente basisschool in Bezuidenhout-West",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisschool",
+        "bezuidenhout-west",
+        "schoolcapaciteit",
+        "nieuwbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 45",
+      "originalQuote": "Er komt een permanente basisschool in Bezuidenhout-West. Hiermee vangen we het tekort in de wijk op en ontstaat ruimte voor kinderen die in de nieuwbouw gaan wonen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-070",
+      "text": "Extra controles van de Pandbrigade in Laak om huisjesmelkers en woonuitbuiting aan te pakken.",
+      "summary": "Intensievere Pandbrigade-controles in Laak tegen huisjesmelkers",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pandbrigade",
+        "laak",
+        "huisjesmelkers",
+        "woonuitbuiting",
+        "handhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 46",
+      "originalQuote": "We willen extra controles van de Pandbrigade in Laak om huisjesmelkers en woonuitbuiting aan te pakken."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-071",
+      "text": "De verkeerssituatie op de Vaillantlaan wordt opgelost door de straat of verkeersstromen anders in te richten en onderzoek naar gedeeltelijke ondertunneling.",
+      "summary": "Oplossing verkeersprobleem Vaillantlaan door herinrichting of ondertunneling",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vaillantlaan",
+        "verkeersstroom",
+        "herinrichting",
+        "ondertunneling",
+        "luchtkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 46",
+      "originalQuote": "De opstoppingen en de gevolgen voor mobiliteit en luchtkwaliteit moeten worden opgelost. Dat kan door de straat of verkeersstromen anders in te richten en te onderzoeken of op de lange termijn gedeeltelijke ondertunneling een oplossing is."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-072",
+      "text": "Het Kaapseplein wordt opgeknapt met meer groen en speelmogelijkheden voor kinderen.",
+      "summary": "Opknapbeurt Kaapseplein met groen en speelvoorzieningen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kaapseplein",
+        "renovatie",
+        "groen",
+        "speelvoorzieningen",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 46",
+      "originalQuote": "Het Kaapseplein wordt opgeknapt, met meer groen en speelmogelijkheden voor kinderen."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-073",
+      "text": "Er wordt een bewaakte fietsenstalling geplaatst bij station Leidschenveen tegen hangjeugd en drugsdealers.",
+      "summary": "Bewaakte fietsenstalling station Leidschenveen tegen overlast",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fietsenstalling",
+        "station",
+        "leidschenveen",
+        "bewaking",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 47",
+      "originalQuote": "De gemeente maakt hier werk van en zorgt voor meer publieke ogen, bijvoorbeeld door een bewaakte fietsenstalling te plaatsen bij het station."
+    },
+    {
+      "promiseCode": "PvdA-DH-2022-074",
+      "text": "Éénrichtingsverkeer wordt ingevoerd in de Weimarstraat om de verkeerssituatie te verbeteren.",
+      "summary": "Éénrichtingsverkeer Weimarstraat voor verkeersveiligheid",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "weimarstraat",
+        "éénrichtingsverkeer",
+        "verkeersveiligheid",
+        "segbroek"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdA den-haag 2022, p. 47",
+      "originalQuote": "We verbeteren de verkeerssituatie in de Beeklaan en Weimarstraat, onder meer door éénrichtingsverkeer in de Weimarstraat."
+    }
+  ]
+}

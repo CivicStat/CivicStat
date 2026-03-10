@@ -1,0 +1,657 @@
+{
+  "party": "Volt",
+  "partySlug": "volt",
+  "program": "Toekomst, nu",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "18b452977dbd8bac5c736521ff9a910a5ccbfb6f256cbfbf57bbe94df904435a",
+  "totalPromises": 42,
+  "promises": [
+    {
+      "promiseCode": "VOLT-2023-001",
+      "text": "De EU kan klimaatneutraal zijn in 2040. Het CO2-reductiepercentage van 100% in 2040 wordt vastgelegd in de wet om een einde te maken aan streefpercentages en een harde norm te introduceren.",
+      "summary": "EU klimaatneutraal in 2040, CO2-reductie 100% vastleggen in wet",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraliteit",
+        "CO2-reductie",
+        "wetgeving",
+        "EU",
+        "2040"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 30-31",
+      "originalQuote": "De EU kan in 2040 klimaatneutraal zijn. We leggen het CO2-reductiepercentage van 100% in 2040 vast in de wet."
+    },
+    {
+      "promiseCode": "VOLT-2023-002",
+      "text": "Er komt een ministerie van Klimaat, Energie en Circulariteit. De focus van dit ministerie ligt volledig op het versnellen van de duurzaamheidstransitie en het verkleinen van de Nederlandse ecologische voetafdruk.",
+      "summary": "Nieuw ministerie van Klimaat, Energie en Circulariteit oprichten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "klimaat",
+        "energie",
+        "circulariteit",
+        "duurzaamheidstransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 30-31",
+      "originalQuote": "Er komt een ministerie van Klimaat, Energie en Circulariteit."
+    },
+    {
+      "promiseCode": "VOLT-2023-003",
+      "text": "Volt wil op Europees niveau en in Nederland een klimaatadaptatiefonds opzetten voor noodzakelijke investeringen. Daarnaast wordt ook een klimaatnoodfonds opgezet om inwoners en bedrijven bij klimaatrampen te ondersteunen.",
+      "summary": "Klimaatadaptatiefonds en klimaatnoodfonds opzetten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatadaptatiefonds",
+        "klimaatnoodfonds",
+        "klimaatrampen",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 30-31",
+      "originalQuote": "Volt wil op Europees niveau en in Nederland een klimaatadaptatiefonds voor de noodzakelijke investeringen opzetten. Daarnaast willen we ook een klimaatnoodfonds opzetten om inwoners en bedrijven bij klimaatrampen te ondersteunen."
+    },
+    {
+      "promiseCode": "VOLT-2023-004",
+      "text": "Het gebruik van bruin- en steenkool wordt snel afgebouwd en uiteindelijk gestopt door verhoging van de belasting op kolen naar € 25 per ton, een Europees verbod op bruinkool vanaf 2025 en op steenkool vanaf 2030.",
+      "summary": "Kolenbelasting € 25/ton, verbod bruinkool 2025, steenkool 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kolenbelasting",
+        "bruinkool",
+        "steenkool",
+        "verbod",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 32-33",
+      "originalQuote": "Het gebruik van bruin- en steenkool wordt snel afgebouwd en uiteindelijk helemaal gestopt. Dit doen we onder andere door een verhoging van de belasting op kolen naar € 25 per ton, een Europees verbod op bruinkool vanaf 2025 en op steenkool vanaf 2030."
+    },
+    {
+      "promiseCode": "VOLT-2023-005",
+      "text": "In 2030 zijn we volledig gestopt met de verkoop van verbrandingsmotoren. Er worden geen nieuwe vergunningen meer afgegeven voor olie- en gasboringen en het openen van nieuwe kolenmijnen.",
+      "summary": "Stop verkoop verbrandingsmotoren 2030, geen nieuwe olie-gasvergunningen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbrandingsmotoren",
+        "olieboringen",
+        "gasboringen",
+        "kolenmijnen",
+        "vergunningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 32-33",
+      "originalQuote": "In 2030 zijn we volledig gestopt met de verkoop van verbrandingsmotoren. Er worden geen nieuwe vergunningen meer afgegeven voor olie- en gasboringen en het openen van nieuwe kolenmijnen."
+    },
+    {
+      "promiseCode": "VOLT-2023-006",
+      "text": "Reclame voor het gebruik van fossiele brandstoffen moet verboden worden. Alle uitzonderingen op de energiebelasting worden afgeschaft, behalve de duurzame stadsverwarmingsregeling.",
+      "summary": "Verbod fossiele reclame, afschaffen energiebelasting-uitzonderingen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reclame",
+        "fossiele brandstoffen",
+        "energiebelasting",
+        "uitzonderingen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 32-33",
+      "originalQuote": "Reclame voor het gebruik van fossiele brandstoffen moet verboden worden. We schaffen alle uitzonderingen op de energiebelasting af - zoals de verlaging van de belasting op aardgas en elektriciteit voor grootverbruikers. De enige uitzondering is de duurzame stadsverwarmingsregeling."
+    },
+    {
+      "promiseCode": "VOLT-2023-007",
+      "text": "Er wordt een klimaatinkomen ingevoerd waarbij een gedeelte van inkomsten van CO2-heffingen direct herverdeeld wordt over inwoners. Dit systeem werkt nivellerend: hogere inkomens betalen meer, lagere inkomens gaan er netto op vooruit.",
+      "summary": "Klimaatinkomen invoeren uit CO2-heffingen voor inwoners",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatinkomen",
+        "CO2-heffingen",
+        "herverdeling",
+        "inwoners",
+        "nivellering"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 32-33",
+      "originalQuote": "We werken toe naar een stelsel waarbij een gedeelte van de inkomsten van CO2-heffingen (o.a. belasting en ETS) direct herverdeeld wordt over de inwoners als 'klimaatinkomen'."
+    },
+    {
+      "promiseCode": "VOLT-2023-008",
+      "text": "In 2035 wordt Nederlandse elektriciteit zonder aardgas opgewekt. Het verbruik van aardgas in elektriciteitscentrales daalt elk jaar tussen nu en 2035. In de gebouwde omgeving wordt in 2035 alleen nog groen gas verbruikt.",
+      "summary": "Nederlandse elektriciteit zonder aardgas in 2035",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektriciteit",
+        "aardgas",
+        "elektriciteitscentrales",
+        "groen gas",
+        "gebouwde omgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 34-35",
+      "originalQuote": "In 2035 wordt Nederlandse elektriciteit zonder aardgas opgewekt. We zorgen dat het verbruik van aardgas in Nederlandse elektriciteitscentrales tussen nu en 2035 elk jaar afneemt. Voor de rest wordt in 2035 in de gebouwde omgeving alleen nog groen gas verbruikt."
+    },
+    {
+      "promiseCode": "VOLT-2023-009",
+      "text": "Er wordt een maximum gesteld aan de winstmarges in de energiesector om te voorkomen dat energieleveranciers extreem hoge winsten boeken voor het leveren van een basisvoorziening.",
+      "summary": "Maximum winstmarges energiesector invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstmarges",
+        "energiesector",
+        "energieleveranciers",
+        "maximum",
+        "basisvoorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 34-35",
+      "originalQuote": "we stellen een maximum aan de winstmarges in de energiesector."
+    },
+    {
+      "promiseCode": "VOLT-2023-010",
+      "text": "De bouw van meerdere nieuwe, kleine kerncentrales verspreid over het land wordt juridisch mogelijk gemaakt. Deze kunnen grote industrieterreinen continu voorzien van CO2-neutrale stroom. De plannen voor twee grote kerncentrales in Borssele worden gesteund.",
+      "summary": "Nieuwe kleine kerncentrales mogelijk maken, steun Borssele-centrales",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kerncentrales",
+        "industrieterreinen",
+        "CO2-neutraal",
+        "Borssele",
+        "juridisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 36-37",
+      "originalQuote": "We maken de bouw van meerdere nieuwe, kleine kerncentrales verspreid over het land juridisch mogelijk. Deze kunnen grote industrieterreinen continu voorzien van CO2-neutrale stroom. Daarnaast steunen we de plannen voor twee grote kerncentrales die nu in Borssele worden gebouwd."
+    },
+    {
+      "promiseCode": "VOLT-2023-011",
+      "text": "Er wordt een verplichting van zonnepanelen op alle oppervlaktedaken getrapt ingevoerd. Grote daken van distributiecentra, kantoren en overheidsgebouwen worden volgelegd met zonnepanelen in plaats van groene weilanden.",
+      "summary": "Verplichting zonnepanelen op alle oppervlaktedaken invoeren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zonnepanelen",
+        "oppervlaktedaken",
+        "verplichting",
+        "distributiecentra",
+        "overheidsgebouwen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 36-37",
+      "originalQuote": "We voeren getrapt een verplichting van zonnepanelen op alle oppervlaktedaken in. Zo worden de grote daken van distributiecentra, kantoren en overheidsgebouwen volgelegd met zonnepanelen, in plaats van de groene weilanden."
+    },
+    {
+      "promiseCode": "VOLT-2023-012",
+      "text": "De salderingsregeling wordt zo snel mogelijk afgebouwd. Teruggeleverde stroom wordt voor een eerlijke marktprijs teruggekocht door de elektriciteitsleverancier.",
+      "summary": "Salderingsregeling afbouwen, eerlijke prijs teruggeleverde stroom",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salderingsregeling",
+        "teruggeleverde stroom",
+        "marktprijs",
+        "elektriciteitsleverancier",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 36-37",
+      "originalQuote": "De salderingsregeling bouwen we zo snel mogelijk af. Teruggeleverde stroom wordt voor een eerlijke marktprijs teruggekocht door de elektriciteitsleverancier."
+    },
+    {
+      "promiseCode": "VOLT-2023-013",
+      "text": "Er komen landelijke normen voor overlast door laagfrequent geluid en slagschaduw bij windmolens om verduurzaming mogelijk te maken zonder onnodige overlast voor bewoners.",
+      "summary": "Landelijke normen laagfrequent geluid en slagschaduw windmolens",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landelijke normen",
+        "laagfrequent geluid",
+        "slagschaduw",
+        "windmolens",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 36-37",
+      "originalQuote": "Daarom willen we landelijke normen voor overlast door zogenaamd laagfrequent geluid (zoals bij windmolens) en slagschaduw."
+    },
+    {
+      "promiseCode": "VOLT-2023-014",
+      "text": "Volt wil een 'waterstofladder' opstellen waarin prioriteiten worden vastgelegd voor het gebruik van schaarse waterstof. De industrie en scheepvaart krijgen voorrang boven verwarming van huizen en gebruik voor treinen.",
+      "summary": "Waterstofladder opstellen met prioriteiten industrie en scheepvaart",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "waterstofladder",
+        "prioriteiten",
+        "industrie",
+        "scheepvaart",
+        "waterstof"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 38-39",
+      "originalQuote": "Volt wil hiervoor een 'waterstofladder' opstellen waarin de prioriteiten worden vastgelegd. Volt vindt dat de industrie en scheepvaart voorrang hebben op bijvoorbeeld het verwarmen van huizen en gebruik van waterstof voor treinen."
+    },
+    {
+      "promiseCode": "VOLT-2023-015",
+      "text": "Er wordt een verbod op megastallen ingevoerd. Investeringen in technologie die leiden tot verdere intensivering van de veehouderij worden voorkomen.",
+      "summary": "Verbod op megastallen, geen verdere intensivering veehouderij",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "megastallen",
+        "verbod",
+        "intensivering",
+        "veehouderij",
+        "technologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 40-41",
+      "originalQuote": "Volt wil een verbod op megastallen. Daarnaast wil Volt voorkomen dat investeringen in technologie leiden tot verdere intensivering van de veehouderij."
+    },
+    {
+      "promiseCode": "VOLT-2023-016",
+      "text": "Grote bedrijven worden verplicht een klimaatplan op te stellen dat toont hoe zij zo snel mogelijk klimaatneutraal worden. Dit plan is nodig voor verduurzamings- en innovatiesubsidies. Bij niet-naleving moeten subsidies worden terugbetaald.",
+      "summary": "Verplichting klimaatplan grote bedrijven voor subsidies",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatplan",
+        "grote bedrijven",
+        "subsidies",
+        "klimaatneutraal",
+        "terugbetaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 40-41",
+      "originalQuote": "Grote bedrijven worden verplicht om een klimaatplan op te stellen, waaruit blijkt hoe zij zo snel mogelijk klimaatneutraal willen worden. Dit klimaatplan is nodig om verduurzamings- en innovatiesubsidies aan te vragen. Wanneer het klimaatplan niet wordt nageleefd, moeten verstrekte subsidies worden terugbetaald."
+    },
+    {
+      "promiseCode": "VOLT-2023-017",
+      "text": "Het uitkeren van bonussen aan de top of winstuitkeringen aan aandeelhouders wordt verboden wanneer bedrijven subsidie van de overheid ontvangen.",
+      "summary": "Verbod bonussen en dividenden bij overheidssubsidies",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bonussen",
+        "winstuitkeringen",
+        "aandeelhouders",
+        "overheidssubsidie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 40-41",
+      "originalQuote": "Het uitkeren van bonussen aan de top of winstuitkeringen aan aandeelhouders wordt verboden wanneer bedrijven subsidie van de overheid ontvangen."
+    },
+    {
+      "promiseCode": "VOLT-2023-018",
+      "text": "Bedrijven in de financiële sector worden verplicht tot het indienen van een klimaatplan, waaruit blijkt wanneer en hoe zij hun bedrijfsvoering in lijn brengen met het Klimaatakkoord van Parijs.",
+      "summary": "Verplicht klimaatplan voor financiële sector conform Parijsakkoord",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatplan",
+        "financiële sector",
+        "Parijsakkoord",
+        "bedrijfsvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 100-101",
+      "originalQuote": "Bedrijven in de financiële sector worden verplicht tot het indienen van een klimaatplan, waaruit blijkt wanneer en hoe zij hun bedrijfsvoering in lijn brengen met het Klimaatakkoord van Parijs."
+    },
+    {
+      "promiseCode": "VOLT-2023-019",
+      "text": "Het Nationaal Groeifonds schaffen we af en de vrijgekomen gelden komen ten goede aan Invest-NL en de Regionale Ontwikkelingsmaatschappijen (ROM's).",
+      "summary": "Afschaffing Nationaal Groeifonds, middelen naar Invest-NL en ROM's",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Nationaal Groeifonds",
+        "Invest-NL",
+        "ROM",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 100-101",
+      "originalQuote": "Het Nationaal Groeifonds schaffen we af en de vrijgekomen gelden komen ten goede aan Invest-NL en de Regionale Ontwikkelingsmaatschappijen (ROM's)."
+    },
+    {
+      "promiseCode": "VOLT-2023-020",
+      "text": "Er komt één centraal loket (een one-stop-shop) voor innovatieve en sociaal-maatschappelijke ondernemers waar zij terecht kunnen met hun vragen over bijvoorbeeld subsidieaanvragen.",
+      "summary": "Centraal loket voor ondernemers bij subsidieaanvragen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "centraal loket",
+        "ondernemers",
+        "subsidieaanvragen",
+        "one-stop-shop"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 100-101",
+      "originalQuote": "Er komt één centraal loket (een one-stop-shop) voor innovatieve en sociaal-maatschappelijke ondernemers waar zij terecht kunnen met hun vragen over bijvoorbeeld subsidieaanvragen."
+    },
+    {
+      "promiseCode": "VOLT-2023-021",
+      "text": "Er komt een verbod voor producenten om ongebruikte producten, zoals kleding en elektronica, te vernietigen of te dumpen.",
+      "summary": "Verbod op vernietigen ongebruikte producten door producenten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verbod",
+        "producenten",
+        "ongebruikte producten",
+        "vernietigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 100-101",
+      "originalQuote": "Er komt een verbod voor producenten om ongebruikte producten, zoals kleding en elektronica, te vernietigen of te dumpen."
+    },
+    {
+      "promiseCode": "VOLT-2023-022",
+      "text": "Er moet een Deltaplan Vermindering Administratieve Lastendruk voor ondernemers komen om de hoeveelheid regelingen terug te dringen.",
+      "summary": "Deltaplan tegen administratieve lasten ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Deltaplan",
+        "administratieve lasten",
+        "ondernemers",
+        "regelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 104-105",
+      "originalQuote": "Er moet een Deltaplan Vermindering Administratieve Lastendruk voor ondernemers komen. Ondernemers komen om in de hoeveelheid regelingen."
+    },
+    {
+      "promiseCode": "VOLT-2023-023",
+      "text": "We zetten AI-trainingscentra op om ondernemers te helpen AI op een ethisch verantwoorde en innovatieve manier in te zetten.",
+      "summary": "Opzetten AI-trainingscentra voor ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "AI-trainingscentra",
+        "ondernemers",
+        "ethisch",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 104-105",
+      "originalQuote": "We zetten AI-trainingscentra op om ondernemers te helpen AI op een ethisch verantwoorde en innovatieve manier in te zetten."
+    },
+    {
+      "promiseCode": "VOLT-2023-024",
+      "text": "Projecten met een terugverdientijd van minder dan zeven jaar komen niet meer in aanmerking voor overheidssubsidie.",
+      "summary": "Subsidie-uitsluitingscriterium van 7 jaar terugverdientijd",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidie",
+        "terugverdientijd",
+        "zeven jaar",
+        "uitsluitingscriterium"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 104-105",
+      "originalQuote": "Projecten met een terugverdientijd van minder dan zeven jaar komen niet meer in aanmerking voor overheidssubsidie."
+    },
+    {
+      "promiseCode": "VOLT-2023-025",
+      "text": "Strategische bedrijven uit de chipproductieketens moeten voor ten minste 51% in Europese handen zijn.",
+      "summary": "Minimaal 51% Europees eigendom voor strategische chipbedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "chipproductie",
+        "Europees eigendom",
+        "51 procent",
+        "strategische bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 102-103",
+      "originalQuote": "strategische bedrijven uit de chipproductieketens voor ten minste 51% in Europese handen zijn"
+    },
+    {
+      "promiseCode": "VOLT-2023-026",
+      "text": "Elke zzp'er draagt bij aan een goed sociaal zekerheidsstelsel, zodat zij verzekerd zijn tegen ziekte en ongevallen door verplichte belastingafdracht.",
+      "summary": "Verplichte sociale zekerheid voor alle zzp'ers",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zzp",
+        "sociale zekerheid",
+        "verplicht",
+        "ziekteverzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 106-107",
+      "originalQuote": "Elke zzp'er kan gebruikmaken van de sociale voorzieningen en betaalt hiervoor, net als werknemers in loondienst, belastingen. Door dit verplicht te stellen kunnen schijnconstructies vermeden worden."
+    },
+    {
+      "promiseCode": "VOLT-2023-027",
+      "text": "Asielzoekers krijgen vanaf dag één een burgerservicenummer (BSN) en de mogelijkheid om te werken, en de Tewerkstellingsvergunning wordt afgeschaft.",
+      "summary": "BSN en werkrecht voor asielzoekers vanaf dag één",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "BSN",
+        "werkrecht",
+        "Tewerkstellingsvergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 108-109",
+      "originalQuote": "krijgen asielzoekers vanaf dag één een burgerservicenummer (BSN) en de mogelijkheid om te werken, en wordt de Tewerkstellingsvergunning afgeschaft"
+    },
+    {
+      "promiseCode": "VOLT-2023-028",
+      "text": "Er wordt een basispensioen geïntroduceerd voor alle werkenden naast de AOW, met een minimale premieafdracht.",
+      "summary": "Invoering basispensioen met minimumpremie voor alle werkenden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basispensioen",
+        "werkenden",
+        "AOW",
+        "premieafdracht"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 110-111",
+      "originalQuote": "We introduceren een basispensioen voor alle werkenden naast de AOW, met een minimale premieafdracht."
+    },
+    {
+      "promiseCode": "VOLT-2023-029",
+      "text": "Het geld dat wordt uitgegeven aan externe inhuur wordt verminderd en ingezet voor het opbouwen van interne deskundigheid en expertise binnen de overheid.",
+      "summary": "Vermindering externe inhuur ten gunste van interne expertise",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "externe inhuur",
+        "interne expertise",
+        "overheid",
+        "consultants"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 112-113",
+      "originalQuote": "Daarom moet het geld dat wordt uitgegeven aan externe inhuur worden verminderd. Het geld dat we daarmee besparen, zetten we in voor het opbouwen en behouden van interne deskundigheid en expertise."
+    },
+    {
+      "promiseCode": "VOLT-2023-030",
+      "text": "Mediawijsheid wordt een verplicht onderdeel van het primair en voortgezet onderwijs, naar voorbeeld van Zweden. Leerlingen krijgen medialessen waarin ze leren over nepnieuws en veilig omgaan met sociale media.",
+      "summary": "Mediawijsheid verplicht in primair en voortgezet onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mediawijsheid",
+        "onderwijs",
+        "nepnieuws",
+        "sociale media"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 126-127",
+      "originalQuote": "Net als in Zweden, moet 'mediawijsheid' een verplicht onderdeel worden van het primair en voortgezet onderwijs."
+    },
+    {
+      "promiseCode": "VOLT-2023-031",
+      "text": "Er worden ten minste 250 noodvisa afgegeven aan buitenlandse journalisten in levensbedreigende situaties. Nederland roept als voorzitter van de Media Freedom Coalition andere landen op een in verhouding even groot aantal noodvisa af te geven.",
+      "summary": "250 noodvisa voor bedreigde buitenlandse journalisten",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noodvisa",
+        "journalisten",
+        "Media Freedom Coalition"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 127",
+      "originalQuote": "Er worden ten minste 250 noodvisa afgegeven aan buitenlandse journalisten in levensbedreigende situaties."
+    },
+    {
+      "promiseCode": "VOLT-2023-032",
+      "text": "Er moet een sterk en toegankelijk Europees publieke-omroepplatform komen, waar 24 uur per dag verslag wordt gedaan van de belangrijkste ontwikkelingen en actualiteiten in de Europese lidstaten.",
+      "summary": "24-uurs Europees publieke omroepplatform",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Europees omroepplatform",
+        "actualiteiten",
+        "lidstaten"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 128",
+      "originalQuote": "Er moet een sterk en toegankelijk Europees publieke-omroepplatform komen, waar 24 uur per dag verslag wordt gedaan van de belangrijkste ontwikkelingen en actualiteiten in de Europese lidstaten."
+    },
+    {
+      "promiseCode": "VOLT-2023-033",
+      "text": "Uitbreiding van zendtijd voor politieke partijen: Nederlandse partijen met een zetel in het Europese parlement krijgen recht op landelijke zendtijd. Regionale en lokale partijen krijgen recht op zendtijd bij regionale en lokale publieke omroepen.",
+      "summary": "Uitbreiding zendtijd voor EU-partijen en regionale partijen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zendtijd",
+        "politieke partijen",
+        "Europees parlement",
+        "regionale omroepen"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 128",
+      "originalQuote": "Volt wil een uitbreiding van de zendtijd voor politieke partijen. Nu hebben alleen partijen met een zetel in het parlement recht op landelijke zendtijd. Volt wil dit recht ook geven aan Nederlandse partijen met een zetel in het Europese parlement."
+    },
+    {
+      "promiseCode": "VOLT-2023-034",
+      "text": "De Wet openbare manifestaties moet in lijn worden gebracht met het Europees Verdrag voor de Rechten van de Mens. Medewerkers van gemeente en politie krijgen aanvullende training over wettelijke kaders van het demonstratierecht.",
+      "summary": "Aanpassing demonstratiewet en training voor ambtenaren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "demonstratierecht",
+        "EVRM",
+        "training",
+        "gemeente",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 129",
+      "originalQuote": "De Wet openbare manifestaties moet in lijn worden gebracht met het Europees Verdrag voor de Rechten van de Mens."
+    },
+    {
+      "promiseCode": "VOLT-2023-035",
+      "text": "Naar voorbeeld van Italiaanse maffiawetgeving wordt ondermijnende criminaliteit aangepakt door geldstromen te stoppen. Wet- en regelgeving met uitgebreide antiwitwasbevoegdheden, meer mogelijkheden voor inbeslagname en duidelijke afspraken over gegevensdeling tussen instanties.",
+      "summary": "Aanpak ondermijnende criminaliteit via geldstromen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondermijnende criminaliteit",
+        "geldstromen",
+        "antiwitwas",
+        "inbeslagname"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 130",
+      "originalQuote": "We pakken, naar voorbeeld van de Italiaanse maffiawetgeving, ondermijnende criminaliteit aan in de kern: de geldstromen stoppen."
+    },
+    {
+      "promiseCode": "VOLT-2023-036",
+      "text": "Herziening van het huidige drugsbeleid met gezondheid en veiligheid centraal. Onderzoek naar legalisatie en regulering van mdma en lsd. Uitrollen onderzoek zoals de 'xtc winkel' in Utrecht en gecontroleerde decriminalisering naar Portugees voorbeeld.",
+      "summary": "Herziening drugsbeleid en onderzoek legalisatie mdma/lsd",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drugsbeleid",
+        "legalisatie",
+        "mdma",
+        "lsd",
+        "decriminalisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 130",
+      "originalQuote": "Volt wil daarom nader onderzoeken of en, zo ja, hoe we bepaalde drugs, zoals mdma (xtc) en lsd, kunnen legaliseren en reguleren."
+    },
+    {
+      "promiseCode": "VOLT-2023-037",
+      "text": "Een nationale definitie van femicide wordt ingevoerd zodat het probleem beter kan worden gemonitor en bestreden. Geweld in de relationele sfeer wordt niet langer als privékwestie behandeld.",
+      "summary": "Nationale definitie femicide voor betere monitoring",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "femicide",
+        "definitie",
+        "monitoring",
+        "relationeel geweld"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 130",
+      "originalQuote": "We streven naar een nationale definitie van femicide, zodat we het probleem beter kunnen monitoren en bestrijden."
+    },
+    {
+      "promiseCode": "VOLT-2023-038",
+      "text": "Er komt een verbod op etnisch profileren. Etniciteit en nationaliteit als indicator in geautomatiseerde risicoprofielen en selectiebeslissingen mogen geen onderdeel zijn van wetshandhaving.",
+      "summary": "Verbod op etnisch profileren in wetshandhaving",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "etnisch profileren",
+        "risicoprofielen",
+        "wetshandhaving"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 130",
+      "originalQuote": "Er komt een verbod op etnisch profileren. Etniciteit en nationaliteit als indicator in geautomatiseerde risicoprofielen en selectiebeslissingen mogen geen onderdeel zijn van onze wetshandhaving."
+    },
+    {
+      "promiseCode": "VOLT-2023-039",
+      "text": "Naar Belgisch voorbeeld wordt het recht op ongevraagd ethisch hacken wettelijk vastgelegd. Ethisch hackers mogen gevonden problemen na afgesproken tijd breed bekend maken in overleg met het NCSC.",
+      "summary": "Wettelijk recht op ethisch hacken naar Belgisch voorbeeld",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ethisch hacken",
+        "wettelijk recht",
+        "NCSC",
+        "cybersecurity"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 131",
+      "originalQuote": "We leggen daarom naar Belgisch voorbeeld het recht op ongevraagd ethisch hacken wettelijk vast."
+    },
+    {
+      "promiseCode": "VOLT-2023-040",
+      "text": "Nederland stemt niet in met de invoering van de Europese Chat control-wet. Nederland zet zich in de EU in voor een grondige en feitelijke evaluatie van het Europese veiligheidsbeleid in de afgelopen twintig jaar.",
+      "summary": "Tegenstemmen Chat control en evaluatie EU-veiligheidsbeleid",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Chat control",
+        "veiligheidsbeleid",
+        "EU",
+        "evaluatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 131",
+      "originalQuote": "Nederland zal niet instemmen met de invoering van de Europese Chat control-wet."
+    },
+    {
+      "promiseCode": "VOLT-2023-041",
+      "text": "Een centrale aanpak wordt geïmplementeerd die ervoor zorgt dat de overheid en kritieke infrastructuur uiterlijk in 2028 'kwantumbestendig' is tegen kwantumcomputers.",
+      "summary": "Overheid kwantumbestendig maken voor 2028",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kwantumbestendig",
+        "infrastructuur",
+        "kwantumcomputers",
+        "versleuteling"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 131",
+      "originalQuote": "We implementeren een centrale aanpak die ervoor zorgt dat de overheid (en met name de kritieke infrastructuur) uiterlijk in 2028 'kwantumbestendig' is."
+    },
+    {
+      "promiseCode": "VOLT-2023-042",
+      "text": "De Wet op de inlichtingen- en veiligheidsdiensten (WIV-2017) wordt zo snel mogelijk herzien. Bij de herziening moet toezicht voor, tijdens en na handelingen van inlichtingendiensten centraal staan.",
+      "summary": "Herziening WIV-2017 met focus op toezicht",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "WIV",
+        "inlichtingendiensten",
+        "toezicht",
+        "herziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma Volt 2023, p. 131-132",
+      "originalQuote": "De huidige Wet op de inlichtingen- en veiligheidsdiensten (de WIV-2017) wordt zo snel mogelijk herzien."
+    }
+  ]
+}

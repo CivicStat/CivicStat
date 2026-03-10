@@ -1,0 +1,1379 @@
+{
+  "party": "PvdD",
+  "partySlug": "pvdd",
+  "city": "amsterdam",
+  "parliamentSlug": "amsterdam",
+  "program": "Verbeter de wereld, begin in Amsterdam",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 91,
+  "promises": [
+    {
+      "promiseCode": "PvdD-AMS-2022-001",
+      "text": "De gemeente stimuleert stadslandbouw voor het produceren van biologisch en plantaardig voedsel en behoudt de Lutkemeerpolder.",
+      "summary": "Gemeente stimuleert stadslandbouw, Lutkemeerpolder behouden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadslandbouw",
+        "biologisch",
+        "plantaardig",
+        "voedsel",
+        "lutkemeerpolder"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 10",
+      "originalQuote": "De gemeente stimuleert stadslandbouw voor het produceren van biologisch en plantaardig voedsel. Behoud de Lutkemeerpolder!"
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-002",
+      "text": "Amsterdam beschermt de natuur- en rustgebieden, parken, volkstuinen en de Amsterdamse scheggen.",
+      "summary": "Amsterdam beschermt natuur- en rustgebieden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "natuur",
+        "rustgebieden",
+        "parken",
+        "volkstuinen",
+        "scheggen",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 1",
+      "originalQuote": "Parken, volkstuinen en de Amsterdamse scheggen zijn van grote waarde voor mens en dier. Amsterdam beschermt de natuur- en rustgebieden."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-003",
+      "text": "Er gaat meer geld naar de opvang van dieren en leefgebieden worden beschermd en uitgebreid.",
+      "summary": "Meer geld voor dierenopvang en leefgebieden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dierenopvang",
+        "leefgebieden",
+        "bescherming",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 2",
+      "originalQuote": "Dieren tellen mee! Er gaat meer geld naar de opvang van dieren en leefgebieden worden beschermd en uitgebreid."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-004",
+      "text": "Amsterdam zet vol in op woningisolatie en zonne-energie, zonder biomassacentrales en zonder windturbines in het groen of bij woningen.",
+      "summary": "Woningisolatie en zonne-energie, geen biomassa/windmolens bij groen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningisolatie",
+        "zonne-energie",
+        "biomassacentrales",
+        "windturbines"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 3",
+      "originalQuote": "Amsterdam zet vol in op woningisolatie en zonne-energie. Zonder biomassacentrales en zonder windturbines in het groen of bij woningen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-005",
+      "text": "De gemeente doet er alles aan om wonen prettig en betaalbaar te maken, zonder plek voor huisjesmelkers, speculanten en nieuwe hotels.",
+      "summary": "Betaalbaar wonen, geen huisjesmelkers/speculanten/nieuwe hotels",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wonen",
+        "betaalbaar",
+        "huisjesmelkers",
+        "speculanten",
+        "hotels"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 4",
+      "originalQuote": "De gemeente doet er alles aan om wonen prettig en betaalbaar te maken. Geen plek voor huisjesmelkers, speculanten en nieuwe hotels."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-006",
+      "text": "De gemeente vergroent straten, tuinen en daken en plant meer bomen.",
+      "summary": "Vergroening straten/tuinen/daken, meer bomen planten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergroening",
+        "straten",
+        "tuinen",
+        "daken",
+        "bomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 5",
+      "originalQuote": "Kap met kappen en start met planten! De gemeente vergroent straten, tuinen en daken en plant meer bomen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-007",
+      "text": "Amsterdam wordt een schone stad met goede lucht- en waterkwaliteit en geen vuil op straat.",
+      "summary": "Schone stad: goede lucht/water, geen vuil op straat",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schone stad",
+        "luchtkwaliteit",
+        "waterkwaliteit",
+        "vuil"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 6",
+      "originalQuote": "Amsterdam wordt een schone stad. Goede lucht- en waterkwaliteit en geen vuil op straat!"
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-008",
+      "text": "Voetgangers en fietsers staan op 1, de auto is te gast in Amsterdam, openbaar vervoer krijgt prioriteit.",
+      "summary": "Voetgangers/fietsers prioriteit, auto te gast, OV voorrang",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "voetgangers",
+        "fietsers",
+        "prioriteit",
+        "auto",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 7",
+      "originalQuote": "Duurzame mobiliteit: voetgangers en fietsers staan op 1 en de auto is te gast in Amsterdam. Openbaar vervoer krijgt prioriteit."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-009",
+      "text": "Amsterdam is een inclusieve stad waar iedereen zichzelf kan zijn, discriminatie en racisme worden hard aangepakt.",
+      "summary": "Inclusieve stad, harde aanpak discriminatie en racisme",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "inclusief",
+        "discriminatie",
+        "racisme",
+        "aanpak"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 8",
+      "originalQuote": "Amsterdam is een inclusieve stad: toegankelijk en iedereen kan zichzelf zijn. Discriminatie en racisme worden hard aangepakt."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-010",
+      "text": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Amsterdam ten minste 65% minder energie dan in 1990.",
+      "summary": "65% minder energieverbruik in 2030 ten opzichte van 1990",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "energieverbruik",
+        "besparing",
+        "huishoudens",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 9",
+      "originalQuote": "In 2030 gebruiken huishoudens, bedrijven en organisaties in Amsterdam ten minste 65% minder energie dan in 1990."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-011",
+      "text": "Uiterlijk in 2040 is Amsterdam klimaatneutraal en zet het zich in op herstel van biodiversiteit.",
+      "summary": "Amsterdam klimaatneutraal in 2040, biodiversiteitsherstel",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "biodiversiteit",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 8",
+      "originalQuote": "Uiterlijk in 2040 is Amsterdam klimaatneutraal en zet het zich in op herstel van biodiversiteit en behouden, beschermen en uitbreiden van robuuste en verbonden natuur."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-012",
+      "text": "Er komt een wethouder voor Klimaat & Biodiversiteit.",
+      "summary": "Nieuwe wethouder Klimaat & Biodiversiteit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "klimaat",
+        "biodiversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 8",
+      "originalQuote": "Er komt een wethouder voor Klimaat & Biodiversiteit."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-013",
+      "text": "Gemeentelijke gebouwen zijn uiterlijk 2030 klimaatneutraal, natuurinclusief en fossielvrij.",
+      "summary": "Gemeentegebouwen klimaatneutraal/fossielvrij in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeentegebouwen",
+        "klimaatneutraal",
+        "fossielvrij",
+        "natuurinclusief"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 11",
+      "originalQuote": "Gemeentelijke gebouwen zijn uiterlijk 2030 klimaatneutraal, natuurinclusief en fossielvrij."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-014",
+      "text": "De gemeente bevordert weidegang, verplicht beschutting in weilanden en ziet erop toe dat gehouden dieren hun natuurlijke gedrag kunnen vertonen.",
+      "summary": "Bevordering weidegang en beschutting voor gehouden dieren",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "weidegang",
+        "beschutting",
+        "weilanden",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 14-15",
+      "originalQuote": "De gemeente bevordert weidegang, verplicht beschutting in weilanden en ziet erop toe dat gehouden dieren hun natuurlijke gedrag kunnen vertonen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-015",
+      "text": "Amsterdam verbiedt de jacht op haar gronden en ontmoedigt het op plaatsen waar zij geen eigenaar van is. Regels worden streng gehandhaafd om illegale jacht en stroperij aan te pakken.",
+      "summary": "Jachtverbod op gemeentegronden met strikte handhaving",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jacht",
+        "verbod",
+        "handhaving",
+        "gronden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 14-15",
+      "originalQuote": "Amsterdam verbiedt de jacht op haar gronden en ontmoedigt het op plaatsen waar zij geen eigenaar van is. Om illegale jacht en stroperij aan te pakken worden de regels streng gehandhaafd."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-016",
+      "text": "Hengelen wordt niet langer toegestaan in Amsterdam.",
+      "summary": "Verbod op hengelen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hengelen",
+        "verbod",
+        "vissen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 14-15",
+      "originalQuote": "Hengelen wordt niet langer toegestaan."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-017",
+      "text": "Er komt een wethouder voor Dierenrechten & Dierenwelzijn.",
+      "summary": "Nieuwe wethouder voor dierenrechten en dierenwelzijn",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "dierenrechten",
+        "dierenwelzijn",
+        "portefeuille"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 15-16",
+      "originalQuote": "Er komt een wethouder voor Dierenrechten & Dierenwelzijn."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-018",
+      "text": "Amsterdam geeft geen vergunningen af voor de vestiging of uitbreiding van organisaties die gebruik maken van proefdieren.",
+      "summary": "Vergunningsverbod voor proefdierorganisaties",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningen",
+        "proefdieren",
+        "vestiging",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 15-16",
+      "originalQuote": "Amsterdam geeft geen vergunningen af voor de vestiging of uitbreiding van organisaties die gebruik maken van proefdieren."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-019",
+      "text": "Amsterdam kiest in de eigen organisatie voor plantaardige catering en dierproefvrije producten.",
+      "summary": "Plantaardige catering en dierproefvrije producten voor gemeente",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "catering",
+        "plantaardig",
+        "dierproefvrij",
+        "producten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 15-16",
+      "originalQuote": "Amsterdam geeft het goede voorbeeld door in de eigen organisatie te kiezen voor plantaardige catering en dierproefvrije producten."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-020",
+      "text": "Amsterdam staat vestiging en uitbreiding van bestaande veehouderijen en slachterijen niet toe.",
+      "summary": "Verbod op vestiging en uitbreiding veehouderijen en slachterijen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "veehouderijen",
+        "slachterijen",
+        "vestiging",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 15-16",
+      "originalQuote": "Amsterdam staat vestiging en uitbreiding van bestaande veehouderijen en slachterijen niet toe en faciliteert op geen enkele wijze de instandhouding van deze industrie."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-021",
+      "text": "Mestverwerkingsinstallaties zijn niet langer toegestaan in Amsterdam.",
+      "summary": "Verbod op mestverwerkingsinstallaties",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "mestverwerkingsinstallaties",
+        "verbod",
+        "installaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 15-16",
+      "originalQuote": "Mestverwerkingsinstallaties zijn niet langer toegestaan."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-022",
+      "text": "Amsterdam faciliteert, subsidieert of organiseert geen evenementen met dieren.",
+      "summary": "Geen faciliteiten, subsidies of organisatie van evenementen met dieren",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "evenementen",
+        "dieren",
+        "subsidies",
+        "faciliteren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 17-18",
+      "originalQuote": "Amsterdam faciliteert, subsidieert of organiseert geen evenementen met dieren."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-023",
+      "text": "Op markten worden geen levende dieren verkocht.",
+      "summary": "Verbod op verkoop levende dieren op markten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "markten",
+        "levende",
+        "dieren",
+        "verkoop"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 17-18",
+      "originalQuote": "Op markten worden geen levende dieren verkocht."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-024",
+      "text": "Artis wordt omgevormd tot een tijdelijke opvang voor dieren in nood, in beslag genomen dieren, of dieren die niet naar hun oorspronkelijke leefgebied terug kunnen.",
+      "summary": "Omvorming Artis tot tijdelijke dierenopvang",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artis",
+        "omvorming",
+        "dierenopvang",
+        "tijdelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 17-18",
+      "originalQuote": "Artis wordt omgevormd tot een tijdelijke opvang voor dieren in nood, in beslag genomen dieren, of dieren die niet naar hun oorspronkelijke leefgebied terug kunnen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-025",
+      "text": "Amsterdam maakt de Waterleidingduinen jachtvrij en stopt per direct met het afschieten van damherten.",
+      "summary": "Waterleidingduinen jachtvrij, stop met afschieten damherten",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "waterleidingduinen",
+        "jachtvrij",
+        "damherten",
+        "afschieten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 17-18",
+      "originalQuote": "Amsterdam maakt de Waterleidingduinen jachtvrij, er worden per direct geen damherten meer afgeschoten."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-026",
+      "text": "We scherpen criteria voor kapvergunningen flink aan met herplantplicht voor elke gekapte boom. De totale stam- en kroonomvang bepalen het aantal compensatiebomen.",
+      "summary": "Strengere kapcriteria met herplantplicht per gekapte boom",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kapvergunningen",
+        "herplantplicht",
+        "compensatie",
+        "bomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 20-21",
+      "originalQuote": "Kappen met kappen! We scherpen criteria voor kapvergunningen flink aan. Er komt een herplantplicht voor elke gekapte boom waarbij de natuur- en klimaatwaarde van de gekapte boom als uitgangspunt wordt genomen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-027",
+      "text": "Amsterdam onderzoekt jaarlijks de aanwezigheid en spreiding van flora en fauna om beleid hierop af te stemmen.",
+      "summary": "Jaarlijks onderzoek naar flora en fauna voor beleidsafstemming",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoek",
+        "flora",
+        "fauna",
+        "monitoring"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 20-21",
+      "originalQuote": "Meten is weten. Daarom onderzoekt Amsterdam jaarlijks de aanwezigheid en spreiding van flora en fauna. Het beleid, van groenbeleid tot bouwvergunningen, wordt hierop afgestemd."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-028",
+      "text": "Het groenonderhoud wordt weer terug in eigen beheer genomen in een gemeentelijke dienst.",
+      "summary": "Groenonderhoud terug naar gemeentelijke dienst",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groenonderhoud",
+        "eigen",
+        "beheer",
+        "gemeentelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 22-23",
+      "originalQuote": "Het groenonderhoud wordt weer terug in eigen beheer genomen in een gemeentelijke dienst."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-029",
+      "text": "Uiterlijk in 2030 is Amsterdam afvalvrij: alle grondstoffen worden hergebruikt. Het gebruik van nieuwe grondstoffen is minimaal gehalveerd.",
+      "summary": "Amsterdam wordt in 2030 afvalvrij, alle grondstoffen hergebruikt, nieuwe grondstoffen gehalveerd",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalvrij",
+        "grondstoffen",
+        "hergebruik",
+        "kringloopeconomie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 27",
+      "originalQuote": "Uiterlijk in 2030 is Amsterdam afvalvrij: alle grondstoffen worden hergebruikt. Het gebruik van nieuwe grondstoffen is minimaal gehalveerd."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-030",
+      "text": "De gemeente geeft het goede voorbeeld en koopt 100% circulair in.",
+      "summary": "Gemeente koopt 100% circulair in",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulair",
+        "inkoop",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 27",
+      "originalQuote": "De gemeente geeft het goede voorbeeld en koopt 100% circulair in."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-031",
+      "text": "Er komt een verbod op het oplaten van (wens)ballonnen en het verspreiden van confetti en serpentine in de buitenlucht.",
+      "summary": "Verbod op oplaten ballonnen en verspreiden confetti/serpentine",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "ballonnen",
+        "confetti",
+        "serpentine"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 28",
+      "originalQuote": "Er komt een verbod op het oplaten van (wens)ballonnen en het verspreiden van confetti en serpentine in de buitenlucht."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-032",
+      "text": "Het vergunningenstelsel voor de passagiersvaart over het water wordt afgeschaft en wordt ingezet op nieuwe regelgeving.",
+      "summary": "Afschaffing vergunningenstelsel passagiersvaart, nieuwe regelgeving",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningenstelsel",
+        "passagiersvaart",
+        "water",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 28",
+      "originalQuote": "Het vergunningenstelsel voor de passagiersvaart over het water is mislukt en lost geen problemen op. Daarom wordt het vergunningenstelsel afgeschaft en wordt ingezet op nieuwe regelgeving."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-033",
+      "text": "De haven stopt met de doorvoer van milieuvervuilende goederen zoals fossiele brandstoffen en soja voor veevoer.",
+      "summary": "Haven stopt doorvoer fossiele brandstoffen en veevoersoja",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "haven",
+        "doorvoer",
+        "fossiele brandstoffen",
+        "soja",
+        "veevoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 29",
+      "originalQuote": "De haven gaat sterker inzetten op een circulaire economie, en stopt met de doorvoer van milieuvervuilende goederen zoals fossiele brandstoffen en soja voor veevoer."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-034",
+      "text": "Het evenementenbeleid wordt ondergebracht bij een wethouder in plaats van onder de burgemeester.",
+      "summary": "Evenementenbeleid van burgemeester naar wethouder",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "evenementenbeleid",
+        "wethouder",
+        "burgemeester",
+        "democratisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 30",
+      "originalQuote": "Het evenementenbeleid wordt ondergebracht bij een wethouder in plaats van onder de burgemeester."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-035",
+      "text": "Festivals worden niet gehouden in natuurgebieden en parken. Er komen strengere regels voor geluidsoverlast en lichtvervuiling.",
+      "summary": "Geen festivals in natuur/parken, strengere regels geluid en licht",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "festivals",
+        "natuurgebieden",
+        "parken",
+        "geluidsoverlast",
+        "lichtvervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 30",
+      "originalQuote": "Festivals worden niet gehouden in natuurgebieden en parken. Er komen strengere regels voor geluidsoverlast en lichtvervuiling."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-036",
+      "text": "Amsterdam stopt met investeringen in citymarketing en regiopromotie. Inkomsten uit toeristenbelasting worden gebruikt voor bezoekersspreiding, deelfietsen, openbaar vervoer en lokaal groen.",
+      "summary": "Stop citymarketing, toeristenbelasting voor mobiliteit en groen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "citymarketing",
+        "regiopromotie",
+        "toeristenbelasting",
+        "deelfietsen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 30",
+      "originalQuote": "Amsterdam stopt met investeringen hierin. Ook keert Amsterdam zich tegen de wildgroei van hotels en van vakantieverhuur van woningen. Inkomsten uit de toeristenbelasting worden gebruikt om bezoekers te spreiden, te investeren in deelfietsen en het openbaar vervoer en het lokale groen te versterken."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-037",
+      "text": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd tenzij deze minstens één-op-één worden vervangen.",
+      "summary": "Stop verkoop/liberalisering sociale huur zonder 1-op-1 vervanging",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huurwoningen",
+        "verkoop",
+        "liberalisering",
+        "vervanging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 32",
+      "originalQuote": "Er worden geen sociale huurwoningen meer verkocht of geliberaliseerd tenzij deze minstens één-op-één worden vervangen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-038",
+      "text": "De gemeente maakt harde prestatieafspraken met woningcorporaties om uiterlijk in 2030 energieneutraal te zijn.",
+      "summary": "Prestatieafspraken corporaties voor energieneutraliteit in 2030",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "prestatieafspraken",
+        "woningcorporaties",
+        "energieneutraal",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 33",
+      "originalQuote": "De gemeente maakt harde prestatieafspraken met woningcorporaties: om uiterlijk in 2030 energieneutraal te zijn en voor het bouwen van voldoende betaalbare en goede huizen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-039",
+      "text": "De gemeente investeert fors in snelle, veilige en groene wandel- en fietspaden. Vrijliggende fietspaden en ongelijkvloerse kruisingen bij drukke wegen hebben de voorkeur, maar niet ten koste van bomen en groen. Fietsers hebben altijd voorrang op rotondes en kruisingen.",
+      "summary": "Forse investeringen in veilige fietsinfrastructuur met voorrang voor fietsers",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fietspaden",
+        "investering",
+        "voorrang",
+        "kruisingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "De gemeente investeert fors in snelle, veilige en groene wandel- en fietspaden. Vrijliggende fietspaden en ongelijkvloerse kruisingen bij drukke wegen hebben de voorkeur, maar niet ten koste van bomen en groen. Fietsers hebben altijd voorrang op rotondes en kruisingen met autowegen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-040",
+      "text": "De binnenstad van Amsterdam wordt autoluw.",
+      "summary": "Binnenstad wordt autoluw gemaakt",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "binnenstad",
+        "autoluw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "De binnenstad van Amsterdam wordt autoluw."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-041",
+      "text": "Scooters, brom- en snorfietsen zijn niet langer welkom op fietspaden binnen de bebouwde kom. Scooters/brommers met verbrandingsmotor worden uit het stadscentrum geweerd door de invoering van milieuzones.",
+      "summary": "Scooters geweerd van fietspaden en uit stadscentrum via milieuzones",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scooters",
+        "fietspaden",
+        "milieuzones",
+        "stadscentrum"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "Scooters, brom- en snorfietsen zijn niet langer welkom op fietspaden binnen de bebouwde kom. Scooters/brommers met verbrandingsmotor worden uit het stadscentrum geweerd, bijvoorbeeld door de invoering van milieuzones."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-042",
+      "text": "Voor gemotoriseerd verkeer binnen de bebouwde kom geldt in principe een maximumsnelheid van 30 km/h. De inrichting van de weg wordt waar mogelijk aangepast.",
+      "summary": "Maximumsnelheid 30 km/h binnen bebouwde kom",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "30 km/h",
+        "weginrichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "In principe geldt er voor gemotoriseerd verkeer binnen de bebouwde kom een maximumsnelheid van 30 km/h. De inrichting van de weg wordt waar mogelijk aangepast."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-043",
+      "text": "Verkeerslichten worden zo afgesteld dat voetgangers, fietsers en het openbaar vervoer vaker groen licht krijgen dan auto's. Verkeerslichten worden voorzien van een timer en een regensensor.",
+      "summary": "Verkeerslichten krijgen timer en regensensor, prioriteit voor fietsers en OV",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verkeerslichten",
+        "timer",
+        "regensensor",
+        "prioriteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "Verkeerslichten worden zo afgesteld dat voetgangers, fietsers en het openbaar vervoer vaker groen licht krijgen dan auto's. Verkeerslichten worden voorzien van een timer en een regensensor."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-044",
+      "text": "Er komt een nieuw verkeersveiligheidsplan om het aantal verkeersongevallen en het aantal slachtoffers onder mensen en dieren terug te dringen.",
+      "summary": "Nieuw verkeersveiligheidsplan tegen verkeersongevallen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verkeersveiligheidsplan",
+        "verkeersongevallen",
+        "slachtoffers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "Er komt een nieuw verkeersveiligheidsplan om het aantal verkeersongevallen en het aantal slachtoffers onder mensen en dieren terug te dringen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-045",
+      "text": "De Osdorperweg wordt autoluw en alleen toegankelijk voor bestemmingsverkeer.",
+      "summary": "Osdorperweg wordt autoluw voor alleen bestemmingsverkeer",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "osdorperweg",
+        "autoluw",
+        "bestemmingsverkeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 36-37",
+      "originalQuote": "De Osdorperweg wordt autoluw en alleen toegankelijk voor bestemmingsverkeer."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-046",
+      "text": "De gemeente vergroot de parkeer-en-reismogelijkheden. Voor reizigers die verder gaan met het openbaar vervoer of fiets worden de P&R-faciliteiten gratis.",
+      "summary": "P&R-faciliteiten worden gratis voor OV- en fietsgebruikers",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "p&r-faciliteiten",
+        "gratis",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 37-38",
+      "originalQuote": "De gemeente vergroot de parkeer-en-reismogelijkheden. Voor reizigers die verder gaan met het openbaar vervoer of fiets worden de P&R-faciliteiten gratis."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-047",
+      "text": "Het openbaar vervoer is gratis voor mensen met een laag inkomen.",
+      "summary": "Gratis openbaar vervoer voor lage inkomens",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "gratis",
+        "laag inkomen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 37-38",
+      "originalQuote": "Het openbaar vervoer is gratis voor mensen met een laag inkomen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-048",
+      "text": "We maken de metroring aan de westkant (tussen Isolaterweg en CS) sluitend.",
+      "summary": "Metroring wordt gesloten tussen Isolaterweg en CS",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "metroring",
+        "westkant",
+        "isolaterweg",
+        "cs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 37-38",
+      "originalQuote": "We maken de metroring aan de westkant (tussen Isolaterweg en CS) sluitend."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-049",
+      "text": "De gemeente voert gedifferentieerde tarieven voor parkeren en parkeervergunningen in op basis van de uitstoot van het voertuig, waarbij een hoger tarief wordt gehanteerd voor vervuilende auto's.",
+      "summary": "Gedifferentieerde parkeertarieven op basis van uitstoot voertuig",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeertarieven",
+        "gedifferentieerd",
+        "uitstoot",
+        "parkeervergunningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 38-39",
+      "originalQuote": "De gemeente voert gedifferentieerde tarieven voor parkeren en parkeervergunningen in op basis van de uitstoot van het voertuig, waarbij een hoger tarief wordt gehanteerd voor vervuilende auto's dan voor schonere auto's."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-050",
+      "text": "De gemeente hanteert minimale afstanden tussen drukke verkeerswegen en de vestiging van gevoelige bestemmingen, zoals scholen, kinderdagverblijven en verzorgingscentra.",
+      "summary": "Minimale afstanden tussen verkeerswegen en gevoelige bestemmingen",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimale afstanden",
+        "verkeerswegen",
+        "scholen",
+        "kinderdagverblijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 38-39",
+      "originalQuote": "De gemeente hanteert minimale afstanden tussen drukke verkeerswegen en de vestiging van gevoelige bestemmingen, zoals scholen, kinderdagverblijven en verzorgingscentra."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-051",
+      "text": "Amsterdam stelt een plan op om te voldoen aan de luchtkwaliteitsnormen van de Wereldgezondheidsorganisatie. Plekken met de meest vervuilde lucht, zoals de Valkenburgerstraat, krijgen de hoogste urgentie.",
+      "summary": "Plan voor WHO-luchtkwaliteitsnormen, prioriteit Valkenburgerstraat",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "luchtkwaliteitsnormen",
+        "who",
+        "valkenburgerstraat",
+        "prioriteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 40-41",
+      "originalQuote": "De Partij voor de Dieren wil dat Amsterdam een plan opstelt om ervoor te zorgen dat de gemeente voldoet aan de luchtkwaliteitsnormen van de Wereldgezondheidsorganisatie. Plekken met de meest vervuilde lucht, zoals de Valkenburgerstraat, krijgen de hoogste urgentie."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-052",
+      "text": "Er komt een gemeentelijk stookverbod wanneer een stookalert is afgegeven en een meldpunt waar stookoverlast gemeld kan worden.",
+      "summary": "Gemeentelijk stookverbod bij stookalert en meldpunt voor overlast",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stookverbod",
+        "stookalert",
+        "meldpunt",
+        "overlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 40-41",
+      "originalQuote": "Er komt een gemeentelijk stookverbod wanneer een stookalert is afgegeven en een meldpunt bij de gemeente waar stookoverlast gemeld kan worden."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-053",
+      "text": "De Amsterdamse Impuls Schoolpleinen wordt verlengd en verruimd.",
+      "summary": "Amsterdamse Impuls Schoolpleinen wordt verlengd en verruimd",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "amsterdamse impuls",
+        "schoolpleinen",
+        "verlengd",
+        "verruimd"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 41-42",
+      "originalQuote": "De Amsterdamse Impuls Schoolpleinen wordt verlengd en verruimd."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-054",
+      "text": "Er worden geen nieuwe kunstgrasvelden aangelegd in het groen. Als bestaande kunstgrasvelden aan vervanging toe zijn, worden ze bij voorkeur vervangen door echt gras.",
+      "summary": "Stop nieuwe kunstgrasvelden, vervanging door echt gras",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kunstgrasvelden",
+        "verbod",
+        "echt gras",
+        "vervanging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 41-42",
+      "originalQuote": "Er worden geen nieuwe kunstgrasvelden aangelegd in het groen. Als bestaande kunstgrasvelden aan vervanging toe zijn, worden ze bij voorkeur vervangen door echt gras."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-055",
+      "text": "Er komen geen nieuwe casino's of gokhallen.",
+      "summary": "Verbod op nieuwe casino's en gokhallen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "casino's",
+        "gokhallen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 44-45",
+      "originalQuote": "Er komen geen nieuwe casino's of gokhallen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-056",
+      "text": "Vanwege milieu-, klimaat- en gezondheidsrisico's wordt lachgas in de openbare ruimte verboden.",
+      "summary": "Lachgas wordt verboden in de openbare ruimte",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lachgas",
+        "verbod",
+        "openbare ruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 44-45",
+      "originalQuote": "Vanwege milieu-, klimaat- en gezondheidsrisico's wordt lachgas in de openbare ruimte verboden."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-057",
+      "text": "Consumentenvuurwerk wordt verboden. De gemeente gaat actief lobbyen bij het Rijk voor een algeheel verkoopverbod. Nieuwe verkooppunten voor consumentenvuurwerk worden niet vergund.",
+      "summary": "Consumentenvuurwerk verboden, geen nieuwe verkooppunten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "consumentenvuurwerk",
+        "verbod",
+        "verkooppunten",
+        "vergunning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 44-45",
+      "originalQuote": "consumentenvuurwerk verboden. De gemeente gaat actief lobbyen bij het Rijk voor een algeheel verkoopverbod. Nieuwe verkooppunten voor consumentenvuurwerk worden niet vergund."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-058",
+      "text": "Amsterdam komt met een plan om institutioneel racisme uit te bannen en treedt met kracht op tegen discriminatie.",
+      "summary": "Plan tegen institutioneel racisme en krachtig optreden tegen discriminatie",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "institutioneel racisme",
+        "discriminatie",
+        "plan",
+        "optreden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "Amsterdam treedt met kracht op tegen discriminatie en komt met een plan om institutioneel racisme uit te bannen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-059",
+      "text": "Amsterdam pakt discriminatie op de arbeidsmarkt aan door het mogelijk maken van anoniem solliciteren.",
+      "summary": "Aanpak discriminatie arbeidsmarkt via anoniem solliciteren",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "discriminatie",
+        "arbeidsmarkt",
+        "anoniem solliciteren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "Amsterdam pakt discriminatie op de arbeidsmarkt aan, bijvoorbeeld door het mogelijk maken van anoniem solliciteren."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-060",
+      "text": "Informatie vanuit de gemeente wordt zoveel mogelijk geschreven op taalniveau B1 en waar nodig ook in andere talen verstrekt.",
+      "summary": "Gemeentelijke informatie op B1-niveau en in andere talen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "informatie",
+        "taalniveau b1",
+        "andere talen",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "Informatie die vanuit de gemeente wordt verstrekt is zoveel mogelijk geschreven op taalniveau B1, wat door de meeste inwoners wordt begrepen. Waar nodig wordt belangrijke informatie ook in andere talen verstrekt."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-061",
+      "text": "Amsterdam staat preventief fouilleren niet toe omdat dit etnisch profileren en stigmatisering in de hand werkt.",
+      "summary": "Verbod op preventief fouilleren",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "preventief fouilleren",
+        "etnisch profileren",
+        "stigmatisering",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "Preventief fouilleren werkt etnisch profileren en stigmatisering in de hand en Amsterdam staat dit niet toe."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-062",
+      "text": "De gemeente doet geen zaken met en verleent geen subsidies aan organisaties die discrimineren en uitsluiten.",
+      "summary": "Geen zaken of subsidies aan discriminerende organisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zaken",
+        "subsidies",
+        "discriminerende organisaties",
+        "uitsluiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "De gemeente doet geen zaken met (en verleent geen subsidies aan) organisaties die discrimineren en uitsluiten."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-063",
+      "text": "Amsterdam staat in 2023 uitgebreid stil bij 150 jaar afschaffing van de slavernij.",
+      "summary": "Herdenking 150 jaar afschaffing slavernij in 2023",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "2023",
+        "150 jaar",
+        "afschaffing slavernij",
+        "herdenking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "De gemeente staat in 2023 uitgebreid stil bij 150 jaar afschaffing van de slavernij en dringt er bij het Rijk op aan om van Keti Koti een nationale feestdag te maken."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-064",
+      "text": "De gemeente werkt op geen enkele wijze mee aan vieringen waarbij Zwarte Pieten aanwezig zijn om Sinterklaas een leuk feest voor alle kinderen te maken.",
+      "summary": "Geen medewerking aan vieringen met Zwarte Pieten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zwarte pieten",
+        "vieringen",
+        "sinterklaas",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "De gemeente werkt op geen enkele wijze mee aan vieringen waarbij Zwarte Pieten aanwezig zijn. Sinterklaas wordt een leuk feest voor álle kinderen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-065",
+      "text": "Amsterdam hijst minstens één keer per jaar de regenboogvlag en de transgendervlag en organiseert publiekscampagnes rondom LHBTQIA+-dagen.",
+      "summary": "Jaarlijks hijsen LHBTQIA+-vlaggen en organiseren campagnes",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regenboogvlag",
+        "transgendervlag",
+        "lhbtqia+",
+        "publiekscampagnes"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "Er wordt op meerdere plekken in de gemeente zichtbaarheid gegeven aan LHBTQIA+'ers,. Rondom bepaalde dagen, zoals bijvoorbeeld de internationale dag tegen transfobie en de Coming Out Day, worden publiekscampagnes en lezingen georganiseerd. De gemeente blijft minstens één keer per jaar de regenboogvlag en de transgendervlag hijsen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-066",
+      "text": "Amsterdam zorgt voor een genderneutraal toilet op het gemeentehuis en stimuleert instellingen zoals bibliotheken en buurthuizen om hetzelfde te doen.",
+      "summary": "Genderneutraal toilet gemeentehuis en stimulering andere instellingen",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "genderneutraal toilet",
+        "gemeentehuis",
+        "bibliotheken",
+        "buurthuizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 48-49",
+      "originalQuote": "Amsterdam zorgt voor een genderneutraal toilet op het gemeentehuis en stimuleert instellingen zoals de bibliotheek en buurthuizen om hetzelfde te doen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-067",
+      "text": "Amsterdam biedt kleinschalige opvang aan asielzoekers verspreid over de gemeente met taalcursussen, onderwijs, werk en zorg.",
+      "summary": "Kleinschalige asielopvang verspreid over gemeente met voorzieningen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kleinschalige opvang",
+        "asielzoekers",
+        "taalcursussen",
+        "onderwijs",
+        "zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 49-50",
+      "originalQuote": "Amsterdam biedt kleinschalige opvang aan asielzoekers verspreid over de gemeente. Asielzoekers worden opgevangen op een wijze die hen in staat stelt zich te ontplooien door middel van taalcursussen, onderwijs, werk en goede zorg."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-068",
+      "text": "Amsterdam draagt zorg voor veilige slaapplekken, eten en dagbesteding voor ongedocumenteerden en uitgeprocedeerde asielzoekers.",
+      "summary": "Voorzieningen voor ongedocumenteerden en uitgeprocedeerde asielzoekers",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ongedocumenteerden",
+        "uitgeprocedeerde asielzoekers",
+        "slaapplekken",
+        "eten",
+        "dagbesteding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 49-50",
+      "originalQuote": "Niemand zou op straat moeten slapen, dus ook ongedocumenteerden en uitgeprocedeerde asielzoekers niet. Amsterdam draagt er zorg voor dat deze mensen een veilige slaapplek, eten en een dagbesteding krijgen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-069",
+      "text": "Mensen met een bijstandsuitkering mogen giften tot 20% van hun uitkering behouden zonder gekort te worden.",
+      "summary": "Giften tot 20% uitkering behouden zonder korting",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bijstandsuitkering",
+        "giften",
+        "20%",
+        "uitkering",
+        "korting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 50-51",
+      "originalQuote": "Mensen met een bijstandsuitkering mogen giften tot 20% van hun uitkering behouden zonder hierdoor gekort te worden op hun uitkering."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-070",
+      "text": "Het gebruik en de toewijzing van parkeerplaatsen voor mensen met een beperking blijft gratis.",
+      "summary": "Gratis parkeerplaatsen voor mensen met beperking",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeerplaatsen",
+        "beperking",
+        "gratis",
+        "toewijzing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 50-51",
+      "originalQuote": "Het gebruik en de toewijzing van parkeerplaatsen voor mensen met een beperking blijft gratis."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-071",
+      "text": "Amsterdam regelt voldoende gratis en passende slaapplaatsen voor dak- en thuislozen waar ook hun huisdieren welkom zijn.",
+      "summary": "Gratis slaapplaatsen voor daklozen inclusief huisdieren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "slaapplaatsen",
+        "dak- en thuislozen",
+        "gratis",
+        "huisdieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 51-52",
+      "originalQuote": "Niemand hoeft op straat te slapen. Amsterdam regelt voldoende gratis en passende slaapplaatsen voor dak- en thuislozen. Ook hun huisdieren zijn hier welkom."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-072",
+      "text": "De gemeente breidt de duur en vergoeding van ouderschapsverlof uit voor alle ouders en legt transitieverlof voor transgender medewerkers vast.",
+      "summary": "Uitbreiding ouderschapsverlof en invoering transitieverlof",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouderschapsverlof",
+        "vergoeding",
+        "transitieverlof",
+        "transgender medewerkers"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 51-52",
+      "originalQuote": "De gemeente breidt de duur en de vergoeding voor het ouderschapsverlof uit voor alle ouders. Ook wordt transitieverlof voor transgender medewerkers vastgelegd."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-073",
+      "text": "Er zijn voldoende scholen in de buurt zodat elk kind lopend of op de fiets naar school kan.",
+      "summary": "Voldoende buurtscholen binnen loop- en fietsafstand",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scholen",
+        "buurt",
+        "lopend",
+        "fiets",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 54-55",
+      "originalQuote": "Er zijn voldoende scholen in de buurt zodat elk kind lopend of op de fiets naar school kan."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-074",
+      "text": "De gemeente trekt voldoende geld uit voor natuurinclusief renoveren en verduurzamen van verouderde schoolpanden. Nieuwe schoolpanden worden natuurinclusief en energieneutraal gebouwd.",
+      "summary": "Natuurinclusieve renovatie oude scholen en energieneutrale nieuwbouw",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "natuurinclusief",
+        "renoveren",
+        "verduurzamen",
+        "schoolpanden",
+        "energieneutraal"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 54-55",
+      "originalQuote": "De gemeente trekt voldoende geld uit voor het natuurinclusief renoveren en verduurzamen van verouderde schoolpanden. Nieuwe schoolpanden worden natuurinclusief en energieneutraal gebouwd."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-075",
+      "text": "De schoolwijkagent keert terug op middelbare scholen voor vertrouwensopbouw en preventie van problemen.",
+      "summary": "Terugkeer schoolwijkagent op middelbare scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schoolwijkagent",
+        "middelbare scholen",
+        "vertrouwensband",
+        "preventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 55-56",
+      "originalQuote": "De schoolwijkagent keert terug op middelbare scholen. Een agent die de school en de leerlingen kent, een vertrouwensband met hen opbouwt, en regelmatig langskomt om op een laagdrempelige manier te praten over bv. drugs, wapens, loverboys en (cyber)pesten kan veel leed voorkomen en zorgen voor een veiligere en betere sfeer op scholen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-076",
+      "text": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd om meer te programmeren en eerlijke beloning te realiseren.",
+      "summary": "Structurele verhoging cultuurbudget voor programmering en eerlijke beloning",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "budget",
+        "kunst",
+        "cultuur",
+        "erfgoed",
+        "structureel verhoogd",
+        "eerlijke beloning"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 55-56",
+      "originalQuote": "Het budget voor kunst, cultuur en erfgoed wordt structureel verhoogd, niet alleen om meer te kunnen programmeren, maar ook om de Fair Practice Code voor eerlijke beloning in de culturele sector te kunnen realiseren."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-077",
+      "text": "Instellingen die cultuursubsidies van de gemeente krijgen, zetten bij hun activiteiten geen levende dieren in.",
+      "summary": "Verbod levende dieren bij gesubsidieerde culturele activiteiten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuursubsidies",
+        "levende dieren",
+        "activiteiten",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 55-56",
+      "originalQuote": "Instellingen die cultuursubsidies van de gemeente krijgen, zetten bij hun activiteiten geen levende dieren in."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-078",
+      "text": "Musea zijn minstens één dag in de week gratis toegankelijk voor inwoners van de gemeente.",
+      "summary": "Musea minstens één dag per week gratis voor inwoners",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "musea",
+        "één dag",
+        "week",
+        "gratis",
+        "inwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 55-56",
+      "originalQuote": "Musea zijn minstens één dag in de week gratis toegankelijk voor inwoners van de gemeente."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-079",
+      "text": "Amsterdam investeert in behoud en heropening van voldoende openbare bibliotheken en versterkt hun wijkfunctie.",
+      "summary": "Investering in behoud en heropening openbare bibliotheken",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bibliotheken",
+        "behoud",
+        "heropening",
+        "wijkfunctie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 55-56",
+      "originalQuote": "Amsterdam investeert in behoud en heropening van voldoende openbare bibliotheken. De wijkfunctie van bibliotheken wordt versterkt."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-080",
+      "text": "Participatie wordt hervormd: in plaats van plannen maken voor inwoners, worden plannen gemaakt met inwoners.",
+      "summary": "Participatie hervorming: plannen maken met inwoners",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "participatie",
+        "inwoners",
+        "plannen",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Participatie gaat op de schop. In plaats van plannen maken voor inwoners, maken we plannen mét inwoners."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-081",
+      "text": "Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of gemeentelijke herindeling. Ook worden buurt referenda mogelijk gemaakt.",
+      "summary": "Invoering raadgevend referendum voor grote besluiten en buurt referenda",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referendum",
+        "bouwprojecten",
+        "herindeling",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Het raadgevend referendum krijgt een plaats bij belangrijke besluiten, zoals grote bouwprojecten of een gemeentelijke herindeling. Ook maken we buurt referenda mogelijk."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-082",
+      "text": "Er komt één gemeentelijk loket dat alle klachten coördineert. Het klachtenloket is ook 's nachts en in het weekend bereikbaar voor meldingen van overlast en overtredingen.",
+      "summary": "Centraal klachtenloket 24/7 bereikbaar voor overlast en overtredingen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klachtenloket",
+        "overlast",
+        "overtredingen",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Er komt één gemeentelijk loket dat alle klachten coördineert. Tijdens de nacht en in het weekend is het klachtenloket ook bereikbaar voor meldingen van overlast en overtredingen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-083",
+      "text": "Er komt een sociaal statuut waarin de gemeente met woningcorporaties en huurdersverenigingen bindende afspraken maakt over rechten van bewoners bij herhuisvesting.",
+      "summary": "Sociaal statuut met bindende afspraken over bewonersrechten bij herhuisvesting",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal statuut",
+        "woningcorporaties",
+        "herhuisvesting",
+        "bewonersrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Er komt een sociaal statuut waarin de gemeente met woningcorporaties en huurdersverenigingen bindende afspraken maakt over rechten van bewoners bij ingrijpende ontwikkelingen waarbij herhuisvesting aan de orde is."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-084",
+      "text": "Er komt weer een kinderraad, die de gemeenteraad gevraagd en ongevraagd van advies kan voorzien.",
+      "summary": "Herinvoering kinderraad die gemeenteraad kan adviseren",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderraad",
+        "gemeenteraad",
+        "advies",
+        "jeugdparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Er komt weer een kinderraad, die de gemeenteraad gevraagd en ongevraagd van advies kan voorzien."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-085",
+      "text": "De aanmeldingsplicht voor kleine demonstraties wordt afgeschaft. Voor demonstraties naar aanleiding van actuele gebeurtenissen wordt de aanmeldtermijn verkort.",
+      "summary": "Afschaffing aanmeldingsplicht kleine demonstraties, kortere termijn actuele demo's",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "demonstraties",
+        "aanmeldingsplicht",
+        "aanmeldtermijn",
+        "grondrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "De aanmeldingsplicht voor kleine demonstraties wordt afgeschaft. Voor demonstraties naar aanleiding van actuele gebeurtenissen wordt de aanmeldtermijn verkort."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-086",
+      "text": "De concessiehouder AT5 en wijkkranten krijgen aanzienlijk meer budget. Er komt ook meer geld voor toegankelijkheid van uitzendingen voor mensen met auditieve beperking en een lokaal mediafonds.",
+      "summary": "Meer budget voor AT5, wijkkranten, toegankelijkheid en lokaal mediafonds",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "at5",
+        "wijkkranten",
+        "mediafonds",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "de concessiehouder (AT5) en de wijkkranten krijgen aanzienlijk meer budget. Er wordt ook meer geld vrijgemaakt om de uitzendingen toegankelijk te maken voor mensen met een auditieve beperking. Om onafhankelijke (onderzoeks-)journalistiek te bevorderen komt er een breed toegankelijk lokaal mediafonds."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-087",
+      "text": "Er komt een gemeentelijk, openbaar lobbyregister. Bij raadsvoorstellen wordt standaard vermeld welke betrokkenheid lobbyisten hebben gehad. Het college rapporteert jaarlijks over het lobbyregister.",
+      "summary": "Openbaar lobbyregister met jaarlijkse rapportage door college",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lobbyregister",
+        "transparantie",
+        "raadsvoorstellen",
+        "jaarrapportage"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Er komt een gemeentelijk, openbaar lobbyregister. Bij raadsvoorstellen en beleidskaders wordt standaard vermeld welke betrokkenheid lobbyisten en belangenbehartigers op de voorstellen hebben gehad. Het college rapporteert jaarlijks over het lobbyregister."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-088",
+      "text": "Stadsdeelverkiezingen worden gehouden met uitsluitend lijsten van onafhankelijke bewoners en buurtgroepen, zonder politieke partijen.",
+      "summary": "Stadsdeelverkiezingen alleen met onafhankelijke bewoners, geen politieke partijen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsdeelverkiezingen",
+        "onafhankelijke bewoners",
+        "buurtverenigingen",
+        "politieke partijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Verkiezingen worden gehouden met uitsluitend lijsten van onafhankelijke bewoners en groepen zoals buurtverenigingen of actieclubs, en dus zonder politieke partijen."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-089",
+      "text": "Met gemeentelijk cameratoezicht wordt zeer terughoudend omgegaan. Het mag alleen tijdelijk en onder strikte voorwaarden, zoals een maximum bewaartermijn voor camerabeelden.",
+      "summary": "Terughoudend cameratoezicht, alleen tijdelijk met maximum bewaartermijn",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cameratoezicht",
+        "bewaartermijn",
+        "privacy",
+        "voorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Met inzet van gemeentelijk cameratoezicht wordt uit privacyoverwegingen zeer terughoudend omgegaan. Het mag alleen tijdelijk en onder strikte voorwaarden, zoals een maximum bewaartermijn voor de camerabeelden."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-090",
+      "text": "Advertentieborden met gezichtsherkenning of andere 'slimme' camera's worden verboden.",
+      "summary": "Verbod op advertentieborden met gezichtsherkenning en slimme camera's",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "advertentieborden",
+        "gezichtsherkenning",
+        "slimme camera's",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Advertentieborden met gezichtsherkenning of andere 'slimme' camera's worden verboden."
+    },
+    {
+      "promiseCode": "PvdD-AMS-2022-091",
+      "text": "Amsterdam verbiedt wifi-tracking van inwoners in de openbare ruimte.",
+      "summary": "Verbod op wifi-tracking van inwoners in openbare ruimte",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wifi-tracking",
+        "openbare ruimte",
+        "privacy",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma PvdD amsterdam 2022, p. 58-59",
+      "originalQuote": "Amsterdam verbiedt wifi-tracking van inwoners in de openbare ruimte."
+    }
+  ]
+}

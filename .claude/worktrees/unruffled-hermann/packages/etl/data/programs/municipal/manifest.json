@@ -1,0 +1,193 @@
+{
+  "description": "Gemeentelijke verkiezingsprogramma's 2022 voor Amsterdam en Den Haag. Bronnen: partijwebsites, openresearch.amsterdam, rolfuhlhorn.amsterdam.",
+  "lastUpdated": "2026-02-18",
+  "programs": {
+    "amsterdam-2022": {
+      "election": "Gemeenteraadsverkiezingen Amsterdam 16 maart 2022",
+      "parliamentSlug": "amsterdam",
+      "parties": [
+        {
+          "abbreviation": "D66",
+          "partySlug": "d66",
+          "title": "Een nieuw Amsterdam",
+          "pdfUrl": "https://d66.nl/wp-content/uploads/2022/02/D66_Amsterdam_Verkiezingsprogramma_2022-2026.pdf",
+          "localFilename": "d66_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "GroenLinks",
+          "partySlug": "groenlinks",
+          "title": "Verandering begint in de stad",
+          "pdfUrl": "https://amsterdam.groenlinks.nl/sites/groenlinks/files/2021-11/Verandering%20begint%20in%20de%20stad%20-%20verkiezingsprogramma%202022_0.pdf",
+          "localFilename": "groenlinks_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "PvdA",
+          "partySlug": "pvda",
+          "title": "Verkiezingsprogramma PvdA Amsterdam 2022-2026",
+          "pdfUrl": "https://amsterdam.pvda.nl/wp-content/uploads/sites/5/2022/01/Verkiezingsprogramma-PvdA-Amsterdam-2022.pdf",
+          "localFilename": "pvda_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "VVD",
+          "partySlug": "vvd",
+          "title": "Verkiezingsprogramma VVD Amsterdam 2022-2026",
+          "pdfUrl": "https://rolfuhlhorn.amsterdam/wp-content/uploads/2022/01/VVD-Amsterdam-VP-2022-2026.pdf",
+          "localFilename": "vvd_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "SP",
+          "partySlug": "sp",
+          "title": "SP Amsterdam Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://rolfuhlhorn.amsterdam/wp-content/uploads/2022/01/SP-Amsterdam-VP-2022-2026.pdf",
+          "localFilename": "sp_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "PvdD",
+          "partySlug": "pvdd",
+          "title": "Verbeter de wereld, begin in Amsterdam",
+          "pdfUrl": "https://assets.partijvoordedieren.nl/assets/algemeen/Verkiezingsprogramma-2022/PDF/Amsterdam.pdf",
+          "localFilename": "pvdd_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "CDA",
+          "partySlug": "cda",
+          "title": "CDA Amsterdam Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://d14uo0i7wmc99w.cloudfront.net/images/CDA-Amsterdam-Verkiezingsprogramma-2022-2026.pdf",
+          "localFilename": "cda_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "DENK",
+          "partySlug": "denk",
+          "title": "DENK Amsterdam Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://rolfuhlhorn.amsterdam/wp-content/uploads/2022/01/DENK-Amsterdam-VP-2022-2026.pdf",
+          "localFilename": "denk_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "JA21",
+          "partySlug": "ja21",
+          "title": "JA21 Amsterdam Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://amsterdam.ja21.nl/fileadmin/user_upload/JA21_verkiezingsprogramma_adam.pdf",
+          "localFilename": "ja21_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "FvD",
+          "partySlug": "fvd",
+          "title": "Forum voor Democratie Amsterdam Verkiezingsprogramma 2022",
+          "pdfUrl": "https://openresearch.amsterdam/image/2022/3/2/verkiezingsprogramma_forum_voor_democratie_amsterdam.pdf",
+          "localFilename": "fvd_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "Volt",
+          "partySlug": "volt",
+          "title": "Volt Amsterdam Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://rolfuhlhorn.amsterdam/wp-content/uploads/2022/01/Volt-Amsterdam-VP-2022-2026.pdf",
+          "localFilename": "volt_amsterdam_2022.pdf"
+        },
+        {
+          "abbreviation": "BIJ1",
+          "partySlug": "bij1",
+          "title": "Amsterdam is altijd al van ons",
+          "localFilename": "",
+          "notes": "Web-only program (no PDF available)"
+        }
+      ]
+    },
+    "den-haag-2022": {
+      "election": "Gemeenteraadsverkiezingen Den Haag 16 maart 2022",
+      "parliamentSlug": "den-haag",
+      "parties": [
+        {
+          "abbreviation": "Hart voor Den Haag",
+          "partySlug": "hart-voor-den-haag",
+          "title": "Hart voor Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://hartvoordenhaag.nl/wp-content/uploads/2022/02/HVDH-Verkiezingsprogramma-GR22.pdf",
+          "localFilename": "hart-voor-den-haag_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "D66",
+          "partySlug": "d66",
+          "title": "D66 Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://d66.nl/den-haag/wp-content/uploads/sites/3/2022/01/D66-Verkiezingsprogramma-2022-2026.pdf",
+          "localFilename": "d66_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "VVD",
+          "partySlug": "vvd",
+          "title": "Voor een Veilig en Vrij Den Haag",
+          "pdfUrl": "https://vvddenhaag.nl/wp-content/uploads/2021/12/Verkiezingsprogramma_Den-Haag_Online.pdf",
+          "localFilename": "vvd_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "GroenLinks",
+          "partySlug": "groenlinks",
+          "title": "GroenLinks Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://denhaag.groenlinks.nl/sites/groenlinks.nl/files/2022-01/GL-DenHaag-Verkiezingsprogramma-2022.pdf",
+          "localFilename": "groenlinks_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "PvdA",
+          "partySlug": "pvda",
+          "title": "PvdA Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://denhaag.pvda.nl/wp-content/uploads/sites/72/2021/12/PvdA-Den-Haag-Verkiezingsprogramma-2022-2026.pdf",
+          "localFilename": "pvda_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "PvdD",
+          "partySlug": "partij-voor-de-dieren",
+          "title": "Verbeter de wereld, begin in Den Haag",
+          "pdfUrl": "https://assets.partijvoordedieren.nl/assets/algemeen/Verkiezingsprogramma-2022/PDF/Den-Haag.pdf",
+          "localFilename": "partij-voor-de-dieren_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "DENK",
+          "partySlug": "denk",
+          "title": "DENK Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://www.bewegingdenk.nl/wp-content/uploads/2022/02/DENK-DenHaag-VP-2022.pdf",
+          "localFilename": "denk_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "ChristenUnie-SGP",
+          "partySlug": "christenunie-sgp",
+          "title": "ChristenUnie-SGP Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://denhaag.christenunie.nl/wp-content/uploads/2022/01/CU-SGP-DenHaag-Verkiezingsprogramma-2022-2026.pdf",
+          "localFilename": "christenunie-sgp_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "SP",
+          "partySlug": "sp",
+          "title": "Den Haag van iedereen",
+          "pdfUrl": "https://web.archive.org/web/2022/https://denhaag.sp.nl/verkiezingsprogramma",
+          "localFilename": "sp_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "PVV",
+          "partySlug": "pvv",
+          "title": "PVV Den Haag Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://haagsepvv.nl/verkiezingsprogramma",
+          "localFilename": "pvv_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "CDA",
+          "partySlug": "cda",
+          "title": "Thuis in Den Haag",
+          "pdfUrl": "https://web.archive.org/web/2022/https://d14uo0i7wmc99w.cloudfront.net/CDA-DenHaag-VP-2022.pdf",
+          "localFilename": "cda_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "Haagse Stadspartij",
+          "partySlug": "haagse-stadspartij",
+          "title": "Haagse Stadspartij Verkiezingsprogramma 2022-2026",
+          "pdfUrl": "https://haagsestadspartij.nl/verkiezingsprogramma",
+          "localFilename": "haagse-stadspartij_den-haag_2022.pdf"
+        },
+        {
+          "abbreviation": "FvD",
+          "partySlug": "fvd",
+          "title": "Forum voor Democratie Den Haag Verkiezingsprogramma 2022",
+          "pdfUrl": "https://web.archive.org/web/2022/https://fvd.nl/verkiezingsprogramma-den-haag",
+          "localFilename": "fvd_den-haag_2022.pdf"
+        }
+      ]
+    }
+  }
+}

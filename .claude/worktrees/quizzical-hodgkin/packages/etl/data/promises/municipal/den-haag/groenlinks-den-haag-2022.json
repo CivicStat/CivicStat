@@ -1,0 +1,1419 @@
+{
+  "party": "GroenLinks",
+  "partySlug": "groenlinks",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "GroenLinks Den Haag Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 93,
+  "promises": [
+    {
+      "promiseCode": "GroenLinks-DH-2022-001",
+      "text": "GroenLinks streeft naar het realiseren van een klimaatneutrale stad Den Haag in 2030 door verduurzaming en vergroening van de stad, met extra aandacht voor minder draagkrachtige wijken.",
+      "summary": "Den Haag klimaatneutraal maken in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraal",
+        "verduurzaming",
+        "vergroening",
+        "energiearmoede",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "Ons doel is én blijft een klimaatneutrale stad in 2030."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-002",
+      "text": "De gemeente wordt dichter bij de wijken gebracht om beter maatwerk te kunnen leveren in de dienstverlening aan inwoners.",
+      "summary": "Gemeente dichterbij wijken voor beter maatwerk",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeente",
+        "wijken",
+        "maatwerk",
+        "dienstverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "We brengen de gemeente dichterbij de wijken om zo beter maatwerk te kunnen leveren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-003",
+      "text": "De gemeentelijke dienstverlening wordt toegankelijk gemaakt voor iedereen, met duidelijke communicatie en maatwerk bij WMO-aanvragen en burgerparticipatie.",
+      "summary": "Toegankelijke dienstverlening voor iedereen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienstverlening",
+        "toegankelijkheid",
+        "wmo",
+        "communicatie",
+        "maatwerk"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "De gemeentelijke dienstverlening moet toegankelijk worden voor iedereen. Of het nu gaat om een WMO-aanvraag of om meepraten over een bouwplan: de gemeente neemt steeds de mensen als uitgangspunt, communiceert duidelijk en past zo nodig maatwerk toe."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-004",
+      "text": "Onnodige regels worden afgeschaft, terwijl noodzakelijke regels voor een eerlijke, gezonde en duurzame leefomgeving worden toegepast en duidelijk uitgelegd.",
+      "summary": "Afschaffen onnodige regels, behouden noodzakelijke regels",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "regels",
+        "afschaffen",
+        "handhaving",
+        "leefomgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "Onnodige regels schaffen we af en regels die noodzakelijk zijn voor een eerlijke, gezonde en duurzame leefomgeving passen we toe en leggen we duidelijk uit."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-005",
+      "text": "De binnenstad van Den Haag wordt een autoluwe zone. In samenwerking met winkels en leveranciers wordt een plan uitgewerkt voor emissieloze bevoorrading van de binnenstad.",
+      "summary": "Binnenstad wordt autoluwe zone met emissieloze bevoorrading",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "binnenstad",
+        "autoluwe zone",
+        "emissieloze bevoorrading",
+        "leveranciers"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "De binnenstad wordt een autoluwe zone, samen met winkels en leveranciers werken we een plan uit voor emissieloze bevoorrading."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-006",
+      "text": "Er komen buurttuinen in het Zeeheldenkwartier, de binnenstad en de Schilderswijk.",
+      "summary": "Buurttuinen in Zeeheldenkwartier, binnenstad en Schilderswijk",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buurttuinen",
+        "zeeheldenkwartier",
+        "binnenstad",
+        "schilderswijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "Er komen buurttuinen in o.a. Zeeheldenkwartier, binnenstad en de Schilderswijk."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-007",
+      "text": "Woningen worden beschermd tegen opkoop door een zelfbewoningsplicht. Overbewoning en illegale verhuur worden aangepakt.",
+      "summary": "Bescherming woningen tegen opkoop via zelfbewoningsplicht",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbescherming",
+        "zelfbewoningsplicht",
+        "opkoop",
+        "overbewoning",
+        "illegale verhuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "We beschermen woningen tegen opkoop en verhuur door een o.a. een zelfbewoningsplicht. Overbewoning en illegale verhuur pakken we aan."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-008",
+      "text": "Voor iedere nieuwe Hagenaar wordt een boom geplant, waardoor er de komende periode tienduizend bomen bijkomen in de stad.",
+      "summary": "Tienduizend nieuwe bomen voor iedere nieuwe inwoner",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bomen",
+        "tienduizend",
+        "nieuwe inwoners",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "We vergroenen onze stad. Voor iedere nieuwe Hagenaar planten we een boom, door dit te doen komen er de komende periode tienduizend bomen bij."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-009",
+      "text": "Iedere woning komt maximaal 300 meter verwijderd van een aangename, groene en koele plek in de buitenruimte.",
+      "summary": "Koele plek binnen 300 meter van elke woning",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koele plekken",
+        "300 meter",
+        "groene ruimte",
+        "woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "We creëren voldoende koele plekken. Iedere woning is maximaal 300 meter verwijderd van een aangename, groene en koele plek in de buitenruimte."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-010",
+      "text": "Bij grote parkeerdruk worden geen tweede vergunningen afgegeven aan huishoudens en worden bestaande vergunningen tegen het licht gehouden, bijvoorbeeld in Rustenburg-Oostbroek.",
+      "summary": "Stop tweede parkeervergunningen bij grote parkeerdruk",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunningen",
+        "parkeerdruk",
+        "rustenburg-oostbroek",
+        "huishoudens"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "Bij grote parkeerdruk worden geen tweede vergunningen afgegeven aan huishoudens en worden bestaande vergunningen tegen het licht gehouden, bijvoorbeeld in Rustenburg-Oostbroek."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-011",
+      "text": "De parallelweg van de Erasmusweg wordt een fietsstraat.",
+      "summary": "Parallelweg Erasmusweg wordt fietsstraat",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "erasmusweg",
+        "parallelweg",
+        "fietsstraat"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "De parallelweg van de Erasmusweg wordt een fietsstraat."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-012",
+      "text": "De Scheveningse Boulevard wordt een groene oase.",
+      "summary": "Scheveningse Boulevard wordt groene oase",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "scheveningse boulevard",
+        "groene oase",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "De Scheveningse Boulevard wordt een groene oase."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-013",
+      "text": "Het GroenLinks-voorstel voor een academie voor wind-op-zee wordt uitgevoerd met standplaats dichtbij Scheveningen.",
+      "summary": "Academie wind-op-zee bij Scheveningen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "academie",
+        "wind-op-zee",
+        "scheveningen",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "Het GroenLinksvoorstel voor een academie voor wind-op-zee wordt uitgevoerd met standplaats (dichtbij) Scheveningen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-014",
+      "text": "Er wordt een burgerberaad geïnstalleerd waarin inwoners de gemeente adviseren over de verduurzaming in de stad.",
+      "summary": "Burgerberaad voor advies over verduurzaming",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerberaad",
+        "inwoners",
+        "verduurzaming",
+        "advies"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 1",
+      "originalQuote": "We installeren een burgerberaad waarin inwoners de gemeente adviseren over de verduurzaming in de stad."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-015",
+      "text": "De gemeente hanteert per direct een minimumloon van € 14 per uur voor eigen medewerkers en stelt dezelfde eis aan alle organisaties waarmee de gemeente contracten aangaat.",
+      "summary": "Minimumloon € 14 per uur voor gemeente en contractpartijen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "gemeente",
+        "medewerkers",
+        "contracten",
+        "organisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 14-15",
+      "originalQuote": "De gemeente moet daarom per direct een minimumloon van € 14 per uur hanteren voor de eigen medewerkers. Daarnaast stellen we dezelfde eis aan alle organisaties waarmee de gemeente contracten aangaat."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-016",
+      "text": "De Ooievaarspas blijft beschikbaar voor alle gezinnen met een inkomen tot 130% van de bijstandsnorm. Voor gezinnen met inkomens van 130% tot 150% van de bijstandsnorm wordt de Ooievaarspas beschikbaar gesteld tegen een minimale vergoeding.",
+      "summary": "Uitbreiding Ooievaarspas tot 150% van bijstandsnorm",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ooievaarspas",
+        "inkomen",
+        "bijstandsnorm",
+        "gezinnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 14-15",
+      "originalQuote": "De pas en alle voorzieningen die daarbij horen, blijven beschikbaar voor alle gezinnen met een inkomen tot 130% van de bijstandsnorm. Voor gezinnen met inkomens van 130% tot 150% van de bijstandsnorm stellen we de Ooievaarspas beschikbaar tegen een minimale vergoeding."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-017",
+      "text": "Het structurele aanbod van gratis menstruatieproducten op gemeentetoiletten wordt uitgebreid naar scholen en cultuur- en sportclubs die zijn aangesloten bij de Ooievaarspas.",
+      "summary": "Uitbreiding gratis menstruatieproducten naar scholen en clubs",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "menstruatieproducten",
+        "scholen",
+        "sportclubs",
+        "cultuurclubs",
+        "ooievaarspas"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 14-15",
+      "originalQuote": "Het aanbod menstruatieproducten op toiletten bij de gemeente maken we structureel en breiden we uit: bijvoorbeeld naar scholen, en cultuur- en sportclubs die zijn aangesloten bij de Ooievaarspas."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-018",
+      "text": "Den Haag stopt met aanbestedingen in de zorg en gaat inkopen naar behoefte. Daarnaast komt er een onafhankelijke klachtencommissie voor de WMO terug.",
+      "summary": "Stop aanbestedingen zorg, inkopen naar behoefte, onafhankelijke klachtencommissie WMO",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "aanbestedingen",
+        "zorg",
+        "inkopen",
+        "klachtencommissie",
+        "wmo"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 16-17",
+      "originalQuote": "GroenLinks wil dat Den Haag stopt met aanbestedingen in de zorg en gaat inkopen naar behoefte. [...] Daarom brengen we de onafhankelijke klachtencommissie voor de WMO terug."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-019",
+      "text": "De wachttijd voor een intake in de jeugdzorg moet terug naar maximaal drie weken. Crisiszorg is altijd direct beschikbaar. Er komt een gemeentelijk onderzoek naar de lokale oorzaken van wachtlijsten.",
+      "summary": "Wachttijd jeugdzorg max 3 weken, directe crisiszorg, onderzoek wachtlijsten",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wachttijd",
+        "jeugdzorg",
+        "intake",
+        "crisiszorg",
+        "wachtlijsten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 16-17",
+      "originalQuote": "de wachttijd voor een intake moet terug naar maximaal drie weken. En crisiszorg is altijd direct beschikbaar. Er komt een gemeentelijk onderzoek naar de belangrijkste lokale oorzaken van de wachtlijsten."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-020",
+      "text": "Het aantal beschutte werkplekken wordt flink verhoogd voor mensen met een arbeidsbeperking. De STiP-regeling wordt voortgezet.",
+      "summary": "Flinke verhoging beschutte werkplekken, voortzetting STiP-regeling",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beschutte werkplekken",
+        "arbeidsbeperking",
+        "stip-regeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 20-21",
+      "originalQuote": "Daarom verhogen we bijvoorbeeld het aantal beschutte werkplekken flink. [...] Met de STiP-regeling gaan we door."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-021",
+      "text": "Voor jongeren die bijstand aanvragen geldt een verplichte zoekperiode van vier weken. GroenLinks wil deze periode overbruggen met een voorschot.",
+      "summary": "Voorschot tijdens verplichte zoekperiode bijstand jongeren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijstand",
+        "jongeren",
+        "zoekperiode",
+        "voorschot"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 20-21",
+      "originalQuote": "GroenLinks Den Haag wil die zoekperiode overbruggen met een voorschot."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-022",
+      "text": "Het Werkoffensief +500 dat veel extra mensen uit de bijstand naar werk helpt, wordt voortgezet met meer inzet op goede begeleiding en hulp.",
+      "summary": "Voortzetting Werkoffensief +500 met betere begeleiding",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkoffensief",
+        "bijstand",
+        "werk",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 20-21",
+      "originalQuote": "Het Werkoffensief +500 helpt veel extra mensen uit de bijstand naar werk. Met dit programma gaan we daarom door, waarbij we nog meer inzetten op goede begeleiding en hulp."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-023",
+      "text": "Er wordt een bijverdienpremie ingevoerd voor mensen in de bijstand die deeltijd werken, zodat zij een deel van hun salaris mogen behouden zonder gevolgen voor de uitkering.",
+      "summary": "Bijverdienpremie voor deeltijdwerk naast bijstand",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bijverdienpremie",
+        "bijstand",
+        "deeltijd",
+        "salaris",
+        "uitkering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 20-21",
+      "originalQuote": "Daarom zijn wij voor een bijverdienpremie voor mensen in de bijstand die deeltijd werken. Met die premie mogen zij een deel van hun salaris behouden, zonder gevolgen voor de uitkering."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-024",
+      "text": "Minima krijgen een vrijstelling van de onroerende zakenbelasting (OZB).",
+      "summary": "OZB-vrijstelling voor minima",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ozb",
+        "onroerende zakenbelasting",
+        "minima",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 20-21",
+      "originalQuote": "Minima krijgen een vrijstelling van deze belasting."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-025",
+      "text": "GroenLinks wil zoveel mogelijk woningen toevoegen in de stad om natuur te behouden en reisafstanden te beperken, met focus op sociale huur en betaalbare koopwoningen voor starters en doorstromers, plus passende woningen voor ouderen.",
+      "summary": "Zoveel mogelijk woningen toevoegen in de stad voor sociale huur en betaalbare koop",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningen",
+        "sociale huur",
+        "betaalbare koopwoningen",
+        "starters",
+        "doorstromers",
+        "ouderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. niet vermeld",
+      "originalQuote": "GroenLinks wil zoveel mogelijk woningen toevoegen in de stad, zodat we natuur behouden en de reisafstanden beperken. We bouwen woningen voor wie de tekorten het grootst zijn: sociale huur en betaalbare koopwoningen voor starters en doorstromers, passende woningen voor ouderen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-026",
+      "text": "Opkoopbescherming wordt toegepast voor bestaande betaalbare en middeldure woningen in Den Haag om verkoop aan investeerders tegen te gaan.",
+      "summary": "Opkoopbescherming voor betaalbare en middeldure woningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "opkoopbescherming",
+        "betaalbare woningen",
+        "middeldure woningen",
+        "investeerders"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 24-25",
+      "originalQuote": "We passen de opkoopbescherming toe voor de bestaande betaalbare en middeldure woningen in Den Haag."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-027",
+      "text": "Het huurteam van de gemeente wordt versterkt met voldoende capaciteit om alle huurders te ondersteunen, zowel in de sociale als vrije huursector.",
+      "summary": "Versterking huurteam gemeente voor ondersteuning alle huurders",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huurteam",
+        "gemeente",
+        "ondersteuning",
+        "huurders",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 24-25",
+      "originalQuote": "Het huurteam van de gemeente wordt versterkt met voldoende capaciteit om alle huurders te ondersteunen, zowel in de sociale als in de vrije huursector."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-028",
+      "text": "Er komt een verplichte verhuurdersvergunning voor alle huurwoningen in Den Haag om misstanden in verhuur tegen te gaan.",
+      "summary": "Verplichte verhuurdersvergunning voor alle huurwoningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verhuurdersvergunning",
+        "verplicht",
+        "huurwoningen",
+        "misstanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 24-25",
+      "originalQuote": "GroenLinks wil daarom een verplichte verhuurdersvergunning voor alle huurwoningen in Den Haag."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-029",
+      "text": "De gemeente stelt de komende vier jaar tien locaties beschikbaar tegen lagere prijzen voor wooncoöperaties en ondersteunt deze met een wooncoöperatiefonds.",
+      "summary": "Tien locaties voor wooncoöperaties komende vier jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wooncoöperaties",
+        "tien locaties",
+        "vier jaar",
+        "wooncoöperatiefonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 24-25",
+      "originalQuote": "GroenLinks wil dat de gemeente de komende vier jaar tien locaties beschikbaar stelt tegen lagere prijzen en wooncoöperaties ondersteunt met een wooncoöperatiefonds."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-030",
+      "text": "Er komen 500 woningen bij met bijpassende begeleiding voor zorgdoelgroepen en jongeren uit de jeugdzorg, met goede spreiding over de wijken.",
+      "summary": "500 nieuwe woningen voor zorgdoelgroepen en jeugdzorg",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "500 woningen",
+        "zorgdoelgroepen",
+        "jeugdzorg",
+        "begeleiding",
+        "spreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 24-25",
+      "originalQuote": "De komende jaren komen er 500 woningen bij met bijpassende begeleiding. We zorgen voor een goede spreiding in de wijken en over de stad."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-031",
+      "text": "Alle nieuwbouw bestaat voor minimaal 40% uit sociale huur en voor 40% uit middeldure huur en koop, vastgelegd in een doelgroepenverordening.",
+      "summary": "Nieuwbouw minimaal 40% sociale huur, 40% middeldure huur/koop",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "40 procent",
+        "sociale huur",
+        "middeldure huur",
+        "doelgroepenverordening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 26-27",
+      "originalQuote": "GroenLinks stelt als voorwaarde dat alle nieuwbouw voor minimaal 40% uit sociale huur en voor 40% uit middeldure huur en koop bestaat."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-032",
+      "text": "Er wordt een Stadsakkoord gesloten met bouwers, woningcorporaties en ontwikkelaars over aantal woningen, type, grootte en verdichtingsvoorwaarden.",
+      "summary": "Stadsakkoord met bouwpartijen over woningbouwafspraken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stadsakkoord",
+        "bouwers",
+        "woningcorporaties",
+        "ontwikkelaars",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 26-27",
+      "originalQuote": "Met het sluiten van een Stadsakkoord versterken we de regie van de gemeente op de woningbouw."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-033",
+      "text": "Er wordt een leegstandsverordening ingesteld die eigenaren verplicht leegstand langer dan drie maanden te melden, bij langdurige leegstand wordt kraken gedoogd.",
+      "summary": "Leegstandsverordening met meldplicht na drie maanden",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leegstandsverordening",
+        "drie maanden",
+        "meldplicht",
+        "kraken",
+        "gedoogd"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 26-27",
+      "originalQuote": "We stellen een leegstandsverordening in die eigenaren verplicht om leegstand van langer dan drie maanden te melden. Bij langdurige leegstand wordt kraken gedoogd."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-034",
+      "text": "Er wordt budget beschikbaar gemaakt voor 'mijn wijk'-projecten waarbij bewoners samen met gemeente werken aan onderhoud en vernieuwing van wijken.",
+      "summary": "Budget voor 'mijn wijk'-projecten met bewoners",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mijn wijk projecten",
+        "budget",
+        "bewoners",
+        "onderhoud",
+        "vernieuwing"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 28-29",
+      "originalQuote": "Om aan te sluiten bij wensen, ideeën en behoeften van de bewoners maken we budget beschikbaar voor 'mijn wijk'-projecten."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-035",
+      "text": "Op alle daken van sociale huurwoningen komen zonnepanelen waar huurders direct van profiteren.",
+      "summary": "Zonnepanelen op alle daken sociale huurwoningen",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zonnepanelen",
+        "sociale huurwoningen",
+        "daken",
+        "huurders"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 30-31",
+      "originalQuote": "Op alle daken van de sociale huurwoningen komen zonnepanelen waar de huurders direct van profiteren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-036",
+      "text": "Verhuurders in de vrije huursector worden verplicht hun woningen uiterlijk in 2030 te isoleren volgens de Standaard voor woningisolatie.",
+      "summary": "Isolatieplicht vrije sector woningen voor 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verhuurders",
+        "vrije huursector",
+        "2030",
+        "isoleren",
+        "woningisolatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 30-31",
+      "originalQuote": "De gemeente maakt een plan om verhuurders in de vrije huursector te verplichten hun woningen uiterlijk in 2030 te isoleren volgens de Standaard voor woningisolatie."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-037",
+      "text": "GroenLinks wil burgerberaden opzetten om belangrijke onderwerpen met inwoners te bespreken en hen een stem te geven in de lokale politiek.",
+      "summary": "Burgerberaden voor inwonersparticipatie opzetten",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerberaden",
+        "inwonersparticipatie",
+        "democratie",
+        "inspraak"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, Niet gespecificeerd",
+      "originalQuote": "Via burgerberaden gaan we belangrijke onderwerpen met inwoners bespreken en hen zo een stem geven."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-038",
+      "text": "GroenLinks gaat de bezuinigingen in de cultuursector terugdraaien en blijven investeren in cultuur en kunst.",
+      "summary": "Bezuinigingen cultuursector terugdraaien",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cultuur",
+        "bezuinigingen",
+        "investeringen",
+        "kunstenaars"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, Niet gespecificeerd",
+      "originalQuote": "Dit willen we stimuleren door de bezuinigingen in de cultuursector terug te draaien en te blijven investeren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-039",
+      "text": "Er komt een Haagse Lerarenbeurs, vergelijkbaar met Rotterdam, om Haagse leraren aan te moedigen zich te blijven ontwikkelen en het lerarentekort tegen te gaan.",
+      "summary": "Invoering Haagse Lerarenbeurs voor lerarenontwikkeling",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lerarenbeurs",
+        "lerarenontwikkeling",
+        "lerarentekort",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 33",
+      "originalQuote": "Daarom willen we, net als in Rotterdam, een Haagse Lerarenbeurs invoeren. Zo kunnen we Haagse leraren aanmoedigen om zich te blijven ontwikkelen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-040",
+      "text": "Er komen voldoende bovenschoolse coaches voor begeleiding van leraren in basis- en voortgezet onderwijs om uitval van startende leraren te voorkomen.",
+      "summary": "Bovenschoolse coaches voor begeleiding startende leraren",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bovenschoolse coaches",
+        "startende leraren",
+        "begeleiding",
+        "uitval"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 33",
+      "originalQuote": "Daarom zorgen we voor genoeg bovenschoolse coaches die leraren in het basis- en voortgezet onderwijs kunnen begeleiden, om talent voor de klas te behouden."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-041",
+      "text": "Alle nieuwe schoolgebouwen worden energieneutraal gebouwd en bestaande gebouwen worden zo duurzaam mogelijk gemaakt. Er komen meer groene en toegankelijke schoolpleinen.",
+      "summary": "Energieneutrale nieuwe scholen, verduurzaming bestaande gebouwen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energieneutraal",
+        "schoolgebouwen",
+        "duurzaamheid",
+        "groene schoolpleinen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 34",
+      "originalQuote": "Alle nieuwe gebouwen worden energieneutraal gebouwd en bestaande gebouwen maken we zo duurzaam mogelijk."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-042",
+      "text": "De individuele studietoeslag voor studenten met een functiebeperking wordt verhoogd naar 300 euro per maand voor alle leeftijden.",
+      "summary": "Studietoeslag verhoogd naar €300 voor studenten met beperking",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studietoeslag",
+        "functiebeperking",
+        "studenten",
+        "300 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 35",
+      "originalQuote": "Daarom verhogen we de individuele studietoeslag voor alle leeftijden naar 300 euro per maand."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-043",
+      "text": "Het gebruik van wijkbudgetten wordt verbeterd en uitgebreid naar andere wijken, waarbij inwoners vanaf het begin een stem hebben in hoe gemeentegeld wordt uitgegeven.",
+      "summary": "Uitbreiding wijkbudgetten voor meer burgerparticipatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkbudgetten",
+        "burgerparticipatie",
+        "gemeentegeld",
+        "inwoners"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 35",
+      "originalQuote": "Daarom kijken we of we het gebruik van wijkbudgetten kunnen verbeteren en uitbreiden naar andere wijken."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-044",
+      "text": "Er worden meer burgerberaden opgezet waarbij inwoners via loting worden gekozen en een bindend advies uitbrengen over specifieke beleidsonderdelen.",
+      "summary": "Meer burgerberaden met bindend advies via loting",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerberaden",
+        "loting",
+        "bindend advies",
+        "beleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 36",
+      "originalQuote": "Daarom zetten we meer burgerberaden op... Zij brengen daarover een bindend advies uit. De bewoners in deze raden worden via loting gekozen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-045",
+      "text": "Hybride vergaderen wordt bij commissie- en raadsvergaderingen structureel mogelijk gemaakt voor betere toegankelijkheid van raadsleden, gasten en insprekers met een beperking.",
+      "summary": "Structureel hybride vergaderen voor gemeenteraad",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hybride vergaderen",
+        "gemeenteraad",
+        "toegankelijkheid",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 36",
+      "originalQuote": "Hybride vergaderen (waarbij mensen zowel fysiek als digitaal kunnen deelnemen) wordt bij commissie- en raadsvergaderingen in de gemeenteraad structureel mogelijk gemaakt."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-046",
+      "text": "Er komt een loket Digitale Zaken waar mensen met alle vragen over digitalisering terecht kunnen, zodat betekenisvol menselijk contact behouden blijft.",
+      "summary": "Loket Digitale Zaken voor ondersteuning digitalisering",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loket",
+        "digitale zaken",
+        "digitalisering",
+        "menselijk contact"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 36",
+      "originalQuote": "We openen een loket Digitale Zaken waar mensen met al hun vragen over digitalisering terecht kunnen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-047",
+      "text": "Er wordt geëxperimenteerd met kinderparticipatie in Central Innovation District, Binckhorst en Den Haag Zuidwest, met uitbreiding naar andere wijken na evaluatie.",
+      "summary": "Experiment kinderparticipatie in drie wijken",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderparticipatie",
+        "experiment",
+        "binckhorst",
+        "den haag zuidwest"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 36",
+      "originalQuote": "Daarom experimenteren we in het Central Innovation District, de Binckhorst en Den Haag Zuidwest met kinderparticipatie."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-048",
+      "text": "Het subsidiebudget voor kunst en cultuur wordt op peil gebracht met een investering van minstens 75 miljoen euro per jaar.",
+      "summary": "Minstens €75 miljoen jaarlijks voor kunst en cultuur",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidiebudget",
+        "kunst",
+        "cultuur",
+        "75 miljoen euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 37",
+      "originalQuote": "Daarom brengen we het subsidiebudget op peil en investeren we minstens 75 miljoen euro per jaar in kunst en cultuur."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-049",
+      "text": "Het initiatief 'Cultuuronderwijs op z'n Haags' wordt uitgebreid van basisonderwijs naar speciaal en voortgezet onderwijs.",
+      "summary": "Uitbreiding cultuuronderwijs naar speciaal en voortgezet onderwijs",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuuronderwijs",
+        "speciaal onderwijs",
+        "voortgezet onderwijs",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 37",
+      "originalQuote": "Daarom breiden we het initiatief 'Cultuuronderwijs op z'n Haags' voor het basisonderwijs uit naar speciaal en voortgezet onderwijs."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-050",
+      "text": "Er komen meer vergunningen voor nachtclubs en verruiming van openingstijden als onderdeel van een betere visie op het nachtleven.",
+      "summary": "Meer vergunningen en langere openingstijden nachtclubs",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nachtclubs",
+        "vergunningen",
+        "openingstijden",
+        "nachtleven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 37",
+      "originalQuote": "We geven meer vergunningen voor nachtclubs en verruimen openingstijden."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-051",
+      "text": "Fair Saturday wordt georganiseerd op de zaterdag na Black Friday, waarbij artiesten en culturele organisaties samenwerken om goede doelen te ondersteunen.",
+      "summary": "Fair Saturday na Black Friday voor goede doelen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "fair saturday",
+        "black friday",
+        "artiesten",
+        "goede doelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 38",
+      "originalQuote": "Op de zaterdag na Black Friday willen we in Den Haag, net als op ruim 130 plekken op de wereld, Fair Saturday organiseren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-052",
+      "text": "Er komen meer plekken om binnen en buiten in de eigen wijk te sporten, zoals outdoor basketbalvelden, en meer speeltuinen waarbij kinderen meedenken bij de inrichting.",
+      "summary": "Meer sportplekken en speeltuinen met kinderparticipatie",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportplekken",
+        "basketbalvelden",
+        "speeltuinen",
+        "kinderparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 37",
+      "originalQuote": "Daarom willen we zorgen voor meer plekken in Den Haag waar binnen en buiten in de eigen wijk gesport kan worden, zoals outdoor basketbalvelden. Ook leggen we meer speeltuinen aan."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-053",
+      "text": "De gemeente stopt met samenwerking met instellingen en bedrijven die discrimineren.",
+      "summary": "Geen samenwerking meer met discriminerende instellingen en bedrijven",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeente",
+        "samenwerking",
+        "instellingen",
+        "bedrijven",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. [niet opgegeven]",
+      "originalQuote": "Daarom willen we dat de gemeente niet meer samenwerkt met instellingen en bedrijven die discrimineren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-054",
+      "text": "Het gemeentepersoneel moet in alle functies een goede afspiegeling zijn van de Haagse bevolking door gerichte werving onder alle inwoners.",
+      "summary": "Gemeentepersoneel moet afspiegeling zijn van Haagse bevolking",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeentepersoneel",
+        "afspiegeling",
+        "bevolking",
+        "werving",
+        "functies"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. [niet opgegeven]",
+      "originalQuote": "Ook zorgen we ervoor dat de gemeente zelf werknemers werft onder alle inwoners van Den Haag. Het personeel van de gemeente moet in alle functies een goede afspiegeling zijn van de Haagse bevolking."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-055",
+      "text": "Voor alle wijken wordt een wijkveiligheidsplan opgesteld en het aantal wijkagenten wordt uitgebreid om de veiligheid in buurten en wijken te verbeteren.",
+      "summary": "Wijkveiligheidsplan voor elke wijk en uitbreiding aantal wijkagenten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkagenten",
+        "wijkveiligheidsplan",
+        "veiligheid",
+        "buurt"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 42-43",
+      "originalQuote": "Daarom breiden we het aantal wijkagenten uit en maken we voor elke wijk een wijkveiligheidsplan."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-056",
+      "text": "Alle bus- en tramhaltes worden transparant uitgevoerd en voorzien van goede verlichting in het donker voor verbetering van de veiligheid.",
+      "summary": "Transparante en goed verlichte bus- en tramhaltes",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bushaltes",
+        "tramhaltes",
+        "verlichting",
+        "transparant"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 42-43",
+      "originalQuote": "Alle bus- en tramhaltes worden transparant en in het donker goed verlicht."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-057",
+      "text": "BOA's worden niet bewapend als onderdeel van het veiligheidsbeleid in de stad.",
+      "summary": "BOA's blijven onbewapend",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "boa",
+        "bewapening",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 42-43",
+      "originalQuote": "BOA's bewapenen we niet."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-058",
+      "text": "De inzet van veiligheidscamera's wordt jaarlijks geëvalueerd en camera's mogen alleen als tijdelijke maatregel voor specifieke problemen worden ingezet.",
+      "summary": "Jaarlijkse evaluatie veiligheidscamera's, alleen tijdelijke inzet",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veiligheidscameras",
+        "evaluatie",
+        "tijdelijk",
+        "privacy"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 42-43",
+      "originalQuote": "Camera's mogen alleen ingezet worden als tijdelijke maatregel voor specifieke problemen in een bepaalde buurt of wijk. Daarom evalueren we de inzet van veiligheidscamera's ieder jaar."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-059",
+      "text": "Er komt een concreet actieplan tegen etnisch profileren, opgesteld door de Haagse politie en gemeenteraad.",
+      "summary": "Concreet actieplan tegen etnisch profileren door politie en gemeenteraad",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "etnisch profileren",
+        "actieplan",
+        "politie",
+        "gemeenteraad"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 42-43",
+      "originalQuote": "Er komt een concreet actieplan, geformuleerd door de Haagse politie en de gemeenteraad, om het etnisch profileren aan te pakken."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-060",
+      "text": "Een Centrum Seksueel Geweld wordt in Den Haag gerealiseerd zodat Haagse slachtoffers in hun eigen stad geholpen kunnen worden.",
+      "summary": "Realisatie Centrum Seksueel Geweld in Den Haag",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "centrum seksueel geweld",
+        "slachtoffers",
+        "zorg",
+        "opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 44-45",
+      "originalQuote": "We zetten ons in voor de komst van een Centrum Seksueel Geweld in Den Haag."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-061",
+      "text": "Er wordt een ethische commissie ingesteld die de gemeente advies geeft over kansen en risico's van nieuwe technologie en het gebruik van data.",
+      "summary": "Instelling ethische commissie voor technologie en data-advies",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ethische commissie",
+        "technologie",
+        "data",
+        "privacy"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 44-45",
+      "originalQuote": "Daarom stellen we een ethische commissie in die de gemeente gevraagd en ongevraagd advies geeft over de kansen en risico's van nieuwe technologie en het gebruik van data."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-062",
+      "text": "Er wordt een publiek toegankelijk algoritmeregister gemaakt met alle algoritmes die namens de gemeente besluiten maken of voorbereiden, inclusief datasets en broncode.",
+      "summary": "Publiek algoritmeregister met alle gemeentelijke algoritmes en datasets",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "algoritmeregister",
+        "algoritmes",
+        "datasets",
+        "broncode",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 44-45",
+      "originalQuote": "We maken een voor iedereen toegankelijk algoritmeregister, waarin alle algoritmes staan die namens de gemeente geautomatiseerde keuzes maken, besluiten voorbereiden, of voorspellingen doen over individuele inwoners en groepen inwoners."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-063",
+      "text": "Er wordt een publiek sensorregister met meldplicht gemaakt waarin alle sensoren in de openbare ruimte worden opgenomen.",
+      "summary": "Publiek sensorregister met meldplicht voor alle sensoren openbare ruimte",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sensorregister",
+        "sensoren",
+        "openbare ruimte",
+        "meldplicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 44-45",
+      "originalQuote": "We maken een publiek toegankelijk sensorregister met meldplicht, waarin alle sensoren (waaronder bijvoorbeeld camera's, luchtkwaliteits– en geursensoren, verkeersmeters, etc.) in de openbare ruimte worden opgenomen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-064",
+      "text": "Uitgaansgelegenheden die discrimineren krijgen één waarschuwing en verliezen bij volgende overtreding hun vergunning.",
+      "summary": "Vergunningintrekking voor discriminerende uitgaansgelegenheden na waarschuwing",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitgaansgelegenheden",
+        "discriminatie",
+        "vergunning",
+        "waarschuwing"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 44-45",
+      "originalQuote": "Uitgaansgelegenheden die worden betrapt op discrimineren, krijgen één waarschuwing en verliezen bij een volgende overtreding hun vergunning."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-065",
+      "text": "Keti Koti op 1 juli wordt vrije dag voor ambtenaren van Den Haag, met lespakketten voor scholen en activiteiten op meerdere plekken in de stad.",
+      "summary": "Keti Koti vrije dag ambtenaren, lespakketten scholen, stadsactiviteiten",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "keti koti",
+        "ambtenaren",
+        "vrije dag",
+        "lespakketten",
+        "slavernijverleden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "Voor ambtenaren van de stad Den Haag wordt het een vrije dag, we zorgen voor lespakketten voor scholen over het slavernijverleden en organiseren activiteiten op meerdere plekken in de stad."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-066",
+      "text": "Vanaf schaal 11 streeft de gemeente naar 30% werknemers met migratieachtergrond en/of beperking in de gemeentelijke organisatie.",
+      "summary": "30% werknemers migratieachtergrond/beperking vanaf schaal 11 gemeente",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gemeente",
+        "werknemers",
+        "migratieachtergrond",
+        "beperking",
+        "diversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "En vanaf schaal 11 streven we er bij de gemeente naar dat 30% van de werknemers een migratieachtergrond heeft en/of een beperking."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-067",
+      "text": "Bij elk beleidsvoorstel wordt een inclusieparagraaf toegevoegd waarin het stadsbestuur verantwoording aflegt over inclusie in beleidskeuzes.",
+      "summary": "Inclusieparagraaf verplicht bij elk beleidsvoorstel",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inclusieparagraaf",
+        "beleidsvoorstel",
+        "inclusie",
+        "verantwoording"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "Bij elk beleidsvoorstel wordt een inclusieparagraaf toegevoegd, waardoor het stadsbestuur structureel verantwoording aflegt over de manier waarop het inclusie meeneemt in haar beleidskeuzes."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-068",
+      "text": "De gemeente communiceert genderneutraal en gebruikt voor- en achternaam of voorletters en achternaam in briefaanhef.",
+      "summary": "Genderneutrale communicatie gemeente met aangepaste briefaanhef",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "genderneutraal",
+        "communicatie",
+        "briefaanhef",
+        "gemeente"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "De gemeente communiceert genderneutraal en gebruikt voor- en achternaam of voorletters en achternaam in de aanhef van brieven."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-069",
+      "text": "Er komen voldoende openbare toiletten die allemaal rolstoeltoegankelijk en genderneutraal zijn met mogelijkheden om baby's te verschonen.",
+      "summary": "Voldoende rolstoeltoegankelijke, genderneutrale openbare toiletten met verschoonfaciliteit",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "openbare toiletten",
+        "rolstoeltoegankelijk",
+        "genderneutraal",
+        "verschonen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "We zorgen voor voldoende openbare toiletten in Den Haag. Deze moeten allemaal rolstoeltoegankelijk en genderneutraal zijn. Ook is er de mogelijkheden om baby's te verschonen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-070",
+      "text": "In het stadhuis en stadsdeelkantoren komen genderneutrale toiletten.",
+      "summary": "Genderneutrale toiletten in stadhuis en stadsdeelkantoren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "genderneutrale toiletten",
+        "stadhuis",
+        "stadsdeelkantoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "Ook in het stadhuis en in de stadsdeelkantoren komen genderneutrale toiletten."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-071",
+      "text": "Alle bibliotheken krijgen een invalidentoilet en het bouwen van invalidentoiletten op alle Haagse stations wordt aangemoedigd.",
+      "summary": "Invalidentoiletten in alle bibliotheken en stimulering voor alle stations",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "invalidentoiletten",
+        "bibliotheken",
+        "stations",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46-47",
+      "originalQuote": "We zorgen ervoor dat alle bibliotheken een invalidentoilet hebben. We moedigen het bouwen van invalidentoiletten aan op alle Haagse stations."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-072",
+      "text": "De Doubletstraat wordt opgeknapt en de huidige huizen in de Rivierenbuurt voor sekswerk worden behouden.",
+      "summary": "Opknappen Doubletstraat en behoud huizen Rivierenbuurt sekswerk",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "doubletstraat",
+        "rivierenbuurt",
+        "sekswerk",
+        "opknappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 48-49",
+      "originalQuote": "We pakken overlast in de Rivierenbuurt en het Oude Centrum aan en knappen de Doubletstraat op... De huidige huizen in de Riverenbuurt behouden we."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-073",
+      "text": "Voor iedere nieuwe Hagenaar wordt een boom geplant, wat de komende raadsperiode tienduizend extra bomen oplevert. Per wijk wordt een minimumaantal bomen vastgesteld.",
+      "summary": "Tienduizend nieuwe bomen komende raadsperiode, minimumaantal per wijk",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bomen",
+        "vergroening",
+        "wijken",
+        "minimumaantal"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 52",
+      "originalQuote": "Voor iedere nieuwe Hagenaar planten we een boom, door dit te doen komen er de komende raadsperiode tienduizend bomen bij. Per wijk stellen we een minimumaantal bomen vast."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-074",
+      "text": "Het aantal groene daken in de stad wordt verdrievoudigd om de vergroening te versterken.",
+      "summary": "Verdrievoudiging aantal groene daken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groene daken",
+        "verdrievoudigen",
+        "vergroening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 52",
+      "originalQuote": "verdrievoudigen het aantal groene daken in de stad"
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-075",
+      "text": "Meer boswachters worden aangesteld voor handhaving en educatie in natuurgebieden. Extra geld wordt vrijgemaakt voor dit doel.",
+      "summary": "Meer boswachters voor handhaving en educatie in natuurgebieden",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boswachters",
+        "handhaving",
+        "natuurgebieden",
+        "educatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 52",
+      "originalQuote": "We maken extra geld vrij voor handhaving: er worden meer boswachters aangesteld die naast handhaving ook een educatieve functie vervullen in onze natuurgebieden."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-076",
+      "text": "In iedere wijk worden voldoende koele plekken gecreëerd, waarbij iedere woning maximaal 300 meter verwijderd is van een aangename, groene en koele verblijfplek.",
+      "summary": "Koele plekken per wijk, max 300m van elke woning",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koele plekken",
+        "wijken",
+        "afstand",
+        "klimaatadaptatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 52",
+      "originalQuote": "In iedere wijk creëren we voldoende koele plekken. Iedere woning is maximaal 300 meter verwijderd van een aangename, groene en koele verblijfplek."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-077",
+      "text": "Het aantal plastic-, glas-, en papierbakken wordt verdubbeld en beter gespreid over wijken. Er worden ondergrondse afvalbakken voor GFT-afval geïntroduceerd.",
+      "summary": "Verdubbeling afvalbakken, ondergrondse GFT-containers",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "afvalbakken",
+        "verdubbelen",
+        "ondergronds",
+        "gft"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 53",
+      "originalQuote": "We verdubbelen het aantal plastic-, glas-, en papierbakken en spreiden ze beter over de wijk. Daarnaast starten we met ondergrondse afvalbakken voor het GFT-afval"
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-078",
+      "text": "In 2024 hebben alle ondergrondse vuilcontainers een tuintje om de containerlocaties te verfraaien.",
+      "summary": "Alle ondergrondse containers krijgen tuintje in 2024",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "containertuintjes",
+        "ondergrondse containers",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 53",
+      "originalQuote": "We breiden het aantal containertuintjes uit. In 2024 hebben alle ondergrondse vuilcontainers een tuintje."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-079",
+      "text": "In 2026 zijn meerdere aardwarmtebronnen operationeel die met toekomstbestendige warmtenetten zijn aangesloten op woningen.",
+      "summary": "Meerdere aardwarmtebronnen operationeel in 2026",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aardwarmte",
+        "warmtenetten",
+        "woningen",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 54",
+      "originalQuote": "In 2026 zijn meerdere bronnen operationeel die met toekomstbestendige warmtenetten zijn aangesloten op woningen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-080",
+      "text": "Op alle gemeentelijke daken liggen uiterlijk in 2025 zonnepanelen en zonnecollectoren.",
+      "summary": "Zonnepanelen op alle gemeentelijke daken voor 2025",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zonnepanelen",
+        "gemeentelijke daken",
+        "deadline",
+        "zonnecollectoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 54",
+      "originalQuote": "Op alle daken die in haar bezit zijn, liggen uiterlijk in 2025 zonnepanelen en zonnecollectoren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-081",
+      "text": "In 2030 is de hele woningvoorraad van Den Haag geïsoleerd om energie te besparen en woningen aan te sluiten op duurzame warmtebronnen.",
+      "summary": "Volledige woningvoorraad geïsoleerd in 2030",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "isolatie",
+        "woningvoorraad",
+        "energiebesparing",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 54",
+      "originalQuote": "In 2030 is de hele woningvoorraad van Den Haag geïsoleerd."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-082",
+      "text": "Sociale woningen worden vóór 2025 goed geïsoleerd door woningbouwcorporaties om woonlasten te verlagen en comfort te verhogen.",
+      "summary": "Sociale woningen geïsoleerd voor 2025",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale woningen",
+        "isolatie",
+        "corporaties",
+        "woonlasten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 55",
+      "originalQuote": "Woningen worden vóór 2025 goed geïsoleerd."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-083",
+      "text": "De gemeente haalt in 2023 het hoogste niveau (niveau 5) op de CO2-Prestatieladder voor maatschappelijk verantwoord inkopen.",
+      "summary": "Niveau 5 CO2-Prestatieladder in 2023",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "co2-prestatieladder",
+        "niveau 5",
+        "inkoop",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 55",
+      "originalQuote": "door in 2023 het hoogste niveau (niveau 5) op de CO2-Prestatieladder te halen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-084",
+      "text": "Alle straten met basisscholen worden schoolstraten: afgesloten voor auto's tijdens tijden dat kinderen naar school en naar huis gaan.",
+      "summary": "Alle basisschoolstraten worden autovrije schoolstraten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolstraten",
+        "basisscholen",
+        "autovrij",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 56",
+      "originalQuote": "Alle straten met basisscholen worden schoolstraten: deze straten zijn afgesloten voor auto's op tijden waarop kinderen naar school en naar huis gaan."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-085",
+      "text": "In 2025 is al het openbaar vervoer overal toegankelijk voor mensen met mobiliteitsbeperkingen, rolstoelgebruikers en reizigers met kinderwagens.",
+      "summary": "Volledig toegankelijk OV in 2025",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "toegankelijkheid",
+        "rolstoel",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 57",
+      "originalQuote": "In 2025 is al het openbaar vervoer overal toegankelijk voor mensen die slecht ter been zijn, in een rolstoel zitten of met een kinderwagen reizen."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-086",
+      "text": "Het maximum aantal commerciële deelscooters en deel-e-bikes wordt gesteld op 1000 stuks elk. Commerciële bromfietsen worden verboden.",
+      "summary": "Max 1000 deelscooters en deel-e-bikes, bromfietsenverbod",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "deelvervoer",
+        "maximum",
+        "bromfietsen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 57",
+      "originalQuote": "We maximeren zowel het aantal commerciële deelscooters (snorfietsen, blauw kenteken) als het aantal deel-(e-)bikes op elk 1000. We verbieden commerciële bromfietsen (geel kenteken)"
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-087",
+      "text": "In de bebouwde kom geldt een maximumsnelheid van 30 km per uur, behalve op rijkswegen. Er wordt actief gehandhaafd op snelheidsovertredingen.",
+      "summary": "30 km/u maximumsnelheid bebouwde kom, actieve handhaving",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "bebouwde kom",
+        "handhaving",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 57",
+      "originalQuote": "In de bebouwde kom geldt een maximumsnelheid van 30 km per uur, behalve op rijkswegen. We handhaven actief op de maximumsnelheid."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-088",
+      "text": "Milieuzones worden uitgebreid naar de ring om het centrum om vervuilende vrachtwagens, bestelbussen, personenauto's en brommers te weren. Post- en pakketbezorging, winkelbevoorrading en thuisbezorging worden vanaf 2025 emissieloos.",
+      "summary": "Uitbreiding milieuzones en emissieloze bezorging vanaf 2025",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "milieuzones",
+        "bezorging",
+        "emissieloos",
+        "vrachtwagens"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 46",
+      "originalQuote": "We breiden de huidige milieuzones uit. Ook in de ring om het centrum weren we de meest vervuilende vrachtwagens, bestel-, personenauto's en brommers. Post- en pakketbezorging, bevoorrading van winkels en horeca en thuisbezorging zijn in onze stad vanaf 2025 emissieloos."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-089",
+      "text": "Het hele centrum wordt autoluw voor voetgangers en fietsers. Gedempte Gracht wordt parkeervrije fietsstraat. Onderzoek naar fietspad Grote Marktstraat. Alleen bewoners en bezoekers mogen parkeren binnen centrumring.",
+      "summary": "Autoluw centrum met parkeervrije fietsstraat Gedempte Gracht",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "autoluw",
+        "centrum",
+        "fietsstraat",
+        "parkeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 47",
+      "originalQuote": "Het hele centrum wordt een autoluwe zone waar voetgangers en fietsers zich makkelijk en veilig kunnen verplaatsen. Van de Gedempte Gracht maken we een parkeervrije fietsstraat."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-090",
+      "text": "Parkeervergunningen worden duurder met strengere normen. Zeer zware en grote auto's gaan fors meer betalen. Voor tweede vergunning gelden aanvullende eisen. Stoppen met extra vergunningen en betaald parkeren in hele stad.",
+      "summary": "Duurder parkeren, geen extra vergunningen, betaald parkeren stadswijd",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeervergunningen",
+        "betaald parkeren",
+        "duurder"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 49",
+      "originalQuote": "We hanteren strengere normen voor parkeervergunningen en maken ze duurder. Zeer zware en/of grote auto's gaan fors meer betalen. We stoppen met het uitgeven van extra parkeervergunningen en voeren in de hele stad betaald parkeren in."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-091",
+      "text": "Autoparkeernormen verdwijnen. Stimuleren elektrisch deelvervoer. Invoering fietsparkeernorm voor kantoren, bedrijven en voorzieningen om fietsen te stimuleren.",
+      "summary": "Afschaffen autoparkeernormen, invoeren fietsparkeernorm",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeernormen",
+        "deelvervoer",
+        "fietsparkeernorm"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 52",
+      "originalQuote": "De autoparkeernormen verdwijnen. We stimuleren de komst van elektrisch deelvervoer. We introduceren een fietsparkeernorm voor kantoren, bedrijven en voorzieningen die wordt ingezet om fietsen te stimuleren."
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-092",
+      "text": "OZB-tarief wordt verhoogd met 10% en stijgt mee met waardevermeerdering huizen (7%). Ruimere kwijtschelding OZB voor minima.",
+      "summary": "OZB-verhoging 10% plus waardevermeerdering, meer kwijtschelding minima",
+      "theme": "FINANCIEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ozb",
+        "tarief",
+        "verhoging",
+        "kwijtschelding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 60-61",
+      "originalQuote": "OZB-tarief verhogen met 10%, OZB mee laten stijgen met waardevermeerdering huizen (7%), Ruimere kwijtschelding OZB voor minima"
+    },
+    {
+      "promiseCode": "GroenLinks-DH-2022-093",
+      "text": "Invoeren maximumsnelheid 30 km/u in de stad. Budget van 1,2 miljoen per jaar voor implementatie.",
+      "summary": "Maximumsnelheid 30 km/u stadswijd",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "dertig kilometer"
+      ],
+      "sourceRef": "Verkiezingsprogramma GroenLinks den-haag 2022, p. 60-61",
+      "originalQuote": "Invoeren 30 km/u als maximale snelheid"
+    }
+  ]
+}

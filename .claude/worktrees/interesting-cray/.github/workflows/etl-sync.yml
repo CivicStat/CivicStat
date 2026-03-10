@@ -1,0 +1,36 @@
+name: ETL Sync
+
+on:
+  schedule:
+    - cron: '15 * * * *'  # Every hour at :15
+  workflow_dispatch:        # Manual trigger from GitHub UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Enable corepack
+        run: corepack enable
+
+      - name: Install dependencies
+        run: pnpm install --filter @ntp/etl --filter @ntp/db
+
+      - name: Generate Prisma client
+        run: cd packages/db && npx prisma generate
+
+      - name: Run incremental sync
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: cd packages/etl && npx tsx src/index.ts sync
+
+      - name: Summary
+        if: always()
+        run: echo "ETL sync completed at $(date -u)"

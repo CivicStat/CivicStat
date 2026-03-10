@@ -1,0 +1,566 @@
+{
+  "party": "PVV",
+  "partySlug": "pvv",
+  "program": "Nederland weer op 1",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "0e4a3174423d1790f8493f5ac5832060351943037d87236d44cf5d89f1b03746",
+  "totalPromises": 37,
+  "promises": [
+    {
+      "promiseCode": "PVV-2023-001",
+      "text": "Invoeren van een algehele asielstop om de instroom van asielzoekers naar Nederland volledig te stoppen.",
+      "summary": "Invoeren algehele asielstop",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielstop",
+        "asielzoekers",
+        "instroom",
+        "migratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 6-9",
+      "originalQuote": "Asielstop en algeheel restrictief immigratiebeleid"
+    },
+    {
+      "promiseCode": "PVV-2023-002",
+      "text": "Nederland stapt uit EU-regelgeving betreffende asiel en migratie en zegt het VN-Vluchtelingenverdrag op.",
+      "summary": "Opt-out EU-asielregels en opzeggen VN-Vluchtelingenverdrag",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "EU-regelgeving",
+        "asiel",
+        "migratie",
+        "VN-Vluchtelingenverdrag",
+        "opzeggen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 8",
+      "originalQuote": "Opt out EU-regelgeving asiel en migratie, opzeggen VN-Vluchtelingenverdrag"
+    },
+    {
+      "promiseCode": "PVV-2023-003",
+      "text": "Illegaliteit wordt strafbaar gesteld en illegalen worden vastgezet en uitgezet.",
+      "summary": "Strafbaar stellen illegaliteit, vastzetten en uitzetten illegalen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "illegaliteit",
+        "strafbaar",
+        "illegalen",
+        "vastzetten",
+        "uitzetten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 8",
+      "originalQuote": "Strafbaar stellen illegaliteit: illegalen vastzetten en uitzetten"
+    },
+    {
+      "promiseCode": "PVV-2023-004",
+      "text": "Invoeren van tewerkstellingsvergunningen voor EU-onderdanen om arbeidsmigratie te beperken.",
+      "summary": "Tewerkstellingsvergunning voor EU-onderdanen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tewerkstellingsvergunning",
+        "EU-onderdanen",
+        "arbeidsmigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 8-9",
+      "originalQuote": "Introductie tewerkstellingsvergunning voor EU-onderdanen"
+    },
+    {
+      "promiseCode": "PVV-2023-005",
+      "text": "Verlaging van de BTW op boodschappen van 9% naar 0%.",
+      "summary": "BTW boodschappen naar 0%",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BTW",
+        "boodschappen",
+        "belasting",
+        "verlaging"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 11",
+      "originalQuote": "Verlaging BTW op boodschappen van 9% naar 0"
+    },
+    {
+      "promiseCode": "PVV-2023-006",
+      "text": "Afschaffen van het eigen risico in de zorgverzekering.",
+      "summary": "Afschaffen eigen risico zorg",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "zorgverzekering",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 11, 17",
+      "originalQuote": "Afschaffen van het eigen risico in de zorg"
+    },
+    {
+      "promiseCode": "PVV-2023-007",
+      "text": "Verlagen van de AOW-leeftijd naar 65 jaar.",
+      "summary": "AOW-leeftijd naar 65 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "AOW-leeftijd",
+        "pensioen",
+        "65 jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 11",
+      "originalQuote": "Verlagen AOW-leeftijd naar 65 jaar"
+    },
+    {
+      "promiseCode": "PVV-2023-008",
+      "text": "Aanstelling van 10.000 extra politieagenten en meer agenten zichtbaar op straat maken.",
+      "summary": "10.000 extra politieagenten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "politieagenten",
+        "10.000",
+        "extra",
+        "straat"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 14",
+      "originalQuote": "10.000 extra politieagenten en veel meer agenten zichtbaar op straat"
+    },
+    {
+      "promiseCode": "PVV-2023-009",
+      "text": "Invoering van levenslange gevangenisstraf die weer echt levenslang wordt.",
+      "summary": "Levenslange gevangenisstraf echt levenslang",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "levenslange gevangenisstraf",
+        "levenslang",
+        "gevangenis"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 14",
+      "originalQuote": "Levenslange gevangenisstraf wordt weer echt levenslang"
+    },
+    {
+      "promiseCode": "PVV-2023-010",
+      "text": "Gevangenen moeten een uniform dragen en 40 uur per week werken in de gevangenis.",
+      "summary": "Gevangenen uniform en 40 uur werken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gevangenen",
+        "uniform",
+        "40 uur",
+        "werken",
+        "gevangenis"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 14",
+      "originalQuote": "gevangenen moeten een uniform dragen en 40 uur per week arbeid verrichten"
+    },
+    {
+      "promiseCode": "PVV-2023-011",
+      "text": "Sociale huren verlagen en de huurtoeslag verhogen.",
+      "summary": "Sociale huren verlagen, huurtoeslag verhogen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale huren",
+        "verlagen",
+        "huurtoeslag",
+        "verhogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 11, 20",
+      "originalQuote": "Verlagen sociale huren"
+    },
+    {
+      "promiseCode": "PVV-2023-012",
+      "text": "Voorrang voor Nederlanders bij toewijzing van sociale huurwoningen in plaats van statushouders.",
+      "summary": "Voorrang Nederlanders sociale huurwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorrang",
+        "Nederlanders",
+        "sociale huurwoningen",
+        "statushouders"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 20",
+      "originalQuote": "Geen voorrang voor statushouders bij de toewijzing van sociale huurwoningen, maar voorrang voor Nederlanders"
+    },
+    {
+      "promiseCode": "PVV-2023-013",
+      "text": "De energiebelasting én de BTW op energie verlagen om de hoge energierekening te verlagen voor Nederlandse burgers.",
+      "summary": "Energiebelasting en BTW op energie verlagen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energiebelasting",
+        "BTW",
+        "energie",
+        "verlaging",
+        "belastingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 23",
+      "originalQuote": "Daarom wil de PVV de energiebelasting én de BTW op energie verlagen."
+    },
+    {
+      "promiseCode": "PVV-2023-014",
+      "text": "Kolen- en gascentrales blijven open houden in plaats van deze te sluiten.",
+      "summary": "Kolen- en gascentrales open houden",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kolencentrales",
+        "gascentrales",
+        "energieproductie",
+        "fossiele"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 23-24",
+      "originalQuote": "• Kolen- en gascentrales blijven open"
+    },
+    {
+      "promiseCode": "PVV-2023-015",
+      "text": "Nieuwe kerncentrales bijbouwen voor de Nederlandse energievoorziening.",
+      "summary": "Nieuwe kerncentrales bouwen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kerncentrales",
+        "kernenergie",
+        "energievoorziening",
+        "bouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 23-24",
+      "originalQuote": "• Nieuwe kerncentrales bijbouwen"
+    },
+    {
+      "promiseCode": "PVV-2023-016",
+      "text": "Klimaatwet intrekken en zich terugtrekken uit het VN-Klimaatakkoord.",
+      "summary": "Klimaatwet intrekken, uit VN-Klimaatakkoord",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Klimaatwet",
+        "VN-Klimaatakkoord",
+        "intrekken",
+        "terugtrekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 24",
+      "originalQuote": "• Terugtrekken uit het VN-Klimaatakkoord; Klimaatwet intrekken"
+    },
+    {
+      "promiseCode": "PVV-2023-017",
+      "text": "Geen windturbines en geen zonneparken meer plaatsen in Nederland.",
+      "summary": "Verbod windturbines en zonneparken",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windturbines",
+        "zonneparken",
+        "verbod",
+        "duurzame energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 24",
+      "originalQuote": "• Geen windturbines, geen zonneparken"
+    },
+    {
+      "promiseCode": "PVV-2023-018",
+      "text": "Stikstofregels schrappen of op zijn minst versoepelen zodat boeren kunnen blijven boeren.",
+      "summary": "Stikstofregels schrappen of versoepelen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstofregels",
+        "schrappen",
+        "versoepeling",
+        "boeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 27",
+      "originalQuote": "• Stikstofregels schrappen, op z'n minst versoepelen"
+    },
+    {
+      "promiseCode": "PVV-2023-019",
+      "text": "Verbod op ritueel slachten invoeren en dieren onomkeerbaar bedwelmen vóór de slacht.",
+      "summary": "Verbod ritueel slachten, bedwelming verplicht",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ritueel slachten",
+        "verbod",
+        "bedwelming",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 27-28",
+      "originalQuote": "• Dieren onomkeerbaar bedwelmen vóór de slacht • Verbod op ritueel slachten"
+    },
+    {
+      "promiseCode": "PVV-2023-020",
+      "text": "Gekozen burgemeester invoeren in Nederlandse gemeenten.",
+      "summary": "Gekozen burgemeester invoeren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gekozen",
+        "burgemeester",
+        "democratie",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 30",
+      "originalQuote": "• Gekozen burgemeester"
+    },
+    {
+      "promiseCode": "PVV-2023-021",
+      "text": "Invoering van een bindend referendum voor Nederlandse burgers.",
+      "summary": "Bindend referendum invoeren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bindend referendum",
+        "democratie",
+        "burgerparticipatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 30",
+      "originalQuote": "• Invoering bindend referendum"
+    },
+    {
+      "promiseCode": "PVV-2023-022",
+      "text": "De Eerste Kamer afschaffen als onderdeel van democratische hervormingen.",
+      "summary": "Eerste Kamer afschaffen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Eerste Kamer",
+        "afschaffen",
+        "democratie",
+        "Statengeneraal"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 30",
+      "originalQuote": "• Afschaffen Eerste Kamer"
+    },
+    {
+      "promiseCode": "PVV-2023-023",
+      "text": "De financiering van de NPO geheel beëindigen en stoppen met publieke omroepfinanciering.",
+      "summary": "NPO-financiering geheel beëindigen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "NPO",
+        "financiering",
+        "beëindigen",
+        "publieke omroep"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 31",
+      "originalQuote": "• De financiering van de NPO wordt geheel beëindigd"
+    },
+    {
+      "promiseCode": "PVV-2023-024",
+      "text": "20 procent salarisverlaging voor bewindslieden, Kamerleden en Europarlementariërs doorvoeren.",
+      "summary": "20% salarisverlaging politici",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "salarisverlaging",
+        "bewindslieden",
+        "Kamerleden",
+        "Europarlementariërs"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 31",
+      "originalQuote": "• 20 procent salarisverlaging voor bewindslieden, Kamerleden en Europarlementariërs"
+    },
+    {
+      "promiseCode": "PVV-2023-025",
+      "text": "Islamitisch onderwijs verbieden omdat dit de Nederlandse vrijheid en waarden bedreigt.",
+      "summary": "Verbod islamitisch onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "islamitisch onderwijs",
+        "verbod",
+        "vrijheid",
+        "waarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 34",
+      "originalQuote": "• Verbod op islamitisch onderwijs, omdat dat onze vrijheid en onze waarden bedreigt"
+    },
+    {
+      "promiseCode": "PVV-2023-026",
+      "text": "Maximaal 20% van de onderwijsbegroting naar overhead, minimaal 80% naar de klas besteden.",
+      "summary": "Max 20% onderwijsbudget naar overhead, min 80% naar klas",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderwijsbegroting",
+        "overhead",
+        "klas",
+        "verdeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 34",
+      "originalQuote": "• Maximaal 20% van de onderwijsbegroting naar overhead, minimaal 80% naar de klas"
+    },
+    {
+      "promiseCode": "PVV-2023-027",
+      "text": "Forse beperking van het aantal buitenlandse studenten aan Nederlandse universiteiten.",
+      "summary": "Beperking buitenlandse studenten",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "buitenlandse studenten",
+        "beperking",
+        "universiteiten",
+        "studiemigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 35",
+      "originalQuote": "• Forse beperking van het aantal buitenlandse studenten"
+    },
+    {
+      "promiseCode": "PVV-2023-028",
+      "text": "Turkije uit de NAVO zetten vanwege onverenigbaarheid met westerse waarden.",
+      "summary": "Turkije uit NAVO",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Turkije",
+        "NAVO",
+        "uitzetting",
+        "bondgenootschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 37",
+      "originalQuote": "• Turkije uit de NAVO"
+    },
+    {
+      "promiseCode": "PVV-2023-029",
+      "text": "Defensie inzetten voor grensbewaking om de asielstormloop op Nederland te stoppen.",
+      "summary": "Defensie voor grensbewaking tegen asielzoekers",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Defensie",
+        "grensbewaking",
+        "asielzoekers",
+        "nationale veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 37",
+      "originalQuote": "• Bij de verdediging van ons land hoort ook de verdediging van de Nederlandse grens. Defensie wordt ingezet voor grensbewaking om de asielstormloop op ons land te stoppen"
+    },
+    {
+      "promiseCode": "PVV-2023-030",
+      "text": "Maximumsnelheid verhogen naar 140 km/h op Nederlandse wegen.",
+      "summary": "Maximumsnelheid naar 140 km/h",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumsnelheid",
+        "verhogen",
+        "snelwegen",
+        "verkeer"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 41",
+      "originalQuote": "• Maximumsnelheid verhogen naar 140 km/h"
+    },
+    {
+      "promiseCode": "PVV-2023-031",
+      "text": "Vliegtaks afschaffen om vliegen betaalbaar te houden vanaf Nederlandse luchthavens.",
+      "summary": "Vliegtaks afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegtaks",
+        "afschaffen",
+        "luchtvaart",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 41",
+      "originalQuote": "• Vliegtaks afschaffen"
+    },
+    {
+      "promiseCode": "PVV-2023-032",
+      "text": "Nederlandse ambassade in Israël verplaatsen naar Jeruzalem ter versterking van de banden.",
+      "summary": "Nederlandse ambassade naar Jeruzalem",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambassade",
+        "Israël",
+        "Jeruzalem",
+        "verplaatsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 43",
+      "originalQuote": "› De Nederlandse ambassade in Israël moet worden verplaatst naar Jeruzalem"
+    },
+    {
+      "promiseCode": "PVV-2023-033",
+      "text": "Volledige stop op ontwikkelingshulp en het geld in eigen land besteden aan Nederlandse burgers.",
+      "summary": "Stop ontwikkelingshulp",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingshulp",
+        "stoppen",
+        "Nederland",
+        "belastinggeld"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 44",
+      "originalQuote": "› Volledige stop op ontwikkelingshulp"
+    },
+    {
+      "promiseCode": "PVV-2023-034",
+      "text": "Bindend referendum houden over Nexit, het uittreden van Nederland uit de Europese Unie.",
+      "summary": "Bindend referendum over Nexit",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend referendum",
+        "Nexit",
+        "Europese Unie",
+        "uittreding"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 44",
+      "originalQuote": "›Hierover houden we een bindend referendum"
+    },
+    {
+      "promiseCode": "PVV-2023-035",
+      "text": "BTW op voedingsmiddelen afschaffen om boodschappen betaalbaar te maken voor Nederlandse gezinnen.",
+      "summary": "BTW op voedingsmiddelen afschaffen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BTW",
+        "voedingsmiddelen",
+        "afschaffen",
+        "boodschappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 45",
+      "originalQuote": "We maken een vol boodschappenwagentje weer betaalbaar door de btw op voedingsmiddelen af te schaffen."
+    },
+    {
+      "promiseCode": "PVV-2023-036",
+      "text": "Het wettelijk minimumloon verhogen zodat werkenden, gepensioneerden en uitkeringsgerechtigden er in koopkracht op vooruitgaan.",
+      "summary": "Wettelijk minimumloon verhogen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumloon",
+        "verhogen",
+        "koopkracht",
+        "werkenden"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 45",
+      "originalQuote": "We verhogen het wettelijk minimumloon, waardoor werkenden maar ook gepensioneerden en mensen met een uitkering er in koopkracht op vooruit gaan."
+    },
+    {
+      "promiseCode": "PVV-2023-037",
+      "text": "AOW-leeftijd weer terugbrengen naar 65 jaar in plaats van de huidige hogere leeftijd.",
+      "summary": "AOW-leeftijd terug naar 65 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "AOW-leeftijd",
+        "pensioen",
+        "65 jaar",
+        "verlagen"
+      ],
+      "sourceRef": "Verkiezingsprogramma PVV 2023, p. 45",
+      "originalQuote": "de AOW-leeftijd gaat weer naar 65 jaar"
+    }
+  ]
+}

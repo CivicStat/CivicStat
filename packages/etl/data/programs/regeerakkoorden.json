@@ -1,0 +1,34 @@
+{
+  "description": "Regeerakkoorden (coalition agreements) for CivicStat ingestion",
+  "lastUpdated": "2026-02-13",
+  "akkoorden": {
+    "schoof": {
+      "name": "Kabinet-Schoof",
+      "title": "Hoop, lef en trots — Hoofdlijnenakkoord 2024-2028",
+      "subtitle": "Hoofdlijnenakkoord PVV/VVD/NSC/BBB",
+      "date": "2024-05-16",
+      "electionYear": 2024,
+      "leadParty": "PVV",
+      "coalitionParties": ["PVV", "VVD", "NSC", "BBB"],
+      "pdfFilename": "regeerakkoord-schoof_2024.pdf",
+      "pdfUrl": "https://www.kabinetsformatie2023.nl/binaries/kabinetsformatie/documenten/publicaties/2024/05/16/hoofdlijnenakkoord-tussen-de-fracties-van-pvv-vvd-nsc-en-bbb/20240515+Hoofdlijnenakkoord+PVV+VVD+NSC+BBB-toegankelijk-v2.pdf",
+      "sourceUrl": "https://www.kabinetsformatie2023.nl/documenten/publicaties/2024/05/16/hoofdlijnenakkoord-tussen-de-fracties-van-pvv-vvd-nsc-en-bbb",
+      "promiseCodePrefix": "SCHOOF-2024",
+      "notes": "Hoofdlijnenakkoord, geen uitgewerkt regeerprogramma. Korter dan een volwaardig coalitieakkoord."
+    },
+    "jetten": {
+      "name": "Kabinet-Jetten",
+      "title": "Aan de slag — Bouwen aan een beter Nederland",
+      "subtitle": "Coalitieakkoord D66/VVD/CDA 2026-2030",
+      "date": "2026-01-30",
+      "electionYear": 2026,
+      "leadParty": "D66",
+      "coalitionParties": ["D66", "VVD", "CDA"],
+      "pdfFilename": "regeerakkoord-jetten_2026.pdf",
+      "pdfUrl": "https://www.kabinetsformatie2025.nl/site/binaries/site-content/collections/documents/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030/coalitieakkoord-d66-vvd-cda.pdf",
+      "sourceUrl": "https://www.kabinetsformatie2025.nl/documenten/2026/01/30/aan-de-slag---coalitieakkoord-2026-2030",
+      "promiseCodePrefix": "JETTEN-2026",
+      "notes": "Minderheidskabinet (66 zetels), zoekt wisselende meerderheden."
+    }
+  }
+}

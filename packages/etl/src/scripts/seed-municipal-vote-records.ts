@@ -20,7 +20,10 @@
  *   npx tsx --env-file=.env src/index.ts seed-vote-records --parliament amsterdam --force
  */
 
-import { PrismaClient, VoteValue } from "@prisma/client";
+import { PrismaClient } from "@prisma/client";
+import type { VoteValue } from "@prisma/client";
+
+const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValue>;
 import { NotubizClient, type ParsedVoteBreakdown } from "../municipal/notubiz-client.js";
 
 const prisma = new PrismaClient();

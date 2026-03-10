@@ -1,0 +1,2271 @@
+{
+  "party": "D66",
+  "partySlug": "d66",
+  "program": "Het kan wél",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88770/",
+  "pdfHash": "e715ca37798e4e6236cf913312b8a306305f8d0a10519f900505f15eea6e68a4",
+  "totalPromises": 148,
+  "promises": [
+    {
+      "promiseCode": "D66-2025-001",
+      "text": "D66 wil tien nieuwe steden bouwen, te beginnen met het creëren van nieuw land tussen Amsterdam en Flevoland als eerste stad van de tien.",
+      "summary": "Tien nieuwe steden bouwen, eerste tussen Amsterdam en Flevoland",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwe steden",
+        "landaanwinning",
+        "amsterdam",
+        "flevoland",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 3",
+      "originalQuote": "We creëren nieuw land tussen Amsterdam en Flevoland, als eerste stad van de tien."
+    },
+    {
+      "promiseCode": "D66-2025-002",
+      "text": "D66 streeft naar onderwijs op maat voor elke Nederlander, waarbij mensen altijd kunnen blijven leren op een manier die bij hen past.",
+      "summary": "Onderwijs op maat voor elke Nederlander, levenslang leren",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "onderwijs",
+        "maatwerk",
+        "levenslang leren",
+        "persoonlijke ontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 3",
+      "originalQuote": "Onderwijs op maat voor elke Nederlander – altijd blijven leren, op een manier die bij je past."
+    },
+    {
+      "promiseCode": "D66-2025-003",
+      "text": "D66 wil betaalbare, groene energie van eigen bodem realiseren die goed is voor de portemonnee en het klimaat.",
+      "summary": "Betaalbare, groene energie van eigen bodem",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "groene energie",
+        "eigen bodem",
+        "betaalbaar",
+        "klimaat",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 3",
+      "originalQuote": "Betaalbare, groene energie van eigen bodem – goed voor je portemonnee én voor het klimaat."
+    },
+    {
+      "promiseCode": "D66-2025-004",
+      "text": "D66 wil een nieuwe, slimme economie met volop ruimte voor ondernemers en innoveren met lef.",
+      "summary": "Nieuwe, slimme economie met ruimte voor ondernemers en innovatie",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "slimme economie",
+        "ondernemers",
+        "innovatie",
+        "economische ontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 3",
+      "originalQuote": "Een nieuwe, slimme economie – volop ruimte voor ondernemers en innoveren met lef."
+    },
+    {
+      "promiseCode": "D66-2025-005",
+      "text": "Rechters krijgen de mogelijkheid om wetten te toetsen aan de Grondwet om grondrechten beter te beschermen.",
+      "summary": "Rechterlijke toetsing wetten aan Grondwet",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechters",
+        "wetten",
+        "grondwet",
+        "grondrechten",
+        "toetsing"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 9",
+      "originalQuote": "We versterken de bescherming van onze grondrechten door rechters de mogelijkheid te geven om wetten te toetsen aan de Grondwet."
+    },
+    {
+      "promiseCode": "D66-2025-006",
+      "text": "Sociale advocatuur krijgt meer budget om toegankelijke rechtsbijstand te garanderen voor iedereen ongeacht inkomen.",
+      "summary": "Meer budget voor sociale advocatuur",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociale advocatuur",
+        "budget",
+        "rechtsbijstand",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 9",
+      "originalQuote": "Als een gang naar de rechter nodig is, zorgen we voor laagdrempelige en goede rechtsbijstand. Sociale advocatuur krijgt daarom meer budget."
+    },
+    {
+      "promiseCode": "D66-2025-007",
+      "text": "Een duidelijke wettelijke basis wordt geregeld voor meerouderschap en draagmoederschap.",
+      "summary": "Wettelijke regeling meerouderschap en draagmoederschap",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerouderschap",
+        "draagmoederschap",
+        "wettelijke basis",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 9",
+      "originalQuote": "We regelen een duidelijke wettelijke basis voor meerouderschap en voor draagmoederschap."
+    },
+    {
+      "promiseCode": "D66-2025-008",
+      "text": "Het kiesstelsel wordt aangepast zodat mensen meer invloed krijgen op de samenstelling van de volksvertegenwoordiging.",
+      "summary": "Aanpassing kiesstelsel voor meer invloed",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kiesstelsel",
+        "aanpassing",
+        "volksvertegenwoordiging",
+        "invloed"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 10",
+      "originalQuote": "We passen het kiesstelsel aan zodat mensen meer invloed krijgen op de samenstelling van de volksvertegenwoordiging."
+    },
+    {
+      "promiseCode": "D66-2025-009",
+      "text": "Het stemrecht wordt uitgebreid naar zestien- en zeventienjarigen.",
+      "summary": "Stemrecht voor 16- en 17-jarigen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stemrecht",
+        "zestienjarigen",
+        "zeventienjarigen",
+        "uitbreiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 10",
+      "originalQuote": "We breiden het stemrecht uit naar zestien- en zeventienjarigen."
+    },
+    {
+      "promiseCode": "D66-2025-010",
+      "text": "Er komt een Ombudsman voor toekomstige generaties.",
+      "summary": "Ombudsman voor toekomstige generaties",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ombudsman",
+        "toekomstige generaties",
+        "instelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 10",
+      "originalQuote": "Daarom komt er een Ombudsman voor toekomstige generaties."
+    },
+    {
+      "promiseCode": "D66-2025-011",
+      "text": "Referenda worden mogelijk gemaakt om wetgeving te stoppen. Ook worden vaker burgerfora georganiseerd.",
+      "summary": "Referenda mogelijk maken en meer burgerfora",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referenda",
+        "wetgeving",
+        "burgerfora",
+        "participatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 10",
+      "originalQuote": "We maken referenda mogelijk om wetgeving te stoppen. Ook organiseren we vaker burgerfora om mensen zelf aan het woord te laten over de grote thema's in ons land."
+    },
+    {
+      "promiseCode": "D66-2025-012",
+      "text": "Het parlement wordt uitgebreid en krijgt meer ondersteuning vanwege toegenomen complexiteit en groeiend aantal inwoners.",
+      "summary": "Uitbreiding parlement en meer ondersteuning",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parlement",
+        "uitbreiding",
+        "ondersteuning",
+        "kamerleden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 10",
+      "originalQuote": "Daarom breiden we het parlement uit en zorgen we voor meer ondersteuning."
+    },
+    {
+      "promiseCode": "D66-2025-013",
+      "text": "De Eerste Kamer en de politieke functies van de koning worden afgeschaft.",
+      "summary": "Afschaffing Eerste Kamer en politieke rol koning",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eerste kamer",
+        "koning",
+        "politieke functies",
+        "afschaffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 10",
+      "originalQuote": "Daarom schaffen we de Eerste Kamer en de politieke functies van de koning af."
+    },
+    {
+      "promiseCode": "D66-2025-014",
+      "text": "Een leeftijdsgrens van 15 jaar wordt ingesteld voor verslavende apps die zorgen dat gebruikers blijven scrollen.",
+      "summary": "Leeftijdsgrens 15 jaar voor verslavende apps",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "vijftien jaar",
+        "verslavende apps",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 13",
+      "originalQuote": "Zolang grote techbedrijven niet gereguleerd zijn, wil D66 een duidelijke leeftijdsgrens van 15 jaar voor verslavende apps die zorgen dat je maar blijft scrollen."
+    },
+    {
+      "promiseCode": "D66-2025-015",
+      "text": "Iedereen krijgt auteursrecht over het eigen gezicht, lichaam en stem. Techbedrijven moeten nepbeelden binnen 24 uur verwijderen.",
+      "summary": "Auteursrecht over lichaam en verwijdering nepbeelden binnen 24u",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "auteursrecht",
+        "gezicht",
+        "lichaam",
+        "nepbeelden",
+        "24 uur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 13",
+      "originalQuote": "D66 geeft daarom iedereen het auteursrecht over het eigen gezicht, lichaam en de eigen stem. Techbedrijven worden verplicht om nepbeelden binnen 24 uur te verwijderen."
+    },
+    {
+      "promiseCode": "D66-2025-016",
+      "text": "Cannabis wordt volledig gereguleerd om het verdienmodel van criminelen weg te halen.",
+      "summary": "Volledige regulering cannabis",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cannabis",
+        "regulering",
+        "criminelen",
+        "verdienmodel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 14",
+      "originalQuote": "Aan de andere kant reguleren we cannabis volledig. Zo halen we het verdienmodel weg bij criminelen."
+    },
+    {
+      "promiseCode": "D66-2025-017",
+      "text": "Er komt een verbod op conversiehandelingen om gedwongen verandering van seksuele oriëntatie of genderidentiteit tegen te gaan.",
+      "summary": "Verbod op conversiehandelingen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "conversiehandelingen",
+        "seksuele oriëntatie",
+        "genderidentiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 15",
+      "originalQuote": "D66 wil een verbod op conversiehandelingen. Niemand mag gedwongen worden om te proberen diens seksuele oriëntatie of genderidentiteit te veranderen."
+    },
+    {
+      "promiseCode": "D66-2025-018",
+      "text": "Het sociaal minimum in Caribisch Nederland wordt gekoppeld aan de werkelijke kosten die nodig zijn om rond te komen.",
+      "summary": "Sociaal minimum Caribisch Nederland koppelen aan werkelijke kosten",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal minimum",
+        "caribisch nederland",
+        "werkelijke kosten",
+        "bestaanszekerheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 15",
+      "originalQuote": "Inwoners van Caribisch Nederland hebben recht op bestaanszekerheid. Daarom koppelen we het sociaal minimum aan de werkelijke kosten die nodig zijn om rond te komen."
+    },
+    {
+      "promiseCode": "D66-2025-019",
+      "text": "Keti Koti wordt een nationale feestdag, net als Bevrijdingsdag op 5 mei.",
+      "summary": "Keti Koti wordt nationale feestdag",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "keti koti",
+        "nationale feestdag",
+        "slavernijverleden",
+        "vrijheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 17",
+      "originalQuote": "Op 1 juli is het Keti Koti. Dat wordt een nationale feestdag, net als Bevrijdingsdag op 5 mei."
+    },
+    {
+      "promiseCode": "D66-2025-020",
+      "text": "Er komt een volwaardige bibliotheek in iedere buurt voor boeken, ontmoeting, taallessen en digitale hulp.",
+      "summary": "Bibliotheek in elke buurt",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bibliotheek",
+        "buurt",
+        "ontmoeting",
+        "taallessen",
+        "digitale hulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 16",
+      "originalQuote": "D66 wil een volwaardige bibliotheek in iedere buurt. Niet alleen voor boeken, maar ook voor ontmoeting, gezelligheid, taallessen, toegankelijke overheidsinformatie, digitale hulp en projecten voor mensen die laaggeletterd zijn."
+    },
+    {
+      "promiseCode": "D66-2025-021",
+      "text": "Een nieuwe brede Antidiscriminatiewet komt er waar alle vormen van discriminatie onder vallen, inclusief actieve verplichtingen voor organisaties.",
+      "summary": "Nieuwe brede Antidiscriminatiewet",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "antidiscriminatiewet",
+        "discriminatie",
+        "actieve verplichtingen",
+        "organisaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 18",
+      "originalQuote": "D66 wil daarom een nieuwe, brede Antidiscriminatiewet waar álle vormen van discriminatie onder vallen."
+    },
+    {
+      "promiseCode": "D66-2025-022",
+      "text": "D66 wil tien nieuwe steden bouwen, vooral bij bestaande steden of kernen en bij grote ov-knooppunten. Deze steden worden gemengd gebouwd met goedkope koopwoningen, middenhuurwoningen, sociale huurwoningen, woningen voor ouderen en jongeren.",
+      "summary": "Tien nieuwe steden bouwen bij bestaande kernen en ov-knooppunten",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwe steden",
+        "woningbouw",
+        "openbaar vervoer",
+        "knooppunten",
+        "gemengde woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 21",
+      "originalQuote": "D66 wil tien nieuwe steden bouwen, vooral bij bestaande steden of kernen en bij grote ov-knooppunten."
+    },
+    {
+      "promiseCode": "D66-2025-023",
+      "text": "D66 richt een Rijksgrondfaciliteit (landelijke grondbank) op en maakt jaarlijks €2 miljard euro vrij om de woningbouw uit het slop te halen. Gemeenten krijgen meer ruimte om zelf grond te kopen en ontwikkelen.",
+      "summary": "Rijksgrondfaciliteit oprichten en jaarlijks €2 miljard vrijmaken voor woningbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rijksgrondfaciliteit",
+        "grondbank",
+        "woningbouw",
+        "gemeenten",
+        "grondontwikkeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 21",
+      "originalQuote": "We richten een Rijksgrondfaciliteit (een landelijke grondbank) op... We maken jaarlijks €2 miljard euro vrij om de woningbouw uit het slop te halen."
+    },
+    {
+      "promiseCode": "D66-2025-024",
+      "text": "Vergunningen voor woningdelen en woningsplitsing worden gratis gemaakt om het aantrekkelijker te maken om in bestaande huizen met meer mensen te wonen.",
+      "summary": "Gratis vergunningen voor woningdelen en woningsplitsing",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vergunningen",
+        "woningdelen",
+        "woningsplitsing",
+        "bestaande huizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 21",
+      "originalQuote": "Vergunningen voor woningdelen en woningsplitsing worden gratis, zodat het aantrekkelijker wordt om in bestaande huizen met meer mensen te wonen."
+    },
+    {
+      "promiseCode": "D66-2025-025",
+      "text": "D66 wil bezwaarprocedures voor woningbouwprojecten sneller en korter maken om de balans tussen het recht op wonen en rechtsbescherming te verbeteren.",
+      "summary": "Bezwaarprocedures woningbouw sneller en korter maken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezwaarprocedures",
+        "woningbouw",
+        "rechtsbescherming",
+        "procedures"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 21-22",
+      "originalQuote": "Daarom maken we bezwaarprocedures sneller en korter"
+    },
+    {
+      "promiseCode": "D66-2025-026",
+      "text": "Er moet een bouwquotum komen zodat elke gemeente moet meebouwen voor jongeren, studenten, alleenstaanden en senioren. Voor jongeren en studenten worden vooral huizen met gemeenschappelijke ruimtes gebouwd.",
+      "summary": "Bouwquotum invoeren voor verschillende doelgroepen per gemeente",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bouwquotum",
+        "gemeenten",
+        "jongeren",
+        "studenten",
+        "senioren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 22",
+      "originalQuote": "Er moet een bouwquotum komen, zodat elke gemeente moet meebouwen voor elk van deze groepen."
+    },
+    {
+      "promiseCode": "D66-2025-027",
+      "text": "D66 richt een Nationale Doorstroombank op die oudere mensen zekerheid geeft over hun toekomstige woonlasten als zij verhuizen naar een kleinere, passende woning.",
+      "summary": "Nationale Doorstroombank oprichten voor zekerheid woonlasten ouderen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nationale doorstroombank",
+        "oudere mensen",
+        "woonlasten",
+        "verhuizen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 22",
+      "originalQuote": "We richten een Nationale Doorstroombank op. Die geeft oudere mensen zekerheid over hun toekomstige woonlasten als zij verhuizen naar een kleinere, passende woning."
+    },
+    {
+      "promiseCode": "D66-2025-028",
+      "text": "D66 stelt een tijdelijke crisisregel in waarbij iedereen één kamer mag verhuren zonder negatieve financiële gevolgen voor uitkering, belasting, huur of hypotheek.",
+      "summary": "Tijdelijke crisisregel voor verhuur van één kamer zonder financiële gevolgen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "crisisregel",
+        "kamerverhuur",
+        "uitkering",
+        "belasting",
+        "hypotheek"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 22",
+      "originalQuote": "D66 stelt een tijdelijke crisisregel in. Iedereen mag één kamer verhuren zonder dat dat negatieve financiële gevolgen heeft voor een uitkering, de belasting, de huur of een hypotheek."
+    },
+    {
+      "promiseCode": "D66-2025-029",
+      "text": "D66 legt wettelijk vast dat bij nieuwbouw in elke gemeente minstens 30% sociale huur komt om gemeenschappen in wijken gemengd te houden.",
+      "summary": "Wettelijke verplichting van minimaal 30% sociale huur bij nieuwbouw",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huur",
+        "nieuwbouw",
+        "gemeenten",
+        "gemengde wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 23",
+      "originalQuote": "We leggen wettelijk vast dat bij nieuwbouw in elke gemeente minstens 30% sociale huur komt"
+    },
+    {
+      "promiseCode": "D66-2025-030",
+      "text": "Voor starters die kunnen aantonen dat hypotheeklast lager is dan huidige huur wordt het makkelijker om hypotheek te krijgen. De studieschuld telt niet meer mee bij hypotheekaanvragen.",
+      "summary": "Makkelijkere hypotheek voor starters en studieschuld niet meer meetellen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheek",
+        "starters",
+        "studieschuld",
+        "huur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 23",
+      "originalQuote": "Voor starters die kunnen aantonen dat de hypotheeklast lager is dan hun huidige hoge huur, wordt het makkelijker om een hypotheek te krijgen. We laten de studieschuld niet meer meetellen bij de hypotheekaanvraag."
+    },
+    {
+      "promiseCode": "D66-2025-031",
+      "text": "Voor de bouw van sociale huur en middenhuur gaat de btw omlaag om het aantrekkelijker te maken betaalbare huizen te bouwen.",
+      "summary": "BTW verlagen voor bouw sociale huur en middenhuur",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "btw",
+        "sociale huur",
+        "middenhuur",
+        "betaalbare woningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 23",
+      "originalQuote": "Voor de bouw van sociale huur en middenhuur gaat de btw omlaag, zodat het aantrekkelijker wordt om betaalbare huizen te bouwen."
+    },
+    {
+      "promiseCode": "D66-2025-032",
+      "text": "D66 start een grootschalig isolatieplan om vóór 2030 minimaal 1 miljoen huurwoningen te verduurzamen.",
+      "summary": "Grootschalig isolatieplan voor minimaal 1 miljoen huurwoningen vóór 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "isolatieplan",
+        "huurwoningen",
+        "verduurzaming",
+        "energielabel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 23",
+      "originalQuote": "We starten een grootschalig isolatieplan: vóór 2030 verduurzamen we minimaal 1 miljoen huurwoningen."
+    },
+    {
+      "promiseCode": "D66-2025-033",
+      "text": "D66 wil een Nederlandpas invoeren: één kaart waarmee iedereen voor een vaste lage prijs buiten de spits in heel Nederland met bus, tram, metro en trein kan reizen.",
+      "summary": "Nederlandpas invoeren voor openbaar vervoer tegen vaste lage prijs",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nederlandpas",
+        "openbaar vervoer",
+        "vaste prijs",
+        "trein",
+        "bus"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 25",
+      "originalQuote": "We voeren een Nederlandpas in: één kaart waarmee iedereen voor een vaste lage prijs buiten de spits in heel Nederland met de bus, tram, metro en trein kan reizen."
+    },
+    {
+      "promiseCode": "D66-2025-034",
+      "text": "D66 wil rekeningrijden invoeren waarbij niet langer het bezit maar het gebruik van de auto wordt belast, met oog voor regio's waar weinig openbaar vervoer is.",
+      "summary": "Rekeningrijden invoeren gebaseerd op gebruik in plaats van bezit auto",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rekeningrijden",
+        "autobelasting",
+        "gebruik",
+        "openbaar vervoer"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 26",
+      "originalQuote": "We maken autorijden eerlijker door rekeningrijden in te voeren: niet langer het bezit maar het gebruik van de auto wordt belast."
+    },
+    {
+      "promiseCode": "D66-2025-035",
+      "text": "Er komt een vliegbelasting met verschillende belastingtarieven voor frequent vliegers. Lelystad Airport gaat niet open voor burgerluchtvaart.",
+      "summary": "Vliegbelasting invoeren en Lelystad Airport niet openen voor burgerluchtvaart",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vliegbelasting",
+        "lelystad airport",
+        "burgerluchtvaart",
+        "klimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 26",
+      "originalQuote": "Daarom komt er een eerlijke, effectieve en rechtvaardige vliegbelasting met verschillende belastingtarieven... Lelystad Airport gaat niet open voor burgerluchtvaart."
+    },
+    {
+      "promiseCode": "D66-2025-036",
+      "text": "D66 verhoogt het minimumloon en minimumjeugdloon. De bijstand stijgt in verhouding mee. Vanaf 18 jaar word je als volwassene betaald.",
+      "summary": "Minimumloon en minimumjeugdloon verhogen, volwassen loon vanaf 18 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumloon",
+        "minimumjeugdloon",
+        "bijstand",
+        "volwassen loon"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 27",
+      "originalQuote": "We verhogen het minimumloon en het minimumjeugdloon... Vanaf 18 word je als volwassene betaald, omdat je dat dan ook bent."
+    },
+    {
+      "promiseCode": "D66-2025-037",
+      "text": "Op lange termijn vervangt D66 de toeslagen door een basisbedrag voor iedereen. Eerste stappen zijn het afschaffen van zorgtoeslag en samenvoegen van kindgebonden budget en kinderbijslag.",
+      "summary": "Toeslagen vervangen door basisbedrag, zorgtoeslag afschaffen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslagen",
+        "basisbedrag",
+        "zorgtoeslag",
+        "kindgebonden budget",
+        "kinderbijslag"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 27",
+      "originalQuote": "Op de lange termijn vervangen we de toeslagen door een basisbedrag voor iedereen... De eerste belangrijke stappen zijn het invoeren van dat basisbedrag, het afschaffen van de zorgtoeslag en het samenvoegen van kindgebonden budget en kinderbijslag."
+    },
+    {
+      "promiseCode": "D66-2025-038",
+      "text": "D66 maakt het schuldenstelsel simpeler: één volledig overzicht, één overheidsincasso en één duidelijk traject voor schulden.",
+      "summary": "Schuldenstelsel vereenvoudigen met één overzicht en traject",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "schuldenstelsel",
+        "overheidsincasso",
+        "schulden",
+        "traject"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 27",
+      "originalQuote": "We maken het schuldenstelsel simpeler: één volledig overzicht, één overheidsincasso en één duidelijk traject voor schulden."
+    },
+    {
+      "promiseCode": "D66-2025-039",
+      "text": "D66 past de Werkloosheidsuitkering aan: hogere uitkering direct aan het begin, maar kortere duur omdat mensen tegenwoordig sneller nieuw werk vinden.",
+      "summary": "WW aanpassen: hogere uitkering aan begin, kortere duur",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkloosheidsuitkering",
+        "ww",
+        "uitkering",
+        "werkloosheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 27",
+      "originalQuote": "We passen de Werkloosheidsuitkering (WW) aan... Wie werkloos wordt, krijgt direct aan het begin een hogere uitkering... De duur van de uitkering wordt korter"
+    },
+    {
+      "promiseCode": "D66-2025-040",
+      "text": "Pensioenopbouw wordt verplicht met oog voor wat haalbaar is voor beginnende ondernemers. Mensen kunnen hun pensioen flexibel opbouwen in periodes waarin ze daar geld voor hebben.",
+      "summary": "Verplichte pensioenopbouw en flexibele pensioenopbouw invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pensioenopbouw",
+        "verplicht",
+        "flexibel",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 27",
+      "originalQuote": "Pensioenopbouw wordt daarom verplicht, met oog voor wat haalbaar is voor beginnende ondernemers. Ook wil D66 dat mensen hun pensioen flexibel kunnen opbouwen"
+    },
+    {
+      "promiseCode": "D66-2025-041",
+      "text": "Vergoeding voor verpleegkundigen in opleiding introduceren, zowel voor het hoger beroepsonderwijs (hbo) als het middelbaar beroepsonderwijs (mbo).",
+      "summary": "Opleidingsvergoeding verpleegkundigen hbo en mbo",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergoeding",
+        "verpleegkundigen",
+        "opleiding",
+        "hbo",
+        "mbo"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 34",
+      "originalQuote": "We introduceren een vergoeding voor verpleegkundigen in opleiding, zowel voor het hoger beroepsonderwijs (hbo) als het middelbaar beroepsonderwijs (mbo)."
+    },
+    {
+      "promiseCode": "D66-2025-042",
+      "text": "Het eigen risico van €385 euro niet verhogen en maximaal €150 euro per behandeling laten betalen. Mensen met chronische ziekte of beperking krijgen een veel lager eigen risico.",
+      "summary": "Eigen risico €385 niet verhogen, max €150 per behandeling",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eigen risico",
+        "behandeling",
+        "chronische ziekte",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 34",
+      "originalQuote": "We verhogen het eigen risico van €385 euro niet en je betaalt niet meer dan €150 euro per behandeling. Mensen die een groot deel van hun inkomen aan zorg moeten uitgeven, bijvoorbeeld vanwege een chronische ziekte of een beperking, gaan een veel lager eigen risico betalen."
+    },
+    {
+      "promiseCode": "D66-2025-043",
+      "text": "De vijf wetten in de zorg versimpelen (Zorgverzekeringswet, Wet langdurige zorg, Wet maatschappelijke ondersteuning, Wet publieke gezondheid en Jeugdwet) tot één loket en één indicatie.",
+      "summary": "Vijf zorgwetten versimpelen tot één loket",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgwetten",
+        "versimpelen",
+        "loket",
+        "indicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 34",
+      "originalQuote": "D66 wil de vijf wetten in de zorg versimpelen. Dat zijn de Zorgverzekeringswet (Zvw), Wet langdurige zorg (Wlz), Wet maatschappelijke ondersteuning (Wmo), Wet publieke gezondheid (Wpg) en de Jeugdwet. Via één loket en met één indicatie kunnen mensen voor alle zorg terecht."
+    },
+    {
+      "promiseCode": "D66-2025-044",
+      "text": "Alle vormen van wetenschappelijk bewezen effectieve anticonceptie gratis maken.",
+      "summary": "Gratis anticonceptie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "anticonceptie",
+        "gratis",
+        "effectief"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 35",
+      "originalQuote": "Alle vormen van wetenschappelijk bewezen effectieve anticonceptie worden gratis."
+    },
+    {
+      "promiseCode": "D66-2025-045",
+      "text": "De PrEP pil ter voorkoming van hiv-infectie gratis maken voor iedereen die risico loopt op hiv en AIDS.",
+      "summary": "Gratis PrEP pil tegen hiv",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "prep",
+        "hiv",
+        "gratis",
+        "preventie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 35",
+      "originalQuote": "De PrEP pil, ter voorkoming van een hiv-infectie, wordt gratis voor iedereen die risico loopt op hiv (en AIDS)."
+    },
+    {
+      "promiseCode": "D66-2025-046",
+      "text": "Zorg die onnodig is of waarvan niet bewezen is dat het effectief werkt niet meer vergoeden.",
+      "summary": "Geen vergoeding voor ineffectieve zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergoeding",
+        "ineffectieve zorg",
+        "bewezen effectiviteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 35",
+      "originalQuote": "Om iedereen de juiste en passende zorg te kunnen bieden, vergoeden we geen zorg meer die onnodig is of waarvan niet bewezen is dat het effectief werkt."
+    },
+    {
+      "promiseCode": "D66-2025-047",
+      "text": "Iedereen recht geven op een jaarlijkse tandartscontrole, vergoed vanuit het basispakket.",
+      "summary": "Jaarlijkse tandartscontrole in basispakket",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandartscontrole",
+        "jaarlijks",
+        "basispakket",
+        "vergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 31",
+      "originalQuote": "D66 wil dat iedereen recht krijgt op een jaarlijkse tandartscontrole, vergoed vanuit het basispakket."
+    },
+    {
+      "promiseCode": "D66-2025-048",
+      "text": "Roken verbieden in de auto als er kinderen in de auto zitten.",
+      "summary": "Rookverbod in auto met kinderen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "roken",
+        "verbod",
+        "auto",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 32",
+      "originalQuote": "Ook verbieden we roken in de auto als er kinderen in de auto zitten."
+    },
+    {
+      "promiseCode": "D66-2025-049",
+      "text": "Softdrugs en XTC legaliseren om handel en productie uit criminele handen te halen en belasting te heffen op softdrugs. Cannabis, XTC en paddo's op een witte lijst zetten.",
+      "summary": "Legalisatie softdrugs en XTC met belasting",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "legalisatie",
+        "softdrugs",
+        "xtc",
+        "belasting",
+        "witte lijst"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 33",
+      "originalQuote": "Door softdrugs en XTC te legaliseren, halen we de handel en productie uit criminele handen en maken we capaciteit voor de opsporing vrij. Daarbij gaan we ook beslasting heffen op softdrugs. Door een select aantal drugs, zoals cannabis, XTC, en paddo's hiermee op een witte lijst te zetten verdwijnt de prikkel om met designerdrugs de regels te omzeilen."
+    },
+    {
+      "promiseCode": "D66-2025-050",
+      "text": "De toegang tot abortus en euthanasie expliciet vastleggen in de Grondwet.",
+      "summary": "Abortus en euthanasie in Grondwet",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondwet",
+        "abortus",
+        "euthanasie",
+        "toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 39",
+      "originalQuote": "We leggen de toegang tot abortus en euthanasie expliciet vast in de Grondwet."
+    },
+    {
+      "promiseCode": "D66-2025-051",
+      "text": "Een wettelijke regeling voor hulp bij een voltooid leven invoeren.",
+      "summary": "Wettelijke regeling voltooid leven",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wettelijke regeling",
+        "voltooid leven",
+        "hulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 39",
+      "originalQuote": "Een wettelijke regeling voor hulp bij een voltooid leven."
+    },
+    {
+      "promiseCode": "D66-2025-052",
+      "text": "Verruiming van de euthanasiewet, ook bij psychisch lijden en dementie.",
+      "summary": "Euthanasiewet verruimen voor psychisch lijden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "euthanasiewet",
+        "verruiming",
+        "psychisch lijden",
+        "dementie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 39",
+      "originalQuote": "Verruiming van de euthanasiewet, ook bij psychisch lijden en dementie."
+    },
+    {
+      "promiseCode": "D66-2025-053",
+      "text": "Euthanasie en abortus volledig uit het strafrecht halen.",
+      "summary": "Euthanasie en abortus uit strafrecht",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "euthanasie",
+        "abortus",
+        "strafrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 39",
+      "originalQuote": "Het volledig uit het strafrecht halen van euthanasie. Het volledig uit het strafrecht halen van abortus."
+    },
+    {
+      "promiseCode": "D66-2025-054",
+      "text": "Gezondheitsdoelen wettelijk vastleggen, zoals over gezondheidsachterstanden en overgewicht bij kinderen.",
+      "summary": "Wettelijke gezondheidsdoelen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezondheidsdoelen",
+        "wet",
+        "gezondheidsachterstanden",
+        "overgewicht",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 31",
+      "originalQuote": "We leggen doelen voor gezondheid vast in de wet, zoals over grote achterstanden in gezondheid of over overgewicht bij kinderen."
+    },
+    {
+      "promiseCode": "D66-2025-055",
+      "text": "Iedereen een vaste huisarts geven vanuit vertrouwensband voor betere en effectievere zorg.",
+      "summary": "Vaste huisarts voor iedereen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vaste huisarts",
+        "vertrouwensband",
+        "effectieve zorg"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 31",
+      "originalQuote": "Daarom wil D66 dat iedereen een vaste huisarts krijgt. Die kan vanuit een vertrouwensband betere en effectievere zorg leveren."
+    },
+    {
+      "promiseCode": "D66-2025-056",
+      "text": "Kinderopvang bijna gratis maken. Elk kind krijgt toegang tot vijf dagen opvang per week. Dit geldt ook voor kinderen van wie één ouder werkt.",
+      "summary": "Kinderopvang bijna gratis, vijf dagen per week voor elk kind",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "gratis",
+        "vijf dagen",
+        "toegang"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 43",
+      "originalQuote": "Op weg naar deze publieke voorziening maken we de kinderopvang bijna gratis. Elk kind krijgt toegang tot vijf dagen opvang per week. Dat geldt ook voor kinderen van wie één ouder werkt."
+    },
+    {
+      "promiseCode": "D66-2025-057",
+      "text": "Iedere school krijgt een volle schoolbibliotheek om de basis in taal, rekenen, burgerschap en digitale vaardigheden te versterken.",
+      "summary": "Volle schoolbibliotheek voor iedere school",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolbibliotheek",
+        "taal",
+        "rekenen",
+        "digitale vaardigheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 43",
+      "originalQuote": "Iedere school krijgt een volle schoolbibliotheek."
+    },
+    {
+      "promiseCode": "D66-2025-058",
+      "text": "Jongeren kiezen pas rond de leeftijd van 15 jaar welke route het best bij ze past. Tot die tijd zitten ze in brede brugklassen.",
+      "summary": "Later selecteren: pas op 15-jarige leeftijd routekeuze",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "selectie",
+        "15 jaar",
+        "brede brugklassen",
+        "routekeuze"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 44",
+      "originalQuote": "D66 wil dat jongeren pas rond de leeftijd van 15 jaar kiezen welke route dan het best bij ze past. Tot die tijd zitten ze in brede brugklassen."
+    },
+    {
+      "promiseCode": "D66-2025-059",
+      "text": "D66 verhoogt de lerarensalarissen en zorgt voor betere doorgroeimogelijkheden in het primair en voortgezet onderwijs en in het MBO.",
+      "summary": "Verhoging lerarensalarissen en betere doorgroeimogelijkheden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lerarensalarissen",
+        "doorgroeimogelijkheden",
+        "mbo",
+        "verhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 44",
+      "originalQuote": "D66 verhoogt de lerarensalarissen en zorgt voor betere doorgroeimogelijkheden in het primair en voortgezet onderwijs en in het MBO."
+    },
+    {
+      "promiseCode": "D66-2025-060",
+      "text": "D66 introduceert een vergoeding voor leraren in opleiding om het aantrekkelijker te maken voor het vak van leraar te kiezen.",
+      "summary": "Vergoeding voor leraren in opleiding",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergoeding",
+        "leraren",
+        "opleiding",
+        "lerarentekort"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 44",
+      "originalQuote": "D66 introduceert een vergoeding voor leraren in opleiding, zodat het aantrekkelijker wordt om voor het vak van leraar te kiezen."
+    },
+    {
+      "promiseCode": "D66-2025-061",
+      "text": "Groot landelijk plan om 5000 schoolgebouwen uit de periode 1950-1990 te renoveren of nieuw te bouwen. Gebouwen worden rolstoelvriendelijk met rustruimtes.",
+      "summary": "Deltaplan: 5000 schoolgebouwen renoveren of nieuw bouwen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolgebouwen",
+        "renovatie",
+        "5000",
+        "rolstoelvriendelijk",
+        "deltaplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 45",
+      "originalQuote": "D66 wil een groot, landelijk plan om schoolgebouwen te renoveren of nieuw te bouwen. We beginnen met zo'n 5000 schoolgebouwen die zijn gebouwd tussen 1950 en 1990."
+    },
+    {
+      "promiseCode": "D66-2025-062",
+      "text": "D66 verhoogt de basisbeurs met €166 euro per maand, zodat studenten beter kunnen rondkomen. Mbo-studenten krijgen dezelfde aanvullende beurs als hbo/wo-studenten.",
+      "summary": "Basisbeurs verhogen met €166 per maand, gelijke aanvullende beurs mbo",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "basisbeurs",
+        "166 euro",
+        "mbo",
+        "aanvullende beurs"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 45",
+      "originalQuote": "D66 verhoogt de basisbeurs met €166 euro per maand, zodat studenten beter kunnen rondkomen. Een mbo-student krijgt dezelfde aanvullende beurs als een student aan de hogeschool of universiteit."
+    },
+    {
+      "promiseCode": "D66-2025-063",
+      "text": "D66 wil het aantal laaggeletterde volwassenen in tien jaar halveren om mensen beter te laten meedoen in de samenleving.",
+      "summary": "Aantal laaggeletterde volwassenen in 10 jaar halveren",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "laaggeletterdheid",
+        "volwassenen",
+        "tien jaar",
+        "halveren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 45",
+      "originalQuote": "D66 wil het aantal laaggeletterde volwassenen in tien jaar halveren."
+    },
+    {
+      "promiseCode": "D66-2025-064",
+      "text": "Rente op studieschulden vastzetten op maximaal 2,5%. De 'pechgeneratie' betaalt geen rente over de studieschuld.",
+      "summary": "Studielening rente maximaal 2,5%, pechgeneratie geen rente",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studieschuld",
+        "rente",
+        "2,5 procent",
+        "pechgeneratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 45",
+      "originalQuote": "De rente op de studieschulden zetten we vast op maximaal 2,5%. Zo hoeven studenten hun werkende leven niet te beginnen met een hoge rekening. De 'pechgeneratie' betaalt geen rente over de studieschuld."
+    },
+    {
+      "promiseCode": "D66-2025-065",
+      "text": "Het bindend studieadvies in huidige rigide vorm afschaffen. Vervangen door begeleidend studieadvies waarbij opleidingen zelf de regie hebben.",
+      "summary": "Bindend studieadvies afschaffen, vervangen door begeleidend advies",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend studieadvies",
+        "bsa",
+        "begeleidend studieadvies",
+        "afschaffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 45",
+      "originalQuote": "We schaffen het bindend studieadvies (BSA) in zijn huidige, rigide vorm af. Het wordt vervangen door een systeem van begeleidend studieadvies, waarbij de regie ligt bij de opleidingen zelf."
+    },
+    {
+      "promiseCode": "D66-2025-066",
+      "text": "Wettelijke minimum stagevergoeding invoeren die werkgevers betalen. Geen verschil tussen stages in mbo, hbo en wo. Meldpunt stagediscriminatie bij elke onderwijsinstelling.",
+      "summary": "Wettelijke minimum stagevergoeding en meldpunt stagediscriminatie",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "wettelijk minimum",
+        "stagediscriminatie",
+        "meldpunt"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 46",
+      "originalQuote": "Daarom komt er een wettelijke minimum stagevergoeding, die werkgevers betalen. Er mag geen verschil bestaan tussen stages in het mbo, hbo en wo. We accepteren geen stagediscriminatie en voeren daarom een geen-pardon beleid. Elke onderwijsinstelling krijgt een meldpunt voor stagediscriminatie."
+    },
+    {
+      "promiseCode": "D66-2025-067",
+      "text": "Bekostigingssysteem onderwijsinstellingen aanpassen: groter vast bedrag per instelling en kleiner bedrag per student om afhankelijkheid van internationale instroom te verminderen.",
+      "summary": "Bekostigingssysteem aanpassen: meer vast bedrag, minder per student",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bekostigingssysteem",
+        "vast bedrag",
+        "internationale studenten",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 46",
+      "originalQuote": "Daarom passen we het systeem aan: een groter vast bedrag per instelling en een kleiner bedrag per student. Zo kunnen regionale onderwijsinstellingen ook bij minder studenten goed onderwijs blijven geven."
+    },
+    {
+      "promiseCode": "D66-2025-068",
+      "text": "Eerdere bezuinigingen op wetenschap terugdraaien en extra investeren. Groot deel van geld gaat direct naar universiteiten, hogescholen en onderzoeksinstellingen.",
+      "summary": "Bezuinigingen wetenschap terugdraaien en extra investeren",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezuinigingen",
+        "wetenschap",
+        "universiteiten",
+        "onderzoeksinstellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 47",
+      "originalQuote": "Daarom draaien we eerdere bezuinigingen terug én investeren we extra in de wetenschap. Een groot deel van dit geld gaat direct naar universiteiten, hogescholen en onderzoeksinstellingen."
+    },
+    {
+      "promiseCode": "D66-2025-069",
+      "text": "Meer vaste aanstellingen bij universiteiten omdat te veel onderzoekers jarenlang op tijdelijke contracten werken.",
+      "summary": "Meer vaste aanstellingen voor universitaire onderzoekers",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vaste aanstellingen",
+        "onderzoekers",
+        "universiteiten",
+        "tijdelijke contracten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 47",
+      "originalQuote": "D66 wil daarom meer vaste aanstellingen bij universiteiten."
+    },
+    {
+      "promiseCode": "D66-2025-070",
+      "text": "Onderzoek gefinancierd met publiek geld moet voor iedereen vrij te lezen en toegankelijk zijn.",
+      "summary": "Publiek gefinancierd onderzoek vrij toegankelijk maken",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoek",
+        "publiek geld",
+        "toegankelijk",
+        "open access"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 47",
+      "originalQuote": "Onderzoek dat is gefinancierd met publiek geld moet voor iedereen vrij te lezen en toegankelijk zijn."
+    },
+    {
+      "promiseCode": "D66-2025-071",
+      "text": "De promotiebeurs voor leraren in het voortgezet onderwijs komt weer terug om de verbinding tussen onderwijs en wetenschap te versterken.",
+      "summary": "Promotiebeurs voor leraren voortgezet onderwijs terugbrengen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "promotiebeurs",
+        "leraren",
+        "voortgezet onderwijs",
+        "wetenschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 47",
+      "originalQuote": "De promotiebeurs voor leraren in het voortgezet onderwijs komt weer terug."
+    },
+    {
+      "promiseCode": "D66-2025-072",
+      "text": "Nederland streeft naar 55% minder uitstoot van broeikasgassen in 2030, 90% minder in 2040 en klimaatneutraliteit in 2050. Deze doelstellingen worden vastgelegd in de Klimaatwet.",
+      "summary": "Klimaatdoelen vastleggen: 55% reductie 2030, 90% reductie 2040, klimaatneutraal 2050",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatdoelen",
+        "broeikasgassen",
+        "uitstootreductie",
+        "klimaatwet",
+        "klimaatneutraliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 50-51",
+      "originalQuote": "D66 brengt Nederland terug op koers voor de klimaatdoelen van 2030, 2040 en 2050. In 2030 is er 55% minder uitstoot van broeikasgassen, in lijn met de door minister Jetten ingevoerde Klimaatwet. In 2040 is dat 90% minder, overeenkomstig met de doelstelling van de EU, en in 2050 is Nederland klimaatneutraal. Dit leggen we vast in de Klimaatwet."
+    },
+    {
+      "promiseCode": "D66-2025-073",
+      "text": "Stoppen zo snel mogelijk met het importeren van gas, en vloeibaar gas in het bijzonder, van landen met autoritaire leiders om energieonafhankelijkheid te bereiken.",
+      "summary": "Stoppen gasimport van autoritaire landen zo snel mogelijk",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gasimport",
+        "energieonafhankelijkheid",
+        "autoritaire regimes",
+        "vloeibaar gas"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 51",
+      "originalQuote": "We stoppen zo snel mogelijk met het importeren van gas, en vloeibaar gas in het bijzonder, van landen met autoritaire leiders."
+    },
+    {
+      "promiseCode": "D66-2025-074",
+      "text": "Netbeheerders worden verantwoordelijk voor genoeg netcapaciteit die aansluit bij klimaatdoelen en mogen sneller investeren in verzwaring van het elektriciteitsnet.",
+      "summary": "Netbeheerders verantwoordelijk voor netcapaciteit passend bij klimaatdoelen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "elektriciteitsnet",
+        "netcapaciteit",
+        "netbeheerders",
+        "klimaatdoelen",
+        "investeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 51",
+      "originalQuote": "Daarom mogen netbeheerders sneller investeren. Ze worden verantwoordelijk voor genoeg netcapaciteit, die aansluit bij onze klimaatdoelen."
+    },
+    {
+      "promiseCode": "D66-2025-075",
+      "text": "Procedures voor vergunningen voor energieprojecten worden korter en efficiënter gemaakt om de energietransitie te versnellen.",
+      "summary": "Kortere en efficiëntere vergunningsprocedures energieprojecten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsprocedures",
+        "energietransitie",
+        "efficiëntie",
+        "energieprojecten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 51",
+      "originalQuote": "Om die reden wil D66 dat procedures voor vergunningen korter en efficiënter worden."
+    },
+    {
+      "promiseCode": "D66-2025-076",
+      "text": "Stoppen met het verbranden van hout om stroom op te wekken en stap voor stap stoppen met de inzet van biomassa voor elektriciteit. Alleen hoogwaardig gebruik van reststromen blijft toegestaan.",
+      "summary": "Stoppen biomassa voor elektriciteit, alleen hoogwaardig gebruik reststromen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "biomassa",
+        "houtverbranding",
+        "elektriciteit",
+        "reststromen",
+        "energieopwekking"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 52",
+      "originalQuote": "We stoppen met het verbranden van hout om stroom op te wekken. We stoppen stap voor stap met de inzet van biomassa voor elektriciteit. Alleen hoogwaardig gebruik van reststromen blijft toegestaan."
+    },
+    {
+      "promiseCode": "D66-2025-077",
+      "text": "Gaswinning in de overige kleine velden op land en onder de Waddenzee wordt volledig afgebouwd en niet uitgebreid.",
+      "summary": "Gaswinning kleine velden en Waddenzee volledig afbouwen, niet uitbreiden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "waddenzee",
+        "gasvelden",
+        "afbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 52",
+      "originalQuote": "Gaswinning in de overige kleine velden op land en onder de Waddenzee wordt volledig afgebouwd en niet uitgebreid."
+    },
+    {
+      "promiseCode": "D66-2025-078",
+      "text": "Het Noodfonds Energie wordt structureel gemaakt en het budget wordt groter voor mensen voor wie de energierekening onbetaalbaar is.",
+      "summary": "Noodfonds Energie structureel maken met groter budget",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "noodfonds energie",
+        "energierekening",
+        "lage inkomens",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 52",
+      "originalQuote": "Voor de vele mensen voor wie de rekening nú al onbetaalbaar is, maakt D66 het Noodfonds Energie structureel en het budget groter."
+    },
+    {
+      "promiseCode": "D66-2025-079",
+      "text": "Nederland is in 2050 volledig circulair en in 2030 is het gebruik van nieuwe grondstoffen al gehalveerd. Overheden doen in 2035 minstens de helft van hun aanbestedingen circulair en in 2045 alles.",
+      "summary": "2050 volledig circulair, 2030 grondstoffen gehalveerd, overheid 2035 50% circulair",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulaire economie",
+        "grondstoffen",
+        "aanbestedingen",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 54",
+      "originalQuote": "In 2050 is Nederland volledig circulair. In 2030 is het gebruik van nieuwe grondstoffen al gehalveerd. Overheden geven het goede voorbeeld: in 2035 is minstens de helft van hun aanbestedingen circulair en in 2045 alles."
+    },
+    {
+      "promiseCode": "D66-2025-080",
+      "text": "Gebouwen krijgen een materialenpaspoort waarin precies staat welke materialen zijn gebruikt, zodat deze later kunnen worden hergebruikt.",
+      "summary": "Materialenpaspoorten voor gebouwen voor hergebruik materialen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "materialenpaspoort",
+        "gebouwen",
+        "hergebruik",
+        "materialen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 54",
+      "originalQuote": "Gebouwen krijgen een materialenpaspoort. Daarin staat precies welke materialen zijn gebruikt. Zo gaan productiematerialen later niet verloren en kunnen ze worden hergebruikt."
+    },
+    {
+      "promiseCode": "D66-2025-081",
+      "text": "Het lage BTW-tarief wordt gehanteerd voor reparaties, zoals schoenmakers en telefoonreparaties, om reparatie aantrekkelijker te maken.",
+      "summary": "Laag BTW-tarief voor reparatiediensten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "btw-tarief",
+        "reparaties",
+        "circulaire economie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 55",
+      "originalQuote": "Om reparatie aantrekkelijker te maken, hanteren we het lage BTW-tarief voor reparaties, zoals schoenmakers en telefoonreparaties."
+    },
+    {
+      "promiseCode": "D66-2025-082",
+      "text": "Er komt een nationaal actieplan tegen ultrafast fashion, dat aansluit bij de Europese textielstrategie.",
+      "summary": "Nationaal actieplan tegen ultrafast fashion volgens EU-textielstrategie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ultrafast fashion",
+        "actieplan",
+        "textielstrategie",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 55",
+      "originalQuote": "Er komt een nationaal actieplan tegen ultrafast fashion, dat aansluit bij de Europese textielstrategie."
+    },
+    {
+      "promiseCode": "D66-2025-083",
+      "text": "Een Nationale Investeringsbank wordt opgericht voor grote transities, waarbij het hervormd Nationaal Groeifonds onderdeel wordt. Ook mkb'ers krijgen toegang.",
+      "summary": "Nationale Investeringsbank oprichten met toegang voor mkb",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeringsbank",
+        "nationale investeringsbank",
+        "groeifonds",
+        "mkb",
+        "transities"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 55",
+      "originalQuote": "D66 kiest voor slimme investeringen die ons sterker, schoner en onafhankelijker maken. We willen een Nationale Investeringsbank voor grote transities. Deze publieke instelling krijgt meer middelen en een breed mandaat. Het Nationaal Groeifonds, dat we hervormen, wordt onderdeel van de Nationale Investeringsbank. Ook mkb'ers krijgen toegang."
+    },
+    {
+      "promiseCode": "D66-2025-084",
+      "text": "Er komt een bewindspersoon voor Technologie en Innovatie, met een eigen begroting en een stevig mandaat om focus en regie te brengen.",
+      "summary": "Bewindspersoon Technologie en Innovatie met eigen begroting en mandaat",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bewindspersoon",
+        "technologie",
+        "innovatie",
+        "begroting",
+        "mandaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 56",
+      "originalQuote": "D66 wil een bewindspersoon voor Technologie en Innovatie, met een eigen begroting en een stevig mandaat."
+    },
+    {
+      "promiseCode": "D66-2025-085",
+      "text": "Nederland werkt toe naar de Lissabon-overeenkomst van 3% van het bruto binnenlands product naar onderzoek en ontwikkeling.",
+      "summary": "3% BBP naar onderzoek en ontwikkeling volgens Lissabon-overeenkomst",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "onderzoek",
+        "ontwikkeling",
+        "bbp",
+        "lissabon-overeenkomst"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 56",
+      "originalQuote": "We stimuleren onderzoek en ontwikkeling (R&D). We werken toe naar de Lissabon-overeenkomst van 3% van het bruto binnenlands product naar onderzoek en ontwikkeling."
+    },
+    {
+      "promiseCode": "D66-2025-086",
+      "text": "Een vlaktaks voor energiebelasting op aardgas en elektriciteit wordt ingevoerd ter vervanging van het degressieve stelsel om fossiele subsidies sneller af te bouwen.",
+      "summary": "Vlaktaks energiebelasting invoeren ter vervanging degressief stelsel",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vlaktaks",
+        "energiebelasting",
+        "aardgas",
+        "elektriciteit",
+        "fossiele subsidies"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 53",
+      "originalQuote": "Om de fossiele subsidies sneller af te bouwen wordt een vlaktaks voor energiebelasting op aardgas en elektriciteit ingevoerd. Dit ter vervanging van het degressieve stelsel van energiebelasting."
+    },
+    {
+      "promiseCode": "D66-2025-087",
+      "text": "Een wettelijke maatschappelijke zorgplicht wordt ingevoerd voor bestuurders van grote bedrijven.",
+      "summary": "Wettelijke maatschappelijke zorgplicht voor bestuurders grote bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zorgplicht",
+        "maatschappelijk",
+        "bestuurders",
+        "grote bedrijven",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 58",
+      "originalQuote": "We voeren een wettelijke maatschappelijke zorgplicht in voor (bestuurders van) grote bedrijven."
+    },
+    {
+      "promiseCode": "D66-2025-088",
+      "text": "Er komt een persoonlijk leerbudget dat nooit verloopt. Wie een korte of geen vooropleiding heeft, krijgt een hoger budget.",
+      "summary": "Persoonlijk leerbudget dat nooit verloopt, hoger voor lager opgeleiden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerbudget",
+        "persoonlijk",
+        "leven lang ontwikkelen",
+        "vooropleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 58-59",
+      "originalQuote": "Daarom wil D66 een persoonlijk leerbudget dat nooit verloopt. Wie een korte of geen vooropleiding heeft, krijgt een hoger budget."
+    },
+    {
+      "promiseCode": "D66-2025-089",
+      "text": "De verplichte loondoorbetaling bij ziekte wordt verkort naar 1 jaar om ondernemers te stimuleren meer vaste contracten aan te bieden.",
+      "summary": "Loondoorbetaling bij ziekte verkorten naar 1 jaar voor meer vaste contracten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "loondoorbetaling",
+        "ziekte",
+        "vaste contracten",
+        "ondernemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 59",
+      "originalQuote": "Om ondernemers te stimuleren om meer vaste contracten aan te bieden wil D66 de verplichte loondoorbetaling bij ziekte verkorten naar 1 jaar."
+    },
+    {
+      "promiseCode": "D66-2025-090",
+      "text": "Er komt een wettelijke minimum stagevergoeding voor iedereen, te beginnen bij de overheid zelf.",
+      "summary": "Wettelijke minimum stagevergoeding, startend bij overheid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "minimum",
+        "wettelijk",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 59",
+      "originalQuote": "D66 wil het ouderschapsverlof uitbreiden en een wettelijke minimum stagevergoeding voor iedereen. Te beginnen bij de overheid zelf."
+    },
+    {
+      "promiseCode": "D66-2025-091",
+      "text": "D66 wil de verschillen tussen werknemers en zelfstandigen verkleinen en oneerlijke concurrentie voorkomen, door ervoor te zorgen dat zelfstandigen pensioen opbouwen en verzekerd zijn tegen arbeidsongeschiktheid.",
+      "summary": "Verkleinen verschillen werknemers-zelfstandigen, pensioenopbouw en verzekeringen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zelfstandigen",
+        "pensioenopbouw",
+        "arbeidsongeschiktheid",
+        "verzekering",
+        "arbeidsmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 60",
+      "originalQuote": "D66 wil daarom de verschillen tussen deze groepen werkenden verkleinen en oneerlijke concurrentie voorkomen."
+    },
+    {
+      "promiseCode": "D66-2025-092",
+      "text": "D66 wil lonen verhogen zodat werk naar waarde gewaardeerd wordt en concurrentie met andere werknemers eerlijker is, om de vraag naar laagbetaalde arbeid uit het buitenland te verminderen.",
+      "summary": "Lonen verhogen om vraag naar laagbetaalde arbeidsmigratie te verminderen",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lonen",
+        "arbeidsmigratie",
+        "laagbetaald",
+        "concurrentie",
+        "werknemers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 60-61",
+      "originalQuote": "We verhogen bijvoorbeeld de lonen, zodat werk naar waarde gewaardeerd wordt en concurrentie met andere werknemers eerlijker is."
+    },
+    {
+      "promiseCode": "D66-2025-093",
+      "text": "D66 zet sterk in op arbeidsbesparende technologie zoals automatisering en robotisering. Nederlandse werknemers krijgen via het leerbudget de mogelijkheid om zich om te scholen.",
+      "summary": "Investeren in automatisering en omscholing via leerbudget",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "automatisering",
+        "robotisering",
+        "leerbudget",
+        "omscholing",
+        "technologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 61",
+      "originalQuote": "We zetten sterk in op arbeidsbesparende technologie, zoals automatisering en robotisering. We zijn ons bewust van de effecten hiervan voor Nederlandse werknemers: zij krijgen via het leerbudget de mogelijkheid om zich om te scholen."
+    },
+    {
+      "promiseCode": "D66-2025-094",
+      "text": "D66 beperkt fiscale subsidies voor sectoren met grote negatieve gevolgen voor het klimaat, veel stikstofuitstoot of ruimtebeslag, en wil de echte kosten doorberekenen via eerlijke prijzen.",
+      "summary": "Beperken subsidies klimaatschadelijke sectoren, doorrekenen echte kosten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fiscale",
+        "subsidies",
+        "klimaat",
+        "stikstofuitstoot",
+        "eerlijke",
+        "prijzen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 61",
+      "originalQuote": "D66 beperkt fiscale subsidies voor zulke sectoren en wil de echte kosten doorberekenen ('eerlijke prijzen'), zodat de maatschappij niet langer opdraait voor de kosten terwijl werkgevers de winsten in hun zak steken."
+    },
+    {
+      "promiseCode": "D66-2025-095",
+      "text": "D66 zorgt dat bedrijven en uitzendbureaus verantwoordelijkheid nemen voor huisvesting van arbeidsmigranten en dat zij kennismaken met Nederlandse taal en maatschappij.",
+      "summary": "Bedrijven verantwoordelijk voor huisvesting en integratie arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bedrijven",
+        "uitzendbureaus",
+        "huisvesting",
+        "arbeidsmigranten",
+        "nederlandse",
+        "taal"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 61",
+      "originalQuote": "We zorgen dat bedrijven en uitzendbureaus hun verantwoordelijkheid nemen voor huisvesting en dat arbeidsmigranten kennis maken met de Nederlandse taal en maatschappij."
+    },
+    {
+      "promiseCode": "D66-2025-096",
+      "text": "D66 verbetert handhaving met de Arbeidsinspectie en beperkt het doorlenen van arbeidsmigranten om uitbuiting tegen te gaan.",
+      "summary": "Verbeteren handhaving Arbeidsinspectie, beperken doorlenen arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "handhaving",
+        "arbeidsinspectie",
+        "doorlenen",
+        "arbeidsmigranten",
+        "uitbuiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 61",
+      "originalQuote": "We verbeteren handhaving met de Arbeidsinspectie en beperken het doorlenen van arbeidsmigranten."
+    },
+    {
+      "promiseCode": "D66-2025-097",
+      "text": "D66 verbetert de registratie van arbeidsmigranten en werkt samen met instanties aan verbetering van verwachtingen en onderzoeken voor gericht overheidsbeleid.",
+      "summary": "Verbeteren registratie arbeidsmigranten voor beter beleid",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "registratie",
+        "arbeidsmigranten",
+        "overheidsbeleid",
+        "gegevens",
+        "onderzoeken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 61",
+      "originalQuote": "Daarom verbeteren we de registratie van arbeidsmigranten. We werken ook samen met instanties aan verbetering van verwachtingen en onderzoeken."
+    },
+    {
+      "promiseCode": "D66-2025-098",
+      "text": "D66 wil met inwoners en andere betrokkenen gezamenlijk werken aan één plan per gebied, met één pot geld voor ruimtelijke ordening.",
+      "summary": "Eén plan per gebied met één pot geld",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gebiedsplanning",
+        "participatie",
+        "ruimtelijke ordening",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 64",
+      "originalQuote": "D66 wil met de inwoners en andere betrokkenen gezamenlijk werken aan één plan per gebied, met één pot geld."
+    },
+    {
+      "promiseCode": "D66-2025-099",
+      "text": "Om te bepalen wat we waar doen, hanteren we het principe van 'water en bodem sturend' voor ruimtelijke ontwikkeling.",
+      "summary": "Principe 'water en bodem sturend' hanteren",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "water",
+        "bodem",
+        "ruimtelijke ordening",
+        "klimaatadaptatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 64",
+      "originalQuote": "Om te bepalen wat we waar doen, hanteren we het principe van 'water en bodem sturend'."
+    },
+    {
+      "promiseCode": "D66-2025-100",
+      "text": "D66 investeert in regio's die extra aandacht verdienen op het vlak van leefbaarheid, werkgelegenheid, bereikbaarheid en toegang tot kunst en cultuur.",
+      "summary": "Investeren in regio's die extra aandacht verdienen",
+      "theme": "ECONOMIE",
+      "specificity": "VAAG",
+      "keywords": [
+        "regionale ontwikkeling",
+        "leefbaarheid",
+        "werkgelegenheid",
+        "bereikbaarheid",
+        "cultuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 64",
+      "originalQuote": "D66 investeert in regio's die extra aandacht verdienen. Dat doen we met name op het vlak van leefbaarheid, werkgelegenheid, bereikbaarheid en de toegang tot kunst en cultuur."
+    },
+    {
+      "promiseCode": "D66-2025-101",
+      "text": "D66 wil regels en beleid op het gebied van mobiliteit, onderwijs, arbeidsmarkt en cultuur 'grens-proof' maken voor grensregio's.",
+      "summary": "Regels 'grens-proof' maken voor grensregio's",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grensregio",
+        "mobiliteit",
+        "onderwijs",
+        "arbeidsmarkt",
+        "regelgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 64",
+      "originalQuote": "We maken regels en beleid op het gebied van mobiliteit, onderwijs, arbeidsmarkt en cultuur 'grens-proof'."
+    },
+    {
+      "promiseCode": "D66-2025-102",
+      "text": "De gemeenteraad krijgt de mogelijkheid om minimale eisen voor participatie op te leggen bij ruimtelijke ontwikkelingen.",
+      "summary": "Gemeenteraad kan minimale participatie-eisen opleggen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenteraad",
+        "participatie",
+        "inspraak",
+        "ruimtelijke ordening"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 65",
+      "originalQuote": "De gemeenteraad krijgt de mogelijkheid om minimale eisen voor participatie op te leggen."
+    },
+    {
+      "promiseCode": "D66-2025-103",
+      "text": "Alleen in uitzonderlijke gevallen gaat de Raad van State nog over tot het stilleggen van de bouw.",
+      "summary": "Raad van State legt bouw alleen in uitzonderlijke gevallen stil",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "raad van state",
+        "bouwprocedures",
+        "rechtsbescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 65",
+      "originalQuote": "Alleen in uitzonderlijke gevallen gaat de Raad van State nog over tot het stilleggen van de bouw."
+    },
+    {
+      "promiseCode": "D66-2025-104",
+      "text": "D66 wil PFAS zo snel mogelijk verbieden en het gebruik van milieubelastende bestrijdingsmiddelen op termijn stoppen.",
+      "summary": "PFAS verbieden, bestrijdingsmiddelen stoppen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pfas",
+        "bestrijdingsmiddelen",
+        "milieuvervuiling",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 65",
+      "originalQuote": "D66 wil PFAS zo snel mogelijk verbieden. Het gebruik van milieubelastende bestrijdingsmiddelen stopt op termijn."
+    },
+    {
+      "promiseCode": "D66-2025-105",
+      "text": "D66 wil wetgeving die mensen beschermt tegen de negatieve effecten van laagfrequent geluid en trillingen.",
+      "summary": "Wetgeving tegen laagfrequent geluid en trillingen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "laagfrequent geluid",
+        "trillingen",
+        "gezondheid",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 66",
+      "originalQuote": "D66 wil wetgeving die mensen beschermt tegen de negatieve effecten van laagfrequent geluid en trillingen."
+    },
+    {
+      "promiseCode": "D66-2025-106",
+      "text": "D66 wil een nationaal vergroeningsoffensief waarbij groen wordt aangelegd van gevels en daken tot pleinen en straten.",
+      "summary": "Nationaal vergroeningsoffensief uitvoeren",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergroening",
+        "stadsgroen",
+        "klimaatadaptatie",
+        "hitte"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 66",
+      "originalQuote": "D66 wil een nationaal vergroeningsoffensief. Van gevels en daken tot pleinen en straten leggen we groen aan."
+    },
+    {
+      "promiseCode": "D66-2025-107",
+      "text": "Voor steden hanteren we de 3-30-300 regel: 3 bomen zichtbaar, 30% oppervlakte bedekt door bomen, maximaal 300 meter van natuur.",
+      "summary": "3-30-300 regel invoeren voor steden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsgroen",
+        "bomen",
+        "natuur",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 66",
+      "originalQuote": "Voor steden hanteren we de 3-30-300 regel. Iedereen moet vanuit huis of werk 3 bomen kunnen zien, in wijken is minimaal 30% van de oppervlakte bedekt door bomen en iedereen woont op maximaal 300 meter van natuur."
+    },
+    {
+      "promiseCode": "D66-2025-108",
+      "text": "Bij de bouw van woningen, infrastructuur en industrie moet verplicht rekening worden gehouden met wateroverlast, hitte, droogte en bodemdaling.",
+      "summary": "Klimaatadaptief bouwen verplicht maken",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatadaptief bouwen",
+        "wateroverlast",
+        "hitte",
+        "droogte",
+        "bodemdaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 66",
+      "originalQuote": "Bij de bouw van woningen, infrastructuur en industrie moet verplicht rekening worden gehouden met wateroverlast, hitte, droogt en bodemdaling."
+    },
+    {
+      "promiseCode": "D66-2025-109",
+      "text": "D66 houdt zich aan stikstofdoelstellingen voor 2030 en geeft voorrang aan de meest kwetsbare gebieden. Het hoger beroep in de Greenpeace-zaak wordt ingetrokken.",
+      "summary": "Vasthouden aan stikstofdoelstellingen 2030, hoger beroep Greenpeace intrekken",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstof",
+        "doelstellingen",
+        "greenpeace",
+        "kwetsbare gebieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 67",
+      "originalQuote": "We houden ons aan stikstofdoelstellingen voor 2030. We geven voorrang aan de meest kwetsbare gebieden. Het hoger beroep dat de Staat in de Greenpeace-zaak heeft aangespannen, wordt ingetrokken."
+    },
+    {
+      "promiseCode": "D66-2025-110",
+      "text": "Er komt 50.000 hectare extra natuur door uitbreiding van het Natuur Netwerk Nederland.",
+      "summary": "50.000 hectare extra natuur creëren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "natuuruitbreiding",
+        "natuur netwerk nederland",
+        "hectare",
+        "biodiversiteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 67",
+      "originalQuote": "Er komt 50.000 hectare extra natuur. Daarvoor breiden we het Natuur Netwerk Nederland uit."
+    },
+    {
+      "promiseCode": "D66-2025-111",
+      "text": "D66 wil dat Nederland in 2050 een natuurinclusief land is waar alles wat we bouwen, produceren of aanleggen samengaat met de natuur.",
+      "summary": "Nederland natuurinclusief maken in 2050",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "natuurinclusief",
+        "bouwen",
+        "produceren",
+        "deadline"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 67",
+      "originalQuote": "D66 wil dat Nederland in 2050 een natuurinclusief land is. Alles wat we bouwen, produceren of aanleggen gaat samen met de natuur – niet ten koste daarvan."
+    },
+    {
+      "promiseCode": "D66-2025-112",
+      "text": "D66 wil de Europese Natuurherstelwet ambitieus uitvoeren en voldoende middelen vrijmaken voor de uitvoering.",
+      "summary": "Europese Natuurherstelwet ambitieus uitvoeren",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europese natuurherstelwet",
+        "natuurherstel",
+        "financiering",
+        "uitvoering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 67",
+      "originalQuote": "We voeren de Europese Natuurherstelwet ambitieus uit en maken voldoende middelen vrij voor de uitvoering hiervan."
+    },
+    {
+      "promiseCode": "D66-2025-113",
+      "text": "D66 wil onderzoeken hoe we de rechten van natuurgebieden kunnen vastleggen in de wet, te beginnen bij unieke en kwetsbare gebieden.",
+      "summary": "Rechten van natuurgebieden in wet vastleggen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechten natuur",
+        "wetgeving",
+        "natuurgebieden",
+        "rechtspersoonlijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 68",
+      "originalQuote": "D66 wil onderzoeken hoe we in Nederland de rechten van natuurgebieden kunnen vastleggen in de wet. We beginnen bij unieke en kwetsbare gebieden."
+    },
+    {
+      "promiseCode": "D66-2025-114",
+      "text": "De deadline van 2027 om te voldoen aan de Kaderrichtlijn Water is voor D66 een harde norm voor verbetering van oppervlaktewaterkwaliteit.",
+      "summary": "Kaderrichtlijn Water deadline 2027 als harde norm",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kaderrichtlijn water",
+        "oppervlaktewaterkwaliteit",
+        "deadline",
+        "watervervuiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 68",
+      "originalQuote": "De deadline van 2027 om te voldoen aan de Kaderrichtlijn Water is voor ons een harde norm."
+    },
+    {
+      "promiseCode": "D66-2025-115",
+      "text": "Water moet een eerlijke prijs krijgen om bewust gebruik vanzelfsprekender te maken, waarbij huishoudens met normaal gebruik niet geraakt worden.",
+      "summary": "Eerlijke prijs voor water invoeren",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "waterprijzen",
+        "watergebruik",
+        "verspilling",
+        "huishoudens"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 68",
+      "originalQuote": "Water moet een eerlijke prijs krijgen. Door water ook een prijs te geven, maken we bewust gebruik vanzelfsprekender. Huishoudens die normaal water gebruiken, worden daardoor niet geraakt."
+    },
+    {
+      "promiseCode": "D66-2025-116",
+      "text": "D66 blijft gecommitteerd aan halvering van de stikstofuitstoot in 2030 en het halen van waterkwaliteitsdoelstellingen uit de Kaderrichtlijn Water in 2027.",
+      "summary": "Stikstofuitstoot halveren 2030, waterkwaliteit 2027",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stikstofuitstoot",
+        "halvering",
+        "waterkwaliteit",
+        "landbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 69",
+      "originalQuote": "D66 blijft gecommitteerd aan halvering van de stikstofuitstoot in 2030 en het halen van de waterkwaliteitsdoelstellingen uit de Kaderrichtlijn Water in 2027."
+    },
+    {
+      "promiseCode": "D66-2025-117",
+      "text": "Boeren krijgen een eerlijke beloning voor hun bijdrage aan de natuur en het landschap. Krimp van de veestapel is een logisch gevolg van de opgaven.",
+      "summary": "Eerlijke beloning boeren voor natuur, veestapelkrimp",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "boeren",
+        "beloning",
+        "natuur",
+        "landschap",
+        "veestapel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 70",
+      "originalQuote": "Boeren krijgen een eerlijke beloning voor hun bijdrage aan de natuur en het landschap. Krimp van de veestapel is een logisch gevolg van al deze opgaven."
+    },
+    {
+      "promiseCode": "D66-2025-118",
+      "text": "Import van goedkoop veevoer en dierlijke producten die leiden tot ontbossing of biodiversiteitsverlies moet worden tegengegaan.",
+      "summary": "Import veevoer met ontbossing tegengaan",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "import",
+        "veevoer",
+        "ontbossing",
+        "biodiversiteitsverlies"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 70",
+      "originalQuote": "Import van goedkoop veevoer en dierlijke producten die leiden tot ontbossing of biodiversiteitsverlies elders op de wereld moet worden tegengegaan."
+    },
+    {
+      "promiseCode": "D66-2025-119",
+      "text": "D66 wil marktmacht van supermarkten en agrobusiness aanpakken en eerlijke verhoudingen in de keten tot stand brengen.",
+      "summary": "Marktmacht supermarkten en agrobusiness aanpakken",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "marktmacht",
+        "supermarkten",
+        "agrobusiness",
+        "ketenverhoudingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 70",
+      "originalQuote": "D66 wil deze marktmacht aanpakken en eerlijke verhoudingen in de keten. We willen meer transparantie en betere beloning voor duurzame producten."
+    },
+    {
+      "promiseCode": "D66-2025-120",
+      "text": "We stoppen met internationaal transport van vee voor de slacht, naar Zwitsers voorbeeld.",
+      "summary": "Internationaal veetransport voor slacht stoppen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veetransport",
+        "slacht",
+        "dierenwelzijn",
+        "internationaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 72",
+      "originalQuote": "We stoppen met internationaal transport van vee voor de slacht, naar Zwitsers voorbeeld."
+    },
+    {
+      "promiseCode": "D66-2025-121",
+      "text": "We leggen de rechtspositie van dieren vast in de Grondwet om een dierwaardig bestaan voor alle dieren te waarborgen.",
+      "summary": "Rechtspositie dieren in Grondwet vastleggen",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "rechtspositie",
+        "dieren",
+        "grondwet",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 72",
+      "originalQuote": "Om een dierwaardig bestaan voor alle dieren te waarborgen leggen we de rechtspositie van dieren vast in onze Grondwet."
+    },
+    {
+      "promiseCode": "D66-2025-122",
+      "text": "D66 wil snellere toetreding van Oekraïne tot de Europese Unie ondersteunen om het land dat vecht voor vrijheid en democratie uitzicht te geven op een Europese toekomst.",
+      "summary": "Snellere EU-toetreding Oekraïne",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "oekraïne",
+        "eu-toetreding",
+        "democratie",
+        "vrijheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 76",
+      "originalQuote": "D66 steunt een snellere toetreding van Oekraïne tot de Europese Unie. Zo geven we het land dat vecht voor haar en onze vrijheid en democratie uitzicht op een Europese toekomst."
+    },
+    {
+      "promiseCode": "D66-2025-123",
+      "text": "D66 wil het vetorecht in de EU afschaffen, omdat één land nu sancties tegen Rusland kan blokkeren, wat Europa kwetsbaar maakt.",
+      "summary": "Afschaffing vetorecht EU",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vetorecht",
+        "eu",
+        "sancties",
+        "rusland"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 76",
+      "originalQuote": "Eén land kan nu sancties tegen Rusland blokkeren, zoals Hongarije. Dat maakt Europa kwetsbaar. Daarom wil D66 af van het vetorecht."
+    },
+    {
+      "promiseCode": "D66-2025-124",
+      "text": "D66 wil jaarlijks €750 tot €800 miljard euro extra aan Europese investeringen financieren met gezamenlijke leningen voor publieke goederen zoals digitale technologie, infrastructuur en elektriciteitsnetten.",
+      "summary": "€750-800 miljard jaarlijkse EU-investeringen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese investeringen",
+        "gezamenlijke leningen",
+        "infrastructuur",
+        "digitale technologie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 77",
+      "originalQuote": "D66 wil jaarlijks €750 tot €800 miljard euro extra aan Europese investeringen. Dat financieren we met gezamenlijke leningen."
+    },
+    {
+      "promiseCode": "D66-2025-125",
+      "text": "D66 wil een Europese begroting die twee keer zo groot is, gefinancierd met eigen Europese inkomstenbronnen voor investeringen in defensie, groene energie en vitale voorzieningen.",
+      "summary": "Verdubbeling Europese begroting",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "europese begroting",
+        "inkomstenbronnen",
+        "defensie",
+        "groene energie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 77",
+      "originalQuote": "Met een Europese begroting die twee keer zo groot is, kunnen we samen écht een veranderende wereld aan. Dit doen we met eigen Europese inkomstenbronnen."
+    },
+    {
+      "promiseCode": "D66-2025-126",
+      "text": "D66 streeft op lange termijn naar een Europese krijgsmacht en op korte termijn naar een sterke Europese positie binnen de NAVO met Europese strategische commandovoering, materieel en personeel.",
+      "summary": "Europese krijgsmacht en NAVO-positie",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europese krijgsmacht",
+        "navo",
+        "strategische commandovoering",
+        "materieel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 78",
+      "originalQuote": "D66 streeft op lange termijn naar een Europese krijgsmacht. Op de korte termijn wil D66 een sterke Europese positie binnen de NAVO, met Europese strategische commandovoering, Europees materieel en Europees personeel."
+    },
+    {
+      "promiseCode": "D66-2025-127",
+      "text": "Nederland komt de NAVO-afspraak na om minimaal 3,5% van het bbp aan defensie uit te geven en minimaal 1,5% van het bbp aan kritieke infrastructuur, civiele paraatheid en veerkracht.",
+      "summary": "3,5% bbp defensie, 1,5% bbp infrastructuur",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "navo-afspraak",
+        "defensie-uitgaven",
+        "bbp",
+        "kritieke infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 78",
+      "originalQuote": "We komen de NAVO-afspraak na om minimaal 3,5% van het bbp aan defensie uit te geven en minimaal 1,5% van het bbp aan de kritieke infrastructuur, civiele paraatheid, veerkracht en het versterken van onze defensie-industrie."
+    },
+    {
+      "promiseCode": "D66-2025-128",
+      "text": "D66 wil dat Nederland in 2030 Europees koploper wordt op het gebied van AI, drones, ruimtevaart en cybersecurity voor defensie met betekenisvolle menselijke controle als uitgangspunt.",
+      "summary": "Europees koploper defensietechnologie 2030",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensietechnologie",
+        "ai",
+        "drones",
+        "ruimtevaart",
+        "cybersecurity"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 79",
+      "originalQuote": "D66 wil dat Nederland in 2030 Europees koploper is op het gebied van AI, drones, ruimtevaart en cybersecurity voor defensie."
+    },
+    {
+      "promiseCode": "D66-2025-129",
+      "text": "D66 wil het Zweedse model voor dienstplicht invoeren met een verplichte enquête onder jongeren, waarna zij vrijwillig ingezet kunnen worden in zorg, logistiek, cybersecurity en defensie.",
+      "summary": "Zweedse model dienstplicht",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dienstplicht",
+        "zweedse model",
+        "verplichte enquête",
+        "maatschappelijke opgave"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 79",
+      "originalQuote": "D66 wil jongeren, als zij dat willen, betrekken bij deze brede maatschappelijke opgave. Dat doen we met het Zweedse model voor de dienstplicht, dat bestaat uit een verplichte enquête onder dienstplichtigen."
+    },
+    {
+      "promiseCode": "D66-2025-130",
+      "text": "D66 wil het vetorecht binnen de VN Veiligheidsraad afschaffen om internationale blokkades te doorbreken.",
+      "summary": "Afschaffing VN-vetorecht",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vn veiligheidsraad",
+        "vetorecht",
+        "internationale blokkades"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 80",
+      "originalQuote": "D66 wil het vetorecht binnen de VN Veiligheidsraad afschaffen."
+    },
+    {
+      "promiseCode": "D66-2025-131",
+      "text": "D66 wil een significante stap zetten naar herstel van het budget voor internationale samenwerking naar 0,7% van het bbp na eerdere bezuinigingen.",
+      "summary": "Herstel ontwikkelingsbudget naar 0,7% bbp",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "internationale samenwerking",
+        "ontwikkelingsbudget",
+        "bbp",
+        "herstel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 80",
+      "originalQuote": "We zetten een significante stap naar herstel van het budget naar 0,7% van het bbp."
+    },
+    {
+      "promiseCode": "D66-2025-132",
+      "text": "Nederland moet per direct stoppen met wapenexport naar Israël, dual-use goederen verbieden, import uit bezette gebieden stoppen, het EU-associatieverdrag opschorten en de regering-Netanyahu sanctioneren.",
+      "summary": "Sancties en wapenembargo Israël",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wapenexport",
+        "sancties",
+        "israël",
+        "eu-associatieverdrag",
+        "embargo"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 81",
+      "originalQuote": "Nederland moet de gehele regering-Netanyahu sanctioneren, per direct stoppen met de export van wapens en dual-use goederen die mogelijk bijdragen aan het geweld in Gaza, de import verbieden van goederen uit de bezette gebieden en per direct het EU-associatieverdrag opschorten."
+    },
+    {
+      "promiseCode": "D66-2025-133",
+      "text": "Nederland moet nu de Palestijnse staat erkennen en het Palestijnse recht op zelfbeschikking bevestigen om vrede mogelijk te maken.",
+      "summary": "Erkenning Palestijnse staat",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "palestijnse staat",
+        "staatserkenning",
+        "zelfbeschikking",
+        "vrede"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 81",
+      "originalQuote": "Nederland moet nu de Palestijnse staat erkennen en het Palestijnse recht op zelfbeschikking bevestigen."
+    },
+    {
+      "promiseCode": "D66-2025-134",
+      "text": "D66 wil een wettelijk kinderpardon instellen: gewortelde kinderen die langer dan vijf jaar in Nederland verblijven, mogen niet de dupe worden van falend overheidsbeleid.",
+      "summary": "Wettelijk kinderpardon na 5 jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderpardon",
+        "gewortelde kinderen",
+        "vijf jaar",
+        "verblijfsrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 83",
+      "originalQuote": "We stellen een wettelijk kinderpardon in: gewortelde kinderen die langer dan vijf jaar in Nederland verblijven, zijn thuis in Nederland."
+    },
+    {
+      "promiseCode": "D66-2025-135",
+      "text": "D66 wil het Nederlandse hervestigingsquotum voor erkende vluchtelingen via de UNHCR stapsgewijs verhogen naar vijfduizend mensen per jaar.",
+      "summary": "Hervestigingsquotum 5000 per jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hervestigingsquotum",
+        "unhcr",
+        "vijfduizend",
+        "erkende vluchtelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 84",
+      "originalQuote": "We verhogen het Nederlandse hervestigingsquotum stapsgewijs, te beginnen naar vijfduizend mensen per jaar."
+    },
+    {
+      "promiseCode": "D66-2025-136",
+      "text": "Externe inhuur van dure consultants verminderen en kennis en expertise weer in huis halen bij de overheid.",
+      "summary": "Verminderen externe inhuur consultants, kennis terughalen naar overheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "consultants",
+        "externe inhuur",
+        "kennis",
+        "expertise",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 87",
+      "originalQuote": "We verminderen de externe inhuur van dure consultants. We halen kennis en expertise weer in huis bij de overheid."
+    },
+    {
+      "promiseCode": "D66-2025-137",
+      "text": "Doorbraakministers benoemen voor grote problemen rondom wonen, klimaat en veiligheid, met duidelijke doelen en eigen begroting.",
+      "summary": "Doorbraakministers benoemen met eigen begroting voor wonen, klimaat, veiligheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doorbraakministers",
+        "begroting",
+        "wonen",
+        "klimaat",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 87",
+      "originalQuote": "We benoemen doorbraakministers, met duidelijke doelen en een eigen begroting."
+    },
+    {
+      "promiseCode": "D66-2025-138",
+      "text": "Een nieuw, modern systeem bouwen naast het huidige systeem van de Belastingdienst: een Belastingdienst 2.0 die het huidige systeem vervangt als het klaar is.",
+      "summary": "Belastingdienst 2.0 bouwen ter vervanging van huidig systeem",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingdienst",
+        "ict-systeem",
+        "modernisering",
+        "vervanging"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 87",
+      "originalQuote": "bouwt D66 daarom een nieuw, modern systeem naast het huidige systeem: een Belastingdienst 2.0. Als dat klaar is, vervangt dit het huidige systeem."
+    },
+    {
+      "promiseCode": "D66-2025-139",
+      "text": "Het recht op begrijpelijke taal vastleggen in de wet.",
+      "summary": "Recht op begrijpelijke taal wettelijk vastleggen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "begrijpelijke taal",
+        "wetgeving",
+        "overheid",
+        "communicatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 87",
+      "originalQuote": "Het recht op begrijpelijke taal leggen we vast in de wet."
+    },
+    {
+      "promiseCode": "D66-2025-140",
+      "text": "Bij wet een einde maken aan etnisch profileren: overheidsorganisaties mogen geen etniciteit, nationaliteit, wijk, taalvaardigheid of mentaal welzijn meer gebruiken voor risicoprofilering. Ook politie en marechaussee mogen niet meer etnisch profileren.",
+      "summary": "Etnisch profileren bij wet verbieden voor alle overheidsorganisaties",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "etnisch profileren",
+        "wetgeving",
+        "risicoprofilering",
+        "politie",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 87",
+      "originalQuote": "D66 maakt daar bij wet een einde aan: overheidsorganisaties mogen geen etniciteit of nationaliteit meer gebruiken om mensen in te delen in risicogroepen. Ook kenmerken zoals de wijk waarin iemand woont, de taalvaardigheid van mensen en hun mentale welzijn worden niet meer gebruikt bij risicoprofilering. De politie en de marechaussee mogen niet meer etnisch profileren."
+    },
+    {
+      "promiseCode": "D66-2025-141",
+      "text": "Werken met normbedragen en vaststellingsovereenkomsten voor compensatie toeslagenschandaal-slachtoffers, met vaste vergoedingen voor vaker voorkomende schade zoals scheidingen.",
+      "summary": "Normbedragen en vaste vergoedingen voor toeslagenschandaal-compensatie",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "normbedragen",
+        "compensatie",
+        "toeslagenschandaal",
+        "vergoedingen",
+        "scheidingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 88",
+      "originalQuote": "Daarom gaan we werken met normbedragen om benadeelde gezinnen te compenseren, met onder andere vaste vergoedingen voor vaker voorkomende schade (zoals scheidingen)."
+    },
+    {
+      "promiseCode": "D66-2025-142",
+      "text": "De afspraken in 'Nij Begun' voor Groningen vastleggen in een Groningenwet en een bewindspersoon voor Groningen laten doorgaan.",
+      "summary": "Groningenwet invoeren en bewindspersoon voor Groningen behouden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groningenwet",
+        "nij begun",
+        "bewindspersoon",
+        "groningen",
+        "gasschade"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 88",
+      "originalQuote": "We leggen die afspraken ook vast in een Groningenwet."
+    },
+    {
+      "promiseCode": "D66-2025-143",
+      "text": "Bijdragen van het Rijk aan gemeenten verhogen en gemeenten meer mogelijkheden geven voor lokale belastingen en heffingen.",
+      "summary": "Hogere rijksbijdragen aan gemeenten en meer lokale belastingmogelijkheden",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gemeenten",
+        "rijksbijdragen",
+        "lokale belastingen",
+        "decentralisatie",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 88",
+      "originalQuote": "Daarom verhogen we de bijdragen van het Rijk aan gemeenten. Daarnaast krijgen gemeenten meer mogelijkheden voor lokale belastingen en heffingen."
+    },
+    {
+      "promiseCode": "D66-2025-144",
+      "text": "Het tarief in de eerste en tweede schijf van de inkomstenbelasting verlagen en een belastingkorting van minimaal €600 per jaar invoeren voor mensen die minstens vier dagen per week werken.",
+      "summary": "Lagere inkomstenbelasting en €600 korting bij vier dagen werken",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "inkomstenbelasting",
+        "belastingkorting",
+        "vier dagen",
+        "werken",
+        "600 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 89",
+      "originalQuote": "Daarom verlagen we het tarief in de eerste en tweede schijf van de inkomstenbelasting en verhogen we het minimumloon. De komende jaren is iedereen keihard nodig op de werkvloer. Daarom komt er een belastingkorting voor mensen die minstens vier dagen per week werken, wat een netto belastingvoordeel van minimaal €600 euro per jaar betekent."
+    },
+    {
+      "promiseCode": "D66-2025-145",
+      "text": "De erf- en schenkbelasting moderner en progressiever maken en grote vermogens meer belasten, onder meer met een miljonairsbelasting.",
+      "summary": "Erf- en schenkbelasting hervormen, miljonairsbelasting invoeren",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "erf- en schenkbelasting",
+        "miljonairsbelasting",
+        "vermogens",
+        "progressief",
+        "belasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 89",
+      "originalQuote": "Daarom maken we de erf- en schenkbelasting moderner en progressiever. We belasten grote vermogens meer, onder meer met een miljonairsbelasting."
+    },
+    {
+      "promiseCode": "D66-2025-146",
+      "text": "De hypotheekrenteaftrek afbouwen, het btw-tarief op nieuwbouw verlagen en het eigenwoningforfait voor duurste huizen aanscherpen, met opbrengsten naar lagere inkomstenbelasting.",
+      "summary": "Hypotheekrenteaftrek afbouwen, btw nieuwbouw verlagen, eigenwoningforfait aanscherpen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "btw",
+        "nieuwbouw",
+        "eigenwoningforfait",
+        "inkomstenbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 90",
+      "originalQuote": "Dit doen we onder andere via de afbouw van de hypotheekrenteaftrek, verlaging van het btw-tarief op nieuwbouw en aanscherping van het eigenwoningforfait voor de duurste huizen."
+    },
+    {
+      "promiseCode": "D66-2025-147",
+      "text": "Het toeslagenstelsel drastisch hervormen en vervangen door een individueel basisbedrag.",
+      "summary": "Toeslagenstelsel vervangen door individueel basisbedrag",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toeslagenstelsel",
+        "individueel basisbedrag",
+        "hervorming",
+        "sociale zekerheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 90",
+      "originalQuote": "Daarom gaat het toeslagenstelsel drastisch op de schop en komt er een individueel basisbedrag voor terug."
+    },
+    {
+      "promiseCode": "D66-2025-148",
+      "text": "Kinderopvang op korte termijn bijna gratis en in de toekomst helemaal gratis maken. Kindgebonden budget en kinderbijslag samenvoegen tot één regeling.",
+      "summary": "Kinderopvang gratis maken, kindregelingen samenvoegen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "gratis",
+        "kindgebonden budget",
+        "kinderbijslag",
+        "samenvoeging"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 2025, p. 90",
+      "originalQuote": "We maken kinderopvang op korte termijn bijna gratis en in de toekomst helemaal gratis. Het kindgebonden budget en de kinderbijslag voegen we samen."
+    }
+  ]
+}

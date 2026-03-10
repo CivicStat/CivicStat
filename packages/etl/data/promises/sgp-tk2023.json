@@ -1,0 +1,517 @@
+{
+  "party": "SGP",
+  "partySlug": "sgp",
+  "program": "In vertrouwen",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "a5902a15b00a49c6cff8619c210b602d52c02783fcdfcb7f2d5e643a1c41a854",
+  "totalPromises": 33,
+  "promises": [
+    {
+      "promiseCode": "SGP-2023-001",
+      "text": "Strenger optreden en straffen bij geweld tegen en bedreiging van hulpverleners, publieke functionarissen en ambtsdragers",
+      "summary": "Strenger straffen bij geweld tegen hulpverleners en ambtsdragers",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "geweld",
+        "bedreiging",
+        "hulpverleners",
+        "ambtsdragers",
+        "straffen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 4",
+      "originalQuote": "strenger optreden en straffen bij geweld tegen en bedreiging van hulpverleners, publieke functionarissen en ambtsdragers"
+    },
+    {
+      "promiseCode": "SGP-2023-002",
+      "text": "(Financiële) ondersteuning behouden van initiatieven voor een maatschappelijke diensttijd voor jongeren",
+      "summary": "Ondersteuning maatschappelijke diensttijd jongeren behouden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ondersteuning",
+        "maatschappelijke",
+        "diensttijd",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 4",
+      "originalQuote": "(financiële) ondersteuning behouden van initiatieven voor een maatschappelijke diensttijd voor jongeren"
+    },
+    {
+      "promiseCode": "SGP-2023-003",
+      "text": "Christelijke organisaties moeten op gelijke voet kunnen rekenen op subsidie voor het bijdragen aan maatschappelijke taken",
+      "summary": "Gelijke subsidies voor christelijke organisaties",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "christelijke",
+        "organisaties",
+        "subsidie",
+        "maatschappelijke",
+        "taken"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 4",
+      "originalQuote": "dat christelijke organisaties op gelijke voet kunnen rekenen op subsidie voor het bijdragen aan maatschappelijke taken"
+    },
+    {
+      "promiseCode": "SGP-2023-004",
+      "text": "Koopvrije zondagen handhaven",
+      "summary": "Koopvrije zondagen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "koopvrije",
+        "zondagen",
+        "winkels",
+        "rust"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 4",
+      "originalQuote": "koopvrije zondagen"
+    },
+    {
+      "promiseCode": "SGP-2023-005",
+      "text": "Meer investeren in grote monumenten, waaronder monumentale kerken, die moeite hebben om het noodzakelijke onderhoud te kunnen blijven verrichten",
+      "summary": "Meer investeringen in monumenten en kerken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeren",
+        "monumenten",
+        "kerken",
+        "onderhoud"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 4",
+      "originalQuote": "meer investeren in grote monumenten, waaronder monumentale kerken, die moeite hebben om het noodzakelijke onderhoud te kunnen blijven verrichten"
+    },
+    {
+      "promiseCode": "SGP-2023-006",
+      "text": "De 24-wekengrens bij abortus wordt verlaagd",
+      "summary": "24-wekengrens abortus verlagen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "24-wekengrens",
+        "abortus",
+        "verlagen",
+        "zwangerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 7",
+      "originalQuote": "Met de huidige stand van de medische praktijk, moet op zijn minst de 24-wekengrens bij abortus worden verlaagd"
+    },
+    {
+      "promiseCode": "SGP-2023-007",
+      "text": "Abortus blijft in het Wetboek van Strafrecht en wordt zeker niet aangemerkt als mensenrecht",
+      "summary": "Abortus in Wetboek van Strafrecht houden",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortus",
+        "Wetboek",
+        "Strafrecht",
+        "mensenrecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 7",
+      "originalQuote": "dat abortus in het Wetboek van Strafrecht blijft en zéker niet aangemerkt wordt als mensenrecht"
+    },
+    {
+      "promiseCode": "SGP-2023-008",
+      "text": "Een hulpfonds voor onbedoeld zwangere vrouwen en hun kinderen, zowel in Nederland als wereldwijd",
+      "summary": "Hulpfonds voor onbedoeld zwangere vrouwen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hulpfonds",
+        "zwangere",
+        "vrouwen",
+        "kinderen",
+        "wereldwijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 7",
+      "originalQuote": "een hulpfonds voor onbedoeld zwangere vrouwen en hun kinderen, zowel in Nederland als wereldwijd"
+    },
+    {
+      "promiseCode": "SGP-2023-009",
+      "text": "Een Deltaplan mentale gezondheid om de veerkracht (met name van jongeren) te versterken",
+      "summary": "Deltaplan mentale gezondheid voor jongeren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Deltaplan",
+        "mentale",
+        "gezondheid",
+        "veerkracht",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 7",
+      "originalQuote": "een Deltaplan mentale gezondheid om de veerkracht (met name van jongeren) te versterken"
+    },
+    {
+      "promiseCode": "SGP-2023-010",
+      "text": "Handhaving van het verbod op embryokweek voor wetenschappelijk onderzoek",
+      "summary": "Verbod embryokweek wetenschappelijk onderzoek handhaven",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verbod",
+        "embryokweek",
+        "wetenschappelijk",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 7",
+      "originalQuote": "handhaving van het verbod op embryokweek voor wetenschappelijk onderzoek"
+    },
+    {
+      "promiseCode": "SGP-2023-011",
+      "text": "Méér investeren in kinderpalliatieve zorg",
+      "summary": "Meer investeren in kinderpalliatieve zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "investeren",
+        "kinderpalliatieve",
+        "zorg",
+        "kinderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 7",
+      "originalQuote": "méér investeren in kinderpalliatieve zorg"
+    },
+    {
+      "promiseCode": "SGP-2023-012",
+      "text": "Een beter salaris voor verpleegkundigen en verzorgenden",
+      "summary": "Beter salaris verpleegkundigen en verzorgenden",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salaris",
+        "verpleegkundigen",
+        "verzorgenden",
+        "beloning"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 8",
+      "originalQuote": "een beter salaris voor verpleegkundigen en verzorgenden"
+    },
+    {
+      "promiseCode": "SGP-2023-013",
+      "text": "Verhoging van de jaarlijkse mantelzorgwaardering",
+      "summary": "Hogere jaarlijkse mantelzorgwaardering",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verhoging",
+        "mantelzorgwaardering",
+        "jaarlijks",
+        "waardering"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 8",
+      "originalQuote": "verhoging van de jaarlijkse mantelzorgwaardering"
+    },
+    {
+      "promiseCode": "SGP-2023-014",
+      "text": "Een extra tandartsenopleiding in Rotterdam om de tandartszorg in Zeeland en Zuid-Holland-Zuid te verbeteren",
+      "summary": "Extra tandartsenopleiding Rotterdam voor regio",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tandartsenopleiding",
+        "Rotterdam",
+        "tandartszorg",
+        "Zeeland",
+        "Zuid-Holland-Zuid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 8",
+      "originalQuote": "een extra tandartsenopleiding in Rotterdam om de tandartszorg in Zeeland en Zuid-Holland-Zuid te verbeteren"
+    },
+    {
+      "promiseCode": "SGP-2023-015",
+      "text": "De normen voor aanrijtijden van ambulances worden gewoon gehaald, ook op de Veluwe, Goeree-Overflakkee en in het Groene Hart",
+      "summary": "Ambulance aanrijtijden normen halen in alle regio's",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambulances",
+        "aanrijtijden",
+        "normen",
+        "Veluwe",
+        "Goeree-Overflakkee",
+        "Groene Hart"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 8",
+      "originalQuote": "dat de normen voor aanrijtijden van ambulances gewoon gehaald worden, ook op de Veluwe, Goeree-Overflakkee en in het Groene Hart"
+    },
+    {
+      "promiseCode": "SGP-2023-016",
+      "text": "Een ministerie van jeugd- en gezinsbeleid oprichten",
+      "summary": "Nieuw ministerie jeugd- en gezinsbeleid",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ministerie",
+        "jeugd",
+        "gezinsbeleid",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 11",
+      "originalQuote": "een ministerie van jeugd- en gezinsbeleid"
+    },
+    {
+      "promiseCode": "SGP-2023-017",
+      "text": "Relatietherapie wordt gratis",
+      "summary": "Gratis relatietherapie",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "relatietherapie",
+        "gratis",
+        "zorgverzekering",
+        "therapie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 11",
+      "originalQuote": "dat relatietherapie gratis wordt"
+    },
+    {
+      "promiseCode": "SGP-2023-018",
+      "text": "Een wettelijk recht op rouwverlof invoeren",
+      "summary": "Wettelijk recht op rouwverlof",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijk",
+        "recht",
+        "rouwverlof",
+        "verlof"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 11",
+      "originalQuote": "een wettelijk recht op rouwverlof"
+    },
+    {
+      "promiseCode": "SGP-2023-019",
+      "text": "Een gezinsvriendelijk belastingstelsel, waarbij niet langer het individu maar het huishouden het uitgangspunt vormt",
+      "summary": "Gezinsvriendelijk belastingstelsel met huishouden als uitgangspunt",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "belastingstelsel",
+        "gezinsvriendelijk",
+        "huishouden",
+        "uitgangspunt"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 11",
+      "originalQuote": "een gezinsvriendelijk belastingstelsel, waarbij niet langer het individu maar het huishouden het uitgangspunt vormt"
+    },
+    {
+      "promiseCode": "SGP-2023-020",
+      "text": "Een nationale gezinspas die met korting toegang geeft tot musea, speeltuinen en andere gezinsactiviteiten. Heeft een gezin meerdere kinderen, dan hoeven ouders voor niet meer dan twee kinderen te betalen",
+      "summary": "Nationale gezinspas met kortingen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gezinspas",
+        "kortingen",
+        "musea",
+        "speeltuinen",
+        "gezinsactiviteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 11",
+      "originalQuote": "een nationale gezinspas die met korting toegang geeft tot musea, speeltuinen en andere gezinsactiviteiten. Heeft een gezin meerdere kinderen, dan hoeven ouders voor niet meer dan twee kinderen te betalen"
+    },
+    {
+      "promiseCode": "SGP-2023-021",
+      "text": "500 extra agenten op straat inzetten voor meer politiecapaciteit.",
+      "summary": "500 extra agenten op straat",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "agenten",
+        "politie",
+        "capaciteit",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 21",
+      "originalQuote": "500 extra agenten op straat"
+    },
+    {
+      "promiseCode": "SGP-2023-022",
+      "text": "In ieder dorp en stadswijk een eigen wijkagent plaatsen voor lokale veiligheid.",
+      "summary": "Eigen wijkagent per dorp en stadswijk",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkagent",
+        "dorp",
+        "stadswijk",
+        "lokale",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 21",
+      "originalQuote": "in ieder dorp en stadswijk een eigen wijkagent"
+    },
+    {
+      "promiseCode": "SGP-2023-023",
+      "text": "Stoppen met het gedoogbeleid van softdrugs.",
+      "summary": "Einde gedoogbeleid softdrugs",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gedoogbeleid",
+        "softdrugs",
+        "drugsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 21",
+      "originalQuote": "stoppen met het gedoogbeleid van softdrugs"
+    },
+    {
+      "promiseCode": "SGP-2023-024",
+      "text": "Kosten voor het opruimen van drugsafval verhalen op de criminelen.",
+      "summary": "Drugsafval-kosten verhalen op criminelen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "drugsafval",
+        "kosten",
+        "verhalen",
+        "criminelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 21",
+      "originalQuote": "kosten voor het opruimen van drugsafval verhalen op de criminelen"
+    },
+    {
+      "promiseCode": "SGP-2023-025",
+      "text": "Sluiting van rosse buurten, zoals de Amsterdamse Wallen.",
+      "summary": "Sluiting rosse buurten en Amsterdamse Wallen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rosse",
+        "buurten",
+        "sluiting",
+        "Amsterdamse",
+        "Wallen"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 21",
+      "originalQuote": "sluiting van rosse buurten, zoals de Amsterdamse Wallen"
+    },
+    {
+      "promiseCode": "SGP-2023-026",
+      "text": "Een totaalverbod op betaalde seks invoeren om seksuele uitbuiting te voorkomen.",
+      "summary": "Totaalverbod betaalde seks",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "totaalverbod",
+        "betaalde",
+        "seks",
+        "prostitutie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 21",
+      "originalQuote": "is een totaalverbod op betaalde seks nodig"
+    },
+    {
+      "promiseCode": "SGP-2023-027",
+      "text": "Ten minste 2 procent van het bruto binnenlands product uitgeven aan defensie door wettelijke vastlegging van de NAVO-norm.",
+      "summary": "2% BBP aan defensie wettelijk vastleggen",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "NAVO-norm",
+        "defensie",
+        "BBP",
+        "wettelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 22",
+      "originalQuote": "ten minste 2 procent van het bruto binnenlands product wordt uitgegeven aan defensie"
+    },
+    {
+      "promiseCode": "SGP-2023-028",
+      "text": "Invoering van een migratiequotum met streefcijfer en bovengrens voor asielmigratie en heldere quota voor studie- en arbeidsmigratie van buiten de EU.",
+      "summary": "Migratiequotum met bovengrens invoeren",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "migratiequotum",
+        "bovengrens",
+        "asielmigratie",
+        "arbeidsmigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 22",
+      "originalQuote": "Voor asielmigratie wordt gewerkt met een streefcijfer met bovengrens, voor studiemigratie en arbeidsmigratie van buiten de EU gaan heldere quota gelden"
+    },
+    {
+      "promiseCode": "SGP-2023-029",
+      "text": "Een vaste verblijfsvergunning pas na zeven jaar in plaats van vijf jaar verlenen.",
+      "summary": "Vaste verblijfsvergunning na 7 jaar ipv 5",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verblijfsvergunning",
+        "zeven",
+        "jaar",
+        "vijf"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 22",
+      "originalQuote": "een vaste verblijfsvergunning pas na zeven jaar in plaats van vijf"
+    },
+    {
+      "promiseCode": "SGP-2023-030",
+      "text": "De geldigheid van de tijdelijke verblijfsvergunning verkorten naar drie jaar.",
+      "summary": "Tijdelijke verblijfsvergunning verkorten naar 3 jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tijdelijke",
+        "verblijfsvergunning",
+        "drie",
+        "jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 22",
+      "originalQuote": "de geldigheid van de tijdelijke verblijfsvergunning verkorten naar drie jaar"
+    },
+    {
+      "promiseCode": "SGP-2023-031",
+      "text": "Kansrijke asielzoekers krijgen al drie maanden na hun asielaanvraag toegang tot de arbeidsmarkt, voor kansloze asielzoekers wordt dat negen maanden.",
+      "summary": "Arbeidsmarkttoegang na 3 of 9 maanden afhankelijk van kansen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "arbeidsmarkt",
+        "drie",
+        "negen",
+        "maanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 22",
+      "originalQuote": "Kansrijke asielzoekers moeten voortaan al drie maanden na hun asielaanvraag toegang tot de arbeidsmarkt krijgen; voor asielzoekers waarvan de kans zeer klein is dat zij hier mogen blijven, wordt dat negen maanden"
+    },
+    {
+      "promiseCode": "SGP-2023-032",
+      "text": "De Nederlandse ambassade in Israël verhuist naar Jeruzalem.",
+      "summary": "Ambassade verhuizen naar Jeruzalem",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambassade",
+        "Israël",
+        "Jeruzalem",
+        "verhuizing"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 23",
+      "originalQuote": "De Nederlandse ambassade in Israël verhuist naar Jeruzalem"
+    },
+    {
+      "promiseCode": "SGP-2023-033",
+      "text": "Een wettelijke acceptatieplicht van contant geld invoeren.",
+      "summary": "Wettelijke acceptatieplicht contant geld",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wettelijke",
+        "acceptatieplicht",
+        "contant",
+        "geld"
+      ],
+      "sourceRef": "Verkiezingsprogramma SGP 2023, p. 25",
+      "originalQuote": "De SGP is daarom voor een wettelijke acceptatieplicht van contant geld"
+    }
+  ]
+}

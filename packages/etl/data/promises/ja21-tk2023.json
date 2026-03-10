@@ -1,0 +1,944 @@
+{
+  "party": "JA21",
+  "partySlug": "ja21",
+  "program": "Verkiezingsprogramma 2023",
+  "electionYear": 2023,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "pdfHash": "e11189a35341d72ed02bb46770dec2ee02e232477d1c46329da2009f8fbdcba9",
+  "totalPromises": 61,
+  "promises": [
+    {
+      "promiseCode": "JA21-2023-001",
+      "text": "De vorming van minderheidskabinetten stimuleren om de invloed van de volksvertegenwoordiging te versterken. Een minderheidskabinet kan een coalitie zijn of een kabinet van één partij die voor wetgeving steeds wisselende meerderheden moet zoeken.",
+      "summary": "Vorming minderheidskabinetten stimuleren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minderheidskabinetten",
+        "volksvertegenwoordiging",
+        "coalitie",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 4-5",
+      "originalQuote": "In de eerste plaats wil JA21 de vorming van minderheidskabinetten stimuleren. Een minderheidskabinet kan een coalitie zijn, maar ook een kabinet van één partij. De regering moet dan voor het laten aannemen van wetten en voorstellen steeds op zoek naar wisselende meerderheden."
+    },
+    {
+      "promiseCode": "JA21-2023-002",
+      "text": "Invoering van een gedeeltelijk districtenstelsel waarbij mensen zowel voor landelijke als regionale volksvertegenwoordigers kunnen kiezen. Regionaal gekozen vertegenwoordigers zijn afhankelijk van kiezers in hun district.",
+      "summary": "Gedeeltelijk districtenstelsel invoeren",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "districtenstelsel",
+        "kiesstelsel",
+        "regio",
+        "vertegenwoordiging"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 5",
+      "originalQuote": "In de tweede plaats pleit JA21 voor de invoering van een gedeeltelijk districtenstelsel. Het huidige kiesstelsel met landelijke kandidatenlijsten garandeert niet dat alle regio's in Nederland goed vertegenwoordigd worden."
+    },
+    {
+      "promiseCode": "JA21-2023-003",
+      "text": "Invoering van referenda over grote vraagstukken zoals migratie, klimaat, euro en natuur, zodat Nederlanders zich tussentijds kunnen uitspreken over belangrijke kwesties.",
+      "summary": "Referenda invoeren over grote vraagstukken",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "referenda",
+        "migratie",
+        "klimaat",
+        "euro",
+        "inspraak"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 5",
+      "originalQuote": "Hiervoor pleit JA21 voor de invoering van referenda. Grote vraagstukken over migratie, het klimaat, de euro of de natuur kunnen dan ook tussen verkiezingen door aan burgers worden voorgelegd."
+    },
+    {
+      "promiseCode": "JA21-2023-004",
+      "text": "Invoering van gekozen burgemeesters en gekozen Commissarissen van de Koning om het aantal democratisch verkozen posities binnen het openbaar bestuur te vergroten.",
+      "summary": "Gekozen burgemeesters en commissarissen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgemeesters",
+        "commissarissen",
+        "democratie",
+        "verkiezingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 5",
+      "originalQuote": "Daarom wil JA21 gekozen burgemeesters en gekozen Commissarissen van de Koning."
+    },
+    {
+      "promiseCode": "JA21-2023-005",
+      "text": "Lancering van een Nationaal Programma Democratisering en Regio waarbij Rijk, gemeenten, corporaties en schoolbesturen meerjarig samenwerken om betrokkenheid van regio's te herstellen en leefbaarheid te verbeteren.",
+      "summary": "Nationaal Programma Democratisering en Regio",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "programma",
+        "democratisering",
+        "regio",
+        "leefbaarheid",
+        "samenwerking"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 6",
+      "originalQuote": "Hiervoor lanceert JA21 het Nationaal Programma Democratisering en Regio. Binnen deze aanpak zullen Rijk, gemeenten, corporaties, schoolbesturen, etcetera meerjarig in de verschillende Nederlandse regio's moeten samenwerken"
+    },
+    {
+      "promiseCode": "JA21-2023-006",
+      "text": "Aanstelling van een minister voor de Regio om de belangen van regionale gebieden te behartigen en de kloof tussen Randstad en regio te verkleinen.",
+      "summary": "Minister voor de Regio aanstellen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "regio",
+        "Randstad",
+        "bestuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 6",
+      "originalQuote": "Daarnaast wil JA21 een minister voor de Regio."
+    },
+    {
+      "promiseCode": "JA21-2023-007",
+      "text": "Voor nieuwe landelijke wetgeving moet expliciet getoetst worden wat het effect ervan op de regio is. Wetgeving die dorpen ontwricht of boerenbedrijven dwingt te stoppen moet worden tegengehouden.",
+      "summary": "Regionale effecttoets voor nieuwe wetgeving",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wetgeving",
+        "regionale",
+        "effecttoets",
+        "dorpen",
+        "boerenbedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 6",
+      "originalQuote": "Voor nieuwe landelijke wetgeving moet expliciet getoetst worden wat het effect ervan op de regio is. Een asieldwangwet die de lokale democratie buitenspel zet en dorpen ontwricht, of stikstofwetgeving die boerenbedrijven dwingt te stoppen, dient bijvoorbeeld tegengehouden te worden."
+    },
+    {
+      "promiseCode": "JA21-2023-008",
+      "text": "Een einde maken aan asielopvang in Nederland door geen nieuwe asielcentra meer te openen en het Deense model in te voeren waarbij asielzoekers worden overgebracht naar partnerlanden buiten de EU.",
+      "summary": "Geen asielopvang in Nederland meer",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielopvang",
+        "asielcentra",
+        "Deense",
+        "model",
+        "partnerlanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 9",
+      "originalQuote": "Geen asielopvang in Nederland meer."
+    },
+    {
+      "promiseCode": "JA21-2023-009",
+      "text": "Een tijdelijke asielstop invoeren om de instroom van asielzoekers direct te beperken totdat structurele maatregelen zijn genomen.",
+      "summary": "Tijdelijke asielstop invoeren",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielstop",
+        "tijdelijk",
+        "instroom",
+        "asielzoekers"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 9",
+      "originalQuote": "Een tijdelijke asielstop invoeren."
+    },
+    {
+      "promiseCode": "JA21-2023-010",
+      "text": "Het VN Vluchtelingenverdrag van 1951 opzeggen conform artikel 44, of aanpassen door het opzeggen van het Protocol van New York uit 1967.",
+      "summary": "VN Vluchtelingenverdrag opzeggen",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vluchtelingenverdrag",
+        "opzeggen",
+        "artikel",
+        "protocol",
+        "New York"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 9",
+      "originalQuote": "Het VN Vluchtelingenverdrag van 1951 opzeggen conform artikel 44, of aanpassen middels het opzeggen van het Protocol van New York uit 1967."
+    },
+    {
+      "promiseCode": "JA21-2023-011",
+      "text": "Herinvoering van tewerkstellingsvergunningen voor werknemers uit de EU en EER om arbeidsmigratie te reguleren volgens vraag en aanbod per sector.",
+      "summary": "Tewerkstellingsvergunningen EU-werknemers",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tewerkstellingsvergunningen",
+        "arbeidsmigratie",
+        "EU",
+        "EER",
+        "sectoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 11",
+      "originalQuote": "Stoppen met ongereguleerde arbeidsmigratie: herinvoering tewerkstellingsvergunningen voor werknemers uit de EU en de EER in overeenstemming met de vraag en aanbod per sector."
+    },
+    {
+      "promiseCode": "JA21-2023-012",
+      "text": "Invoering van verhuurdersvergunningen en strenge handhaving op overbewoning om woonmistanden en uitbuiting van arbeidsmigranten tegen te gaan.",
+      "summary": "Verhuurdersvergunningen invoeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verhuurdersvergunningen",
+        "overbewoning",
+        "handhaving",
+        "arbeidsmigranten",
+        "uitbuiting"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 11",
+      "originalQuote": "Woonmistanden en uitbuiting hard aanpakken: streng controleren en handhaven op overbewoning, aanpakken malafide verhuurders en uitzendbureaus, invoering verhuurdersvergunningen"
+    },
+    {
+      "promiseCode": "JA21-2023-013",
+      "text": "Grensbewaking intensiveren en permanente grenscontroles aan de binnengrenzen invoeren conform artikel 25 van de Schengengrenscode zolang de asielcrisis voortduurt.",
+      "summary": "Permanente grenscontroles invoeren",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grensbewaking",
+        "grenscontroles",
+        "Schengengrenscode",
+        "artikel",
+        "asielcrisis"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 9",
+      "originalQuote": "Grensbewaking intensiveren conform de aangenomen motie-Eerdmans, invoering van permanente grenscontroles aan de binnengrenzen conform artikel 25 van de Schengengrenscode zolang de asielcrisis voortduurt."
+    },
+    {
+      "promiseCode": "JA21-2023-014",
+      "text": "De Nederlandse landbouwsector ondersteunen bij de ontwikkeling van robuuste gewassen die beter bestand zijn tegen droogte en verzilting.",
+      "summary": "Ondersteuning ontwikkeling robuuste gewassen tegen droogte en verzilting",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "landbouwsector",
+        "gewassen",
+        "droogte",
+        "verzilting",
+        "klimaatadaptatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 34",
+      "originalQuote": "Onze landbouwsector ondersteunen bij de ontwik- keling van robuuste gewassen die beter bestand zijn tegen droogte en verzilting."
+    },
+    {
+      "promiseCode": "JA21-2023-015",
+      "text": "Ruim baan voor nieuwe veredelingstechnieken in de landbouw.",
+      "summary": "Ruim baan voor nieuwe veredelingstechnieken",
+      "theme": "LANDBOUW",
+      "specificity": "VAAG",
+      "keywords": [
+        "veredelingstechnieken",
+        "landbouw",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 34",
+      "originalQuote": "Ruim baan voor nieuwe veredelingstechnieken."
+    },
+    {
+      "promiseCode": "JA21-2023-016",
+      "text": "Het ontwikkelen van blauwe diensten binnen de agrosector, waarbij boeren water in hun bedrijfsvoering opnemen voor waterberging en waterkwaliteit.",
+      "summary": "Ontwikkelen blauwe diensten in agrosector voor waterberging",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "blauwe diensten",
+        "agrosector",
+        "waterberging",
+        "waterkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 34",
+      "originalQuote": "Het ontwikkelen van blauwe diensten binnen de agrosector. Daarmee bedoelen wij dat boeren op hun landbouw- bedrijf, naast de primaire landbouwkundige functie, actief mogelijkheden creëren om water in hun bedrijfs- voering op te nemen."
+    },
+    {
+      "promiseCode": "JA21-2023-017",
+      "text": "Een sterke lobby neerzetten om de pulsvisserij weer op de EU agenda te plaatsen.",
+      "summary": "Lobby voor pulsvisserij op EU agenda",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pulsvisserij",
+        "lobby",
+        "EU",
+        "agenda"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 35",
+      "originalQuote": "Een sterke lobby neerzetten om de pulsvisserij weer op de EU agenda te plaatsen."
+    },
+    {
+      "promiseCode": "JA21-2023-018",
+      "text": "De Nederlandse visserij steunen wanneer historische rechten ter discussie worden gesteld.",
+      "summary": "Steun visserij bij discussie historische rechten",
+      "theme": "LANDBOUW",
+      "specificity": "VAAG",
+      "keywords": [
+        "visserij",
+        "historische rechten",
+        "steun"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 35",
+      "originalQuote": "De Nederlandse visserij steunen wanneer de histo- rische rechten weer ter discussie worden gesteld."
+    },
+    {
+      "promiseCode": "JA21-2023-019",
+      "text": "De garnalenvisserij langjarige zekerheid bieden gezien minimale impact op Natura 2000-gebieden.",
+      "summary": "Langjarige zekerheid garnalenvisserij",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "garnalenvisserij",
+        "zekerheid",
+        "Natura 2000"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 35",
+      "originalQuote": "De garnalenvisserij langjarige zekerheid bieden gezien deze sector slechts minimale impact heeft op Natura 2000-gebieden."
+    },
+    {
+      "promiseCode": "JA21-2023-020",
+      "text": "Een andere methode van stikstofberekening dan de nu geldende AERIUS Calculator invoeren.",
+      "summary": "Andere stikstofberekeningsmethode dan AERIUS Calculator",
+      "theme": "LANDBOUW",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstofberekening",
+        "AERIUS Calculator",
+        "methode"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 35",
+      "originalQuote": "Een andere methode van stikstofberekening dan de nu geldende AERIUS Calculator."
+    },
+    {
+      "promiseCode": "JA21-2023-021",
+      "text": "De introductie van de Nationale Veiligheidsnorm: minimumpercentage van 2% voor uitgaven aan binnenlandse veiligheid.",
+      "summary": "Nationale Veiligheidsnorm van 2% voor veiligheidsuitgaven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Nationale Veiligheidsnorm",
+        "uitgaven",
+        "veiligheid",
+        "percentage"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 36",
+      "originalQuote": "De introductie van de Nationale Veiligheidsnorm: in navolging van de 2%-norm voor defensie-uitgaven ook een minimumpercentage van 2% voor uitgaven aan binnenlandse veiligheid."
+    },
+    {
+      "promiseCode": "JA21-2023-022",
+      "text": "Fors meer wijkagenten: norm omlaag van één agent per 5.000 inwoners naar 4.000 inwoners.",
+      "summary": "Norm wijkagenten naar 1 per 4.000 inwoners",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkagenten",
+        "norm",
+        "inwoners",
+        "politie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 36",
+      "originalQuote": "Fors meer wijkagenten: norm omlaag van één agent per 5.000 inwoners naar 4.000 inwoners, niet meer werken met gemiddelden om uitsluitend op papier aan de norm te voldoen."
+    },
+    {
+      "promiseCode": "JA21-2023-023",
+      "text": "Gesloten wijkbureaus heropenen, agenten vaker op straat, politiebureaus ook 's avonds open.",
+      "summary": "Wijkbureaus heropenen en 's avonds open",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wijkbureaus",
+        "politiebureaus",
+        "openingstijden"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 36",
+      "originalQuote": "Gesloten wijkbureaus heropenen, agenten vaker op straat in plaats van achter het bureau, politiebu- reaus ook 's avonds open."
+    },
+    {
+      "promiseCode": "JA21-2023-024",
+      "text": "Invoering van minimumstraffen voor gewelds- en zedendelicten, strafverhoging in openbare ruimte.",
+      "summary": "Minimumstraffen voor gewelds- en zedendelicten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumstraffen",
+        "geweldsdelicten",
+        "zedendelicten",
+        "strafverhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 37",
+      "originalQuote": "Invoering van minimumstraffen voor gewelds- en zedendelicten, als het feit gepleegd is in de open- bare ruimte dient strafverhoging plaats te vinden."
+    },
+    {
+      "promiseCode": "JA21-2023-025",
+      "text": "De maximumstraf voor ernstige meervoudige zedendelicten naar levenslang verhogen.",
+      "summary": "Maximumstraf meervoudige zedendelicten naar levenslang",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "maximumstraf",
+        "zedendelicten",
+        "levenslang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 37",
+      "originalQuote": "De maximumstraf voor ernstige meervoudige ze- dendelicten naar levenslang."
+    },
+    {
+      "promiseCode": "JA21-2023-026",
+      "text": "Three strikes and you're out-principe: levenslang na drie ernstige geweldsmisdrijven.",
+      "summary": "Levenslang na drie geweldsmisdrijven (three strikes)",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "three strikes",
+        "geweldsmisdrijven",
+        "levenslang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 37",
+      "originalQuote": "De mogelijkheid tot opleggen van levenslang na drie ernstige geweldsmisdrijven: het 'three strikes and you're out'-principe."
+    },
+    {
+      "promiseCode": "JA21-2023-027",
+      "text": "Slechts in uitzonderingsgevallen na 25 jaar overgaan tot gratie voor levenslang gestraften.",
+      "summary": "Gratie levenslang gestraften pas na 25 jaar in uitzonderingsgevallen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratie",
+        "levenslang",
+        "jaren",
+        "uitzonderingsgevallen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 37",
+      "originalQuote": "Slechts in uitzonderingsgevallen na 25 jaar over- gaan tot gratie voor levenslang gestraften, waarbij de stem van slachtoffers en nabestaanden een doorslaggevende factor moet zijn."
+    },
+    {
+      "promiseCode": "JA21-2023-028",
+      "text": "Met spoed een tweede EBI-locatie in Vlissingen bouwen.",
+      "summary": "Tweede EBI-locatie in Vlissingen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "EBI",
+        "Vlissingen",
+        "locatie",
+        "bouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 39",
+      "originalQuote": "Met spoed een tweede EBI-locatie in Vlissingen, jarenlange vertraging door stikstofbeleid onaccep- tabel: bouw aanmerken als operatie van 'algemeen belang'."
+    },
+    {
+      "promiseCode": "JA21-2023-029",
+      "text": "Het 'Italiaanse model' in de EBI invoeren: volledige isolatie van levensgevaarlijke beroepscriminelen.",
+      "summary": "Italiaanse model EBI: volledige isolatie criminelen",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "Italiaanse model",
+        "EBI",
+        "isolatie",
+        "beroepscriminelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 39",
+      "originalQuote": "Het 'Italiaanse model' in de EBI invoeren: volledige isolatie van levensgevaarlijke beroepscriminelen, geen enkel contact (telefonisch, schriftelijk, digitaal of in persoon) met de buitenwereld meer."
+    },
+    {
+      "promiseCode": "JA21-2023-030",
+      "text": "Uitgereisde terroristen het Nederlanderschap ontnemen op grond van artikel 14, lid 4 van de Vreemdelingenwet.",
+      "summary": "Nederlanderschap ontnemen uitgereisde terroristen",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "terroristen",
+        "Nederlanderschap",
+        "Vreemdelingenwet",
+        "artikel"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 40",
+      "originalQuote": "Uitgereisde terroristen niet laten terugkeren, maar hen het Nederlanderschap ontnemen op grond van artikel 14, lid 4 van de Vreemdelingenwet."
+    },
+    {
+      "promiseCode": "JA21-2023-031",
+      "text": "Artikel 3:305a schrappen uit het Burgerlijk Wetboek: niet meer procederen in het 'algemeen belang'.",
+      "summary": "Artikel 3:305a BW schrappen (procederen algemeen belang)",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "artikel",
+        "Burgerlijk Wetboek",
+        "algemeen belang",
+        "procederen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 41",
+      "originalQuote": "Artikel 3:305a schrappen uit het Burgerlijk Wetboek: niet meer procederen in het 'algemeen belang'."
+    },
+    {
+      "promiseCode": "JA21-2023-032",
+      "text": "Het budgettair kader zorg mag maximaal groeien met correctie voor loonkosten en vaste lasten op basis van prijsindexcijfer NZa.",
+      "summary": "Zorgbudget groei beperken tot loonkosten en vaste lasten",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "budgettair kader",
+        "zorg",
+        "loonkosten",
+        "prijsindexcijfer",
+        "NZa"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 43",
+      "originalQuote": "Het budgettair kader zorg mag jaarlijks dan ook maxi- maal groeien met een correctie voor stijging in de loon- kosten en vaste lasten op basis van het prijsindexcijfer van de Nederlandse Zorgautoriteit."
+    },
+    {
+      "promiseCode": "JA21-2023-033",
+      "text": "JA21 wil de terugkeer van bejaardentehuizen waar passende zorg kan worden geleverd, met schaalbare zorg in woonomgevingen waar ouderen gemeenschappelijke faciliteiten kunnen gebruiken.",
+      "summary": "Terugkeer van bejaardentehuizen met schaalbare zorg en gemeenschappelijke faciliteiten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bejaardentehuizen",
+        "ouderenzorg",
+        "woonomgeving",
+        "faciliteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 44-45",
+      "originalQuote": "JA21 is voor de terugkeer van de bejaardentehuizen waar passende zorg kan worden geleverd. JA21 pleit voor het inrichten van een woonomgeving waar meerdere ouderen wonen waar zij van gemeenschappelijke faciliteiten gebruik kunnen maken"
+    },
+    {
+      "promiseCode": "JA21-2023-034",
+      "text": "JA21 zorgt dat thuiszorgorganisaties worden voorzien van een systeem waarmee zij thuiswonende ouderen beter kunnen monitoren en kunnen reageren op gebeurtenissen en situaties.",
+      "summary": "Monitorsysteem voor thuiszorgorganisaties voor betere ouderenzorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "thuiszorg",
+        "monitorsysteem",
+        "ouderen",
+        "zorgverleners"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 45",
+      "originalQuote": "JA21 zorgt dat thuiszorgorganisaties worden voorzien van een systeem, waarmee zij thuiswonende ouderen beter kunnen monitoren en kunnen reageren op gebeurtenissen en situaties"
+    },
+    {
+      "promiseCode": "JA21-2023-035",
+      "text": "JA21 wil de samenwerking in de jeugdzorgregio's steviger aanzetten zodat de lokale democratie scherper toezicht kan houden op kwalitatieve uitvoering.",
+      "summary": "Stevigere samenwerking in jeugdzorgregio's met lokaal democratisch toezicht",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdzorg",
+        "regio",
+        "samenwerking",
+        "democratie",
+        "toezicht"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 45",
+      "originalQuote": "Wat JA21 betreft wordt de samenwerking in de jeugdzorgregio's steviger aangezet. Op die manier kan de lokale democratie scherper toezien op een kwalitatief goede uitvoering van de jeugdzorg"
+    },
+    {
+      "promiseCode": "JA21-2023-036",
+      "text": "JA21 wil een specifieke arbeidsmarktaanpak voor de gehandicaptenzorg door gebruik te maken van zowel schoolverlaters als zij-instromers met juiste begeleiding.",
+      "summary": "Specifieke arbeidsmarktaanpak voor gehandicaptenzorg met schoolverlaters en zij-instromers",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gehandicaptenzorg",
+        "arbeidsmarkt",
+        "schoolverlaters",
+        "zij-instromers",
+        "begeleiding"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 46",
+      "originalQuote": "JA21 acht het van groot belang dat er een specifieke arbeidsmarktaanpak komt voor de gehandicaptenzorg. Hierbij kan gebruik worden gemaakt van zowel schoolverlaters als zij-instromers"
+    },
+    {
+      "promiseCode": "JA21-2023-037",
+      "text": "De opschalingskorting waarmee gemeenten mogelijk vanaf 2026 worden geconfronteerd, moet van tafel.",
+      "summary": "Afschaffen opschalingskorting gemeenten vanaf 2026",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "opschalingskorting",
+        "gemeenten",
+        "WMO"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 46",
+      "originalQuote": "De opschalingskorting waarmee gemeenten mogelijk vanaf 2026 worden geconfronteerd, moet dan ook van tafel"
+    },
+    {
+      "promiseCode": "JA21-2023-038",
+      "text": "Daarom moet worden afgezien van de voorgenomen invoering van het woonplaatsbeginsel in de Wmo.",
+      "summary": "Niet invoeren woonplaatsbeginsel in de Wmo",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "woonplaatsbeginsel",
+        "WMO",
+        "maatschappelijke opvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 46",
+      "originalQuote": "Daarom moet worden afgezien van de voorgenomen invoering van het woonplaatsbeginsel in de Wmo"
+    },
+    {
+      "promiseCode": "JA21-2023-039",
+      "text": "JA21 wil sport en sportief bewegen stimuleren door verlaging van de btw-tarieven van sportbeoefening.",
+      "summary": "Verlaging btw-tarieven op sportbeoefening",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sport",
+        "btw",
+        "tarieven",
+        "stimulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 47",
+      "originalQuote": "JA21 wil daarom sport en sportief bewegen op alle niveaus stimuleren en laagdrempelig maken door de betaalbaarheid van sport te ondersteunen door verlaging van de btw-tarieven van sportbeoefening"
+    },
+    {
+      "promiseCode": "JA21-2023-040",
+      "text": "JA21 wil het betalen van sport voor werknemers niet langer onderdeel laten uitmaken van de werkkostenregeling en daarmee vrij stellen.",
+      "summary": "Vrijstelling sport voor werknemers uit werkkostenregeling",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sport",
+        "werknemers",
+        "werkkostenregeling",
+        "vrijstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 47",
+      "originalQuote": "Voorts wil JA21 werkgevers stimuleren duurzame inzetbaarheid te accommoderen, door het betalen van sport voor werknemers niet langer onderdeel te laten uitmaken van de werkkostenregeling en daarmee vrij te stellen"
+    },
+    {
+      "promiseCode": "JA21-2023-041",
+      "text": "Ook willen we schoolzwemmen verplicht stellen, zodat ieder kind in Nederland leert zwemmen en daarmee de zwemveiligheid geborgd wordt.",
+      "summary": "Verplicht schoolzwemmen voor alle Nederlandse kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolzwemmen",
+        "verplicht",
+        "kinderen",
+        "zwemveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 47",
+      "originalQuote": "Ook willen we schoolzwemmen verplicht stellen, zodat ieder kind in Nederland leert zwemmen en daarmee de zwemveiligheid geborgd wordt"
+    },
+    {
+      "promiseCode": "JA21-2023-042",
+      "text": "JA21 wil de salarissen en vergoedingen in de zorg, vooral in de lagere schalen, ten minste met de inflatie laten meestijgen.",
+      "summary": "Salarissen zorg minimaal meestijgen met inflatie, vooral lagere schalen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "salarissen",
+        "zorg",
+        "inflatie",
+        "verpleegkundigen",
+        "verzorgenden"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 48",
+      "originalQuote": "JA21 wil de salarissen en vergoedingen in de zorg, vooral in de lagere schalen, ten minste met de inflatie laten meestijgen"
+    },
+    {
+      "promiseCode": "JA21-2023-043",
+      "text": "JA21 wil beleidsmakers in de zorg stimuleren voor elke nieuwe regel, verantwoording of rapportage die wordt ingevoerd, er twee te laten vervallen in het desbetreffende domein.",
+      "summary": "Voor elke nieuwe zorgregel twee laten vervallen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regeldruk",
+        "zorg",
+        "rapportage",
+        "vermindering"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 48",
+      "originalQuote": "JA21 wil beleidsmakers in de zorg stimuleren voor elke nieuwe regel, verantwoording of rapportage die wordt ingevoerd, er twee te laten vervallen in het desbetreffende domein"
+    },
+    {
+      "promiseCode": "JA21-2023-044",
+      "text": "JA21 wil het afschaffen van het collegegeld voor de studie verpleegkunde.",
+      "summary": "Afschaffen collegegeld studie verpleegkunde",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "collegegeld",
+        "verpleegkunde",
+        "afschaffen",
+        "tekortsector"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 52",
+      "originalQuote": "Daarom pleit JA21 bijvoorbeeld voor het afschaffen van het collegegeld voor de studie verpleegkunde"
+    },
+    {
+      "promiseCode": "JA21-2023-045",
+      "text": "JA21 wil structureel 500 miljoen extra uittrekken voor het praktijkonderwijs.",
+      "summary": "500 miljoen euro extra voor praktijkonderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "praktijkonderwijs",
+        "financiering",
+        "miljoen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 52",
+      "originalQuote": "Voorts wil JA21 structureel 500 miljoen extra uittrekken voor het praktijkonderwijs"
+    },
+    {
+      "promiseCode": "JA21-2023-046",
+      "text": "JA21 wil minimaal 3% van het BBP investeren in onderzoek & ontwikkeling (R&D) voor een sterke en innovatieve economie.",
+      "summary": "Minimaal 3% BBP investeren in onderzoek en ontwikkeling",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "BBP",
+        "onderzoek",
+        "ontwikkeling",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 53",
+      "originalQuote": "Voorts wil JA21 minimaal 3% van het BBP investeren in onderzoek & ontwikkeling (R&D) voor een sterke en innovatieve economie"
+    },
+    {
+      "promiseCode": "JA21-2023-047",
+      "text": "JA21 wil voor het hoger onderwijs structureel een miljard extra uittrekken om de kwaliteit te verbeteren.",
+      "summary": "Een miljard euro extra voor hoger onderwijs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hoger onderwijs",
+        "financiering",
+        "kwaliteit",
+        "miljard"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 54",
+      "originalQuote": "Om de kwaliteit van het Nederlands hoger onderwijs te verbeteren, wil JA21 hiervoor structureel een miljard extra uittrekken"
+    },
+    {
+      "promiseCode": "JA21-2023-048",
+      "text": "Het NPO-budget wordt gehalveerd om besparingen te realiseren. De NPO kan worden teruggebracht naar één net. Van deze besparing kan onder andere cultureel erfgoed beter onderhouden worden.",
+      "summary": "NPO-budget halveren en terugbrengen naar één net",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "NPO",
+        "budget",
+        "halvering",
+        "omroep",
+        "besparing"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 54",
+      "originalQuote": "De financiering daarvan kan uitstekend worden geregeld door het budget voor de NPO te halveren. De NPO kan worden teruggebracht naar één net."
+    },
+    {
+      "promiseCode": "JA21-2023-049",
+      "text": "Alle subsidies voor kunst en cultuur worden opgedoekt. Kunstenaars moeten hun eigen broek ophouden en als er geen behoefte is aan hun kunst, is het een hobby en geen beroep.",
+      "summary": "Opdoeken van alle kunst- en cultuursubsidies",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "subsidies",
+        "kunst",
+        "cultuur",
+        "opdoeken",
+        "zelfstandigheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 54",
+      "originalQuote": "opdoeken al die subsidies. Eigen broek ophouden en als er geen behoefte is aan jouw kunst, dan is het geen beroep maar een hobby."
+    },
+    {
+      "promiseCode": "JA21-2023-050",
+      "text": "Nederlandse wetten moeten voorrang krijgen op Europese wet- en regelgeving door de artikelen 93 en 94 van de Grondwet aan te passen.",
+      "summary": "Grondwet aanpassen voor voorrang Nederlandse wetten",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Grondwet",
+        "artikel",
+        "Nederlandse",
+        "wetten",
+        "voorrang"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 55",
+      "originalQuote": "Nederlandse wetten moeten voorrang krijgen op Europese wet- en regelgeving door de artikelen 93 en 94 van de Grondwet aan te passen."
+    },
+    {
+      "promiseCode": "JA21-2023-051",
+      "text": "Organiseer een brede maatschappelijke discussie over de toekomst van de Euromunt voor Nederland.",
+      "summary": "Maatschappelijke discussie over toekomst Euromunt",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "maatschappelijke",
+        "discussie",
+        "Euromunt",
+        "toekomst",
+        "Nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 55",
+      "originalQuote": "Organiseer een brede maatschappelijke discussie over de toekomst van de Euromunt voor Nederland."
+    },
+    {
+      "promiseCode": "JA21-2023-052",
+      "text": "Bezuiniging op de Europese cohesiefondsen en subsidies om minder Europese uitgaven te realiseren.",
+      "summary": "Bezuiniging op Europese cohesiefondsen en subsidies",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bezuiniging",
+        "Europese",
+        "cohesiefondsen",
+        "subsidies",
+        "uitgaven"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 55",
+      "originalQuote": "Minder Europese uitgaven. Bezuinig op de Europese cohesiefondsen en subsidies."
+    },
+    {
+      "promiseCode": "JA21-2023-053",
+      "text": "Het Europees Parlement vergadert op een locatie in plaats van op meerdere locaties.",
+      "summary": "Europees Parlement op één locatie",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "Europees",
+        "Parlement",
+        "locatie",
+        "vergadering",
+        "efficiency"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 55",
+      "originalQuote": "Het Europees Parlement vergadert op een locatie."
+    },
+    {
+      "promiseCode": "JA21-2023-054",
+      "text": "De minimale 2%-norm voor defensie-uitgaven wordt wettelijk vastgelegd voor structureel herstel van de krijgsmacht.",
+      "summary": "Wettelijke vastlegging 2%-norm defensie",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie",
+        "norm",
+        "wettelijk",
+        "vastlegging",
+        "krijgsmacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 58",
+      "originalQuote": "Structureel herstel van de krijgsmacht door de minimale 2%-norm wettelijk vast te leggen."
+    },
+    {
+      "promiseCode": "JA21-2023-055",
+      "text": "Een defensiefonds voor de komende 10 jaar wordt opgezet waarmee kapitale materieelinvesteringen worden bekostigd. Het defensiebudget wordt verhoogd met ongeveer 3,5 miljard euro tot 2,5% van het BBP.",
+      "summary": "Defensiefonds 10 jaar, budget +3,5 miljard naar 2,5% BBP",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensiefonds",
+        "materieel",
+        "investeringen",
+        "budget",
+        "BBP"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 58",
+      "originalQuote": "De komende jaren boven de 2% norm uitkomen door een defensiefonds voor de komende 10 jaar op te zetten waarmee kapitale materieelinvesteringen worden bekostigd."
+    },
+    {
+      "promiseCode": "JA21-2023-056",
+      "text": "De toegevoegde waarde van het opnieuw invoeren van de dienstplicht wordt onderzocht.",
+      "summary": "Onderzoek naar herinvoering dienstplicht",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "dienstplicht",
+        "onderzoek",
+        "herinvoering",
+        "toegevoegde",
+        "waarde"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 58",
+      "originalQuote": "De toegevoegde waarde onderzoeken van het opnieuw invoeren van de dienstplicht."
+    },
+    {
+      "promiseCode": "JA21-2023-057",
+      "text": "Ontwikkelingshulp wordt afgeschaft met uitzondering van noodhulp en steun aan opvang in de regio.",
+      "summary": "Afschaffing ontwikkelingshulp behalve noodhulp",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingshulp",
+        "afschaffen",
+        "noodhulp",
+        "opvang",
+        "regio"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 60",
+      "originalQuote": "Ontwikkelingshulp afschaffen met uitzondering van noodhulp en steun aan opvang in de regio."
+    },
+    {
+      "promiseCode": "JA21-2023-058",
+      "text": "De Nederlandse ambassade wordt verplaatst van Tel Aviv naar Jeruzalem om de banden met Israël te bekrachtigen.",
+      "summary": "Nederlandse ambassade naar Jeruzalem verplaatsen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ambassade",
+        "Jeruzalem",
+        "Israël",
+        "verplaatsen",
+        "banden"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 60",
+      "originalQuote": "De banden met onze vriend Israël bekrachtigen door het verplaatsen van de Nederlandse ambassade naar Jeruzalem."
+    },
+    {
+      "promiseCode": "JA21-2023-059",
+      "text": "Een blokkade op het gunnen van aanbestedingen aan Chinese staatsbedrijven door Nederlandse staatsdeelnemingen wordt ingevoerd.",
+      "summary": "Blokkade aanbestedingen Chinese staatsbedrijven",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "blokkade",
+        "aanbestedingen",
+        "Chinese",
+        "staatsbedrijven",
+        "staatsdeelnemingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 61",
+      "originalQuote": "Een blokkade op het gunnen van aanbestedingen aan Chinese staatsbedrijven door Nederlandse staatsdeelnemingen."
+    },
+    {
+      "promiseCode": "JA21-2023-060",
+      "text": "Een wettelijk verbod komt er op het verder in Chinese handen laten vallen van vitale infrastructuur en processen.",
+      "summary": "Wettelijk verbod Chinese overname vitale infrastructuur",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijk",
+        "verbod",
+        "Chinese",
+        "vitale",
+        "infrastructuur"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 61",
+      "originalQuote": "Een wettelijk verbod op het verder in Chinese handen laten vallen van vitale infrastructuur en processen."
+    },
+    {
+      "promiseCode": "JA21-2023-061",
+      "text": "De financiering van Huawei vanuit EU-(onderzoeks)projecten wordt direct beëindigd.",
+      "summary": "Stop financiering Huawei uit EU-projecten",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "financiering",
+        "Huawei",
+        "EU-projecten",
+        "beëindigen",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma JA21 2023, p. 61",
+      "originalQuote": "Een direct einde aan de financiering van Huawei vanuit EU-(onderzoeks)projecten."
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "Verkiezingsprogramma DENK Den Haag 2026",
+  "electionYear": 2026,
+  "sourceFile": "denk_den-haag_2026.pdf",
+  "extractedAt": "2026-03-03T12:14:01.687Z",
+  "extractedBy": "llm:claude-sonnet-4",
+  "promises": [
+    {
+      "text": "Haags Prijzenpact instellen waarbij ondernemers vrijwillig vaste lage prijzen hanteren voor basisproducten in ruil voor gemeentelijke lastenverlichting",
+      "originalText": "Haags Prijzenpact: vrijwillige deelname van ondernemers die vaste, lage prijzen hanteren voor basisproducten zoals brood, melk, groente en luiers, in ruil voor gerichte gemeentelijke lastenverlichting",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "prijzenpact",
+        "basisproducten",
+        "lastenverlichting"
+      ]
+    },
+    {
+      "text": "Extra investeringen in armoedebeleid met sterke inzet op vroegsignalering, zorg en maatschappelijke organisaties",
+      "originalText": "Extra investeringen in armoedebeleid, met sterke inzet op vroegsignalering zorg en maatschappelijke organisaties",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "armoedebeleid",
+        "vroegsignalering",
+        "investeringen"
+      ]
+    },
+    {
+      "text": "Uitbreiding van de soepbus voor dak- en thuislozen waarbij ook rijstgerechten worden aangeboden",
+      "originalText": "Uitbreiding van de soepbus voor dak- en thuislozen, waarbij ook rijstgerechten worden aangeboden",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "soepbus",
+        "dakloos",
+        "rijstgerechten"
+      ]
+    },
+    {
+      "text": "Structurele steun voor voedselbanken inclusief halal voedselbanken en gratis gezonde schoolmaaltijden behouden",
+      "originalText": "Structurele steun voor voedselbanken, inclusief halal voedselbanken; gratis gezonde schoolmaaltijden blijven beschikbaar",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "voedselbank",
+        "halal",
+        "schoolmaaltijden"
+      ]
+    },
+    {
+      "text": "Laagdrempelige loketten voor schuldhulp en juridische ondersteuning in elke wijk opzetten",
+      "originalText": "Laagdrempelige loketten voor schuldhulp en juridische ondersteuning in elke wijk",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "schuldhulp",
+        "loketten",
+        "juridische ondersteuning"
+      ]
+    },
+    {
+      "text": "Stage- en werkgarantie voor jongeren tot 27 jaar inclusief subsidies voor bedrijven die deze jongeren aannemen",
+      "originalText": "Stage- en werkgarantie voor jongeren tot 27 jaar, daarbij kijken we ook naar subsidies voor bedrijven die deze jongeren aannemen",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "werkgarantie",
+        "jongeren",
+        "subsidies"
+      ]
+    },
+    {
+      "text": "Pilot 'Ondernemen vanuit de bijstand' van twee jaar waarbij inwoners vrijstelling krijgen van gemeentelijke belastingen",
+      "originalText": "Pilot 'Ondernemen vanuit de bijstand' van twee jaar, waarbij inwoners een bedrijfsplan kunnen indienen en bij goedkeuring: Worden vrijgesteld van gemeentelijke belastingen; Worden inkomsten uit de onderneming in de eerste twee jaar niet gekort op de uitkering",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "pilot",
+        "bijstand",
+        "ondernemen"
+      ]
+    },
+    {
+      "text": "Ondernemersfonds opzetten en renteloze leningen en vouchers voor startende ondernemers introduceren",
+      "originalText": "Steun voor het Midden- en Kleinbedrijf (MKB): we zetten een ondernemersfonds op en introduceren renteloze leningen en vouchers voor startende ondernemers",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "ondernemersfonds",
+        "renteloze leningen",
+        "vouchers"
+      ]
+    },
+    {
+      "text": "Bedrijfscontactfunctionaris in elk stadsdeel aanstellen",
+      "originalText": "Bedrijfscontactfunctionaris in elk stadsdeel",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "bedrijfscontactfunctionaris",
+        "stadsdeel"
+      ]
+    },
+    {
+      "text": "Blijvende investeringen in winkelstraten, uitstraling, veiligheid en duurzame voorzieningen",
+      "originalText": "Blijvende investeringen in winkelstraten, uitstraling, veiligheid en duurzame voorzieningen",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "winkelstraten",
+        "investeringen",
+        "voorzieningen"
+      ]
+    },
+    {
+      "text": "De gemeente hanteert een vaste verdeling in de woningbouw: 40% sociaal, 40% betaalbaar middenhuur/koop en 20% hoger segment",
+      "originalText": "De gemeente neemt meer regie in de woningbouw en hanteert een vaste verdeling: 40% sociaal, 40% betaalbaar middenhuur/koop en 20% hoger segment",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "woningbouw",
+        "sociale woningen",
+        "verdeling",
+        "middenhuur"
+      ]
+    },
+    {
+      "text": "Een bonus van €2.500 invoeren voor het vrijmaken van een woning om doorstroom te bevorderen",
+      "originalText": "Doorstroom wordt bevorderd via woningruil en financiële steun, zoals verhuisvergoedingen en een bonus van €2.500 voor het vrijmaken van een woning",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "doorstroom",
+        "bonus",
+        "vrijmaken woning",
+        "verhuisvergoeding"
+      ]
+    },
+    {
+      "text": "Starters en gezinnen uit de regio krijgen voorrang op 50% van de beschikbare woningen",
+      "originalText": "Starters en gezinnen uit de regio krijgen voorrang op 50% van de beschikbare woningen",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "starters",
+        "gezinnen",
+        "voorrang",
+        "woningen"
+      ]
+    },
+    {
+      "text": "Een rentevrije, halal-proof starterslening invoeren en onderzoek doen naar huurkoop mogelijkheden",
+      "originalText": "Er komt een rentevrije, halal-proof starterslening en er wordt onderzoek gedaan naar mogelijkheden voor huurkoop",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "starterslening",
+        "rentevrij",
+        "halal",
+        "huurkoop"
+      ]
+    },
+    {
+      "text": "Woningen met energielabel E/F/G in Zuidwest binnen 24 maanden verbeteren",
+      "originalText": "woningen met energielabel E/F/G in Zuidwest moeten binnen 24 maanden worden verbeterd",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "energielabel",
+        "zuidwest",
+        "verbetering",
+        "24 maanden"
+      ]
+    },
+    {
+      "text": "Structureel mystery-guest onderzoeken uitvoeren bij selectie, verhuur en verkoop om discriminatie op te sporen",
+      "originalText": "De gemeente voert structureel mystery-guest onderzoeken uit bij selectie, verhuur en verkoop om discriminatie en misleiding op te sporen en te bestrijden",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mystery-guest",
+        "discriminatie",
+        "verhuur",
+        "verkoop"
+      ]
+    },
+    {
+      "text": "Een gemeentelijke huurprijschecker, voorlichtingscampagnes en gratis juridisch spreekuur in iedere wijk voor huurders",
+      "originalText": "Huurders krijgen betere ondersteuning via een gemeentelijke huurprijschecker, voorlichtingscampagnes en gratis juridisch spreekuur in iedere wijk",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "huurprijschecker",
+        "juridisch spreekuur",
+        "huurders",
+        "wijken"
+      ]
+    },
+    {
+      "text": "Extra groenvoorzieningen, speelpleinen en veilige ontmoetingsplekken in achtergestelde wijken aanleggen",
+      "originalText": "Er komen extra groenvoorzieningen, speelpleinen en veilige ontmoetingsplekken in wijken waar deze ontbreken, met aandacht voor verlichting en goed onderhoud",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "groenvoorzieningen",
+        "speelpleinen",
+        "ontmoetingsplekken",
+        "achtergestelde wijken"
+      ]
+    },
+    {
+      "text": "Binnen maximaal zes weken krijgt elke leerling passend onderwijs of ondersteuning",
+      "originalText": "Binnen maximaal zes weken krijgt elke leerling passend onderwijs of ondersteuning, zodat niemand langdurig buiten het systeem valt",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "zes weken",
+        "passend onderwijs",
+        "leerling",
+        "ondersteuning"
+      ]
+    },
+    {
+      "text": "Scholen versneld renoveren en verduurzamen, met prioriteit voor Zuidwest, Laak en Transvaal",
+      "originalText": "Scholen worden versneld gerenoveerd en verduurzaamd, met prioriteit voor Zuidwest, Laak en Transvaal",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "scholen",
+        "renovatie",
+        "verduurzaming",
+        "zuidwest",
+        "laak",
+        "transvaal"
+      ]
+    },
+    {
+      "text": "Een Haagse Lerarenpas invoeren met gratis OV, korting op sportlocaties en andere voordelen",
+      "originalText": "Een Haagse Lerarenpas die gratis OV, korting op sportlocaties en andere voordelen biedt",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "lerarenpas",
+        "gratis ov",
+        "korting",
+        "sportlocaties"
+      ]
+    },
+    {
+      "text": "Een Haagse Pas invoeren die cultuur, sport en activiteiten toegankelijk maakt voor middeninkomens",
+      "originalText": "Een Haagse Pas die cultuur, sport en activiteiten toegankelijk maakt voor middeninkomens; net als de Rotterdampas biedt deze pas gereduceerde prijzen",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haagse pas",
+        "cultuur",
+        "sport",
+        "middeninkomens",
+        "toegankelijk"
+      ]
+    },
+    {
+      "text": "Gratis toegang tot gemeentelijke musea en culturele instellingen voor kinderen en gezinnen met laag inkomen",
+      "originalText": "Gratis toegang tot gemeentelijke musea en culturele instellingen voor kinderen en gezinnen met een laag inkomen",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gratis toegang",
+        "musea",
+        "culturele instellingen",
+        "laag inkomen"
+      ]
+    },
+    {
+      "text": "Een nieuw HaSchiBa-festival 2.0 introduceren",
+      "originalText": "We introduceren een nieuw HaSchiBa-festival 2.0",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "haschiba-festival",
+        "nieuw festival",
+        "cultureel evenement"
+      ]
+    },
+    {
+      "text": "Ieder jaar een Haags discriminatiedashboard dat openbaar en duidelijk per sector laat zien waar problemen spelen",
+      "originalText": "Er komt ieder jaar een Haags discriminatiedashboard dat openbaar en duidelijk per sector laat zien waar problemen spelen",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "discriminatiedashboard",
+        "transparantie",
+        "jaarlijks"
+      ]
+    },
+    {
+      "text": "Een onafhankelijke gemeentelijke coördinator voor discriminatiebestrijding aanstellen",
+      "originalText": "Er wordt een onafhankelijke gemeentelijke coördinator voor discriminatiebestrijding aangesteld",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "coördinator",
+        "discriminatiebestrijding",
+        "onafhankelijk"
+      ]
+    },
+    {
+      "text": "Diversiteitsquota invoeren bij de gemeente en barrières wegHalen zodat mensen kunnen doorgroeien naar hogere schalen",
+      "originalText": "We voeren diversiteitsquota in bij de gemeente en halen barrières weg zodat mensen kunnen doorgroeien naar hogere schalen",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "diversiteitsquota",
+        "gemeente",
+        "doorgroei"
+      ]
+    },
+    {
+      "text": "Bedrijven die hebben gediscrimineerd vijf jaar uitsluiten van gemeentelijke samenwerking",
+      "originalText": "Bedrijven of instellingen die hebben gediscrimineerd, sluiten wij vijf jaar uit van gemeentelijke samenwerking",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "discriminatie",
+        "uitsluiting",
+        "vijf jaar",
+        "gemeentelijke samenwerking"
+      ]
+    },
+    {
+      "text": "Mystery-guestonderzoeken uitvoeren bij makelaars, werkgevers en uitzendbureaus",
+      "originalText": "We voeren mystery-guestonderzoeken uit bij makelaars, werkgevers en uitzendbureaus",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mystery-guest",
+        "makelaars",
+        "werkgevers",
+        "uitzendbureaus"
+      ]
+    },
+    {
+      "text": "Extra budget voor de veiligheid van religieuze instellingen",
+      "originalText": "Er komt extra budget voor de veiligheid van religieuze instellingen",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "budget",
+        "veiligheid",
+        "religieuze instellingen"
+      ]
+    },
+    {
+      "text": "Twee goed beheerde woonlocaties voor arbeidsmigranten bouwen op bedrijventerreinen of stadsranden",
+      "originalText": "Om de druk van de wijken te halen, bouwen we twee goed beheerde woonlocaties voor arbeidsmigranten op bedrijventerreinen of stadsranden",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "woonlocaties",
+        "arbeidsmigranten",
+        "bedrijventerreinen",
+        "twee"
+      ]
+    },
+    {
+      "text": "Vaste controleteams invoeren die maandelijks in probleemstraten controleren",
+      "originalText": "We voeren vaste controleteams in die maandelijks in probleemstraten controleren. Bij gevaarlijke situaties sluiten we de woning direct",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "controleteams",
+        "maandelijks",
+        "probleemstraten"
+      ]
+    },
+    {
+      "text": "Gemeentelijke subsidies om OV-tarieven te verlagen, met voortzetting van gratis openbaar vervoer voor jongeren, AOW-gerechtigden en lage inkomens",
+      "originalText": "Gemeentelijke subsidies om OV-tarieven te verlagen, met voortzetting van gratis openbaar vervoer voor jongeren t/m 17 jaar, AOW-gerechtigden en lage inkomens",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "subsidies",
+        "ov-tarieven",
+        "gratis openbaar vervoer",
+        "jongeren",
+        "aow"
+      ]
+    },
+    {
+      "text": "Het pollergebied in de Schilderswijk volledig afschaffen",
+      "originalText": "DENK Den Haag schaft het pollergebied in de Schilderswijk volledig af, zodat bewoners en bezoekers het gebied makkelijker in kunnen",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "pollergebied",
+        "schilderswijk",
+        "afschaffen"
+      ]
+    },
+    {
+      "text": "POET-beleid versoepelen zodat er weer een eerste en tweede parkeervergunning kan worden uitgegeven",
+      "originalText": "We versoepelen het POET-beleid waar mogelijk, zodat er weer een eerste en tweede parkeervergunning kan worden uitgegeven. Zolang de woningcrisis voortduurt, blijft een derde parkeervergunning mogelijk",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "poet-beleid",
+        "parkeervergunning",
+        "versoepelen"
+      ]
+    },
+    {
+      "text": "Gratis parkeren invoeren op feestdagen waaronder Kerst, Pasen, Eid ul-Fitr, Eid ul-Adha, Chinees Nieuwjaar, Divali, Holi Phagwa, Keti Koti, Jom Kipoer en Chanoeka",
+      "originalText": "Gratis parkeren op feestdagen, waaronder: Kerst, Pasen, Eid ul-Fitr, Eid ul-Adha, Chinees Nieuwjaar, Divali, Holi Phagwa, Keti Koti, Jom Kipoer en Chanoeka",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": [
+        "gratis parkeren",
+        "feestdagen",
+        "religieuze feesten"
+      ]
+    },
+    {
+      "text": "Cultuursensitieve zorg invoeren als harde norm met verplichte trainingen voor alle zorgaanbieders",
+      "originalText": "Cultuursensitieve zorg als harde norm, met verplichte trainingen voor alle zorgaanbieders",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "cultuursensitieve zorg",
+        "trainingen",
+        "zorgaanbieders"
+      ]
+    },
+    {
+      "text": "Gratis aanvullende mondzorg en fysiotherapie voor minima via een uitgebreidere gemeentepolis",
+      "originalText": "Gratis aanvullende mondzorg en fysiotherapie voor minima, via een uitgebreidere gemeentepolis",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mondzorg",
+        "fysiotherapie",
+        "minima",
+        "gemeentepolis"
+      ]
+    },
+    {
+      "text": "Subsidies voor woningaanpassingen, gratis parkeerkaarten en gratis OV voor mantelzorgers",
+      "originalText": "Meer steun voor mantelzorgers: subsidies voor woningaanpassingen, gratis parkeerkaarten en gratis OV",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "mantelzorgers",
+        "subsidies",
+        "woningaanpassingen",
+        "gratis ov"
+      ]
+    },
+    {
+      "text": "Extra middelen voor jeugdzorg en ondersteuning via Buurtgezinnen om wachtlijsten te verkorten",
+      "originalText": "Kortere wachtlijsten in de jeugdzorg door extra middelen en ondersteuning via Buurtgezinnen",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "jeugdzorg",
+        "wachtlijsten",
+        "buurtgezinnen"
+      ]
+    },
+    {
+      "text": "Gemeente faciliteert vrouwenzwemmen door gemeentelijke sportlocaties hiervoor beschikbaar te stellen",
+      "originalText": "De gemeente faciliteert vrouwenzwemmen en andere vrouwensportprogramma's, onder meer door gemeentelijke sportlocaties hiervoor beschikbaar te stellen",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "vrouwenzwemmen",
+        "sportlocaties",
+        "gemeente"
+      ]
+    },
+    {
+      "text": "Gezinnen met een laag inkomen krijgen korting op sportschoolabonnementen",
+      "originalText": "Gezinnen met een laag inkomen krijgen korting op sportschoolabonnementen",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "laag inkomen",
+        "korting",
+        "sportschoolabonnementen"
+      ]
+    },
+    {
+      "text": "Sociaaleconomisch kwetsbare wijken krijgen een wijkgericht sportbudget en projecten speciaal voor meisjes",
+      "originalText": "Sociaaleconomisch kwetsbare wijken krijgen een wijkgericht sportbudget en projecten speciaal voor meisjes",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kwetsbare wijken",
+        "sportbudget",
+        "meisjes"
+      ]
+    },
+    {
+      "text": "Gemeente investeert jaarlijks in extra kunstgrasvelden en multiculturele stadstoernooien",
+      "originalText": "De gemeente investeert jaarlijks in extra kunstgrasvelden en multiculturele stadstoernooien",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "kunstgrasvelden",
+        "stadstoernooien",
+        "multicultureel"
+      ]
+    },
+    {
+      "text": "Oude en onveilige gaswoningen krijgen prioriteit bij aansluiting op het publieke warmtenet",
+      "originalText": "Oude en onveilige gaswoningen krijgen prioriteit bij aansluiting op het publieke warmtenet, zodat bewoners veilig en betaalbaar kunnen wonen",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gaswoningen",
+        "warmtenet",
+        "prioriteit"
+      ]
+    },
+    {
+      "text": "Gemeentelijke gebouwen, scholen en wijkpanden worden versneld verduurzaamd",
+      "originalText": "Gemeentelijke gebouwen, scholen en wijkpanden worden versneld verduurzaamd",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "gemeentelijke gebouwen",
+        "scholen",
+        "verduurzaamd"
+      ]
+    },
+    {
+      "text": "Rentevrije leningen voor religieuze instellingen zodat zij kunnen verduurzamen",
+      "originalText": "Rentevrije leningen voor religieuze instellingen, zodat ook zij kunnen verduurzamen",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "rentevrije leningen",
+        "religieuze instellingen",
+        "verduurzamen"
+      ]
+    },
+    {
+      "text": "Haagse Explosie-eenheid oprichten die ondernemers en bewoners direct ondersteunt bij explosies en preventieve dreigingsanalyses uitvoert",
+      "originalText": "Er komt een Haagse Explosie-eenheid die ondernemers en bewoners direct ondersteunt bij schade door explosies en preventieve dreigingsanalyses uitvoert",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "explosie-eenheid",
+        "ondernemers",
+        "dreigingsanalyses"
+      ]
+    },
+    {
+      "text": "Investeren in beter verlichte straten, veilige tunnels en meer boa's",
+      "originalText": "De gemeente investeert in beter verlichte straten, veilige tunnels en meer boa's",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "verlichte straten",
+        "veilige tunnels",
+        "boa's"
+      ]
+    },
+    {
+      "text": "Veiligheidssubsidie voor woningen op de begane grond om inbraak en overlast tegen te gaan",
+      "originalText": "Woningen op de begane grond kunnen gebruikmaken van een veiligheidssubsidie om inbraak en overlast tegen te gaan",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "veiligheidssubsidie",
+        "begane grond",
+        "inbraak"
+      ]
+    },
+    {
+      "text": "In buurten zonder politiebureaus komt een vast en zichtbaar team van meerdere wijkagenten",
+      "originalText": "In buurten zonder politiebureaus komt een vast en zichtbaar team van meerdere wijkagenten",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "wijkagenten",
+        "buurten",
+        "zichtbaar team"
+      ]
+    },
+    {
+      "text": "Digitaal systeem uitbouwen waarin inwoners de voortgang van hun dossier kunnen volgen en verslagen van afspraken kunnen teruglezen",
+      "originalText": "De gemeente bouwt een digitaal systeem uit waarin inwoners de voortgang van hun dossier kunnen volgen en verslagen van afspraken kunnen teruglezen",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "digitaal systeem",
+        "dossier",
+        "transparantie"
+      ]
+    },
+    {
+      "text": "Quota invoeren in hogere functies voor gemeentelijke organisatie en deelnemingen",
+      "originalText": "Daarom worden quota ingevoerd in hogere functies, en geldt dit ook voor deelnemingen en subsidiepartners",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "quota",
+        "hogere functies",
+        "deelnemingen"
+      ]
+    },
+    {
+      "text": "Externe inhuur terugdrongen en slimme gebundelde inkoop om verspilling te voorkomen",
+      "originalText": "Strenge controle op uitgaven, waarbij onnodige externe inhuur wordt teruggedrongen en efficiëntie vooropstaat; Slimme en gebundelde inkoop, zodat de gemeente minder betaalt voor diensten en projecten waarmee verspilling wordt voorkomen",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": [
+        "externe inhuur",
+        "gebundelde inkoop",
+        "verspilling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3150 @@
+{
+  "party": "GL-PvdA",
+  "partySlug": "gl-pvda",
+  "program": "Een nieuwe start voor Nederland",
+  "electionYear": 2025,
+  "extractionDate": "2026-02-12",
+  "extractionMethod": "llm-claude-sonnet-v1",
+  "sourceUrl": "https://dnpprepo.ub.rug.nl/88754/",
+  "pdfHash": "99c89efd1737314c226e7a5d9770f12f52d237530e332974aa66d5e21f6c162e",
+  "totalPromises": 203,
+  "promises": [
+    {
+      "promiseCode": "GL-PvdA-2025-001",
+      "text": "GroenLinks-PvdA zal meer huizen bouwen en kiezen voor betaalbare woningen voor iedereen.",
+      "summary": "Meer huizen bouwen, betaalbare woningen voor iedereen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huizen",
+        "woningbouw",
+        "betaalbaarheid",
+        "volkshuisvesting"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 3",
+      "originalQuote": "We gaan meer huizen bouwen, want het begint met een plek voor jezelf. Wij kiezen voor betaalbare woningen voor iedereen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-002",
+      "text": "GroenLinks-PvdA zal grondspeculanten stoppen om woningprijzen te beheersen.",
+      "summary": "Stoppen van grondspeculanten",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondspeculatie",
+        "woningmarkt",
+        "prijsbeheersing",
+        "grondbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 3",
+      "originalQuote": "we stoppen de grondspeculanten"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-003",
+      "text": "GroenLinks-PvdA zal huurders beschermen tegen woekerprijzen in de huurmarkt.",
+      "summary": "Bescherming huurders tegen woekerprijzen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "huurdersbescherming",
+        "huurprijzen",
+        "huurmarkt",
+        "woeker"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 3",
+      "originalQuote": "beschermen huurders tegen woekerprijzen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-004",
+      "text": "GroenLinks-PvdA zal hogere lonen voor werknemers realiseren zodat wie werkt weer vooruitkomt.",
+      "summary": "Hogere lonen voor werknemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "loonverhoging",
+        "werknemers",
+        "koopkracht",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 3",
+      "originalQuote": "We zorgen dat wie werkt weer vooruitkomt, met hogere lonen voor werknemers"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-005",
+      "text": "GroenLinks-PvdA zal een eerlijke belasting op vermogen invoeren voor meer belastingrechtvaardigheid.",
+      "summary": "Eerlijke belasting op vermogen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vermogensbelasting",
+        "belastinghervorming",
+        "rechtvaardigheid",
+        "vermogen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 3",
+      "originalQuote": "een eerlijke belasting op vermogen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-006",
+      "text": "GroenLinks-PvdA zal investeren in de krijgsmacht voor betere defensiecapaciteit van Nederland.",
+      "summary": "Investeren in krijgsmacht",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensie-investeringen",
+        "krijgsmacht",
+        "militaire",
+        "capaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 4",
+      "originalQuote": "dus investeren we in de krijgsmacht"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-007",
+      "text": "GroenLinks-PvdA zal investeren in diplomatie voor internationale conflictbeheersing en samenwerking.",
+      "summary": "Investeren in diplomatie",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diplomatie-investeringen",
+        "internationale",
+        "samenwerking",
+        "conflictbeheersing"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 4",
+      "originalQuote": "investeren we in de krijgsmacht én in diplomatie"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-008",
+      "text": "Het Rijk gaat gunstige financiering verstrekken voor woningbouwcorporaties en deze hoeven geen belasting meer te betalen voor het uitvoeren van deze publieke taak.",
+      "summary": "Gunstige financiering en belastingvrijstelling voor woningbouwcorporaties",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woningbouwcorporaties",
+        "financiering",
+        "belastingvrijstelling",
+        "publieke taak"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 17",
+      "originalQuote": "Het Rijk gaat gunstige financiering verstrekken zodat er voldoende wordt gebouwd en de Woningcorporaties Nieuwe Stijl hoeven geen belasting meer te betalen voor het uitvoeren van deze publieke taak."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-009",
+      "text": "Een nieuwe regering komt direct met een Wet versnelling woningbouw om belemmeringen weg te nemen en procedures te verkorten.",
+      "summary": "Wet versnelling woningbouw invoeren",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wetgeving",
+        "woningbouw",
+        "procedures",
+        "belemmeringen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 17",
+      "originalQuote": "Een nieuwe regering komt direct met een Wet versnelling woningbouw. Daarmee nemen we belemmeringen weg die snel bouwen in de weg staan."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-010",
+      "text": "De winsten van grondspeculanten worden afgeroomd en ingezet voor woningbouw.",
+      "summary": "Winsten grondspeculanten afromen voor woningbouw",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondspeculatie",
+        "winstafroming",
+        "woningbouw",
+        "vastgoed"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 17",
+      "originalQuote": "De winsten van grondspeculanten gaan we afromen en inzetten voor woningbouw."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-011",
+      "text": "Er wordt actief grond opgekocht zodat grond weer in publieke handen komt.",
+      "summary": "Actieve grondaankoop door overheid",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grondaankoop",
+        "publieke eigendom",
+        "grondbeleid",
+        "overheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 17",
+      "originalQuote": "Daarom gaan we actief grond opkopen zodat grond weer in publieke handen komt"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-012",
+      "text": "De nettarieven worden verlaagd om de energierekening te verminderen.",
+      "summary": "Verlaging nettarieven energie",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nettarieven",
+        "energierekening",
+        "energiekosten",
+        "tarieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 21",
+      "originalQuote": "We verlagen de nettarieven"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-013",
+      "text": "Er wordt een Klimaatticket ingevoerd waarmee iedereen voor 59 euro per maand onbeperkt met het ov kan reizen in daluren.",
+      "summary": "Klimaatticket voor 59 euro per maand in OV daluren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatticket",
+        "openbaar vervoer",
+        "daluren",
+        "abonnement"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 21",
+      "originalQuote": "we maken het openbaar vervoer aantrekkelijker door de introductie van een Klimaatticket, waarmee iedereen voor 59 euro per maand onbeperkt met het ov kan reizen in daluren."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-014",
+      "text": "Er wordt een verbod ingevoerd op de kankerverwekkende stof PFAS en op het gebruik van landbouwgif.",
+      "summary": "Verbod op PFAS en landbouwgif",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "pfas",
+        "landbouwgif",
+        "verbod",
+        "bestrijdingsmiddelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 21",
+      "originalQuote": "Er komt een verbod op de kankerverwekkende stof PFAS en op het gebruik van landbouwgif."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-015",
+      "text": "Er wordt een Groot Loonakkoord gesloten met vakbonden en werkgevers voor hogere lonen in ruil voor investeringen.",
+      "summary": "Groot Loonakkoord voor hogere lonen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "loonakkoord",
+        "vakbonden",
+        "werkgevers",
+        "loonverhoging"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 25",
+      "originalQuote": "We sluiten daarom een Groot Loonakkoord met de vakbonden en werkgevers. Daarin maken we afspraken over hogere lonen, in ruil voor investeringen in infrastructuur, onderzoek en technologie."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-016",
+      "text": "Het minimumloon gaat fors omhoog.",
+      "summary": "Forse verhoging minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumloon",
+        "loonverhoging",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 25",
+      "originalQuote": "Het minimumloon gaat fors omhoog."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-017",
+      "text": "Er wordt een Toekomstfonds van 25 miljard euro opgericht voor investeringen in duurzame industrie, wetenschap en spoorlijnen.",
+      "summary": "Toekomstfonds van 25 miljard euro",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toekomstfonds",
+        "investeringen",
+        "duurzame industrie",
+        "wetenschap",
+        "spoorlijnen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 26",
+      "originalQuote": "Met een Toekomstfonds van 25 miljard euro geven we de economie een impuls, door te investeren in een duurzame, innovatieve industrie, wetenschap, onderzoek en nieuwe spoorlijnen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-018",
+      "text": "De defensie-uitgaven worden verhoogd naar 3,5% van het bbp conform NAVO-afspraken.",
+      "summary": "Defensie-uitgaven naar 3,5% bbp",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensie-uitgaven",
+        "navo-norm",
+        "bbp",
+        "krijgsmacht"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 29",
+      "originalQuote": "We houden ons aan de nieuwe NAVO-norm en groeien toe naar de afspraak om 3,5% van het bbp uit te geven aan defensie."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-019",
+      "text": "De overheid wordt medeaandeelhouder van defensiebedrijven zodat winsten terugvloeien naar de samenleving.",
+      "summary": "Overheid wordt medeaandeelhouder defensiebedrijven",
+      "theme": "DEFENSIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "defensiebedrijven",
+        "aandeelhouderschap",
+        "overheid",
+        "winsten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 29",
+      "originalQuote": "De overheid wordt medeaandeelhouder van defensiebedrijven, zodat de winsten terugvloeien naar de samenleving."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-020",
+      "text": "We maken afspraken om meer zij-instromers aan te trekken voor het onderwijs en de zorg. Ook zorgen we voor een fatsoenlijk loon en goede arbeidsvoorwaarden voor mensen die in de zorg en het onderwijs werken.",
+      "summary": "Meer zij-instromers onderwijs/zorg, beter loon en arbeidsvoorwaarden",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zij-instromers",
+        "onderwijs",
+        "zorg",
+        "loon",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 33",
+      "originalQuote": "We maken afspraken om meer zij-instromers aan te trekken voor het onderwijs en de zorg. Ook zorgen we voor een fatsoenlijk loon en goede arbeidsvoorwaarden voor mensen die in de zorg en het onderwijs werken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-021",
+      "text": "We verkleinen gezondheidsverschillen door te investeren in schone lucht, gezonde voeding op school, goede huisvesting en toegankelijke zorg in elke wijk. Ook investeren we in gratis kinderopvang en extra ondersteuning op scholen met veel achterstanden.",
+      "summary": "Investeren in gratis kinderopvang en gezondere leefomgeving voor kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gezondheidsverschillen",
+        "schone lucht",
+        "gratis kinderopvang",
+        "extra ondersteuning",
+        "scholen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 33",
+      "originalQuote": "We verkleinen gezondheidsverschillen door te investeren in schone lucht, gezonde voeding op school, goede huisvesting en toegankelijke zorg in elke wijk. Ook investeren we in gratis kinderopvang en extra ondersteuning op scholen met veel achterstanden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-022",
+      "text": "We investeren in het hart van onze samenleving, de plekken waar mensen samen komen. Sportclubs krijgen steun bij verduurzaming en schoolgebouwen gaan we opknappen. We zorgen dat alle kinderen kunnen sporten en naar de bibliotheek kunnen om te leren lezen.",
+      "summary": "Steun voor sportverenigingen, opknappen schoolgebouwen, sport en lezen voor alle kinderen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportclubs",
+        "verduurzaming",
+        "schoolgebouwen",
+        "opknappen",
+        "bibliotheek"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 33",
+      "originalQuote": "We investeren in het hart van onze samenleving, de plekken waar mensen samen komen, zoals de sportvereniging, de school, het buurthuis, de bibliotheek en het zwembad. Sportclubs krijgen steun bij verduurzaming en schoolgebouwen gaan we opknappen. We zorgen dat alle kinderen kunnen sporten en naar de bibliotheek kunnen om te leren lezen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-023",
+      "text": "Provincies worden gestimuleerd en geholpen om het regionale openbaar vervoer weer in eigen hand te nemen.",
+      "summary": "Provincies krijgen steun om openbaar vervoer terug in publieke handen te brengen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "provincies",
+        "openbaar vervoer",
+        "publieke handen",
+        "stimulering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 34",
+      "originalQuote": "Provincies worden gestimuleerd en geholpen om het regionale openbaar vervoer weer in eigen hand te nemen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-024",
+      "text": "We willen in een nieuwe regering direct komen met een Wet versnelling woningbouw. Daarin nemen we maatregelen om meer grond beschikbaar te stellen voor woningbouw en de stikstofimpasse te doorbreken. Ook gaan we procedures voor woningbouw verkorten en vereenvoudigen.",
+      "summary": "Nieuwe wet om woningbouw te versnellen via grond, stikstof en procedures",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wet versnelling woningbouw",
+        "grond",
+        "stikstofimpasse",
+        "procedures",
+        "woningbouw"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 37",
+      "originalQuote": "Daarom willen we in een nieuwe regering direct komen met een Wet versnelling woningbouw. Daarin nemen we maatregelen om meer grond beschikbaar te stellen voor woningbouw en de stikstofimpasse te doorbreken. Ook gaan we procedures voor woningbouw verkorten en vereenvoudigen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-025",
+      "text": "Rondom natuurgebieden als de Veluwe en de Peel starten we direct met het uitkopen van intensieve veehouders zodat binnen een half jaar de vergunningverlening voor woningbouw weer loopt.",
+      "summary": "Uitkopen veehouders bij Veluwe en Peel voor woningbouw binnen half jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "uitkopen",
+        "veehouders",
+        "veluwe",
+        "peel",
+        "vergunningverlening",
+        "half jaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 37",
+      "originalQuote": "Rondom natuurgebieden als de Veluwe en de Peel starten we direct met het uitkopen van intensieve veehouders zodat binnen een half jaar de vergunningverlening voor woningbouw weer loopt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-026",
+      "text": "We schaffen de kostendelersnorm in de bijstand af. Verhuurders gaan contracten toestaan waardoor meerdere vrienden een woning kunnen delen als volwaardig huurders.",
+      "summary": "Afschaffen kostendelersnorm bijstand en woningdeling mogelijk maken",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kostendelersnorm",
+        "bijstand",
+        "afschaffen",
+        "woningdeling",
+        "contracten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 38",
+      "originalQuote": "Daarom schaffen we de kostendelersnorm in de bijstand af. Verhuurders gaan contracten toestaan waardoor meerdere vrienden een woning kunnen delen als volwaardig huurders."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-027",
+      "text": "De ambitie is dat er jaarlijks ruim 100.000 woningen bij komen. Waarvan 40.000 huurwoningen met een huur tot 900 euro. En nog eens 40.000 woningen met een huur tot 1200 euro, of koopwoningen met een maximale koopprijs van 405.000 euro.",
+      "summary": "Jaarlijks 100.000 nieuwe woningen, waarvan 80.000 betaalbare huur- en koopwoningen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "100.000 woningen",
+        "40.000 huurwoningen",
+        "900 euro",
+        "1200 euro",
+        "405.000 euro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 39-40",
+      "originalQuote": "De ambitie is dat er jaarlijks ruim 100.000 woningen bij komen. Waarvan 40.000 huurwoningen met een huur tot 900 euro. En nog eens 40.000 woningen met een huur tot 1200 euro, of koopwoningen met een maximale koopprijs van 405.000 euro."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-028",
+      "text": "We willen ervoor zorgen dat de lonen harder stijgen dan de huren. Er komt een wettelijke bovengrens aan de toegestane huurstijging.",
+      "summary": "Wettelijke bovengrens huurstijging, lonen moeten harder stijgen dan huren",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "lonen",
+        "huren",
+        "wettelijke bovengrens",
+        "huurstijging"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 40",
+      "originalQuote": "We willen ervoor zorgen dat de lonen harder stijgen dan de huren. In tijden van hoge inflatie mogen de huren dan niet te hard stijgen. Om explosieve huurstijgingen te voorkomen, komt er een wettelijke bovengrens aan de toegestane huurstijging."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-029",
+      "text": "We draaien de aanscherpingen van de voorrangsregeling voor statushouders daarom terug.",
+      "summary": "Terugdraaien aanscherpingen voorrangsregeling statushouders sociale huur",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "voorrangsregeling",
+        "statushouders",
+        "terugdraaien",
+        "aanscherpingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 42",
+      "originalQuote": "We draaien de aanscherpingen van de voorrangsregeling voor statushouders daarom terug."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-030",
+      "text": "We stellen meer geld beschikbaar om starters te helpen bij het financieren van hun eerste koopwoning via een startersfonds dat tot 30% van de koopprijs financiert.",
+      "summary": "Startersfonds financiert tot 30% van koopprijs eerste woning",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "startersfonds",
+        "30%",
+        "koopprijs",
+        "eerste koopwoning"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 45-46",
+      "originalQuote": "We stellen meer geld beschikbaar om starters te helpen bij het financieren van hun eerste koopwoning. Dat doen we via een startersfonds dat tot 30% van de koopprijs financiert."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-031",
+      "text": "We gaan de hypotheekrenteaftrek stapsgewijs afbouwen. De opbrengsten zetten we in voor woningbouw en lastenverlichting.",
+      "summary": "Stapsgewijze afbouw hypotheekrenteaftrek voor woningbouw en lastenverlichting",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hypotheekrenteaftrek",
+        "afbouwen",
+        "stapsgewijs",
+        "woningbouw",
+        "lastenverlichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 46",
+      "originalQuote": "Daarom gaan we de hypotheekrenteaftrek stapsgewijs afbouwen. De opbrengsten zetten we in voor woningbouw en lastenverlichting, waardoor mensen meer overhouden van hun loon."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-032",
+      "text": "We willen één landelijk, toegankelijk systeem waarin alle huurwoningen te vinden zijn. Jongeren worden automatisch vanaf hun 18e kosteloos ingeschreven.",
+      "summary": "Landelijk systeem voor alle huurwoningen met automatische inschrijving vanaf 18 jaar",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landelijk systeem",
+        "huurwoningen",
+        "automatische inschrijving",
+        "18 jaar",
+        "kosteloos"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 46",
+      "originalQuote": "We willen één landelijk, toegankelijk systeem waarin alle huurwoningen te vinden zijn in alle gemeenten – van sociale huur tot middenhuur en vrije sector, en van woningcorporaties tot particuliere verhuurders. Vergelijkbaar met hoe koopwoningen nu via Funda zichtbaar zijn, maar dan voor huurders. Woningzoekenden hoeven zich niet langer in elke gemeente afzonderlijk in te schrijven. Jongeren worden automatisch vanaf hun 18e kosteloos ingeschreven, zodat niemand buiten de boot valt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-033",
+      "text": "Nederland wordt in 2040 klimaatneutraal met 65% CO₂-reductie in 2030. In 2035 zijn alle elektriciteitsbronnen klimaatneutraal, in 2040 ook energiebronnen en industrie.",
+      "summary": "Klimaatneutraal Nederland in 2040, 65% CO₂-reductie in 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "klimaatneutraliteit",
+        "co₂-reductie",
+        "elektriciteitsbronnen",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 49",
+      "originalQuote": "We zetten daarom alle zeilen bij om te zorgen dat Nederland in 2040 klimaatneutraal is. Om dat te bereiken streven we naar 65% CO₂-reductie in 2030. In 2035 zijn al onze elektriciteitsbronnen klimaatneutraal, en in 2040 ook onze energiebronnen én industrie."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-034",
+      "text": "Het recht op een gezonde leef- en werkomgeving wordt opgenomen in nationale wetgeving. Het voorzorgsprincipe wordt breder verankerd in de wet.",
+      "summary": "Recht op gezonde leefomgeving in wetgeving, voorzorgsprincipe verankeren",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leefomgeving",
+        "wetgeving",
+        "voorzorgsprincipe",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 49",
+      "originalQuote": "We nemen het recht op een gezonde leef- en werkomgeving op in nationale wetgeving. Het voorzorgsprincipe wordt breder verankerd in de wet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-035",
+      "text": "Het lozen van gif wordt verboden en er komen strengere normen voor luchtvervuiling, microplastics en pesticiden. Gezondheidseffecten worden meegenomen in vergunningverlening.",
+      "summary": "Verbod giflozing, strengere normen vervuiling, gezondheid in vergunningen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "giflozing",
+        "luchtvervuiling",
+        "microplastics",
+        "vergunningverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 49",
+      "originalQuote": "We verbieden het lozen van gif en er komen strengere normen voor luchtvervuiling, microplastics en pesticiden. We nemen gezondheidseffecten mee in vergunningverlening."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-036",
+      "text": "Investering in beter systeem van toezicht, metingen en handhaving milieuovertredingen. Ondersteuning omgevingsdiensten en BOA's. Hogere straffen op milieuovertredingen.",
+      "summary": "Versterkt toezicht milieuovertredingen, hogere straffen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toezicht",
+        "handhaving",
+        "milieuovertredingen",
+        "omgevingsdiensten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 49",
+      "originalQuote": "Daarom investeren we in een beter systeem van toezicht, metingen en handhaving, en ondersteunen we de omgevingsdiensten, toezichthouders en boa's in het landelijk gebied. Op milieuovertredingen komen hogere straffen te staan."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-037",
+      "text": "Voor grootvervuilers die niet tijdig verduurzamen is geen plek in Nederland. Duidelijke afspraken met industrie over toekomst, inclusief transitieplan Rotterdamse haven conform Parijs-akkoord.",
+      "summary": "Geen plek grootvervuilers, transitieplan Rotterdamse haven",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "grootvervuilers",
+        "verduurzaming",
+        "rotterdamse haven",
+        "transitieplan"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 49-50",
+      "originalQuote": "Voor grootvervuilers die niet tijdig verduurzamen is geen plek in ons land. [...] In de groene industriepolitiek mag een transitieplan voor de Rotterdamse haven dat in lijn is met de klimaatdoelen van Parijs niet ontbreken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-038",
+      "text": "Fossiele subsidies worden zo snel mogelijk afgebouwd, zoveel mogelijk in Europees verband maar zonder op Europa te wachten. Volledig verbod op reclames voor fossiele producten en diensten.",
+      "summary": "Afbouw fossiele subsidies, verbod fossiele reclames",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fossiele subsidies",
+        "afbouw",
+        "reclameverbod",
+        "europa"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 50",
+      "originalQuote": "We bouwen fossiele subsidies zo snel mogelijk af, zoveel mogelijk in Europees verband, maar met de afbouw van Nederlandse fossiele subsidies wachten we niet op Europa. We voeren een volledig verbod in op reclames voor fossiele producten en diensten."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-039",
+      "text": "Wettelijk kader dat nieuwe fossiele investeringen door banken, verzekeraars en pensioenfondsen verbiedt. Transparantie in duurzaamheid investeringen, wegname belemmeringen groene investeringen.",
+      "summary": "Verbod fossiele investeringen financiële sector, wettelijk kader",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "fossiele investeringen",
+        "financiële sector",
+        "wettelijk kader",
+        "transparantie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 50-51",
+      "originalQuote": "Er komt een wettelijk kader dat zorgt dat nieuwe fossiele investeringen niet meer mogelijk zijn, dat financiële instellingen transparant zijn in de duurzaamheid van hun investeringen, en dat belemmeringen voor groene investeringen wegneemt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-040",
+      "text": "Deadline voor opstellen klimaatplan bedrijven. Terugbetaling geëist als bedrijven zich niet houden aan afspraken. Uitbreiding energiebesparingsplicht en bindende besparingsdoelen per sector.",
+      "summary": "Deadline klimaatplan bedrijven, bindende besparingsdoelen per sector",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "klimaatplan",
+        "deadline",
+        "energiebesparingsplicht",
+        "besparingsdoelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 51",
+      "originalQuote": "Er komt een deadline voor het opstellen van een klimaatplan en als bedrijven zich niet houden aan afspraken wordt terugbetaling geëist. [...] komt er ook stevige normering, bijvoorbeeld een uitbreiding van de energiebesparingsplicht en bindende besparingsdoelen per sector."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-041",
+      "text": "Werknemers die fossiele baan verliezen krijgen begeleiding naar duurzame baan met behoud van inkomen, inclusief omscholing naar voorbeeld van kolenfonds.",
+      "summary": "Begeleiding fossiele werknemers naar duurzame banen, kolenfonds model",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werknemers",
+        "fossiele banen",
+        "omscholing",
+        "kolenfonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 51",
+      "originalQuote": "Werknemers die een fossiele baan verliezen worden met behoud van inkomen begeleid naar een duurzame baan – zo nodig inclusief omscholing – naar het voorbeeld van het kolenfonds."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-042",
+      "text": "Gaswinning op land en zee wordt versneld afgebouwd. Elektriciteit uit zon en wind wordt motorblok energiesysteem. Nederland onderschrijft non-proliferatie verdrag fossiele brandstoffen.",
+      "summary": "Afbouw gaswinning, zon en wind als motorblok, fossiel non-proliferatie verdrag",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gaswinning",
+        "afbouw",
+        "zonne-energie",
+        "non-proliferatie verdrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 51-52",
+      "originalQuote": "we bouwen de gaswinning op land en zee versneld af. We slaan energie op voor wanneer het even niet waait of de zon niet schijnt [...] Nederland onderschrijft het belang van een non-proliferatie verdrag voor fossiele brandstoffen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-043",
+      "text": "Versnelling aanleg windmolenparken op zee voor industriële elektrificatie. Noordzeepact met wind- en waterstofproducenten, industriële afnemers en netbeheerders met langjarige verbintenissen.",
+      "summary": "Windparken Noordzee, Noordzeepact met langjarige verbintenissen",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "windmolenparken",
+        "noordzee",
+        "noordzeepact",
+        "waterstofproducenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 52",
+      "originalQuote": "Daarom versnellen we de aanleg van windmolenparken op zee om de industrie te laten elektrificeren. Ook sluit de overheid een Noordzeepact met wind- en waterstofproducenten, industriële afnemers en netbeheerders, met langjarige verbintenissen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-044",
+      "text": "Energieversnellingswet regelt snellere vergunningen voor kritieke energieinfrastructuur. Energieinfrastructuur krijgt voorrang bij stikstofruimte. Nieuwe woonwijken krijgen wijk- of buurtbatterij.",
+      "summary": "Energieversnellingswet, voorrang energieinfra, buurtbatterijen nieuwe wijken",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energieversnellingswet",
+        "vergunningen",
+        "energieinfrastructuur",
+        "buurtbatterijen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 52-53",
+      "originalQuote": "We komen met een Energieversnellingswet, die regelt dat vergunningen voor kritieke energieinfrastructuur [...] Nieuwe woonwijken krijgen een eigen wijk- of buurtbatterij."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-045",
+      "text": "Nederlandse bedrijven en producten in Nederland zijn volledig circulair in 2050. Verplichting oplopend percentage gerecyclede grondstoffen in nieuwe producten voor fabrikanten en importeurs.",
+      "summary": "Volledige circulariteit 2050, verplichting gerecyclede grondstoffen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulaire economie",
+        "gerecyclede grondstoffen",
+        "fabrikanten",
+        "importeurs"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 52-53",
+      "originalQuote": "Nederlandse bedrijven en producten die in Nederland worden verkocht zijn volledig circulair in 2050. [...] We verplichten fabrikanten en importeurs om een oplopend percentage gerecyclede grondstoffen te gebruiken in nieuwe producten."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-046",
+      "text": "Biobased bouwen wordt norm in woningbouw met hernieuwbare materialen zoals hout, hennep, vlas en mycelium. Gemeenten en woningcorporaties krijgen opdracht en middelen voor structurele toepassing.",
+      "summary": "Biobased bouwen als norm, opdracht gemeenten en corporaties",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "biobased bouwen",
+        "hernieuwbare materialen",
+        "gemeenten",
+        "woningcorporaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 53",
+      "originalQuote": "We maken biobased bouwen de norm in de woningbouw. [...] Gemeenten en woningcorporaties krijgen de opdracht en middelen om biobased bouwen structureel toe te passen bij nieuwbouw en renovatie."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-047",
+      "text": "Verbod op verbranden recyclebare materialen en vernietigen bruikbare onverkochte goederen. Verkopers moeten eerst afprijzen dan weggeven. Verplichte vormgeving voor recycling/hergebruik.",
+      "summary": "Verbod verbranden recyclebaar materiaal, verplichting afprijzen voor weggeven",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "recyclebare materialen",
+        "verspilling",
+        "afprijzen",
+        "hergebruik"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 53",
+      "originalQuote": "Het verbranden van recyclebare materialen en het vernietigen van nog bruikbare onverkochte goederen verbieden we. Verkopers moeten voedsel en andere producten eerst afprijzen en anders weggegeven."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-048",
+      "text": "Gebruik van nieuw plastic wordt tot minimum beperkt. Stop met onnodige, schadelijke en moeilijk recyclebare verpakkingen en wegwerpplastics. Stimulering biologisch afbreekbare alternatieven.",
+      "summary": "Minimum nieuw plastic, stop onnodige verpakkingen, bio-alternatieven",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "plastic",
+        "verpakkingen",
+        "wegwerpplastics",
+        "biologisch afbreekbaar"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 54",
+      "originalQuote": "Het gebruik van nieuw plastic wordt tot een minimum beperkt. We stoppen met onnodige, schadelijke en moeilijk te recyclen verpakkingen en wegwerpplastics. Biologisch afbreekbare alternatieven worden gestimuleerd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-049",
+      "text": "De 14 miljard euro gereserveerd voor kerncentrales wordt gebruikt voor verduurzamingsmaatregelen huishoudens, bedrijven en boeren die wel snel en zeker effect hebben.",
+      "summary": "14 miljard kernenergie naar verduurzaming huishoudens/bedrijven/boeren",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kernenergie",
+        "14 miljard euro",
+        "verduurzamingsmaatregelen",
+        "huishoudens"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 54",
+      "originalQuote": "De nu voor kerncentrales gereserveerde 14 miljard euro gebruiken we daarom om huishoudens, bedrijven en boeren te helpen met verduurzamingsmaatregelen die wel snel en zeker effect hebben."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-050",
+      "text": "Grootschalig isolatie-offensief van de overheid, natuurinclusief uitgevoerd. Beginnen bij tochtige huizen zonder dubbel glas. Tijdswinst en kostenreductie door gelijksoortige huizen tegelijk aanpakken.",
+      "summary": "Grootschalig isolatie-offensief, beginnen bij slechtste woningen",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "isolatie-offensief",
+        "dubbel glas",
+        "natuurinclusief",
+        "kostenreductie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 54-55",
+      "originalQuote": "De overheid gaat flink investeren in een grootschalig isolatie-offensief. [...] In tochtige huizen zonder dubbel glas wonen gezinnen die 's winters kiezen tussen verwarming of eten. Dáár beginnen we."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-051",
+      "text": "Warmte- en koudenetten in publieke handen, ondersteuning gemeenten en bewonersinitiatieven. Vaste en variabele kosten warmtenet verlagen om aantrekkelijker te maken.",
+      "summary": "Publieke warmtenetten, kosten verlagen voor aantrekkelijkheid",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "warmtenetten",
+        "publieke handen",
+        "gemeenten",
+        "bewonersinitiatieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 55",
+      "originalQuote": "We zetten in op warmte- en koudenetten in publieke handen en ondersteunen gemeenten en bewonersinitiatieven daarin. [...] Wij maken het aantrekkelijker door de vaste en variabele kosten te verlagen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-052",
+      "text": "Structureel energienoodfonds voor kwetsbare huishoudens die energierekening niet kunnen betalen. Tegemoetkoming huurders voor afschaffing salderingsregeling zonnepanelen.",
+      "summary": "Structureel energienoodfonds kwetsbare huishoudens, compensatie salderingsregeling",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "energienoodfonds",
+        "kwetsbare huishoudens",
+        "salderingsregeling",
+        "zonnepanelen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 56",
+      "originalQuote": "Daarom komen we in de tussentijd kwetsbare huishoudens tegemoet met een structureel energienoodfonds, dat huishoudens helpt die hun energierekening niet kunnen betalen. Huurders die door de abrupte afschaffing van de salderingsregeling moeten toeleggen op zonnepanelen komen we tegemoet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-053",
+      "text": "Stikstofbank waar overheid eerste recht van koop heeft voor projecten met maatschappelijk belang zoals woningbouw, energietransitie, defensie en infrastructuur.",
+      "summary": "Stikstofbank met eerste kooprecht overheid voor maatschappelijke projecten",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stikstofbank",
+        "kooprecht",
+        "woningbouw",
+        "energietransitie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 57",
+      "originalQuote": "Vrijgekomen stikstofruimte komt in een stikstofbank waar de overheid eerste recht van koop heeft voor projecten met een maatschappelijk belang zoals woningbouw, de energietransitie, defensie en infrastructuur."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-054",
+      "text": "Minimaal 30% van landoppervlak en 30% Nederlandse Noordzee wettelijk beschermd, waarvan belangrijk deel strikt beschermd volgens Europese Biodiversiteitsstrategie 2030.",
+      "summary": "30% land en zee beschermd volgens EU Biodiversiteitsstrategie 2030",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "landoppervlak",
+        "noordzee",
+        "bescherming",
+        "biodiversiteitsstrategie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 57",
+      "originalQuote": "We voeren daarom de Europese Biodiversiteitsstrategie 2030 volledig uit. Dit houdt in dat minimaal 30% van het landoppervlak en 30% van het Nederlandse deel van de Noordzee wettelijk wordt beschermd"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-055",
+      "text": "Verbod per direct op glyfosaat, PFAS-houdende bestrijdingsmiddelen en chemische bestrijdingsmiddelen bij lelieteelt. Verbod chemische bestrijdingsmiddelen in en rondom natuur- en waterwingebieden.",
+      "summary": "Direct verbod glyfosaat en PFAS-bestrijdingsmiddelen, verbod bij natuurgebieden",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "glyfosaat",
+        "pfas",
+        "bestrijdingsmiddelen",
+        "natuurgebieden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 58",
+      "originalQuote": "We verbieden per direct glyfosaat, PFAS-houdende bestrijdingsmiddelen en het gebruik van chemische bestrijdingsmiddelen bij lelieteelt. Ook komt er een verbod op chemische bestrijdingsmiddelen in en rondom natuur- en waterwingebieden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-056",
+      "text": "Producten in Nederland moeten minimaal Beter Leven-keurmerk 2 sterren halen, vanaf 2040 zijn dat 3 sterren. Verplicht cameratoezicht slachthuizen, lagere maximale slachtsnelheid.",
+      "summary": "Beter Leven-keurmerk 2 sterren nu, 3 sterren vanaf 2040, cameratoezicht slachthuizen",
+      "theme": "LANDBOUW",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beter leven-keurmerk",
+        "cameratoezicht",
+        "slachthuizen",
+        "dierenwelzijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 61",
+      "originalQuote": "Producten die in Nederland worden verkocht of verwerkt moeten een Beter Leven-keurmerk halen van minimaal 2 sterren, en vanaf 2040 zijn dat er 3. In slachthuizen komt verplicht cameratoezicht en de maximale slachtsnelheid wordt verlaagd"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-057",
+      "text": "Lozingsverbod voor PFAS en verbod op niet-essentiële PFAS-producten. Alle essentiële PFAS-producten in kaart brengen en zo snel mogelijk uitfaseren.",
+      "summary": "PFAS-lozingsverbod, verbod niet-essentiële PFAS-producten, uitfasering essentiële",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "pfas",
+        "lozingsverbod",
+        "uitfasering",
+        "voedselveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 61",
+      "originalQuote": "Daarom komt er een lozingsverbod voor PFAS en een verbod op niet-essentiële producten die PFAS bevatten. Alle essentiële producten die PFAS bevatten worden in kaart gebracht en zo snel mogelijk uitgefaseerd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-058",
+      "text": "Tijdelijke stop op diepzeemijnbouw ter bescherming van koraalriffen en biodiversiteit in Caribisch Nederland met financiering voor beschermingsmaatregelen.",
+      "summary": "Tijdelijke stop diepzeemijnbouw Caribisch Nederland",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "diepzeemijnbouw",
+        "koraalriffen",
+        "biodiversiteit",
+        "caribisch nederland"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 63",
+      "originalQuote": "Er komt een tijdelijke stop op diepzeemijnbouw. Voor bescherming van de koraalriffen en de biodiversiteit in Caribisch Nederland blijven we de nodige financiering beschikbaar stellen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-059",
+      "text": "Elektrificatie van alle treinlijnen in Nederland voor duurzame mobiliteit.",
+      "summary": "Elektrificatie alle Nederlandse treinlijnen",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektrificatie",
+        "treinlijnen",
+        "duurzame mobiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 63",
+      "originalQuote": "We elektrificeren alle treinlijnen in Nederland."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-060",
+      "text": "Aanleg van de Lelylijn tussen Groningen en de Randstad als hogesnelheidslijn naar Noord-Duitsland, Denemarken en Zweden.",
+      "summary": "Aanleg Lelylijn als internationale hogesnelheidslijn",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelylijn",
+        "hogesnelheidslijn",
+        "groningen",
+        "randstad"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 64",
+      "originalQuote": "We leggen de Lelylijn aan tussen Groningen en de Randstad en in internationaal verband als hogesnelheidslijn naar Noord-Duitsland, Denemarken en Zweden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-061",
+      "text": "Helmplicht en leeftijdsgrens voor fatbikes voor veiligheid op fietspaden.",
+      "summary": "Helmplicht en leeftijdsgrens fatbikes",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "helmplicht",
+        "leeftijdsgrens",
+        "fatbikes",
+        "fietspaden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 64",
+      "originalQuote": "Voor fatbikes in het bijzonder gaat een helmplicht en leeftijdsgrens gelden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-062",
+      "text": "30 kilometer per uur wordt de norm binnen de bebouwde kom.",
+      "summary": "30 km/u norm binnen bebouwde kom",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "snelheidslimiet",
+        "bebouwde kom",
+        "verkeersveiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 65",
+      "originalQuote": "Binnen de bebouwde kom wordt 30 kilometer per uur de norm."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-063",
+      "text": "Zorgen dat vanaf 2030 alleen nog elektrische voertuigen worden verkocht in Nederland, inclusief brom- en snorfietsen.",
+      "summary": "Vanaf 2030 alleen elektrische voertuigen verkocht",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "elektrische voertuigen",
+        "verkoop",
+        "bromfietsen",
+        "snorfietsen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 65",
+      "originalQuote": "Zo zorgen we ervoor dat in Nederland vanaf 2030 alleen nog elektrische voertuigen worden verkocht, inclusief brom- en snorfietsen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-064",
+      "text": "Verhogen minimumloon naar 18 euro per uur en vaststelling dat het minimaal 60% van het mediaanloon wordt in wetgeving.",
+      "summary": "Minimumloon naar 18 euro, minimaal 60% mediaanloon wettelijk vast",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "mediaanloon",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 69-70",
+      "originalQuote": "We verhogen het minimumloon naar 18 euro per uur. En het moet minimaal 60% van het mediaanloon worden, dat leggen we vast in de wet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-065",
+      "text": "Streven naar 32-urige werkweek met behoud van inkomen voor betere werk-privé balans.",
+      "summary": "32-urige werkweek met behoud inkomen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkweek",
+        "inkomen",
+        "werk-privé balans"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 70",
+      "originalQuote": "Daarom streven we naar een 32-urige werkweek, met behoud van inkomen, zodat er ruimte is voor ontspanning en andere waardevolle zaken als (mantel)zorg of vrijwilligerswerk."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-066",
+      "text": "Afschaffen minimumjeugdloon voor iedereen boven de 18 jaar - alle volwassenen verdienen hetzelfde minimumloon.",
+      "summary": "Afschaffen minimumjeugdloon vanaf 18 jaar",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumjeugdloon",
+        "minimumloon",
+        "volwassenen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 72",
+      "originalQuote": "Wij schaffen het minimumjeugdloon af voor iedereen boven de 18. Alle volwassenen verdienen hetzelfde minimumloon."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-067",
+      "text": "Instelling Toekomstfonds van 25 miljard euro voor investeringen in spoorwegen, onderzoek, innovatie, industrieverduurzaming en hoogwaardige bedrijvigheid.",
+      "summary": "Toekomstfonds 25 miljard euro voor investeringen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toekomstfonds",
+        "investeringen",
+        "spoorwegen",
+        "onderzoek",
+        "innovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 76",
+      "originalQuote": "Om de nood- zakelijke investeringen in onze economie mogelijk te maken richten we een Toekomstfonds op van 25 miljard euro. Hiermee verhogen we onze productiviteit door investeringen in moderne spoorwegen, wetenschappelijk onderzoek en innovatie, de verduurzaming van onze industrie en de ontwikkeling van hoogwaardige bedrijvigheid."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-068",
+      "text": "Verplichte arbeidsongeschiktheidsverzekering voor alle zzp'ers met eerlijke bijdrage opdrachtgever en inkomensafhankelijke premie.",
+      "summary": "Verplichte AOV voor zzp'ers met bijdrage opdrachtgever",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "arbeidsongeschiktheidsverzekering",
+        "zzpers",
+        "opdrachtgever",
+        "premie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 74",
+      "originalQuote": "Daarom komt er een verplichte arbeidsongeschiktheidsverzekering voor alle zzp'ers, met een eerlijke bijdrage van de opdrachtgever en een inkomensafhankelijke premie."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-069",
+      "text": "We verzekeren het tweede ziektejaar collectief en publiek voor alle werkgevers, waarbij grote werkgevers solidair zijn met mkb-werkgevers.",
+      "summary": "Collectieve verzekering tweede ziektejaar voor alle werkgevers",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ziektejaar",
+        "verzekering",
+        "werkgevers",
+        "mkb",
+        "loondoorbetaling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 77",
+      "originalQuote": "We verzekeren het tweede ziektejaar collectief en publiek voor alle werkgevers. Hierbij zijn grote werkgevers solidair met mkb-werkgevers."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-070",
+      "text": "Aanbestedingen vanuit de (semi)overheid en overheidsbedrijven worden alleen gegund aan bedrijven die cao-lonen betalen.",
+      "summary": "Alleen gunning aanbestedingen aan bedrijven met cao-lonen",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aanbestedingen",
+        "overheid",
+        "cao-lonen",
+        "gunning",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 77",
+      "originalQuote": "Aanbestedingen vanuit de (semi)overheid en overheidsbedrijven worden alleen gegund aan bedrijven die cao-lonen betalen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-071",
+      "text": "Online winkels moeten de kosten doorberekenen voor het terugsturen van producten en de wildgroei van distributiecentra wordt beperkt.",
+      "summary": "Kosten terugsturen producten doorberekenen aan online winkels",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "online",
+        "terugsturen",
+        "kosten",
+        "distributiecentra",
+        "concurrentie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 77",
+      "originalQuote": "We beperken de enorme concurrentie van online winkels door deze bedrijven de kosten door te laten berekenen voor het terugsturen van producten en door de wildgroei van distributiecentra te beperken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-072",
+      "text": "Goedkopere producten met Engelse, Duitse of Franse labels mogen verkocht worden in Nederlandse supermarkten, waarbij voedselinformatie online of in de supermarkt in het Nederlands beschikbaar is.",
+      "summary": "Toestaan buitenlandse productlabels in Nederlandse supermarkten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "productlabels",
+        "supermarkten",
+        "voedselinformatie",
+        "handel",
+        "barrières"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 78",
+      "originalQuote": "We staan toe dat goedkopere producten met een Engels, Duits of Frans label verkocht mogen worden in Nederlandse supermarkten, waarbij de voedselinformatie online of in de supermarkt in het Nederlands te lezen is."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-073",
+      "text": "De Participatiewet wordt vervangen door een nieuwe Wet op de bestaanszekerheid die garandeert dat iedereen voldoende inkomen heeft om van te leven.",
+      "summary": "Vervanging Participatiewet door Wet op de bestaanszekerheid",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "participatiewet",
+        "bestaanszekerheid",
+        "inkomen",
+        "garantie",
+        "sociaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 79",
+      "originalQuote": "De huidige Participatiewet wordt vervangen door een nieuwe Wet op de bestaanszekerheid, die garandeert dat iedereen voldoende inkomen heeft om van te leven."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-074",
+      "text": "De zoekplicht voor jongeren en de taaleis worden geschrapt, evenals de kostendelersnorm.",
+      "summary": "Afschaffen zoekplicht jongeren, taaleis en kostendelersnorm",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zoekplicht",
+        "jongeren",
+        "taaleis",
+        "kostendelersnorm",
+        "bijstand"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 80",
+      "originalQuote": "we schrappen verplichtingen zoals de zoekplicht voor jongeren en de taaleis... De kostendelersnorm schaffen we af."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-075",
+      "text": "De asociale verkorting van de WW wordt teruggedraaid naar een langdurige WW van twee jaar. De kortdurende WW wordt verlengd van drie naar zes maanden.",
+      "summary": "WW-uitkering verlengen naar twee jaar, kortdurende WW naar zes maanden",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ww",
+        "werkloosheid",
+        "uitkering",
+        "verlenging",
+        "maanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 81",
+      "originalQuote": "De asociale verkorting van de WW draaien we terug. Wij staan voor een langdurige WW van twee jaar. We verlengen de kortdurende WW voor mensen die een half jaar hebben gewerkt, van drie naar zes maanden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-076",
+      "text": "De AOW-uitkering wordt verhoogd gekoppeld aan het minimumloon.",
+      "summary": "AOW-uitkering verhogen gekoppeld aan minimumloon",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "aow",
+        "uitkering",
+        "minimumloon",
+        "verhoging",
+        "pensioen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 81",
+      "originalQuote": "We verhogen de AOW-uitkering gekoppeld aan het minimumloon, zodat ouderen rond kunnen komen en in rust kunnen genieten van hun oude dag."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-077",
+      "text": "Er komt een Wet reductie armoede onder kinderen die de overheid verplicht ervoor te zorgen dat het aantal kinderen in armoede fors daalt.",
+      "summary": "Wet reductie armoede onder kinderen invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderarmoede",
+        "wet",
+        "reductie",
+        "overheid",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 82",
+      "originalQuote": "Er komt een Wet reductie armoede onder kinderen, die de overheid verplicht ervoor te zorgen dat het aantal kinderen dat in armoede opgroeit de komende jaren fors daalt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-078",
+      "text": "Het minimumloon en daaraan gekoppelde uitkeringen worden verhoogd. Gemeenten kunnen experimenteren met een basisinkomen.",
+      "summary": "Minimumloon en uitkeringen verhogen, experimenteren met basisinkomen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minimumloon",
+        "uitkeringen",
+        "verhoging",
+        "basisinkomen",
+        "experimenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 83",
+      "originalQuote": "Dat doen we door het minimumloon en de daaraan gekoppelde uitkeringen te verhogen... we maken het voor gemeenten mogelijk om te experimenteren met een basisinkomen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-079",
+      "text": "De wanbetalersregeling voor de zorgverzekering wordt afgeschaft. Huisuitzettingen zijn alleen nog toegestaan bij criminele activiteiten. Het afsluiten van gas, water en licht wordt verboden.",
+      "summary": "Afschaffen wanbetalersregeling, beperken huisuitzettingen, verbieden afsluiting nutsvoorzieningen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wanbetalersregeling",
+        "huisuitzettingen",
+        "afsluiting",
+        "nutsvoorzieningen",
+        "schulden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 84",
+      "originalQuote": "De wanbetalersregeling voor de zorgverzekering schaffen we af. Huisuitzettingen... zijn alleen nog toegestaan vanwege criminele activiteiten... Het afsluiten van gas, water en licht wordt verboden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-080",
+      "text": "BNPL (Buy Now Pay Later) wordt verboden in fysieke winkels. Minimaal een derde van de aankoopprijs moet vooraf worden voldaan en de minimumleeftijd wordt verhoogd naar 21 jaar.",
+      "summary": "BNPL verbieden in fysieke winkels, minimumleeftijd 21 jaar",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bnpl",
+        "verbod",
+        "fysieke",
+        "winkels",
+        "minimumleeftijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 85",
+      "originalQuote": "Daarom verbieden we BNPL in fysieke winkels. Verder moet minimaal een derde van de aankoopprijs vooraf worden voldaan, verhogen we de minimumleeftijd naar 21 jaar."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-081",
+      "text": "Nederland legt militaire, financiële en humanitaire steun aan Oekraïne vast voor de gehele kabinetsperiode.",
+      "summary": "Steun aan Oekraïne vastleggen voor gehele kabinetsperiode",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "oekraïne",
+        "steun",
+        "kabinetsperiode",
+        "militair",
+        "humanitair"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 89",
+      "originalQuote": "Nederland moet een leidende rol spelen in de militaire, financiële en humanitaire steun aan Oekraïne. We leggen deze steun voor de gehele kabinetsperiode vast."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-082",
+      "text": "Nederland erkent direct een soevereine Palestijnse staat en zet zich maximaal in voor de geografische, economische en culturele levensvatbaarheid ervan.",
+      "summary": "Directe erkenning soevereine Palestijnse staat",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "palestijnse",
+        "staat",
+        "erkenning",
+        "soevereiniteit",
+        "levensvatbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 91",
+      "originalQuote": "Nederland gaat direct over tot erkenning van een soevereine Palestijnse staat en zet zich maximaal in voor de geografische, economische en culturele levensvatbaarheid ervan."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-083",
+      "text": "Het EU-Israël Associatieakkoord wordt volledig opgeschort, militaire samenwerking gestopt en een totaal verbod op economische betrekkingen met illegale nederzettingen ingevoerd.",
+      "summary": "Opschorting EU-Israël akkoord en sancties tegen illegale nederzettingen",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "eu-israël",
+        "associatieakkoord",
+        "sancties",
+        "nederzettingen",
+        "militaire"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 89-90",
+      "originalQuote": "We schorten het EU-Israël Associatieakkoord volledig op, stoppen de militaire samenwerking... en voeren een totaal verbod in op economische betrekkingen met de illegale nederzettingen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-084",
+      "text": "We committeren ons aan het verhogen van het defensiebudget naar 3,5% van het bbp vanwege de Russische agressie en de noodzaak om ons onafhankelijker te maken van de Verenigde Staten.",
+      "summary": "Defensiebudget verhogen naar 3,5% van het bbp",
+      "theme": "DEFENSIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "defensiebudget",
+        "bbp",
+        "percentage",
+        "russische",
+        "agressie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 98",
+      "originalQuote": "We committeren ons aan het verhogen van het defensiebudget naar 3,5% van het bbp vanwege de Russische agressie en de noodzaak om ons onafhankelijker te maken van de Verenigde Staten."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-085",
+      "text": "We besteden ten minste 0,7% van ons bruto nationaal inkomen aan ontwikkelingssamenwerking. Uitgaven voor klimaatfinanciering en herstel van ecosystemen komen daar volgens internationale afspraak bovenop.",
+      "summary": "Ten minste 0,7% bni aan ontwikkelingssamenwerking",
+      "theme": "BUITENLAND",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ontwikkelingssamenwerking",
+        "percentage",
+        "nationaal",
+        "inkomen",
+        "klimaatfinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 101",
+      "originalQuote": "Daarom besteden we ten minste 0,7% van ons bruto nationaal inkomen aan ontwikkelingssamenwerking. Uitgaven voor klimaatfinanciering en herstel van ecosystemen komen daar volgens internationale afspraak bovenop."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-086",
+      "text": "In navolging van de Staatscommissie Demografische Ontwikkeling kiezen we voor actieve sturing op een gemiddeld migratiesaldo van 40.000 tot 60.000 per jaar.",
+      "summary": "Migratiesaldo sturen op 40.000-60.000 per jaar",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "migratiesaldo",
+        "cijfers",
+        "bevolkingsgroei",
+        "sturing",
+        "demografie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 104",
+      "originalQuote": "In navolging van de Staatscommissie Demografische Ontwikkeling kiezen we voor actieve sturing op een gemiddeld migratiesaldo van 40.000 tot 60.000 per jaar"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-087",
+      "text": "We schaffen het veto op meerdere terreinen in de EU af om besluitvaardig te kunnen zijn.",
+      "summary": "EU-veto op meerdere terreinen afschaffen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "veto",
+        "afschaffen",
+        "besluitvaardigheid",
+        "hervorming"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 94",
+      "originalQuote": "Om besluitvaardig te kunnen zijn schaffen we het veto op meerdere terreinen af."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-088",
+      "text": "Het Europees Parlement krijgt initiatiefrecht waardoor het zelf wetgeving en beleid kan voorstellen en de mogelijkheid om individuele Commissarissen weg te sturen.",
+      "summary": "Initiatiefrecht voor Europees Parlement",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "europees",
+        "parlement",
+        "initiatiefrecht",
+        "wetgeving",
+        "commissarissen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 95",
+      "originalQuote": "Het Europees Parlement krijgt initiatiefrecht waardoor het zelf wetgeving en beleid kan voorstellen in plaats van alleen te reageren op voorstellen van de Europese Commissie en regeringsleiders, en de mogelijkheid om individuele Commissarissen weg te sturen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-089",
+      "text": "We pleiten voor een sociale vooruitgangsclausule in Europese verdragen die sociale rechten beschermt.",
+      "summary": "Sociale vooruitgangsclausule in EU-verdragen",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vooruitgangsclausule",
+        "verdragen",
+        "sociale",
+        "rechten",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 95",
+      "originalQuote": "We pleiten voor een sociale vooruitgangsclausule in Europese verdragen die sociale rechten beschermt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-090",
+      "text": "We lanceren een Civiel Techfonds om verantwoorde technologie aan te jagen en mensenrechtenorganisaties te steunen. We pleiten voor het opknippen van Big Tech en een heffing op niet-Europese Big Tech-bedrijven.",
+      "summary": "Civiel Techfonds en Big Tech opknippen",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "techfonds",
+        "technologie",
+        "opknippen",
+        "heffing",
+        "bedrijven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 97",
+      "originalQuote": "We lanceren een Civiel Techfonds om verantwoorde technologie aan te jagen en mensenrechtenorganisaties te steunen. We pleiten voor het opknippen van Big Tech en een heffing op niet-Europese Big Tech-bedrijven."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-091",
+      "text": "Er komt een Nationaal Coördinator Maatschappelijke Weerbaarheid om de nationale weerbaarheid tegen hybride dreigingen te versterken.",
+      "summary": "Nationaal Coördinator Maatschappelijke Weerbaarheid",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "coördinator",
+        "weerbaarheid",
+        "hybride",
+        "dreigingen",
+        "veiligheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 100",
+      "originalQuote": "Om de nationale weerbaarheid tegen hybride dreigingen te versterken door een integrale aanpak die zowel de overheid, maatschappelijk middenveld, het bedrijfsleven, kennisinstellingen en burgers omvat, komt er een Nationaal Coördinator Maatschappelijke Weerbaarheid."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-092",
+      "text": "Er komt een minister die verantwoordelijk is voor ontwikkelingssamenwerking, handel en beleidscoherentie.",
+      "summary": "Minister voor ontwikkelingssamenwerking en handel",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "minister",
+        "ontwikkelingssamenwerking",
+        "handel",
+        "beleidscoherentie",
+        "portefeuille"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 102",
+      "originalQuote": "Er komt een minister die verantwoordelijk is voor ontwikkelingssamenwerking, handel en beleidscoherentie."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-093",
+      "text": "Op het ministerie van Buitenlandse Zaken komt een afdeling die zich bezighoudt met conflictbeheersing en preventie. Er wordt een degelijk gefinancierde fragiele staten eenheid opgezet.",
+      "summary": "Afdeling conflictbeheersing en fragiele staten eenheid",
+      "theme": "BUITENLAND",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afdeling",
+        "conflictbeheersing",
+        "preventie",
+        "fragiele",
+        "staten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 102-103",
+      "originalQuote": "Op het ministerie van Buitenlandse Zaken komt een afdeling die zich bezighoudt met conflictbeheersing en preventie... Er wordt een degelijk gefinancierde fragiele staten eenheid opgezet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-094",
+      "text": "Schaffen de expatregeling (belastingkorting voor kennismigranten) af.",
+      "summary": "Afschaffing expatregeling",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "expatregeling",
+        "belastingkorting",
+        "kennismigranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 106-107",
+      "originalQuote": "De belastingkorting voor kennismigranten, de expatregeling, bouwen we af."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-095",
+      "text": "Verhogen het wettelijk minimumloon en verplichten werkgevers 85% van de mensen in vaste dienst te nemen.",
+      "summary": "Verhoging minimumloon en 85% vaste contracten",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minimumloon",
+        "vaste contracten",
+        "arbeidsvoorwaarden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 107",
+      "originalQuote": "verhogen we het wettelijk minimumloon en beperken we de flexibiliteit van uitzendcontracten. Ook verbieden we het 'doorlenen' van uitzendkrachten, verplichten we 85% van de mensen in vaste dienst te nemen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-096",
+      "text": "Verbieden doordetachering van derdelanders onder bepaalde inkomensgrens of met uitzendcontract.",
+      "summary": "Verbod doordetachering derdelanders",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "doordetachering",
+        "derdelanders",
+        "uitzendcontract",
+        "inkomensgrens"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 107",
+      "originalQuote": "We willen deze route inperken door deze detachering onder een bepaalde inkomensgrens of met een uitzendcontract te verbieden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-097",
+      "text": "Invoeren vergunningsplicht voor uitzendbureaus zo snel mogelijk.",
+      "summary": "Vergunningsplicht uitzendbureaus",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vergunningsplicht",
+        "uitzendbureaus",
+        "arbeidsmigratie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 107",
+      "originalQuote": "Er komt zo snel mogelijk een vergunningsplicht voor uitzendbureaus."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-098",
+      "text": "Schaffen de au pair-regeling af en voeren uitzendverbod in de vleessector in.",
+      "summary": "Afschaffing au pair-regeling en uitzendverbod vleessector",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "au pair-regeling",
+        "uitzendverbod",
+        "vleessector"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 108",
+      "originalQuote": "De au pair-regeling, waarbij veelvuldig misstanden voorkomen, schaffen we af en er komt een uitzendverbod in de vleessector."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-099",
+      "text": "Verplichten werkgevers mee te betalen aan huisvesting en onderwijs van arbeidsmigranten.",
+      "summary": "Werkgevers betalen mee aan huisvesting en onderwijs arbeidsmigranten",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "werkgevers",
+        "huisvesting",
+        "onderwijs",
+        "arbeidsmigranten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 108",
+      "originalQuote": "Daarom gaan werkgevers verplicht meebetalen aan huisvesting en onderwijs, zoals taalles, ook voor meekomende gezinsmigranten."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-100",
+      "text": "Voeren de Spreidingswet uit en vragen gemeenten een ijzeren voorraad aan opvangplekken te houden.",
+      "summary": "Uitvoering Spreidingswet en ijzeren voorraad opvangplekken",
+      "theme": "MIGRATIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "spreidingswet",
+        "opvangplekken",
+        "gemeenten",
+        "asielopvang"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 110",
+      "originalQuote": "We voeren de Spreidingswet uit en kiezen zo veel mogelijk voor kleinschalige en volwaardige opvang met een open uitstraling... We maken financieringsafspraken voor de lange termijn en vragen gemeenten een ijzeren voorraad aan opvangplekken te houden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-101",
+      "text": "Schaffen de lening bij DUO voor inburgeringscursussen af en bekostigen cursussen volledig door de overheid.",
+      "summary": "Afschaffing DUO-lening inburgering, volledige overheidsfinanciering",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "duo-lening",
+        "inburgeringscursussen",
+        "overheidsfinanciering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 110",
+      "originalQuote": "Cursussen en examens worden volledig door de overheid bekostigd: de lening bij DUO wordt afgeschaft."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-102",
+      "text": "Stellen asielzoekers die meer dan zes maanden in procedure zitten vrij om volledig aan het werk te gaan.",
+      "summary": "Werkrecht asielzoekers na zes maanden procedure",
+      "theme": "MIGRATIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "asielzoekers",
+        "werkrecht",
+        "procedure",
+        "zes maanden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 111",
+      "originalQuote": "Asielzoekers die meer dan zes maanden in de procedure zitten, moeten aan het werk kunnen. Als het perspectief op inwilliging eerder duidelijk is, mogen mensen binnen een maand volledig aan het werk."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-103",
+      "text": "Legaliseren softdrugs en breiden de lijst uit met MDMA.",
+      "summary": "Legalisatie softdrugs inclusief MDMA",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "softdrugs",
+        "mdma",
+        "legalisatie",
+        "drugsbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 115",
+      "originalQuote": "We legaliseren softdrugs en breiden de lijst van softdrugs uit met MDMA."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-104",
+      "text": "Invoeren helmplicht en minimumleeftijd voor fatbikes en inbeslagname bij ontbrekende verzekering.",
+      "summary": "Helmplicht en minimumleeftijd fatbikes",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "helmplicht",
+        "minimumleeftijd",
+        "fatbikes",
+        "verzekering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 116",
+      "originalQuote": "Voor fatbikes komt er een helmplicht en minimumleeftijd. Bestuurders staan voortaan net als bij auto's aan de lat om te laten zien dat het voertuig de Nederlandse weg op mag en verzekerd is. Anders volgt inbeslagname."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-105",
+      "text": "Schaffen het verbod op religieuze uitingen bij de politie af.",
+      "summary": "Afschaffing verbod religieuze uitingen politie",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "religieuze uitingen",
+        "politie",
+        "discriminatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 117",
+      "originalQuote": "Het verbod op religieuze uitingen bij de politie schaffen we af en we versterken de interne netwerken zoals Roze in Blauw."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-106",
+      "text": "Structurele investeringen in het gevangeniswezen met voorkeur voor kleinschalige gevangenissen met re-integratie en dagprogramma's.",
+      "summary": "Structurele investeringen gevangeniswezen, kleinschalig met re-integratie",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gevangeniswezen",
+        "investeringen",
+        "re-integratie",
+        "dagprogramma"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 119-120",
+      "originalQuote": "We investeren structureel in ons gevangeniswezen en rekenen af met de incidentenpolitiek van de afgelopen jaren. Kleinschalige gevangenissen hebben de voorkeur waarbij re-integratie en dagprogramma's niet mogen ontbreken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-107",
+      "text": "Slachtoffers krijgen spreekrecht bij OM-strafbeschikkingen en regels voor schadevergoeding worden vereenvoudigd.",
+      "summary": "Spreekrecht slachtoffers bij OM-strafbeschikkingen en vereenvoudiging schadevergoeding",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "slachtofferrechten",
+        "om-strafbeschikkingen",
+        "spreekrecht",
+        "schadevergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 119-120",
+      "originalQuote": "We geven slachtoffers voortaan ook spreekrecht bij OM-strafbeschikkingen. We kiezen voor ruimhartigheid bij schadevergoeding aan slachtoffers en nabestaanden en vereenvoudigen de regels voor schadevergoeding."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-108",
+      "text": "Stalking wordt volwaardig strafbaar zonder eerst aangifte nodig te hebben en psychisch geweld wordt apart strafbaar feit.",
+      "summary": "Stalking strafbaar zonder aangifte, psychisch geweld apart strafbaar",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stalking",
+        "strafbaar",
+        "psychisch geweld",
+        "aangifte"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 120",
+      "originalQuote": "Stalking maken we volwaardig strafbaar zonder dat eerst aangifte nodig is. Psychisch geweld en niet-fatale verwurging worden een apart strafbaar feit."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-109",
+      "text": "Nederlandse variant van Clare's Law invoeren waarmee mensen geweldsverleden van (ex-)partner kunnen navragen.",
+      "summary": "Nederlandse Clare's Law voor navragen geweldsverleden partner",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "clare's law",
+        "geweldsverleden",
+        "partner",
+        "navragen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 120",
+      "originalQuote": "GroenLinks-PvdA dat er met urgentie wordt gewerkt aan een Nederlandse variant van Clare's Law: een regeling waarmee mensen het geweldsverleden van een (ex-)partner kunnen navragen"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-110",
+      "text": "Democratische controle op uitvoeringsinstanties wordt versterkt met onafhankelijke klachtencommissies en periodieke burgerpanels.",
+      "summary": "Versterkte controle uitvoeringsinstanties met klachtencommissies en burgerpanels",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "democratische controle",
+        "uitvoeringsinstanties",
+        "klachtencommissies",
+        "burgerpanels"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 121-122",
+      "originalQuote": "Democratische controle op uitvoeringsinstanties als de Belastingdienst, het UWV, de IND en DUO wordt versterkt, met onafhankelijke klachtencommissies, periodieke burgerpanels en structurele rapportage aan het parlement."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-111",
+      "text": "Voor alle digitale overheidszaken moet een volwaardig niet-digitaal alternatief bestaan.",
+      "summary": "Niet-digitaal alternatief voor alle digitale overheidszaken verplicht",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale overheid",
+        "niet-digitaal alternatief",
+        "overheidszaken",
+        "toegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 122",
+      "originalQuote": "Voor alle overheidszaken die burgers digitaal kunnen regelen, moet een volwaardig niet-digitaal alternatief bestaan."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-112",
+      "text": "Verbod op discriminerende risicoprofielen en transparantie wordt wettelijk verplicht bij geautomatiseerde beoordeling.",
+      "summary": "Verbod discriminerende risicoprofielen en transparantie-eis geautomatiseerde beoordeling",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "risicoprofielen",
+        "discriminatie",
+        "transparantie",
+        "geautomatiseerde beoordeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 123",
+      "originalQuote": "De inzet van discriminerende risicoprofielen — zoals bij de Toeslagenaffaire — wordt verboden. Transparantie en uitlegbaarheid worden wettelijk verplicht bij iedere vorm van geautomatiseerde beoordeling."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-113",
+      "text": "Tweede Kamer wordt uitgebreid naar 250 zetels en krijgt meer inhoudelijke ondersteuning.",
+      "summary": "Uitbreiding Tweede Kamer naar 250 zetels met meer ondersteuning",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tweede kamer",
+        "250 zetels",
+        "uitbreiding",
+        "ondersteuning"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 124",
+      "originalQuote": "We breiden de Tweede Kamer uit naar 250 zetels. Daarnaast zorgen we voor meer inhoudelijke ondersteuning in de Tweede Kamer"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-114",
+      "text": "Maximum donatie aan politieke partijen wordt beperkt tot 20.000 euro en giften boven 1500 euro worden openbaar.",
+      "summary": "Maximum donatie politieke partijen 20.000 euro, openbaarmaking boven 1500 euro",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "donaties",
+        "politieke partijen",
+        "20.000 euro",
+        "openbaarmaking"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 125",
+      "originalQuote": "We beperken het maximum bedrag per gift op 20.000 euro. Giften boven de 1500 euro worden openbaar gemaakt"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-115",
+      "text": "Kiesgerechtigde leeftijd wordt verlaagd naar 16 jaar.",
+      "summary": "Kiesgerechtigde leeftijd naar 16 jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kiesgerechtigde leeftijd",
+        "16 jaar",
+        "stemrecht",
+        "jongeren"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 126",
+      "originalQuote": "We verlagen de kiesgerechtigde leeftijd naar 16 jaar"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-116",
+      "text": "Grondwettelijke toetsing wordt mogelijk waarbij burgers wetten kunnen laten toetsen aan de Grondwet.",
+      "summary": "Invoering grondwettelijke toetsing door rechters",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "grondwettelijke toetsing",
+        "rechters",
+        "grondwet",
+        "burgers"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 127",
+      "originalQuote": "We geven burgers het recht om een wet of de uitvoering van een wet te laten toetsen aan de Grondwet als zij het idee hebben dat hun klassieke of sociale grondrechten worden geschonden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-117",
+      "text": "Geen nieuwe vergunningen meer voor gaswinning uit kleine Groningse velden.",
+      "summary": "Verbod nieuwe gaswinvergunningen kleine Groningse velden",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gaswinning",
+        "groningen",
+        "vergunningen",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 128",
+      "originalQuote": "We verlenen geen nieuwe vergunningen voor gaswinning uit de kleine Groningse velden meer."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-118",
+      "text": "Gender wordt toegevoegd als grond aan het artikel over groepsbelediging.",
+      "summary": "Gender als grond toevoegen aan groepsbelediging",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gender",
+        "groepsbelediging",
+        "discriminatie",
+        "wetgeving"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 132",
+      "originalQuote": "We bestrijden (online) vrouwenhaat daarnaast door gender als grond toe te voegen aan het artikel over groepsbelediging."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-119",
+      "text": "Geslachtsregistratie op identiteitspapieren wordt afgeschaft, net als in Duitsland. Het wijzigen van geslacht in papieren wordt makkelijker gemaakt en de verplichte deskundigenverklaring hiervoor wordt afgeschaft.",
+      "summary": "Afschaffing geslachtsregistratie identiteitspapieren en verplichte deskundigenverklaring",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "geslachtsregistratie",
+        "identiteitspapieren",
+        "deskundigenverklaring",
+        "geslachtwijziging"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 133",
+      "originalQuote": "We schaffen onnodige geslachtsregistratie op identiteitspapieren af, net als in Duitsland. We maken het makkelijker om geslacht in je papieren te wijzigen. We schaffen de verplichte deskundigenverklaring voor het wijzigen van je geslacht in officiële documenten af."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-120",
+      "text": "Er komt een wettelijk verbod op niet-noodzakelijke medische ingrepen bij intersekse kinderen ter bescherming.",
+      "summary": "Wettelijk verbod niet-noodzakelijke medische ingrepen intersekse kinderen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wettelijk verbod",
+        "intersekse kinderen",
+        "medische ingrepen",
+        "bescherming"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 133",
+      "originalQuote": "We beschermen intersekse kinderen met een wettelijk verbod op niet-noodzakelijke medische ingrepen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-121",
+      "text": "Wettelijke erkenning van meerouderschap wordt ingevoerd. Regenbooggezinnen krijgen dezelfde vergoedingen voor vruchtbaarheidsbehandelingen als heterostellen.",
+      "summary": "Wettelijke erkenning meerouderschap en gelijke vergoedingen vruchtbaarheidsbehandelingen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "meerouderschap",
+        "wettelijke erkenning",
+        "regenbooggezinnen",
+        "vruchtbaarheidsbehandelingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 133",
+      "originalQuote": "We zorgen voor wettelijke erkenning van meerouderschap, en regenbooggezinnen krijgen dezelfde vergoedingen voor vruchtbaarheidsbehandelingen als heterostellen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-122",
+      "text": "Het VN-verdrag inzake de rechten voor personen met een handicap wordt volledig uitgevoerd en het Facultatieve Protocol wordt geratificeerd.",
+      "summary": "Volledige uitvoering VN-verdrag Handicap en ratificatie Facultatieve Protocol",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vn-verdrag",
+        "handicap",
+        "facultatieve protocol",
+        "ratificatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 133-134",
+      "originalQuote": "Het VN-verdrag inzake de rechten voor personen met een handicap voeren we daarom volledig uit en we ratificeren het Facultatieve Protocol."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-123",
+      "text": "Er komt een einde aan het tweederangs burgerschap van inwoners van Bonaire, Saba en Sint-Eustatius. Dit betekent invoering van een fatsoenlijk sociaal minimum op de eilanden.",
+      "summary": "Sociaal minimum invoeren op Bonaire, Saba en Sint-Eustatius",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sociaal minimum",
+        "bonaire",
+        "saba",
+        "sint-eustatius",
+        "tweederangs burgerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 134",
+      "originalQuote": "Er komt een eind aan het tweederangs burgerschap van de inwoners van Bonaire, Saba en Sint-Eustatius. Dit betekent onder andere dat er een fatsoenlijk sociaal minimum wordt ingevoerd op de eilanden"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-124",
+      "text": "Bevrijdingsdag (5 mei) en Keti Koti (1 juli) worden nationale feestdagen.",
+      "summary": "Bevrijdingsdag en Keti Koti worden nationale feestdagen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bevrijdingsdag",
+        "keti koti",
+        "nationale feestdagen",
+        "5 mei",
+        "1 juli"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 134",
+      "originalQuote": "Bevrijdingsdag (5 mei) en Keti Koti (1 juli) worden nationale feestdagen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-125",
+      "text": "De top van het bedrijfsleven mag voor maximaal zestig procent bestaan uit personen van hetzelfde gender in raden van commissarissen en bestuur.",
+      "summary": "Maximaal 60% zelfde gender in bedrijfstop",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bedrijfsleven",
+        "gender",
+        "commissarissen",
+        "bestuur",
+        "zestig procent"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 135",
+      "originalQuote": "De top van het bedrijfsleven – de raden van commissarissen en de raden van bestuur – mag voor maximaal zestig procent bestaan uit personen van hetzelfde gender."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-126",
+      "text": "Kinderopvang, voorschool, peuterspeelzaal en buitenschoolse opvang worden een publieke voorziening en gratis voor alle kinderen. De kinderopvangtoeslag verdwijnt.",
+      "summary": "Gratis publieke kinderopvang voor alle kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kinderopvang",
+        "publieke voorziening",
+        "gratis",
+        "kinderopvangtoeslag",
+        "voorschool"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 138",
+      "originalQuote": "De kinderopvang, de voorschool, peuterspeelzaal en de buitenschoolse opvang worden een publieke voorziening, en dus gratis voor alle kinderen. De kinderopvangtoeslag verdwijnt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-127",
+      "text": "De leerplichtige leeftijd wordt verlaagd naar vier jaar zodat kinderen eerder starten met formeel onderwijs.",
+      "summary": "Leerplicht vanaf vier jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leerplicht",
+        "vier jaar",
+        "formeel onderwijs",
+        "leerplichtige leeftijd"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 139",
+      "originalQuote": "We verlagen de leerplichtige leeftijd naar vier jaar zodat kinderen eerder starten met formeel onderwijs."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-128",
+      "text": "Er komt één landelijke doorstroomtoets zodat alle kinderen op dezelfde manier worden getoetst. Ook voor het mbo wordt toetsing geüniformeerd.",
+      "summary": "Één landelijke doorstroomtoets voor alle kinderen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "doorstroomtoets",
+        "landelijk",
+        "toetsing",
+        "mbo",
+        "geüniformeerd"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 141",
+      "originalQuote": "Er zijn op dit moment te grote verschillen in uitkomst tussen de verschillende doorstroomtoetsen. We kiezen voor één landelijke doorstroomtoets, zodat alle kinderen op dezelfde manier worden getoetst. Ook voor het mbo wordt toetsing geüniformeerd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-129",
+      "text": "Vrijwillige ouderbijdragen worden afgeschaft. Scholen ontvangen bekostiging voor extra activiteiten zoals schoolreisjes.",
+      "summary": "Afschaffing vrijwillige ouderbijdragen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ouderbijdragen",
+        "afschaffing",
+        "bekostiging",
+        "schoolreisjes",
+        "extra activiteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 143",
+      "originalQuote": "Door hoge vrijwillige ouderbijdragen te vragen, is niet elke school toegankelijk voor ieder kind. Daarom schaffen we deze af. Scholen ontvangen bekostiging voor extra activiteiten zoals schoolreisjes."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-130",
+      "text": "Het wettelijke Bindend Studie Advies wordt afgeschaft. In plaats daarvan komt er een mogelijkheid voor onderwijsinstellingen om een niet-bindend studieadvies te geven.",
+      "summary": "Afschaffing Bindend Studie Advies",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bindend studie advies",
+        "afschaffing",
+        "niet-bindend",
+        "studieadvies",
+        "onderwijsinstellingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 144",
+      "originalQuote": "Om de stap van het voortgezet onderwijs naar het vervolgonderwijs makkelijker te maken, schaffen we het wettelijke Bindend Studie Advies af. In plaats daarvan komt er een mogelijkheid voor onderwijsinstellingen om een niet-bindend studieadvies te geven."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-131",
+      "text": "Onderwijs wordt kosteloos voor iedereen die leerplichtig is of nog geen startkwalificatie heeft, inclusief het MBO.",
+      "summary": "Kosteloos onderwijs voor leerplichtigen en MBO",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "kosteloos onderwijs",
+        "leerplicht",
+        "startkwalificatie",
+        "mbo",
+        "kansengelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 148",
+      "originalQuote": "Wij maken onderwijs kosteloos voor iedereen die leerplichtig is of nog geen startkwalificatie heeft, inclusief het MBO."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-132",
+      "text": "Mbo krijgt meer regelvrijheid om opleidingen flexibeler vorm te geven en beter aan te sluiten bij arbeidsmarktbehoeften. Samen met mbo-instellingen wordt gewerkt aan een kwaliteitsimpuls voor het mbo-onderwijs gericht op betere basisvaardigheden.",
+      "summary": "Meer regelvrijheid voor mbo en kwaliteitsimpuls voor betere basisvaardigheden",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mbo",
+        "regelvrijheid",
+        "opleidingen",
+        "arbeidsmarkt",
+        "kwaliteitsimpuls",
+        "basisvaardigheden"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "Het mbo heeft meer regelvrijheid nodig om opleidingen flexibeler vorm te geven. Zo kan er meer worden aangesloten bij de praktijk, en de snel veranderende arbeidsmarktbehoeften. Samen met mbo-instellingen werken we aan kwaliteitsimpuls voor het mbo onderwijs gericht op betere basisvaardigheden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-133",
+      "text": "De financiering van het onderwijs op universiteiten en hogescholen wordt minder afhankelijk van het aantal uitgereikte diploma's. Er komt meer zekerheid en stabiliteit in financiering zodat vaste contracten sneller kunnen worden aangeboden.",
+      "summary": "Financiering hoger onderwijs minder afhankelijk van diplomaaantal, meer stabiliteit",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "financiering",
+        "universiteiten",
+        "hogescholen",
+        "diploma",
+        "contracten",
+        "stabiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "De financiering van het onderwijs op universiteiten en hogescholen wordt minder afhankelijk van het aantal uitgereikte diploma's. Er komt meer zekerheid en stabiliteit in financiering, zodat universiteiten en hogescholen sneller vaste contracten kunnen aanbieden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-134",
+      "text": "Academische vrijheid moet wettelijk beter worden beschermd om onderzoekers vrijheid te geven voor onderzoek en onderwijs zonder externe druk.",
+      "summary": "Wettelijke bescherming academische vrijheid wordt versterkt",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "academische",
+        "vrijheid",
+        "wettelijk",
+        "bescherming",
+        "onderzoekers",
+        "onderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "Die vrijheid staat onder druk en moet daarom wettelijk beter worden beschermd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-135",
+      "text": "Het inkomen voor mbo-, hbo- en wo-studenten wordt verhoogd. Minderjarige mbo-studenten die niet thuis wonen krijgen een basisbeurs. Een hogere compensatie voor de leenstelselgeneratie wordt nagestreefd.",
+      "summary": "Hoger inkomen studenten, basisbeurs minderjarige mbo'ers, meer compensatie leningen",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisbeurs",
+        "studenten",
+        "inkomen",
+        "compensatie",
+        "leenstelsel",
+        "minderjarig"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "We verhogen daarom het inkomen voor mbo-, hbo- en wo-studenten. Minderjarige mbo-studenten die niet meer thuis wonen krijgen ook een basisbeurs. Wij vinden deze uitgekeerde compensatie nog niet voldoende en blijven ons daarom inzetten voor een hogere tegemoetkoming."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-136",
+      "text": "Studieschuld mag geen belemmering zijn bij hypotheekaanvraag. Hypotheekverstrekkers krijgen meer ruimte voor maatwerk. Extra aflossing verlaagt maandlasten en vergroot hypotheekruimte.",
+      "summary": "Studieschuld geen hypotheekbelemmering, meer maatwerk verstrekkers",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "studieschuld",
+        "hypotheek",
+        "maatwerk",
+        "aflossing",
+        "maandlasten",
+        "leenruimte"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "We zorgen daarnaast dat de studieschuld geen belemmering mag zijn bij het aangaan van een hypotheek en dat hypotheekverstrekkers daarvoor meer ruimte krijgen voor maatwerk."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-137",
+      "text": "Duidelijke richtlijnen voor onderwijsinstellingen over het faciliteren van medezeggenschap. Bevoegdheden van medezeggenschapsraden en opleidingscommissies worden uitgebreid, verantwoordingsplichten van besturen aangescherpt.",
+      "summary": "Richtlijnen medezeggenschap, uitbreiding bevoegdheden raden en commissies",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "medezeggenschap",
+        "richtlijnen",
+        "bevoegdheden",
+        "medezeggenschapsraden",
+        "opleidingscommissies",
+        "besturen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "Er komt een duidelijke richtlijn voor onderwijsinstellingen, zowel in het primair, voortgezet en vervolgonderwijs, hoe zij medezeggenschap actief moeten faciliteren. We breiden de bevoegdheden van medezeggenschapsraden en opleidingscommissies uit en scherpen de verantwoordingsplichten van besturen aan."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-138",
+      "text": "Stagiairs krijgen een stagevergoeding van 750 euro per maand bij fulltime dienstverband, ongeacht opleidingsniveau. Hun rechten worden verduidelijkt.",
+      "summary": "Stagevergoeding 750 euro per maand fulltime, verduidelijking rechten stagiairs",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stagevergoeding",
+        "stagiairs",
+        "fulltime",
+        "dienstverband",
+        "rechten",
+        "opleidingsniveau"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "Stagiairs verdienen ongeacht hun opleidingsniveau een eerlijke stagevergoeding van 750 euro per maand bij fulltime dienstverband. We verduidelijken hun rechten zodat ze niet tussen onderwijs- en arbeidswetgeving in vallen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-139",
+      "text": "Harder optreden tegen stagediscriminatie. Stagebedrijven die discrimineren verliezen hun erkenning. Verplichte stagematching op onderwijsinstellingen waar studenten stageplaatsen krijgen toegewezen.",
+      "summary": "Aanpak stagediscriminatie, verlies erkenning discriminerende bedrijven, verplichte matching",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "stagediscriminatie",
+        "erkenning",
+        "stagematching",
+        "onderwijsinstellingen",
+        "toewijzing",
+        "studenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149",
+      "originalQuote": "Er moet harder worden opgetreden tegen stagediscriminatie. Stagebedrijven die discrimineren verliezen hun erkenning. Er wordt op onderwijsinstellingen verplicht gewerkt met stagematching, waar studenten een stageplek krijgen toegewezen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-140",
+      "text": "Een leerrecht voor iedere Nederlander voor om- en bijscholing komt er. In samenwerking met het bedrijfsleven zorgt de overheid voor een ontwikkelbudget voor opleidingen en cursussen.",
+      "summary": "Leerrecht voor alle Nederlanders, ontwikkelbudget voor scholing",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leerrecht",
+        "bijscholing",
+        "ontwikkelbudget",
+        "bedrijfsleven",
+        "opleidingen",
+        "cursussen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 149-150",
+      "originalQuote": "Er komt een leerrecht voor iedere Nederlander voor om- en bijscholing. In samenwerking met het bedrijfsleven zorgt de overheid voor een ontwikkelbudget. Zo kan het hele werkzame leven ingezet worden op het volgen van opleidingen en cursussen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-141",
+      "text": "Brancheopleidingen voor mensen met een beperking worden erkend en bekostigd zodat zij ook diploma's of certificaten kunnen halen.",
+      "summary": "Erkenning en bekostiging brancheopleidingen voor mensen met beperking",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "brancheopleidingen",
+        "beperking",
+        "erkenning",
+        "bekostiging",
+        "diploma",
+        "certificaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 150",
+      "originalQuote": "We erkennen en bekostigen brancheopleidingen voor mensen met een beperking, zodat zij ook een diploma of certificaat kunnen halen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-142",
+      "text": "Samen met gemeenten wordt gezorgd dat mensen dicht in hun buurt cursussen kunnen volgen om te leren lezen, rekenen en digitaal op weg te komen voor het terugdringen van laaggeletterdheid.",
+      "summary": "Cursussen lezen, rekenen en digitale vaardigheden dichtbij voor laaggeletterdheid",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "laaggeletterdheid",
+        "cursussen",
+        "lezen",
+        "rekenen",
+        "digitaal",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 150",
+      "originalQuote": "Samen met de gemeenten zorgen we er voor dat mensen dicht in hun buurt een goede cursus kunnen volgen om te leren lezen, rekenen en digitaal op weg te komen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-143",
+      "text": "Het eigen risico wordt stapsgewijs afgeschaft. Het vrijwillig eigen risico verdwijnt helemaal. Een nieuw plan komt er om het eigen risico te verlagen waardoor ook de zorgpremie omlaag kan.",
+      "summary": "Stapsgewijze afschaffing eigen risico, plan voor verlaging en lagere zorgpremie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigenrisico",
+        "afschaffing",
+        "zorgpremie",
+        "verlaging",
+        "vrijwillig",
+        "plan"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 152",
+      "originalQuote": "We schaffen het eigen risico stapsgewijs af. Het vrijwillig eigen risico verdwijnt helemaal. Daarom komen we met een nieuw plan om het eigen risico te verlagen, waardoor ook de zorgpremie omlaag kan."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-144",
+      "text": "De zorg wordt anders gefinancierd waarbij rijkste Nederlanders meer betalen, middenklasse minder. Minder premiebetaling, meer collectieve financiering. De zorgpremie kan omlaag.",
+      "summary": "Andere zorgfinanciering: rijken betalen meer, middenklasse minder, lagere premie",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "zorgfinanciering",
+        "zorgpremie",
+        "collectief",
+        "middenklasse",
+        "premiebetaling",
+        "herverdeiling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 152",
+      "originalQuote": "We gaan de zorg op een andere manier financieren. Dat betekent dat de rijkste Nederlanders meer gaan betalen, de middenklasse minder. Mensen gaan minder premies betalen en we financieren een groter deel collectief. Met ons plan kan de zorgpremie omlaag."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-145",
+      "text": "Brillen voor kinderen en spraakcomputers komen in het basispakket. Tandarts en fysiotherapeut worden weer vergoed uit het basispakket. Vergoeding aan fysiotherapeuten wordt verhoogd.",
+      "summary": "Uitbreiding basispakket met brillen kinderen, spraakcomputers, tandarts, fysio",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basispakket",
+        "brillen",
+        "spraakcomputers",
+        "tandarts",
+        "fysiotherapeut",
+        "vergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 152",
+      "originalQuote": "Brillen voor kinderen en spraakcomputers komen in het basispakket. Een bezoek aan de tandarts of de fysiotherapeut wordt weer vergoed uit het basispakket. En we verhogen de vergoeding aan fysiotherapeuten om te voorkomen dat jonge fysiotherapeuten stoppen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-146",
+      "text": "Acute zorg wordt gefinancierd op basis van beschikbaarheid in plaats van per handeling. Verschraling zorgvoorzieningen wordt tegengegaan, behoud van streekziekenhuizen wordt nagestreefd.",
+      "summary": "Acute zorg financiering op beschikbaarheid, behoud streekziekenhuizen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "acute",
+        "zorg",
+        "financiering",
+        "beschikbaarheid",
+        "streekziekenhuizen",
+        "zorgvoorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 153",
+      "originalQuote": "De acute zorg gaan we financieren op basis van beschikbaarheid en niet langer per verrichte handeling. We gaan de verschraling van zorgvoorzieningen actief tegen en zetten in op het behoud van streekziekenhuizen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-147",
+      "text": "Medisch specialisten komen in loondienst. Er komt een maximum aan salarissen in de zorg dat geldt voor specialisten, bestuurders en winsten van aandeelhouders.",
+      "summary": "Medisch specialisten in loondienst, salaris- en winstmaximum in zorg",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "medisch",
+        "specialisten",
+        "loondienst",
+        "salaris",
+        "maximum",
+        "bestuurders"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 154",
+      "originalQuote": "Medisch specialisten komen in loondienst en er komt een maximum aan het salaris dat je kunt verdienen. Dat maximum geldt ook voor salarissen en winsten van bestuurders en aandeelhouders in de zorg."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-148",
+      "text": "Het winstverbod in de zorg wordt aangescherpt zodat zorggeld daadwerkelijk naar zorg gaat en niet meer naar investeerders zoals private equity.",
+      "summary": "Aanscherping winstverbod zorg tegen private equity en andere investeerders",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstverbod",
+        "zorg",
+        "aanscherping",
+        "investeerders",
+        "private",
+        "equity"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 155",
+      "originalQuote": "We scherpen daarom het winstverbod in de zorg aan. Zo gaat geld dat bedoeld is voor zorg, daadwerkelijk naar de zorg en niet meer naar investeerders zoals private equity."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-149",
+      "text": "Toezichthouders krijgen meer mogelijkheden om overnames in de zorg te stoppen als het publieke belang in het geding komt, zoals prijs en kwaliteit van zorg.",
+      "summary": "Meer bevoegdheden toezichthouders om zorgovernames te stoppen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "toezichthouders",
+        "overnames",
+        "zorg",
+        "publiek",
+        "belang",
+        "kwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 155",
+      "originalQuote": "De toezichthouders krijgen meer mogelijkheden om overnames in de zorg te stoppen als het publieke belang, zoals de prijs en de kwaliteit van zorg, in het geding komt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-150",
+      "text": "Zorggeld wordt teruggevorderd als zorgaanbieders slechte zorg verlenen, regels overtreden of zichzelf verrijken via excessieve winsten.",
+      "summary": "Terugvordering zorggeld bij slechte zorg, regelovertreding of zelfverrijking",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "terugvordering",
+        "zorggeld",
+        "zorgaanbieders",
+        "regelovertreding",
+        "verrijking",
+        "winsten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 155",
+      "originalQuote": "We willen zorggeld terug vorderen als zorgaanbieders slechte zorg verlenen, regels overtreden, of zichzelf verrijken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-151",
+      "text": "Per regio krijgt één verzekeraar de regie en maakt afspraken met zorgaanbieders. Zij bieden één of twee overzichtelijke basisverzekeringen aan in plaats van het huidige oerwoud aan zorgpolissen.",
+      "summary": "Één verzekeraar per regio met regie, maximum twee overzichtelijke basisverzekeringen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "verzekeraar",
+        "regio",
+        "regie",
+        "basisverzekeringen",
+        "zorgpolissen",
+        "overzichtelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 156",
+      "originalQuote": "Per regio krijgt één verzekeraar de regie en maakt afspraken met zorgaanbieders. Zij bieden één of twee overzichtelijke basisverzekeringen aan, in plaats van het huidige oerwoud aan zorgpolissen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-152",
+      "text": "Er komt een grens aan de wettelijke hoeveelheid suiker in producten als onderdeel van de preventieaanpak voor gezondheid.",
+      "summary": "Wettelijke grens aan hoeveelheid suiker in producten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "suiker",
+        "wettelijk",
+        "grens",
+        "producten",
+        "preventie",
+        "gezondheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 157",
+      "originalQuote": "Er komt een grens aan de wettelijke hoeveelheid suiker in producten."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-153",
+      "text": "Gemeenten worden in staat gesteld te zorgen voor voldoende sportfaciliteiten en de kans om een zwemdiploma A te halen als basisvoorziening. Gelijk tarief voor aangepast zwemonderwijs voor kinderen met beperking.",
+      "summary": "Voldoende sportfaciliteiten, zwemdiploma A als basisvoorziening, gelijk tarief aangepast zwemmen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "sportfaciliteiten",
+        "zwemdiploma",
+        "basisvoorziening",
+        "aangepast",
+        "zwemonderwijs",
+        "tarief"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 158",
+      "originalQuote": "We stellen gemeenten in staat om te zorgen voor voldoende sportfaciliteiten en de kans om een zwemdiploma A te halen. Dat is een basisvoorziening. Er komt een gelijk tarief voor aangepast zwemonderwijs voor kinderen met een beperking."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-154",
+      "text": "Op iedere school wordt de gymles weer gegeven door een bevoegde leraar.",
+      "summary": "Bevoegde leraar voor gymles op alle scholen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gymles",
+        "bevoegd",
+        "leraar",
+        "scholen",
+        "onderwijs",
+        "sport"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 158",
+      "originalQuote": "Op iedere school wordt de gymles weer gegeven door een bevoegde leraar."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-155",
+      "text": "Verbod op wegwerpvapes, accijnzen gaan omhoog, rookvrije zones worden uitgebreid, illegale import wordt harder bestraft. Tabaksindustrie krijgt speciale heffing voor rookschade.",
+      "summary": "Verbod wegwerpvapes, hogere accijnzen, uitbreiding rookvrije zones, speciale heffing tabak",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wegwerpvapes",
+        "verbod",
+        "accijnzen",
+        "rookvrij",
+        "tabaksindustrie",
+        "heffing"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 158",
+      "originalQuote": "We strijden tegen de tabaksindustrie en voor een verbod op wegwerpvapes. Accijnzen gaan omhoog en rookvrije zones worden uitgebreid. Illegale import wordt harder bestraft. De tabaksindustrie wordt met een speciale heffing verplicht mee te betalen aan de schade die roken veroorzaakt."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-156",
+      "text": "Anticonceptie komt in het basispakket. Soa-test bij huisarts wordt uitgezonderd van eigen risico. Hiv-preventiepil PrEP en bijbehorende zorg worden laagdrempelig verstrekt en volledig vergoed.",
+      "summary": "Anticonceptie in basispakket, soa-test buiten eigen risico, PrEP volledig vergoed",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "anticonceptie",
+        "basispakket",
+        "soa-test",
+        "eigenrisico",
+        "prep",
+        "vergoeding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 158",
+      "originalQuote": "Anticonceptie komt in het basispakket. We zonderen de soa-test bij de huisarts uit van het eigen risico en investeren in de seksuele gezondheidszorg bij de GGD. Hiv-preventiepil PrEP en bijbehorende zorg worden laagdrempelig verstrekt en volledig vergoed"
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-157",
+      "text": "De afbouw van gesloten jeugdzorg wordt voortgezet met nagenoeg een stop in 2030. Daarnaast wordt ingezet op de bouw van kleinschalige, open alternatieven.",
+      "summary": "Afbouw gesloten jeugdzorg met nagenoeg stop in 2030, bouw open alternatieven",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gesloten",
+        "jeugdzorg",
+        "afbouw",
+        "stop",
+        "kleinschalig",
+        "alternatieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 160",
+      "originalQuote": "We zetten de afbouw van gesloten jeugdzorg voort met nagenoeg een stop in 2030. Verder zetten we in de tussentijd volop in op de bouw van kleinschalige, open alternatieven die aansluiten bij de behoeftes van kinderen en jongeren die tijdelijk niet thuis kunnen of willen wonen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-158",
+      "text": "Geen eigen bijdrage in de jeugdzorg wordt ingevoerd. Het kabinetsplan voor een eigen bijdrage wordt geschrapt.",
+      "summary": "Geen eigen bijdrage jeugdzorg, schrapping kabinetsplan",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "eigen",
+        "bijdrage",
+        "jeugdzorg",
+        "schrapping",
+        "kabinet",
+        "plan"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 161",
+      "originalQuote": "Kinderen die hulp nodig hebben, moeten die hulp gewoon krijgen. Dat mag niet afhankelijk zijn van het inkomen van ouders. Die kosten betalen we samen. We zetten een streep door het kabinetsplan een eigen bijdrage in te voeren."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-159",
+      "text": "De leeftijdsgrens van 18 jaar wordt versoepeld zodat jongeren tot minstens 21 jaar gebruik kunnen maken van jeugdhulp die ze al hebben, als ze dat zelf willen.",
+      "summary": "Versoepeling leeftijdsgrens jeugdzorg tot minstens 21 jaar bij bestaande hulp",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "leeftijdsgrens",
+        "versoepeling",
+        "jeugdhulp",
+        "jaar",
+        "bestaand",
+        "hulp"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 161",
+      "originalQuote": "Daarom versoepelen we de leeftijdsgrens van 18 jaar, zodat jongeren nog tot minstens 21 jaar gebruik kunnen maken van jeugdhulp die ze al hebben, als ze dat zelf willen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-160",
+      "text": "Post-covid expertisecentra continueren, kennis bij instanties vergroten en adequaat sociaal vangnet zorgen voor post-covid patiënten.",
+      "summary": "Post-covid expertisecentra continueren en sociaal vangnet versterken",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "post-covid",
+        "expertisecentra",
+        "sociaal vangnet",
+        "zorgkwaliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 161",
+      "originalQuote": "We continueren de post-covid expertisecentra, vergroten de kennis bij instanties en zorgen voor een adequaat sociaal vangnet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-161",
+      "text": "Wachtlijsten transzorg beperken, poortwachtersrol verminderen en landelijk platform transgenderzorg structureel ondersteunen.",
+      "summary": "Wachtlijsten transzorg beperken en platform structureel steunen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "transzorg",
+        "wachtlijsten",
+        "transgenderzorg",
+        "ervaringsdeskundigen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 161",
+      "originalQuote": "Het landelijk platform transgenderzorg moet structureel worden gesteund zodat zij aanbieders van transgenderzorg kunnen versterken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-162",
+      "text": "Financiering van zorginitiatieven voor mensen met ernstige meervoudige beperking verbeteren en meer inspectiecapaciteit creëren.",
+      "summary": "Financiering zorg mensen met beperking verbeteren",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "beperking",
+        "zorgfinanciering",
+        "ouderinitiatieven",
+        "inspectiecapaciteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 161",
+      "originalQuote": "Daarom verbeteren we de financiering van zorginitiatieven voor deze groep."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-163",
+      "text": "Abortus uit Wetboek van Strafrecht halen en recht op abortus in grondwet verankeren.",
+      "summary": "Abortus uit strafrecht en in grondwet verankeren",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "abortus",
+        "wetboek van strafrecht",
+        "grondwet",
+        "hulpverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 162",
+      "originalQuote": "Abortus verdwijnt uit het Wetboek van Strafrecht. Het recht op abortus verankeren we in de grondwet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-164",
+      "text": "Euthanasie uit Wetboek van Strafrecht halen voor mensen met ondraaglijk en uitzichtloos lijden.",
+      "summary": "Euthanasie uit strafrecht halen",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "euthanasie",
+        "wetboek van strafrecht",
+        "zelfbeschikking",
+        "levenseinde"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 162",
+      "originalQuote": "Daarom halen we euthanasie uit het Wetboek van Strafrecht."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-165",
+      "text": "Werknemers krijgen recht op mantelzorg met vergoeding en kortdurende mantelzorgverlof wordt uitgebreid.",
+      "summary": "Recht op mantelzorg met vergoeding en verlofuitbreiding",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "mantelzorg",
+        "vergoeding",
+        "mantelzorgverlof",
+        "werknemersrechten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 162",
+      "originalQuote": "Werknemers krijgen recht op mantelzorg met een vergoeding, en het kortdurende mantelzorgverlof wordt uitgebreid."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-166",
+      "text": "Bemoeizorg structureel beschikbaar maken in alle gemeenten en landelijk bekostigen.",
+      "summary": "Bemoeizorg structureel in alle gemeenten bekostigen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bemoeizorg",
+        "gemeenten",
+        "landelijke bekostiging",
+        "verward gedrag"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 162",
+      "originalQuote": "Bemoeizorg moet structureel beschikbaar zijn in alle gemeenten en landelijk worden bekostigd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-167",
+      "text": "Publieke en non-profitinstellingen krijgen voorrang bij nieuwe zorgaanvragen en omzetplafonds palliatieve zorg afschaffen.",
+      "summary": "Voorrang publieke zorg en omzetplafonds palliatieve zorg afschaffen",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ouderenzorg",
+        "marktwerking",
+        "palliatieve zorg",
+        "omzetplafonds"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 162",
+      "originalQuote": "Publieke en non-profitinstellingen krijgen voorrang bij nieuwe zorgaanvragen. Ook schaffen we de omzetplafonds in de palliatieve zorg af."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-168",
+      "text": "Meer levensloopbestendige woningen bouwen en financiering burgerinitiatieven zorgzame buurten structureel verankeren.",
+      "summary": "Levensloopbestendige woningen en structurele financiering zorgzame buurten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "levensloopbestendig",
+        "ouderenhuisvesting",
+        "zorgzame buurten",
+        "wijkverpleegkundige"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 162-163",
+      "originalQuote": "Financiering voor vrijwillige burgerinitiatieven voor zorgzame buurten wordt zowel landelijk als lokaal structureel verankerd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-169",
+      "text": "Uitbreiding verpleeghuisplekken voortzetten en kwaliteit scherp in de gaten houden.",
+      "summary": "Uitbreiding verpleeghuisplekken voortzetten",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "verpleeghuizen",
+        "ouderenzorg",
+        "kwaliteitstoezicht",
+        "tweedeling"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 163",
+      "originalQuote": "De uitbreiding van verpleeghuisplekken zetten we door en we houden de kwaliteit scherp in de gaten."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-170",
+      "text": "Fatsoenlijk sociaal minimum invoeren op BES-eilanden en kosten levensonderhoud verlagen.",
+      "summary": "Sociaal minimum BES-eilanden invoeren",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "bes-eilanden",
+        "sociaal minimum",
+        "levensonderhoud",
+        "burgerschap"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 163",
+      "originalQuote": "Dit betekent onder andere dat er een fatsoenlijk sociaal minimum wordt ingevoerd op de eilanden, de kosten van het levensonderhoud worden verlaagd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-171",
+      "text": "Onafhankelijke arbiter voor financiële verhoudingen tussen overheidslagen instellen voor geschillen.",
+      "summary": "Onafhankelijke arbiter financiële verhoudingen overheid",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "overheidslagen",
+        "financiële verhoudingen",
+        "arbiter",
+        "geschillen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 164",
+      "originalQuote": "Daarom geven we de minister van Binnenlandse Zaken meer bevoegdheden en zorgen we voor een onafhankelijke arbiter voor financiële verhoudingen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-172",
+      "text": "Lelylijn realiseren voor betere bereikbaarheid Groningen per openbaar vervoer.",
+      "summary": "Lelylijn realiseren voor bereikbaarheid Groningen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "lelylijn",
+        "openbaar vervoer",
+        "groningen",
+        "bereikbaarheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 164",
+      "originalQuote": "Met de Lelylijn komt er een betere bereikbaarheid per openbaar vervoer."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-173",
+      "text": "Intercity-verbinding Utrecht-Flevoland realiseren en OostvaardersWold als ecologische verbindingszone.",
+      "summary": "Intercity-verbinding Utrecht en OostvaardersWold realiseren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "intercity",
+        "flevoland",
+        "oostvaarderswold",
+        "ecologische verbindingszone"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 164-165",
+      "originalQuote": "We realiseren het OostvaardersWold, zodat een ecologische verbindingszone ontstaat tussen de Oostvaardersplassen en het Horsterwold."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-174",
+      "text": "Bachelor Frysk op universiteit terugbrengen en Friese taal in onderwijs versterken.",
+      "summary": "Bachelor Frysk op universiteit terugbrengen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bachelor frysk",
+        "universiteit",
+        "friese taal",
+        "basisonderwijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 165",
+      "originalQuote": "Daarnaast komt er door onze inzet weer een bachelor Frysk op de universiteit."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-175",
+      "text": "Verbreding A27 niet laten doorgaan om landschap Amelisweerd te behouden.",
+      "summary": "A27-verbreding tegenhouden voor behoud Amelisweerd",
+      "theme": "KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "a27",
+        "amelisweerd",
+        "landschap",
+        "ecologische verbinding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 166",
+      "originalQuote": "In Utrecht gaat de verbreding van de A27 niet door. Daarmee behouden we het landschap Amelisweerd."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-176",
+      "text": "Noordelijke Randweg Utrecht ondergronds aanleggen voor leefbaarheid Overvecht.",
+      "summary": "Noordelijke Randweg Utrecht ondergronds aanleggen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "noordelijke randweg",
+        "utrecht",
+        "ondergronds",
+        "overvecht"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 166",
+      "originalQuote": "We leggen de Noordelijke Randweg Utrecht ondergronds aan voor de leefbaarheid van Overvecht."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-177",
+      "text": "Utrecht krijgt 24-uurs OV-netwerk vergelijkbaar met metro.",
+      "summary": "24-uurs OV-netwerk Utrecht invoeren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "24-uurs",
+        "ov-netwerk",
+        "utrecht",
+        "metro"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 166",
+      "originalQuote": "Utrecht krijgt een 24-uurs OV-netwerk vergelijkbaar met de metro."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-178",
+      "text": "Spoorverbindingen Limburg naar Düsseldorf, Hamont en Aachen realiseren en Maaslijn volledig verdubbelen.",
+      "summary": "Spoorverbindingen Limburg uitbreiden en Maaslijn verdubbelen",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "spoorverbindingen",
+        "limburg",
+        "düsseldorf",
+        "maaslijn"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 167",
+      "originalQuote": "Limburg krijgt spoorverbindingen naar Düsseldorf, Hamont en Aachen. En de Maaslijn wordt volledig verdubbeld."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-179",
+      "text": "Limburgse taal erkennen op hoogste niveau onder Europees Handvest regionale en minderheidstalen.",
+      "summary": "Limburgse taal hoogste niveau Europees Handvest erkenning",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "limburgse taal",
+        "europees handvest",
+        "minderheidstalen",
+        "erkenning"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 167",
+      "originalQuote": "Verder wordt de Limburgse taal erkend op het hoogste niveau onder het Europees Handvest voor regionale en minderheidstalen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-180",
+      "text": "Huidige ledenomroepen laten opgaan in vier omroephuizen en NPO krijgt stabiele financiering voor acht jaar.",
+      "summary": "Omroephervorming naar vier omroephuizen en NPO acht jaar financiering",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "omroephervorming",
+        "ledenomroepen",
+        "npo",
+        "financiering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 169",
+      "originalQuote": "De huidige ledenomroepen gaan op in vier omroephuizen. De NPO krijgt stabiele financiering door het budget voor acht in plaats van voor vijf jaar vast te leggen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-181",
+      "text": "Externe toezichthouder zoals Commissariaat voor de Media gaat over toelating nieuwe omroepen in plaats van bewindspersoon.",
+      "summary": "Externe toezichthouder voor omroeptoelating in plaats van bewindspersoon",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "toezichthouder",
+        "omroeptoelating",
+        "commissariaat voor de media",
+        "onafhankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 169",
+      "originalQuote": "Een externe toezichthouder, zoals het Commissariaat voor de Media, wordt daarvoor aangesteld."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-182",
+      "text": "Bestuurders omroephuizen mogen maximaal twee termijnen van vier jaar aanblijven en niet overstappen naar ander omroephuis.",
+      "summary": "Bestuurders omroep maximaal twee termijnen vier jaar",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bestuurders",
+        "omroephuizen",
+        "termijnlimiet",
+        "overstappen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 169",
+      "originalQuote": "Bestuurders van omroephuizen mogen maximaal twee termijnen van vier jaar aanblijven. Overstappen naar een ander omroephuis is niet mogelijk."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-183",
+      "text": "Reclamezendtijd publieke omroep terugbrengen tot maximaal 5% van totale zendtijd en geen reclame rond kinderprogramma's.",
+      "summary": "Reclamezendtijd publieke omroep maximaal 5% en geen reclame kinderprogramma's",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "reclamezendtijd",
+        "publieke omroep",
+        "kinderprogramma's",
+        "commercialisering"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 170",
+      "originalQuote": "De reclamezendtijd op de publieke omroep wordt teruggebracht tot maximaal 5% van de totale zendtijd. Rondom de kinderprogramma's wordt helemaal geen reclame meer uitgezonden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-184",
+      "text": "Bibliotheekabonnement gratis maken en wettelijk vastleggen als vaste voorziening in gemeenten.",
+      "summary": "Gratis bibliotheekabonnement wettelijk vastleggen",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bibliotheekabonnement",
+        "gratis",
+        "wettelijke verankering",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 171",
+      "originalQuote": "daarom maken we het bibliotheekabonnement gratis en leggen dit wettelijk vast."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-185",
+      "text": "Voor acht in plaats van vier jaar subsidie kunnen aanvragen bij cultuurinstellingen.",
+      "summary": "Subsidieperiode cultuur uitbreiden naar acht jaar",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuursubsidie",
+        "subsidieperiode",
+        "cultuurinstellingen",
+        "stabiliteit"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 171",
+      "originalQuote": "Daarnaast maken we het mogelijk om voor acht in plaats van voor vier jaar subsidie aan te vragen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-186",
+      "text": "Bedrijfsmatige doorverkoop tickets verbieden en variabele ticketprijzen aan banden leggen.",
+      "summary": "Bedrijfsmatige doorverkoop tickets verbieden",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "doorverkoop",
+        "tickets",
+        "variabele prijzen",
+        "cultuurtoegankelijkheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 172",
+      "originalQuote": "We verbieden de bedrijfsmatige doorverkoop van tickets en we leggen de variabele ticketprijzen aan banden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-187",
+      "text": "Alle overheidswebsites moeten A-status toegankelijkheid krijgen en altijd niet-digitaal alternatief bieden.",
+      "summary": "A-status toegankelijkheid overheidswebsites en niet-digitaal alternatief",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "overheidswebsites",
+        "a-status",
+        "toegankelijkheid",
+        "digitaal alternatief"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 174",
+      "originalQuote": "Alle overheidswebsites moeten toegankelijk zijn (A-status) en er moet altijd een niet-digitaal alternatief zijn voor contact met de overheid."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-188",
+      "text": "Europees verbod op ongevraagde profielopbouw en online tracking invoeren.",
+      "summary": "Europees verbod profielopbouw en online tracking",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "profielopbouw",
+        "online tracking",
+        "privacy",
+        "europees verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 174",
+      "originalQuote": "Er komt een Europees verbod op ongevraagde profielopbouw en online tracking."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-189",
+      "text": "Algoritmen en mechanismen die bedoeld zijn om te misleiden of een bepaald gedrag af te dwingen worden verboden.",
+      "summary": "Verbod op misleidende en manipulatieve algoritmen",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "algoritmen",
+        "misleiding",
+        "gedragsmanipulatie",
+        "verbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 175",
+      "originalQuote": "Algoritmen en mechanismen die bedoeld zijn om te misleiden of een bepaald gedrag af te dwingen worden verboden."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-190",
+      "text": "AI-toepassingen op grote platforms worden standaard uitgeschakeld en worden alleen geactiveerd als gebruikers er expliciet voor kiezen (opt-in systeem).",
+      "summary": "Opt-in verplichting voor AI-toepassingen op grote platforms",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ai-toepassingen",
+        "platforms",
+        "opt-in",
+        "gebruikerskeuze"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 175",
+      "originalQuote": "Daarom willen wij dat AI-toepassingen op grote platforms altijd een 'opt-in' zijn: bij voorbaat staan ze uit, tenzij een gebruiker er zelf voor kiest."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-191",
+      "text": "Invoering van een Digitale Kijkwijzer voor sociale media met schermtijd-adviezen per leeftijdsgroep, naar analogie van de Kijkwijzer voor films en series.",
+      "summary": "Digitale Kijkwijzer met schermtijd-adviezen per leeftijd",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale kijkwijzer",
+        "sociale media",
+        "schermtijd",
+        "leeftijdsadviezen"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 175",
+      "originalQuote": "Daarnaast voeren we een Digitale Kijkwijzer in, net als de Kijkwijzer voor series en films, inclusief adviezen voor schermtijd per leeftijdsgroep."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-192",
+      "text": "Het overstappen naar een nieuwe dienstverlener en het meenemen van data moet met één klik mogelijk zijn. Dataportabiliteit wordt Europese standaard.",
+      "summary": "Eén-klik overstappen tussen dienstverleners met dataportabiliteit",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dataportabiliteit",
+        "overstappen",
+        "dienstverleners",
+        "één-klik"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 175",
+      "originalQuote": "Het moet met één klik op de knop mogelijk zijn om over te stappen naar een nieuwe dienstverlener en al je data mee te nemen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-193",
+      "text": "Oprichting van een ministerie van Digitale Zaken voor centrale coördinatie van digitalisering bij alle overheidslagen.",
+      "summary": "Minister van Digitale Zaken voor digitale overheidscoördinatie",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "minister",
+        "digitale zaken",
+        "digitalisering",
+        "overheidscoördinatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 175-176",
+      "originalQuote": "De digitalisering gaan we centraal coördineren voor alle lagen van de overheid met een minister van digitale zaken."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-194",
+      "text": "Invoering van een Digitale Comptabiliteitswet om overzicht en beheer van overheids-ICT op orde te brengen en Woo-deadlines vaker te halen.",
+      "summary": "Digitale Comptabiliteitswet voor beter ICT-beheer",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "digitale comptabiliteitswet",
+        "overheids-ict",
+        "woo-verzoeken",
+        "informatiehuishouding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 176",
+      "originalQuote": "Om te functioneren als één digitale overheid, komt er een Digitale Comptabiliteitswet."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-195",
+      "text": "Verbod op riskante AI-systemen zoals realtime-gezichts- of emotieherkenning. AI-gegenereerde content moet altijd herkenbaar zijn met bronvermelding.",
+      "summary": "Verbod riskante AI-systemen en herkenbaarheidsplicht AI-content",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ai-systemen",
+        "gezichtsherkenning",
+        "emotieherkenning",
+        "ai-content",
+        "bronvermelding"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 177",
+      "originalQuote": "We verbieden riskante AI-systemen, zoals systemen voor realtime-gezichts- of emotieherkenning. AI-gegenereerde content moet altijd als zodanig herkenbaar zijn, met duidelijke bronvermelding."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-196",
+      "text": "Verhoging van het aantal Digitale Hulpverleners (DHV'ers) in Nederland voor cyberveiligheid van bedrijven.",
+      "summary": "Meer Digitale Hulpverleners voor cyberveiligheid bedrijven",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "digitale hulpverleners",
+        "cyberveiligheid",
+        "bedrijven",
+        "online misdaad"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 177",
+      "originalQuote": "We verhogen daarom het aantal Digitale Hulpverleners (DHV'ers) in Nederland."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-197",
+      "text": "Realisatie van een hulpknop op platforms die slachtoffers van online criminaliteit in één klik naar hulp verwijst, in Europees verband.",
+      "summary": "Europese hulpknop op platforms voor slachtoffers online criminaliteit",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hulpknop",
+        "platforms",
+        "online criminaliteit",
+        "slachtoffers",
+        "één-klik"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 178",
+      "originalQuote": "We realiseren in Europees verband een hulpknop op platforms die slachtoffers in één klik verwijzen naar hulp."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-198",
+      "text": "Wettelijke vastlegging van het recht op digitale privégesprekken via end-to-end encryptie en waarborging van digitaal briefgeheim.",
+      "summary": "Wettelijk recht op end-to-end encryptie en digitaal briefgeheim",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "end-to-end encryptie",
+        "digitaal briefgeheim",
+        "privégesprekken",
+        "wettelijke vastlegging"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 178",
+      "originalQuote": "Wij waarborgen het digitaal briefgeheim en leggen het recht om digitaal privégesprekken te voeren via end-to-end encryptie wettelijk vast."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-199",
+      "text": "Oprichting van een patiëntendossier voor acute zorg met opt-out regeling, vergelijkbaar met het donorregister.",
+      "summary": "Patiëntendossier acute zorg met opt-out systeem",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "patiëntendossier",
+        "acute zorg",
+        "opt-out",
+        "donorregister",
+        "landelijke voorziening"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 178",
+      "originalQuote": "Een patiëntendossier voor acute zorg komt beschikbaar. Hiervoor wordt zoals bij het donorregister een opt-out ingericht."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-200",
+      "text": "Investering in een AI-fabriek in Groningen waar start-ups en overheden kunnen experimenteren met nieuwe AI-toepassingen.",
+      "summary": "AI-fabriek in Groningen voor experimentatie start-ups en overheid",
+      "theme": "ECONOMIE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ai-fabriek",
+        "groningen",
+        "start-ups",
+        "overheid",
+        "experimentatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 179",
+      "originalQuote": "We investeren in de komst van een AI-fabriek in Groningen, waar start-ups en overheden vrijuit kunnen experimenteren met nieuwe toepassingen."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-201",
+      "text": "Voortzetting van het Actieplan Duurzame Digitalisering met eisen aan duurzaamheid voor nieuwe datacentra die onder Europees recht moeten vallen.",
+      "summary": "Actieplan Duurzame Digitalisering met eisen voor datacentra",
+      "theme": "KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan duurzame digitalisering",
+        "datacentra",
+        "duurzaamheid",
+        "europees recht"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 179",
+      "originalQuote": "We zetten het Actieplan Duurzame Digitalisering voort. We stellen hierbij eisen aan duurzaamheid en de verdeling van ruimte."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-202",
+      "text": "Verhogen van de bijdrage van de meest winstgevende bedrijven aan collectieve voorzieningen door hogere belastingen.",
+      "summary": "Hogere belasting voor meest winstgevende bedrijven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "winstgevende bedrijven",
+        "belasting",
+        "collectieve voorzieningen",
+        "bijdrage"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 184",
+      "originalQuote": "Daarom verhogen we de bijdrage van de meest winstgevende bedrijven."
+    },
+    {
+      "promiseCode": "GL-PvdA-2025-203",
+      "text": "Invoering van een miljonairsbelasting voor de allerrijksten en progressievere belastingtarieven met hogere schijftarieven voor topinkomens.",
+      "summary": "Miljonairsbelasting en progressievere belastingtarieven",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "miljonairsbelasting",
+        "progressieve belasting",
+        "topinkomens",
+        "schijftarieven"
+      ],
+      "sourceRef": "Verkiezingsprogramma GL-PvdA 2025, p. 183-184",
+      "originalQuote": "We voeren daarom een miljonairsbelasting in voor de allerrijksten. Daarnaast voeren we progressievere belastingen in."
+    }
+  ]
+}

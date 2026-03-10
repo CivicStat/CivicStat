@@ -1,0 +1,1164 @@
+{
+  "party": "D66",
+  "partySlug": "d66",
+  "city": "den-haag",
+  "parliamentSlug": "den-haag",
+  "program": "D66 Den Haag Verkiezingsprogramma 2022-2026",
+  "electionYear": 2022,
+  "extractionDate": "2026-02-18",
+  "extractionMethod": "llm-claude-sonnet-4-v1",
+  "totalPromises": 76,
+  "promises": [
+    {
+      "promiseCode": "D66-DH-2022-001",
+      "text": "Een overzichtelijke routekaart opstellen richting een klimaatneutrale gemeente in 2030 met concrete bindende doelen en acties. Voor 2026 worden tussentijdse concrete bindende doelen en acties opgesteld. Jaarlijkse klimaatrapportage maken om voortgang te meten.",
+      "summary": "Routekaart naar klimaatneutrale gemeente 2030 met bindende doelen en jaarlijkse rapportage",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "routekaart",
+        "klimaatneutraal",
+        "doelen",
+        "rapportage",
+        "2030"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 7",
+      "originalQuote": "De gemeente Den Haag loopt achter op het ambitieuze klimaatneutrale doel in 2030. Om de ambitie vast te houden wordt een overzichtelijke routekaart opgesteld richting een klimaatneutrale gemeente in 2030 met concrete bindende doelen en acties. Voor 2026 worden tussentijdse concrete bindende doelen en acties opgesteld."
+    },
+    {
+      "promiseCode": "D66-DH-2022-002",
+      "text": "Streven naar circulaire economie waarbij Den Haag in 2026 25% minder primaire grondstoffen gebruikt, in 2030 50% minder en in 2040 naar nul primaire grondstoffen.",
+      "summary": "25% minder grondstoffen 2026, 50% minder 2030, nul in 2040",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "circulaire economie",
+        "grondstoffen",
+        "2026",
+        "2030",
+        "2040"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 7",
+      "originalQuote": "Daarom willen we dat Den Haag in 2026 25% minder primaire grondstoffen gebruikt, in 2030 moet dit naar 50% en in 2040 streven we naar nul."
+    },
+    {
+      "promiseCode": "D66-DH-2022-003",
+      "text": "In elk stadsdeel een 'Hou van je Huis'-punt realiseren waar bewoners eenvoudig en vrijblijvend kennis op kunnen doen over verduurzamen van hun huis.",
+      "summary": "Hou van je Huis-punt in elk stadsdeel voor verduurzaming",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsdeel",
+        "verduurzaming",
+        "bewoners",
+        "informatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 8",
+      "originalQuote": "We versterken en behouden het 'Hou van je Huis' concept, waar bewoners eenvoudig en vrijblijvend kennis op kunnen doen over verduurzamen van hun huis, door in elk stadsdeel een 'Hou van je Huis'-punt te realiseren."
+    },
+    {
+      "promiseCode": "D66-DH-2022-004",
+      "text": "Een burgerforum instellen bestaande uit een representatieve groep gelote stadsgenoten die meepraten over het lokale klimaatbeleid en de gemeente bindend advies geven.",
+      "summary": "Burgerforum van gelote burgers voor bindend klimaatadvies",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "burgerforum",
+        "klimaatbeleid",
+        "bindend advies",
+        "stadsgenoten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 8",
+      "originalQuote": "We stellen een burgerforum in. Dit is een representatieve groep gelote stadsgenoten die worden uitgenodigd om mee te praten over het lokale klimaatbeleid. Op basis van informatie van wetenschappers en experts geven zij de gemeente bindend advies."
+    },
+    {
+      "promiseCode": "D66-DH-2022-005",
+      "text": "De helft van de daken voorzien van een groen dak in 2030. Vergroening van wijken met veel steen wordt een prioriteit.",
+      "summary": "50% groene daken in 2030 en vergroening versteende wijken",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "groene daken",
+        "2030",
+        "vergroening",
+        "wijken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 9",
+      "originalQuote": "De helft van de daken is in 2030 voorzien van een groen dak. Ook wordt er onderzocht of verticale tuinen in versteende gebieden helpen te verkoelen en zal de aanleg hiervan bevorderd worden."
+    },
+    {
+      "promiseCode": "D66-DH-2022-006",
+      "text": "Een hittestressregisseur aanstellen met een duidelijke opdracht om het Haagse hoofd koel te houden.",
+      "summary": "Aanstelling hittestressregisseur tegen hittestress",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "hittestressregisseur",
+        "hittestress",
+        "aanstelling"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 9",
+      "originalQuote": "Hittestress in Den Haag pakken we aan. We stellen een hittestressregisseur aan met een duidelijke opdracht om het Haagse hoofd koel te houden."
+    },
+    {
+      "promiseCode": "D66-DH-2022-007",
+      "text": "De wethouder dierenwelzijn behouden om continue aandacht voor dierenwelzijn te garanderen.",
+      "summary": "Behoud wethouder dierenwelzijn",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "wethouder",
+        "dierenwelzijn",
+        "behoud"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 10",
+      "originalQuote": "Dierenwelzijn verdient continue aandacht van de gemeente. Daarom behouden we de wethouder dierenwelzijn."
+    },
+    {
+      "promiseCode": "D66-DH-2022-008",
+      "text": "Bij aanschaf van vechthonden wordt een hondvaardigheidsbewijs verplicht gesteld. Meer opvanglocaties voor (vecht)honden realiseren. Hondenbelasting behouden.",
+      "summary": "Hondvaardigheidsbewijs voor vechthonden, meer opvang, hondenbelasting behouden",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "vechthonden",
+        "hondvaardigheidsbewijs",
+        "opvanglocaties",
+        "hondenbelasting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 10",
+      "originalQuote": "Bij de aanschaf van vechthonden wordt een hondvaardigheidsbewijs verplicht gesteld. Om de (vecht)honden goed op te vangen realiseren we meer opvanglocaties. [...] We behouden de hondenbelasting."
+    },
+    {
+      "promiseCode": "D66-DH-2022-009",
+      "text": "Ondergrondse afvalcontainers (ORAC's) worden de standaard in alle stadsdelen. Sensoren op afvalcontainers worden de standaard.",
+      "summary": "ORAC's als standaard in alle stadsdelen, sensoren op containers",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondergrondse containers",
+        "orac",
+        "stadsdelen",
+        "sensoren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 10",
+      "originalQuote": "Sensoren op afvalcontainers worden de standaard; de container wordt geleegd wanneer deze vol is. Zo voorkomen we bijplaatsingen. Ondergrondse afvalcontainers (ORAC ́s) worden de standaard in alle stadsdelen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-010",
+      "text": "De gemeente gaat een woonpact maken met duidelijke afspraken met de regio en de provincie over woningbouw.",
+      "summary": "Haags woonpact met duidelijke regionale en provinciale afspraken",
+      "theme": "WONEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "woonpact",
+        "regionale",
+        "samenwerking",
+        "afspraken",
+        "provincie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 12",
+      "originalQuote": "We maken een goed stedenbouwkundig plan en een woonpact met duidelijke afspraken met de regio en de provincie."
+    },
+    {
+      "promiseCode": "D66-DH-2022-011",
+      "text": "Het bouwen van appartementencomplexen van minder dan vier woonlagen wordt niet langer mogelijk.",
+      "summary": "Minimaal vier woonlagen voor nieuwe appartementencomplexen",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "appartementencomplexen",
+        "vier",
+        "woonlagen",
+        "bouwbeleid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 12",
+      "originalQuote": "Het bouwen van appartementencomplexen van minder dan vier woonlagen wordt niet langer mogelijk."
+    },
+    {
+      "promiseCode": "D66-DH-2022-012",
+      "text": "Hoogbouw wordt geconcentreerd in het Central Innovation District, Binckhorst en Zuidwest, met aandacht voor diversiteit, duurzaamheid en voldoende voorzieningen.",
+      "summary": "Hoogbouw concentreren in CID, Binckhorst en Zuidwest",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "hoogbouw",
+        "central innovation district",
+        "binckhorst",
+        "zuidwest"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 12",
+      "originalQuote": "We concentreren hoogbouw in het Central Innovation District (CID is het gebied tussen de stations HS, CS en Laan van NOI), Binckhorst en Zuidwest, met aandacht voor diversiteit, duurzaamheid en voldoende voorzieningen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-013",
+      "text": "De eis van minimaal 30% sociale huur bij nieuwbouwprojecten wordt gehandhaafd.",
+      "summary": "Minimaal 30% sociale huur bij nieuwbouw handhaven",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "sociale huur",
+        "nieuwbouw",
+        "dertig procent",
+        "handhaven"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 12",
+      "originalQuote": "We handhaven de eis van minimaal 30% sociale huur bij nieuwbouwprojecten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-014",
+      "text": "Een zelfbewoningsplicht wordt ingevoerd voor sommige plekken in de stad, zoals in Laak en Escamp.",
+      "summary": "Zelfbewoningsplicht in Laak en Escamp",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "zelfbewoningsplicht",
+        "laak",
+        "escamp",
+        "beleggers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 13",
+      "originalQuote": "Een zelfbewoningsplicht is daarom voor sommige plekken in de stad een noodzakelijke maatregel, zoals in Laak en Escamp."
+    },
+    {
+      "promiseCode": "D66-DH-2022-015",
+      "text": "Er worden voortdurend zo'n 500 tijdelijke woningen voor kwetsbare inwoners beschikbaar gehouden.",
+      "summary": "500 tijdelijke woningen voor kwetsbare inwoners",
+      "theme": "WONEN",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tijdelijke woningen",
+        "kwetsbare inwoners",
+        "vijfhonderd",
+        "daklozen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 14",
+      "originalQuote": "Om kwetsbare inwoners houvast en perspectief te bieden, willen we dat er voortdurend zo'n 500 tijdelijke woningen voor hen beschikbaar zijn."
+    },
+    {
+      "promiseCode": "D66-DH-2022-016",
+      "text": "Er worden jaarlijks vijf Haagse wijken in staat gesteld €100.000 te besteden aan initiatieven gericht op ontmoeting en eigenheid.",
+      "summary": "Vijf wijken krijgen jaarlijks €100.000 buurtbudget",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "buurtbudgetten",
+        "honderdduizend euro",
+        "wijken",
+        "ontmoeting",
+        "eigenheid"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 14",
+      "originalQuote": "We verhogen de bestedingsruimte en stellen jaarlijks vijf Haagse wijken in staat €100.000,- te besteden aan initiatieven die gericht zijn op ontmoeting, het vieren van trots en uitdragen van eigenheid."
+    },
+    {
+      "promiseCode": "D66-DH-2022-017",
+      "text": "Alle 0-4 jarige kinderen in Den Haag krijgen recht op gratis kinderopvang.",
+      "summary": "Gratis kinderopvang voor alle kinderen 0-4 jaar",
+      "theme": "JEUGD",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gratis kinderopvang",
+        "nul tot vier jaar",
+        "kinderen",
+        "toegankelijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 17",
+      "originalQuote": "Alle 0-4 jarige kinderen in Den Haag hebben recht op gratis kinderopvang, zo wordt vroegtijdig in taalontwikkeling geïnvesteerd en krijgen werkende ouders eerlijke kansen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-018",
+      "text": "Er wordt een stadsbouwmeester of stadsstedenbouwer aangesteld voor de complexe bouwopgave van Den Haag.",
+      "summary": "Aanstelling stadsbouwmeester of stadsstedenbouwer",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "stadsbouwmeester",
+        "stadsstedenbouwer",
+        "aanstellen",
+        "bouwopgave"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 13",
+      "originalQuote": "Om een integrale visie en de kwaliteit van woningbouw, bereikbaarheid, duurzaamheid, voorzieningen, et cetera te waarborgen moet een stadsstedenbouwer of stadsbouwmeester worden aangesteld."
+    },
+    {
+      "promiseCode": "D66-DH-2022-019",
+      "text": "Scholen hoeven niet extra te betalen om afval te scheiden, mits ze dit koppelen aan educatieve doelen.",
+      "summary": "Gratis afvalscheiding op school bij educatieve koppeling",
+      "theme": "ONDERWIJS",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afval scheiden",
+        "scholen",
+        "educatieve doelen",
+        "gratis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 18",
+      "originalQuote": "Scholen hoeven niet extra te betalen om afval te scheiden, mits ze dit koppelen aan educatieve doelen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-020",
+      "text": "Er komt een wijkbibliotheek per 30.000 inwoners, met nieuwe bibliotheken in Binckhorst en Benoordenhout.",
+      "summary": "Wijkbibliotheek per 30.000 inwoners, nieuwe in Binckhorst en Benoordenhout",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wijkbibliotheek",
+        "dertigduizend inwoners",
+        "binckhorst",
+        "benoordenhout"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 20",
+      "originalQuote": "D66 vindt dat er per 30.000 inwoners een wijkbibliotheek hoort te zijn. In Spoorwijk/Moerwijk zit nu tijdelijk een bibliotheek en in de Binckhorst en Benoordenhout missen we er nu een."
+    },
+    {
+      "promiseCode": "D66-DH-2022-021",
+      "text": "Tablets of laptops worden via scholen of solidariteitsfondsen aangeboden voor elk kind vanaf groep drie.",
+      "summary": "Tablets/laptops voor alle kinderen vanaf groep 3",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "tablets",
+        "laptops",
+        "kinderen",
+        "groep drie",
+        "solidariteitsfondsen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 17",
+      "originalQuote": "Daarom bieden we via de scholen of solidariteitsfondsen tablets of laptops aan voor elk kind vanaf groep drie."
+    },
+    {
+      "promiseCode": "D66-DH-2022-022",
+      "text": "We gaan niet meer parkeervergunningen uitgeven dan er parkeerplaatsen zijn.",
+      "summary": "Maximaal aantal parkeervergunningen gelijk aan aantal parkeerplaatsen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunningen",
+        "parkeerplaatsen",
+        "beperking"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 22",
+      "originalQuote": "We gaan niet meer parkeervergunningen uitgeven dan er parkeerplaatsen zijn."
+    },
+    {
+      "promiseCode": "D66-DH-2022-023",
+      "text": "Bij nieuwbouw worden inpandige parkeerplaatsen verplicht.",
+      "summary": "Verplichting inpandige parkeerplaatsen bij nieuwbouw",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "nieuwbouw",
+        "inpandige parkeerplaatsen",
+        "verplichting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 22",
+      "originalQuote": "Bij nieuwbouw worden inpandige parkeerplaatsen verplicht."
+    },
+    {
+      "promiseCode": "D66-DH-2022-024",
+      "text": "In 2025 zijn het Haagse openbaar vervoer, de taxi's, bezorgdiensten en het gemeentelijke wagenpark uitstootvrij.",
+      "summary": "Volledig uitstootvrij OV, taxi's, bezorg en gemeentelijk wagenpark in 2025",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "taxi",
+        "bezorgdiensten",
+        "gemeentelijk wagenpark",
+        "uitstootvrij",
+        "2025"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 22",
+      "originalQuote": "In 2025 zijn het Haagse openbaar vervoer, de taxi's, bezorgdiensten en het gemeentelijke wagenpark uitstootvrij."
+    },
+    {
+      "promiseCode": "D66-DH-2022-025",
+      "text": "Vervuilende dieselauto's (met Euro5 en oudere motoren) zijn vanaf 2025 niet meer welkom in de gehele stad.",
+      "summary": "Verbod Euro5 en oudere dieselauto's in hele stad vanaf 2025",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "dieselauto",
+        "euro5",
+        "verbod",
+        "2025"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 22",
+      "originalQuote": "Vervuilende dieselauto's (met Euro5 en oudere motoren) zijn vanaf 2025 niet meer welkom in de gehele stad."
+    },
+    {
+      "promiseCode": "D66-DH-2022-026",
+      "text": "Vanaf 2025 geen laadinfrastructuren voor fossiele brandstoffen in de milieuzone.",
+      "summary": "Verbod fossiele tankstations in milieuzone vanaf 2025",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "laadinfrastructuur",
+        "fossiele brandstoffen",
+        "milieuzone",
+        "2025"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 22",
+      "originalQuote": "Daarom willen wij vanaf 2025 geen laadinfrastructuren voor fossiele brandstoffen in de milieuzone."
+    },
+    {
+      "promiseCode": "D66-DH-2022-027",
+      "text": "In Scheveningen realiseren we een grote, bewaakte, ondergrondse fietsenberging in een van de bestaande parkeergarages.",
+      "summary": "Ondergrondse fietsenstalling in Scheveningse parkeergarage",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "scheveningen",
+        "fietsenberging",
+        "ondergronds",
+        "parkeergarage"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 23",
+      "originalQuote": "In Scheveningen realiseren we een grote, bewaakte, ondergrondse fietsenberging in een van de bestaande parkeergarages."
+    },
+    {
+      "promiseCode": "D66-DH-2022-028",
+      "text": "We staan geen derde vergunning meer toe voor bewonersparkeren.",
+      "summary": "Maximum van twee parkeervergunningen per bewoner",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "parkeervergunning",
+        "bewoners",
+        "maximum",
+        "twee"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 23",
+      "originalQuote": "We verhogen het tarief van de eerste en tweede vergunning voor bewonersparkeren en staan geen derde vergunning meer toe."
+    },
+    {
+      "promiseCode": "D66-DH-2022-029",
+      "text": "We breiden het autovrije centrum uit naar de Prinsestraat, Paviljoensgracht en de Dunne Bierkade.",
+      "summary": "Uitbreiding autovrij centrum naar drie specifieke straten",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "autovrij centrum",
+        "prinsestraat",
+        "paviljoensgracht",
+        "dunne bierkade"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 23",
+      "originalQuote": "We breiden het autovrije centrum uit naar de Prinsestraat, Paviljoensgracht en de Dunne Bierkade."
+    },
+    {
+      "promiseCode": "D66-DH-2022-030",
+      "text": "Schoolstraten bij alle basisscholen worden afgesloten aan het begin en einde van de schooldag.",
+      "summary": "Afsluiting schoolstraten bij alle basisscholen tijdens schooltijden",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "schoolstraten",
+        "basisscholen",
+        "afsluiting",
+        "schooldag"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 24",
+      "originalQuote": "D66 wil dat schoolstraten bij alle basisscholen worden afgesloten aan het begin en einde van de schooldag."
+    },
+    {
+      "promiseCode": "D66-DH-2022-031",
+      "text": "Binnen de centrumring verlagen we de snelheid voor auto's tot 30 km per uur, ook op de hoofdroutes.",
+      "summary": "30 km/u snelheidslimiet binnen centrumring inclusief hoofdwegen",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "centrumring",
+        "snelheid",
+        "30 kilometer",
+        "hoofdroutes"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 24",
+      "originalQuote": "Binnen de centrumring verlagen we de snelheid voor auto's tot 30 km per uur, ook op de hoofdroutes."
+    },
+    {
+      "promiseCode": "D66-DH-2022-032",
+      "text": "Al het openbaar vervoer in heel Den Haag wordt voor iedereen fysiek toegankelijk, zonder drempels. Dit is uiterlijk in 2025 klaar.",
+      "summary": "Volledig toegankelijk OV zonder drempels gereed in 2025",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "toegankelijkheid",
+        "drempels",
+        "2025"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 24",
+      "originalQuote": "We maken al het openbaar vervoer in heel Den Haag voor iedereen fysiek toegankelijk, zonder drempels. Dat geldt voor voertuigen, haltes, stations en de looproute ernaartoe. Dit is uiterlijk in 2025 klaar."
+    },
+    {
+      "promiseCode": "D66-DH-2022-033",
+      "text": "We verhogen de gemiddelde snelheid van het ov jaarlijks met 1 km per uur.",
+      "summary": "Jaarlijkse verhoging OV-snelheid met 1 km/u",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "openbaar vervoer",
+        "snelheid",
+        "jaarlijks",
+        "kilometer"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 24",
+      "originalQuote": "We verhogen de gemiddelde snelheid van het ov jaarlijks met 1 km per uur."
+    },
+    {
+      "promiseCode": "D66-DH-2022-034",
+      "text": "Het kunst- en cultuurbudget van Den Haag wordt verhoogd tot het niveau van de andere G4 steden. Dit betekent een structurele verhoging van 20 miljoen euro per jaar.",
+      "summary": "Cultuurbudget verhogen met 20 miljoen euro per jaar naar G4-niveau",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurbudget",
+        "20 miljoen euro",
+        "g4 steden",
+        "structureel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 27",
+      "originalQuote": "We brengen het kunst- en cultuurbudget van Den Haag tot het niveau van de andere G4 steden. Dit betekent een structurele verhoging van 20 miljoen euro per jaar."
+    },
+    {
+      "promiseCode": "D66-DH-2022-035",
+      "text": "In de komende raadsperiode investeren we 2 miljoen euro per jaar in gemeentelijke cultuurpanden.",
+      "summary": "2 miljoen euro jaarlijks voor renovatie cultuurpanden",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurpanden",
+        "investering",
+        "2 miljoen euro",
+        "renovatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 27",
+      "originalQuote": "In de komende raadsperiode investeren we daarnaast 2 miljoen euro per jaar in gemeentelijke cultuurpanden."
+    },
+    {
+      "promiseCode": "D66-DH-2022-036",
+      "text": "De gemeente biedt elke 18-jarige een voucher van €150,- aan om individueel kennis te maken met het diverse cultuuraanbod van Den Haag.",
+      "summary": "Cultuurvoucher van €150 voor elke 18-jarige Hagenaar",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "cultuurvoucher",
+        "18-jarige",
+        "150 euro",
+        "cultuuraanbod"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 27",
+      "originalQuote": "De gemeente biedt, in samenwerking met culturele instellingen die door de gemeente worden gefinancierd, elke 18-jarige een voucher van €150,- aan om individueel kennis te maken met het diverse cultuuraanbod van Den Haag."
+    },
+    {
+      "promiseCode": "D66-DH-2022-037",
+      "text": "Het Escher Museum verhuist naar de voormalige Amerikaanse ambassade.",
+      "summary": "Verhuizing Escher Museum naar voormalige Amerikaanse ambassade",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "escher museum",
+        "verhuizing",
+        "amerikaanse ambassade"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 28",
+      "originalQuote": "Het Escher Museum verhuist naar de voormalige Amerikaanse ambassade."
+    },
+    {
+      "promiseCode": "D66-DH-2022-038",
+      "text": "Er wordt een leegstandsheffing ontwikkeld voor winkelpanden om onnodige leegstand tegen te gaan en betere marktwerking op de huurmarkt voor winkelpanden te bewerkstelligen.",
+      "summary": "Leegstandsheffing voor winkelpanden tegen leegstand",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "leegstandsheffing",
+        "winkelpanden",
+        "marktwerking",
+        "huurmarkt"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 32",
+      "originalQuote": "Om onnodige leegstand tegen te gaan, wordt een voorstel ontwikkeld voor een leegstandsheffing zodat er een betere marktwerking op de huurmarkt voor winkelpanden plaats zal vinden."
+    },
+    {
+      "promiseCode": "D66-DH-2022-039",
+      "text": "De gemeente steunt startende en sociale ondernemers met een minimale tegemoetkoming in de kosten of een leer-werk cheque voor inwoners die naast hun studie in deeltijd ondernemen.",
+      "summary": "Steun voor startende ondernemers met kostenvergoeding of leer-werk cheque",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "startende ondernemers",
+        "kostenvergoeding",
+        "leer-werk cheque",
+        "deeltijd ondernemen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 32",
+      "originalQuote": "We steunen inwoners die naast hun studie in deeltijd ondernemen met een minimale tegemoetkoming in de kosten of een leer-werk cheque."
+    },
+    {
+      "promiseCode": "D66-DH-2022-040",
+      "text": "Elke ondernemer krijgt toegang tot een accountmanager als 'one-stop-shop' voor hulpvragen om de dienstverlening van de gemeente te verbeteren.",
+      "summary": "Accountmanager als één-loket voor ondernemers",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "accountmanager",
+        "one-stop-shop",
+        "ondernemers",
+        "dienstverlening"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 32",
+      "originalQuote": "Elke ondernemer krijgt toegang tot een accountmanager als 'one-stop-shop' voor hulpvragen. Zo verbeteren we de dienstverlening van de gemeente."
+    },
+    {
+      "promiseCode": "D66-DH-2022-041",
+      "text": "Er wordt een meerjarenstrategie voor Scheveningen ontwikkeld met aandacht voor veiligheid en een ondernemingsklimaat dat duurzaamheid en gastvrijheid bevordert, met vereenvoudigd vergunningsproces.",
+      "summary": "Meerjarenstrategie Scheveningen met vereenvoudigd vergunningsproces",
+      "theme": "ECONOMIE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "meerjarenstrategie",
+        "scheveningen",
+        "vergunningsproces",
+        "ondernemingsklimaat"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 32",
+      "originalQuote": "We ontwikkelen een meerjarenstrategie voor Scheveningen met aandacht voor veiligheid en een ondernemingsklimaat dat duurzaamheid en gastvrijheid bevordert. Het vergunningsproces wordt vereenvoudigd."
+    },
+    {
+      "promiseCode": "D66-DH-2022-042",
+      "text": "De gemeente stimuleert gratis kinderopvang voor vrouwen via een pilot om fulltime werken op het stadhuis te bevorderen.",
+      "summary": "Pilot gratis kinderopvang voor vrouwen op stadhuis",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "gratis kinderopvang",
+        "pilot",
+        "vrouwen",
+        "stadhuis"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 33",
+      "originalQuote": "We stimuleren fulltime werken op het stadhuis voor vrouwen door een pilot met gratis kinderopvang."
+    },
+    {
+      "promiseCode": "D66-DH-2022-043",
+      "text": "Toiletten in gemeentelijke voorzieningen worden genderneutraal gemaakt.",
+      "summary": "Genderneutrale toiletten in gemeentelijke voorzieningen",
+      "theme": "DIVERSITEIT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "genderneutraal",
+        "toiletten",
+        "gemeentelijke voorzieningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 33",
+      "originalQuote": "Toiletten in gemeentelijke voorzieningen worden genderneutraal."
+    },
+    {
+      "promiseCode": "D66-DH-2022-044",
+      "text": "Voor gekwalificeerde statushouders worden spoedcursussen Nederlands van 3 tot 6 maanden aangeboden en gemeentelijke procedures geflexibiliseerd.",
+      "summary": "Spoedcursussen Nederlands en geflexibiliseerde procedures voor statushouders",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "statushouders",
+        "spoedcursussen",
+        "nederlands",
+        "gemeentelijke procedures"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 33",
+      "originalQuote": "We flexibiliseren gemeentelijke procedures, bieden spoedcursussen Nederlands van 3 tot 6 maanden aan, versnellen de accreditatie van certificaten en regelen introducties bij bedrijven en organisaties"
+    },
+    {
+      "promiseCode": "D66-DH-2022-045",
+      "text": "Er wordt een onafhankelijk onderzoek opgezet naar de werking van het basisinkomen als experiment.",
+      "summary": "Onafhankelijk onderzoek naar basisinkomen",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "basisinkomen",
+        "onderzoek",
+        "experiment"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 33",
+      "originalQuote": "D66 Den Haag stelt voor een onafhankelijk onderzoek naar de werking van het basisinkomen op te zetten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-046",
+      "text": "Er wordt vaker afgeweken van de kostendelersnorm om dakloosheid en armoede te voorkomen, meer dan Den Haag nu doet vergeleken met andere steden.",
+      "summary": "Vaker afwijken van kostendelersnorm tegen dakloosheid",
+      "theme": "SOCIAAL",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "kostendelersnorm",
+        "dakloosheid",
+        "armoede"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 34",
+      "originalQuote": "D66 wil dat dit vaker gebeurt om dakloosheid en armoede te voorkomen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-047",
+      "text": "Er worden meer watertappunten gerealiseerd bij toeristische locaties, elk openbaar sportveldje en speeltuin waar veel gespeeld, gecreëerd en bewogen wordt.",
+      "summary": "Meer watertappunten bij sportplekken en speeltuinen",
+      "theme": "OPENBARE_RUIMTE",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "watertappunten",
+        "sportveldjes",
+        "speeltuinen",
+        "toeristische locaties"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 35",
+      "originalQuote": "Er kunnen nog meer bij op plekken waar veel gespeeld, gecreëerd en bewogen wordt, bij toeristische locaties, elk openbaar sportveldje en speeltuin."
+    },
+    {
+      "promiseCode": "D66-DH-2022-048",
+      "text": "De gemeente hangt jaarlijks de regenboogvlag op zichtbare punten zoals het Centraal Station en het Internationaal Homomonument tijdens belangrijke LHBTIQ+-feestdagen.",
+      "summary": "Jaarlijks regenboogvlag op belangrijke LHBTIQ+-feestdagen",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regenboogvlag",
+        "lhbtiq",
+        "feestdagen",
+        "centraal station"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 35",
+      "originalQuote": "Ook hangen we jaarlijks de regenboogvlag op zichtbare punten, zoals het Centraal Station en het Internationaal Homomonument, tijdens belangrijke LHBTIQ+-feestdagen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-049",
+      "text": "De succesvolle ondermijningsaanpak wordt uitgebreid naar andere overlastplekken zoals delen van de Schilderswijk, Transvaal, Scheveningen en het Oude Centrum.",
+      "summary": "Uitbreiding ondermijningsaanpak naar meer wijken",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "ondermijningsaanpak",
+        "schilderswijk",
+        "transvaal",
+        "scheveningen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 37",
+      "originalQuote": "Deze aanpak breiden we uit naar andere overlastplekken, zoals in delen van de Schilderswijk, Transvaal, Scheveningen en het Oude Centrum."
+    },
+    {
+      "promiseCode": "D66-DH-2022-050",
+      "text": "Er komen extra wijkagenten in kwetsbare wijken met een specifieke focus op jeugd om onderbezetting bij de politie niet te laten leiden tot minder wijkcontact.",
+      "summary": "Extra jeugdwijkagenten in kwetsbare wijken",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "jeugdwijkagenten",
+        "kwetsbare wijken",
+        "wijkcontact"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 37",
+      "originalQuote": "In de kwetsbare wijken kiezen we aanvullend voor de inzet van wijkagenten met een specifieke focus op jeugd."
+    },
+    {
+      "promiseCode": "D66-DH-2022-051",
+      "text": "Er komt een bestrijdingsplan tegen straatintimidatie met training van handhavers, bewustwordingscampagnes en een meldpunt voor straatintimidatie.",
+      "summary": "Bestrijdingsplan straatintimidatie met meldpunt",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "straatintimidatie",
+        "bestrijdingsplan",
+        "meldpunt",
+        "handhavers"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 37",
+      "originalQuote": "Daarom komt er een bestrijdingsplan. Met aandacht voor de training van handhavers, bewustwordingscampagnes zoals 'Ben Je Oké', veilige ontmoetingsplekken in uitgaansgelegenheden en een lage meldingsdrempel door de oprichting van een meldpunt voor straatintimidatie."
+    },
+    {
+      "promiseCode": "D66-DH-2022-052",
+      "text": "Het actieplan Scheveningen tegen overlast wordt voortgezet met maatregelen tegen parkeeroverlast, geluidsoverlast, straatraces, alcohol-, lachgas- en drugsgebruik en afval.",
+      "summary": "Voortzetting actieplan Scheveningen tegen overlast",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "actieplan",
+        "scheveningen",
+        "parkeeroverlast",
+        "geluidsoverlast"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 38",
+      "originalQuote": "D66 wil dit actieplan de komende jaren voortzetten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-053",
+      "text": "Nazorg voor slachtoffers van huiselijk geweld wordt standaard onderdeel van de aanpak om de cirkel van geweld te doorbreken.",
+      "summary": "Nazorg huiselijk geweld wordt standaard onderdeel aanpak",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "nazorg",
+        "huiselijk geweld",
+        "aanpak",
+        "standaard"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 39",
+      "originalQuote": "Daarom wordt nazorg standaard onderdeel van de aanpak. Zo doorbreken we de cirkel van geweld."
+    },
+    {
+      "promiseCode": "D66-DH-2022-054",
+      "text": "De gemeente toetst weerbaarheid en bestrijding van cyberincidenten door middel van periodieke oefeningen.",
+      "summary": "Periodieke oefeningen voor cyberincidenten",
+      "theme": "VEILIGHEID",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "cyberincidenten",
+        "periodieke oefeningen",
+        "weerbaarheid",
+        "bestrijding"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 39",
+      "originalQuote": "We willen dat de gemeente door middel van periodieke oefeningen de weerbaarheid en bestrijding daarvan toetst."
+    },
+    {
+      "promiseCode": "D66-DH-2022-055",
+      "text": "Het afsteken van vuurwerk door particulieren wordt gestopt. Tijdens de jaarwisseling organiseert de gemeente veilige vuurwerkshows per stadsdeel.",
+      "summary": "Stop particulier vuurwerk, gemeente organiseert vuurwerkshows per stadsdeel",
+      "theme": "VEILIGHEID",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vuurwerk",
+        "particulieren",
+        "jaarwisseling",
+        "vuurwerkshows",
+        "stadsdeel"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 39",
+      "originalQuote": "Daarom stoppen we daarmee. Tijdens de jaarwisseling organiseert de gemeente veilige en mooie vuurwerkshows waar de Haagse inwoners gezamenlijk in hun eigen stadsdeel van kunnen genieten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-056",
+      "text": "Het Haags Preventieakkoord wordt versterkt en verlengd in samenwerking met Gezond en Gelukkig Den Haag voor aanpak overgewicht, bewegingsarmoede en roken.",
+      "summary": "Haags Preventieakkoord wordt versterkt en verlengd",
+      "theme": "ZORG",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "preventieakkoord",
+        "overgewicht",
+        "bewegingsarmoede",
+        "roken"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 42",
+      "originalQuote": "We versterken en verlengen de preventiecoalitie in samenwerking met Gezond en Gelukkig Den Haag. In het preventieakkoord pakken we onder andere overgewicht, bewegingsarmoede en roken aan."
+    },
+    {
+      "promiseCode": "D66-DH-2022-057",
+      "text": "Er komen drie uur gymles per week in het basis- en middelbaar onderwijs. De capaciteit voor gymzalen wordt onderzocht en waar nodig uitgebreid.",
+      "summary": "Drie uur gymles per week, onderzoek gymzaalcapaciteit",
+      "theme": "ONDERWIJS",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "gymles",
+        "drie uur",
+        "gymzalen",
+        "capaciteit",
+        "onderzoek"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 42",
+      "originalQuote": "Jongeren blijven in beweging met drie uur gymles in de week in het basis- en middelbaar onderwijs. De capaciteit voor gymzalen wordt onderzocht en waar nodig uitgebreid om dit mogelijk te maken."
+    },
+    {
+      "promiseCode": "D66-DH-2022-058",
+      "text": "Er wordt een Studentensportkaart beschikbaar gesteld voor studenten. Onderwijsinstellingen die sportfaciliteiten leveren krijgen subsidie van de gemeente.",
+      "summary": "Studentensportkaart en subsidie voor onderwijsinstellingen met sportfaciliteiten",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "studentensportkaart",
+        "subsidie",
+        "onderwijsinstellingen",
+        "sportfaciliteiten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 42",
+      "originalQuote": "Om studenten te motiveren om actief te zijn in de Haagse sportwereld, stellen wij een Studentensportkaart beschikbaar... De gemeente stelt subsidie beschikbaar aan onderwijsinstellingen die sportfaciliteiten leveren."
+    },
+    {
+      "promiseCode": "D66-DH-2022-059",
+      "text": "Het gebruik van rubberkorrels op kunstgrasvelden wordt uitgefaseerd en daken van sportverenigingen worden benut voor zonnepanelen of groene daken.",
+      "summary": "Uitfasering rubberkorrels, zonnepanelen op sportverenigingsdaken",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rubberkorrels",
+        "uitgefaseerd",
+        "zonnepanelen",
+        "groene daken",
+        "sportverenigingen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 43",
+      "originalQuote": "Het gebruik van rubberkorrels op kunstgrasvelden wordt uitgefaseerd en de daken van sportverenigingen wordt benut voor zonnepanelen of groene daken."
+    },
+    {
+      "promiseCode": "D66-DH-2022-060",
+      "text": "De gemeente organiseert jaarlijks met alle sportverenigingen en sportclubs een Haagse sportdag waarop inwoners zich kunnen oriënteren op sportmogelijkheden.",
+      "summary": "Jaarlijkse Haagse sportdag met alle sportverenigingen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "jaarlijkse",
+        "haagse sportdag",
+        "sportverenigingen",
+        "sportclubs",
+        "oriëntatie"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 43",
+      "originalQuote": "De gemeente organiseert met alle sportverenigingen- en sportclubs een jaarlijkse open dag waarop inwoners van Den Haag zich op de sportmogelijkheden kunnen oriënteren."
+    },
+    {
+      "promiseCode": "D66-DH-2022-061",
+      "text": "Het Beweegloket wordt één sportloket waar iedereen terecht kan met sport- en bewegingsvragen, toegankelijk voor particulieren en sportverenigingen.",
+      "summary": "Beweegloket wordt centraal sportloket voor alle vragen",
+      "theme": "CULTUUR_SPORT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "beweegloket",
+        "sportloket",
+        "sport",
+        "bewegingsvragen",
+        "particulieren"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 43",
+      "originalQuote": "Het Beweegloket bij de gemeente wordt één loket waar iedereen terecht kan met elke sport- en bewegingsvraag, toegankelijk voor particulieren en sportverenigingen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-062",
+      "text": "Eén wethouder krijgt zowel zorg als sport in de portefeuille voor een gezamenlijke bestuurlijke aanpak van gezondheid.",
+      "summary": "Wethouder krijgt portefeuille zorg en sport",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "wethouder",
+        "gezondheid",
+        "zorg",
+        "sport",
+        "portefeuille"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 43",
+      "originalQuote": "Eén wethouder zal zowel zorg en sport in de portefeuille hebben."
+    },
+    {
+      "promiseCode": "D66-DH-2022-063",
+      "text": "Na schoolpleinen en sportverenigingen worden ook speeltuinen en terrassen rookvrij. Horecaondernemers die hun terras rookvrij maken mogen het vergroten.",
+      "summary": "Rookvrije speeltuinen en terrassen, vergroting bij rookvrije terrassen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "rookvrij",
+        "speeltuinen",
+        "terrassen",
+        "horecaondernemers",
+        "vergroting"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 43",
+      "originalQuote": "Na het succesvol rookvrij maken van schoolpleinen en sportverenigingen, worden speeltuinen en terrassen ook rookvrij. Zo mogen horecaondernemers die hun terras rookvrij maken hun terras vergroten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-064",
+      "text": "Er komt een tweede vadercentrum in Den Haag naast het bestaande vadercentrum Adam.",
+      "summary": "Tweede vadercentrum in Den Haag",
+      "theme": "SOCIAAL",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vadercentrum",
+        "tweede",
+        "vadercentrum adam"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 44",
+      "originalQuote": "Het succes van het vadercentrum Adam wordt doorgezet met een tweede vadercentrum in Den Haag."
+    },
+    {
+      "promiseCode": "D66-DH-2022-065",
+      "text": "Er komt een centraal informatiepunt met spreekuur voor ouderen (C.I.P.O.) in het stadhuis.",
+      "summary": "Centraal informatiepunt met spreekuur voor ouderen in stadhuis",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "informatiepunt",
+        "spreekuur",
+        "ouderen",
+        "stadhuis",
+        "cipo"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 45",
+      "originalQuote": "Er komt een centraal informatiepunt met spreekuur voor ouderen (C.I.P.O.) in het stadhuis."
+    },
+    {
+      "promiseCode": "D66-DH-2022-066",
+      "text": "De gemeente wijst per wijk een coördinator aan die contacten met zorg- en sportinstellingen onderhoudt en fungeert als aanspreekpunt voor ouderen die willen bewegen.",
+      "summary": "Per wijk coördinator voor ouderen die willen bewegen",
+      "theme": "ZORG",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "coördinator",
+        "wijk",
+        "zorginstellingen",
+        "sportinstellingen",
+        "ouderen"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 45",
+      "originalQuote": "De gemeente wijst per wijk een coördinator aan die contacten met de zorginstellingen en sportinstellingen onderhoudt en fungeert als aanspreekpunt voor ouderen die willen bewegen, maar de weg niet weten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-067",
+      "text": "De gemeente gaat in een democratische regioraad met gekozen raadsleden uit deelnemende gemeenten in de Metropoolregio Rotterdam-Den Haag.",
+      "summary": "Democratische regioraad MRDH met gekozen raadsleden",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "regioraad",
+        "democratisch",
+        "mrdh",
+        "gekozen raadsleden",
+        "gemeenten"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 49",
+      "originalQuote": "We democratiseren de Metropoolregio Rotterdam – Den Haag (MRDH). Er komt een besluitvormende regioraad, dat bestaat uit gekozen raadsleden uit de deelnemende gemeenten."
+    },
+    {
+      "promiseCode": "D66-DH-2022-068",
+      "text": "Er wordt een 'bel me terug'-knop geplaatst op de gemeentelijke website voor persoonlijk contact naast digitale diensten.",
+      "summary": "'Bel me terug'-knop op gemeentelijke website",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "bel me terug",
+        "website",
+        "gemeentelijk",
+        "persoonlijk contact",
+        "digitaal"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 49",
+      "originalQuote": "We willen op de gemeentelijke website een 'bel me terug'-knop."
+    },
+    {
+      "promiseCode": "D66-DH-2022-069",
+      "text": "Voor alle gemeenteambtenaren wordt een vijfdaagse burgerstage in een Haagse wijk geïntroduceerd.",
+      "summary": "Vijfdaagse burgerstage voor alle gemeenteambtenaren",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgerstage",
+        "vijfdaags",
+        "gemeenteambtenaren",
+        "haagse wijk"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 49",
+      "originalQuote": "We introduceren voor alle gemeenteambtenaren een vijfdaagse burgerstage in een Haagse wijk."
+    },
+    {
+      "promiseCode": "D66-DH-2022-070",
+      "text": "De gemeente benoemt een onafhankelijke Ethische Commissie die als klankbord wordt betrokken bij besluitvorming over ethische vraagstukken bij de inzet van nieuwe technologie of het innovatief gebruiken van data en algoritmes.",
+      "summary": "Ethische Commissie voor technologie en algoritmes",
+      "theme": "BESTUUR",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ethische commissie",
+        "technologie",
+        "data",
+        "algoritmes",
+        "klankbord"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 50",
+      "originalQuote": "De onafhankelijke Ethische Commissie wordt als klankbord betrokken bij de besluitvorming over ethische vraagstukken, bij de inzet van nieuwe technologie of het innovatief gebruiken van data en algoritmes."
+    },
+    {
+      "promiseCode": "D66-DH-2022-071",
+      "text": "De gemeente richt de eerste Haagse vrouwenrechtswinkel op waar gratis juridisch advies wordt gegeven over allerlei onderwerpen.",
+      "summary": "Oprichting vrouwenrechtswinkel met gratis advies",
+      "theme": "DIVERSITEIT",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "vrouwenrechtswinkel",
+        "gratis advies",
+        "toegang recht",
+        "juridisch"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 50",
+      "originalQuote": "We richten de eerste Haagse vrouwenrechtswinkel op waar gratis advies wordt gegevens over allerlei onderwerpen."
+    },
+    {
+      "promiseCode": "D66-DH-2022-072",
+      "text": "De gemeente voert het burgeramendement in, waarmee bewoners met een brede vertegenwoordiging direct invloed kunnen uitoefenen op wetten en regels die hun persoonlijk leven raken.",
+      "summary": "Invoering burgeramendement voor directe burgerinvloed",
+      "theme": "BESTUUR",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "burgeramendement",
+        "directe invloed",
+        "bewoners",
+        "regels"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 50",
+      "originalQuote": "Het burgeramendement wordt ingevoerd. Op deze manier kunnen bewoners met een brede vertegenwoordiging direct invloed uitoefenen op de wetten en regels die hun persoonlijk leven raken."
+    },
+    {
+      "promiseCode": "D66-DH-2022-073",
+      "text": "Het OZB-tarief wordt de komende jaren stapsgewijs verhoogd om meer in de pas te lopen met de G4-gemeenten.",
+      "summary": "OZB-tarief stapsgewijs verhogen naar G4-niveau",
+      "theme": "FINANCIEN",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "ozb",
+        "tarief",
+        "verhogen",
+        "g4",
+        "stapsgewijs"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 53",
+      "originalQuote": "Om meer in de pas te lopen met de G4 wordt het OZB-tarief de komende jaren stapsgewijs verhoogd."
+    },
+    {
+      "promiseCode": "D66-DH-2022-074",
+      "text": "De parkeertarieven worden in de komende jaren verhoogd om meer in de pas te lopen met de G4. Deze inkomsten worden gebruikt voor duurzame mobiliteit.",
+      "summary": "Parkeertarieven verhogen, inkomsten voor duurzame mobiliteit",
+      "theme": "VERKEER",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "parkeertarieven",
+        "verhogen",
+        "duurzame mobiliteit",
+        "g4"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 53",
+      "originalQuote": "Om meer in de pas te lopen met de G4 worden de parkeertarieven in de komende jaren verhoogd. Deze inkomsten worden gebruikt voor duurzame mobiliteit."
+    },
+    {
+      "promiseCode": "D66-DH-2022-075",
+      "text": "De afvalstoffenheffing wordt beter gedifferentieerd naar het aantal personen in het huishouden en de aangeboden hoeveelheid gescheiden afval.",
+      "summary": "Afvalstoffenheffing differentiëren naar huishoudgrootte en afvalvolume",
+      "theme": "GROEN_KLIMAAT",
+      "specificity": "GEMIDDELD",
+      "keywords": [
+        "afvalstoffenheffing",
+        "gedifferentieerd",
+        "huishouden",
+        "gescheiden afval"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 53",
+      "originalQuote": "Deze wordt wat D66 betreft beter gedifferentieerd naar het aantal personen in het huishouden en de aangeboden hoeveelheid (gescheiden) afval."
+    },
+    {
+      "promiseCode": "D66-DH-2022-076",
+      "text": "Binnen de centrumring wordt de snelheid voor auto's verlaagd tot 30 km/uur, ook op de hoofdroutes.",
+      "summary": "30 km/uur binnen centrumring inclusief hoofdroutes",
+      "theme": "VERKEER",
+      "specificity": "SPECIFIEK",
+      "keywords": [
+        "30 km/uur",
+        "centrumring",
+        "snelheid",
+        "hoofdroutes",
+        "auto"
+      ],
+      "sourceRef": "Verkiezingsprogramma D66 den-haag 2022, p. 57",
+      "originalQuote": "Binnen de centrumring verlagen we de snelheid voor auto's tot 30 km/uur, ook op de hoofdroutes."
+    }
+  ]
+}
