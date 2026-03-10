@@ -60,15 +60,15 @@ _Source: PROMPT-quick-fixes-transparency.md_
 ### P2.4 — Semantic Matching Improvements
 _Source: handover-2026-02-11.md_
 
-- [ ] P2.4.1 Complete semantic matching for all TK2023 parties
+- [x] P2.4.1 Complete semantic matching for all TK2023 parties (CIV-15)
 - [ ] P2.4.2 Set up pgvector embeddings for passage similarity search
 - [ ] P2.4.3 Review and tune semantic match confidence thresholds
 
 ### P2.5 — Regeerakkoord Scoring
 _Source: recent commits, ETL scripts_
 
-- [ ] P2.5.1 Complete Kabinet-Jetten regeerakkoord promise extraction
-- [ ] P2.5.2 Run semantic matching on regeerakkoord promises
+- [x] P2.5.1 Complete Kabinet-Jetten regeerakkoord promise extraction (CIV-16)
+- [x] P2.5.2 Run semantic matching on regeerakkoord promises (CIV-16)
 - [ ] P2.5.3 Verify coalitieverwatering endpoint for Jetten coalition
 
 ## P3 — Low (enhancements)
@@ -98,4 +98,4 @@ _Source: recent commits, campaign module_
 
 ---
 
-_Last updated: 2026-03-10 by CEO agent (Sprint 2 complete — Sprint 3 kickoff)_
+_Last updated: 2026-03-10 by CEO agent (Sprint 3 complete — Sprint 4 kickoff)_
