@@ -1,0 +1,14 @@
+2026-03-10T13:21:01+01:00 === Agent loop starting ===
+2026-03-10T13:21:01+01:00 Picked task: P2.1.2 Set up GitHub Actions hourly cron (.github/workflows/etl-sync.yml)
+2026-03-10T13:21:01+01:00 Invoking Claude Code...
+P2.1.2 is complete. The workflow at `.github/workflows/etl-sync.yml` now has:
+
+- **Hourly cron** at `:15` past each hour + manual `workflow_dispatch` trigger
+- **pnpm cache** via `cache: "pnpm"` in `setup-node` (saves ~30s per run)
+- **Scoped install** with `--filter "@ntp/etl..." --frozen-lockfile` — installs only ETL + its workspace deps, locked to exact versions
+- **Prisma generate** via the package script (`pnpm prisma:generate`)
+- **Both AI keys** (`OPENROUTER_API_KEY` + `ANTHROPIC_API_KEY`) so either works for incremental matching
+- **90-minute timeout** to handle slow TK API days
+
+Next step is P2.1.3: add `DATABASE_URL` and `OPENROUTER_API_KEY` secrets to the GitHub repo settings (requires manual action in GitHub UI).
+2026-03-10T13:22:08+01:00 Committing changes...

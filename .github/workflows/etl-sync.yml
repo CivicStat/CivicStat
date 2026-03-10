@@ -16,24 +16,27 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: "pnpm"
 
       - name: Enable corepack
         run: corepack enable
 
       - name: Install dependencies
-        run: pnpm install --filter @ntp/etl --filter @ntp/db
+        # @ntp/etl... includes @ntp/etl and all its workspace dependencies (e.g. @ntp/db)
+        run: pnpm install --filter "@ntp/etl..." --frozen-lockfile
 
       - name: Generate Prisma client
-        run: cd packages/db && npx prisma generate
+        run: cd packages/db && pnpm prisma:generate
 
       - name: Run incremental sync
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           LANGFUSE_PUBLIC_KEY: ${{ secrets.LANGFUSE_PUBLIC_KEY }}
           LANGFUSE_SECRET_KEY: ${{ secrets.LANGFUSE_SECRET_KEY }}
           LANGFUSE_BASE_URL: https://cloud.langfuse.com
-        run: cd packages/etl && npx tsx src/index.ts sync
+        run: cd packages/etl && pnpm tsx src/index.ts sync
 
       - name: Summary
         if: always()

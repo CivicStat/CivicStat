@@ -14,3 +14,4 @@ Changed `import type { VoteValue }` → `import type { VoteValue as VoteValueEnu
 
 The `sync`/`incremental` CLI commands themselves were structurally correct — they call `syncSeats`, `ingestMoties`, `ingestAmendementen`, `ingestWetsvoorstellen`, `ingestStemmingen`, `ingestSponsors`, optionally `runIncrementalMatch`, and `computeScorecards`. All functions exist and are properly exported. Typecheck now passes cleanly (4/4 packages).
 2026-03-10T12:21:01+01:00 Committing changes...
+2026-03-10T12:21:01+01:00 === Task P2.1.1 completed ===
