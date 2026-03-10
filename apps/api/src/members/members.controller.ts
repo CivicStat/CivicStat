@@ -42,6 +42,18 @@ export class MembersController {
     return this.membersService.get(id);
   }
 
+  @Get(":id/voting-record")
+  async votingRecord(
+    @Param("id") id: string,
+    @Query("limit") limit?: string,
+    @Query("offset") offset?: string,
+  ) {
+    return this.membersService.getVotingRecord(id, {
+      limit: limit ? Number(limit) : undefined,
+      offset: offset ? Number(offset) : undefined,
+    });
+  }
+
   @Get(":id/scorecard")
   async scorecard(
     @Param("id") id: string,

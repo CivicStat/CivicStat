@@ -9,6 +9,7 @@ import {
 import { PartiesService } from "./parties.service";
 import { PartiesScorecardService } from "./parties-scorecard.service";
 import { CoalitionDynamicsService } from "../coalitions/coalition-dynamics.service";
+import { MembersService } from "../members/members.service";
 
 @Controller("parties")
 export class PartiesController {
@@ -16,6 +17,7 @@ export class PartiesController {
     private readonly partiesService: PartiesService,
     private readonly scorecardService: PartiesScorecardService,
     private readonly coalitionDynamicsService: CoalitionDynamicsService,
+    private readonly membersService: MembersService,
   ) {}
 
   @Get()
@@ -194,6 +196,19 @@ export class PartiesController {
         "Vrije Stemmen MCS computation failed",
       );
     }
+  }
+
+  // ─── Rebel / deviation detection ─────────────────────────
+
+  /** GET /parties/:id/rebels?minVotes=20 */
+  @Get(":id/rebels")
+  async rebels(
+    @Param("id") id: string,
+    @Query("minVotes") minVotes?: string,
+  ) {
+    return this.membersService.getPartyRebels(id, {
+      minVotes: minVotes ? Number(minVotes) : undefined,
+    });
   }
 
   // ─── Party detail ─────────────────────────────────────────

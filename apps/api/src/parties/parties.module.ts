@@ -6,9 +6,10 @@ import { PartiesService } from "./parties.service";
 import { PartiesScorecardService } from "./parties-scorecard.service";
 import { ParliamentModule } from "../parliament/parliament.module";
 import { CoalitionsModule } from "../coalitions/coalitions.module";
+import { MembersModule } from "../members/members.module";
 
 @Module({
-  imports: [ParliamentModule, CoalitionsModule],
+  imports: [ParliamentModule, CoalitionsModule, MembersModule],
   controllers: [PartiesController, ScopedPartiesController, ScopedScorecardsController],
   providers: [PartiesService, PartiesScorecardService],
   exports: [PartiesService],
