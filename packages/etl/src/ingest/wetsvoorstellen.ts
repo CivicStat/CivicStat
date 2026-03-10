@@ -50,8 +50,8 @@ export async function ingestWetsvoorstellen(limit?: number): Promise<void> {
     }
 
     const filter =
-      `Verwijderd eq false and Soort eq 'Wetsvoorstel' and GestartOp ge ${startDate}`;
-    const wetsvoorstellen = await tkClient.getZakenBySoort('Wetsvoorstel', filter, limit);
+      `Verwijderd eq false and Soort eq 'Wetgeving' and GestartOp ge ${startDate}`;
+    const wetsvoorstellen = await tkClient.getZakenBySoort('Wetgeving', filter, limit);
 
     console.log(`[INGEST] Found ${wetsvoorstellen.length} wetsvoorstellen to process`);
 
