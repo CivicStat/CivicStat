@@ -1,11 +1,13 @@
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  previewFeatures = ["postgresqlExtensions"]
 }
 
 datasource db {
-  provider  = "postgresql"
-  url       = env("DATABASE_URL")
-  directUrl = env("DIRECT_URL")
+  provider   = "postgresql"
+  url        = env("DATABASE_URL")
+  directUrl  = env("DIRECT_URL")
+  extensions = [vector]
 }
 
 enum VoteValue {
@@ -215,6 +217,7 @@ model Motion {
   soort          String? // Type besluit (motie, amendement, etc.)
   sourceUrl      String   @map("source_url")
   rawData        Json?    @map("raw_data") // Originele TK/NotuBiz/iBabs data
+  embedding      Unsupported("vector(1536)")?
   parliamentId   String?  @map("parliament_id") @db.Uuid
   externalId     String?  @map("external_id") // NotuBiz module_item ID, iBabs EntryId
   sourceSystem   String?  @map("source_system") // "tweedekamer" | "notubiz" | "ibabs"
@@ -318,7 +321,7 @@ model ProgramPassage {
   passageText String   @map("passage_text") @db.Text
   startOffset Int      @map("start_offset")
   endOffset   Int      @map("end_offset")
-  // embedding   Unsupported("vector")?  // TODO: Enable after pgvector extension
+  embedding   Unsupported("vector(1536)")?
   createdAt   DateTime @default(now()) @map("created_at")
 
   program  Program              @relation(fields: [programId], references: [id], onDelete: Cascade)

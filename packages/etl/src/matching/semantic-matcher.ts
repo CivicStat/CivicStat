@@ -268,12 +268,82 @@ const MATCH_TYPE_MAP: Record<string, PromiseMatchType> = {
   CONTRADICTS: 'CONTRADICTS' as PromiseMatchType,
 };
 
+// ─── Embedding-based Candidate Search ───────────────────────────
+
+/**
+ * Find candidate motions using pgvector cosine similarity.
+ * Falls back to keyword search if embeddings are not available.
+ */
+async function findCandidatesByEmbedding(
+  promiseText: string,
+  parliamentId?: string,
+  topK: number = MAX_CANDIDATES,
+): Promise<Array<{ id: string; title: string; text: string; soort: string | null; similarity: number }>> {
+  const apiKey = process.env.OPENROUTER_API_KEY;
+  if (!apiKey) return [];
+
+  const model = process.env.EMBEDDING_MODEL || 'openai/text-embedding-3-small';
+
+  try {
+    // Generate embedding for the promise text
+    const response = await fetch('https://openrouter.ai/api/v1/embeddings', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${apiKey}`,
+        'HTTP-Referer': 'https://civicstat.nl',
+        'X-Title': 'CivicStat ETL',
+      },
+      body: JSON.stringify({
+        model,
+        input: [promiseText.slice(0, 8000)],
+        dimensions: 1536,
+      }),
+    });
+
+    if (!response.ok) return [];
+
+    const data = await response.json() as any;
+    const embedding = data.data?.[0]?.embedding;
+    if (!embedding || !Array.isArray(embedding)) return [];
+
+    const vecStr = `[${embedding.join(',')}]`;
+    const parliamentFilter = parliamentId ? `AND m.parliament_id = '${parliamentId}'` : '';
+
+    // Cosine similarity search using pgvector
+    const rows = await prisma.$queryRawUnsafe<
+      Array<{ id: string; title: string; text: string; soort: string | null; similarity: number }>
+    >(
+      `SELECT m.id, m.title, m.text, m.soort,
+              1 - (m.embedding <=> $1::vector) as similarity
+       FROM motions m
+       WHERE m.embedding IS NOT NULL ${parliamentFilter}
+       ORDER BY m.embedding <=> $1::vector
+       LIMIT $2`,
+      vecStr,
+      topK,
+    );
+
+    return rows;
+  } catch {
+    // Silently fall back to keyword search if embedding search fails
+    return [];
+  }
+}
+
 // ─── Pre-filter: Find Candidate Motions ─────────────────────────
 
 async function findCandidateMotions(
   promise: { text: string; summary: string; keywords: string[]; theme: string },
   parliamentId?: string,
 ): Promise<Array<{ id: string; title: string; text: string | null; soort: string | null }>> {
+  // Try embedding-based search first (if motions have embeddings)
+  const embeddingCandidates = await findCandidatesByEmbedding(
+    `${promise.summary}\n${promise.text}`,
+    parliamentId,
+    MAX_CANDIDATES,
+  );
+
   // Build search terms: promise keywords + theme-level keywords
   const searchTerms = new Set<string>();
 
@@ -290,35 +360,55 @@ async function findCandidateMotions(
     searchTerms.add(tkw.toLowerCase());
   }
 
-  if (searchTerms.size === 0) {
-    return [];
+  let keywordCandidates: Array<{ id: string; title: string; text: string | null; soort: string | null }> = [];
+
+  if (searchTerms.size > 0) {
+    // Build OR conditions: title OR text contains at least one keyword
+    const terms = Array.from(searchTerms);
+    const orConditions = terms.flatMap((term) => [
+      { title: { contains: term, mode: 'insensitive' as const } },
+      { text: { contains: term, mode: 'insensitive' as const } },
+    ]);
+
+    keywordCandidates = await prisma.motion.findMany({
+      where: {
+        AND: [
+          { OR: orConditions },
+          ...(parliamentId ? [{ parliamentId }] : []),
+        ],
+      },
+      select: {
+        id: true,
+        title: true,
+        text: true,
+        soort: true,
+      },
+      take: MAX_CANDIDATES * 3, // Fetch extra to allow for filtering
+    });
   }
 
-  // Build OR conditions: title OR text contains at least one keyword
-  const terms = Array.from(searchTerms);
-  const orConditions = terms.flatMap((term) => [
-    { title: { contains: term, mode: 'insensitive' as const } },
-    { text: { contains: term, mode: 'insensitive' as const } },
-  ]);
+  // Merge: embedding candidates (high-quality) + keyword candidates (recall)
+  const seenIds = new Set<string>();
+  const merged: Array<{ id: string; title: string; text: string | null; soort: string | null }> = [];
 
-  const candidates = await prisma.motion.findMany({
-    where: {
-      AND: [
-        { OR: orConditions },
-        ...(parliamentId ? [{ parliamentId }] : []),
-      ],
-    },
-    select: {
-      id: true,
-      title: true,
-      text: true,
-      soort: true,
-    },
-    take: MAX_CANDIDATES * 3, // Fetch extra to allow for filtering
-  });
+  // Embedding results first (ranked by similarity)
+  for (const c of embeddingCandidates) {
+    if (c.similarity >= 0.3) { // minimum similarity threshold
+      seenIds.add(c.id);
+      merged.push({ id: c.id, title: c.title, text: c.text, soort: c.soort });
+    }
+  }
+
+  // Then keyword results for additional recall
+  for (const c of keywordCandidates) {
+    if (!seenIds.has(c.id)) {
+      seenIds.add(c.id);
+      merged.push(c);
+    }
+  }
 
   // Filter procedural motions
-  const filtered = candidates.filter((motion) => {
+  const filtered = merged.filter((motion) => {
     const result = shouldMatchMotion({
       title: motion.title,
       description: motion.text || undefined,

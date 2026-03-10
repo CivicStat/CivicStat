@@ -47,6 +47,7 @@ import { seedMunicipalPromises } from './scripts/seed-municipal-promises.js';
 import { extractMunicipalPromises as extractMunicipalPromises2026 } from './scripts/extract-municipal-promises-2026.js';
 import { seedMunicipalPromises as seedMunicipalPromises2026 } from './scripts/seed-municipal-promises-2026.js';
 import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.js';
+import { runEmbedPassages } from './scripts/embed-passages.js';
 
 async function main() {
   const rawArgs = process.argv.slice(2);
@@ -479,6 +480,21 @@ async function main() {
         break;
       }
 
+      case 'embed-passages':
+      case 'embed': {
+        const epTarget = args.find(a => a === '--target') ? args[args.indexOf('--target') + 1] as any : 'all';
+        const epParty = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
+        const epLimit = args.find(a => a === '--limit') ? args[args.indexOf('--limit') + 1] : undefined;
+        const epForce = args.includes('--force');
+        await runEmbedPassages({
+          target: epTarget,
+          party: epParty,
+          limit: epLimit ? parseInt(epLimit) : undefined,
+          force: epForce,
+        });
+        break;
+      }
+
       case 'seed-municipal-2026': {
         const sm26City = args.find(a => a === '--city') ? args[args.indexOf('--city') + 1] : 'all';
         const sm26Party = args.find(a => a === '--party') ? args[args.indexOf('--party') + 1] : undefined;
@@ -612,6 +628,14 @@ async function main() {
         console.log('  npm run ingest seed-municipal-2026 --party vvd            - Seed only VVD 2026');
         console.log('  npm run ingest seed-municipal-2026 --dry-run              - Preview seeding');
         console.log('  npm run ingest seed-municipal-2026 --replace              - Delete existing before seeding');
+        console.log('');
+        console.log('  --- Embedding Generation (pgvector) ---');
+        console.log('  npm run ingest embed-passages                        - Embed all passages + motions');
+        console.log('  npm run ingest embed-passages --target passages      - Only embed passages');
+        console.log('  npm run ingest embed-passages --target motions       - Only embed motions');
+        console.log('  npm run ingest embed-passages --party VVD            - Only embed VVD passages');
+        console.log('  npm run ingest embed-passages --limit 500            - Process first N items');
+        console.log('  npm run ingest embed-passages --force                - Re-embed existing');
         console.log('');
         console.log('  --- AI Provider (applies to all AI tasks) ---');
         console.log('  Set OPENROUTER_API_KEY in .env to use OpenRouter (recommended)');
