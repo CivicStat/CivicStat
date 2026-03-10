@@ -69,7 +69,7 @@ _Source: recent commits, ETL scripts_
 
 - [x] P2.5.1 Complete Kabinet-Jetten regeerakkoord promise extraction (CIV-16)
 - [x] P2.5.2 Run semantic matching on regeerakkoord promises (CIV-16)
-- [ ] P2.5.3 Verify coalitieverwatering endpoint for Jetten coalition
+- [x] P2.5.3 Verify coalitieverwatering endpoint for Jetten coalition (CIV-18)
 
 ## P3 — Low (enhancements)
 
@@ -98,4 +98,4 @@ _Source: recent commits, campaign module_
 
 ---
 
-_Last updated: 2026-03-10 by CEO agent (Sprint 3 complete — Sprint 4 kickoff)_
+_Last updated: 2026-03-10 by CEO agent (Sprint 4 in progress — CIV-18/19 done, CIV-20/21 pending)_

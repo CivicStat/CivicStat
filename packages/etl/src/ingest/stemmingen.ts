@@ -287,9 +287,19 @@ export async function ingestStemmingen(limit?: number): Promise<void> {
  * Re-link orphaned votes (motionId: null) by matching their stored rawData.Zaak
  * against the current Motion table. Useful after ingesting new motion types
  * (e.g., wetsvoorstellen, amendementen) that didn't exist during initial vote ingest.
+ *
+ * Phase 2: For votes on Wetsvoorstel items (Zaak.Soort='Wetgeving') that are still
+ * not in the Motion table, the full Zaak data is already stored in rawData.Zaak —
+ * we can upsert those as Wetsvoorstel Motions on the fly without an extra API call.
  */
 async function relinkOrphanedVotes(): Promise<void> {
   console.log('\n[RELINK] Re-linking orphaned votes...');
+
+  const tkParliament = await prisma.parliament.findFirst({
+    where: { shortName: 'Tweede Kamer' },
+    select: { id: true },
+  });
+
   const allMotions = await prisma.motion.findMany({ select: { id: true, tkId: true } });
   const motionByTkId = new Map(allMotions.map(m => [m.tkId, m.id]));
   console.log(`[RELINK] ${motionByTkId.size} motions available for linking`);
@@ -301,6 +311,9 @@ async function relinkOrphanedVotes(): Promise<void> {
   console.log(`[RELINK] Found ${orphans.length} orphaned votes`);
 
   let linked = 0;
+  // Collect Wetgeving Zaak items not yet in the Motion table for on-demand backfill
+  const missingWetsvoorstelZaken = new Map<string, any>(); // tkId -> rawZaak data
+
   for (const vote of orphans) {
     const rd = vote.rawData as any;
     const zaakList: any[] = rd?.Zaak || [];
@@ -321,9 +334,90 @@ async function relinkOrphanedVotes(): Promise<void> {
     if (motionId) {
       await prisma.vote.update({ where: { id: vote.id }, data: { motionId } });
       linked++;
+    } else if (tkParliament) {
+      // Collect unresolved Wetgeving Zaken for on-demand backfill
+      for (const zaak of zaakList) {
+        if (zaak.Soort === 'Wetgeving' && zaak.Id && !motionByTkId.has(zaak.Id)) {
+          missingWetsvoorstelZaken.set(zaak.Id, zaak);
+        }
+      }
     }
   }
+
   console.log(`[RELINK] Linked ${linked}/${orphans.length} orphaned votes to motions`);
+
+  // Phase 2: backfill missing Wetsvoorstel Motions from rawData (no extra API call needed —
+  // the full Zaak object was already expanded and stored when the vote was ingested).
+  if (missingWetsvoorstelZaken.size > 0 && tkParliament) {
+    console.log(`[RELINK] Backfilling ${missingWetsvoorstelZaken.size} missing Wetsvoorstel items from rawData...`);
+    let backfilled = 0;
+
+    for (const [tkId, zaak] of missingWetsvoorstelZaken) {
+      if (!zaak.GestartOp || !zaak.Titel) continue;
+      try {
+        await prisma.motion.upsert({
+          where: { tkId },
+          update: {
+            tkNumber: zaak.Nummer || null,
+            title: zaak.Titel,
+            text: zaak.Onderwerp || zaak.Titel,
+            dateIntroduced: new Date(zaak.GestartOp),
+            status: zaak.Status || 'Onbekend',
+            soort: 'Wetsvoorstel',
+            parliamentId: tkParliament.id,
+            sourceUrl: `https://www.tweedekamer.nl/kamerstukken/detail?id=${tkId}`,
+            rawData: zaak,
+          },
+          create: {
+            tkId,
+            tkNumber: zaak.Nummer || null,
+            title: zaak.Titel,
+            text: zaak.Onderwerp || zaak.Titel,
+            dateIntroduced: new Date(zaak.GestartOp),
+            status: zaak.Status || 'Onbekend',
+            soort: 'Wetsvoorstel',
+            parliamentId: tkParliament.id,
+            sourceUrl: `https://www.tweedekamer.nl/kamerstukken/detail?id=${tkId}`,
+            rawData: zaak,
+          },
+        });
+        const newMotion = await prisma.motion.findUnique({ where: { tkId }, select: { id: true } });
+        if (newMotion) {
+          motionByTkId.set(tkId, newMotion.id);
+          backfilled++;
+        }
+      } catch (err) {
+        console.warn(`[RELINK] Failed to backfill wetsvoorstel ${tkId}:`, err);
+      }
+    }
+
+    if (backfilled > 0) {
+      console.log(`[RELINK] Backfilled ${backfilled} Wetsvoorstel items — re-linking affected votes...`);
+
+      // Re-link the orphaned votes that referenced the newly backfilled items
+      const stillOrphaned = await prisma.vote.findMany({
+        where: { motionId: null },
+        select: { id: true, rawData: true },
+      });
+
+      let relinked = 0;
+      for (const vote of stillOrphaned) {
+        const rd = vote.rawData as any;
+        const zaakList: any[] = rd?.Zaak || [];
+        for (const zaak of zaakList) {
+          const motionId = motionByTkId.get(zaak.Id);
+          if (motionId) {
+            await prisma.vote.update({ where: { id: vote.id }, data: { motionId } });
+            relinked++;
+            break;
+          }
+        }
+      }
+      if (relinked > 0) {
+        console.log(`[RELINK] Re-linked ${relinked} additional votes after Wetsvoorstel backfill`);
+      }
+    }
+  }
 }
 
 /**
