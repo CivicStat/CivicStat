@@ -28,7 +28,7 @@ _Source: PROMPT-etl-cron.md, PROMPT-three-fixes.md_
 
 - [x] P2.1.1 Verify `sync` and `incremental` CLI commands work end-to-end
 - [x] P2.1.2 Set up GitHub Actions hourly cron (.github/workflows/etl-sync.yml)
-- [ ] P2.1.3 Add DATABASE_URL + OPENROUTER_API_KEY secrets to GitHub repo
+- [x] P2.1.3 Add DATABASE_URL + OPENROUTER_API_KEY secrets to GitHub repo
 
 ### P2.2 — Consensus / Verbinding Page
 _Source: PROMPT-three-fixes.md, PROMPT-verbinding-fix.md_
