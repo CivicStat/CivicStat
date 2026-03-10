@@ -794,12 +794,17 @@ export class PartiesScorecardService {
       ? Math.round((weightedConsistencySum / totalMotionWeight) * 100)
       : 0;
 
+    // Display-friendly periodEnd: show today for ongoing coalitions instead of sentinel
+    const displayPeriodEnd = periodEnd === "2099-12-31"
+      ? new Date().toISOString().split("T")[0]
+      : periodEnd;
+
     return {
       partyId: party.id,
       abbreviation: party.abbreviation,
       electionYear,
       periodStart,
-      periodEnd,
+      periodEnd: displayPeriodEnd,
       totalPromises: promises.length,
       scoredPromises: scored.length,
       insufficientDataPromises: insufficientDataCount,

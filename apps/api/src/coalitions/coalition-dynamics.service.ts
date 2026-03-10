@@ -372,7 +372,27 @@ export class CoalitionDynamicsService {
       }
     }
 
-    // Build results
+    // Build results — resolve party IDs from DB
+    // ABBR_MAP maps DB names → short names; build reverse for lookups
+    const reverseAbbrMap = new Map(
+      Object.entries(ABBR_MAP).map(([dbName, short]) => [short, dbName]),
+    );
+    const dbNames = TRACKED_PARTIES.map((p) => reverseAbbrMap.get(p) ?? p);
+    const tkParties = await prisma.party.findMany({
+      where: {
+        abbreviation: { in: [...new Set([...TRACKED_PARTIES, ...dbNames])] },
+        parliament: { slug: "tweede-kamer" },
+      },
+      select: { id: true, abbreviation: true },
+    });
+    const abbrToId = new Map<string, string>();
+    for (const p of tkParties) {
+      abbrToId.set(p.abbreviation, p.id);
+      // Also map the short name to this ID
+      const shortName = ABBR_MAP[p.abbreviation];
+      if (shortName) abbrToId.set(shortName, p.id);
+    }
+
     const results: CoalitionAlignmentResult[] = [];
 
     for (const party of TRACKED_PARTIES) {
@@ -380,7 +400,7 @@ export class CoalitionDynamicsService {
       if (stat.total === 0) continue;
 
       results.push({
-        partyId: null,
+        partyId: abbrToId.get(party) ?? null,
         abbreviation: party,
         coalitionName: coalition.name,
         coalitionSlug: coalition.slug,
