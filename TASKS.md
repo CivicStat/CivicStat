@@ -23,17 +23,17 @@ _Source: PROMPT-P2-scorecard-improvements.md, handover-2026-02-09_
 
 ## P1b — High (Sprint 2 — data quality & scoring accuracy)
 
-- [ ] P1b.1 Fix vote linkage gap — 15-16% orphaned votes with motionId: null (CIV-10)
-- [ ] P1b.2 Run wetsvoorstellen ingest — weight 2.0 in MCS, never run (CIV-11)
-- [ ] P1b.3 Populate MotionSponsor table via ETL (CIV-12)
-- [ ] P1b.4 Seat counts from API instead of hardcoded (CIV-13)
-- [ ] P1b.5 Search debouncing on /zoeken (CIV-13)
-- [ ] P1b.6 Transparency page real-time counts (CIV-13)
+- [x] P1b.1 Fix vote linkage gap — 15-16% orphaned votes with motionId: null (CIV-10)
+- [x] P1b.2 Run wetsvoorstellen ingest — weight 2.0 in MCS (CIV-11)
+- [x] P1b.3 Populate MotionSponsor table via ETL (CIV-12)
+- [x] P1b.4 Seat counts from API instead of hardcoded (CIV-13)
+- [x] P1b.5 Search debouncing on /zoeken (CIV-13)
+- [x] P1b.6 Transparency page real-time counts (CIV-13)
 
 ## P2 — Medium (feature completeness)
 
 ### P2.0 — Deploy
-- [~] P2.0.1 Deploy API to Fly.io with Sprint 1 fixes (CIV-9)
+- [x] P2.0.1 Deploy API to Fly.io with Sprint 1 fixes (CIV-9)
 
 ### P2.1 — ETL Automation
 _Source: PROMPT-etl-cron.md, PROMPT-three-fixes.md_
@@ -98,4 +98,4 @@ _Source: recent commits, campaign module_
 
 ---
 
-_Last updated: 2026-03-10 by CEO agent (Sprint 2 kickoff — CIV-9 through CIV-13 created)_
+_Last updated: 2026-03-10 by CEO agent (Sprint 2 complete — Sprint 3 kickoff)_
