@@ -1,4 +1,4 @@
-import { Injectable, NotFoundException } from "@nestjs/common";
+import { Injectable, BadRequestException, NotFoundException } from "@nestjs/common";
 import { prisma } from "@ntp/db";
 import { COALITIONS, CoalitionConfig } from "../coalitions/coalitions.config";
 
@@ -312,6 +312,184 @@ export class CampaignService {
           }
         : null,
       parties: campaignParties,
+    };
+  }
+
+  /**
+   * Side-by-side comparison of 2+ parties on promises, MCS scores,
+   * voting alignment per theme, and pairwise vote agreement.
+   *
+   * GET /parliament/:slug/parties/compare?partyIds=id1,id2&year=2026
+   */
+  async compareParties(slug: string, partyIds: string[], year?: number) {
+    if (partyIds.length < 2) {
+      throw new BadRequestException("At least two partyIds are required");
+    }
+    if (partyIds.length > 6) {
+      throw new BadRequestException("Maximum 6 parties for comparison");
+    }
+
+    const parliament = await prisma.parliament.findUnique({
+      where: { slug },
+      select: { id: true, name: true, shortName: true, slug: true },
+    });
+    if (!parliament) {
+      throw new NotFoundException(`Parliament not found: ${slug}`);
+    }
+
+    // Resolve parties — accept both UUIDs and abbreviations
+    const parties = await prisma.party.findMany({
+      where: {
+        parliamentId: parliament.id,
+        OR: [
+          { id: { in: partyIds } },
+          { abbreviation: { in: partyIds, mode: "insensitive" } },
+        ],
+      },
+      select: { id: true, abbreviation: true, name: true, seats: true, colorNeutral: true },
+    });
+
+    if (parties.length < 2) {
+      throw new NotFoundException(
+        `Found only ${parties.length} of ${partyIds.length} parties in ${slug}`,
+      );
+    }
+
+    const resolvedIds = parties.map((p) => p.id);
+
+    // Parallel data fetches
+    const [scorecards, promises, voteRecords] = await Promise.all([
+      // Pre-computed scorecards
+      prisma.precomputedScorecard.findMany({
+        where: {
+          partyId: { in: resolvedIds },
+          programType: "VERKIEZINGSPROGRAMMA",
+          ...(year ? { electionYear: year } : {}),
+        },
+        orderBy: { electionYear: "desc" },
+      }),
+
+      // Promise counts grouped by theme
+      prisma.promise.findMany({
+        where: {
+          program: {
+            partyId: { in: resolvedIds },
+            parliamentId: parliament.id,
+            programType: "VERKIEZINGSPROGRAMMA",
+            ...(year ? { electionYear: year } : {}),
+          },
+        },
+        select: {
+          theme: true,
+          program: { select: { partyId: true } },
+        },
+      }),
+
+      // Vote records for pairwise agreement (all shared votes in this parliament)
+      prisma.voteRecord.findMany({
+        where: {
+          partyIdSnapshot: { in: resolvedIds },
+          vote: { parliamentId: parliament.id },
+          voteValue: { in: ["FOR", "AGAINST"] },
+        },
+        select: {
+          voteId: true,
+          partyIdSnapshot: true,
+          voteValue: true,
+        },
+      }),
+    ]);
+
+    // Build per-party scorecard + theme data
+    const scorecardMap = new Map<string, typeof scorecards>();
+    for (const sc of scorecards) {
+      const list = scorecardMap.get(sc.partyId) ?? [];
+      list.push(sc);
+      scorecardMap.set(sc.partyId, list);
+    }
+
+    // Promise theme distribution per party
+    const themesByParty = new Map<string, Record<string, number>>();
+    const allThemes = new Set<string>();
+    for (const p of promises) {
+      const partyId = p.program.partyId;
+      const themes = themesByParty.get(partyId) ?? {};
+      themes[p.theme] = (themes[p.theme] || 0) + 1;
+      themesByParty.set(partyId, themes);
+      allThemes.add(p.theme);
+    }
+
+    // Build party comparison entries
+    const comparedParties = parties.map((party) => {
+      const scs = scorecardMap.get(party.id) ?? [];
+      const latestSc = scs[0]; // Already ordered desc
+      const detail = latestSc?.detailJson as any;
+      const promiseThemes = themesByParty.get(party.id) ?? {};
+
+      return {
+        partyId: party.id,
+        abbreviation: party.abbreviation,
+        name: party.name,
+        seats: party.seats,
+        colorNeutral: party.colorNeutral,
+        mandateConsistencyScore: latestSc?.mcs ?? null,
+        electionYear: latestSc?.electionYear ?? null,
+        totalPromises: latestSc?.totalPromises ?? Object.values(promiseThemes).reduce((a, b) => a + b, 0),
+        scoredPromises: latestSc?.scoredPromises ?? null,
+        byTheme: detail?.byTheme ?? null,
+        promisesByTheme: promiseThemes,
+      };
+    });
+
+    // Pairwise vote agreement
+    // Group vote records: voteId → partyId → voteValue
+    const voteMap = new Map<string, Map<string, string>>();
+    for (const vr of voteRecords) {
+      let partyVotes = voteMap.get(vr.voteId);
+      if (!partyVotes) {
+        partyVotes = new Map();
+        voteMap.set(vr.voteId, partyVotes);
+      }
+      partyVotes.set(vr.partyIdSnapshot, vr.voteValue);
+    }
+
+    // Compute pairwise agreement for all party pairs
+    const pairs: { party1: string; party2: string; sharedVotes: number; agreed: number; agreementRate: number }[] = [];
+    for (let i = 0; i < parties.length; i++) {
+      for (let j = i + 1; j < parties.length; j++) {
+        const p1 = parties[i];
+        const p2 = parties[j];
+        let shared = 0;
+        let agreed = 0;
+
+        for (const [, partyVotes] of voteMap) {
+          const v1 = partyVotes.get(p1.id);
+          const v2 = partyVotes.get(p2.id);
+          if (v1 && v2) {
+            shared++;
+            if (v1 === v2) agreed++;
+          }
+        }
+
+        pairs.push({
+          party1: p1.abbreviation,
+          party2: p2.abbreviation,
+          sharedVotes: shared,
+          agreed,
+          agreementRate: shared > 0 ? Math.round((agreed / shared) * 100) : 0,
+        });
+      }
+    }
+
+    return {
+      parliamentId: parliament.id,
+      parliamentName: parliament.shortName ?? parliament.name,
+      parliamentSlug: parliament.slug,
+      themes: [...allThemes].sort(),
+      parties: comparedParties,
+      voteAgreement: {
+        pairs: pairs.sort((a, b) => b.agreementRate - a.agreementRate),
+      },
     };
   }
 }
