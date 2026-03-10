@@ -435,5 +435,96 @@ export async function computeScorecards(opts: {
     }
   }
 
+  // ── Regeerakkoord scorecards ──────────────────────────────
+  // Compute scorecards for each coalition party in each regeerakkoord
+  if (!parliamentRecord) {
+    console.log("\n📜 Computing regeerakkoord scorecards...\n");
+
+    const regeerakkoordPrograms = await prisma.program.findMany({
+      where: { programType: "REGEERAKKOORD" },
+      include: { party: { select: { id: true, abbreviation: true, name: true } } },
+    });
+
+    for (const prog of regeerakkoordPrograms) {
+      if (opts.year && prog.electionYear !== opts.year) continue;
+
+      // Each coalition party gets a scorecard for the regeerakkoord
+      const coalitionPartyIds = prog.coalitionPartyIds ?? [];
+      if (coalitionPartyIds.length === 0) {
+        console.log(`  ⏭️  ${prog.title}: no coalitionPartyIds`);
+        continue;
+      }
+
+      const coalitionParties = await prisma.party.findMany({
+        where: { id: { in: coalitionPartyIds } },
+        select: { id: true, abbreviation: true, name: true },
+      });
+
+      // Filter by --party flag if provided
+      const partiesToScore = opts.party
+        ? coalitionParties.filter(p => p.abbreviation.toLowerCase() === opts.party!.toLowerCase())
+        : coalitionParties;
+
+      for (const party of partiesToScore) {
+        try {
+          const scorecard = await computeScorecard(
+            party.id,
+            party.abbreviation,
+            party.name,
+            prog.electionYear,
+            "REGEERAKKOORD",
+          );
+
+          if (!scorecard) {
+            console.log(`  ⏭️  ${party.abbreviation} (RA${prog.electionYear}): no promises`);
+            continue;
+          }
+
+          await prisma.precomputedScorecard.upsert({
+            where: {
+              partyId_electionYear_programType: {
+                partyId: party.id,
+                electionYear: prog.electionYear,
+                programType: "REGEERAKKOORD",
+              },
+            },
+            update: {
+              mcs: scorecard.mandateConsistencyScore,
+              totalPromises: scorecard.totalPromises,
+              scoredPromises: scorecard.scoredPromises,
+              consistentCount: scorecard.consistentCount,
+              inconsistentCount: scorecard.inconsistentCount,
+              mixedCount: scorecard.mixedCount,
+              detailJson: scorecard as any,
+              computedAt: new Date(),
+              algorithmVersion: "semantic-claude-v1",
+            },
+            create: {
+              partyId: party.id,
+              electionYear: prog.electionYear,
+              programType: "REGEERAKKOORD",
+              mcs: scorecard.mandateConsistencyScore,
+              totalPromises: scorecard.totalPromises,
+              scoredPromises: scorecard.scoredPromises,
+              consistentCount: scorecard.consistentCount,
+              inconsistentCount: scorecard.inconsistentCount,
+              mixedCount: scorecard.mixedCount,
+              detailJson: scorecard as any,
+              algorithmVersion: "semantic-claude-v1",
+            },
+          });
+
+          upsertCount++;
+          console.log(
+            `  ✅ ${party.abbreviation} (RA${prog.electionYear}): MCS ${scorecard.mandateConsistencyScore}, ${scorecard.scoredPromises}/${scorecard.totalPromises} scored`,
+          );
+        } catch (err) {
+          errorCount++;
+          console.error(`  ❌ ${party.abbreviation} (RA${prog.electionYear}):`, err instanceof Error ? err.message : err);
+        }
+      }
+    }
+  }
+
   console.log(`\n📊 Done. ${upsertCount} scorecards computed, ${errorCount} errors.\n`);
 }
