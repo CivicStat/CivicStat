@@ -1,0 +1,16 @@
+2026-03-10T15:22:29+01:00 === Agent loop starting ===
+2026-03-10T15:22:29+01:00 Picked task: P2.2.1 Build pre-computed consensus API endpoint (GET /votes/consensus)
+2026-03-10T15:22:29+01:00 Invoking Claude Code...
+P2.2.1 is done. Here's what was implemented:
+
+**`GET /votes/consensus`** — the route already existed but recomputed on every request by scanning all ~12K votes. Changes made to `votes.service.ts`:
+
+1. Added `ConsensusResult` interface with explicit types
+2. Added an in-memory `consensusCache` field (1-hour TTL)  
+3. Split `getConsensus()` into a public cache-aware wrapper and a private `computeConsensus()` method
+4. Cache hits skip the full DB scan (~12K votes × batches), returning in microseconds
+5. Response now includes `computedAt` ISO timestamp so the frontend can show data freshness
+6. The existing `Cache-Control: public, max-age=3600` header on the controller handles CDN-level caching on top
+
+TypeScript typechecks clean.
+2026-03-10T15:25:09+01:00 Committing changes...

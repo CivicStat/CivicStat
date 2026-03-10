@@ -33,7 +33,7 @@ _Source: PROMPT-etl-cron.md, PROMPT-three-fixes.md_
 ### P2.2 — Consensus / Verbinding Page
 _Source: PROMPT-three-fixes.md, PROMPT-verbinding-fix.md_
 
-- [ ] P2.2.1 Build pre-computed consensus API endpoint (GET /votes/consensus)
+- [x] P2.2.1 Build pre-computed consensus API endpoint (GET /votes/consensus)
 - [ ] P2.2.2 Wire PartyBadge into Verbinding page pair rows
 - [ ] P2.2.3 Simplify frontend to fetch consensus endpoint instead of client-side calc
 

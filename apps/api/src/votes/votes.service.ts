@@ -11,8 +11,21 @@ interface VoteListParams {
   parliamentId?: string; // Filter by parliament scope
 }
 
+interface ConsensusResult {
+  parties: string[];
+  matrix: Record<string, Record<string, number>>;
+  topAgreement: { a: string; b: string; pct: number; agree: number; total: number }[];
+  topDisagreement: { a: string; b: string; pct: number; agree: number; total: number }[];
+  totalVotes: number;
+  computedAt: string;
+}
+
+const CONSENSUS_TTL_MS = 60 * 60 * 1000; // 1 hour
+
 @Injectable()
 export class VotesService {
+  private consensusCache: { data: ConsensusResult; computedAt: number } | null = null;
+
   async list({ query, party, result, limit, offset, parliamentId }: VoteListParams) {
     const where: any = {};
 
@@ -100,7 +113,19 @@ export class VotesService {
     };
   }
 
-  async getConsensus() {
+  async getConsensus(): Promise<ConsensusResult> {
+    const now = Date.now();
+    if (this.consensusCache && now - this.consensusCache.computedAt < CONSENSUS_TTL_MS) {
+      return this.consensusCache.data;
+    }
+
+    const raw = await this.computeConsensus();
+    const result: ConsensusResult = { ...raw, computedAt: new Date(now).toISOString() };
+    this.consensusCache = { data: result, computedAt: now };
+    return result;
+  }
+
+  private async computeConsensus(): Promise<Omit<ConsensusResult, "computedAt">> {
     const trackedSet = new Set(TRACKED_PARTIES);
 
     // count[a][b] = { agree, total }
