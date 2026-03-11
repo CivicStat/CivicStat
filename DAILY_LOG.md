@@ -1,5 +1,24 @@
 # CivicStat CEO Daily Log
 
+## 2026-03-11 — S10.3 GitHub Actions ETL Cron Audit
+
+**Status:** Cron IS running on schedule (hourly at :15). All recent runs FAILING.
+
+**Root cause:** GitHub main (`3629b19`) is 19 commits behind local main (`59a6e7e`).
+The old workflow on GitHub uses `npx tsx` + `pnpm install --filter @ntp/etl --filter @ntp/db`
+which fails with `ERR_MODULE_NOT_FOUND: wetsvoorstellen.js` (tsx ESM hook not registering).
+
+**Local workflow already fixed** (`.github/workflows/etl-sync.yml`):
+- `pnpm tsx` instead of `npx tsx`
+- `--filter "@ntp/etl..." --frozen-lockfile` (includes all workspace deps)
+- `cache: "pnpm"` on setup-node
+- `ANTHROPIC_API_KEY` env var added (secret not set in GitHub but `OPENROUTER_API_KEY` is)
+
+**Blocker:** agent-loop does not `git push`. 19 commits need to be pushed manually.
+**Action required by human:** `git push origin main` to deploy fixed workflow to GitHub.
+
+
+
 ## 2026-03-11T09:55Z — CEO Heartbeat
 
 **CTO status:** Idle — no active assignments. Last completed CIV-40 (incremental sync + semantic matching + scorecard recompute) at 07:58 UTC today.
@@ -121,3 +140,72 @@ Rotterdam and Utrecht have 0 data. CTO has not successfully started either ETL. 
 **Next CTO assignment:** CIV-43 + CIV-44 — CTO is now awake and should be processing the @mention. Will verify progress next heartbeat.
 
 **Risk assessment:** 4th heartbeat with no ETL progress. CTO has been woken successfully this time. If no data appears by next heartbeat (~12:00Z), will escalate and consider creating a dedicated ETL agent to run in parallel.
+
+## 2026-03-11T11:52Z — CEO Heartbeat
+
+**CTO status:** ACTIVE — Running CIV-46 (board-created ETL task), checked out at 11:36Z. Active run 8b07481d. Data is flowing into Supabase.
+
+**Completed since last heartbeat:**
+- Rotterdam motion+vote ingest: 708 motions, 685 votes now in DB (was 0)
+- Utrecht motion ingest: 56 motions now in DB (was 0, still growing)
+- Both cities accessible via live API without redeployment (shared Supabase DB)
+
+**Blocked:**
+- civicstat.nl DNS (P0.3) — requires manual GoDaddy access by Kobe (ongoing)
+
+**Deadline check:** 18 March 2026 = 7 days away — AT RISK (improving)
+
+ETL data is flowing for both cities. Risk downgraded from "no progress" to "pipeline in progress, party gap identified". Remaining pipeline: party ingest → promise seeding → semantic matching → scorecards → deploy. 7 days is tight but feasible now that data is moving.
+
+**GAP IDENTIFIED:** Both Rotterdam and Utrecht have 0 parties. Motions and votes are ingested but party/fractie records are missing. Without parties, semantic matching and scorecards cannot run. Posted comment on CTO's active task flagging this.
+
+**Platform status verified (11:51Z):**
+- API health: OK
+- Rotterdam: 708 motions, 685 votes, **0 parties** — ETL in progress
+- Utrecht: 56 motions, **0 parties** — ETL in progress
+- Amsterdam + Den Haag + National: all operational
+
+**Actions taken this heartbeat:**
+- Verified API health: OK
+- Queried Rotterdam + Utrecht endpoints — confirmed data flowing
+- Identified party ingest gap (0 parties both cities)
+- Posted comment on CIV-46 flagging party gap and remaining pipeline steps
+- Updated TASKS.md with progress on CIV-43 + CIV-44
+
+**Next CTO assignment:** CTO is actively running CIV-46. No new assignment needed. Will verify party ingest progress and ETL completion next heartbeat.
+
+## 2026-03-11T12:05Z — CEO Heartbeat
+
+**CTO status:** ACTIVE — Run 8b07481d still running. Currently executing `sync-ori --parliament rotterdam` (PID 63420, started 12:43 local). No CTO comments posted since last heartbeat.
+
+**Completed since last heartbeat:**
+- Rotterdam motions: 708 → 1,907 (+1,199)
+- Rotterdam votes: 685 → 1,739 (+1,054)
+- Utrecht motions: 56 → 220 (+164)
+- Utrecht votes: 0 → 220 (+220)
+- Utrecht parties: 0 → 16 (gap resolved!)
+
+**Blocked:**
+- Rotterdam parties: still 0 — CRITICAL GAP. Without parties, semantic matching and scorecards cannot run for Rotterdam.
+- civicstat.nl DNS (P0.3) — requires manual GoDaddy access by Kobe (ongoing)
+
+**Deadline check:** 18 March 2026 = 7 days away — AT RISK (improving for Utrecht, stalled for Rotterdam parties)
+
+**Concern:** CTO is running `sync-ori --parliament rotterdam` but Rotterdam should use NotuBiz (org 726), not ORI. Posted comment asking CTO to clarify. Data IS flowing so the command may be working correctly — possibly a unified sync command. Will verify.
+
+**Platform status verified (12:04Z):**
+- API health: OK
+- Rotterdam: 1,907 motions, 1,739 votes, **0 parties** — ETL active
+- Utrecht: 220 motions, 220 votes, **16 parties** — ETL active
+- Amsterdam + Den Haag + National: all operational
+
+**Actions taken this heartbeat:**
+- Verified API health: OK
+- Queried Rotterdam + Utrecht endpoints — confirmed data growing
+- Confirmed Utrecht party gap resolved (16 parties now)
+- Identified Rotterdam party gap persists (0 parties)
+- Noted CTO running `sync-ori` for Rotterdam (expected NotuBiz) — posted clarification request
+- Posted status comment on CIV-46
+- Updated TASKS.md with latest numbers
+
+**Next CTO assignment:** CTO is actively running CIV-46. No new assignment needed. Critical follow-up: Rotterdam party ingest must happen before pipeline can advance.
