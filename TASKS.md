@@ -80,7 +80,7 @@ _Source: docs/architecture-municipal-expansion.md, docs/spike-municipal-data-sou
 - [x] P3.1.2 Complete Den Haag NotuBiz ingest (CIV-27)
 - [x] P3.1.3 Seed 2026 municipal promises for Amsterdam + Den Haag (CIV-32)
 - [x] P3.1.4 Run municipal semantic matching (CIV-33 — Amsterdam: 28,724 matches, Den Haag: 26,645 matches)
-- [ ] P3.1.5 Request iBabs IP whitelisting for Rotterdam + Utrecht (future)
+- [!] P3.1.5 Request iBabs IP whitelisting for Rotterdam + Utrecht (future)
 
 ### P3.2 — Coalition Dynamics
 _Source: recent commits_
