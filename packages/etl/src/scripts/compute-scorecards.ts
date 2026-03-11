@@ -405,6 +405,7 @@ export async function computeScorecards(opts: {
             detailJson: scorecard as any,
             computedAt: new Date(),
             algorithmVersion: "semantic-claude-v1",
+            ...(parliamentRecord && { parliamentId: parliamentRecord.id }),
           },
           create: {
             partyId: party.id,
@@ -418,6 +419,7 @@ export async function computeScorecards(opts: {
             mixedCount: scorecard.mixedCount,
             detailJson: scorecard as any,
             algorithmVersion: "semantic-claude-v1",
+            ...(parliamentRecord && { parliamentId: parliamentRecord.id }),
           },
         });
 
