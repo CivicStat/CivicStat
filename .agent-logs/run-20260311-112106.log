@@ -1,0 +1,24 @@
+2026-03-11T11:21:06+01:00 === Agent loop starting ===
+2026-03-11T11:21:06+01:00 Picked task: S10.1 Feedback widget on scorecards — citizen input (P3.2.2)
+2026-03-11T11:21:06+01:00 Invoking Claude Code...
+Done. Here's a summary of what was implemented:
+
+**S10.1 — Scorecard Feedback Widget**
+
+Three files changed:
+
+1. **`civicstat-web/components/ScorecardFeedback.tsx`** (new) — Client component with three states:
+   - `idle`: Shows a "Klopt dit niet? Geef feedback" link
+   - `form`: Inline textarea form (expands in-place, no modal)
+   - `submitted`: Confirmation message
+   - Tries `window.Usersnap.open()` first (reuses existing global widget); falls back to inline form if Usersnap isn't loaded
+
+2. **`civicstat-web/app/api/scorecard-feedback/route.ts`** (new) — Next.js API route that:
+   - Validates the payload
+   - Forwards to `FEEDBACK_WEBHOOK_URL` env var if set (Slack-compatible JSON)
+   - Falls back to `console.log` if no webhook configured
+
+3. **`civicstat-web/app/partijen/[id]/page.tsx`** — Added `ScorecardFeedback` button alongside the `MethodologyLink` at the bottom of the scorecard card, passing `partyId`, `partyAbbreviation`, and `electionYear` as context.
+
+No new DB tables or migrations needed. To activate webhook delivery, set `FEEDBACK_WEBHOOK_URL` in Vercel env vars.
+2026-03-11T11:23:48+01:00 Committing changes...

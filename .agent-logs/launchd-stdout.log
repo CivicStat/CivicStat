@@ -736,3 +736,18 @@
 2026-03-10T22:42:30+01:00 Picked task: P2.4.2 Set up pgvector embeddings for passage similarity search
 2026-03-10T22:42:30+01:00 Invoking Claude Code...
 2026-03-11T09:20:34+01:00 Committing changes...
+[main ba24ec2] feat(P2.4.2): P2.4.2 Set up pgvector embeddings for passage similarity search
+ 9 files changed, 9644 insertions(+), 2658 deletions(-)
+ create mode 100644 .agent-logs/run-20260310-224230.log
+2026-03-11T09:20:34+01:00 === Task P2.4.2 completed ===
+2026-03-11T10:20:34+01:00 === Agent loop starting ===
+2026-03-11T10:20:35+01:00 Picked task: P3.1.5 Request iBabs IP whitelisting for Rotterdam + Utrecht (future)
+2026-03-11T10:20:35+01:00 Invoking Claude Code...
+2026-03-11T10:21:06+01:00 Task P3.1.5 is blocked. See .agent-logs/blocked-P3.1.5.md
+[main f1d035f] chore: mark P3.1.5 as blocked
+ 2 files changed, 34 insertions(+), 1 deletion(-)
+ create mode 100644 .agent-logs/blocked-P3.1.5.md
+2026-03-11T11:21:06+01:00 === Agent loop starting ===
+2026-03-11T11:21:06+01:00 Picked task: S10.1 Feedback widget on scorecards — citizen input (P3.2.2)
+2026-03-11T11:21:06+01:00 Invoking Claude Code...
+2026-03-11T11:23:48+01:00 Committing changes...
