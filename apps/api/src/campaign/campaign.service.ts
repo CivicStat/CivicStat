@@ -7,14 +7,17 @@ export interface ElectionOverviewParty {
   abbreviation: string;
   name: string;
   seats: number | null;
-  historicalMcs: number | null;       // 2023 MCS (TK2023)
+  historicalMcs: number | null;
   historicalScoredPromises: number | null;
   historicalTotalPromises: number | null;
-  vooruitblikMcs: number | null;      // 2025 MCS (TK2025)
+  vooruitblikMcs: number | null;
   vooruitblikScoredPromises: number | null;
   vooruitblikTotalPromises: number | null;
-  promiseCount2023: number;
-  promiseCount2025: number;
+  promiseCountHistorical: number;
+  promiseCountCurrent: number;
+  // Aliases for backwards compat with frontend
+  promiseCount2022: number;
+  promiseCount2026: number;
 }
 
 export interface ElectionOverviewResponse {
@@ -31,12 +34,18 @@ export class CampaignService {
     // Resolve parliament
     const parliament = await prisma.parliament.findUnique({
       where: { slug },
-      select: { id: true, name: true, shortName: true, slug: true },
+      select: { id: true, name: true, shortName: true, slug: true, level: true },
     });
 
     if (!parliament) {
       throw new NotFoundException(`Parliament not found: ${slug}`);
     }
+
+    // Municipal elections use different year cycle: 2022 (historical) + 2026 (current)
+    // National elections: 2023 (historical) + 2025 (current)
+    const isMunicipal = parliament.level === "MUNICIPAL";
+    const historicalYear = isMunicipal ? 2022 : 2023;
+    const currentYear = isMunicipal ? 2026 : 2025;
 
     // Get all parties for this parliament
     const parties = await prisma.party.findMany({
@@ -44,114 +53,90 @@ export class CampaignService {
       select: { id: true, abbreviation: true, name: true, seats: true },
     });
 
-    // Get pre-computed scorecards for TK2023 (historical) + TK2025 (vooruitblik)
-    const [scorecards2023, scorecards2025] = await Promise.all([
+    const partyIds = parties.map((p) => p.id);
+
+    // Get pre-computed scorecards for historical + current year
+    const [scorecardsHistorical, scorecardsCurrent] = await Promise.all([
       prisma.precomputedScorecard.findMany({
         where: {
-          electionYear: 2023,
+          electionYear: historicalYear,
           programType: "VERKIEZINGSPROGRAMMA",
-          partyId: { in: parties.map((p) => p.id) },
+          partyId: { in: partyIds },
         },
-        select: {
-          partyId: true,
-          mcs: true,
-          scoredPromises: true,
-          totalPromises: true,
-        },
+        select: { partyId: true, mcs: true, scoredPromises: true, totalPromises: true },
       }),
       prisma.precomputedScorecard.findMany({
         where: {
-          electionYear: 2025,
+          electionYear: currentYear,
           programType: "VERKIEZINGSPROGRAMMA",
-          partyId: { in: parties.map((p) => p.id) },
+          partyId: { in: partyIds },
         },
-        select: {
-          partyId: true,
-          mcs: true,
-          scoredPromises: true,
-          totalPromises: true,
-        },
+        select: { partyId: true, mcs: true, scoredPromises: true, totalPromises: true },
       }),
     ]);
 
-    // Get promise counts for TK2023 + TK2025
-    const [promiseCounts2023, promiseCounts2025] = await Promise.all([
-      prisma.promise.groupBy({
+    // Helper to count promises by year
+    const countPromisesByYear = async (year: number) => {
+      const grouped = await prisma.promise.groupBy({
         by: ["programId"],
         where: {
           program: {
             parliamentId: parliament.id,
-            electionYear: 2023,
+            electionYear: year,
             programType: "VERKIEZINGSPROGRAMMA",
           },
         },
         _count: true,
-      }).then(async (grouped) => {
-        // Map programId → partyId
-        const programs = await prisma.program.findMany({
-          where: { id: { in: grouped.map((g) => g.programId) } },
-          select: { id: true, partyId: true },
-        });
-        const programPartyMap = new Map(programs.map((p) => [p.id, p.partyId]));
-        const counts = new Map<string, number>();
-        for (const g of grouped) {
-          const partyId = programPartyMap.get(g.programId);
-          if (partyId) counts.set(partyId, (counts.get(partyId) || 0) + g._count);
-        }
-        return counts;
-      }),
-      prisma.promise.groupBy({
-        by: ["programId"],
-        where: {
-          program: {
-            parliamentId: parliament.id,
-            electionYear: 2025,
-            programType: "VERKIEZINGSPROGRAMMA",
-          },
-        },
-        _count: true,
-      }).then(async (grouped) => {
-        const programs = await prisma.program.findMany({
-          where: { id: { in: grouped.map((g) => g.programId) } },
-          select: { id: true, partyId: true },
-        });
-        const programPartyMap = new Map(programs.map((p) => [p.id, p.partyId]));
-        const counts = new Map<string, number>();
-        for (const g of grouped) {
-          const partyId = programPartyMap.get(g.programId);
-          if (partyId) counts.set(partyId, (counts.get(partyId) || 0) + g._count);
-        }
-        return counts;
-      }),
+      });
+      const programs = await prisma.program.findMany({
+        where: { id: { in: grouped.map((g) => g.programId) } },
+        select: { id: true, partyId: true },
+      });
+      const programPartyMap = new Map(programs.map((p) => [p.id, p.partyId]));
+      const counts = new Map<string, number>();
+      for (const g of grouped) {
+        const partyId = programPartyMap.get(g.programId);
+        if (partyId) counts.set(partyId, (counts.get(partyId) || 0) + g._count);
+      }
+      return counts;
+    };
+
+    const [promiseCountsHistorical, promiseCountsCurrent] = await Promise.all([
+      countPromisesByYear(historicalYear),
+      countPromisesByYear(currentYear),
     ]);
 
     // Build lookup maps
-    const sc2023Map = new Map(scorecards2023.map((s) => [s.partyId, s]));
-    const sc2025Map = new Map(scorecards2025.map((s) => [s.partyId, s]));
+    const scHistMap = new Map(scorecardsHistorical.map((s) => [s.partyId, s]));
+    const scCurMap = new Map(scorecardsCurrent.map((s) => [s.partyId, s]));
 
     // Merge into party overview — only include parties that have at least some data
     const overviewParties: ElectionOverviewParty[] = parties
       .filter((p) => {
-        const has2023 = sc2023Map.has(p.id) || (promiseCounts2023.get(p.id) ?? 0) > 0;
-        const has2025 = sc2025Map.has(p.id) || (promiseCounts2025.get(p.id) ?? 0) > 0;
-        return has2023 || has2025;
+        const hasHistorical = scHistMap.has(p.id) || (promiseCountsHistorical.get(p.id) ?? 0) > 0;
+        const hasCurrent = scCurMap.has(p.id) || (promiseCountsCurrent.get(p.id) ?? 0) > 0;
+        return hasHistorical || hasCurrent;
       })
       .map((p) => {
-        const sc2023 = sc2023Map.get(p.id);
-        const sc2025 = sc2025Map.get(p.id);
+        const scHist = scHistMap.get(p.id);
+        const scCur = scCurMap.get(p.id);
+        const countHist = promiseCountsHistorical.get(p.id) ?? 0;
+        const countCur = promiseCountsCurrent.get(p.id) ?? 0;
         return {
           partyId: p.id,
           abbreviation: p.abbreviation,
           name: p.name,
           seats: p.seats,
-          historicalMcs: sc2023?.mcs ?? null,
-          historicalScoredPromises: sc2023?.scoredPromises ?? null,
-          historicalTotalPromises: sc2023?.totalPromises ?? null,
-          vooruitblikMcs: sc2025?.mcs ?? null,
-          vooruitblikScoredPromises: sc2025?.scoredPromises ?? null,
-          vooruitblikTotalPromises: sc2025?.totalPromises ?? null,
-          promiseCount2023: promiseCounts2023.get(p.id) ?? 0,
-          promiseCount2025: promiseCounts2025.get(p.id) ?? 0,
+          historicalMcs: scHist?.mcs ?? null,
+          historicalScoredPromises: scHist?.scoredPromises ?? null,
+          historicalTotalPromises: scHist?.totalPromises ?? null,
+          vooruitblikMcs: scCur?.mcs ?? null,
+          vooruitblikScoredPromises: scCur?.scoredPromises ?? null,
+          vooruitblikTotalPromises: scCur?.totalPromises ?? null,
+          promiseCountHistorical: countHist,
+          promiseCountCurrent: countCur,
+          promiseCount2022: countHist,
+          promiseCount2026: countCur,
         };
       })
       .sort((a, b) => a.abbreviation.localeCompare(b.abbreviation));
