@@ -1,7 +1,9 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { MembersService } from "./members.service";
 import { MemberScorecardService } from "./member-scorecard.service";
 
+@ApiTags("members")
 @Controller("members")
 export class MembersController {
   constructor(
@@ -9,6 +11,10 @@ export class MembersController {
     private readonly scorecardService: MemberScorecardService,
   ) {}
 
+  @ApiOperation({ summary: "List members of parliament (Kamerleden)" })
+  @ApiQuery({ name: "q", required: false, description: "Name search" })
+  @ApiQuery({ name: "party", required: false, description: "Party abbreviation" })
+  @ApiQuery({ name: "active", required: false, description: "Filter active MPs only (default: true)" })
   @Get()
   async list(
     @Query("q") q?: string,
@@ -22,6 +28,11 @@ export class MembersController {
     });
   }
 
+  @ApiOperation({ summary: "Get MCS scorecards for all members" })
+  @ApiQuery({ name: "electionYear", required: false })
+  @ApiQuery({ name: "party", required: false })
+  @ApiQuery({ name: "limit", required: false })
+  @ApiQuery({ name: "offset", required: false })
   @Get("scorecards")
   async allScorecards(
     @Query("electionYear") electionYear?: string,
@@ -37,11 +48,17 @@ export class MembersController {
     });
   }
 
+  @ApiOperation({ summary: "Get MP detail" })
+  @ApiParam({ name: "id", description: "MP ID" })
   @Get(":id")
   async get(@Param("id") id: string) {
     return this.membersService.get(id);
   }
 
+  @ApiOperation({ summary: "Get voting record for an MP" })
+  @ApiParam({ name: "id", description: "MP ID" })
+  @ApiQuery({ name: "limit", required: false })
+  @ApiQuery({ name: "offset", required: false })
   @Get(":id/voting-record")
   async votingRecord(
     @Param("id") id: string,
@@ -54,6 +71,11 @@ export class MembersController {
     });
   }
 
+  @ApiOperation({ summary: "Get MCS scorecard for an MP" })
+  @ApiParam({ name: "id", description: "MP ID" })
+  @ApiQuery({ name: "electionYear", required: false })
+  @ApiQuery({ name: "periodStart", required: false })
+  @ApiQuery({ name: "periodEnd", required: false })
   @Get(":id/scorecard")
   async scorecard(
     @Param("id") id: string,

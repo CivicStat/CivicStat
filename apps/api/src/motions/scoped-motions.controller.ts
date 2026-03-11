@@ -1,4 +1,5 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { MotionsService } from "./motions.service";
 import { ParliamentService } from "../parliament/parliament.service";
 
@@ -7,6 +8,7 @@ import { ParliamentService } from "../parliament/parliament.service";
  *   GET /parliament/:slug/motions
  *   GET /parliament/:slug/motions/:id
  */
+@ApiTags("parliament-scoped")
 @Controller("parliament/:slug/motions")
 export class ScopedMotionsController {
   constructor(
@@ -14,6 +16,16 @@ export class ScopedMotionsController {
     private readonly parliamentService: ParliamentService,
   ) {}
 
+  @ApiOperation({ summary: "List motions for a parliament" })
+  @ApiParam({ name: "slug", description: "Parliament slug (e.g. amsterdam, den-haag)" })
+  @ApiQuery({ name: "q", required: false })
+  @ApiQuery({ name: "party", required: false })
+  @ApiQuery({ name: "status", required: false })
+  @ApiQuery({ name: "result", required: false })
+  @ApiQuery({ name: "hasVotes", required: false })
+  @ApiQuery({ name: "hasPromiseMatches", required: false })
+  @ApiQuery({ name: "limit", required: false })
+  @ApiQuery({ name: "offset", required: false })
   @Get()
   async list(
     @Param("slug") slug: string,
@@ -48,6 +60,9 @@ export class ScopedMotionsController {
     });
   }
 
+  @ApiOperation({ summary: "Get motion detail (parliament-scoped)" })
+  @ApiParam({ name: "slug", description: "Parliament slug" })
+  @ApiParam({ name: "id", description: "Motion ID" })
   @Get(":id")
   async get(@Param("slug") slug: string, @Param("id") id: string) {
     await this.parliamentService.findBySlug(slug);

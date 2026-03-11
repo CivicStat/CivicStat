@@ -1,4 +1,5 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { PromisesService } from "./promises.service";
 import { ParliamentService } from "../parliament/parliament.service";
 
@@ -8,6 +9,7 @@ import { ParliamentService } from "../parliament/parliament.service";
  *   GET /parliament/:slug/promises
  *   GET /parliament/:slug/promises/:id
  */
+@ApiTags("parliament-scoped")
 @Controller("parliament/:slug/promises")
 export class ScopedPromisesController {
   constructor(
@@ -15,12 +17,22 @@ export class ScopedPromisesController {
     private readonly parliamentService: ParliamentService,
   ) {}
 
+  @ApiOperation({ summary: "Get promise statistics for a parliament" })
+  @ApiParam({ name: "slug", description: "Parliament slug" })
   @Get("stats")
   async stats(@Param("slug") slug: string) {
     const parliamentId = await this.parliamentService.resolveParliamentId(slug);
     return this.promisesService.stats(parliamentId);
   }
 
+  @ApiOperation({ summary: "List promises for a parliament" })
+  @ApiParam({ name: "slug", description: "Parliament slug" })
+  @ApiQuery({ name: "q", required: false })
+  @ApiQuery({ name: "party", required: false })
+  @ApiQuery({ name: "year", required: false })
+  @ApiQuery({ name: "theme", required: false })
+  @ApiQuery({ name: "limit", required: false })
+  @ApiQuery({ name: "offset", required: false })
   @Get()
   async list(
     @Param("slug") slug: string,
@@ -46,6 +58,9 @@ export class ScopedPromisesController {
     });
   }
 
+  @ApiOperation({ summary: "Get promise detail (parliament-scoped)" })
+  @ApiParam({ name: "slug", description: "Parliament slug" })
+  @ApiParam({ name: "id", description: "Promise ID" })
   @Get(":id")
   async get(@Param("slug") slug: string, @Param("id") id: string) {
     await this.parliamentService.findBySlug(slug);

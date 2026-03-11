@@ -42,7 +42,7 @@ Success: Both municipal endpoints return scorecards on production
 
 ### S10 — Platform Polish & Automation
 - [x] S10.1 Feedback widget on scorecards — citizen input (P3.2.2)
-- [ ] S10.2 API documentation / OpenAPI spec generation
+- [x] S10.2 API documentation / OpenAPI spec generation
 - [ ] S10.3 Verify GitHub Actions ETL cron is running on schedule
 - [ ] S10.4 Add scorecard recompute to automated sync pipeline
 

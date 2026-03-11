@@ -1,7 +1,9 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { MotionsService } from "./motions.service";
 import { PredictionsService } from "../predictions/predictions.service";
 
+@ApiTags("motions")
 @Controller("motions")
 export class MotionsController {
   constructor(
@@ -9,6 +11,16 @@ export class MotionsController {
     private readonly predictionsService: PredictionsService,
   ) {}
 
+  @ApiOperation({ summary: "List parliamentary motions (Tweede Kamer)" })
+  @ApiQuery({ name: "q", required: false, description: "Full-text search query" })
+  @ApiQuery({ name: "party", required: false, description: "Filter by party abbreviation" })
+  @ApiQuery({ name: "status", required: false, description: "Motion status filter" })
+  @ApiQuery({ name: "result", required: false, description: "Vote result filter (aangenomen/verworpen)" })
+  @ApiQuery({ name: "soort", required: false, description: "Motion type (Motie/Amendement/Wetsvoorstel)" })
+  @ApiQuery({ name: "hasVotes", required: false, description: "Filter to motions with vote records" })
+  @ApiQuery({ name: "hasPromiseMatches", required: false, description: "Filter by promise match presence" })
+  @ApiQuery({ name: "limit", required: false, description: "Page size (max 100, default 20)" })
+  @ApiQuery({ name: "offset", required: false, description: "Page offset" })
   @Get()
   async list(
     @Query("q") q?: string,
@@ -37,11 +49,15 @@ export class MotionsController {
     });
   }
 
+  @ApiOperation({ summary: "Get motion detail" })
+  @ApiParam({ name: "id", description: "Motion ID" })
   @Get(":id")
   async get(@Param("id") id: string) {
     return this.motionsService.get(id);
   }
 
+  @ApiOperation({ summary: "Predict vote outcome for a motion", description: "Uses promise-motion matches to predict how each party would vote." })
+  @ApiParam({ name: "id", description: "Motion ID" })
   @Get(":id/prediction")
   async prediction(@Param("id") id: string) {
     return this.predictionsService.predictMotion(id);

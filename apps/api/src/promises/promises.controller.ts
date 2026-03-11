@@ -1,15 +1,25 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { PromisesService } from "./promises.service";
 
+@ApiTags("promises")
 @Controller("promises")
 export class PromisesController {
   constructor(private readonly promisesService: PromisesService) {}
 
+  @ApiOperation({ summary: "Get promise statistics" })
   @Get("stats")
   async stats() {
     return this.promisesService.stats();
   }
 
+  @ApiOperation({ summary: "List election promises" })
+  @ApiQuery({ name: "q", required: false, description: "Full-text search" })
+  @ApiQuery({ name: "party", required: false, description: "Party abbreviation" })
+  @ApiQuery({ name: "year", required: false, description: "Election year" })
+  @ApiQuery({ name: "theme", required: false, description: "Promise theme (e.g. WONEN, ZORG, KLIMAAT)" })
+  @ApiQuery({ name: "limit", required: false, description: "Page size (max 100, default 50)" })
+  @ApiQuery({ name: "offset", required: false })
   @Get()
   async list(
     @Query("q") q?: string,
@@ -32,6 +42,8 @@ export class PromisesController {
     });
   }
 
+  @ApiOperation({ summary: "Get promise detail with motion matches" })
+  @ApiParam({ name: "id", description: "Promise ID" })
   @Get(":id")
   async get(@Param("id") id: string) {
     return this.promisesService.get(id);

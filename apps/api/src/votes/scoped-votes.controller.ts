@@ -1,4 +1,5 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { VotesService } from "./votes.service";
 import { ParliamentService } from "../parliament/parliament.service";
 
@@ -6,6 +7,7 @@ import { ParliamentService } from "../parliament/parliament.service";
  * Parliament-scoped votes:
  *   GET /parliament/:slug/votes
  */
+@ApiTags("parliament-scoped")
 @Controller("parliament/:slug/votes")
 export class ScopedVotesController {
   constructor(
@@ -13,6 +15,12 @@ export class ScopedVotesController {
     private readonly parliamentService: ParliamentService,
   ) {}
 
+  @ApiOperation({ summary: "List votes for a parliament" })
+  @ApiParam({ name: "slug", description: "Parliament slug" })
+  @ApiQuery({ name: "q", required: false })
+  @ApiQuery({ name: "result", required: false })
+  @ApiQuery({ name: "limit", required: false })
+  @ApiQuery({ name: "offset", required: false })
   @Get()
   async list(
     @Param("slug") slug: string,

@@ -1,0 +1,18 @@
+2026-03-11T12:23:49+01:00 === Agent loop starting ===
+2026-03-11T12:23:49+01:00 Picked task: S10.2 API documentation / OpenAPI spec generation
+2026-03-11T12:23:49+01:00 Invoking Claude Code...
+S10.2 is complete. Here's what was implemented:
+
+**Changes made:**
+
+1. **`apps/api/package.json`** — Added `@nestjs/swagger@7.4.2` and `swagger-ui-express` as dependencies (v7 is compatible with NestJS 10), plus `@types/swagger-ui-express` as devDependency.
+
+2. **`apps/api/src/main.ts`** — Configured `SwaggerModule` with:
+   - Title: "CivicStat API", description, version, contact
+   - 12 tags (parties, motions, votes, members, promises, coalitions, parliaments, parliament-scoped, stats, insights, campaign, health)
+   - Swagger UI served at `/docs`
+
+3. **All 20 controllers** — Added `@ApiTags`, `@ApiOperation`, `@ApiParam`, and `@ApiQuery` decorators to every endpoint across all controllers (parties, motions, votes, members, promises, coalitions, parliament, all scoped variants, campaign, insights, stats, admin, langfuse).
+
+**Result:** When the API starts, interactive OpenAPI documentation is available at `http://localhost:4000/docs` (or `https://civicstat-api.fly.dev/docs` in production). The raw OpenAPI JSON spec is at `/docs-json`.
+2026-03-11T12:30:10+01:00 Committing changes...

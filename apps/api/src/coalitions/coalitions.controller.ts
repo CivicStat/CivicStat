@@ -1,7 +1,9 @@
 import { Controller, Get, Param, Query } from "@nestjs/common";
+import { ApiOperation, ApiParam, ApiTags } from "@nestjs/swagger";
 import { COALITIONS } from "./coalitions.config";
 import { CoalitionDynamicsService } from "./coalition-dynamics.service";
 
+@ApiTags("coalitions")
 @Controller("coalitions")
 export class CoalitionsController {
   constructor(
@@ -11,6 +13,7 @@ export class CoalitionsController {
   /**
    * GET /coalitions — list all known coalition configurations.
    */
+  @ApiOperation({ summary: "List all coalition configurations", description: "Returns all tracked coalitions with their member parties and active periods." })
   @Get()
   listCoalitions() {
     return COALITIONS.map((c) => ({
@@ -27,6 +30,7 @@ export class CoalitionsController {
    * GET /coalitions/compare — Compare coalition dynamics across all coalitions.
    * Returns CAI, classification, and coalitieverwatering for each coalition.
    */
+  @ApiOperation({ summary: "Compare coalition dynamics across all coalitions", description: "Returns CAI, vote classification, and coalitieverwatering for each tracked coalition." })
   @Get("compare")
   async compareCoalitions() {
     const results = await Promise.all(
@@ -99,6 +103,8 @@ export class CoalitionsController {
    * GET /coalitions/:slug/alignment — CAI for all tracked parties
    * during this coalition's active period.
    */
+  @ApiOperation({ summary: "Coalition Alignment Index for all parties", description: "Returns CAI scores showing how aligned each party is with coalition voting behavior." })
+  @ApiParam({ name: "slug", description: "Coalition slug (e.g. schoof, jetten)" })
   @Get(":slug/alignment")
   async getAlignment(@Param("slug") slug: string) {
     return this.coalitionDynamicsService.computeCAI(slug);
@@ -108,6 +114,8 @@ export class CoalitionsController {
    * GET /coalitions/:slug/classification — Vote classification summary.
    * Returns how many votes were coalition-unanimous vs. free votes.
    */
+  @ApiOperation({ summary: "Vote classification for a coalition", description: "Returns how many votes were coalition-unanimous (coalition votes) vs. free votes where parties split." })
+  @ApiParam({ name: "slug", description: "Coalition slug" })
   @Get(":slug/classification")
   async getClassification(@Param("slug") slug: string) {
     const result = await this.coalitionDynamicsService.classifyVotes(slug);
