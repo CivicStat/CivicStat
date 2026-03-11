@@ -48,6 +48,7 @@ import { extractMunicipalPromises as extractMunicipalPromises2026 } from './scri
 import { seedMunicipalPromises as seedMunicipalPromises2026 } from './scripts/seed-municipal-promises-2026.js';
 import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.js';
 import { runNotubizSync } from './municipal/notubiz-sync.js';
+import { runORISync } from './municipal/ori-sync.js';
 import { runEmbedPassages } from './scripts/embed-passages.js';
 
 async function main() {
@@ -480,6 +481,21 @@ async function main() {
         const smFrom = args.find(a => a === '--from') ? args[args.indexOf('--from') + 1] : undefined;
         const smTo = args.find(a => a === '--to') ? args[args.indexOf('--to') + 1] : undefined;
         await runNotubizSync({ parliament: smSlug, from: smFrom, to: smTo });
+        break;
+      }
+
+      case 'sync-ori':
+      case 'ori-sync': {
+        const oriSlug = args.find(a => a === '--parliament') ? args[args.indexOf('--parliament') + 1] : undefined;
+        if (!oriSlug) {
+          console.log('Usage: pnpm dev -- sync-ori --parliament <slug>');
+          console.log('  Slugs: rotterdam, utrecht');
+          console.log('  Flags: --from YYYY-MM-DD, --to YYYY-MM-DD');
+          process.exit(1);
+        }
+        const oriFrom = args.find(a => a === '--from') ? args[args.indexOf('--from') + 1] : undefined;
+        const oriTo = args.find(a => a === '--to') ? args[args.indexOf('--to') + 1] : undefined;
+        await runORISync({ parliament: oriSlug, from: oriFrom, to: oriTo });
         break;
       }
 
