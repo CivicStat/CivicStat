@@ -1,0 +1,141 @@
+{
+  "party": "ChristenUnie",
+  "partySlug": "christenunie",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma ChristenUnie Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "christenunie_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Gezinnen met kinderen voorrang geven bij de toewijzing van sociale huurwoningen.",
+      "originalText": "De ChristenUnie wil dat gezinnen met kinderen voorrang krijgen bij de toewijzing van sociale huurwoningen in Utrecht. Gezinnen zijn het fundament van de samenleving.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["gezinnen", "voorrang", "sociale huur"]
+    },
+    {
+      "text": "Koopzondagen beperken tot maximaal 26 per jaar.",
+      "originalText": "De ChristenUnie wil het aantal koopzondagen in Utrecht beperken tot maximaal 26 per jaar. De zondag verdient bescherming als rustdag voor gezinnen en winkelpersoneel.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["koopzondagen", "26", "beperken"]
+    },
+    {
+      "text": "Een schuldhulpmaatje-programma opzetten met 100 getrainde vrijwilligers.",
+      "originalText": "De ChristenUnie wil een schuldhulpmaatje-programma opzetten met minimaal 100 getrainde vrijwilligers die Utrechters met schulden persoonlijk begeleiden.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schuldhulp", "100 vrijwilligers", "begeleiding"]
+    },
+    {
+      "text": "Kerken en religieuze gebouwen opnemen in het gemeentelijk monumentenbeleid.",
+      "originalText": "De ChristenUnie wil dat kerken en andere religieuze gebouwen structureel worden opgenomen in het gemeentelijk monumentenbeleid en dat er budget komt voor onderhoud.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["kerken", "monumentenbeleid", "religieuze gebouwen"]
+    },
+    {
+      "text": "Wijkteams versterken met extra maatschappelijk werkers: minimaal twee per wijk.",
+      "originalText": "De ChristenUnie wil de wijkteams versterken met minimaal twee extra maatschappelijk werkers per wijk. De wijkteams zijn het eerste aanspreekpunt voor inwoners met problemen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkteams", "maatschappelijk werkers", "twee per wijk"]
+    },
+    {
+      "text": "Een verplichte maatschappelijke stage voor alle Utrechtse middelbare scholieren.",
+      "originalText": "De ChristenUnie pleit voor een verplichte maatschappelijke stage voor alle middelbare scholieren in Utrecht. Jongeren leren zo verantwoordelijkheid nemen voor hun omgeving.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["maatschappelijke stage", "middelbare scholieren", "verplicht"]
+    },
+    {
+      "text": "De wachtlijsten voor jeugdzorg in Utrecht halveren binnen twee jaar.",
+      "originalText": "De ChristenUnie wil de wachtlijsten voor jeugdzorg in Utrecht halveren binnen twee jaar. Elk kind dat hulp nodig heeft, moet die snel krijgen.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["jeugdzorg", "wachtlijsten", "halveren", "twee jaar"]
+    },
+    {
+      "text": "Mantelzorgers een jaarlijkse gemeentelijke waardering van 200 euro geven.",
+      "originalText": "De ChristenUnie wil dat mantelzorgers in Utrecht een jaarlijkse gemeentelijke waardering ontvangen van 200 euro. Mantelzorgers zijn onmisbaar en verdienen erkenning.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["mantelzorgers", "200 euro", "waardering"]
+    },
+    {
+      "text": "Woningen in de Merwedekanaalzone levensloopbestendig bouwen, geschikt voor ouderen.",
+      "originalText": "De ChristenUnie wil dat woningen in de Merwedekanaalzone levensloopbestendig worden gebouwd. Ouderen moeten langer zelfstandig kunnen wonen in hun eigen buurt.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Merwedekanaalzone", "levensloopbestendig", "ouderen"]
+    },
+    {
+      "text": "Buurthuizen open houden op zondag als ontmoetingsplaats voor eenzame ouderen.",
+      "originalText": "De ChristenUnie wil dat buurthuizen op zondag open zijn als ontmoetingsplaats, met name voor eenzame ouderen. Eenzaamheid is een groeiend probleem dat aandacht verdient.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["buurthuizen", "zondag", "eenzaamheid", "ouderen"]
+    },
+    {
+      "text": "De fietsenstalling bij Utrecht Centraal uitbreiden met 5.000 extra plekken.",
+      "originalText": "De ChristenUnie wil de fietsenstalling bij Utrecht Centraal uitbreiden met 5.000 extra plekken. Het tekort aan fietsplekken is een dagelijks probleem voor forensen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["fietsenstalling", "Utrecht Centraal", "5.000 plekken"]
+    },
+    {
+      "text": "Laaggeletterdheid aanpakken met een gemeentelijk actieprogramma en taalhuizen in elke wijk.",
+      "originalText": "De ChristenUnie wil laaggeletterdheid aanpakken met een gemeentelijk actieprogramma. In elke wijk komt een taalhuis waar inwoners gratis taalles kunnen volgen.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["laaggeletterdheid", "taalhuizen", "elke wijk"]
+    },
+    {
+      "text": "Voedselbanken structureel subsidieren met minimaal 500.000 euro per jaar.",
+      "originalText": "De ChristenUnie wil dat voedselbanken in Utrecht structureel worden gesubsidieerd met minimaal 500.000 euro per jaar. Niemand mag honger lijden in onze stad.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["voedselbanken", "500.000 euro", "subsidie"]
+    },
+    {
+      "text": "Straatpastoraat en daklozenopvang uitbreiden met 50 extra bedden.",
+      "originalText": "De ChristenUnie wil het straatpastoraat ondersteunen en de daklozenopvang uitbreiden met 50 extra bedden. Niemand hoort op straat te slapen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["daklozenopvang", "50 bedden", "straatpastoraat"]
+    },
+    {
+      "text": "Veilige fietsroutes naar alle scholen in Utrecht realiseren.",
+      "originalText": "De ChristenUnie wil dat er veilige fietsroutes komen naar alle scholen in Utrecht. De veiligheid van kinderen op de fiets heeft topprioriteit.",
+      "theme": "verkeer-vervoer",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["fietsroutes", "scholen", "veilig"]
+    },
+    {
+      "text": "De gemeentebegroting jaarlijks toetsen aan de effecten op gezinnen en kinderen.",
+      "originalText": "De ChristenUnie wil dat de gemeentebegroting jaarlijks wordt getoetst op de effecten voor gezinnen en kinderen. Een 'kindeffectrapportage' wordt standaard bij elk groot besluit.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["gemeentebegroting", "kindeffectrapportage", "gezinnen"]
+    }
+  ]
+}

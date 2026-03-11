@@ -1,0 +1,149 @@
+{
+  "party": "PvdA",
+  "partySlug": "pvda",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma PvdA Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "pvda_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Minimaal 50% sociale huur bij nieuwbouwprojecten in de Merwedekanaalzone.",
+      "originalText": "De PvdA eist dat minimaal 50% van de nieuwbouw in de Merwedekanaalzone sociale huurwoningen zijn. Betaalbaar wonen is een recht, geen privilege.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["50%", "sociale huur", "Merwedekanaalzone", "nieuwbouw"]
+    },
+    {
+      "text": "Het minimumloon voor gemeentelijke medewerkers en ingehuurde diensten verhogen naar 16 euro per uur.",
+      "originalText": "De PvdA wil dat alle gemeentelijke medewerkers en ingehuurde diensten minimaal 16 euro per uur verdienen. De gemeente moet het goede voorbeeld geven als werkgever.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["minimumloon", "16 euro", "gemeentelijke medewerkers"]
+    },
+    {
+      "text": "Gratis schoolontbijt aanbieden op alle basisscholen in achterstandswijken.",
+      "originalText": "De PvdA wil gratis schoolontbijt op alle basisscholen in achterstandswijken zoals Overvecht, Kanaleneiland en Zuilen. Geen kind mag met een lege maag op school zitten.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schoolontbijt", "gratis", "achterstandswijken"]
+    },
+    {
+      "text": "De woonbelasting voor huiseigenaren met woningen boven 500.000 euro progressief verhogen.",
+      "originalText": "De PvdA wil de woonbelasting progressief maken: eigenaren met woningen boven 500.000 euro betalen meer. De opbrengsten gaan naar betaalbare woningbouw.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["woonbelasting", "progressief", "500.000 euro"]
+    },
+    {
+      "text": "Alle Utrechtse wijken een eigen buurthuis geven dat minimaal zes dagen per week open is.",
+      "originalText": "De PvdA wil dat elke wijk in Utrecht een eigen buurthuis heeft dat minimaal zes dagen per week open is. Buurthuizen zijn de motor van sociale cohesie.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["buurthuis", "elke wijk", "zes dagen"]
+    },
+    {
+      "text": "De wachtlijst voor sociale huurwoningen terugbrengen van acht naar vijf jaar.",
+      "originalText": "De PvdA wil de wachtlijst voor sociale huurwoningen in Utrecht terugbrengen van gemiddeld acht naar vijf jaar. Dit doen we door meer te bouwen en doorstroming te bevorderen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wachtlijst", "vijf jaar", "sociale huur"]
+    },
+    {
+      "text": "Een gemeentelijke zorgverzekering aanbieden voor minima met uitgebreide dekking.",
+      "originalText": "De PvdA wil een gemeentelijke collectieve zorgverzekering voor inwoners met een minimuminkomen. Deze biedt uitgebreide dekking inclusief tandarts en fysiotherapie.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["zorgverzekering", "minima", "collectief"]
+    },
+    {
+      "text": "50 extra wijkagenten en handhavers inzetten in kwetsbare wijken.",
+      "originalText": "De PvdA wil 50 extra wijkagenten en gemeentelijke handhavers inzetten in kwetsbare wijken. Veiligheid begint bij zichtbare aanwezigheid en vertrouwen.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["50 wijkagenten", "handhavers", "kwetsbare wijken"]
+    },
+    {
+      "text": "Huurteams financieren die huurders helpen bij geschillen met verhuurders.",
+      "originalText": "De PvdA wil gemeentelijk gefinancierde huurteams die huurders bijstaan bij geschillen met verhuurders over onderhoud, huurverhogingen en servicekosten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["huurteams", "huurders", "geschillen"]
+    },
+    {
+      "text": "De luchtkwaliteit in Utrecht verbeteren door een milieuzone uit te breiden naar alle dieselauto's ouder dan 10 jaar.",
+      "originalText": "De PvdA wil de milieuzone in Utrecht uitbreiden: alle dieselauto's ouder dan 10 jaar worden geweerd. Schone lucht is een basisrecht voor alle Utrechters.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["milieuzone", "diesel", "luchtkwaliteit"]
+    },
+    {
+      "text": "Voorschoolse educatie gratis maken voor alle 2- en 3-jarigen in Utrecht.",
+      "originalText": "De PvdA wil voorschoolse educatie gratis maken voor alle 2- en 3-jarigen in Utrecht. Vroeg investeren in kinderen verkleint de kansenongelijkheid.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["voorschoolse educatie", "gratis", "2-jarigen", "3-jarigen"]
+    },
+    {
+      "text": "De thuiszorg verbeteren door maximaal twee vaste hulpverleners per client te garanderen.",
+      "originalText": "De PvdA wil dat thuiszorgclienten maximaal twee vaste hulpverleners krijgen. Continuiteit en vertrouwen zijn essentieel voor goede zorg.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["thuiszorg", "twee hulpverleners", "continuiteit"]
+    },
+    {
+      "text": "Het Maximapark in Leidsche Rijn uitbreiden met 20 hectare nieuw groen.",
+      "originalText": "De PvdA wil het Maximapark in Leidsche Rijn uitbreiden met 20 hectare nieuw groen. De groei van Leidsche Rijn vraagt om meer recreatieruimte.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Maximapark", "Leidsche Rijn", "20 hectare"]
+    },
+    {
+      "text": "Een energietoeslag van 500 euro per jaar voor huishoudens met een laag inkomen.",
+      "originalText": "De PvdA wil een gemeentelijke energietoeslag van 500 euro per jaar voor huishoudens met een inkomen tot 130% van het sociaal minimum. De energietransitie mag niet ten koste gaan van de laagste inkomens.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["energietoeslag", "500 euro", "laag inkomen"]
+    },
+    {
+      "text": "Stagegarantie bieden aan alle mbo-studenten in Utrecht.",
+      "originalText": "De PvdA wil een stagegarantie voor alle mbo-studenten in Utrecht. De gemeente werkt samen met het bedrijfsleven om voldoende stageplekken te creeren.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["stagegarantie", "mbo-studenten"]
+    },
+    {
+      "text": "Speeltuinen in alle wijken renoveren en toegankelijk maken voor kinderen met een beperking.",
+      "originalText": "De PvdA wil alle speeltuinen in Utrecht renoveren en toegankelijk maken voor kinderen met een beperking. Inclusief spelen is de norm.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["speeltuinen", "renoveren", "toegankelijk", "beperking"]
+    },
+    {
+      "text": "Flexwerkers en zzp'ers betrekken bij het gemeentelijk arbeidsmarktbeleid.",
+      "originalText": "De PvdA wil dat flexwerkers en zzp'ers actief worden betrokken bij het gemeentelijk arbeidsmarktbeleid. De gemeente zet in op meer vaste contracten en eerlijke arbeidsvoorwaarden.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["flexwerkers", "zzp", "arbeidsmarktbeleid"]
+    }
+  ]
+}

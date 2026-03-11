@@ -1,0 +1,141 @@
+{
+  "party": "BIJ1",
+  "partySlug": "bij1",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma BIJ1 Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "bij1_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Alle sociale huurwoningen in Utrecht verplicht onder de liberalisatiegrens houden.",
+      "originalText": "BIJ1 wil dat alle sociale huurwoningen in Utrecht onder de liberalisatiegrens blijven. Woningcorporaties mogen geen woningen meer naar de vrije sector tillen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sociale huur", "liberalisatiegrens", "woningcorporaties"]
+    },
+    {
+      "text": "Een gemeentelijk reparatiefonds oprichten voor gratis reparaties op het gebied van anti-Zwart racisme.",
+      "originalText": "BIJ1 wil een gemeentelijk reparatiefonds oprichten dat investeert in gemeenschappen die zijn getroffen door institutioneel racisme. Het fonds financiert onderwijs, cultuur en welzijn in getroffen wijken.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["reparatiefonds", "racisme", "gemeenschappen"]
+    },
+    {
+      "text": "Straatnamen die verband houden met het koloniale verleden hernoemen in overleg met bewoners.",
+      "originalText": "BIJ1 wil straatnamen die verband houden met het koloniale verleden hernoemen. Dit gebeurt in overleg met buurtbewoners en de betrokken gemeenschappen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["straatnamen", "koloniaal verleden", "hernoemen"]
+    },
+    {
+      "text": "Een verbod op winstgevende verhuur via platforms als Airbnb in heel Utrecht.",
+      "originalText": "BIJ1 wil een volledig verbod op winstgevende vakantieverhuur via platforms als Airbnb in Utrecht. Woningen zijn bedoeld om in te wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Airbnb", "verbod", "vakantieverhuur"]
+    },
+    {
+      "text": "Gratis menstruatieproducten beschikbaar stellen op alle scholen en gemeentelijke gebouwen.",
+      "originalText": "BIJ1 wil dat gratis menstruatieproducten beschikbaar worden gesteld op alle scholen, buurthuizen en gemeentelijke gebouwen in Utrecht.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["menstruatieproducten", "gratis", "scholen"]
+    },
+    {
+      "text": "Politie en handhavers verplicht bodycams laten dragen om etnisch profileren tegen te gaan.",
+      "originalText": "BIJ1 wil dat alle politieagenten en gemeentelijke handhavers in Utrecht verplicht bodycams dragen. Dit is nodig om etnisch profileren te documenteren en tegen te gaan.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bodycams", "politie", "handhavers", "etnisch profileren"]
+    },
+    {
+      "text": "Een basisinkomen-pilot starten voor 1.000 Utrechters met een bijstandsuitkering.",
+      "originalText": "BIJ1 wil een basisinkomen-pilot starten voor 1.000 Utrechters die nu een bijstandsuitkering ontvangen. Bestaanszekerheid zonder bureaucratie en stigma.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["basisinkomen", "pilot", "1.000", "bijstand"]
+    },
+    {
+      "text": "Alle openbare toiletten in Utrecht genderneutraal maken.",
+      "originalText": "BIJ1 wil dat alle openbare toiletten in gemeentelijke gebouwen en de openbare ruimte genderneutraal worden. Iedereen moet zich welkom voelen.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["genderneutraal", "toiletten", "openbaar"]
+    },
+    {
+      "text": "De Utrechtse politie demilitariseren: geen zware bewapening bij reguliere patrouilles.",
+      "originalText": "BIJ1 pleit voor demilitarisering van de politie in Utrecht. Reguliere patrouilles worden niet langer uitgerust met zware bewapening.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["demilitarisering", "politie", "bewapening"]
+    },
+    {
+      "text": "Culturele instellingen verplichten minimaal 50% van het programma te wijden aan niet-westerse kunst.",
+      "originalText": "BIJ1 wil dat gesubsidieerde culturele instellingen minimaal 50% van hun programmering wijden aan niet-westerse kunst en cultuur. Dekoloniseer de culturele sector.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["50%", "niet-westers", "culturele instellingen"]
+    },
+    {
+      "text": "Gratis OV voor alle Utrechters met een inkomen onder 130% van het sociaal minimum.",
+      "originalText": "BIJ1 wil gratis openbaar vervoer voor alle Utrechters met een inkomen onder 130% van het sociaal minimum. Mobiliteit is een grondrecht.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "130%", "sociaal minimum"]
+    },
+    {
+      "text": "De gemeentelijke schuldhulpverlening zonder wachttijd en zonder drempels aanbieden.",
+      "originalText": "BIJ1 wil dat de gemeentelijke schuldhulpverlening zonder wachttijd en zonder drempels beschikbaar is. Schulden zijn een systeemprobleem, geen individueel falen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["schuldhulpverlening", "geen wachttijd", "drempelvrij"]
+    },
+    {
+      "text": "Woningen in Kanaleneiland en Overvecht niet slopen maar renoveren en verbeteren.",
+      "originalText": "BIJ1 verzet zich tegen sloop van sociale huurwoningen in Kanaleneiland en Overvecht. In plaats daarvan moeten woningen worden gerenoveerd en verbeterd zonder huurverhoging.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["sloop", "renovatie", "Kanaleneiland", "Overvecht"]
+    },
+    {
+      "text": "Jaarlijks een antiracisme-festival organiseren in Utrecht.",
+      "originalText": "BIJ1 wil jaarlijks een groot antiracisme-festival organiseren in Utrecht dat bewustzijn vergroot en gemeenschappen samenbrengt.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["antiracisme", "festival", "jaarlijks"]
+    },
+    {
+      "text": "De bijstandsuitkering aanvullen tot 130% van het sociaal minimum vanuit de gemeente.",
+      "originalText": "BIJ1 wil dat de gemeente de bijstandsuitkering aanvult tot 130% van het sociaal minimum. De huidige bijstand is te laag om van te leven.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bijstand", "130%", "aanvullen", "sociaal minimum"]
+    },
+    {
+      "text": "Kraakverbod niet handhaven zolang er woningen leegstaan in Utrecht.",
+      "originalText": "BIJ1 wil dat het kraakverbod niet wordt gehandhaafd zolang er panden langdurig leegstaan in Utrecht. Leegstand is onacceptabel tijdens een wooncrisis.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["kraakverbod", "leegstand", "handhaving"]
+    }
+  ]
+}

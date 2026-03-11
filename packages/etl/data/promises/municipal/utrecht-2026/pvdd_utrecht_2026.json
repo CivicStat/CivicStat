@@ -1,0 +1,149 @@
+{
+  "party": "Partij voor de Dieren",
+  "partySlug": "pvdd",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma Partij voor de Dieren Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "pvdd_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "De Utrechtse binnenstad volledig autovrij maken voor 2028.",
+      "originalText": "De Partij voor de Dieren wil de binnenstad van Utrecht volledig autovrij maken voor 2028. Alleen bestemmingsverkeer voor nood- en hulpdiensten wordt nog toegestaan.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["autovrij", "binnenstad", "2028"]
+    },
+    {
+      "text": "Alle gemeentelijke gebouwen uiterlijk in 2027 volledig plantaardig cateren.",
+      "originalText": "De Partij voor de Dieren wil dat alle gemeentelijke gebouwen, vergaderingen en evenementen uiterlijk in 2027 volledig plantaardig worden gecaterd.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["plantaardig", "gemeentelijke gebouwen", "catering", "2027"]
+    },
+    {
+      "text": "Een dierenpolitie instellen voor Utrecht met minimaal twee voltijds handhavers.",
+      "originalText": "De Partij voor de Dieren wil een dierenpolitie voor Utrecht met minimaal twee voltijds handhavers die optreden tegen dierenmishandeling en verwaarlozing.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["dierenpolitie", "handhavers", "dierenmishandeling"]
+    },
+    {
+      "text": "10.000 extra bomen planten in Utrecht voor 2030.",
+      "originalText": "De Partij voor de Dieren wil dat er voor 2030 minimaal 10.000 extra bomen worden geplant in Utrecht. Bomen zijn cruciaal voor biodiversiteit, luchtkwaliteit en hittestress.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["10.000 bomen", "2030", "biodiversiteit"]
+    },
+    {
+      "text": "Geen nieuwe wegen of wegverbredingen meer aanleggen in de gemeente Utrecht.",
+      "originalText": "De Partij voor de Dieren wil een stop op nieuwe wegen en wegverbredingen. Nieuwe infrastructuur moet gericht zijn op fiets, OV en wandelen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["geen nieuwe wegen", "wegverbreding", "stop"]
+    },
+    {
+      "text": "Alle Utrechtse parken pesticidevrij beheren.",
+      "originalText": "De Partij voor de Dieren wil dat alle parken en openbare groene ruimtes in Utrecht volledig pesticidevrij worden beheerd. Gifvrij groen is beter voor mens en dier.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["pesticidevrij", "parken", "gifvrij"]
+    },
+    {
+      "text": "De Utrechtse grachten ecologisch herstellen en geschikt maken voor zwemmen.",
+      "originalText": "De Partij voor de Dieren wil de Utrechtse grachten ecologisch herstellen zodat de waterkwaliteit verbetert en er op termijn gezwommen kan worden.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": false,
+      "keywords": ["grachten", "ecologisch herstel", "zwemmen", "waterkwaliteit"]
+    },
+    {
+      "text": "Subsidie verstrekken voor groene daken en geveltuinen: 50 euro per vierkante meter.",
+      "originalText": "De Partij voor de Dieren wil een subsidie van 50 euro per vierkante meter voor bewoners die groene daken of geveltuinen aanleggen. Zo vergroenen we de stad van onderaf.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["subsidie", "groene daken", "geveltuinen", "50 euro"]
+    },
+    {
+      "text": "Jaarlijks een Dierendag-festival organiseren om bewustwording over dierenwelzijn te vergroten.",
+      "originalText": "De Partij voor de Dieren wil jaarlijks een groot Dierendag-festival organiseren in het Wilhelminapark om bewustwording over dierenwelzijn te vergroten.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Dierendag", "festival", "dierenwelzijn"]
+    },
+    {
+      "text": "De vleesconsumptie in Utrechtse schoolkantines halveren door meer plantaardige opties.",
+      "originalText": "De Partij voor de Dieren wil de vleesconsumptie in schoolkantines halveren door meer plantaardige opties aan te bieden en vlees niet meer als standaardoptie te serveren.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["vleesconsumptie", "halveren", "schoolkantines", "plantaardig"]
+    },
+    {
+      "text": "Een wildopvangcentrum oprichten in samenwerking met de Dierenambulance Utrecht.",
+      "originalText": "De Partij voor de Dieren wil een wildopvangcentrum in Utrecht oprichten in samenwerking met de Dierenambulance. Gewonde wilde dieren verdienen professionele opvang.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["wildopvangcentrum", "Dierenambulance"]
+    },
+    {
+      "text": "Alle straatverlichting in Utrecht vervangen door LED met diervriendelijke kleurtemperatuur.",
+      "originalText": "De Partij voor de Dieren wil alle straatverlichting in Utrecht vervangen door LED-verlichting met een warme, diervriendelijke kleurtemperatuur die nachtvlinders en vleermuizen minder verstoort.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["LED", "straatverlichting", "diervriendelijk"]
+    },
+    {
+      "text": "Geen evenementen meer met levende dieren toestaan op gemeentelijk terrein.",
+      "originalText": "De Partij voor de Dieren wil dat er geen evenementen meer worden toegestaan op gemeentelijk terrein waarbij levende dieren worden gebruikt als vermaak.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["evenementen", "levende dieren", "verbod"]
+    },
+    {
+      "text": "Minimaal 50 hectare nieuw stadsnatuur aanleggen in de Merwedekanaalzone en het Jaarbeursgebied.",
+      "originalText": "De Partij voor de Dieren wil minimaal 50 hectare nieuw stadsnatuur realiseren, met name in de ontwikkelgebieden Merwedekanaalzone en Jaarbeursgebied.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["50 hectare", "stadsnatuur", "Merwedekanaalzone", "Jaarbeursgebied"]
+    },
+    {
+      "text": "Fietssnelwegen aanleggen naar Nieuwegein, Zeist en Amersfoort.",
+      "originalText": "De Partij voor de Dieren wil fietssnelwegen aanleggen van Utrecht naar Nieuwegein, Zeist en Amersfoort. Dit maakt woon-werkverkeer per fiets aantrekkelijker.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["fietssnelwegen", "Nieuwegein", "Zeist", "Amersfoort"]
+    },
+    {
+      "text": "De energietransitie in Overvecht versnellen met een wijkwarmtenet op geothermie.",
+      "originalText": "De Partij voor de Dieren wil de energietransitie in Overvecht versnellen door een wijkwarmtenet op basis van geothermie aan te leggen. De wijk wordt de eerste gasvrije wijk van Utrecht.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Overvecht", "warmtenet", "geothermie", "gasvrij"]
+    },
+    {
+      "text": "De OZB-belasting vergroenen: lagere tarieven voor energiezuinige woningen.",
+      "originalText": "De Partij voor de Dieren wil de OZB-belasting vergroenen door lagere tarieven te hanteren voor energiezuinige woningen met label A of hoger. Dit stimuleert verduurzaming.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["OZB", "vergroenen", "energielabel", "tarieven"]
+    }
+  ]
+}

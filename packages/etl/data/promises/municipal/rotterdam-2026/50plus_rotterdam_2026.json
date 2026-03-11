@@ -1,0 +1,133 @@
+{
+  "party": "50PLUS",
+  "partySlug": "50plus",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma 50PLUS Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "50plus_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "1.500 extra seniorenwoningen bouwen nabij voorzieningen zoals winkels, huisartsen en OV-haltes.",
+      "originalText": "50PLUS wil 1.500 extra seniorenwoningen bouwen nabij voorzieningen zoals winkels, huisartsen en OV-haltes. Ouderen moeten zelfstandig kunnen blijven wonen in een bereikbare omgeving.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["seniorenwoningen", "1.500", "voorzieningen", "bereikbaar"]
+    },
+    {
+      "text": "Gratis OV voor alle 70-plussers in Rotterdam.",
+      "originalText": "50PLUS wil gratis openbaar vervoer voor alle 70-plussers in Rotterdam. Ouderen moeten vrij kunnen reizen zonder financiele drempel.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "70-plussers", "ouderen", "reizen"]
+    },
+    {
+      "text": "Valpreventie-programma uitrollen in alle wijken met gratis beweegcursussen voor ouderen.",
+      "originalText": "50PLUS wil een valpreventie-programma uitrollen in alle wijken van Rotterdam. Ouderen krijgen gratis beweegcursussen aangeboden om vallen en blessures te voorkomen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["valpreventie", "beweegcursussen", "ouderen", "gratis"]
+    },
+    {
+      "text": "Ouderenbonden en seniorenverenigingen structureel subsidieren met 2 miljoen euro per jaar.",
+      "originalText": "50PLUS wil ouderenbonden en seniorenverenigingen structureel subsidieren met 2 miljoen euro per jaar. Ouderenorganisaties zijn onmisbaar voor het welzijn van senioren.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ouderenbonden", "seniorenverenigingen", "2 miljoen", "subsidie"]
+    },
+    {
+      "text": "Pensioenvoorlichting op maat aanbieden via de gemeente voor Rotterdammers vanaf 55 jaar.",
+      "originalText": "50PLUS wil dat de gemeente pensioenvoorlichting op maat aanbiedt voor Rotterdammers vanaf 55 jaar. Veel mensen weten niet waar ze recht op hebben.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["pensioenvoorlichting", "55 jaar", "gemeente", "op maat"]
+    },
+    {
+      "text": "Alle trottoirs en voetpaden in Rotterdam toegankelijk maken voor rollators en rolstoelen.",
+      "originalText": "50PLUS wil alle trottoirs en voetpaden in Rotterdam toegankelijk maken voor rollators en rolstoelen. De openbare ruimte moet voor iedereen begaanbaar zijn.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": false,
+      "keywords": ["trottoirs", "rollators", "rolstoelen", "toegankelijk"]
+    },
+    {
+      "text": "Eenzaamheid onder ouderen bestrijden met een Rotterdams eenzaamheidsfonds van 3 miljoen euro.",
+      "originalText": "50PLUS wil eenzaamheid onder ouderen bestrijden met een Rotterdams eenzaamheidsfonds van 3 miljoen euro. Dit fonds financiert huiskamers, maatjesprojecten en buurtactiviteiten.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["eenzaamheid", "ouderen", "eenzaamheidsfonds", "3 miljoen"]
+    },
+    {
+      "text": "Mantelzorgers ontlasten met minimaal 5 dagen gratis respijtzorg per jaar.",
+      "originalText": "50PLUS wil mantelzorgers ontlasten door minimaal 5 dagen gratis respijtzorg per jaar aan te bieden. Mantelzorgers hebben ook recht op rust.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["mantelzorgers", "respijtzorg", "5 dagen", "gratis"]
+    },
+    {
+      "text": "Geen bezuiniging op de huishoudelijke hulp via de Wmo: uren behouden en kwaliteit waarborgen.",
+      "originalText": "50PLUS wil geen bezuiniging op de huishoudelijke hulp via de Wmo. De uren worden behouden en de kwaliteit gewaarborgd. Ouderen die hulp nodig hebben, moeten die ook krijgen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huishoudelijke hulp", "Wmo", "geen bezuiniging", "uren"]
+    },
+    {
+      "text": "Digitale hulppunten in bibliotheken en buurthuizen waar ouderen geholpen worden met digitale overheidsdiensten.",
+      "originalText": "50PLUS wil digitale hulppunten in bibliotheken en buurthuizen waar ouderen geholpen worden met digitale overheidsdiensten. Niet iedereen is digitaal vaardig en dat mag geen probleem zijn.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["digitale hulppunten", "ouderen", "bibliotheken", "overheidsdiensten"]
+    },
+    {
+      "text": "De Rotterdampas voor ouderen uitbreiden met gratis toegang tot musea en culturele instellingen.",
+      "originalText": "50PLUS wil de Rotterdampas voor ouderen uitbreiden met gratis toegang tot musea en culturele instellingen. Cultuur moet toegankelijk zijn voor alle leeftijden.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Rotterdampas", "ouderen", "musea", "gratis toegang"]
+    },
+    {
+      "text": "Meer bankjes en rustpunten in winkelgebieden en parken voor ouderen.",
+      "originalText": "50PLUS wil meer bankjes en rustpunten in winkelgebieden en parken. Ouderen moeten kunnen uitrusten als ze boodschappen doen of een wandeling maken.",
+      "theme": "openbare-ruimte",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["bankjes", "rustpunten", "winkelgebieden", "parken"]
+    },
+    {
+      "text": "Veiligheidsgevoel ouderen verbeteren: meer verlichting in tunnels, parkeergarages en bij bushokjes.",
+      "originalText": "50PLUS wil het veiligheidsgevoel van ouderen verbeteren door meer verlichting aan te brengen in tunnels, parkeergarages en bij bushokjes.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["verlichting", "veiligheid", "ouderen", "tunnels"]
+    },
+    {
+      "text": "Woningcorporaties verplichten om ouderen voorrang te geven bij gelijkvloerse woningen.",
+      "originalText": "50PLUS wil dat woningcorporaties verplicht worden om ouderen voorrang te geven bij de toewijzing van gelijkvloerse woningen. Zo kunnen ouderen doorstromen naar een passende woning.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["woningcorporaties", "ouderen", "voorrang", "gelijkvloers"]
+    },
+    {
+      "text": "Leeftijdsdiscriminatie op de arbeidsmarkt aanpakken met gemeentelijke controles bij werkgevers.",
+      "originalText": "50PLUS wil leeftijdsdiscriminatie op de arbeidsmarkt aanpakken door gemeentelijke controles uit te voeren bij werkgevers. Ouderen verdienen gelijke kansen op werk.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["leeftijdsdiscriminatie", "arbeidsmarkt", "controles", "werkgevers"]
+    }
+  ]
+}

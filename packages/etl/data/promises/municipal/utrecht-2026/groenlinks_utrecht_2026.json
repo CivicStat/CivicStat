@@ -1,0 +1,173 @@
+{
+  "party": "GroenLinks",
+  "partySlug": "groenlinks",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma GroenLinks Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "groenlinks_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Utrecht in 2030 volledig aardgasvrij maken.",
+      "originalText": "GroenLinks wil dat Utrecht in 2030 volledig aardgasvrij is. Alle wijken krijgen een duurzaam alternatief: warmtenetten, warmtepompen of andere duurzame bronnen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["aardgasvrij", "2030", "warmtenetten"]
+    },
+    {
+      "text": "De binnenstad permanent autovrij maken inclusief de Oudegracht en de Twijnstraat.",
+      "originalText": "GroenLinks wil de binnenstad permanent autovrij maken, inclusief de Oudegracht en de Twijnstraat. De vrijgekomen ruimte wordt ingericht als groen en verblijfsruimte.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["autovrij", "binnenstad", "Oudegracht", "Twijnstraat"]
+    },
+    {
+      "text": "60% van alle nieuwbouw bestemmen als betaalbare woningen (sociaal en middensegment).",
+      "originalText": "GroenLinks eist dat 60% van alle nieuwbouw in Utrecht betaalbare woningen zijn: 40% sociale huur en 20% middenhuur of betaalbare koop.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["60%", "betaalbaar", "sociale huur", "middenhuur"]
+    },
+    {
+      "text": "100.000 vierkante meter verharding in de stad vervangen door groen voor klimaatadaptatie.",
+      "originalText": "GroenLinks wil 100.000 vierkante meter verharding in Utrecht vervangen door groen. Dit helpt tegen hittestress, wateroverlast en draagt bij aan biodiversiteit.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["100.000 m2", "ontharding", "groen", "klimaatadaptatie"]
+    },
+    {
+      "text": "Alle Utrechtse daken geschikt maken voor zonnepanelen of vergroening voor 2030.",
+      "originalText": "GroenLinks wil dat alle geschikte daken in Utrecht voor 2030 zijn voorzien van zonnepanelen of zijn vergroend. Dit wordt gestimuleerd met subsidies en verplichtingen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["daken", "zonnepanelen", "vergroening", "2030"]
+    },
+    {
+      "text": "Het OV-netwerk in Utrecht uitbreiden met twee nieuwe tramlijnen.",
+      "originalText": "GroenLinks wil het OV-netwerk in Utrecht uitbreiden met twee nieuwe tramlijnen: een naar Leidsche Rijn en een naar het Utrecht Science Park. Hoogwaardig OV is de ruggengraat van een groeiende stad.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["tramlijnen", "twee", "Leidsche Rijn", "Science Park"]
+    },
+    {
+      "text": "Een Utrechts klimaatburgerberaad oprichten van 150 gelote inwoners.",
+      "originalText": "GroenLinks wil een klimaatburgerberaad oprichten van 150 gelote Utrechters die meebesluiten over het klimaatbeleid. Democratie en duurzaamheid gaan hand in hand.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["klimaatburgerberaad", "150 inwoners", "geloot"]
+    },
+    {
+      "text": "De Merwedekanaalzone ontwikkelen als autovrije wijk met maximaal 0,3 parkeerplaatsen per woning.",
+      "originalText": "GroenLinks wil dat de Merwedekanaalzone een autovrije wijk wordt met maximaal 0,3 parkeerplaatsen per woning. Bewoners worden gestimuleerd om te kiezen voor fiets, OV en deelmobiliteit.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Merwedekanaalzone", "autovrij", "0,3 parkeerplaatsen"]
+    },
+    {
+      "text": "De energiearmoede in Utrecht halveren door gratis isolatie voor minima.",
+      "originalText": "GroenLinks wil de energiearmoede halveren door gratis woningisolatie aan te bieden aan Utrechters met een minimuminkomen. Niemand mag in de kou zitten.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["energiearmoede", "halveren", "gratis isolatie", "minima"]
+    },
+    {
+      "text": "Alle gemeentelijke gebouwen voor 2028 voorzien van energielabel A.",
+      "originalText": "GroenLinks wil dat alle gemeentelijke gebouwen voor 2028 minimaal energielabel A hebben. De gemeente geeft het goede voorbeeld in de verduurzaming.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gemeentelijke gebouwen", "energielabel A", "2028"]
+    },
+    {
+      "text": "Een voedselstrategie ontwikkelen met 50% lokaal en biologisch voedsel in gemeentelijke instellingen.",
+      "originalText": "GroenLinks wil een Utrechtse voedselstrategie waarin 50% van het voedsel in gemeentelijke instellingen lokaal en biologisch is. Duurzaam eten begint bij de overheid.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["voedselstrategie", "50%", "lokaal", "biologisch"]
+    },
+    {
+      "text": "Natuurspeelplaatsen aanleggen in elk stadsdeel van Utrecht.",
+      "originalText": "GroenLinks wil in elk stadsdeel een natuurspeelplaats aanleggen waar kinderen kunnen spelen in een groene omgeving. Spelen in de natuur is essentieel voor de ontwikkeling van kinderen.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["natuurspeelplaatsen", "elk stadsdeel"]
+    },
+    {
+      "text": "De fietspaden in Utrecht verbreden naar minimaal 3,5 meter op alle hoofdroutes.",
+      "originalText": "GroenLinks wil dat alle hoofdfietsroutes in Utrecht worden verbreed naar minimaal 3,5 meter. Utrecht is fietsstad nummer 1 en dat moet je terugzien in de infrastructuur.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["fietspaden", "3,5 meter", "hoofdroutes"]
+    },
+    {
+      "text": "Een anti-speculatiebeding invoeren bij alle nieuwbouwwoningen.",
+      "originalText": "GroenLinks wil een anti-speculatiebeding van minimaal vijf jaar bij alle nieuwbouwwoningen in Utrecht. Woningen zijn om in te wonen, niet om mee te speculeren.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["anti-speculatiebeding", "vijf jaar", "nieuwbouw"]
+    },
+    {
+      "text": "Het Utrechtse bomenbestand verdubbelen naar 300.000 bomen voor 2035.",
+      "originalText": "GroenLinks wil het Utrechtse bomenbestand verdubbelen naar 300.000 bomen voor 2035. Bomen zijn onmisbaar voor een leefbare stad.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bomen", "300.000", "verdubbelen", "2035"]
+    },
+    {
+      "text": "Discriminatie op de woningmarkt aanpakken met mystery guests en boetes.",
+      "originalText": "GroenLinks wil discriminatie op de Utrechtse woningmarkt hard aanpakken met mystery guests en boetes voor verhuurders die discrimineren.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["discriminatie", "woningmarkt", "mystery guests", "boetes"]
+    },
+    {
+      "text": "Gratis OV voor kinderen tot 12 jaar in de hele stad.",
+      "originalText": "GroenLinks wil gratis openbaar vervoer voor alle kinderen tot 12 jaar in Utrecht. Dit stimuleert duurzame mobiliteit en ontlast gezinnen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "kinderen", "12 jaar"]
+    },
+    {
+      "text": "Een Utrechts warmtefonds oprichten van 20 miljoen euro voor de energietransitie.",
+      "originalText": "GroenLinks wil een Utrechts warmtefonds van 20 miljoen euro oprichten dat bewoners helpt bij de overstap van gas naar duurzame warmte.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["warmtefonds", "20 miljoen", "energietransitie"]
+    },
+    {
+      "text": "Inclusieve culturele programmering stimuleren met een diversiteitseis bij cultuursubsidies.",
+      "originalText": "GroenLinks wil dat bij cultuursubsidies een diversiteitseis wordt gesteld. Culturele instellingen moeten de diversiteit van de Utrechtse bevolking weerspiegelen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["cultuursubsidies", "diversiteitseis", "inclusief"]
+    },
+    {
+      "text": "Duurzame stadslogistiek invoeren: alleen emissievrij vrachtverkeer in de stad per 2028.",
+      "originalText": "GroenLinks wil dat per 2028 alleen emissievrij vrachtverkeer de Utrechtse binnenstad in mag. Stadsdistributie via hubs aan de rand van de stad en elektrische voertuigen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["emissievrij", "vrachtverkeer", "2028", "stadslogistiek"]
+    }
+  ]
+}

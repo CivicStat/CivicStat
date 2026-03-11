@@ -1,0 +1,133 @@
+{
+  "party": "LINK",
+  "partySlug": "link",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma LINK Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "link_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Alle sociale huurwoningen in gemeentelijk bezit houden en niet verkopen aan beleggers.",
+      "originalText": "LINK wil dat alle sociale huurwoningen in Utrecht in gemeentelijk of corporatiebezit blijven. Verkoop aan private beleggers wordt verboden.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sociale huur", "gemeentelijk bezit", "niet verkopen"]
+    },
+    {
+      "text": "De gemeenteraadsvergaderingen live uitzenden en toegankelijk maken in gebarentaal.",
+      "originalText": "LINK wil dat alle gemeenteraadsvergaderingen live worden uitgezonden met gebarentolk en ondertiteling. Democratie moet voor iedereen toegankelijk zijn.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gemeenteraad", "live", "gebarentaal", "toegankelijk"]
+    },
+    {
+      "text": "Een gemeentelijk woningbedrijf oprichten dat zelf betaalbare woningen bouwt en beheert.",
+      "originalText": "LINK wil een gemeentelijk woningbedrijf oprichten dat zelf betaalbare woningen bouwt en beheert. De markt lost de wooncrisis niet op.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["gemeentelijk woningbedrijf", "betaalbaar", "bouwen"]
+    },
+    {
+      "text": "Gratis sport en cultuur voor alle kinderen tot 18 jaar in Utrecht.",
+      "originalText": "LINK wil dat alle kinderen tot 18 jaar gratis kunnen sporten en deelnemen aan culturele activiteiten. Financiele drempels mogen de ontwikkeling van kinderen niet belemmeren.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis", "sport", "cultuur", "kinderen", "18 jaar"]
+    },
+    {
+      "text": "De privatisering van de Utrechtse thuiszorg terugdraaien.",
+      "originalText": "LINK wil de privatisering van de thuiszorg in Utrecht terugdraaien. Zorg moet worden georganiseerd op basis van kwaliteit, niet op basis van winst.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["thuiszorg", "privatisering", "terugdraaien"]
+    },
+    {
+      "text": "Het minimumloon bij gemeentelijke aanbestedingen verhogen naar 17 euro per uur.",
+      "originalText": "LINK wil dat bij alle gemeentelijke aanbestedingen een minimumloon van 17 euro per uur wordt gegarandeerd. De gemeente moet strijden tegen werkende armoede.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["minimumloon", "17 euro", "aanbestedingen"]
+    },
+    {
+      "text": "Gratis openbaar vervoer invoeren in heel Utrecht.",
+      "originalText": "LINK pleit voor gratis openbaar vervoer voor alle inwoners van Utrecht. Dit stimuleert duurzaam vervoer en maakt de stad bereikbaar voor iedereen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "alle inwoners"]
+    },
+    {
+      "text": "De energietransitie volledig financieren uit gemeentelijke middelen, geen kosten voor bewoners.",
+      "originalText": "LINK wil dat de energietransitie volledig wordt gefinancierd uit gemeentelijke middelen. Bewoners mogen niet opdraaien voor de kosten van de overstap naar duurzame energie.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["energietransitie", "geen kosten", "bewoners"]
+    },
+    {
+      "text": "Buurtbudgetten van 100.000 euro per wijk invoeren waar bewoners zelf over beslissen.",
+      "originalText": "LINK wil buurtbudgetten van 100.000 euro per wijk invoeren. Bewoners beslissen zelf hoe dit geld wordt besteed aan voorzieningen in hun buurt.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["buurtbudgetten", "100.000 euro", "per wijk"]
+    },
+    {
+      "text": "Een Utrechtse volksuniversiteit oprichten met gratis cursussen voor alle inwoners.",
+      "originalText": "LINK wil een Utrechtse volksuniversiteit oprichten die gratis cursussen aanbiedt op het gebied van taal, digitale vaardigheden en financiele zelfredzaamheid.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["volksuniversiteit", "gratis cursussen"]
+    },
+    {
+      "text": "De winstuitkering van de BghU (belastingsamenwerking) afschaffen en omzetten in lagere tarieven.",
+      "originalText": "LINK wil dat de winstuitkering van de BghU wordt afgeschaft en wordt omgezet in lagere belastingtarieven voor inwoners met lagere inkomens.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["BghU", "winstuitkering", "lagere tarieven"]
+    },
+    {
+      "text": "Alle bewoners recht geven op een volkstuin of moestuin in de eigen wijk.",
+      "originalText": "LINK wil dat alle Utrechters recht hebben op een volkstuin of moestuin in hun eigen wijk. Stadslandbouw versterkt de gemeenschap en verbindt mensen met voedsel.",
+      "theme": "openbare-ruimte",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["volkstuin", "moestuin", "stadslandbouw"]
+    },
+    {
+      "text": "Parkeergarages aan de rand van de stad bouwen en het centrum autoluw houden.",
+      "originalText": "LINK wil parkeergarages aan de rand van de stad bouwen als transferia. Het centrum wordt autoluw gehouden met goede OV-verbindingen naar de buitenwijken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["parkeergarages", "transferia", "autoluw"]
+    },
+    {
+      "text": "De jeugdzorg volledig in gemeentelijke handen nemen, zonder commerciele aanbieders.",
+      "originalText": "LINK wil dat de jeugdzorg in Utrecht volledig in gemeentelijke handen komt. Commerciele jeugdzorgaanbieders worden uitgefaseerd ten gunste van publieke zorg.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["jeugdzorg", "gemeentelijk", "geen commercieel"]
+    },
+    {
+      "text": "Alle gemeentelijke communicatie beschikbaar maken in vijf talen.",
+      "originalText": "LINK wil dat alle belangrijke gemeentelijke communicatie beschikbaar is in het Nederlands, Engels, Arabisch, Turks en Pools. Iedereen heeft recht op informatie.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["meertalig", "vijf talen", "communicatie"]
+    }
+  ]
+}

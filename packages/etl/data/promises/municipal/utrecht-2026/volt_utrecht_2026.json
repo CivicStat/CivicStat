@@ -1,0 +1,157 @@
+{
+  "party": "Volt",
+  "partySlug": "volt",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma Volt Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "volt_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Minimaal 10.000 nieuwe woningen bouwen in de Merwedekanaalzone met 40% sociale huur.",
+      "originalText": "Volt wil dat er in de Merwedekanaalzone minimaal 10.000 nieuwe woningen worden gebouwd, waarvan ten minste 40% sociale huurwoningen. Zo blijft Utrecht betaalbaar voor iedereen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Merwedekanaalzone", "10.000 woningen", "40%", "sociale huur"]
+    },
+    {
+      "text": "Utrecht volledig klimaatneutraal maken voor 2035, vijf jaar eerder dan de landelijke doelstelling.",
+      "originalText": "Volt wil dat Utrecht in 2035 volledig klimaatneutraal is. Dat is vijf jaar eerder dan de landelijke ambitie. We investeren fors in zonne-energie, warmtenetten en isolatie van bestaande woningen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["klimaatneutraal", "2035", "zonne-energie", "warmtenetten"]
+    },
+    {
+      "text": "Gratis OV voor jongeren tot 18 jaar binnen de gemeente Utrecht invoeren.",
+      "originalText": "Volt pleit voor gratis openbaar vervoer voor alle jongeren tot 18 jaar binnen de gemeentegrenzen van Utrecht. Dit stimuleert duurzaam vervoer en ontlast gezinnen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "jongeren", "18 jaar"]
+    },
+    {
+      "text": "Een Europees studentenhuis realiseren met 500 kamers voor internationale en Nederlandse studenten.",
+      "originalText": "Volt wil een Europees studentenhuis in Utrecht realiseren met minimaal 500 kamers, bedoeld voor zowel internationale als Nederlandse studenten. Dit past bij het internationale karakter van de stad.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["studentenhuis", "500 kamers", "internationaal"]
+    },
+    {
+      "text": "Meertalige gemeentelijke dienstverlening aanbieden in minimaal vier talen.",
+      "originalText": "De gemeentelijke dienstverlening moet beschikbaar zijn in het Nederlands, Engels, Arabisch en Oekraiens. Volt staat voor een inclusieve stad waar iedereen toegang heeft tot publieke diensten.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["meertalig", "dienstverlening", "vier talen"]
+    },
+    {
+      "text": "Het Jaarbeursgebied transformeren tot een gemengde wijk met woningen, kantoren en culturele voorzieningen.",
+      "originalText": "Het Jaarbeursgebied moet een bruisende gemengde wijk worden met woningen, kantoren, culturele voorzieningen en groen. Volt wil dat de gemeente actief de regie voert over deze gebiedsontwikkeling.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Jaarbeursgebied", "gemengde wijk", "gebiedsontwikkeling"]
+    },
+    {
+      "text": "Een burgerberaad oprichten voor de energietransitie in Utrechtse wijken.",
+      "originalText": "Volt wil een burgerberaad oprichten dat meebeslist over de energietransitie per wijk. Bewoners krijgen directe invloed op hoe en wanneer hun wijk van het gas af gaat.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["burgerberaad", "energietransitie", "wijken"]
+    },
+    {
+      "text": "Alle Utrechtse scholen voorzien van zonnepanelen en groene schoolpleinen voor 2028.",
+      "originalText": "Volt wil dat alle scholen in Utrecht voor 2028 voorzien zijn van zonnepanelen op het dak en groene schoolpleinen die bijdragen aan klimaatadaptatie en speelplezier.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["scholen", "zonnepanelen", "groene schoolpleinen", "2028"]
+    },
+    {
+      "text": "Een nachtmetro op vrijdag- en zaterdagnacht invoeren tussen Utrecht Centraal en De Uithof.",
+      "originalText": "Volt pleit voor een nachtmetro op vrijdag- en zaterdagnacht tussen Utrecht Centraal en De Uithof (Utrecht Science Park). Dit verbetert de bereikbaarheid voor studenten en uitgaanspubliek.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["nachtmetro", "Utrecht Centraal", "De Uithof"]
+    },
+    {
+      "text": "De cultuurbegroting verhogen met 15% om het diverse culturele aanbod in Utrecht te versterken.",
+      "originalText": "Volt wil de gemeentelijke cultuurbegroting met 15% verhogen. Hiermee kunnen meer culturele instellingen en festivals worden ondersteund die de diversiteit van Utrecht weerspiegelen.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["cultuurbegroting", "15%", "culturele instellingen"]
+    },
+    {
+      "text": "Digitale democratie-tools invoeren zodat inwoners direct kunnen meestemmen over wijkbudgetten.",
+      "originalText": "Volt wil digitale tools voor burgerparticipatie waarmee inwoners direct kunnen meestemmen over de besteding van wijkbudgetten. Transparantie en toegankelijkheid staan voorop.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["digitale democratie", "wijkbudgetten", "burgerparticipatie"]
+    },
+    {
+      "text": "500 extra oplaadpunten voor elektrische auto's plaatsen in de hele gemeente.",
+      "originalText": "Volt wil 500 extra openbare oplaadpunten voor elektrische auto's in alle Utrechtse wijken. Zo maken we de overstap naar elektrisch rijden makkelijker voor iedereen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["oplaadpunten", "500", "elektrische auto's"]
+    },
+    {
+      "text": "Een anti-discriminatiebeleid invoeren bij de toewijzing van gemeentelijke opdrachten.",
+      "originalText": "Volt wil een actief anti-discriminatiebeleid bij de toewijzing van gemeentelijke opdrachten en subsidies. Diversiteit en inclusie worden opgenomen als criteria in aanbestedingen.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["anti-discriminatie", "aanbestedingen", "inclusie"]
+    },
+    {
+      "text": "In Leidsche Rijn extra voorzieningen realiseren zoals een bibliotheek en gezondheidscentrum.",
+      "originalText": "Leidsche Rijn groeit snel maar mist basisvoorzieningen. Volt wil een volwaardige bibliotheek en een gezondheidscentrum realiseren in Leidsche Rijn Centrum.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Leidsche Rijn", "bibliotheek", "gezondheidscentrum"]
+    },
+    {
+      "text": "De Utrechtse singel volledig autoluw maken en inrichten als groene verbindingszone.",
+      "originalText": "Volt wil de singel volledig autoluw maken en inrichten als een groene verbindingszone voor fietsers, voetgangers en biodiversiteit. De singel wordt het groene hart van de stad.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["singel", "autoluw", "groene verbindingszone"]
+    },
+    {
+      "text": "Elk Utrechts kind recht geven op minimaal twee sportactiviteiten per week via het Jeugdfonds.",
+      "originalText": "Volt wil dat elk kind in Utrecht recht heeft op minimaal twee sportactiviteiten per week. Via het Jeugdfonds Sport & Cultuur worden financiele drempels weggenomen.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sport", "kinderen", "Jeugdfonds", "twee activiteiten"]
+    },
+    {
+      "text": "De gemeentelijke financien jaarlijks door een onafhankelijke Europese auditor laten toetsen.",
+      "originalText": "Volt pleit voor een jaarlijkse onafhankelijke audit van de gemeentelijke financien door een Europese auditor, bovenop de reguliere controle. Zo vergroten we het vertrouwen in het gemeentebestuur.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["audit", "financien", "onafhankelijk", "Europees"]
+    },
+    {
+      "text": "Een pilot starten met gedeelde elektrische bakfietsen in vijf Utrechtse wijken.",
+      "originalText": "Volt wil een pilot met gedeelde elektrische bakfietsen in vijf wijken. Dit vermindert autogebruik voor korte ritten en maakt duurzaam vervoer toegankelijk voor gezinnen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bakfietsen", "deelmobiliteit", "pilot", "vijf wijken"]
+    }
+  ]
+}

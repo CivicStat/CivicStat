@@ -1,0 +1,141 @@
+{
+  "party": "Horizon",
+  "partySlug": "horizon",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma Horizon Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "horizon_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Een pragmatisch woningbouwbeleid: 35% sociaal, 35% middensegment, 30% vrije sector.",
+      "originalText": "Horizon wil een pragmatisch woningbouwbeleid met een evenwichtige verdeling: 35% sociale huur, 35% middensegment en 30% vrije sector. Zo blijft Utrecht aantrekkelijk voor alle inkomensgroepen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["35%", "sociaal", "middensegment", "vrije sector"]
+    },
+    {
+      "text": "De energietransitie versnellen met een wijkgerichte aanpak en bewonersparticipatie.",
+      "originalText": "Horizon wil de energietransitie versnellen met een wijkgerichte aanpak. Bewoners worden actief betrokken bij de keuze voor warmtebronnen in hun wijk.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["energietransitie", "wijkgericht", "bewonersparticipatie"]
+    },
+    {
+      "text": "Een kenniscentrum voor integratie en participatie oprichten in samenwerking met de universiteit.",
+      "originalText": "Horizon wil een kenniscentrum voor integratie en participatie oprichten in samenwerking met de Universiteit Utrecht. Wetenschappelijk onderbouwd beleid leidt tot betere resultaten.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["kenniscentrum", "integratie", "universiteit"]
+    },
+    {
+      "text": "De verkeersveiligheid rond scholen verbeteren met schoolzones en snelheidsbeperkingen.",
+      "originalText": "Horizon wil de verkeersveiligheid rond alle Utrechtse scholen verbeteren met schoolzones, snelheidsbeperkingen en veilige oversteekplaatsen.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["verkeersveiligheid", "scholen", "schoolzones"]
+    },
+    {
+      "text": "Utrecht positioneren als Smart City met een investeringsprogramma van 10 miljoen euro.",
+      "originalText": "Horizon wil Utrecht positioneren als Smart City met een investeringsprogramma van 10 miljoen euro voor slimme technologie in mobiliteit, energie en afvalbeheer.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Smart City", "10 miljoen", "technologie"]
+    },
+    {
+      "text": "Taalonderwijs en inburgering combineren met werkervaring bij Utrechtse bedrijven.",
+      "originalText": "Horizon wil taalonderwijs en inburgering combineren met werkervaring bij Utrechtse bedrijven. Integratie lukt het best als taal en werk samengaan.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["taalonderwijs", "inburgering", "werkervaring"]
+    },
+    {
+      "text": "De fietspaden in Utrecht verbeteren met slimme verkeerslichten die fietsers voorrang geven.",
+      "originalText": "Horizon wil de fietspaden verbeteren met slimme verkeerslichten die fietsers automatisch voorrang geven. Utrecht is fietsstad en dat moet blijken uit de infrastructuur.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["fietspaden", "slimme verkeerslichten", "voorrang"]
+    },
+    {
+      "text": "Een evidence-based veiligheidsbeleid invoeren met jaarlijkse wijkveiligheidsmonitors.",
+      "originalText": "Horizon wil een evidence-based veiligheidsbeleid met jaarlijkse wijkveiligheidsmonitors. Beleid moet worden gebaseerd op feiten, niet op gevoelens.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["evidence-based", "wijkveiligheidsmonitor", "jaarlijks"]
+    },
+    {
+      "text": "De Merwedekanaalzone ontwikkelen als voorbeeldwijk voor circulair bouwen.",
+      "originalText": "Horizon wil de Merwedekanaalzone ontwikkelen als voorbeeldwijk voor circulair bouwen. Alle nieuwbouw wordt gerealiseerd met hergebruikte en duurzame materialen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Merwedekanaalzone", "circulair bouwen", "voorbeeldwijk"]
+    },
+    {
+      "text": "Een gemeentelijk digitaliseringsfonds oprichten voor MKB-ondernemers.",
+      "originalText": "Horizon wil een gemeentelijk digitaliseringsfonds oprichten dat MKB-ondernemers helpt bij de digitale transformatie van hun bedrijf. Digitalisering is de sleutel tot toekomstbestendig ondernemen.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["digitaliseringsfonds", "MKB", "digitale transformatie"]
+    },
+    {
+      "text": "Het Utrechtse groenprogramma uitbreiden met een stadsboerderij in elke wijk.",
+      "originalText": "Horizon wil het Utrechtse groenprogramma uitbreiden met een stadsboerderij in elke wijk. Stadsboerderijen brengen natuur dichtbij en versterken de sociale cohesie.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["stadsboerderij", "elke wijk", "groenprogramma"]
+    },
+    {
+      "text": "Onderwijs en arbeidsmarkt beter verbinden met een Utrechts Skills Pact.",
+      "originalText": "Horizon wil onderwijs en arbeidsmarkt beter verbinden met een Utrechts Skills Pact. Bedrijven, onderwijs en gemeente werken samen aan het opleiden van toekomstig talent.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Skills Pact", "onderwijs", "arbeidsmarkt"]
+    },
+    {
+      "text": "De gemeentelijke dienstverlening volledig digitaal aanbieden met een fysiek loket als vangnet.",
+      "originalText": "Horizon wil de gemeentelijke dienstverlening volledig digitaal aanbieden, maar met een fysiek loket als vangnet voor inwoners die niet digitaal vaardig zijn.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["digitale dienstverlening", "fysiek loket", "vangnet"]
+    },
+    {
+      "text": "Een Utrechts cultuurpaspoort invoeren waarmee alle inwoners korting krijgen op culturele activiteiten.",
+      "originalText": "Horizon wil een Utrechts cultuurpaspoort invoeren waarmee alle inwoners korting krijgen op musea, theater en festivals. Cultuur moet voor iedereen bereikbaar zijn.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["cultuurpaspoort", "korting", "musea", "theater"]
+    },
+    {
+      "text": "De jeugdhulpverlening hervormen naar een preventief model met vroegtijdige signalering.",
+      "originalText": "Horizon wil de jeugdhulpverlening hervormen naar een preventief model. Vroegtijdige signalering op scholen en in buurthuizen voorkomt zwaardere zorg later.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["jeugdhulp", "preventief", "vroegtijdige signalering"]
+    },
+    {
+      "text": "De Utrechtse grachten restaureren en beschermen als UNESCO-waardig erfgoed.",
+      "originalText": "Horizon wil de Utrechtse grachten restaureren en beschermen, met als doel een UNESCO Werelderfgoed-nominatie. De grachten zijn het visitekaartje van de stad.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["grachten", "UNESCO", "restaureren", "erfgoed"]
+    }
+  ]
+}

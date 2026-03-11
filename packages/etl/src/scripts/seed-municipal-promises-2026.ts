@@ -67,6 +67,8 @@ function mapSpecificity(input: string): string {
 const PARLIAMENT_SLUGS: Record<string, string> = {
   'amsterdam': 'amsterdam',
   'den-haag': 'den-haag',
+  'rotterdam': 'rotterdam',
+  'utrecht': 'utrecht',
 };
 
 // ─── Party Matching ──────────────────────────────────────────
@@ -85,6 +87,20 @@ const PARTY_ALIASES: Record<string, string[]> = {
   'vvd': ['VVD', 'Volkspartij voor Vrijheid en Democratie'],
   'hart-voor-den-haag': ['Hart voor Den Haag'],
   'groenlinks-pvda': ['GroenLinks-PvdA', 'GroenLinks', 'PvdA'],
+  // Rotterdam
+  'leefbaar-rotterdam': ['Leefbaar Rotterdam'],
+  'christenunie': ['ChristenUnie', 'CU'],
+  '50plus': ['50PLUS', '50Plus'],
+  'fvd': ['Forum voor Democratie', 'FvD'],
+  'bij1': ['BIJ1', 'Bij1'],
+  'nsc': ['NSC', 'Nieuw Sociaal Contract'],
+  // Utrecht
+  'link': ['LINK'],
+  'ss': ['S&S', 'Stadsbelang Utrecht'],
+  'eenutrecht': ['EenUtrecht'],
+  'student-starter': ['Student&Starter'],
+  'utrechtnu': ['UtrechtNu!'],
+  'horizon': ['Horizon'],
 };
 
 async function findParty(partySlug: string, parliamentId: string) {
@@ -137,7 +153,7 @@ interface SeedOptions {
 }
 
 export async function seedMunicipalPromises(options: SeedOptions): Promise<void> {
-  const cities = options.city === 'all' ? ['amsterdam', 'den-haag'] : [options.city];
+  const cities = options.city === 'all' ? ['amsterdam', 'den-haag', 'rotterdam', 'utrecht'] : [options.city];
 
   console.log(`\n[SEED-MUNICIPAL] Seeding municipal promises 2026`);
   console.log(`  Cities: ${cities.join(', ')}`);

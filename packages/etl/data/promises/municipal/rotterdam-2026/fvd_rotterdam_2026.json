@@ -1,0 +1,133 @@
+{
+  "party": "Forum voor Democratie",
+  "partySlug": "fvd",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma Forum voor Democratie Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "fvd_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Bindende referenda invoeren over alle grote gemeentelijke besluiten boven 10 miljoen euro.",
+      "originalText": "Forum voor Democratie wil bindende referenda invoeren over alle grote gemeentelijke besluiten boven 10 miljoen euro. De burger beslist, niet de politiek.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bindende referenda", "10 miljoen", "gemeentelijke besluiten", "burger"]
+    },
+    {
+      "text": "Alle gemeentelijke klimaatplannen schrappen die burgers en bedrijven geld kosten.",
+      "originalText": "Forum voor Democratie wil alle gemeentelijke klimaatplannen schrappen die burgers en bedrijven geld kosten. Klimaatbeleid mag niet ten koste gaan van de portemonnee van Rotterdammers.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["klimaatplannen", "schrappen", "kosten", "burgers"]
+    },
+    {
+      "text": "Geen statushouders meer met voorrang huisvesten: Rotterdammers gaan altijd voor.",
+      "originalText": "Forum voor Democratie wil dat statushouders niet langer met voorrang worden gehuisvest. Rotterdammers die al jaren wachten op een woning gaan altijd voor.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["statushouders", "voorrang", "huisvesting", "Rotterdammers"]
+    },
+    {
+      "text": "OZB-belasting halveren voor huiseigenaren om wonen in Rotterdam betaalbaarder te maken.",
+      "originalText": "Forum voor Democratie wil de OZB-belasting halveren voor huiseigenaren. Wonen in Rotterdam moet betaalbaarder worden en de gemeente moet zuiniger omgaan met belastinggeld.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OZB", "halveren", "huiseigenaren", "betaalbaar"]
+    },
+    {
+      "text": "Geen windmolens en zonneweides op Rotterdams grondgebied: alleen kernenergie als schone energiebron.",
+      "originalText": "Forum voor Democratie wil geen windmolens en zonneweides op Rotterdams grondgebied. Alleen kernenergie is een betrouwbare en schone energiebron voor de toekomst.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["windmolens", "zonneweides", "kernenergie", "verbod"]
+    },
+    {
+      "text": "Alle gemeentelijke diversiteitsbeleid en inclusie-programma's afschaffen.",
+      "originalText": "Forum voor Democratie wil alle gemeentelijke diversiteitsbeleid en inclusie-programma's afschaffen. De overheid hoort mensen gelijk te behandelen, niet in hokjes te stoppen.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["diversiteitsbeleid", "inclusie", "afschaffen", "gelijke behandeling"]
+    },
+    {
+      "text": "Gemeentelijk apparaat inkrimpen met 20%: minder ambtenaren, lagere kosten.",
+      "originalText": "Forum voor Democratie wil het gemeentelijk apparaat inkrimpen met 20%. Minder ambtenaren betekent lagere kosten voor de Rotterdammer.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gemeentelijk apparaat", "20% inkrimpen", "ambtenaren", "kosten"]
+    },
+    {
+      "text": "Straatcriminaliteit keihard aanpakken: hogere straffen en meer gevangenisstraffen voor veelplegers.",
+      "originalText": "Forum voor Democratie wil straatcriminaliteit keihard aanpakken met hogere straffen en meer gevangenisstraffen voor veelplegers. De straat moet weer veilig worden.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["straatcriminaliteit", "hogere straffen", "veelplegers", "gevangenis"]
+    },
+    {
+      "text": "Geen megamoskee in Rotterdam: bouwstop op grote religieuze gebouwen gefinancierd vanuit het buitenland.",
+      "originalText": "Forum voor Democratie wil geen megamoskee in Rotterdam. Er komt een bouwstop op grote religieuze gebouwen die gefinancierd worden vanuit het buitenland.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["megamoskee", "bouwstop", "buitenlandse financiering"]
+    },
+    {
+      "text": "Parkeerbeleid versoepelen: gratis parkeren op zondag en na 18:00 in de hele stad.",
+      "originalText": "Forum voor Democratie wil het parkeerbeleid versoepelen. Gratis parkeren op zondag en na 18:00 in de hele stad. De auto moet welkom blijven in Rotterdam.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["parkeren", "gratis", "zondag", "18:00"]
+    },
+    {
+      "text": "Feyenoord City-project stopzetten: geen gemeentegeld voor een nieuw stadion.",
+      "originalText": "Forum voor Democratie wil het Feyenoord City-project stopzetten. Geen gemeentegeld voor een nieuw stadion. De gemeente moet investeren in bestaande voorzieningen.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Feyenoord City", "stopzetten", "gemeentegeld", "stadion"]
+    },
+    {
+      "text": "Bijstandsfraude hard aanpakken: boetes verdubbelen en fraudeurs uitsluiten van uitkeringen.",
+      "originalText": "Forum voor Democratie wil bijstandsfraude hard aanpakken. Boetes worden verdubbeld en fraudeurs worden uitgesloten van uitkeringen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bijstandsfraude", "boetes", "verdubbelen", "uitsluiting"]
+    },
+    {
+      "text": "Nederlands spreken verplicht in het onderwijs: geen lessen meer in andere talen op Rotterdamse scholen.",
+      "originalText": "Forum voor Democratie wil dat Nederlands spreken verplicht wordt in het onderwijs. Er worden geen lessen meer gegeven in andere talen op Rotterdamse scholen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Nederlands", "verplicht", "onderwijs", "talen"]
+    },
+    {
+      "text": "De Coolsingel en binnenstad bereikbaar houden per auto: geen verdere autoluwe maatregelen.",
+      "originalText": "Forum voor Democratie wil de Coolsingel en binnenstad bereikbaar houden per auto. Er komen geen verdere autoluwe maatregelen. De auto is voor veel Rotterdammers onmisbaar.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Coolsingel", "auto", "bereikbaar", "geen autoluw"]
+    },
+    {
+      "text": "Subsidies voor kunst en cultuur halveren: alleen nog subsidie voor traditionele Nederlandse cultuur.",
+      "originalText": "Forum voor Democratie wil de subsidies voor kunst en cultuur halveren. Alleen traditionele Nederlandse cultuuruitingen komen nog in aanmerking voor gemeentelijke subsidie.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["cultuursubsidies", "halveren", "traditioneel", "Nederlands"]
+    }
+  ]
+}

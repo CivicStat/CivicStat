@@ -1,0 +1,133 @@
+{
+  "party": "EenUtrecht",
+  "partySlug": "eenutrecht",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma EenUtrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "eenutrecht_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Een stadsbreed wijkoverleg invoeren waar elke wijk maandelijks met de wethouder vergadert.",
+      "originalText": "EenUtrecht wil een stadsbreed wijkoverleg waarbij elke wijk maandelijks vergadert met de verantwoordelijke wethouder. De kloof tussen bestuur en bewoners moet worden gedicht.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkoverleg", "maandelijks", "wethouder"]
+    },
+    {
+      "text": "De woningbouw versnellen naar 5.000 woningen per jaar.",
+      "originalText": "EenUtrecht wil dat er jaarlijks minimaal 5.000 nieuwe woningen worden gebouwd in Utrecht. De huidige snelheid is onvoldoende om de wooncrisis op te lossen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["5.000 woningen", "per jaar", "versnellen"]
+    },
+    {
+      "text": "Een Utrechts samenwerkingsfonds oprichten voor initiatieven die verbinding tussen bevolkingsgroepen bevorderen.",
+      "originalText": "EenUtrecht wil een samenwerkingsfonds van 1 miljoen euro oprichten voor initiatieven die de verbinding bevorderen tussen verschillende bevolkingsgroepen in de stad.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["samenwerkingsfonds", "1 miljoen", "verbinding", "bevolkingsgroepen"]
+    },
+    {
+      "text": "Mediation verplicht stellen voordat buren naar de rechter stappen bij overlast.",
+      "originalText": "EenUtrecht wil mediation verplicht stellen bij burengeschillen voordat juridische procedures worden gestart. Samen eruit komen is beter dan juridisch escaleren.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["mediation", "burengeschillen", "verplicht"]
+    },
+    {
+      "text": "Het Jaarbeursgebied ontwikkelen met een mix van 50% woningen en 50% voorzieningen.",
+      "originalText": "EenUtrecht wil het Jaarbeursgebied ontwikkelen met een evenwichtige mix: 50% woningen en 50% maatschappelijke en commerciele voorzieningen.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Jaarbeursgebied", "50%", "mix", "voorzieningen"]
+    },
+    {
+      "text": "Alle wijkcentra openhouden en voorzien van minimaal een wijkmanager.",
+      "originalText": "EenUtrecht wil dat alle wijkcentra in Utrecht open blijven en worden voorzien van minimaal een fulltime wijkmanager die aanspreekpunt is voor bewoners.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkcentra", "wijkmanager", "openhouden"]
+    },
+    {
+      "text": "Een stadsgesprek organiseren over de toekomst van Utrecht met 1.000 deelnemers.",
+      "originalText": "EenUtrecht wil een groot stadsgesprek organiseren over de toekomst van Utrecht met minimaal 1.000 deelnemers uit alle wijken en bevolkingsgroepen.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["stadsgesprek", "1.000 deelnemers", "toekomst"]
+    },
+    {
+      "text": "Klimaatadaptatie in elke wijk prioriteren met wadi's en waterbergingen.",
+      "originalText": "EenUtrecht wil dat in elke wijk klimaatadaptatiemaatregelen worden genomen: wadi's, waterbergingen en vergroening om wateroverlast en hitte te bestrijden.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["klimaatadaptatie", "wadi's", "waterbergingen", "elke wijk"]
+    },
+    {
+      "text": "Leerwerkplekken creeren voor 500 jongeren per jaar bij Utrechtse bedrijven.",
+      "originalText": "EenUtrecht wil dat er jaarlijks 500 leerwerkplekken worden gecreeerd bij Utrechtse bedrijven voor jongeren die dreigen uit te vallen op school of geen werk vinden.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["leerwerkplekken", "500", "jongeren", "per jaar"]
+    },
+    {
+      "text": "Het culturele aanbod in Leidsche Rijn en Vleuten-De Meern versterken.",
+      "originalText": "EenUtrecht wil het culturele aanbod in Leidsche Rijn en Vleuten-De Meern versterken met een eigen podium en expositieruimte. Cultuur hoort niet alleen in het centrum.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Leidsche Rijn", "Vleuten-De Meern", "cultureel aanbod", "podium"]
+    },
+    {
+      "text": "De gemeente transparanter maken door alle besluitvorming online te publiceren.",
+      "originalText": "EenUtrecht wil dat alle gemeentelijke besluitvorming online wordt gepubliceerd in een doorzoekbaar archief. Transparantie is de basis van vertrouwen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["transparantie", "online", "besluitvorming"]
+    },
+    {
+      "text": "Betaalbare woningen voor starters realiseren met een maximale koopprijs van 250.000 euro.",
+      "originalText": "EenUtrecht wil betaalbare starterswoningen realiseren met een maximale koopprijs van 250.000 euro. Jongeren moeten een eerlijke kans krijgen op de woningmarkt.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["starters", "250.000 euro", "koopprijs"]
+    },
+    {
+      "text": "Fietsroutes verbeteren tussen de buitenwijken en het centrum.",
+      "originalText": "EenUtrecht wil de fietsroutes tussen de buitenwijken en het centrum verbeteren met bredere paden en betere verlichting. Fietsen moet veilig en comfortabel zijn.",
+      "theme": "verkeer-vervoer",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["fietsroutes", "buitenwijken", "centrum"]
+    },
+    {
+      "text": "Een intergenerationeel woonproject realiseren waar ouderen en jongeren samen wonen.",
+      "originalText": "EenUtrecht wil een intergenerationeel woonproject realiseren waar ouderen en jongeren samen wonen en voor elkaar zorgen. Dit bestrijdt eenzaamheid en bevordert solidariteit.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["intergenerationeel", "woonproject", "ouderen", "jongeren"]
+    },
+    {
+      "text": "De gemeentelijke dienstverlening verbeteren met een garantie op reactie binnen vijf werkdagen.",
+      "originalText": "EenUtrecht wil dat de gemeente garandeert dat elke vraag van een inwoner binnen vijf werkdagen wordt beantwoord. Goede dienstverlening is een basisrecht.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["dienstverlening", "vijf werkdagen", "garantie"]
+    }
+  ]
+}

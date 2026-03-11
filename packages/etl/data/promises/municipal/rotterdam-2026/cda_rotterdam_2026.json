@@ -1,0 +1,141 @@
+{
+  "party": "CDA",
+  "partySlug": "cda",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma CDA Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "cda_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Gezinnen met kinderen krijgen voorrang bij toewijzing van woningen met 3 of meer kamers.",
+      "originalText": "Het CDA wil dat gezinnen met kinderen voorrang krijgen bij de toewijzing van woningen met 3 of meer kamers. Rotterdam moet een stad zijn waar gezinnen graag willen wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gezinnen", "voorrang", "woningen", "3 kamers"]
+    },
+    {
+      "text": "Meer wijkagenten en handhavers in Delfshaven, Charlois en Feijenoord om de veiligheid te verbeteren.",
+      "originalText": "Het CDA wil meer wijkagenten en handhavers in Delfshaven, Charlois en Feijenoord. Deze wijken verdienen extra aandacht om de veiligheid structureel te verbeteren.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["wijkagenten", "handhavers", "Delfshaven", "Charlois", "Feijenoord"]
+    },
+    {
+      "text": "Sportverenigingen krijgen 5 miljoen euro extra per jaar voor onderhoud van accommodaties en jeugdopleiding.",
+      "originalText": "Het CDA wil 5 miljoen euro extra per jaar voor sportverenigingen, bestemd voor onderhoud van accommodaties en jeugdopleiding. Sport versterkt de gemeenschap en houdt jongeren van de straat.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sportverenigingen", "5 miljoen", "onderhoud", "jeugdopleiding"]
+    },
+    {
+      "text": "Mantelzorgers ontvangen een jaarlijkse mantelzorgwaardering van 500 euro.",
+      "originalText": "Het CDA wil dat mantelzorgers in Rotterdam een jaarlijkse mantelzorgwaardering ontvangen van 500 euro. Mantelzorgers zijn onmisbaar en verdienen erkenning.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["mantelzorgers", "500 euro", "waardering", "jaarlijks"]
+    },
+    {
+      "text": "Zondag als rustdag beschermen: geen uitbreiding van zondagsopenstelling winkels buiten het centrum.",
+      "originalText": "Het CDA wil de zondag als rustdag beschermen. Buiten het centrum mag er geen uitbreiding komen van de zondagsopenstelling van winkels. Winkelpersoneel verdient rust.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zondag", "rustdag", "zondagsopenstelling", "winkels"]
+    },
+    {
+      "text": "Kerken, moskeeeen en synagogen betrekken bij integratie en armoedebestrijding via een subsidieregeling.",
+      "originalText": "Het CDA wil kerken, moskeeeen en synagogen actiever betrekken bij integratie en armoedebestrijding. Er komt een subsidieregeling voor religieuze instellingen die bijdragen aan sociale samenhang.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["kerken", "moskeeeen", "integratie", "armoedebestrijding", "subsidie"]
+    },
+    {
+      "text": "Parkeerbeleid: bewoners met een auto in de buitenwijken betalen maximaal 50 euro per jaar voor een parkeervergunning.",
+      "originalText": "Het CDA wil het parkeerbeleid aanpassen. Bewoners met een auto in de buitenwijken betalen maximaal 50 euro per jaar voor een parkeervergunning. De auto is voor veel gezinnen onmisbaar.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["parkeerbeleid", "50 euro", "parkeervergunning", "buitenwijken"]
+    },
+    {
+      "text": "Geen coffeeshops binnen 350 meter van scholen en meer handhaving op drugscriminaliteit in wijken.",
+      "originalText": "Het CDA wil geen coffeeshops binnen 350 meter van scholen en meer handhaving op drugscriminaliteit in wijken. De veiligheid van kinderen en de leefbaarheid van buurten staan voorop.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["coffeeshops", "350 meter", "scholen", "drugscriminaliteit"]
+    },
+    {
+      "text": "Starterslening van maximaal 30.000 euro voor jongeren die hun eerste woning kopen in Rotterdam.",
+      "originalText": "Het CDA wil een starterslening van maximaal 30.000 euro voor jongeren die hun eerste woning kopen in Rotterdam. Zo maken we het voor starters mogelijk om in de stad te blijven wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["starterslening", "30.000 euro", "starters", "eerste woning"]
+    },
+    {
+      "text": "Elke wijk in Rotterdam krijgt een jaarlijks buurtfeest, gefinancierd door de gemeente.",
+      "originalText": "Het CDA wil dat elke wijk in Rotterdam een jaarlijks buurtfeest krijgt, gefinancierd door de gemeente. Buurtfeesten versterken de sociale samenhang en het onderlinge contact.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["buurtfeest", "jaarlijks", "gemeente", "sociale samenhang"]
+    },
+    {
+      "text": "MBO-studenten krijgen een stagevergoeding van minimaal 500 euro per maand bij de gemeente Rotterdam.",
+      "originalText": "Het CDA wil dat MBO-studenten die stage lopen bij de gemeente Rotterdam een vergoeding krijgen van minimaal 500 euro per maand. Stage lopen moet lonen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["MBO", "stagevergoeding", "500 euro", "gemeente"]
+    },
+    {
+      "text": "Meer middenhuurwoningen bouwen: 30% van alle nieuwbouw in het segment 900-1.200 euro per maand.",
+      "originalText": "Het CDA wil meer middenhuurwoningen bouwen. 30% van alle nieuwbouw moet in het segment 900-1.200 euro per maand vallen, zodat hardwerkende Rotterdammers een betaalbare woning vinden.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["middenhuur", "30%", "nieuwbouw", "900-1.200 euro"]
+    },
+    {
+      "text": "Ouderen langer thuis laten wonen door 500 extra woningaanpassingen per jaar te subsidiëren.",
+      "originalText": "Het CDA wil ouderen langer thuis laten wonen door jaarlijks 500 extra woningaanpassingen te subsidiëren. Denk aan trapliften, drempels verwijderen en douchekrukken.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ouderen", "woningaanpassingen", "500 per jaar", "thuis wonen"]
+    },
+    {
+      "text": "De Erasmusbrug en omgeving mooier en veiliger maken met betere verlichting en meer groen.",
+      "originalText": "Het CDA wil de Erasmusbrug en omgeving mooier en veiliger maken. Betere verlichting en meer groen zorgen ervoor dat dit icoon van Rotterdam nog aantrekkelijker wordt.",
+      "theme": "openbare-ruimte",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["Erasmusbrug", "verlichting", "groen", "veiligheid"]
+    },
+    {
+      "text": "Taalachterstanden bij peuters aanpakken door gratis voorschoolse educatie aan te bieden aan alle 2- en 3-jarigen.",
+      "originalText": "Het CDA wil taalachterstanden bij peuters aanpakken door gratis voorschoolse educatie aan te bieden aan alle 2- en 3-jarigen in Rotterdam. Een goede start is het halve werk.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["taalachterstanden", "voorschoolse educatie", "gratis", "peuters"]
+    },
+    {
+      "text": "Gemeentelijke belastingen voor huiseigenaren niet verhogen boven de inflatie.",
+      "originalText": "Het CDA wil dat de gemeentelijke belastingen voor huiseigenaren niet verder stijgen dan de inflatie. Huiseigenaren moeten niet de dupe worden van stijgende lasten.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gemeentelijke belastingen", "inflatie", "huiseigenaren", "niet verhogen"]
+    }
+  ]
+}

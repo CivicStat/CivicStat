@@ -1,0 +1,141 @@
+{
+  "party": "NSC",
+  "partySlug": "nsc",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma NSC Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "nsc_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Bestaanszekerheid voorop: gemeentelijke lasten voor huishoudens met lage inkomens niet verhogen.",
+      "originalText": "NSC wil bestaanszekerheid vooropstellen. Gemeentelijke lasten voor huishoudens met lage inkomens worden niet verhoogd. Wonen, zorg en dagelijks leven moeten betaalbaar blijven.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bestaanszekerheid", "gemeentelijke lasten", "lage inkomens", "niet verhogen"]
+    },
+    {
+      "text": "Woningbouwversnelling: 4.000 woningen per jaar, waarvan 30% middenhuur en 30% sociale huur.",
+      "originalText": "NSC wil de woningbouw versnellen naar 4.000 woningen per jaar, waarvan 30% middenhuur en 30% sociale huur. Een goede mix zorgt voor leefbare wijken.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["woningbouw", "4.000 per jaar", "30% middenhuur", "30% sociale huur"]
+    },
+    {
+      "text": "Integriteit in het bestuur: verplichte nevenfunctiemeldingen en een onafhankelijke integriteitscommissie.",
+      "originalText": "NSC wil integriteit in het bestuur versterken met verplichte nevenfunctiemeldingen voor alle wethouders en raadsleden. Er komt een onafhankelijke integriteitscommissie.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["integriteit", "nevenfuncties", "integriteitscommissie", "wethouders"]
+    },
+    {
+      "text": "Wijkagenten terug in de wijk: elke wijk minimaal 2 vaste wijkagenten die de buurt kennen.",
+      "originalText": "NSC wil wijkagenten terug in de wijk. Elke wijk krijgt minimaal 2 vaste wijkagenten die de buurt kennen en aanspreekbaar zijn voor bewoners.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkagenten", "2 per wijk", "buurt", "aanspreekbaar"]
+    },
+    {
+      "text": "De Rotterdamse haven ondersteunen bij de energietransitie zonder banen te verliezen.",
+      "originalText": "NSC wil de Rotterdamse haven ondersteunen bij de energietransitie, maar zonder banen te verliezen. De transitie moet geleidelijk en sociaal rechtvaardig verlopen.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["haven", "energietransitie", "banen", "geleidelijk"]
+    },
+    {
+      "text": "Geen gedwongen aardgasvrij maken van wijken: bewoners kiezen zelf wanneer en hoe ze overstappen.",
+      "originalText": "NSC wil geen gedwongen aardgasvrij maken van wijken. Bewoners kiezen zelf wanneer en hoe ze overstappen op een ander verwarmingssysteem. De overheid faciliteert, maar dwingt niet.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["aardgasvrij", "geen dwang", "keuzevrijheid", "bewoners"]
+    },
+    {
+      "text": "Schuldhulpverlening verbeteren: een schuldenrechter die snel tot een oplossing kan komen.",
+      "originalText": "NSC wil de schuldhulpverlening verbeteren door een schuldenrechter aan te stellen die snel tot een oplossing kan komen. Jarenlang in schulden zitten is onacceptabel.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schuldhulpverlening", "schuldenrechter", "snel", "oplossing"]
+    },
+    {
+      "text": "MKB-ondernemers ondersteunen met een loket voor subsidies, vergunningen en advies.",
+      "originalText": "NSC wil MKB-ondernemers ondersteunen met een centraal loket voor subsidies, vergunningen en advies. Ondernemers moeten niet verdwalen in gemeentelijke bureaucratie.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["MKB", "loket", "subsidies", "vergunningen"]
+    },
+    {
+      "text": "Leerplichtambtenaren verdubbelen om schoolverzuim en voortijdig schoolverlaten terug te dringen.",
+      "originalText": "NSC wil het aantal leerplichtambtenaren verdubbelen om schoolverzuim en voortijdig schoolverlaten terug te dringen. Elk kind hoort op school.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["leerplichtambtenaren", "verdubbelen", "schoolverzuim", "schoolverlaten"]
+    },
+    {
+      "text": "Bouwvergunningen binnen 8 weken verlenen om de woningbouw te versnellen.",
+      "originalText": "NSC wil bouwvergunningen binnen 8 weken verlenen om de woningbouw te versnellen. Trage procedures zijn een van de grootste obstakels voor nieuwbouw in Rotterdam.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bouwvergunningen", "8 weken", "versnellen", "woningbouw"]
+    },
+    {
+      "text": "Ondermijning in het havengebied aanpakken met een integraal veiligheidsteam van gemeente, politie en douane.",
+      "originalText": "NSC wil ondermijning in het havengebied aanpakken met een integraal veiligheidsteam van gemeente, politie en douane. Criminele netwerken moeten uit de haven worden geweerd.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ondermijning", "haven", "veiligheidsteam", "politie", "douane"]
+    },
+    {
+      "text": "Ouderen langer thuis laten wonen met een gemeentelijke subsidie voor woningaanpassingen tot 10.000 euro.",
+      "originalText": "NSC wil ouderen langer thuis laten wonen met een gemeentelijke subsidie voor woningaanpassingen tot 10.000 euro per aanvraag. Zo voorkomen we onnodige verhuizingen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ouderen", "woningaanpassingen", "10.000 euro", "subsidie"]
+    },
+    {
+      "text": "Inburgering koppelen aan werk: nieuwkomers starten binnen 3 maanden met een baan of stage.",
+      "originalText": "NSC wil inburgering koppelen aan werk. Nieuwkomers starten binnen 3 maanden na aankomst met een baan of stage. Integratie begint op de werkvloer.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["inburgering", "werk", "3 maanden", "stage"]
+    },
+    {
+      "text": "Groenonderhoud in alle wijken verbeteren: geen verwaarloosde plantsoenen en parken meer.",
+      "originalText": "NSC wil het groenonderhoud in alle wijken verbeteren. Verwaarloosde plantsoenen en parken zijn niet meer acceptabel. Een goed onderhouden buurt vergroot de leefbaarheid.",
+      "theme": "openbare-ruimte",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["groenonderhoud", "plantsoenen", "parken", "leefbaarheid"]
+    },
+    {
+      "text": "Gemeentelijke ICT-systemen moderniseren zodat dienstverlening sneller en betrouwbaarder wordt.",
+      "originalText": "NSC wil de gemeentelijke ICT-systemen moderniseren zodat de dienstverlening aan Rotterdammers sneller en betrouwbaarder wordt. Verouderde systemen kosten geld en veroorzaken fouten.",
+      "theme": "bestuur-democratie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["ICT", "moderniseren", "dienstverlening", "systemen"]
+    },
+    {
+      "text": "Feyenoord City alleen steunen als er een sluitende businesscase ligt en de wijk er beter van wordt.",
+      "originalText": "NSC steunt Feyenoord City alleen als er een sluitende businesscase ligt en de wijk er aantoonbaar beter van wordt. Geen blanco cheques voor prestigeprojecten.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Feyenoord City", "businesscase", "voorwaardelijk", "wijk"]
+    }
+  ]
+}

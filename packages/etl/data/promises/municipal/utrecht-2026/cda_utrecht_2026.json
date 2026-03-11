@@ -1,0 +1,141 @@
+{
+  "party": "CDA",
+  "partySlug": "cda",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma CDA Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "cda_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Gezinswoningen bouwen in de Merwedekanaalzone: minimaal 30% woningen met drie of meer slaapkamers.",
+      "originalText": "Het CDA wil dat minimaal 30% van de woningen in de Merwedekanaalzone drie of meer slaapkamers heeft. Gezinnen moeten in de stad kunnen blijven wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gezinswoningen", "Merwedekanaalzone", "30%", "slaapkamers"]
+    },
+    {
+      "text": "De wijkagent terugbrengen in alle Utrechtse wijken met minimaal een fulltime agent per wijk.",
+      "originalText": "Het CDA wil de wijkagent terugbrengen in alle Utrechtse wijken. Elke wijk krijgt minimaal een fulltime wijkagent die de buurt kent en er zichtbaar aanwezig is.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkagent", "fulltime", "elke wijk"]
+    },
+    {
+      "text": "Verenigingen en vrijwilligersorganisaties structureel subsidieren met 3 miljoen euro per jaar.",
+      "originalText": "Het CDA wil verenigingen en vrijwilligersorganisaties structureel subsidieren met 3 miljoen euro per jaar. Het verenigingsleven is het cement van de samenleving.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["verenigingen", "vrijwilligers", "3 miljoen", "subsidie"]
+    },
+    {
+      "text": "Parkeerbeleid herzien: bewoners behouden recht op een betaalbare parkeervergunning.",
+      "originalText": "Het CDA wil het parkeerbeleid herzien zodat bewoners recht behouden op een betaalbare parkeervergunning. De auto is voor veel gezinnen onmisbaar.",
+      "theme": "verkeer-vervoer",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["parkeerbeleid", "parkeervergunning", "betaalbaar"]
+    },
+    {
+      "text": "Kerken, moskeeeen en synagogen ondersteunen als maatschappelijke ankers in de wijk.",
+      "originalText": "Het CDA wil kerken, moskeeeen en synagogen ondersteunen als maatschappelijke ankers in de wijk. Religieuze gemeenschappen leveren een belangrijke bijdrage aan sociale cohesie.",
+      "theme": "sociaal-domein",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["kerken", "moskeeeen", "synagogen", "sociale cohesie"]
+    },
+    {
+      "text": "Een ondernemersfonds van 2 miljoen euro oprichten voor het Utrechtse MKB.",
+      "originalText": "Het CDA wil een ondernemersfonds van 2 miljoen euro oprichten voor het Utrechtse MKB. Het fonds biedt leningen en advies aan kleine ondernemers.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ondernemersfonds", "2 miljoen", "MKB"]
+    },
+    {
+      "text": "Het Utrechtse erfgoed beschermen door 5 miljoen euro extra te investeren in monumentenonderhoud.",
+      "originalText": "Het CDA wil 5 miljoen euro extra investeren in het onderhoud van Utrechtse monumenten. De Domtoren, kerken en grachtenpanden zijn het gezicht van de stad.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["erfgoed", "5 miljoen", "monumentenonderhoud", "Domtoren"]
+    },
+    {
+      "text": "Mantelzorgwoningen makkelijker vergunbaar maken in alle Utrechtse wijken.",
+      "originalText": "Het CDA wil dat mantelzorgwoningen makkelijker vergunbaar worden in alle Utrechtse wijken. Ouders en kinderen moeten dicht bij elkaar kunnen wonen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["mantelzorgwoningen", "vergunning", "makkelijker"]
+    },
+    {
+      "text": "De sportaccommodaties in Utrecht renoveren met een investering van 10 miljoen euro.",
+      "originalText": "Het CDA wil 10 miljoen euro investeren in de renovatie van Utrechtse sportaccommodaties. Sport is essentieel voor gezondheid en sociale binding.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sportaccommodaties", "10 miljoen", "renovatie"]
+    },
+    {
+      "text": "De instroom in de bijstand beperken door meer begeleiding naar werk.",
+      "originalText": "Het CDA wil de instroom in de bijstand beperken door meer begeleiding naar werk te bieden. Werkcoaches begeleiden werkzoekenden intensief naar een baan.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["bijstand", "begeleiding", "werkcoaches"]
+    },
+    {
+      "text": "Leidsche Rijn voorzien van een eigen politiebureau en brandweerkazerne.",
+      "originalText": "Het CDA wil dat Leidsche Rijn een eigen politiebureau en brandweerkazerne krijgt. De veiligheidsdiensten moeten meegroeien met de wijk.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Leidsche Rijn", "politiebureau", "brandweerkazerne"]
+    },
+    {
+      "text": "De gemeentelijke reserves op peil houden op minimaal 50 miljoen euro.",
+      "originalText": "Het CDA wil dat de gemeentelijke reserves op peil blijven op minimaal 50 miljoen euro. Financieel verantwoord bestuur betekent ook sparen voor moeilijke tijden.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["reserves", "50 miljoen", "financieel verantwoord"]
+    },
+    {
+      "text": "De wachtlijsten voor huisartsen in nieuwe wijken aanpakken met gezondheidscentra.",
+      "originalText": "Het CDA wil de wachtlijsten voor huisartsen in nieuwe wijken zoals Leidsche Rijn en Merwedekanaalzone aanpakken door nieuwe gezondheidscentra te realiseren.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["huisartsen", "wachtlijsten", "gezondheidscentra"]
+    },
+    {
+      "text": "Een vuurwerkverbod invoeren in de hele gemeente met uitzondering van gemeentelijke vuurwerkshows.",
+      "originalText": "Het CDA wil een consumentenvuurwerkverbod in de hele gemeente Utrecht. In plaats daarvan organiseert de gemeente op meerdere plekken professionele vuurwerkshows.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["vuurwerkverbod", "gemeentelijke shows"]
+    },
+    {
+      "text": "Het Utrechtse onderwijs versterken met 200 extra onderwijsassistenten.",
+      "originalText": "Het CDA wil het Utrechtse onderwijs versterken met 200 extra onderwijsassistenten. Kleinere klassen en meer aandacht voor elk kind verbeteren de onderwijskwaliteit.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["onderwijsassistenten", "200", "kleinere klassen"]
+    },
+    {
+      "text": "De Utrechtse Heuvelrug en Amelisweerd beschermen tegen verdere bebouwing.",
+      "originalText": "Het CDA wil de Utrechtse Heuvelrug en Amelisweerd beschermen tegen verdere bebouwing. Natuur en recreatie rond de stad zijn van onschatbare waarde.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Heuvelrug", "Amelisweerd", "beschermen", "bebouwing"]
+    }
+  ]
+}

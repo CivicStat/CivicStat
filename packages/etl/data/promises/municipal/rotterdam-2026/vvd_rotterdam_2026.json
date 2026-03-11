@@ -1,0 +1,149 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma VVD Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "vvd_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Gemeentelijke belastingen verlagen: OZB met 15% omlaag voor huiseigenaren en ondernemers.",
+      "originalText": "De VVD wil de gemeentelijke belastingen verlagen. De OZB gaat met 15% omlaag voor zowel huiseigenaren als ondernemers. Rotterdam moet een aantrekkelijke stad zijn om te wonen en te ondernemen.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OZB", "15% verlaging", "huiseigenaren", "ondernemers"]
+    },
+    {
+      "text": "10.000 nieuwe woningen bouwen in de komende raadsperiode, waarvan 40% koopwoningen.",
+      "originalText": "De VVD wil 10.000 nieuwe woningen bouwen in de komende raadsperiode, waarvan minimaal 40% koopwoningen. Eigen woningbezit vergroot de betrokkenheid bij de buurt.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["10.000 woningen", "40%", "koopwoningen", "raadsperiode"]
+    },
+    {
+      "text": "De haven van Rotterdam beschermen als economische motor: geen overbodige klimaatregels die banen kosten.",
+      "originalText": "De VVD wil de haven van Rotterdam beschermen als economische motor. Geen overbodige klimaatregels die banen kosten. De haven is de ruggengraat van de Rotterdamse economie.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["haven", "economische motor", "klimaatregels", "banen"]
+    },
+    {
+      "text": "Ondernemersvergunningen binnen 4 weken afhandelen: snellere processen voor starters en MKB.",
+      "originalText": "De VVD wil dat ondernemersvergunningen binnen 4 weken worden afgehandeld. Snellere processen voor starters en MKB zorgen voor meer ondernemerschap in Rotterdam.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ondernemersvergunningen", "4 weken", "starters", "MKB"]
+    },
+    {
+      "text": "Meer parkeerplekken in de binnenstad door een ondergrondse parkeergarage bij het Centraal Station.",
+      "originalText": "De VVD wil meer parkeerplekken in de binnenstad door de bouw van een ondergrondse parkeergarage bij het Centraal Station. Bereikbaarheid per auto is essentieel voor een vitale binnenstad.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["parkeergarage", "Centraal Station", "ondergronds", "binnenstad"]
+    },
+    {
+      "text": "Criminaliteit in het havengebied aanpakken met 50 extra havenpolitie-agenten.",
+      "originalText": "De VVD wil de criminaliteit in het havengebied aanpakken met 50 extra havenpolitie-agenten. Drugssmokkel en ondermijning vormen een bedreiging voor de Rotterdamse haven.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["havenpolitie", "50 agenten", "drugssmokkel", "ondermijning"]
+    },
+    {
+      "text": "De Erasmusbrug verlichten met een nieuw lichtkunstwerk dat Rotterdam internationaal op de kaart zet.",
+      "originalText": "De VVD wil de Erasmusbrug verlichten met een nieuw lichtkunstwerk dat Rotterdam internationaal op de kaart zet. De brug is het visitekaartje van de stad.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Erasmusbrug", "lichtkunstwerk", "internationaal", "visitekaartje"]
+    },
+    {
+      "text": "Bijstandsgerechtigden verplichten tot een tegenprestatie: werk, opleiding of vrijwilligerswerk.",
+      "originalText": "De VVD wil bijstandsgerechtigden verplichten tot een tegenprestatie. Dat kan werk zijn, een opleiding of vrijwilligerswerk. Iedereen draagt bij naar vermogen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bijstandsgerechtigden", "tegenprestatie", "werk", "opleiding"]
+    },
+    {
+      "text": "Vergunningen voor woningsplitsing en kamerverhuur beperken om overlast in woonwijken tegen te gaan.",
+      "originalText": "De VVD wil vergunningen voor woningsplitsing en kamerverhuur beperken. Overlast door te veel bewoners in een woning moet worden tegengegaan.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["woningsplitsing", "kamerverhuur", "vergunningen", "overlast"]
+    },
+    {
+      "text": "Investeren in cyberveiligheid: 3 miljoen euro extra voor digitale beveiliging van gemeentelijke systemen.",
+      "originalText": "De VVD wil 3 miljoen euro extra investeren in cyberveiligheid van gemeentelijke systemen. Digitale veiligheid is net zo belangrijk als fysieke veiligheid.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["cyberveiligheid", "3 miljoen", "digitale beveiliging", "gemeentelijk"]
+    },
+    {
+      "text": "Terrassen en uitstallingen: meer ruimte voor horeca en winkels om de binnenstad levendig te houden.",
+      "originalText": "De VVD wil meer ruimte voor terrassen en uitstallingen voor horeca en winkels. Een levendige binnenstad trekt bezoekers en is goed voor de economie.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["terrassen", "horeca", "binnenstad", "levendig"]
+    },
+    {
+      "text": "Topsportevenementen naar Rotterdam halen: jaarlijks budget van 5 miljoen euro voor grote sportevenementen.",
+      "originalText": "De VVD wil topsportevenementen naar Rotterdam halen met een jaarlijks budget van 5 miljoen euro. Rotterdam moet de sportstad van Nederland zijn.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["topsportevenementen", "5 miljoen", "sportstad", "jaarlijks"]
+    },
+    {
+      "text": "Minder regels voor bouwvergunningen: vergunningsvrij bouwen uitbreiden voor dakopbouwen en aanbouwen.",
+      "originalText": "De VVD wil minder regels voor bouwvergunningen. Vergunningsvrij bouwen wordt uitgebreid voor dakopbouwen en aanbouwen, zodat woningeigenaren hun huis makkelijker kunnen vergroten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["bouwvergunningen", "vergunningsvrij", "dakopbouwen", "aanbouwen"]
+    },
+    {
+      "text": "Inzet van preventief fouilleren uitbreiden naar alle wijken waar wapengeweld voorkomt.",
+      "originalText": "De VVD wil preventief fouilleren uitbreiden naar alle wijken waar wapengeweld voorkomt. Wapens horen niet op straat en de politie moet de bevoegdheid hebben om in te grijpen.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["preventief fouilleren", "wapengeweld", "wijken", "politie"]
+    },
+    {
+      "text": "Internationale bedrijven aantrekken met een Rotterdam Foreign Investment desk en belastingvoordelen.",
+      "originalText": "De VVD wil internationale bedrijven aantrekken met een Rotterdam Foreign Investment desk en lokale belastingvoordelen. Meer bedrijven betekent meer banen voor Rotterdammers.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["internationale bedrijven", "Foreign Investment desk", "belastingvoordelen"]
+    },
+    {
+      "text": "Woonfraude hard aanpakken: illegale onderverhuur beboeten met minimaal 5.000 euro.",
+      "originalText": "De VVD wil woonfraude hard aanpakken. Illegale onderverhuur wordt beboet met minimaal 5.000 euro. Eerlijke woningtoewijzing is de basis van een rechtvaardig woonbeleid.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["woonfraude", "onderverhuur", "5.000 euro", "boete"]
+    },
+    {
+      "text": "A16 Rotterdam: geluidsoverlast verminderen met betere geluidsschermen langs de snelweg.",
+      "originalText": "De VVD wil de geluidsoverlast van de A16 Rotterdam verminderen met betere geluidsschermen langs de snelweg. Bewoners in de omgeving hebben recht op een rustige woonomgeving.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["A16", "geluidsoverlast", "geluidsschermen", "snelweg"]
+    }
+  ]
+}

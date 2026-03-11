@@ -1,0 +1,173 @@
+{
+  "party": "GroenLinks",
+  "partySlug": "groenlinks",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma GroenLinks Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "groenlinks_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "50% van alle nieuwbouw in Rotterdam moet sociale huur zijn om de woningnood aan te pakken.",
+      "originalText": "GroenLinks wil dat minimaal 50% van alle nieuwbouw in Rotterdam sociale huurwoningen zijn. De woningnood in Rotterdam is enorm en treft vooral mensen met lage en middeninkomens.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sociale huur", "50%", "nieuwbouw", "woningnood"]
+    },
+    {
+      "text": "Alle wijken in Rotterdam-Zuid krijgen een wijkgroenplan met minimaal 25% meer bomen en parken.",
+      "originalText": "GroenLinks wil voor alle wijken in Rotterdam-Zuid een wijkgroenplan opstellen met als doel minimaal 25% meer bomen en parken. Zuid is het meest versteende deel van de stad en verdient meer groen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkgroenplan", "Rotterdam-Zuid", "25%", "bomen", "parken"]
+    },
+    {
+      "text": "De Rotterdamse haven moet in 2040 volledig fossielvrij opereren.",
+      "originalText": "GroenLinks wil dat de Rotterdamse haven in 2040 volledig fossielvrij opereert. Geen nieuwe fossiele infrastructuur meer en versnelde investering in groene waterstof en windenergie.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["haven", "fossielvrij", "2040", "waterstof", "windenergie"]
+    },
+    {
+      "text": "Milieuzone uitbreiden naar heel Rotterdam: alleen nog zero-emissie voertuigen in de stad vanaf 2030.",
+      "originalText": "GroenLinks wil de milieuzone uitbreiden naar heel Rotterdam. Vanaf 2030 mogen alleen nog zero-emissie voertuigen de stad in. Dit verbetert de luchtkwaliteit en beschermt de gezondheid van Rotterdammers.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["milieuzone", "zero-emissie", "2030", "luchtkwaliteit"]
+    },
+    {
+      "text": "Gratis openbaar vervoer voor kinderen tot 12 jaar en 65-plussers met een laag inkomen.",
+      "originalText": "GroenLinks wil gratis openbaar vervoer voor kinderen tot 12 jaar en voor 65-plussers met een laag inkomen. Mobiliteit mag geen luxe zijn.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "kinderen", "65-plussers", "laag inkomen"]
+    },
+    {
+      "text": "Elk kind in Rotterdam krijgt recht op een plek in de buitenschoolse opvang, ongeacht het inkomen van de ouders.",
+      "originalText": "GroenLinks wil dat elk kind in Rotterdam recht heeft op een plek in de buitenschoolse opvang. Dit mag niet afhankelijk zijn van het inkomen van de ouders.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["buitenschoolse opvang", "kinderen", "recht", "inkomen"]
+    },
+    {
+      "text": "Rotterdam wordt de eerste grote stad met een bindend burgerberaad over de energietransitie.",
+      "originalText": "GroenLinks wil dat Rotterdam de eerste grote stad wordt met een bindend burgerberaad over de energietransitie. Rotterdammers moeten direct meebeslissen over de toekomst van hun stad.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["burgerberaad", "bindend", "energietransitie", "participatie"]
+    },
+    {
+      "text": "Minimaal 1.000 extra sociale huurwoningen per jaar bouwen bovenop de huidige plannen.",
+      "originalText": "GroenLinks wil minimaal 1.000 extra sociale huurwoningen per jaar bouwen bovenop de huidige bouwplannen. De wachtlijsten zijn onacceptabel lang.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sociale huurwoningen", "1.000 per jaar", "wachtlijsten", "bouwen"]
+    },
+    {
+      "text": "Discriminatie op de woningmarkt aanpakken met mystery guests en boetes tot 50.000 euro voor verhuurders.",
+      "originalText": "GroenLinks wil discriminatie op de woningmarkt hard aanpakken. Met mystery guests controleren we verhuurders en makelaars. Bij discriminatie volgen boetes tot 50.000 euro.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["discriminatie", "woningmarkt", "mystery guests", "boetes", "50.000 euro"]
+    },
+    {
+      "text": "Alle basisscholen in kwetsbare wijken krijgen een schoolontbijt en lunch, gefinancierd door de gemeente.",
+      "originalText": "GroenLinks wil dat alle basisscholen in kwetsbare wijken een gratis schoolontbijt en lunch aanbieden, gefinancierd door de gemeente. Geen kind mag met honger in de klas zitten.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schoolontbijt", "lunch", "basisscholen", "kwetsbare wijken"]
+    },
+    {
+      "text": "De Rijnhaven en Nassauhaven transformeren tot groene woonwijken met minimaal 60% betaalbare woningen.",
+      "originalText": "GroenLinks wil de Rijnhaven en Nassauhaven transformeren tot groene woonwijken met minimaal 60% betaalbare woningen. Deze locaties bieden enorme kansen voor duurzame stadsontwikkeling.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Rijnhaven", "Nassauhaven", "groene woonwijken", "60%", "betaalbaar"]
+    },
+    {
+      "text": "Meer wijkagenten: elke wijk in Rotterdam moet een eigen, herkenbare wijkagent hebben.",
+      "originalText": "GroenLinks wil dat elke wijk in Rotterdam een eigen, herkenbare wijkagent heeft. Veiligheid begint bij vertrouwen en contact tussen bewoners en politie.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["wijkagenten", "veiligheid", "vertrouwen", "politie"]
+    },
+    {
+      "text": "Dak- en thuislozen krijgen direct toegang tot een eigen woonplek via Housing First-aanpak.",
+      "originalText": "GroenLinks wil dat dak- en thuislozen in Rotterdam direct toegang krijgen tot een eigen woonplek via de Housing First-aanpak. Eerst een dak boven je hoofd, dan pas hulpverlening.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["dak- en thuislozen", "Housing First", "woonplek", "hulpverlening"]
+    },
+    {
+      "text": "10.000 extra zonnepanelen op sociale huurwoningen plaatsen voor 2028.",
+      "originalText": "GroenLinks wil 10.000 extra zonnepanelen op sociale huurwoningen plaatsen voor 2028. Huurders profiteren direct van lagere energiekosten.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zonnepanelen", "10.000", "sociale huurwoningen", "2028"]
+    },
+    {
+      "text": "Kunstenaars en creatieve ondernemers krijgen voorrang bij toewijzing van leegstaande panden.",
+      "originalText": "GroenLinks wil dat kunstenaars en creatieve ondernemers voorrang krijgen bij de toewijzing van leegstaande gemeentelijke panden. Cultuur en creativiteit maken Rotterdam sterker.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["kunstenaars", "leegstaande panden", "creatieve ondernemers", "voorrang"]
+    },
+    {
+      "text": "De Rotterdamse armoedegrens verhogen zodat 20% meer huishoudens toegang krijgen tot de Rotterdampas.",
+      "originalText": "GroenLinks wil de Rotterdamse armoedegrens verhogen zodat 20% meer huishoudens toegang krijgen tot de Rotterdampas en bijbehorende voorzieningen. Armoede in een rijke stad is onacceptabel.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["armoedegrens", "Rotterdampas", "20%", "huishoudens"]
+    },
+    {
+      "text": "Voedselbossen en stadslandbouw realiseren op minimaal 5 locaties in Rotterdam.",
+      "originalText": "GroenLinks wil voedselbossen en stadslandbouw realiseren op minimaal 5 locaties in Rotterdam. Lokale voedselproductie versterkt de biodiversiteit en brengt wijken samen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["voedselbossen", "stadslandbouw", "5 locaties", "biodiversiteit"]
+    },
+    {
+      "text": "Geen enkel Rotterdams kind groeit op in armoede: kinderarmoede halveren voor 2030.",
+      "originalText": "GroenLinks wil dat geen enkel Rotterdams kind opgroeit in armoede. We halveren de kinderarmoede voor 2030 met gerichte steun, schuldhulpverlening en hogere toeslagen.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["kinderarmoede", "halveren", "2030", "schuldhulpverlening"]
+    },
+    {
+      "text": "Autovrij centrum: de Coolsingel en Lijnbaan worden permanent autovrij.",
+      "originalText": "GroenLinks wil de Coolsingel en Lijnbaan permanent autovrij maken. Het centrum van Rotterdam moet een plek zijn voor voetgangers, fietsers en groen, niet voor auto's.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["autovrij", "Coolsingel", "Lijnbaan", "centrum"]
+    },
+    {
+      "text": "Gemeentelijke organisatie moet een afspiegeling zijn van de stad: 30% medewerkers met migratieachtergrond in leidinggevende functies.",
+      "originalText": "GroenLinks wil dat de gemeentelijke organisatie een afspiegeling is van de stad. Minimaal 30% van de medewerkers in leidinggevende functies moet een migratieachtergrond hebben.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["diversiteit", "gemeente", "30%", "leidinggevende functies", "migratieachtergrond"]
+    }
+  ]
+}

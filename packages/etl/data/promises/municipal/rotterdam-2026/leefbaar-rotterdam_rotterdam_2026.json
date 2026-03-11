@@ -1,0 +1,157 @@
+{
+  "party": "Leefbaar Rotterdam",
+  "partySlug": "leefbaar-rotterdam",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma Leefbaar Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "leefbaar-rotterdam_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Cameratoezicht uitbreiden naar alle onveilige gebieden in Rotterdam met 500 extra camera's.",
+      "originalText": "Leefbaar Rotterdam wil het cameratoezicht uitbreiden naar alle onveilige gebieden met 500 extra camera's. Veiligheid is de eerste taak van de gemeente.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["cameratoezicht", "500 camera's", "onveilige gebieden", "uitbreiden"]
+    },
+    {
+      "text": "Straatdealers en drugsrunners keihard aanpakken met gebiedsverboden en hogere straffen.",
+      "originalText": "Leefbaar Rotterdam wil straatdealers en drugsrunners keihard aanpakken. Gebiedsverboden en hogere straffen moeten ervoor zorgen dat de drugsoverlast uit de wijken verdwijnt.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["straatdealers", "drugsrunners", "gebiedsverboden", "straffen"]
+    },
+    {
+      "text": "Geen nieuwe moskeeeen in Rotterdam: bouwstop op gebedshuizen tot er een integratie-effectrapportage is.",
+      "originalText": "Leefbaar Rotterdam wil geen nieuwe moskeeeen in Rotterdam. Er komt een bouwstop op gebedshuizen totdat er een integratie-effectrapportage is uitgevoerd.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["moskeeeen", "bouwstop", "integratie-effectrapportage"]
+    },
+    {
+      "text": "Meer koopwoningen bouwen: minimaal 50% van alle nieuwbouw moet koopwoning zijn.",
+      "originalText": "Leefbaar Rotterdam wil meer koopwoningen bouwen. Minimaal 50% van alle nieuwbouw moet een koopwoning zijn. Rotterdammers moeten de kans krijgen om een eigen huis te kopen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["koopwoningen", "50%", "nieuwbouw", "eigen huis"]
+    },
+    {
+      "text": "Overlastgevende jongeren aanpakken met avondklok voor minderjarigen na 22:00 in probleemwijken.",
+      "originalText": "Leefbaar Rotterdam wil overlastgevende jongeren aanpakken met een avondklok voor minderjarigen na 22:00 in probleemwijken. De veiligheid van bewoners gaat voor.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["avondklok", "minderjarigen", "22:00", "probleemwijken"]
+    },
+    {
+      "text": "Alle statushouders verplicht laten werken of vrijwilligerswerk doen als tegenprestatie voor bijstand.",
+      "originalText": "Leefbaar Rotterdam wil dat alle statushouders verplicht werken of vrijwilligerswerk doen als tegenprestatie voor de bijstandsuitkering. Iedereen draagt bij aan de samenleving.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["statushouders", "tegenprestatie", "bijstand", "werken"]
+    },
+    {
+      "text": "Parkeren in de stad betaalbaar houden: geen uitbreiding van betaald parkeren naar de buitenwijken.",
+      "originalText": "Leefbaar Rotterdam wil parkeren in de stad betaalbaar houden. Geen uitbreiding van betaald parkeren naar de buitenwijken. De auto hoort bij het dagelijks leven van veel Rotterdammers.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["parkeren", "betaalbaar", "buitenwijken", "geen uitbreiding"]
+    },
+    {
+      "text": "Feyenoord City alleen realiseren als het de bewoners van Zuid aantoonbaar ten goede komt.",
+      "originalText": "Leefbaar Rotterdam steunt Feyenoord City alleen als het de bewoners van Zuid aantoonbaar ten goede komt. Geen prestigeproject ten koste van de wijk.",
+      "theme": "wonen",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["Feyenoord City", "bewoners", "Zuid", "voorwaardelijk"]
+    },
+    {
+      "text": "De Woonvisie aanpassen: meer nadruk op middenhuur en koopwoningen, minder op sociale huur in overbelaste wijken.",
+      "originalText": "Leefbaar Rotterdam wil de Woonvisie aanpassen met meer nadruk op middenhuur en koopwoningen. In overbelaste wijken komen geen extra sociale huurwoningen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Woonvisie", "middenhuur", "koopwoningen", "sociale huur"]
+    },
+    {
+      "text": "100 extra handhavers (BOA's) aanstellen om overlast, afvaldumping en illegale bewoning aan te pakken.",
+      "originalText": "Leefbaar Rotterdam wil 100 extra handhavers (BOA's) aanstellen. Zij pakken overlast, afvaldumping en illegale bewoning aan in de wijken.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["handhavers", "BOA's", "100 extra", "overlast", "afvaldumping"]
+    },
+    {
+      "text": "Geen windmolens in of nabij woonwijken: windenergie alleen in het havengebied en op zee.",
+      "originalText": "Leefbaar Rotterdam wil geen windmolens in of nabij woonwijken. Windenergie mag alleen worden opgewekt in het havengebied en op zee.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["windmolens", "woonwijken", "havengebied", "zee"]
+    },
+    {
+      "text": "OZB-belasting voor huiseigenaren verlagen met 10% om wonen in Rotterdam aantrekkelijker te maken.",
+      "originalText": "Leefbaar Rotterdam wil de OZB-belasting voor huiseigenaren verlagen met 10%. Wonen in Rotterdam moet aantrekkelijk en betaalbaar zijn voor eigenaren.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OZB", "10% verlaging", "huiseigenaren", "belasting"]
+    },
+    {
+      "text": "Zwerfafval aanpakken met hoge boetes (500 euro) en meer afvalbakken in het straatbeeld.",
+      "originalText": "Leefbaar Rotterdam wil zwerfafval aanpakken met hoge boetes van 500 euro en meer afvalbakken in het straatbeeld. Een schone stad is een leefbare stad.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zwerfafval", "500 euro boete", "afvalbakken", "schone stad"]
+    },
+    {
+      "text": "Geen verplichte warmtepomp of van-het-gas-af voor bestaande woningen: bewoners kiezen zelf.",
+      "originalText": "Leefbaar Rotterdam wil geen verplichte warmtepomp of gedwongen afsluiting van gas voor bestaande woningen. Bewoners kiezen zelf hoe ze hun huis verwarmen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["warmtepomp", "gas", "keuzevrijheid", "bestaande woningen"]
+    },
+    {
+      "text": "De Coolsingel en het centrum autovriendelijk houden: geen verdere afsluiting voor autoverkeer.",
+      "originalText": "Leefbaar Rotterdam wil de Coolsingel en het centrum autovriendelijk houden. Er komt geen verdere afsluiting voor autoverkeer. De auto moet welkom blijven in de stad.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Coolsingel", "autovriendelijk", "centrum", "geen afsluiting"]
+    },
+    {
+      "text": "Coffeeshops terugdringen: maximaal 1 coffeeshop per wijk en sluiting bij overlastmeldingen.",
+      "originalText": "Leefbaar Rotterdam wil het aantal coffeeshops terugdringen naar maximaal 1 per wijk. Bij herhaalde overlastmeldingen volgt sluiting.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["coffeeshops", "1 per wijk", "terugdringen", "sluiting"]
+    },
+    {
+      "text": "Verhuurdersheffing afschaffen voor Rotterdamse woningcorporaties die investeren in leefbaarheid.",
+      "originalText": "Leefbaar Rotterdam pleit voor afschaffing van de verhuurdersheffing voor Rotterdamse woningcorporaties die aantoonbaar investeren in leefbaarheid en onderhoud van hun woningen.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["verhuurdersheffing", "woningcorporaties", "leefbaarheid", "afschaffen"]
+    },
+    {
+      "text": "Nederlands spreken als voorwaarde voor gemeentelijke diensten: geen tolken meer op kosten van de gemeente.",
+      "originalText": "Leefbaar Rotterdam wil dat Nederlands spreken een voorwaarde wordt voor gemeentelijke diensten. De gemeente betaalt niet langer voor tolken. Wie in Nederland woont, leert Nederlands.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Nederlands spreken", "tolken", "gemeentelijke diensten", "voorwaarde"]
+    }
+  ]
+}

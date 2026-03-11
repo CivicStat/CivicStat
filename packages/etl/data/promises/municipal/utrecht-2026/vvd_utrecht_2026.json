@@ -1,0 +1,141 @@
+{
+  "party": "VVD",
+  "partySlug": "vvd",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma VVD Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "vvd_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "De gemeentelijke lasten verlagen met 10% over de komende raadsperiode.",
+      "originalText": "De VVD wil de gemeentelijke lasten verlagen met 10% over de komende raadsperiode. Utrechters betalen te veel belasting voor de diensten die ze ontvangen.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gemeentelijke lasten", "10%", "verlagen"]
+    },
+    {
+      "text": "De parkeertarieven in de binnenstad bevriezen en meer P+R-plaatsen bouwen.",
+      "originalText": "De VVD wil de parkeertarieven in de binnenstad bevriezen en meer P+R-plaatsen aan de rand van de stad bouwen. De auto hoort erbij in een bereikbare stad.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["parkeertarieven", "bevriezen", "P+R"]
+    },
+    {
+      "text": "Meer koopwoningen bouwen: minimaal 40% van alle nieuwbouw als betaalbare koopwoningen.",
+      "originalText": "De VVD wil dat minimaal 40% van alle nieuwbouw in Utrecht betaalbare koopwoningen zijn. Woningbezit moet haalbaar zijn voor hardwerkende Utrechters.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["40%", "koopwoningen", "nieuwbouw"]
+    },
+    {
+      "text": "Het aantal gemeenteambtenaren met 5% reduceren door efficiency en digitalisering.",
+      "originalText": "De VVD wil het aantal gemeenteambtenaren met 5% reduceren door meer efficiency en digitalisering. De gemeente moet lean en slagvaardig opereren.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ambtenaren", "5%", "reduceren", "digitalisering"]
+    },
+    {
+      "text": "Bedrijventerreinen beschermen tegen woningbouwplannen om werkgelegenheid te behouden.",
+      "originalText": "De VVD wil bedrijventerreinen beschermen tegen omzetting naar woningbouw. Werkgelegenheid in de stad is essentieel en bedrijventerreinen zijn schaars.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["bedrijventerreinen", "beschermen", "werkgelegenheid"]
+    },
+    {
+      "text": "Strengere handhaving op overlast, straatcriminaliteit en ondermijning.",
+      "originalText": "De VVD wil strengere handhaving op overlast, straatcriminaliteit en ondermijning. Extra BOA's worden ingezet in wijken met de meeste problemen.",
+      "theme": "veiligheid",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["handhaving", "overlast", "criminaliteit", "ondermijning"]
+    },
+    {
+      "text": "Een ondernemersvriendelijk vergunningenstelsel invoeren met maximaal vier weken doorlooptijd.",
+      "originalText": "De VVD wil een ondernemersvriendelijk vergunningenstelsel met een maximale doorlooptijd van vier weken. Ondernemers moeten snel aan de slag kunnen.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["vergunningen", "vier weken", "ondernemersvriendelijk"]
+    },
+    {
+      "text": "Het Jaarbeursgebied ontwikkelen met nadruk op economische functies en kantoren.",
+      "originalText": "De VVD wil het Jaarbeursgebied ontwikkelen met nadruk op economische functies: kantoren, congressen en innovatie. Utrecht moet het zakelijke hart van Nederland worden.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Jaarbeursgebied", "kantoren", "economisch"]
+    },
+    {
+      "text": "Geen verdere uitbreiding van de autovrije zone in de binnenstad.",
+      "originalText": "De VVD verzet zich tegen verdere uitbreiding van de autovrije zone in de binnenstad. De bereikbaarheid van winkels en horeca moet worden gegarandeerd.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["autovrije zone", "geen uitbreiding", "bereikbaarheid"]
+    },
+    {
+      "text": "Subsidies voor culturele instellingen koppelen aan bezoekersaantallen en eigen verdiensten.",
+      "originalText": "De VVD wil dat subsidies voor culturele instellingen worden gekoppeld aan bezoekersaantallen en eigen verdiensten. Cultuur moet zichzelf zoveel mogelijk bedruipen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["cultuursubsidies", "bezoekersaantallen", "eigen verdiensten"]
+    },
+    {
+      "text": "Cameratoezicht uitbreiden naar 200 locaties in Utrecht.",
+      "originalText": "De VVD wil cameratoezicht uitbreiden naar 200 locaties in Utrecht. Camera's zijn een effectief middel tegen criminaliteit en overlast.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["cameratoezicht", "200 locaties"]
+    },
+    {
+      "text": "De OZB voor ondernemers verlagen met 15% om het vestigingsklimaat te verbeteren.",
+      "originalText": "De VVD wil de OZB voor ondernemers verlagen met 15%. Een aantrekkelijk vestigingsklimaat trekt bedrijven en banen aan.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OZB", "ondernemers", "15%", "verlagen"]
+    },
+    {
+      "text": "Woningbouw in de Merwedekanaalzone versnellen door regelgeving te vereenvoudigen.",
+      "originalText": "De VVD wil de woningbouw in de Merwedekanaalzone versnellen door onnodige regelgeving te schrappen en procedures te verkorten. Bouwen moet sneller.",
+      "theme": "wonen",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["Merwedekanaalzone", "versnellen", "regelgeving"]
+    },
+    {
+      "text": "Fietsdiefstal terugdringen met chip-registratie en extra fietsendepots.",
+      "originalText": "De VVD wil fietsdiefstal terugdringen door chip-registratie te stimuleren en extra fietsendepots in te richten. Fietsdiefstal is een dagelijks probleem in Utrecht.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["fietsdiefstal", "chip-registratie", "fietsendepots"]
+    },
+    {
+      "text": "De Utrechtse economie versterken door een internationaal technologiecongres aan te trekken.",
+      "originalText": "De VVD wil dat Utrecht een jaarlijks internationaal technologiecongres aantrekt. Dit versterkt het imago van Utrecht als innovatieve stad en trekt investeringen aan.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["technologiecongres", "internationaal", "innovatie"]
+    },
+    {
+      "text": "De gemeente verplichten tot een sluitende begroting zonder verhoging van lokale lasten.",
+      "originalText": "De VVD wil dat de gemeente een sluitende begroting presenteert zonder verhoging van lokale lasten. Financiele discipline is de basis van goed bestuur.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["sluitende begroting", "geen lastenverhogingen"]
+    }
+  ]
+}

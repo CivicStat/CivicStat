@@ -1,0 +1,165 @@
+{
+  "party": "D66",
+  "partySlug": "d66",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma D66 Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "d66_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "12.000 nieuwe woningen bouwen in de Merwedekanaalzone en het Jaarbeursgebied voor 2030.",
+      "originalText": "D66 wil dat er voor 2030 minimaal 12.000 nieuwe woningen worden gebouwd in de Merwedekanaalzone en het Jaarbeursgebied. Utrecht groeit en daar hoort ambitieuze woningbouw bij.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["12.000 woningen", "Merwedekanaalzone", "Jaarbeursgebied", "2030"]
+    },
+    {
+      "text": "De autovrije binnenstad uitbreiden naar de gehele singel en aangrenzende straten.",
+      "originalText": "D66 wil de autovrije binnenstad uitbreiden naar het hele singelgebied en aangrenzende straten. Meer ruimte voor voetgangers, fietsers en terrassen.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["autovrij", "binnenstad", "singel", "uitbreiden"]
+    },
+    {
+      "text": "Investeren in een snelle tramverbinding tussen Utrecht Centraal en het Utrecht Science Park.",
+      "originalText": "D66 wil investeren in een snelle en betrouwbare tramverbinding tussen Utrecht Centraal en het Utrecht Science Park. De huidige busverbinding kan de groei niet aan.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["tram", "Utrecht Centraal", "Science Park"]
+    },
+    {
+      "text": "3.000 extra studentenkamers realiseren door transformatie van kantoorpanden.",
+      "originalText": "D66 wil 3.000 extra studentenkamers realiseren door leegstaande kantoorpanden te transformeren. De woningnood onder studenten is onacceptabel hoog.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["3.000 studentenkamers", "kantoorpanden", "transformatie"]
+    },
+    {
+      "text": "Een gemeentelijk innovatiefonds van 5 miljoen euro oprichten voor Utrechtse startups.",
+      "originalText": "D66 wil een gemeentelijk innovatiefonds van 5 miljoen euro oprichten voor Utrechtse startups en scale-ups. Utrecht moet de innovatiehoofdstad van Nederland worden.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["innovatiefonds", "5 miljoen", "startups"]
+    },
+    {
+      "text": "Alle Utrechtse basisscholen voorzien van een buitenleslokaal voor natuur- en milieueducatie.",
+      "originalText": "D66 wil dat alle basisscholen in Utrecht een buitenleslokaal krijgen voor natuur- en milieueducatie. Kinderen leren het best door te doen, ook buiten het klaslokaal.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["buitenleslokaal", "basisscholen", "milieueducatie"]
+    },
+    {
+      "text": "Het Utrechts cultuurfonds verhogen naar 30 miljoen euro per jaar.",
+      "originalText": "D66 wil het Utrechts cultuurfonds verhogen naar 30 miljoen euro per jaar. Cultuur is de ziel van de stad en verdient structurele investering.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["cultuurfonds", "30 miljoen", "structureel"]
+    },
+    {
+      "text": "Elk nieuw gebouw in Utrecht verplicht voorzien van zonnepanelen en een groen dak.",
+      "originalText": "D66 wil dat elk nieuw gebouw in Utrecht verplicht wordt voorzien van zonnepanelen en een groen dak. Duurzaam bouwen wordt de norm.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zonnepanelen", "groen dak", "verplicht", "nieuwbouw"]
+    },
+    {
+      "text": "Referendum en burgerberaad mogelijk maken voor grote ruimtelijke besluiten.",
+      "originalText": "D66 wil dat inwoners via referendum of burgerberaad invloed kunnen uitoefenen op grote ruimtelijke besluiten. Democratie gaat verder dan eens in de vier jaar stemmen.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["referendum", "burgerberaad", "ruimtelijke besluiten"]
+    },
+    {
+      "text": "Een gratis OV-pas voor minima en ouderen boven 75 jaar.",
+      "originalText": "D66 wil een gratis OV-pas voor Utrechters met een minimuminkomen en ouderen boven 75 jaar. Mobiliteit mag geen luxe zijn.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "minima", "ouderen", "75 jaar"]
+    },
+    {
+      "text": "De nachteconomie stimuleren door verruiming van openingstijden en een nachtburgemeester.",
+      "originalText": "D66 wil de nachteconomie stimuleren door openingstijden te verruimen en een nachtburgemeester aan te stellen. Utrecht verdient een bruisend nachtleven.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["nachteconomie", "openingstijden", "nachtburgemeester"]
+    },
+    {
+      "text": "Een tweede fietsparkeergarage bouwen bij Utrecht Centraal met 8.000 plekken.",
+      "originalText": "D66 wil een tweede ondergrondse fietsparkeergarage bij Utrecht Centraal met 8.000 plekken. Het huidige tekort leidt tot fietschaos rond het station.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["fietsparkeergarage", "Utrecht Centraal", "8.000 plekken"]
+    },
+    {
+      "text": "Leidsche Rijn voorzien van een eigen cultureel centrum met theater en bibliotheek.",
+      "originalText": "D66 wil dat Leidsche Rijn een eigen cultureel centrum krijgt met een theater, bibliotheek en expositieruimte. De snelst groeiende wijk verdient eigen voorzieningen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Leidsche Rijn", "cultureel centrum", "theater", "bibliotheek"]
+    },
+    {
+      "text": "30 km/u als maximumsnelheid invoeren in alle woonwijken van Utrecht.",
+      "originalText": "D66 wil 30 km/u als maximumsnelheid in alle woonwijken van Utrecht. Dit maakt straten veiliger voor kinderen en fietsers.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["30 km/u", "woonwijken", "maximumsnelheid"]
+    },
+    {
+      "text": "Statushouders sneller huisvesten door tijdelijke woningen te plaatsen op braakliggende terreinen.",
+      "originalText": "D66 wil statushouders sneller huisvesten door tijdelijke woningen te plaatsen op braakliggende terreinen. Snelle huisvesting is cruciaal voor succesvolle integratie.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["statushouders", "tijdelijke woningen", "braakliggende terreinen"]
+    },
+    {
+      "text": "Tweetalig onderwijs (Nederlands-Engels) aanbieden op minimaal vijf Utrechtse basisscholen.",
+      "originalText": "D66 wil dat tweetalig onderwijs in Nederlands en Engels wordt aangeboden op minimaal vijf Utrechtse basisscholen. Dit bereidt kinderen voor op een internationale toekomst.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["tweetalig onderwijs", "Engels", "vijf basisscholen"]
+    },
+    {
+      "text": "Het Utrechts klimaatfonds verdrievoudigen naar 15 miljoen euro per jaar voor verduurzaming.",
+      "originalText": "D66 wil het Utrechts klimaatfonds verdrievoudigen naar 15 miljoen euro per jaar. Met dit geld worden woningen, scholen en bedrijven verduurzaamd.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["klimaatfonds", "15 miljoen", "verduurzaming"]
+    },
+    {
+      "text": "Digitale geletterdheid opnemen als vast onderdeel van het Utrechtse onderwijsbeleid.",
+      "originalText": "D66 wil dat digitale geletterdheid een vast onderdeel wordt van het Utrechtse onderwijsbeleid. Kinderen moeten leren omgaan met technologie, algoritmes en online veiligheid.",
+      "theme": "onderwijs",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["digitale geletterdheid", "onderwijsbeleid", "technologie"]
+    },
+    {
+      "text": "Een circulair ambachtscentrum oprichten in de Werkspoorfabriek.",
+      "originalText": "D66 wil een circulair ambachtscentrum oprichten in de Werkspoorfabriek waar inwoners leren repareren, hergebruiken en upcyclen. Dit stimuleert de circulaire economie.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["circulair", "ambachtscentrum", "Werkspoorfabriek"]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "party": "Partij voor de Dieren",
+  "partySlug": "pvdd",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma Partij voor de Dieren Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "pvdd_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Alle gemeentelijke evenementen en kantines worden standaard plantaardig.",
+      "originalText": "De Partij voor de Dieren wil dat alle gemeentelijke evenementen en kantines standaard plantaardig worden. Dierlijk voedsel kan alleen op verzoek worden aangeboden.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["plantaardig", "gemeentelijke kantines", "evenementen", "standaard"]
+    },
+    {
+      "text": "Geen nieuwe megastallen of intensieve veehouderij in de gemeente Rotterdam.",
+      "originalText": "De Partij voor de Dieren wil geen nieuwe megastallen of intensieve veehouderij in de gemeente Rotterdam. Dierenwelzijn en volksgezondheid gaan voor.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["megastallen", "intensieve veehouderij", "verbod", "dierenwelzijn"]
+    },
+    {
+      "text": "100 hectare extra stadsnatuur realiseren door ongebruikte terreinen om te vormen tot natuurgebieden.",
+      "originalText": "De Partij voor de Dieren wil 100 hectare extra stadsnatuur realiseren door ongebruikte terreinen om te vormen tot natuurgebieden. Natuur in de stad is essentieel voor biodiversiteit en welzijn.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["100 hectare", "stadsnatuur", "natuurgebieden", "biodiversiteit"]
+    },
+    {
+      "text": "Vuurwerkverbod invoeren in heel Rotterdam om dierenleed en luchtvervuiling te voorkomen.",
+      "originalText": "De Partij voor de Dieren wil een vuurwerkverbod invoeren in heel Rotterdam. Vuurwerk veroorzaakt enorm dierenleed, luchtvervuiling en letsel.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["vuurwerkverbod", "dierenleed", "luchtvervuiling", "heel Rotterdam"]
+    },
+    {
+      "text": "De Rotterdamse Diergaarde Blijdorp transformeren naar een opvangcentrum voor dieren in nood.",
+      "originalText": "De Partij voor de Dieren wil Diergaarde Blijdorp op termijn transformeren naar een opvangcentrum voor dieren in nood. Dieren horen niet in gevangenschap voor vermaak.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Diergaarde Blijdorp", "opvangcentrum", "dieren in nood", "transformatie"]
+    },
+    {
+      "text": "Alle kades en oevers van de Maas ecologisch inrichten met natuurvriendelijke beschoeiing.",
+      "originalText": "De Partij voor de Dieren wil alle kades en oevers van de Maas ecologisch inrichten met natuurvriendelijke beschoeiing. De Maas moet een levende rivier worden, ook in de stad.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["kades", "oevers", "Maas", "ecologisch", "beschoeiing"]
+    },
+    {
+      "text": "Bomen beschermen: geen enkele boom mag gekapt worden zonder dat er 3 nieuwe worden geplant.",
+      "originalText": "De Partij voor de Dieren wil bomen beter beschermen. Geen enkele boom mag gekapt worden zonder dat er 3 nieuwe bomen voor in de plaats worden geplant.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bomen", "kappen", "3 nieuwe bomen", "beschermen"]
+    },
+    {
+      "text": "Pesticidevrije gemeente: geen chemische bestrijdingsmiddelen meer op gemeentelijke gronden.",
+      "originalText": "De Partij voor de Dieren wil een pesticidevrije gemeente. Er worden geen chemische bestrijdingsmiddelen meer gebruikt op gemeentelijke gronden, parken en sportvelden.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["pesticidevrij", "bestrijdingsmiddelen", "gemeentelijke gronden"]
+    },
+    {
+      "text": "De haven van Rotterdam moet stoppen met de overslag van levende dieren voor export.",
+      "originalText": "De Partij voor de Dieren wil dat de haven van Rotterdam stopt met de overslag van levende dieren voor export. Dierentransport over lange afstanden is dierenmishandeling.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["haven", "levende dieren", "overslag", "export"]
+    },
+    {
+      "text": "Subsidie voor groene daken en gevels: 50 euro per vierkante meter voor bewoners en bedrijven.",
+      "originalText": "De Partij voor de Dieren wil een subsidie van 50 euro per vierkante meter voor groene daken en gevels. Zo stimuleren we vergroening door bewoners en bedrijven.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["groene daken", "gevels", "50 euro", "subsidie"]
+    },
+    {
+      "text": "Dierenambulance en dierenopvang structureel financieren met minimaal 1 miljoen euro per jaar.",
+      "originalText": "De Partij voor de Dieren wil de dierenambulance en dierenopvang structureel financieren met minimaal 1 miljoen euro per jaar. Dierenzorg mag niet afhankelijk zijn van donaties.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["dierenambulance", "dierenopvang", "1 miljoen", "structureel"]
+    },
+    {
+      "text": "Milieuzone uitbreiden: alleen nog zero-emissie vrachtverkeer in het stadscentrum vanaf 2028.",
+      "originalText": "De Partij voor de Dieren wil de milieuzone uitbreiden. Vanaf 2028 mag alleen nog zero-emissie vrachtverkeer het stadscentrum in.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["milieuzone", "zero-emissie", "vrachtverkeer", "2028"]
+    },
+    {
+      "text": "Geen biomassacentrales in Rotterdam: biomassa is geen duurzame energiebron.",
+      "originalText": "De Partij voor de Dieren wil geen biomassacentrales in Rotterdam. Biomassa is geen duurzame energiebron en veroorzaakt luchtvervuiling en ontbossing.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["biomassacentrales", "verbod", "luchtvervuiling", "duurzaam"]
+    },
+    {
+      "text": "Natuur- en milieueducatie verplicht opnemen in het curriculum van alle Rotterdamse basisscholen.",
+      "originalText": "De Partij voor de Dieren wil dat natuur- en milieueducatie verplicht wordt opgenomen in het curriculum van alle Rotterdamse basisscholen. Kinderen moeten opgroeien met respect voor natuur.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["milieueducatie", "natuur", "basisscholen", "curriculum"]
+    },
+    {
+      "text": "Waterverbruik terugdringen: gemeentelijke gebouwen voorzien van regenwateropvangsystemen.",
+      "originalText": "De Partij voor de Dieren wil het waterverbruik terugdringen door alle gemeentelijke gebouwen te voorzien van regenwateropvangsystemen. Dit bespaart drinkwater en helpt bij waterberging.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["waterverbruik", "regenwateropvang", "gemeentelijke gebouwen"]
+    }
+  ]
+}

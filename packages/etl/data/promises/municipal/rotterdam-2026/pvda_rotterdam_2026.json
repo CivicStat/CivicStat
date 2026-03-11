@@ -1,0 +1,157 @@
+{
+  "party": "PvdA",
+  "partySlug": "pvda",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma PvdA Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "pvda_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Huurverlaging van gemiddeld 50 euro per maand voor sociale huurders via afspraken met woningcorporaties.",
+      "originalText": "De PvdA wil een huurverlaging van gemiddeld 50 euro per maand voor sociale huurders. We maken harde afspraken met woningcorporaties om dit te realiseren.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huurverlaging", "50 euro", "sociale huurders", "woningcorporaties"]
+    },
+    {
+      "text": "Minimumloon voor gemeentelijke werknemers en aanbestede diensten verhogen naar 16 euro per uur.",
+      "originalText": "De PvdA wil dat het minimumloon voor alle gemeentelijke werknemers en werknemers bij aanbestede diensten wordt verhoogd naar 16 euro per uur. Werk moet lonen.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["minimumloon", "16 euro", "gemeentelijke werknemers", "aanbesteding"]
+    },
+    {
+      "text": "Nationaal Programma Rotterdam Zuid verlengen en uitbreiden met 100 miljoen euro extra voor onderwijs en werk.",
+      "originalText": "De PvdA wil het Nationaal Programma Rotterdam Zuid (NPRZ) verlengen en uitbreiden met 100 miljoen euro extra voor onderwijs en werkgelegenheid. Zuid verdient een langjarige investering.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["NPRZ", "Rotterdam-Zuid", "100 miljoen", "onderwijs", "werkgelegenheid"]
+    },
+    {
+      "text": "Elk kind recht op 16 uur gratis kinderopvang per week, ongeacht of ouders werken.",
+      "originalText": "De PvdA wil dat elk kind in Rotterdam recht heeft op 16 uur gratis kinderopvang per week, ongeacht of de ouders werken. Kinderopvang is geen luxe maar een basisvoorziening.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["kinderopvang", "16 uur", "gratis", "basisvoorziening"]
+    },
+    {
+      "text": "Schuldhulpverlening zonder wachttijd: binnen 48 uur een intake na aanmelding.",
+      "originalText": "De PvdA wil schuldhulpverlening zonder wachttijd. Binnen 48 uur na aanmelding moet er een intake plaatsvinden. Schulden worden alleen maar groter als je moet wachten.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schuldhulpverlening", "48 uur", "intake", "wachttijd"]
+    },
+    {
+      "text": "De Tweebosbuurt-bewoners die hun woning moesten verlaten krijgen voorrang bij terugkeer naar de nieuwbouw.",
+      "originalText": "De PvdA wil dat bewoners van de Tweebosbuurt die hun woning moesten verlaten voorrang krijgen bij terugkeer naar de nieuwbouw in hun oude buurt. Dit is een kwestie van rechtvaardigheid.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Tweebosbuurt", "terugkeer", "voorrang", "nieuwbouw"]
+    },
+    {
+      "text": "Bibliotheken in elke wijk openhouden, inclusief avond- en weekendopenstellingen.",
+      "originalText": "De PvdA wil bibliotheken in elke wijk openhouden en de openingstijden uitbreiden met avond- en weekendopenstellingen. De bieb is het kloppend hart van de wijk.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["bibliotheken", "openingstijden", "wijk", "avond", "weekend"]
+    },
+    {
+      "text": "Zorgpremie compenseren voor Rotterdammers met een inkomen tot 130% van het sociaal minimum.",
+      "originalText": "De PvdA wil de zorgpremie compenseren voor Rotterdammers met een inkomen tot 130% van het sociaal minimum. Niemand mag zorg mijden vanwege de kosten.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zorgpremie", "compensatie", "130%", "sociaal minimum"]
+    },
+    {
+      "text": "3.000 nieuwe banen creeren in de energietransitie en circulaire economie in het havengebied.",
+      "originalText": "De PvdA wil 3.000 nieuwe banen creeren in de energietransitie en circulaire economie in het Rotterdamse havengebied. Groene banen voor Rotterdammers.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["3.000 banen", "energietransitie", "circulaire economie", "havengebied"]
+    },
+    {
+      "text": "OV-tarieven in Rotterdam verlagen met 20% voor reizigers met een Rotterdampas.",
+      "originalText": "De PvdA wil de OV-tarieven in Rotterdam verlagen met 20% voor reizigers die een Rotterdampas hebben. Betaalbaar OV is een recht, geen privilege.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OV-tarieven", "20% verlaging", "Rotterdampas", "betaalbaar"]
+    },
+    {
+      "text": "Buurthuizen in elke wijk met professionele buurtwerkers en gratis activiteiten voor bewoners.",
+      "originalText": "De PvdA wil in elke wijk een buurthuis met professionele buurtwerkers en gratis activiteiten. Buurthuizen zijn essentieel voor sociale cohesie en ontmoeting.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["buurthuizen", "buurtwerkers", "gratis activiteiten", "sociale cohesie"]
+    },
+    {
+      "text": "Verplichte spreidingsnorm: geen wijk mag meer dan 40% sociale huur hebben, geen wijk minder dan 20%.",
+      "originalText": "De PvdA wil een verplichte spreidingsnorm: geen wijk mag meer dan 40% sociale huur hebben en geen wijk minder dan 20%. Zo voorkomen we segregatie.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["spreidingsnorm", "40%", "20%", "sociale huur", "segregatie"]
+    },
+    {
+      "text": "Meer groen op schoolpleinen: alle Rotterdamse schoolpleinen worden groene speelplekken voor 2028.",
+      "originalText": "De PvdA wil dat alle Rotterdamse schoolpleinen groene speelplekken worden voor 2028. Kinderen verdienen een gezonde buitenruimte om te spelen en te leren.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schoolpleinen", "groen", "speelplekken", "2028"]
+    },
+    {
+      "text": "Geen bezuinigingen op de jeugdzorg: budget minimaal op huidig niveau houden en wachtlijsten halveren.",
+      "originalText": "De PvdA accepteert geen bezuinigingen op de jeugdzorg. Het budget blijft minimaal op het huidige niveau en we halveren de wachtlijsten. Elk kind dat hulp nodig heeft, moet die krijgen.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["jeugdzorg", "geen bezuinigingen", "wachtlijsten", "halveren"]
+    },
+    {
+      "text": "Statushouders sneller integreren: taalles binnen 2 weken na aankomst en directe koppeling aan werk of opleiding.",
+      "originalText": "De PvdA wil statushouders sneller integreren. Binnen 2 weken na aankomst start de taalles en wordt een koppeling gemaakt met werk of opleiding.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["statushouders", "integratie", "taalles", "2 weken", "werk"]
+    },
+    {
+      "text": "Straatintimidatie hard aanpakken met boetes en verplichte cursussen voor daders.",
+      "originalText": "De PvdA wil straatintimidatie hard aanpakken. Daders krijgen boetes en een verplichte cursus. Iedereen moet zich veilig voelen op straat, ongeacht gender of afkomst.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["straatintimidatie", "boetes", "verplichte cursus", "veiligheid"]
+    },
+    {
+      "text": "Het Zuidplein transformeren tot het culturele hart van Zuid met een nieuw theater en muziekzaal.",
+      "originalText": "De PvdA wil het Zuidplein transformeren tot het culturele hart van Zuid. Er komt een nieuw theater en een muziekzaal, zodat cultuur ook in Zuid voor iedereen bereikbaar is.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Zuidplein", "theater", "muziekzaal", "cultuur", "Zuid"]
+    },
+    {
+      "text": "Eerlijke energietransitie: de kosten van isolatie en warmtenetten mogen niet bij huurders terechtkomen.",
+      "originalText": "De PvdA wil een eerlijke energietransitie. De kosten van isolatie en warmtenetten mogen niet bij huurders terechtkomen. Corporaties en de gemeente dragen de lasten.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": false,
+      "keywords": ["energietransitie", "isolatie", "warmtenetten", "huurders", "kosten"]
+    }
+  ]
+}

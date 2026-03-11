@@ -1,0 +1,173 @@
+{
+  "party": "D66",
+  "partySlug": "d66",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma D66 Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "d66_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Minimaal 40% van alle nieuwbouwwoningen in Rotterdam moet betaalbaar zijn voor middeninkomens.",
+      "originalText": "D66 wil dat minimaal 40% van alle nieuwbouwwoningen in Rotterdam betaalbaar is voor middeninkomens, zodat leraren, zorgmedewerkers en politieagenten in de stad kunnen blijven wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["nieuwbouw", "betaalbaar", "40%", "middeninkomens"]
+    },
+    {
+      "text": "Versnelling van de woningbouwproductie naar 5.000 woningen per jaar door verkorting van vergunningprocedures.",
+      "originalText": "Rotterdam moet de woningbouwproductie versnellen naar 5.000 woningen per jaar. D66 wil vergunningprocedures verkorten en obstakels wegnemen zodat bouwprojecten sneller van start gaan.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["woningbouw", "5.000 woningen", "vergunningen", "versnelling"]
+    },
+    {
+      "text": "Feyenoord City-gebied ontwikkelen tot gemengde wijk met woningen, sport en cultuur, ook als het nieuwe stadion niet doorgaat.",
+      "originalText": "Het Feyenoord City-gebied moet hoe dan ook ontwikkeld worden tot een bruisende, gemengde wijk met woningen, sport en cultuurvoorzieningen. Dit mag niet afhankelijk zijn van de bouw van een nieuw stadion.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Feyenoord City", "gebiedsontwikkeling", "gemengde wijk", "stadion"]
+    },
+    {
+      "text": "Ieder kind in Rotterdam moet gratis kunnen sporten tot 18 jaar via de Sportpas Rotterdam.",
+      "originalText": "D66 wil een Sportpas Rotterdam waarmee ieder kind tot 18 jaar gratis kan sporten bij Rotterdamse sportverenigingen. Bewegen is essentieel voor de ontwikkeling van kinderen.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sportpas", "gratis sporten", "kinderen", "18 jaar"]
+    },
+    {
+      "text": "Fietsinfrastructuur op de Coolsingel en Erasmusbrug verbeteren met bredere fietspaden en veilige oversteekplaatsen.",
+      "originalText": "De Coolsingel en de Erasmusbrug zijn iconen van Rotterdam, maar voor fietsers zijn ze niet optimaal ingericht. D66 wil bredere fietspaden en veilige oversteekplaatsen op beide locaties.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["fietsinfrastructuur", "Coolsingel", "Erasmusbrug", "fietspaden"]
+    },
+    {
+      "text": "Metrolijn naar Zuidplein doorttrekken richting Ridderkerk om Rotterdam-Zuid beter te ontsluiten.",
+      "originalText": "Rotterdam-Zuid verdient een betere OV-verbinding. D66 wil de metrolijn vanaf Zuidplein doortrekken richting Ridderkerk, zodat bewoners van Zuid sneller het centrum bereiken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["metro", "Zuidplein", "Ridderkerk", "Rotterdam-Zuid", "OV"]
+    },
+    {
+      "text": "Rotterdam klimaatbestendig maken door 100.000 m2 extra groen in versteende wijken aan te leggen voor 2030.",
+      "originalText": "D66 wil 100.000 vierkante meter extra groen aanleggen in de meest versteende wijken van Rotterdam voor 2030. Dit is nodig om hittestress tegen te gaan en regenwater beter op te vangen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["klimaatbestendig", "vergroening", "100.000 m2", "hittestress"]
+    },
+    {
+      "text": "De haven van Rotterdam ondersteunen bij de transitie naar waterstofhub van Europa.",
+      "originalText": "De Rotterdamse haven moet de waterstofhub van Europa worden. D66 wil als gemeente actief meewerken aan de energietransitie in het havengebied door vergunningen te versnellen en samen te werken met het Havenbedrijf.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": false,
+      "keywords": ["haven", "waterstof", "energietransitie", "Havenbedrijf"]
+    },
+    {
+      "text": "Tweetalig onderwijs (Nederlands-Engels) uitbreiden naar minimaal 10 basisscholen in Rotterdam.",
+      "originalText": "D66 wil tweetalig onderwijs (Nederlands-Engels) uitbreiden naar minimaal 10 basisscholen in Rotterdam, zodat Rotterdamse kinderen beter voorbereid zijn op de internationale arbeidsmarkt.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["tweetalig onderwijs", "basisscholen", "10 scholen", "Engels"]
+    },
+    {
+      "text": "Nachtcultuur beschermen door een nachtburgemeester aan te stellen en geluidsnormen voor uitgaansgebieden te versoepelen.",
+      "originalText": "Rotterdam heeft een bruisend nachtleven dat bescherming verdient. D66 wil een nachtburgemeester aanstellen en de geluidsnormen in aangewezen uitgaansgebieden versoepelen, zodat clubs en concertzalen meer ruimte krijgen.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["nachtburgemeester", "nachtcultuur", "geluidsnormen", "uitgaansgebieden"]
+    },
+    {
+      "text": "Digitale overheid: alle gemeentelijke diensten moeten binnen 2 jaar volledig online beschikbaar zijn.",
+      "originalText": "D66 wil dat alle gemeentelijke diensten binnen 2 jaar volledig online beschikbaar zijn. Rotterdammers moeten alles digitaal kunnen regelen, van vergunningen tot afvalpas.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["digitale overheid", "online diensten", "2 jaar", "gemeentelijke diensten"]
+    },
+    {
+      "text": "Schone lucht: uitstoot van industrie in het havengebied met 30% verminderen voor 2030.",
+      "originalText": "De luchtkwaliteit in Rotterdam moet beter. D66 wil dat de uitstoot van industrie in het havengebied met 30% vermindert voor 2030. We zetten in op strenge handhaving en samenwerking met DCMR.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["luchtkwaliteit", "uitstoot", "30%", "havengebied", "DCMR"]
+    },
+    {
+      "text": "Wijkbudgetten van 500.000 euro per wijk invoeren zodat bewoners meebeslissen over hun buurt.",
+      "originalText": "D66 wil wijkbudgetten van 500.000 euro per wijk invoeren. Bewoners beslissen zelf mee over hoe dit geld besteed wordt aan verbeteringen in hun buurt.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["wijkbudgetten", "500.000 euro", "bewonersparticipatie", "meebeslissen"]
+    },
+    {
+      "text": "Meer ruimte voor ondernemerschap door minder regels voor horeca en winkels op de Witte de Withstraat en Katendrecht.",
+      "originalText": "D66 wil minder regels voor horeca en winkels op de Witte de Withstraat en Katendrecht. Ondernemers moeten de ruimte krijgen om te experimenteren met terrassen, openingstijden en evenementen.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["ondernemerschap", "horeca", "Witte de Withstraat", "Katendrecht", "regels"]
+    },
+    {
+      "text": "Elke Rotterdamse wijk moet binnen 10 minuten fietsen een huisartsenpraktijk en apotheek hebben.",
+      "originalText": "D66 wil dat elke Rotterdamse wijk binnen 10 minuten fietsen een huisartsenpraktijk en apotheek heeft. Zorg moet dichtbij en toegankelijk zijn voor alle Rotterdammers.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huisarts", "apotheek", "10 minuten", "zorg", "bereikbaarheid"]
+    },
+    {
+      "text": "De Maastunnel fiets- en voetgangerstunnel 24 uur per dag openstellen.",
+      "originalText": "De Maastunnel moet 24 uur per dag open zijn voor fietsers en voetgangers. Nu is de tunnel 's nachts gesloten, wat onnodig is en de bereikbaarheid van Zuid belemmert.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Maastunnel", "24 uur", "fietsers", "voetgangers"]
+    },
+    {
+      "text": "Gymlessen op basisscholen uitbreiden naar minimaal 3 uur per week met vakdocenten.",
+      "originalText": "D66 wil dat gymlessen op alle Rotterdamse basisscholen worden uitgebreid naar minimaal 3 uur per week, gegeven door vakdocenten. Bewegen is cruciaal voor de gezondheid en leerprestaties van kinderen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gymlessen", "3 uur", "basisscholen", "vakdocenten"]
+    },
+    {
+      "text": "Cameratoezicht in het centrum alleen inzetten bij bewezen effectiviteit en met strikte privacywaarborgen.",
+      "originalText": "D66 wil cameratoezicht in het centrum alleen inzetten wanneer de effectiviteit bewezen is en met strikte privacywaarborgen. Veiligheid en privacy moeten hand in hand gaan.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": false,
+      "keywords": ["cameratoezicht", "privacy", "effectiviteit", "centrum"]
+    },
+    {
+      "text": "Een internationaal kunstfestival in Rotterdam organiseren dat jaarlijks minimaal 100.000 bezoekers trekt.",
+      "originalText": "D66 wil een internationaal kunstfestival in Rotterdam dat jaarlijks minimaal 100.000 bezoekers trekt. Rotterdam verdient een cultureel evenement van wereldklasse naast bestaande festivals.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["kunstfestival", "internationaal", "100.000 bezoekers", "cultuur"]
+    },
+    {
+      "text": "Alle gemeentelijke gebouwen energieneutraal maken voor 2035.",
+      "originalText": "D66 wil dat alle gemeentelijke gebouwen in Rotterdam energieneutraal zijn voor 2035. De gemeente moet het goede voorbeeld geven in de energietransitie.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["energieneutraal", "gemeentelijke gebouwen", "2035", "energietransitie"]
+    }
+  ]
+}

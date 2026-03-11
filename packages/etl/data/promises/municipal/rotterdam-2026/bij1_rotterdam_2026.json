@@ -1,0 +1,149 @@
+{
+  "party": "BIJ1",
+  "partySlug": "bij1",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma BIJ1 Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "bij1_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Alle sociale huurwoningen die gesloopt zijn in Rotterdam-Zuid moeten 1-op-1 worden teruggebouwd.",
+      "originalText": "BIJ1 wil dat alle sociale huurwoningen die gesloopt zijn in Rotterdam-Zuid 1-op-1 worden teruggebouwd. De sloop van betaalbare woningen is een aanval op het recht op wonen van Rotterdammers.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sociale huur", "sloop", "terugbouwen", "Rotterdam-Zuid", "1-op-1"]
+    },
+    {
+      "text": "Gemeentelijke reparatiehubs in elke wijk om wegwerpeconomie tegen te gaan en banen te creeren.",
+      "originalText": "BIJ1 wil gemeentelijke reparatiehubs in elke wijk oprichten. Hier worden kapotte spullen gerepareerd in plaats van weggegooid, en het creëert werkgelegenheid in de buurt.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["reparatiehubs", "wegwerpeconomie", "werkgelegenheid", "wijken"]
+    },
+    {
+      "text": "Politie en BOA's ontbewapenen: geen wapenstokken en pepperspray meer voor handhavers.",
+      "originalText": "BIJ1 wil dat handhavers (BOA's) worden ontbewapend. Geen wapenstokken en pepperspray meer. Handhaving moet gebaseerd zijn op dialoog, niet op geweld.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["BOA's", "ontbewapenen", "wapenstokken", "pepperspray"]
+    },
+    {
+      "text": "Huren bevriezen voor sociale huurwoningen in Rotterdam voor de komende 4 jaar.",
+      "originalText": "BIJ1 wil de huren bevriezen voor alle sociale huurwoningen in Rotterdam voor de komende 4 jaar. Huurders verdienen zekerheid in tijden van woningnood en inflatie.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huurbevriezing", "sociale huur", "4 jaar", "woningnood"]
+    },
+    {
+      "text": "Gemeentelijk antizwartepietbeleid: Zwarte Piet verdwijnt uit alle gemeentelijk georganiseerde evenementen.",
+      "originalText": "BIJ1 wil een gemeentelijk antizwartepietbeleid. Zwarte Piet verdwijnt uit alle evenementen die door de gemeente worden georganiseerd of gesubsidieerd.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Zwarte Piet", "antizwartepietbeleid", "evenementen", "gemeente"]
+    },
+    {
+      "text": "Gratis menstruatieproducten beschikbaar stellen op alle scholen, bibliotheken en gemeentelijke gebouwen.",
+      "originalText": "BIJ1 wil gratis menstruatieproducten beschikbaar stellen op alle scholen, bibliotheken en gemeentelijke gebouwen in Rotterdam. Menstruatie mag geen financiële drempel zijn.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["menstruatieproducten", "gratis", "scholen", "bibliotheken"]
+    },
+    {
+      "text": "De gemeente stopt met aanbestedingen bij bedrijven die betrokken zijn bij de fossiele industrie.",
+      "originalText": "BIJ1 wil dat de gemeente stopt met aanbestedingen bij bedrijven die betrokken zijn bij de fossiele industrie. Gemeentegeld mag niet naar klimaatvervuilers gaan.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["aanbestedingen", "fossiele industrie", "klimaat", "gemeentegeld"]
+    },
+    {
+      "text": "Ongedocumenteerde Rotterdammers krijgen toegang tot basisvoorzieningen: zorg, onderwijs en opvang.",
+      "originalText": "BIJ1 wil dat ongedocumenteerde Rotterdammers toegang krijgen tot basisvoorzieningen: zorg, onderwijs en opvang. Ieder mens verdient een menswaardig bestaan, ongeacht verblijfsstatus.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ongedocumenteerden", "basisvoorzieningen", "zorg", "onderwijs"]
+    },
+    {
+      "text": "Alle gemeentelijke grond uit de verkoop: grond wordt alleen nog in erfpacht uitgegeven.",
+      "originalText": "BIJ1 wil dat alle gemeentelijke grond uit de verkoop gaat. Grond wordt alleen nog in erfpacht uitgegeven, zodat de gemeente grip houdt op woningprijzen en bestemmingen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gemeentelijke grond", "erfpacht", "verkoop", "woningprijzen"]
+    },
+    {
+      "text": "Koloniale standbeelden en straatnamen vervangen door namen die de diverse geschiedenis van Rotterdam weerspiegelen.",
+      "originalText": "BIJ1 wil koloniale standbeelden en straatnamen vervangen door namen die de diverse geschiedenis van Rotterdam weerspiegelen. De openbare ruimte moet van iedereen zijn.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["koloniale standbeelden", "straatnamen", "diversiteit", "geschiedenis"]
+    },
+    {
+      "text": "Maximaal 30% van het gemeentebudget voor veiligheid naar repressieve maatregelen; 70% naar preventie.",
+      "originalText": "BIJ1 wil dat maximaal 30% van het gemeentelijke veiligheidsbudget naar repressieve maatregelen gaat. De overige 70% moet naar preventie, jongerenwerk en wijkteams.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["veiligheidsbudget", "30%", "70%", "preventie", "repressie"]
+    },
+    {
+      "text": "Gratis OV voor alle Rotterdammers met een inkomen onder 150% van het sociaal minimum.",
+      "originalText": "BIJ1 wil gratis openbaar vervoer voor alle Rotterdammers met een inkomen onder 150% van het sociaal minimum. Mobiliteit is een recht, geen luxe.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "150%", "sociaal minimum", "mobiliteit"]
+    },
+    {
+      "text": "Sekswerk legaliseren en sekswerkers beschermen met een vergunningenstelsel en toegang tot zorg.",
+      "originalText": "BIJ1 wil sekswerk volledig legaliseren en sekswerkers beschermen. Er komt een vergunningenstelsel en sekswerkers krijgen toegang tot zorg en juridische bijstand.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sekswerk", "legaliseren", "vergunningen", "bescherming"]
+    },
+    {
+      "text": "Alle gemeentelijke festivals en evenementen worden toegankelijk voor mensen met een beperking.",
+      "originalText": "BIJ1 wil dat alle gemeentelijke festivals en evenementen volledig toegankelijk worden voor mensen met een beperking. Inclusie is geen gunst maar een recht.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["toegankelijkheid", "beperking", "festivals", "inclusie"]
+    },
+    {
+      "text": "Energiearmoede bestrijden: gratis isolatie voor alle woningen in wijken met de laagste inkomens.",
+      "originalText": "BIJ1 wil energiearmoede bestrijden door gratis isolatie aan te bieden voor alle woningen in wijken met de laagste inkomens. Niemand mag in de kou zitten door geldgebrek.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["energiearmoede", "gratis isolatie", "laagste inkomens", "wijken"]
+    },
+    {
+      "text": "Democratische controle op het Havenbedrijf Rotterdam: gemeenteraad krijgt vetorecht over grote investeringen.",
+      "originalText": "BIJ1 wil democratische controle op het Havenbedrijf Rotterdam. De gemeenteraad krijgt vetorecht over grote investeringen van het Havenbedrijf die impact hebben op de stad.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Havenbedrijf", "democratische controle", "vetorecht", "gemeenteraad"]
+    },
+    {
+      "text": "Basisinkomen pilot starten in Rotterdam-Zuid voor 1.000 huishoudens gedurende 3 jaar.",
+      "originalText": "BIJ1 wil een basisinkomen-pilot starten in Rotterdam-Zuid voor 1.000 huishoudens gedurende 3 jaar. Zo onderzoeken we of een basisinkomen armoede effectief bestrijdt.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["basisinkomen", "pilot", "1.000 huishoudens", "Rotterdam-Zuid"]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "party": "Volt",
+  "partySlug": "volt",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma Volt Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "volt_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Rotterdam wordt de eerste Nederlandse stad met een Europese burgerraad voor grensoverschrijdende thema's.",
+      "originalText": "Volt wil dat Rotterdam de eerste Nederlandse stad wordt met een Europese burgerraad. Deze raad adviseert over grensoverschrijdende thema's zoals klimaat, migratie en economie.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Europese burgerraad", "grensoverschrijdend", "eerste stad"]
+    },
+    {
+      "text": "Alle nieuwe gemeentelijke gebouwen moeten circulair gebouwd worden volgens Cradle-to-Cradle principes.",
+      "originalText": "Volt wil dat alle nieuwe gemeentelijke gebouwen circulair worden gebouwd volgens Cradle-to-Cradle principes. Rotterdam kan hiermee een voorbeeld zijn voor heel Europa.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["circulair bouwen", "Cradle-to-Cradle", "gemeentelijke gebouwen"]
+    },
+    {
+      "text": "Internationaal talent aantrekken en behouden met een English-friendly stad-beleid en internationale basisscholen.",
+      "originalText": "Volt wil internationaal talent aantrekken en behouden door Rotterdam tot English-friendly stad te maken. Er komen meer internationale basisscholen en gemeentelijke diensten worden ook in het Engels aangeboden.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["internationaal talent", "English-friendly", "internationale scholen"]
+    },
+    {
+      "text": "Fietssnelwegen aanleggen tussen Rotterdam en omliggende gemeenten: minimaal 3 routes voor 2030.",
+      "originalText": "Volt wil fietssnelwegen aanleggen tussen Rotterdam en omliggende gemeenten. Minimaal 3 snelfietsroutes moeten voor 2030 gerealiseerd zijn.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["fietssnelwegen", "3 routes", "2030", "omliggende gemeenten"]
+    },
+    {
+      "text": "Digitale democratie: Rotterdammers kunnen online stemmen over wijkbudgetten via een digitaal platform.",
+      "originalText": "Volt wil digitale democratie invoeren. Rotterdammers kunnen online stemmen over de besteding van wijkbudgetten via een transparant digitaal platform.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["digitale democratie", "online stemmen", "wijkbudgetten", "platform"]
+    },
+    {
+      "text": "De haven van Rotterdam positioneren als Europees centrum voor groene waterstof met een investeringsfonds van 50 miljoen euro.",
+      "originalText": "Volt wil de haven van Rotterdam positioneren als het Europese centrum voor groene waterstof. Er komt een gemeentelijk investeringsfonds van 50 miljoen euro om dit te faciliteren.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["haven", "groene waterstof", "50 miljoen", "investeringsfonds"]
+    },
+    {
+      "text": "Alle Rotterdamse wijken krijgen gratis openbaar wifi om digitale ongelijkheid tegen te gaan.",
+      "originalText": "Volt wil alle Rotterdamse wijken voorzien van gratis openbaar wifi. Digitale ongelijkheid is een groeiend probleem dat de participatie van kwetsbare groepen belemmert.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis wifi", "digitale ongelijkheid", "wijken", "participatie"]
+    },
+    {
+      "text": "Innovatieve woningbouw: modulaire en prefab woningen inzetten om snel 2.000 woningen te realiseren.",
+      "originalText": "Volt wil innovatieve woningbouw stimuleren door modulaire en prefab woningen in te zetten. Hiermee kunnen snel 2.000 extra woningen worden gerealiseerd op tijdelijke locaties.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["modulair", "prefab", "2.000 woningen", "innovatief"]
+    },
+    {
+      "text": "Erasmus Universiteit en hogescholen betrekken bij een stedelijk innovatielab voor maatschappelijke vraagstukken.",
+      "originalText": "Volt wil een stedelijk innovatielab oprichten in samenwerking met de Erasmus Universiteit en Rotterdamse hogescholen. Dit lab werkt aan oplossingen voor maatschappelijke vraagstukken.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["innovatielab", "Erasmus Universiteit", "hogescholen", "maatschappelijk"]
+    },
+    {
+      "text": "Zero-waste beleid: Rotterdam halveert het restafval per inwoner voor 2030.",
+      "originalText": "Volt wil een zero-waste beleid voor Rotterdam. Het restafval per inwoner moet gehalveerd worden voor 2030 door betere afvalscheiding, hergebruik en circulaire initiatieven.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zero-waste", "restafval", "halveren", "2030"]
+    },
+    {
+      "text": "EU-subsidies beter benutten: een dedicated team dat Europese fondsen binnenhaalt voor Rotterdamse projecten.",
+      "originalText": "Volt wil EU-subsidies beter benutten door een dedicated team op te richten dat Europese fondsen binnenhaalt voor Rotterdamse klimaat-, innovatie- en sociale projecten.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["EU-subsidies", "Europese fondsen", "dedicated team", "projecten"]
+    },
+    {
+      "text": "Klimaatadaptatie: 50 waterpleinen en waterbergingen aanleggen in de meest kwetsbare wijken.",
+      "originalText": "Volt wil 50 waterpleinen en waterbergingen aanleggen in de meest kwetsbare wijken van Rotterdam. De stad moet bestand zijn tegen hevige regenbuien en zeespiegelstijging.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["waterpleinen", "waterbergingen", "50", "klimaatadaptatie"]
+    },
+    {
+      "text": "Transparante gemeentefinancien: alle uitgaven boven 10.000 euro worden openbaar gepubliceerd.",
+      "originalText": "Volt wil transparante gemeentefinancien. Alle uitgaven boven 10.000 euro worden openbaar gepubliceerd op een toegankelijk dashboard.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["transparantie", "gemeentefinancien", "10.000 euro", "openbaar"]
+    },
+    {
+      "text": "Antiracisme-training verplicht voor alle gemeentemedewerkers die contact hebben met burgers.",
+      "originalText": "Volt wil dat antiracisme-training verplicht wordt voor alle gemeentemedewerkers die contact hebben met burgers. Iedereen verdient een gelijke en respectvolle behandeling.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["antiracisme", "training", "gemeentemedewerkers", "verplicht"]
+    },
+    {
+      "text": "Nachttrein en nachtbus uitbreiden zodat alle wijken tot 4 uur 's nachts bereikbaar zijn met OV.",
+      "originalText": "Volt wil de nachttrein en nachtbus uitbreiden zodat alle Rotterdamse wijken tot 4 uur 's nachts bereikbaar zijn met openbaar vervoer. Nachtelijk OV is belangrijk voor de nachteconomie en veiligheid.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["nachttrein", "nachtbus", "4 uur", "OV", "bereikbaar"]
+    },
+    {
+      "text": "Elke Rotterdammer krijgt een persoonlijk CO2-budget en tips om de uitstoot te verlagen.",
+      "originalText": "Volt wil dat elke Rotterdammer een persoonlijk CO2-budget krijgt via een app. Met praktische tips en beloningen stimuleren we duurzaam gedrag.",
+      "theme": "groen-klimaat",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["CO2-budget", "persoonlijk", "app", "duurzaam gedrag"]
+    },
+    {
+      "text": "Woningdelen en co-housing faciliteren met aangepaste bestemmingsplannen en vergunningen.",
+      "originalText": "Volt wil woningdelen en co-housing faciliteren door bestemmingsplannen en vergunningen aan te passen. Nieuwe woonvormen bieden een oplossing voor eenzaamheid en woningtekort.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["woningdelen", "co-housing", "bestemmingsplannen", "vergunningen"]
+    }
+  ]
+}

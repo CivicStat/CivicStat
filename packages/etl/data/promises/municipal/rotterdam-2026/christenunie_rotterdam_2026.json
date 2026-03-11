@@ -1,0 +1,133 @@
+{
+  "party": "ChristenUnie",
+  "partySlug": "christenunie",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma ChristenUnie Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "christenunie_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Schuldenvrij opgroeien: alle kinderen onder 18 jaar beschermen tegen incasso's en deurwaarders.",
+      "originalText": "De ChristenUnie wil dat alle kinderen onder 18 jaar in Rotterdam beschermd worden tegen incasso's en deurwaarders. Geen kind mag de dupe worden van de schulden van ouders.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schuldenvrij", "kinderen", "incasso", "deurwaarders"]
+    },
+    {
+      "text": "Opvang voor dak- en thuislozen het hele jaar door openstellen, niet alleen in de winter.",
+      "originalText": "De ChristenUnie wil dat de opvang voor dak- en thuislozen het hele jaar door open is, niet alleen tijdens de wintermaanden. Ieder mens verdient een warm en veilig bed.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["daklozenopvang", "hele jaar", "winter", "opvang"]
+    },
+    {
+      "text": "Zondag als rustdag: geen verruiming van winkelsluitingstijden op zondag.",
+      "originalText": "De ChristenUnie wil de zondag als rustdag behouden. Er komt geen verdere verruiming van winkelsluitingstijden op zondag. Rust en bezinning zijn belangrijk voor mens en samenleving.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["zondag", "rustdag", "winkelsluitingstijden", "geen verruiming"]
+    },
+    {
+      "text": "Pleegouders en gezinshuizen krijgen 25% meer vergoeding om het tekort aan pleeggezinnen tegen te gaan.",
+      "originalText": "De ChristenUnie wil dat pleegouders en gezinshuizen 25% meer vergoeding krijgen. Er is een groot tekort aan pleeggezinnen en betere ondersteuning is noodzakelijk.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["pleegouders", "gezinshuizen", "25%", "vergoeding"]
+    },
+    {
+      "text": "Mensenhandel en uitbuiting in de haven harder aanpakken met een speciaal opsporingsteam.",
+      "originalText": "De ChristenUnie wil mensenhandel en uitbuiting in de Rotterdamse haven harder aanpakken. Er komt een speciaal opsporingsteam dat samenwerkt met politie en douane.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["mensenhandel", "uitbuiting", "haven", "opsporingsteam"]
+    },
+    {
+      "text": "Eenzaamheid bestrijden: elke wijk krijgt een huiskamerproject waar ouderen en alleenstaanden terechtkunnen.",
+      "originalText": "De ChristenUnie wil eenzaamheid bestrijden door in elke wijk een huiskamerproject op te zetten. Ouderen en alleenstaanden moeten een plek hebben waar ze welkom zijn.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["eenzaamheid", "huiskamerproject", "ouderen", "alleenstaanden"]
+    },
+    {
+      "text": "Woningen bouwen voor ouderen nabij zorgvoorzieningen, minimaal 500 levensloopbestendige woningen per jaar.",
+      "originalText": "De ChristenUnie wil minimaal 500 levensloopbestendige woningen per jaar bouwen nabij zorgvoorzieningen. Ouderen moeten veilig en comfortabel oud kunnen worden in hun eigen buurt.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["levensloopbestendig", "500 woningen", "ouderen", "zorgvoorzieningen"]
+    },
+    {
+      "text": "Geen verdere uitbreiding van het aantal coffeeshops in Rotterdam en bestaande coffeeshops strenger controleren.",
+      "originalText": "De ChristenUnie wil geen verdere uitbreiding van het aantal coffeeshops in Rotterdam. Bestaande coffeeshops worden strenger gecontroleerd op naleving van regels.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["coffeeshops", "geen uitbreiding", "controle", "handhaving"]
+    },
+    {
+      "text": "Schuldhulpverlening verbeteren: vroegsignalering bij alle nutsbedrijven en zorgverzekeraars invoeren.",
+      "originalText": "De ChristenUnie wil de schuldhulpverlening verbeteren door vroegsignalering in te voeren bij alle nutsbedrijven en zorgverzekeraars. Zo bereiken we mensen voordat schulden onbeheersbaar worden.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schuldhulpverlening", "vroegsignalering", "nutsbedrijven", "zorgverzekeraars"]
+    },
+    {
+      "text": "Duurzaam bouwen: alle gemeentelijke bouwprojecten moeten voldoen aan BREEAM-Excellent certificering.",
+      "originalText": "De ChristenUnie wil dat alle gemeentelijke bouwprojecten voldoen aan BREEAM-Excellent certificering. De gemeente moet het goede voorbeeld geven op het gebied van duurzaam bouwen.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["BREEAM", "duurzaam bouwen", "certificering", "gemeentelijke projecten"]
+    },
+    {
+      "text": "Meer aandacht voor burgerschap en respect op scholen via een gemeentelijk lesprogramma.",
+      "originalText": "De ChristenUnie wil meer aandacht voor burgerschap en respect op Rotterdamse scholen. Er komt een gemeentelijk lesprogramma dat scholen kunnen inzetten.",
+      "theme": "onderwijs",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["burgerschap", "respect", "scholen", "lesprogramma"]
+    },
+    {
+      "text": "Taalvrijwilligers koppelen aan nieuwkomers: elke statushouder krijgt een taalmaatje.",
+      "originalText": "De ChristenUnie wil taalvrijwilligers koppelen aan nieuwkomers. Elke statushouder in Rotterdam krijgt een taalmaatje dat helpt bij het leren van de Nederlandse taal en de integratie in de buurt.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["taalvrijwilligers", "statushouders", "taalmaatje", "integratie"]
+    },
+    {
+      "text": "Stille armoede opsporen: huisartsen en scholen krijgen een meldpunt en budget voor directe hulp.",
+      "originalText": "De ChristenUnie wil stille armoede opsporen via huisartsen en scholen. Zij krijgen een meldpunt en budget voor directe hulp aan gezinnen die onder de radar leven.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["stille armoede", "huisartsen", "scholen", "meldpunt"]
+    },
+    {
+      "text": "Gezinswoningen beschermen: woningsplitsing in gezinswijken verbieden.",
+      "originalText": "De ChristenUnie wil gezinswoningen beschermen door woningsplitsing in gezinswijken te verbieden. Gezinnen moeten in hun eigen wijk kunnen blijven wonen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gezinswoningen", "woningsplitsing", "verbieden", "gezinswijken"]
+    },
+    {
+      "text": "Gemeentelijke subsidies voor kerken en andere religieuze instellingen die buurtactiviteiten organiseren.",
+      "originalText": "De ChristenUnie wil gemeentelijke subsidies beschikbaar stellen voor kerken en andere religieuze instellingen die buurtactiviteiten organiseren. Geloof en samenleving versterken elkaar.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["subsidies", "kerken", "religieuze instellingen", "buurtactiviteiten"]
+    }
+  ]
+}

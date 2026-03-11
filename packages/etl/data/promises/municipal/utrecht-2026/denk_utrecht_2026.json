@@ -1,0 +1,149 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma DENK Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "denk_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Een meldpunt discriminatie oprichten met juridische bijstand voor slachtoffers.",
+      "originalText": "DENK wil een laagdrempelig meldpunt discriminatie oprichten waar slachtoffers terecht kunnen voor juridische bijstand en ondersteuning. Het meldpunt wordt in meerdere talen bereikbaar.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["meldpunt", "discriminatie", "juridische bijstand"]
+    },
+    {
+      "text": "Minimaal 30% sociale huurwoningen in elk nieuwbouwproject in Utrecht.",
+      "originalText": "DENK eist dat in elk nieuwbouwproject in Utrecht minimaal 30% sociale huurwoningen worden gerealiseerd. Betaalbaar wonen is een grondrecht.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["30%", "sociale huur", "nieuwbouw"]
+    },
+    {
+      "text": "Islamitische en hindoeistische begraafplaatsen realiseren in Utrecht.",
+      "originalText": "DENK wil dat de gemeente islamitische en hindoeistische begraafplaatsen realiseert. Iedereen moet in Utrecht begraven kunnen worden volgens eigen tradities en geloofsovertuiging.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["begraafplaatsen", "islamitisch", "hindoeistisch"]
+    },
+    {
+      "text": "Het budget voor taalonderwijs en inburgering verdubbelen.",
+      "originalText": "DENK wil het gemeentelijk budget voor taalonderwijs en inburgering verdubbelen. Goede taalbeheersing is de sleutel tot participatie en integratie.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["taalonderwijs", "inburgering", "verdubbelen"]
+    },
+    {
+      "text": "Mystery guests inzetten om discriminatie bij Utrechtse horecagelegenheden op te sporen.",
+      "originalText": "DENK wil dat de gemeente mystery guests inzet om discriminatie bij horecagelegenheden en uitgaansgelegenheden in Utrecht aan te pakken. Bij herhaalde overtredingen volgt sluiting.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["mystery guests", "horeca", "discriminatie"]
+    },
+    {
+      "text": "Gratis huiswerkbegeleiding aanbieden op alle Utrechtse basisscholen in achterstandswijken.",
+      "originalText": "DENK wil gratis huiswerkbegeleiding op alle basisscholen in achterstandswijken zoals Overvecht, Kanaleneiland en Zuilen. Elk kind verdient gelijke kansen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huiswerkbegeleiding", "gratis", "achterstandswijken", "basisscholen"]
+    },
+    {
+      "text": "Een diversiteitsquotum invoeren bij gemeentelijke aanstellingen: minimaal 25% medewerkers met een migratieachtergrond.",
+      "originalText": "DENK wil dat minimaal 25% van de nieuwe gemeentelijke aanstellingen mensen betreft met een migratieachtergrond. De gemeente moet een afspiegeling zijn van de Utrechtse samenleving.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["diversiteitsquotum", "25%", "migratieachtergrond", "gemeentelijke aanstellingen"]
+    },
+    {
+      "text": "Camera's en extra verlichting plaatsen in Overvecht en Kanaleneiland voor meer veiligheid.",
+      "originalText": "DENK pleit voor extra camera's en betere verlichting in Overvecht en Kanaleneiland. Bewoners moeten zich veilig voelen in hun eigen wijk.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["camera's", "verlichting", "Overvecht", "Kanaleneiland"]
+    },
+    {
+      "text": "Islamitisch en joods cultureel erfgoed opnemen in het Utrechtse culturele programma.",
+      "originalText": "DENK wil dat islamitisch en joods cultureel erfgoed structureel wordt opgenomen in het Utrechtse culturele programma en dat hier budget voor wordt vrijgemaakt.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["cultureel erfgoed", "islamitisch", "joods"]
+    },
+    {
+      "text": "Een jongerenraad oprichten die gevraagd en ongevraagd advies geeft aan het college van B&W.",
+      "originalText": "DENK wil een Utrechtse jongerenraad oprichten die gevraagd en ongevraagd advies geeft aan het college. Jongeren moeten een stem hebben in het beleid dat hun toekomst bepaalt.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["jongerenraad", "advies", "college"]
+    },
+    {
+      "text": "Huurders beschermen tegen woekerprijzen door een maximale huurverhoging van 3% per jaar.",
+      "originalText": "DENK wil dat de gemeente zich inzet voor een maximale jaarlijkse huurverhoging van 3% voor Utrechtse huurders. Woekerprijzen moeten worden aangepakt.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huurverhoging", "3%", "maximum", "huurders"]
+    },
+    {
+      "text": "Meer halal-opties in schoolkantines en gemeentelijke instellingen.",
+      "originalText": "DENK wil dat er in schoolkantines en gemeentelijke instellingen halal-opties beschikbaar zijn. Iedereen moet kunnen eten in overeenstemming met de eigen levensovertuiging.",
+      "theme": "sociaal-domein",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["halal", "schoolkantines", "gemeentelijke instellingen"]
+    },
+    {
+      "text": "Een gemeentelijk fonds oprichten van 2 miljoen euro voor startende ondernemers met een migratieachtergrond.",
+      "originalText": "DENK wil een gemeentelijk fonds van 2 miljoen euro oprichten dat startende ondernemers met een migratieachtergrond ondersteunt met leningen en coaching.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["fonds", "2 miljoen", "startende ondernemers", "migratieachtergrond"]
+    },
+    {
+      "text": "De wijkagent vaker zichtbaar inzetten in Overvecht, Zuilen en Kanaleneiland.",
+      "originalText": "DENK wil dat wijkagenten vaker zichtbaar aanwezig zijn in wijken als Overvecht, Zuilen en Kanaleneiland. Meer blauw op straat vergroot het veiligheidsgevoel.",
+      "theme": "veiligheid",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["wijkagent", "Overvecht", "Zuilen", "Kanaleneiland"]
+    },
+    {
+      "text": "Openbare sportfaciliteiten gratis toegankelijk maken voor jongeren tot 18 jaar.",
+      "originalText": "DENK wil dat openbare sportfaciliteiten zoals voetbalveldjes, basketbalvelden en fitnesstoestellen in de openbare ruimte gratis toegankelijk zijn voor jongeren tot 18 jaar.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sportfaciliteiten", "gratis", "jongeren", "18 jaar"]
+    },
+    {
+      "text": "Een verbod op etnisch profileren door handhavers en politie in Utrecht.",
+      "originalText": "DENK eist een gemeentebreed verbod op etnisch profileren door gemeentelijke handhavers en politie. Er komt een onafhankelijke klachtencommissie.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["etnisch profileren", "verbod", "handhavers", "klachtencommissie"]
+    },
+    {
+      "text": "De Utrechtse markt op Lombok uitbreiden met meer kraampjes voor lokale ondernemers.",
+      "originalText": "DENK wil de markt op Lombok en de Kanaalstraat uitbreiden met meer ruimte voor lokale ondernemers. De markt is een ontmoetingsplaats en economische motor voor de wijk.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["markt", "Lombok", "Kanaalstraat", "lokale ondernemers"]
+    }
+  ]
+}

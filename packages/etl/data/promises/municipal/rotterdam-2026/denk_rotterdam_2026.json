@@ -1,0 +1,141 @@
+{
+  "party": "DENK",
+  "partySlug": "denk",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma DENK Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "denk_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Discriminatie bij woningtoewijzing en sollicitaties bestrijden met een gemeentelijk antidiscriminatiebureau met opsporingsbevoegdheden.",
+      "originalText": "DENK wil een gemeentelijk antidiscriminatiebureau oprichten met opsporingsbevoegdheden. Discriminatie bij woningtoewijzing en sollicitaties moet actief worden opgespoord en bestraft.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["discriminatie", "antidiscriminatiebureau", "woningtoewijzing", "sollicitaties"]
+    },
+    {
+      "text": "Moskeeeen en islamitische scholen dezelfde subsidiekansen geven als andere religieuze en maatschappelijke instellingen.",
+      "originalText": "DENK wil dat moskeeeen en islamitische scholen dezelfde subsidiekansen krijgen als andere religieuze en maatschappelijke instellingen. Gelijke behandeling is een grondrecht.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["moskeeeen", "islamitische scholen", "subsidie", "gelijke behandeling"]
+    },
+    {
+      "text": "Etnisch profileren door politie en handhavers tegengaan met bodycams en een onafhankelijke klachtencommissie.",
+      "originalText": "DENK wil etnisch profileren door politie en handhavers tegengaan. Alle handhavers krijgen bodycams en er komt een onafhankelijke klachtencommissie waar Rotterdammers terecht kunnen.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["etnisch profileren", "bodycams", "klachtencommissie", "handhavers"]
+    },
+    {
+      "text": "Sociale huurwoningen bouwen in rijkere wijken zoals Hillegersberg en Kralingen om segregatie te doorbreken.",
+      "originalText": "DENK wil sociale huurwoningen bouwen in rijkere wijken zoals Hillegersberg en Kralingen. Segregatie doorbreek je door gemengde wijken te creëren.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["sociale huur", "Hillegersberg", "Kralingen", "segregatie"]
+    },
+    {
+      "text": "Gemeentelijke communicatie in minimaal 5 talen aanbieden: Nederlands, Engels, Turks, Arabisch en Pools.",
+      "originalText": "DENK wil dat de gemeentelijke communicatie in minimaal 5 talen beschikbaar is: Nederlands, Engels, Turks, Arabisch en Pools. Iedereen moet de gemeente kunnen begrijpen.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["meertalig", "communicatie", "5 talen", "gemeente"]
+    },
+    {
+      "text": "Gratis schoolmaaltijden op alle basisscholen in wijken met een hoge armoedeindex.",
+      "originalText": "DENK wil gratis schoolmaaltijden op alle basisscholen in wijken met een hoge armoedeindex. Geen kind mag met honger naar school gaan.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schoolmaaltijden", "gratis", "basisscholen", "armoede"]
+    },
+    {
+      "text": "Het slavernijverleden van Rotterdam zichtbaar maken met een permanent monument en educatieprogramma.",
+      "originalText": "DENK wil het slavernijverleden van Rotterdam zichtbaar maken met een permanent monument en een educatieprogramma voor scholen. Erkenning van het verleden is nodig voor een rechtvaardige toekomst.",
+      "theme": "cultuur",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["slavernijverleden", "monument", "educatieprogramma", "erkenning"]
+    },
+    {
+      "text": "Straatnamen en pleinen vernoemen naar Rotterdammers met een migratieachtergrond die bijdroegen aan de stad.",
+      "originalText": "DENK wil straatnamen en pleinen vernoemen naar Rotterdammers met een migratieachtergrond die een belangrijke bijdrage hebben geleverd aan de stad.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["straatnamen", "migratieachtergrond", "vernoemen", "diversiteit"]
+    },
+    {
+      "text": "Jongeren van 16 en 17 jaar stemrecht geven bij gemeenteraadsverkiezingen.",
+      "originalText": "DENK wil dat jongeren van 16 en 17 jaar stemrecht krijgen bij gemeenteraadsverkiezingen in Rotterdam. Jongeren zijn de toekomst en verdienen een stem.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["stemrecht", "jongeren", "16 jaar", "gemeenteraadsverkiezingen"]
+    },
+    {
+      "text": "Islamofobie en racisme opnemen als prioriteit in het veiligheidsbeleid van de gemeente.",
+      "originalText": "DENK wil dat islamofobie en racisme worden opgenomen als prioriteit in het gemeentelijke veiligheidsbeleid. Haatmisdrijven moeten actief worden opgespoord en vervolgd.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["islamofobie", "racisme", "veiligheidsbeleid", "haatmisdrijven"]
+    },
+    {
+      "text": "Stages garanderen voor alle MBO- en HBO-studenten via verplichte afspraken met grote Rotterdamse werkgevers.",
+      "originalText": "DENK wil stages garanderen voor alle MBO- en HBO-studenten in Rotterdam. De gemeente maakt verplichte afspraken met grote Rotterdamse werkgevers over het aanbieden van stageplaatsen.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["stages", "MBO", "HBO", "werkgevers", "garanderen"]
+    },
+    {
+      "text": "Taalles en inburgering verbeteren: wachttijden terugbrengen naar maximaal 4 weken.",
+      "originalText": "DENK wil de wachttijden voor taalles en inburgering terugbrengen naar maximaal 4 weken. Nieuwkomers verdienen een snelle start in hun nieuwe stad.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["taalles", "inburgering", "wachttijden", "4 weken"]
+    },
+    {
+      "text": "Meer betaalbare woningen voor grote gezinnen: 15% van alle nieuwbouw moet 4 of meer kamers hebben.",
+      "originalText": "DENK wil meer betaalbare woningen voor grote gezinnen. Minimaal 15% van alle nieuwbouw moet 4 of meer kamers hebben, zodat grote gezinnen niet gedwongen worden de stad te verlaten.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["grote gezinnen", "15%", "4 kamers", "nieuwbouw"]
+    },
+    {
+      "text": "Gratis sport- en cultuuractiviteiten voor kinderen in alle wijken via de Rotterdampas.",
+      "originalText": "DENK wil gratis sport- en cultuuractiviteiten voor kinderen in alle wijken via de Rotterdampas. Elk kind moet kunnen sporten en deelnemen aan culturele activiteiten.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["gratis sport", "cultuur", "kinderen", "Rotterdampas"]
+    },
+    {
+      "text": "De gemeenteraad moet een afspiegeling zijn van de stad: actief beleid om diversiteit op kieslijsten te bevorderen.",
+      "originalText": "DENK wil dat de gemeenteraad een afspiegeling is van de stad. We voeren actief beleid om diversiteit op kieslijsten te bevorderen en drempels voor kandidaten met een migratieachtergrond weg te nemen.",
+      "theme": "bestuur-democratie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["gemeenteraad", "diversiteit", "kieslijsten", "afspiegeling"]
+    },
+    {
+      "text": "Geen privatisering van gemeentelijke diensten: de vuilnisophaal, groenonderhoud en thuiszorg blijven in publieke handen.",
+      "originalText": "DENK wil geen privatisering van gemeentelijke diensten. De vuilnisophaal, het groenonderhoud en de thuiszorg blijven in publieke handen. Publieke diensten horen bij de gemeenschap.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["privatisering", "gemeentelijke diensten", "publieke handen", "vuilnisophaal"]
+    }
+  ]
+}

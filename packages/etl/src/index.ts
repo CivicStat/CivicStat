@@ -662,6 +662,8 @@ async function main() {
         console.log('  npm run ingest seed-municipal-2026                        - Seed all 2026 municipal promises to DB');
         console.log('  npm run ingest seed-municipal-2026 --city amsterdam       - Seed only Amsterdam 2026');
         console.log('  npm run ingest seed-municipal-2026 --city den-haag        - Seed only Den Haag 2026');
+        console.log('  npm run ingest seed-municipal-2026 --city rotterdam       - Seed only Rotterdam 2026');
+        console.log('  npm run ingest seed-municipal-2026 --city utrecht         - Seed only Utrecht 2026');
         console.log('  npm run ingest seed-municipal-2026 --party vvd            - Seed only VVD 2026');
         console.log('  npm run ingest seed-municipal-2026 --dry-run              - Preview seeding');
         console.log('  npm run ingest seed-municipal-2026 --replace              - Delete existing before seeding');

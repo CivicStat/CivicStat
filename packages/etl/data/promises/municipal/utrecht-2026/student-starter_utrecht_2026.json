@@ -1,0 +1,141 @@
+{
+  "party": "Student&Starter",
+  "partySlug": "student-starter",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma Student&Starter Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "student-starter_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "5.000 extra studentenkamers bouwen in Utrecht voor 2030.",
+      "originalText": "Student&Starter wil dat er voor 2030 minimaal 5.000 extra studentenkamers worden gebouwd in Utrecht. Het kamertekort is een van de grootste problemen voor Utrechtse studenten.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["5.000 studentenkamers", "2030"]
+    },
+    {
+      "text": "Nachtbussen invoeren op vrijdag en zaterdag naar alle Utrechtse studentenwijken.",
+      "originalText": "Student&Starter wil nachtbussen op vrijdag en zaterdag naar alle studentenwijken zoals De Uithof, Tuindorp en de Kanaalstraat. Veilig thuiskomen na een avond uit moet voor iedereen mogelijk zijn.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["nachtbussen", "vrijdag", "zaterdag", "studentenwijken"]
+    },
+    {
+      "text": "Een startershypotheek van de gemeente voor afgestudeerden met een inkomen tot modaal.",
+      "originalText": "Student&Starter wil een gemeentelijke startershypotheek voor afgestudeerden met een inkomen tot modaal. Het studieschuldenprobleem mag geen belemmering zijn voor woningeigenaarschap.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["startershypotheek", "afgestudeerden", "modaal"]
+    },
+    {
+      "text": "De maximale huurprijs voor studentenkamers vaststellen op 500 euro per maand.",
+      "originalText": "Student&Starter wil dat de gemeente de maximale huurprijs voor studentenkamers vaststelt op 500 euro per maand. Huisjesmelkers die woekerprijzen vragen, worden hard aangepakt.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huurprijs", "500 euro", "studentenkamers", "maximum"]
+    },
+    {
+      "text": "Een stagebeurs van 500 euro per maand voor studenten met een onbetaalde stage.",
+      "originalText": "Student&Starter wil een gemeentelijke stagebeurs van 500 euro per maand voor studenten die een onbetaalde stage lopen bij een Utrechts bedrijf of instelling.",
+      "theme": "onderwijs",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["stagebeurs", "500 euro", "onbetaalde stage"]
+    },
+    {
+      "text": "Meer fietsenstallingen bij het Utrecht Science Park en station Utrecht Centraal.",
+      "originalText": "Student&Starter wil meer fietsenstallingen bij het Utrecht Science Park en station Utrecht Centraal. Het chronische tekort aan fietsparkeerplekken moet worden opgelost.",
+      "theme": "verkeer-vervoer",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["fietsenstallingen", "Science Park", "Utrecht Centraal"]
+    },
+    {
+      "text": "De nachtcultuur in Utrecht beschermen met een nachtvisie en nachtburgemeester.",
+      "originalText": "Student&Starter wil dat Utrecht een nachtvisie ontwikkelt en een nachtburgemeester aanstelt. Het nachtleven is belangrijk voor de aantrekkingskracht van Utrecht als studentenstad.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["nachtcultuur", "nachtvisie", "nachtburgemeester"]
+    },
+    {
+      "text": "Huisjesmelkers harder aanpakken met boetes tot 50.000 euro.",
+      "originalText": "Student&Starter wil dat huisjesmelkers harder worden aangepakt met boetes tot 50.000 euro. Slechte woonomstandigheden en woekerprijzen zijn onacceptabel.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huisjesmelkers", "boetes", "50.000 euro"]
+    },
+    {
+      "text": "Een gratis sportpas voor alle studenten in Utrecht.",
+      "originalText": "Student&Starter wil een gratis sportpas voor alle studenten in Utrecht waarmee ze kunnen sporten bij gemeentelijke sportfaciliteiten. Sporten is gezond en sociaal.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["sportpas", "gratis", "studenten"]
+    },
+    {
+      "text": "Studenten structureel betrekken bij gemeentelijke besluitvorming via een studentenraad.",
+      "originalText": "Student&Starter wil een Utrechtse studentenraad die structureel wordt betrokken bij gemeentelijke besluitvorming. 70.000 studenten verdienen een stem in het stadsbeleid.",
+      "theme": "bestuur-democratie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["studentenraad", "besluitvorming", "structureel"]
+    },
+    {
+      "text": "Alle Utrechtse cafes en restaurants vragen om een studieplek-tarief voor studenten.",
+      "originalText": "Student&Starter wil dat Utrechtse horeca een studieplek-tarief aanbiedt waarmee studenten voor een vast bedrag een dag kunnen studeren met wifi en koffie.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["studieplek-tarief", "horeca", "studenten"]
+    },
+    {
+      "text": "De OV-fiets gratis beschikbaar stellen voor studenten bij alle Utrechtse stations.",
+      "originalText": "Student&Starter wil dat de OV-fiets gratis beschikbaar wordt gesteld voor studenten bij alle Utrechtse stations. Dit verbetert de bereikbaarheid van de campus en stageplekken.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OV-fiets", "gratis", "studenten", "stations"]
+    },
+    {
+      "text": "Een gemeentelijk mentorprogramma opzetten dat starters koppelt aan ervaren ondernemers.",
+      "originalText": "Student&Starter wil een gemeentelijk mentorprogramma dat startende ondernemers koppelt aan ervaren Utrechtse ondernemers. Kennis delen versnelt succes.",
+      "theme": "economie",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["mentorprogramma", "starters", "ondernemers"]
+    },
+    {
+      "text": "Psychische hulp voor studenten laagdrempelig en gratis aanbieden via de huisarts.",
+      "originalText": "Student&Starter wil dat psychische hulp voor studenten laagdrempelig en gratis beschikbaar is via de huisarts. De psychische druk op studenten is alarmerend hoog.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["psychische hulp", "studenten", "gratis", "huisarts"]
+    },
+    {
+      "text": "Tijdelijke woningen bouwen op braakliggende terreinen voor starters en studenten.",
+      "originalText": "Student&Starter wil dat er tijdelijke woningen worden gebouwd op braakliggende terreinen in Utrecht. Dit biedt snel extra woonruimte voor starters en studenten.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["tijdelijke woningen", "braakliggende terreinen", "starters"]
+    },
+    {
+      "text": "Een Utrechts cultureel festival voor jongeren en studenten organiseren: Stadsfestival030.",
+      "originalText": "Student&Starter wil een jaarlijks Stadsfestival030 organiseren: een cultureel festival voor en door jongeren en studenten met muziek, kunst en debat.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Stadsfestival030", "jongeren", "studenten", "cultuur"]
+    }
+  ]
+}

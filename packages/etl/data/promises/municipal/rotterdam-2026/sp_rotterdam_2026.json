@@ -1,0 +1,149 @@
+{
+  "party": "SP",
+  "partySlug": "sp",
+  "city": "rotterdam",
+  "parliamentSlug": "rotterdam",
+  "program": "Verkiezingsprogramma SP Rotterdam 2026",
+  "electionYear": 2026,
+  "sourceFile": "sp_rotterdam_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "Maximale huurprijs van 800 euro voor alle sociale huurwoningen in Rotterdam.",
+      "originalText": "De SP wil een maximale huurprijs van 800 euro voor alle sociale huurwoningen in Rotterdam. Wonen is een recht, geen verdienmodel voor corporaties.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["maximale huurprijs", "800 euro", "sociale huur", "recht"]
+    },
+    {
+      "text": "Thuiszorgmedewerkers in dienst van de gemeente in plaats van uitbesteding aan commerciele bureaus.",
+      "originalText": "De SP wil dat thuiszorgmedewerkers in dienst komen van de gemeente in plaats van uitbesteding aan commerciele bureaus. Zo garanderen we betere arbeidsvoorwaarden en kwaliteit.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["thuiszorg", "gemeente", "uitbesteding", "arbeidsvoorwaarden"]
+    },
+    {
+      "text": "Geen sloop van betaalbare woningen meer: renovatie in plaats van nieuwbouw als vuistregel.",
+      "originalText": "De SP wil geen sloop van betaalbare woningen meer. Renovatie gaat voor nieuwbouw. Te veel Rotterdammers zijn hun betaalbare woning kwijtgeraakt door sloopplannen.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["geen sloop", "renovatie", "betaalbare woningen", "nieuwbouw"]
+    },
+    {
+      "text": "Gratis OV voor alle 65-plussers in Rotterdam ongeacht inkomen.",
+      "originalText": "De SP wil gratis openbaar vervoer voor alle 65-plussers in Rotterdam, ongeacht hun inkomen. Ouderen verdienen vrije mobiliteit.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["gratis OV", "65-plussers", "ouderen", "mobiliteit"]
+    },
+    {
+      "text": "Havenbedrijf Rotterdam nationaliseren: winsten moeten terugvloeien naar de stad.",
+      "originalText": "De SP wil dat het Havenbedrijf Rotterdam volledig wordt genationaliseerd. De winsten moeten terugvloeien naar de stad en de Rotterdammers, niet naar aandeelhouders.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Havenbedrijf", "nationaliseren", "winsten", "stad"]
+    },
+    {
+      "text": "Eigen bijdrage in de Wmo afschaffen voor Rotterdammers met een inkomen tot 150% van het sociaal minimum.",
+      "originalText": "De SP wil de eigen bijdrage in de Wmo afschaffen voor Rotterdammers met een inkomen tot 150% van het sociaal minimum. Zorg moet toegankelijk zijn voor iedereen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["Wmo", "eigen bijdrage", "afschaffen", "150%"]
+    },
+    {
+      "text": "Buurthuizen heropenen die de afgelopen jaren zijn gesloten en beheerd laten worden door bewoners.",
+      "originalText": "De SP wil alle buurthuizen die de afgelopen jaren zijn gesloten heropenen. Bewoners beheren ze zelf met ondersteuning van de gemeente.",
+      "theme": "sociaal-domein",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["buurthuizen", "heropenen", "bewoners", "zelfbeheer"]
+    },
+    {
+      "text": "Huisjesmelkers aanpakken: verplichte verhuurdersvergunning en boetes tot 100.000 euro bij misstanden.",
+      "originalText": "De SP wil huisjesmelkers keihard aanpakken. Er komt een verplichte verhuurdersvergunning en bij misstanden volgen boetes tot 100.000 euro.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["huisjesmelkers", "verhuurdersvergunning", "boetes", "100.000 euro"]
+    },
+    {
+      "text": "Gemeentelijke energiecooperatie oprichten die goedkope groene stroom levert aan Rotterdammers.",
+      "originalText": "De SP wil een gemeentelijke energiecooperatie oprichten die goedkope groene stroom levert aan Rotterdammers. Energie is een basisbehoefte en mag geen winstobject zijn.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["energiecooperatie", "gemeentelijk", "groene stroom", "goedkoop"]
+    },
+    {
+      "text": "Minimumloon van 16 euro per uur voor alle werknemers van gemeentelijke aanbestedingen.",
+      "originalText": "De SP wil een minimumloon van 16 euro per uur voor alle werknemers van bedrijven die gemeentelijke aanbestedingen uitvoeren. Wie voor de gemeente werkt, verdient een fatsoenlijk loon.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["minimumloon", "16 euro", "aanbestedingen", "fatsoenlijk loon"]
+    },
+    {
+      "text": "Geen marktwerking in de jeugdzorg: de gemeente neemt de jeugdzorg volledig in eigen hand.",
+      "originalText": "De SP wil geen marktwerking in de jeugdzorg. De gemeente neemt de jeugdzorg volledig in eigen hand, zodat kwaliteit en kinderen centraal staan in plaats van winst.",
+      "theme": "jeugd",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["jeugdzorg", "marktwerking", "gemeente", "eigen hand"]
+    },
+    {
+      "text": "De Kop van Zuid en Wilhelminapier: meer betaalbare woningen in plaats van luxe appartementen.",
+      "originalText": "De SP wil op de Kop van Zuid en Wilhelminapier meer betaalbare woningen in plaats van luxe appartementen. Deze gebieden mogen geen enclave worden voor de rijken.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["Kop van Zuid", "Wilhelminapier", "betaalbare woningen", "luxe"]
+    },
+    {
+      "text": "Referenda mogelijk maken over grote gemeentelijke besluiten met een drempel van 10.000 handtekeningen.",
+      "originalText": "De SP wil referenda mogelijk maken over grote gemeentelijke besluiten. Bij 10.000 handtekeningen moet de gemeente een bindend referendum organiseren.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["referenda", "10.000 handtekeningen", "bindend", "gemeentelijke besluiten"]
+    },
+    {
+      "text": "Alle schoonmakers, beveiligers en cateringmedewerkers van de gemeente in vaste dienst nemen.",
+      "originalText": "De SP wil dat alle schoonmakers, beveiligers en cateringmedewerkers die voor de gemeente werken in vaste dienst komen. Geen flexcontracten meer voor essentieel werk.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["schoonmakers", "beveiligers", "vaste dienst", "flexcontracten"]
+    },
+    {
+      "text": "Culturele instellingen met een publieke functie beschermen tegen huurverhogingen door de gemeente.",
+      "originalText": "De SP wil culturele instellingen met een publieke functie beschermen tegen huurverhogingen. De gemeente bevriest de huren voor theaters, muziekpodia en kunstenaarswerkplaatsen.",
+      "theme": "cultuur",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["culturele instellingen", "huurbevriezing", "theaters", "kunstenaars"]
+    },
+    {
+      "text": "Geen privatisering van de Rotterdamse afvalverwerking: Roteb blijft gemeentelijk.",
+      "originalText": "De SP wil geen privatisering van de Rotterdamse afvalverwerking. Roteb blijft in gemeentelijke handen. Publieke diensten horen bij de gemeente.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["privatisering", "afvalverwerking", "Roteb", "gemeentelijk"]
+    },
+    {
+      "text": "Speeltuinen in elke wijk renoveren en uitbreiden met natuurlijke speelelementen.",
+      "originalText": "De SP wil speeltuinen in elke wijk renoveren en uitbreiden met natuurlijke speelelementen. Kinderen hebben recht op goede speelplekken in hun eigen buurt.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["speeltuinen", "renoveren", "natuurlijke speelelementen", "wijken"]
+    }
+  ]
+}

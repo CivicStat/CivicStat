@@ -1,0 +1,133 @@
+{
+  "party": "UtrechtNu!",
+  "partySlug": "utrechtnu",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma UtrechtNu! 2026",
+  "electionYear": 2026,
+  "sourceFile": "utrechtnu_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "De gemeentelijke bureaucratie halveren door digitalisering en vereenvoudiging van processen.",
+      "originalText": "UtrechtNu! wil de gemeentelijke bureaucratie halveren. Door digitalisering en vereenvoudiging van processen worden vergunningen sneller verleend en diensten verbeterd.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["bureaucratie", "halveren", "digitalisering"]
+    },
+    {
+      "text": "Geen windmolens plaatsen binnen de gemeentegrenzen van Utrecht.",
+      "originalText": "UtrechtNu! verzet zich tegen het plaatsen van windmolens binnen de gemeentegrenzen van Utrecht. Windmolens veroorzaken overlast en zijn in een dichtbebouwde stad onwenselijk.",
+      "theme": "groen-klimaat",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["windmolens", "geen", "gemeentegrenzen"]
+    },
+    {
+      "text": "De parkeertarieven in de binnenstad verlagen met 30%.",
+      "originalText": "UtrechtNu! wil de parkeertarieven in de binnenstad verlagen met 30%. De hoge parkeertarieven jagen bezoekers weg en schaden de lokale economie.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["parkeertarieven", "30%", "verlagen"]
+    },
+    {
+      "text": "Een referendum organiseren over de verdere uitbreiding van de autovrije binnenstad.",
+      "originalText": "UtrechtNu! wil dat de inwoners via een referendum beslissen over de verdere uitbreiding van de autovrije binnenstad. Dit besluit is te ingrijpend om zonder draagvlak te nemen.",
+      "theme": "bestuur-democratie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["referendum", "autovrije binnenstad"]
+    },
+    {
+      "text": "Extra politie en BOA's inzetten tegen drugsoverlast in Overvecht en het stationsgebied.",
+      "originalText": "UtrechtNu! wil extra politie en BOA's inzetten tegen drugsoverlast in Overvecht en het stationsgebied. Drugsoverlast is een van de grootste ergernissen van bewoners.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["drugsoverlast", "politie", "BOA's", "Overvecht"]
+    },
+    {
+      "text": "De hondenbelasting en toeristenbelasting afschaffen.",
+      "originalText": "UtrechtNu! wil zowel de hondenbelasting als de toeristenbelasting afschaffen. Minder belastingen betekent meer vrijheid voor inwoners en meer aantrekkingskracht voor bezoekers.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["hondenbelasting", "toeristenbelasting", "afschaffen"]
+    },
+    {
+      "text": "De woningbouw versnellen door de welstandscommissie af te schaffen.",
+      "originalText": "UtrechtNu! wil de welstandscommissie afschaffen om de woningbouw te versnellen. De commissie vertraagt bouwprojecten zonder meerwaarde.",
+      "theme": "wonen",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["welstandscommissie", "afschaffen", "woningbouw"]
+    },
+    {
+      "text": "Meer koopwoningen bouwen voor middeninkomens in alle Utrechtse wijken.",
+      "originalText": "UtrechtNu! wil meer koopwoningen bouwen voor middeninkomens in alle Utrechtse wijken. De focus op sociale huur gaat ten koste van de middenklasse.",
+      "theme": "wonen",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["koopwoningen", "middeninkomens", "alle wijken"]
+    },
+    {
+      "text": "Het aantal ambtenaren op het stadhuis met 10% verminderen.",
+      "originalText": "UtrechtNu! wil het aantal ambtenaren op het stadhuis met 10% verminderen. De besparing wordt teruggegeven aan de inwoners via lagere lokale lasten.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["ambtenaren", "10%", "verminderen"]
+    },
+    {
+      "text": "Ondersteuning voor de Utrechtse horeca met een verlaging van de precariobelasting.",
+      "originalText": "UtrechtNu! wil de precariobelasting voor terrassen verlagen met 50%. De horeca is een belangrijke werkgever en aantrekkingskracht voor de stad.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["precariobelasting", "horeca", "50%", "verlagen"]
+    },
+    {
+      "text": "Een straatverbod invoeren voor veroordeelde overlastplegers in wijken waar zij actief zijn.",
+      "originalText": "UtrechtNu! wil een straatverbod invoeren voor veroordeelde overlastplegers. Bewoners hebben recht op een veilige en leefbare buurt.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["straatverbod", "overlastplegers"]
+    },
+    {
+      "text": "De gemeentelijke subsidies doorlichten en ineffectieve subsidies stopzetten.",
+      "originalText": "UtrechtNu! wil alle gemeentelijke subsidies doorlichten en ineffectieve subsidies stopzetten. Belastinggeld moet effectief worden besteed.",
+      "theme": "financien",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["subsidies", "doorlichten", "stopzetten"]
+    },
+    {
+      "text": "De openingstijden van winkels volledig vrijgeven.",
+      "originalText": "UtrechtNu! wil de openingstijden van winkels volledig vrijgeven. Ondernemers moeten zelf bepalen wanneer zij open zijn.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["openingstijden", "vrijgeven", "winkels"]
+    },
+    {
+      "text": "Meer inzet op preventie van radicalisering onder jongeren.",
+      "originalText": "UtrechtNu! wil meer investeren in preventie van radicalisering onder jongeren in wijken zoals Kanaleneiland en Overvecht. Vroegtijdige signalering voorkomt problemen.",
+      "theme": "veiligheid",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["radicalisering", "preventie", "jongeren"]
+    },
+    {
+      "text": "De bereikbaarheid van Utrecht verbeteren door de noordelijke rondweg te verbreden.",
+      "originalText": "UtrechtNu! wil de bereikbaarheid van Utrecht verbeteren door de noordelijke rondweg (N230) te verbreden. Files kosten de Utrechtse economie miljoenen per jaar.",
+      "theme": "verkeer-vervoer",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["noordelijke rondweg", "N230", "verbreden"]
+    }
+  ]
+}

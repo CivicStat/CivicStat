@@ -1,0 +1,133 @@
+{
+  "party": "S&S",
+  "partySlug": "ss",
+  "city": "utrecht",
+  "parliamentSlug": "utrecht",
+  "program": "Verkiezingsprogramma Stadsbelang Utrecht 2026",
+  "electionYear": 2026,
+  "sourceFile": "ss_utrecht_2026.pdf",
+  "extractedAt": "2026-03-11T12:00:00.000Z",
+  "extractedBy": "llm:claude-opus-4",
+  "promises": [
+    {
+      "text": "De OZB-belasting bevriezen voor de komende vier jaar.",
+      "originalText": "Stadsbelang Utrecht wil de OZB-belasting bevriezen voor de komende vier jaar. Inwoners en ondernemers mogen niet steeds meer belasting betalen voor minder dienstverlening.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["OZB", "bevriezen", "vier jaar"]
+    },
+    {
+      "text": "Voldoende parkeerplaatsen behouden in de binnenstad voor bewoners en bezoekers.",
+      "originalText": "Stadsbelang Utrecht wil dat er voldoende parkeerplaatsen behouden blijven in de binnenstad. De auto mag niet worden weggejaagd ten koste van bewoners en winkelend publiek.",
+      "theme": "verkeer-vervoer",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["parkeerplaatsen", "binnenstad", "bewoners"]
+    },
+    {
+      "text": "De handhaving in alle Utrechtse wijken verdubbelen.",
+      "originalText": "Stadsbelang Utrecht wil het aantal handhavers in alle wijken verdubbelen. Meer toezicht betekent meer veiligheid en een schonere openbare ruimte.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["handhaving", "verdubbelen", "alle wijken"]
+    },
+    {
+      "text": "Geen verdere uitbreiding van de milieuzone in Utrecht.",
+      "originalText": "Stadsbelang Utrecht verzet zich tegen verdere uitbreiding van de milieuzone. De huidige regels treffen vooral inwoners met een lager inkomen die afhankelijk zijn van hun auto.",
+      "theme": "verkeer-vervoer",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["milieuzone", "geen uitbreiding"]
+    },
+    {
+      "text": "Leegstaande winkelpanden omzetten naar woningen met versnelde vergunningprocedures.",
+      "originalText": "Stadsbelang Utrecht wil leegstaande winkelpanden snel kunnen omzetten naar woningen. Vergunningprocedures worden versneld om dit mogelijk te maken.",
+      "theme": "wonen",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["leegstand", "winkelpanden", "woningen", "vergunning"]
+    },
+    {
+      "text": "De weekmarkten in Utrecht uitbreiden en beschermen tegen verplaatsing.",
+      "originalText": "Stadsbelang Utrecht wil de weekmarkten in Utrecht uitbreiden en beschermen. Markten zijn belangrijk voor de lokale economie en het sociale leven.",
+      "theme": "economie",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["weekmarkten", "uitbreiden", "beschermen"]
+    },
+    {
+      "text": "Camera's plaatsen op alle bekende overlastlocaties in Utrecht.",
+      "originalText": "Stadsbelang Utrecht wil camera's plaatsen op alle bekende overlastlocaties in de stad. Cameratoezicht is een effectief middel tegen criminaliteit en overlast.",
+      "theme": "veiligheid",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["camera's", "overlastlocaties", "cameratoezicht"]
+    },
+    {
+      "text": "Het Utrechtse MKB ondersteunen met een verlaging van de reclamebelasting met 25%.",
+      "originalText": "Stadsbelang Utrecht wil de reclamebelasting voor het Utrechtse MKB verlagen met 25%. Ondernemers hebben het zwaar genoeg en verdienen lastenverlichting.",
+      "theme": "economie",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["reclamebelasting", "25%", "MKB", "verlaging"]
+    },
+    {
+      "text": "Buurtpreventie-initiatieven financieren met 50.000 euro per wijk per jaar.",
+      "originalText": "Stadsbelang Utrecht wil buurtpreventie-initiatieven financieren met 50.000 euro per wijk per jaar. Bewoners kennen hun buurt het best en kunnen bijdragen aan veiligheid.",
+      "theme": "veiligheid",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["buurtpreventie", "50.000 euro", "per wijk"]
+    },
+    {
+      "text": "De wachtlijsten voor sportverenigingen in Leidsche Rijn aanpakken met nieuwe sportaccommodaties.",
+      "originalText": "Stadsbelang Utrecht wil de wachtlijsten bij sportverenigingen in Leidsche Rijn aanpakken door nieuwe sportaccommodaties te bouwen. De snelle groei van de wijk vraagt om meer sportfaciliteiten.",
+      "theme": "jeugd",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["sportverenigingen", "Leidsche Rijn", "wachtlijsten", "sportaccommodaties"]
+    },
+    {
+      "text": "Een gratis parkeervergunning voor mantelzorgers in heel Utrecht.",
+      "originalText": "Stadsbelang Utrecht wil een gratis parkeervergunning voor mantelzorgers. Mantelzorgers moeten niet worden belast met parkeerkosten als zij voor naasten zorgen.",
+      "theme": "sociaal-domein",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["parkeervergunning", "gratis", "mantelzorgers"]
+    },
+    {
+      "text": "De woningbouw in de Merwedekanaalzone versnellen met minder bureaucratie.",
+      "originalText": "Stadsbelang Utrecht wil de woningbouw in de Merwedekanaalzone versnellen door onnodige bureaucratie en regelgeving te schrappen. Bouwen moet sneller kunnen.",
+      "theme": "wonen",
+      "specificity": "LOW",
+      "verifiable": false,
+      "keywords": ["Merwedekanaalzone", "versnellen", "bureaucratie"]
+    },
+    {
+      "text": "Overlast door fietsen in de binnenstad aanpakken met fietsparkeerverboden en boetes.",
+      "originalText": "Stadsbelang Utrecht wil de overlast door fout geparkeerde fietsen in de binnenstad aanpakken met duidelijke fietsparkeerverboden en boetes voor overtreders.",
+      "theme": "openbare-ruimte",
+      "specificity": "MEDIUM",
+      "verifiable": true,
+      "keywords": ["fietsen", "overlast", "parkeerverbod", "boetes"]
+    },
+    {
+      "text": "De hondenbelasting afschaffen in Utrecht.",
+      "originalText": "Stadsbelang Utrecht wil de hondenbelasting in Utrecht afschaffen. Deze belasting is oneerlijk en draagt nauwelijks bij aan de gemeentebegroting.",
+      "theme": "financien",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["hondenbelasting", "afschaffen"]
+    },
+    {
+      "text": "Het onderhoud van straten en stoepen verbeteren met een extra budget van 5 miljoen euro per jaar.",
+      "originalText": "Stadsbelang Utrecht wil het onderhoud van straten en stoepen verbeteren met een extra jaarlijks budget van 5 miljoen euro. Slecht onderhoud leidt tot valpartijen en schade.",
+      "theme": "openbare-ruimte",
+      "specificity": "HIGH",
+      "verifiable": true,
+      "keywords": ["onderhoud", "straten", "stoepen", "5 miljoen"]
+    }
+  ]
+}
