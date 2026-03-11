@@ -1,0 +1,16 @@
+2026-03-10T22:42:30+01:00 === Agent loop starting ===
+2026-03-10T22:42:30+01:00 Picked task: P2.4.2 Set up pgvector embeddings for passage similarity search
+2026-03-10T22:42:30+01:00 Invoking Claude Code...
+The background task output is no longer available. No action needed — that was just a search for the pnpm binary location, which I resolved during the typecheck run (it's at `~/.nvm/versions/node/v20.20.0/bin/pnpm`, invoked via `node ~/.nvm/versions/node/v20.20.0/lib/node_modules/pnpm/bin/pnpm.cjs`).
+
+The TASKS.md update reflects significant progress — Sprint 7 is complete with 46 scorecards recomputed. Sprint 8 is planned with these open tasks:
+
+- **S8.1.1** Feedback widget on scorecards
+- **S8.1.2** API documentation / OpenAPI spec
+- **S8.2.1** Verify GitHub Actions ETL cron
+- **S8.2.2** Add scorecard recompute to automated sync
+- **S8.3.1** iBabs IP whitelisting (future/external)
+- **S8.4.1** Fix civicstat.nl DNS (requires manual GoDaddy access)
+
+Would you like me to start on any of these Sprint 8 tasks?
+2026-03-11T09:20:34+01:00 Committing changes...

@@ -61,8 +61,8 @@ _Source: PROMPT-quick-fixes-transparency.md_
 _Source: handover-2026-02-11.md_
 
 - [x] P2.4.1 Complete semantic matching for all TK2023 parties (CIV-15)
-- [ ] P2.4.2 Set up pgvector embeddings for passage similarity search
-- [ ] P2.4.3 Review and tune semantic match confidence thresholds
+- [x] P2.4.2 Set up pgvector embeddings for passage similarity search (CIV-25)
+- [x] P2.4.3 Review and tune semantic match confidence thresholds (CIV-26)
 
 ### P2.5 — Regeerakkoord Scoring
 _Source: recent commits, ETL scripts_
@@ -76,26 +76,71 @@ _Source: recent commits, ETL scripts_
 ### P3.1 — Municipal Expansion
 _Source: docs/architecture-municipal-expansion.md, docs/spike-municipal-data-sources.md_
 
-- [ ] P3.1.1 Complete Amsterdam NotuBiz ingest (motions + votes)
-- [ ] P3.1.2 Complete Den Haag NotuBiz ingest
-- [ ] P3.1.3 Seed 2026 municipal promises for Amsterdam + Den Haag
-- [ ] P3.1.4 Run municipal semantic matching
+- [x] P3.1.1 Complete Amsterdam NotuBiz ingest (motions + votes) (CIV-21)
+- [x] P3.1.2 Complete Den Haag NotuBiz ingest (CIV-27)
+- [x] P3.1.3 Seed 2026 municipal promises for Amsterdam + Den Haag (CIV-32)
+- [x] P3.1.4 Run municipal semantic matching (CIV-33 — Amsterdam: 28,724 matches, Den Haag: 26,645 matches)
 - [ ] P3.1.5 Request iBabs IP whitelisting for Rotterdam + Utrecht (future)
 
 ### P3.2 — Coalition Dynamics
 _Source: recent commits_
 
-- [ ] P3.2.1 MP-level deviation detection (rebels within party)
+- [x] P3.2.1 MP-level deviation detection (rebels within party) (CIV-28)
 - [ ] P3.2.2 Feedback widget on scorecards (citizen input)
-- [ ] P3.2.3 Historical coalition comparison dashboard
+- [x] P3.2.3 Historical coalition comparison dashboard (CIV-38)
 
 ### P3.3 — 2026 Campaign
 _Source: recent commits, campaign module_
 
-- [ ] P3.3.1 Complete election-overview endpoint data population
-- [ ] P3.3.2 Campaign landing pages per parliament
-- [ ] P3.3.3 Party comparison tool for 2026 elections
+- [x] P3.3.1 Complete election-overview endpoint data population (CIV-20)
+- [x] P3.3.2 Campaign landing pages per parliament (CIV-29)
+- [x] P3.3.3 Party comparison tool for 2026 elections (CIV-34)
 
 ---
 
-_Last updated: 2026-03-10 by CEO agent (Sprint 4 in progress — CIV-18/19 done, CIV-20/21 pending)_
+## Sprint 6 — Done
+
+### S6.1 — Compute Municipal Scorecards
+- [x] S6.1.1 Run compute-scorecards for Amsterdam parliament (CIV-36)
+- [x] S6.1.2 Run compute-scorecards for Den Haag parliament (CIV-36)
+- [x] S6.1.3 Deploy updated API with municipal scorecard data (CIV-37)
+
+### S6.2 — Coalition Dynamics Enhancements
+- [x] S6.2.1 Historical coalition comparison dashboard (CIV-38)
+
+### S6.3 — Data Quality
+- [x] S6.3.1 Incremental TK sync + recompute national scorecards (CIV-37)
+
+---
+
+## Sprint 7 — Done
+
+### S7.1 — Data Freshness & Quality
+- [x] S7.1.1 Run full incremental sync (moties + stemmingen + sponsors) (CIV-40)
+- [x] S7.1.2 Run incremental semantic matching — all TK motions processed (CIV-40)
+- [x] S7.1.3 Recompute all 46 scorecards (national + municipal + regeerakkoord) (CIV-40)
+
+### S7.2 — Frontend Integration
+- [x] S7.2.1 Update web app: municipal scorecards, coalition comparison, party comparison (CIV-41)
+
+---
+
+## Sprint 8 — Planned
+
+### S8.1 — Platform Polish
+- [ ] S8.1.1 Feedback widget on scorecards — citizen input (P3.2.2)
+- [ ] S8.1.2 API documentation / OpenAPI spec generation
+
+### S8.2 — Data Freshness Automation
+- [ ] S8.2.1 Verify GitHub Actions ETL cron is running on schedule
+- [ ] S8.2.2 Add scorecard recompute to automated sync pipeline
+
+### S8.3 — Municipal Expansion
+- [ ] S8.3.1 Request iBabs IP whitelisting for Rotterdam + Utrecht (P3.1.5)
+
+### S8.4 — DNS & Production
+- [ ] S8.4.1 Fix civicstat.nl DNS (P0.3 — requires manual GoDaddy access)
+
+---
+
+_Last updated: 2026-03-11 by CEO agent (Sprint 7 complete — all motions matched, 46 scorecards recomputed)_
