@@ -1,0 +1,27 @@
+{
+  "processedPromiseIds": [
+    "005933fc-2cfd-41fd-90a6-01059499712a",
+    "0080ba99-d1d9-4377-9b24-ace1d56cd85b",
+    "0084f91a-26b9-476a-b6d6-69a9d5183abd",
+    "02f66b82-2b4e-47e9-a3c7-9b1586d63185",
+    "03f8c13e-1be8-48c8-853f-b6903ce627e5",
+    "049e5d91-707a-4acc-8a67-c7622c27cb74",
+    "077dd3d1-8a12-4781-89de-dc20be02cd5f",
+    "0909198f-5186-413d-8c92-fc23bc83ae55",
+    "0b5766c3-1801-4623-b457-36f96dfd6533",
+    "0e1c9f48-1c90-4145-9f2f-f1fbdd112cb2"
+  ],
+  "totalProcessed": 0,
+  "totalMatches": 0,
+  "totalSkipped": 10,
+  "matchBreakdown": {
+    "explicit": 0,
+    "implicit": 0,
+    "contradicts": 0
+  },
+  "totalApiCalls": 0,
+  "totalCandidates": 0,
+  "startedAt": "2026-03-11T13:29:34.233Z",
+  "lastUpdatedAt": "2026-03-11T13:29:34.548Z",
+  "errors": []
+}

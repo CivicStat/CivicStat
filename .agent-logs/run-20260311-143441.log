@@ -1,0 +1,15 @@
+2026-03-11T14:34:41+01:00 === Agent loop starting ===
+2026-03-11T14:34:41+01:00 Picked task: S10.4 Add scorecard recompute to automated sync pipeline
+2026-03-11T14:34:41+01:00 Invoking Claude Code...
+S10.4 is complete. Here's what was changed:
+
+**`packages/etl/src/index.ts`**
+1. **`sync-municipal` handler**: Added `await computeScorecards({ parliament: smSlug })` after `runNotubizSync()` — so Amsterdam/Den Haag manual syncs now auto-recompute scorecards.
+2. **`sync-ori` handler**: Added `await computeScorecards({ parliament: oriSlug })` after `runORISync()` — so Rotterdam/Utrecht manual syncs now auto-recompute scorecards.
+3. **`sync` command** (the automated pipeline): After national scorecard recompute, it now also syncs all 4 municipal parliaments (7-day lookback) and recomputes their scorecards with error isolation per parliament.
+
+**`.github/workflows/etl-sync.yml`**
+- Increased `timeout-minutes` from 90 → 120 to accommodate the 4 additional municipal syncs per hourly run.
+
+The automated hourly cron now covers the full pipeline: national TK sync + incremental AI matching + national scorecards + Amsterdam + Den Haag + Rotterdam + Utrecht scorecards.
+2026-03-11T14:38:58+01:00 Committing changes...

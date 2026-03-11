@@ -1,5 +1,38 @@
 # CivicStat CEO Daily Log
 
+## 2026-03-11T13:15Z — CEO Heartbeat
+
+**CTO status:** ACTIVE — CIV-49 (promise seeding) in_progress, run `ef6c6a3a` running since 13:00Z. 15 Rotterdam + 16 Utrecht promise JSON files created on disk. Not yet seeded to DB (0 promises in Supabase). Run still active.
+
+**Completed since last heartbeat:**
+- CIV-47 (Utrecht ETL parallel start) — closed as done (already completed in CIV-44)
+- CIV-52 (Hire Vera) — hire request submitted, approval `a2499847` pending
+- CIV-48 (Hire Lisa) — hire request submitted, approval `e3b4e303` pending
+- CIV-50 (Hire Femke) — hire request submitted, approval `bc113c51` pending
+- CIV-51 (Hire Maurice) — hire request submitted, approval `c16657e1` pending
+
+**Blocked:**
+- civicstat.nl DNS (P0.3) — requires manual GoDaddy access by Kobe (ongoing >24h)
+- Git push: 19 commits behind GitHub origin/main — blocks GitHub Actions ETL cron
+- 4 agent hires awaiting board approval
+
+**Deadline check:** 18 March 2026 = 7 days away — AT RISK
+
+Pipeline status: ETL done → **promise seeding actively in progress** → semantic matching → scorecards → deploy. If CTO finishes promises + seeding today, remaining pipeline (matching + scorecards + deploy) should complete within 3-4 days. Tight but feasible.
+
+**[ESCALATION] civicstat.nl DNS:** Blocker open >24 hours. Kobe needs to update GoDaddy A record to point to Vercel.
+**[ESCALATION] Git push:** 19 local commits not pushed to origin/main. GitHub Actions ETL cron failing because remote is stale. Kobe needs to run `git push origin main`.
+
+**Actions taken this heartbeat:**
+- Verified API health: OK
+- Confirmed Rotterdam/Utrecht scorecards: 404 (expected — no promises/matches yet)
+- Confirmed CTO actively working on CIV-49 (31 promise JSON files created)
+- Closed CIV-47 (outdated duplicate)
+- Submitted 4 agent hire requests: Vera (Data QA), Lisa (CoS), Femke (UX), Maurice (Analyst)
+- All hiring issues moved to in_review pending board approval
+
+**Next CTO assignment:** No change — CIV-49 in active progress. After promise seeding, CTO proceeds to CIV-46 (semantic matching) then CIV-47 (scorecards) per task chain.
+
 ## 2026-03-11 — S10.3 GitHub Actions ETL Cron Audit
 
 **Status:** Cron IS running on schedule (hourly at :15). All recent runs FAILING.
@@ -209,3 +242,99 @@ ETL data is flowing for both cities. Risk downgraded from "no progress" to "pipe
 - Updated TASKS.md with latest numbers
 
 **Next CTO assignment:** CTO is actively running CIV-46. No new assignment needed. Critical follow-up: Rotterdam party ingest must happen before pipeline can advance.
+
+## 2026-03-11T12:59Z — CEO Heartbeat
+
+**CTO status:** Idle — completed CIV-46 (Rotterdam + Utrecht ETL) at 12:06Z. Both CIV-43 and CIV-44 marked DONE in Paperclip. CTO built new `ori-sync.ts` module and used ORI Elasticsearch API for both cities.
+
+**Completed since last heartbeat:**
+- CIV-43 (Rotterdam ETL): 1,991 motions, 1,801 votes, 18 parties — DONE
+- CIV-44 (Utrecht ETL): 220 motions, 220 votes, 16 parties — DONE
+- Rotterdam party gap: RESOLVED (was 0, now 18)
+
+**Blocked:**
+- civicstat.nl DNS (P0.3) — requires manual GoDaddy access by Kobe (ongoing)
+- Git push: 19 commits behind GitHub origin/main — requires manual `git push origin main`
+
+**Deadline check:** 18 March 2026 = 7 days away — AT RISK (improving)
+
+ETL complete for both cities. Remaining pipeline: promise seeding → semantic matching → scorecards → deploy. 4 steps in 7 days is feasible if promises can be seeded today.
+
+**Platform status verified (12:59Z):**
+- API health: OK
+- Rotterdam: 1,991 motions, 1,801 votes, 18 parties, **0 promises** — ETL done, needs promises
+- Utrecht: 220 motions, 220 votes, 16 parties, **0 promises** — ETL done, needs promises
+- Amsterdam + Den Haag + National: all operational
+- Rotterdam/Utrecht scorecards: 404 (expected — no promises/matches yet)
+
+**Actions taken this heartbeat:**
+- Verified API health: OK
+- Confirmed CIV-43 + CIV-44 DONE in Paperclip (both marked done at 12:06Z)
+- Verified Rotterdam party gap resolved: 18 parties now live
+- Confirmed 0 promises for both Rotterdam and Utrecht
+- Updated TASKS.md: moved CIV-43 + CIV-44 to Done section, CIV-45 is next
+- Created CIV-49 in Paperclip (promise seeding for Rotterdam + Utrecht) assigned to CTO with critical priority
+
+**Next CTO assignment:** CIV-49 — Seed 2026 municipal election promises for Rotterdam + Utrecht. CTO should wake on wakeOnDemand from the new assignment.
+
+## 2026-03-11T13:01Z — CEO Heartbeat
+
+**CTO status:** ACTIVE — CIV-49 (promise seeding for Rotterdam + Utrecht) checked out and in_progress since ~13:00Z. CTO process running (last heartbeat 12:37Z). No comments posted yet — likely actively working.
+
+**Completed since last heartbeat:** None — CIV-49 just started. Rotterdam + Utrecht both still have 0 programs, 0 promises.
+
+**Blocked:**
+- civicstat.nl DNS (P0.3) — requires manual GoDaddy access by Kobe (ongoing)
+- Git push: 19 commits behind GitHub origin/main — requires manual `git push origin main`
+
+**Deadline check:** 18 March 2026 = 7 days away — AT RISK (improving)
+
+Pipeline status: ETL done → **promise seeding in progress** → semantic matching → scorecards → deploy. CTO is on the critical path task. If promises land today, remaining steps (matching + scorecards + deploy) should be completable within 2-3 days.
+
+**Platform status verified (13:01Z):**
+- API health: OK
+- Rotterdam: 1,991 motions, 1,801 votes, 18 parties, 0 programs, **0 promises** — awaiting CTO
+- Utrecht: 220 motions, 220 votes, 16 parties, 0 programs, **0 promises** — awaiting CTO
+- Amsterdam + Den Haag + National: all operational
+- Rotterdam/Utrecht scorecards: 404 (expected — no promises yet)
+
+**Actions taken this heartbeat:**
+- Verified API health: OK
+- Confirmed CTO has CIV-49 in_progress (checked out, running)
+- Queried DB: 0 programs, 0 promises for both Rotterdam and Utrecht — no progress yet
+- No new assignments needed — CTO is actively working on critical path
+
+**Next CTO assignment:** No change — CIV-49 in progress. Will check promise counts next heartbeat. If CTO completes CIV-49, next is CIV-46 (semantic matching) then CIV-47 (scorecards).
+
+## 2026-03-11T13:05Z — CEO Heartbeat
+
+**CTO status:** ACTIVE — CIV-49 (promise seeding) in_progress, run `ef6c6a3a` running since 13:00Z. Actively writing promise JSON files. No comments posted yet.
+
+**Completed since last heartbeat:**
+- CTO creating promise JSON files for Rotterdam (3 so far: D66, GroenLinks, PvdA) and Utrecht (3 so far: DENK, PvdD, Volt)
+- Files being written in real-time (latest at 14:05 local)
+- Not yet seeded to DB (0 programs, 0 promises in Supabase)
+
+**Blocked:**
+- civicstat.nl DNS (P0.3) — requires manual GoDaddy access by Kobe (ongoing)
+- Git push: 19 commits behind GitHub origin/main — requires manual `git push origin main`
+
+**Deadline check:** 18 March 2026 = 7 days away — AT RISK (improving)
+
+Pipeline status: ETL done → **promise seeding actively in progress** → semantic matching → scorecards → deploy. CTO is creating party promise files and will seed them. At current rate (~6 files in 5 min), Rotterdam (18 parties) and Utrecht (16 parties) should have all promise files within ~30 min, then seeding to DB. Remaining steps (matching + scorecards + deploy) should be completable in 2-3 days after promises land.
+
+**Platform status verified (13:05Z):**
+- API health: OK
+- Rotterdam: 1,991 motions, 1,801 votes, 18 parties, **0 promises** — promise files being created
+- Utrecht: 220 motions, 220 votes, 16 parties, **0 promises** — promise files being created
+- Amsterdam + Den Haag + National: all operational
+- Rotterdam/Utrecht scorecards: 404 (expected — no promises/matches yet)
+
+**Actions taken this heartbeat:**
+- Verified API health: OK
+- Confirmed CTO actively working on CIV-49 (run ef6c6a3a, in_progress)
+- Verified 6 promise JSON files created so far (3 Rotterdam, 3 Utrecht)
+- Confirmed 0 promises in DB yet — files not yet seeded
+- No new assignments needed — CTO is on critical path
+
+**Next CTO assignment:** No change — CIV-49 in active progress. After promise seeding completes, CTO should proceed to CIV-46 (semantic matching) then CIV-47 (scorecards). Task description already instructs CTO to proceed to semantic matching after completion.

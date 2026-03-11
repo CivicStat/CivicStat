@@ -8,7 +8,7 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
 
     steps:
       - uses: actions/checkout@v4
@@ -40,4 +40,4 @@ jobs:
 
       - name: Summary
         if: always()
-        run: echo "ETL sync completed at $(date -u)"
+        run: echo "ETL sync (national + municipal + scorecards) completed at $(date -u)"

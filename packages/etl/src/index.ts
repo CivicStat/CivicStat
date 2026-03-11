@@ -278,9 +278,33 @@ async function main() {
           } else {
             console.log('\n⏭️  Skipping incremental matching (no AI API key configured)');
           }
-          // Recompute scorecards to reflect new matches + votes
-          console.log('\n📊 Recomputing scorecards...');
+          // Recompute national scorecards to reflect new matches + votes
+          console.log('\n📊 Recomputing national scorecards...');
           await computeScorecards();
+
+          // Sync municipal parliaments and recompute their scorecards
+          const municipalFrom = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+          for (const notubizSlug of ['amsterdam', 'den-haag']) {
+            try {
+              console.log(`\n🏛️  Syncing municipal data: ${notubizSlug}...`);
+              await runNotubizSync({ parliament: notubizSlug, from: municipalFrom });
+              console.log(`📊 Recomputing scorecards for ${notubizSlug}...`);
+              await computeScorecards({ parliament: notubizSlug });
+            } catch (err) {
+              console.error(`  ⚠️  Municipal sync failed for ${notubizSlug}:`, err instanceof Error ? err.message : err);
+            }
+          }
+          for (const oriSlug of ['rotterdam', 'utrecht']) {
+            try {
+              console.log(`\n🏛️  Syncing ORI data: ${oriSlug}...`);
+              await runORISync({ parliament: oriSlug, from: municipalFrom });
+              console.log(`📊 Recomputing scorecards for ${oriSlug}...`);
+              await computeScorecards({ parliament: oriSlug });
+            } catch (err) {
+              console.error(`  ⚠️  ORI sync failed for ${oriSlug}:`, err instanceof Error ? err.message : err);
+            }
+          }
+
           console.log('\n✅ Incremental sync complete!');
         } finally {
           await shutdownLangfuse(); // Flush traces before exit
@@ -481,6 +505,8 @@ async function main() {
         const smFrom = args.find(a => a === '--from') ? args[args.indexOf('--from') + 1] : undefined;
         const smTo = args.find(a => a === '--to') ? args[args.indexOf('--to') + 1] : undefined;
         await runNotubizSync({ parliament: smSlug, from: smFrom, to: smTo });
+        console.log('\n📊 Recomputing scorecards...');
+        await computeScorecards({ parliament: smSlug });
         break;
       }
 
@@ -496,6 +522,8 @@ async function main() {
         const oriFrom = args.find(a => a === '--from') ? args[args.indexOf('--from') + 1] : undefined;
         const oriTo = args.find(a => a === '--to') ? args[args.indexOf('--to') + 1] : undefined;
         await runORISync({ parliament: oriSlug, from: oriFrom, to: oriTo });
+        console.log('\n📊 Recomputing scorecards...');
+        await computeScorecards({ parliament: oriSlug });
         break;
       }
 
