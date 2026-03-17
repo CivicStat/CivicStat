@@ -50,6 +50,9 @@ import { seedMunicipalVoteRecords } from './scripts/seed-municipal-vote-records.
 import { runNotubizSync } from './municipal/notubiz-sync.js';
 import { runORISync } from './municipal/ori-sync.js';
 import { runEmbedPassages } from './scripts/embed-passages.js';
+import { computePillar2Scores } from './scripts/compute-pillar2-scores.js';
+import { computePillar3Scores } from './scripts/compute-pillar3-scores.js';
+import { runEKSync } from './eerste-kamer/ek-sync.js';
 
 async function main() {
   const rawArgs = process.argv.slice(2);
@@ -305,6 +308,16 @@ async function main() {
             }
           }
 
+          // Sync Eerste Kamer
+          try {
+            console.log('\n🏛️  Syncing Eerste Kamer...');
+            await runEKSync();
+            console.log('📊 Recomputing scorecards for eerste-kamer...');
+            await computeScorecards({ parliament: 'eerste-kamer' });
+          } catch (err) {
+            console.error('  ⚠️  Eerste Kamer sync failed:', err instanceof Error ? err.message : err);
+          }
+
           console.log('\n✅ Incremental sync complete!');
         } finally {
           await shutdownLangfuse(); // Flush traces before exit
@@ -398,6 +411,19 @@ async function main() {
         const csYear = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
         const csParliament = args.find(a => a === '--parliament') ? args[args.indexOf('--parliament') + 1] : undefined;
         await computeScorecards({ party: csParty, year: csYear ? parseInt(csYear) : undefined, parliament: csParliament });
+        break;
+      }
+
+      case 'compute-pillar2-scores':
+      case 'pillar2': {
+        const p2Year = args.find(a => a === '--year') ? args[args.indexOf('--year') + 1] : undefined;
+        await computePillar2Scores({ year: p2Year ? parseInt(p2Year) : undefined });
+        break;
+      }
+
+      case 'compute-pillar3-scores':
+      case 'pillar3': {
+        await computePillar3Scores();
         break;
       }
 
@@ -524,6 +550,15 @@ async function main() {
         await runORISync({ parliament: oriSlug, from: oriFrom, to: oriTo });
         console.log('\n📊 Recomputing scorecards...');
         await computeScorecards({ parliament: oriSlug });
+        break;
+      }
+
+      case 'sync-ek':
+      case 'ek-sync':
+      case 'eerste-kamer': {
+        await runEKSync();
+        console.log('\n📊 Recomputing scorecards...');
+        await computeScorecards({ parliament: 'eerste-kamer' });
         break;
       }
 
