@@ -6,6 +6,7 @@
  */
 
 import { PrismaClient } from '@prisma/client';
+import type { VoteValue as VoteValueEnum } from '@prisma/client';
 import {
   scrapeFracties,
   scrapeAllMoties,
@@ -15,6 +16,8 @@ import {
   type EKMotieVote,
   type EKFractieVote,
 } from './ek-client.js';
+
+const VoteValue = { FOR: 'FOR', AGAINST: 'AGAINST', ABSTAIN: 'ABSTAIN', ABSENT: 'ABSENT' } as const satisfies Record<string, VoteValueEnum>;
 
 const prisma = new PrismaClient();
 
@@ -66,9 +69,10 @@ export async function runEKSync(params?: EKSyncParams): Promise<void> {
     await syncFractiegewijs(parliament.id);
 
     // Print summary
-    const [motionCount, voteCount, partyCount, mpCount] = await Promise.all([
+    const [motionCount, voteCount, voteRecordCount, partyCount, mpCount] = await Promise.all([
       prisma.motion.count({ where: { parliamentId: parliament.id } }),
       prisma.vote.count({ where: { parliamentId: parliament.id } }),
+      prisma.voteRecord.count({ where: { vote: { parliamentId: parliament.id } } }),
       prisma.party.count({ where: { parliamentId: parliament.id } }),
       prisma.mp.count({ where: { parliamentId: parliament.id } }),
     ]);
@@ -78,6 +82,7 @@ export async function runEKSync(params?: EKSyncParams): Promise<void> {
     console.log(`  Members: ${mpCount}`);
     console.log(`  Motions: ${motionCount}`);
     console.log(`  Votes: ${voteCount}`);
+    console.log(`  VoteRecords: ${voteRecordCount}`);
     console.log(`[EK-SYNC] Done.`);
   } finally {
     await prisma.$disconnect();
@@ -263,12 +268,15 @@ async function syncMoties(parliamentId: string) {
   const moties = await scrapeAllMoties();
   console.log(`[EK-SYNC] Found ${moties.length} moties with vote data`);
 
-  // Pre-cache parties
+  // Pre-cache parties and representative MPs
   const parties = await prisma.party.findMany({
     where: { parliamentId },
     select: { id: true, abbreviation: true, name: true },
   });
   const findPartyId = buildPartyLookup(parties);
+  const repMps = await getRepresentativeMps(parliamentId, parties);
+
+  let voteRecordsCreated = 0;
 
   for (const motie of moties) {
     const externalId = `ek-motie-${motie.dossierUrl}`;
@@ -299,7 +307,7 @@ async function syncMoties(parliamentId: string) {
     // Upsert vote
     if (motie.voteDate) {
       const voteExternalId = `ek-vote-${motie.dossierUrl}`;
-      await prisma.vote.upsert({
+      const vote = await prisma.vote.upsert({
         where: { tkId: voteExternalId },
         update: {
           result: motie.result === 'aangenomen' ? 'Aangenomen' : 'Verworpen',
@@ -324,9 +332,41 @@ async function syncMoties(parliamentId: string) {
         },
       });
 
+      // Create VoteRecords from partiesFor/partiesAgainst
+      for (const partyName of motie.partiesFor) {
+        const partyId = findPartyId(partyName);
+        const mpId = partyId ? repMps.get(partyId) : undefined;
+        if (partyId && mpId) {
+          try {
+            await prisma.voteRecord.upsert({
+              where: { voteId_mpId: { voteId: vote.id, mpId } },
+              update: { voteValue: VoteValue.FOR, partyIdSnapshot: partyId },
+              create: { voteId: vote.id, mpId, voteValue: VoteValue.FOR, partyIdSnapshot: partyId },
+            });
+            voteRecordsCreated++;
+          } catch { /* skip duplicates */ }
+        }
+      }
+      for (const partyName of motie.partiesAgainst) {
+        const partyId = findPartyId(partyName);
+        const mpId = partyId ? repMps.get(partyId) : undefined;
+        if (partyId && mpId) {
+          try {
+            await prisma.voteRecord.upsert({
+              where: { voteId_mpId: { voteId: vote.id, mpId } },
+              update: { voteValue: VoteValue.AGAINST, partyIdSnapshot: partyId },
+              create: { voteId: vote.id, mpId, voteValue: VoteValue.AGAINST, partyIdSnapshot: partyId },
+            });
+            voteRecordsCreated++;
+          } catch { /* skip duplicates */ }
+        }
+      }
+
       console.log(`  [EK-SYNC] Motie: ${motie.dossierNumber} — ${motie.result} (${motie.totalFor} voor, ${motie.totalAgainst} tegen)`);
     }
   }
+
+  console.log(`[EK-SYNC] Created ${voteRecordsCreated} VoteRecords from moties`);
 }
 
 // ── Fractiegewijs votes → aggregate into Vote + VoteRecord ──
@@ -341,12 +381,13 @@ async function syncFractiegewijs(parliamentId: string) {
     return;
   }
 
-  // Pre-cache parties
+  // Pre-cache parties and representative MPs
   const parties = await prisma.party.findMany({
     where: { parliamentId },
     select: { id: true, abbreviation: true, name: true },
   });
   const findPartyId = buildPartyLookup(parties);
+  const repMps = await getRepresentativeMps(parliamentId, parties);
 
   // Group votes by verslagUrl (same voting event)
   const votesByEvent = new Map<string, EKFractieVote[]>();
@@ -359,6 +400,8 @@ async function syncFractiegewijs(parliamentId: string) {
   console.log(`[EK-SYNC] Grouped into ${votesByEvent.size} voting events`);
 
   let createdVotes = 0;
+  let voteRecordsCreated = 0;
+
   for (const [key, eventVotes] of votesByEvent) {
     const first = eventVotes[0];
     const voteExternalId = `ek-fvote-${key}`;
@@ -366,17 +409,12 @@ async function syncFractiegewijs(parliamentId: string) {
     // Count totals from party data
     const partiesForIds: string[] = [];
     const partiesAgainstIds: string[] = [];
-    let totalFor = 0;
-    let totalAgainst = 0;
 
     for (const v of eventVotes) {
       const partyId = findPartyId(v.partyName);
       if (!partyId) continue;
-
-      const party = parties.find(p => p.id === partyId);
       if (v.direction === 'voor') {
         partiesForIds.push(partyId);
-        // Use seat count as vote weight for party-level votes
       } else {
         partiesAgainstIds.push(partyId);
       }
@@ -398,8 +436,8 @@ async function syncFractiegewijs(parliamentId: string) {
 
     // Create/upsert vote
     try {
-      const existingVote = await prisma.vote.findUnique({ where: { tkId: voteExternalId } });
-      if (!existingVote) {
+      let vote = await prisma.vote.findUnique({ where: { tkId: voteExternalId } });
+      if (!vote) {
         // Create motion if we have a wetsvoorstel
         if (!motionId && first.wetsvoorstelTitle) {
           const motionExternalId = `ek-wv-${first.wetsvoorstelNumber || key}`;
@@ -423,15 +461,15 @@ async function syncFractiegewijs(parliamentId: string) {
           motionId = motion.id;
         }
 
-        await prisma.vote.create({
+        vote = await prisma.vote.create({
           data: {
             tkId: voteExternalId,
             motionId: motionId || null,
             date: new Date(dateStr),
             title: first.wetsvoorstelTitle || `EK stemming ${dateStr}`,
             result: first.result === 'aangenomen' ? 'Aangenomen' : 'Verworpen',
-            totalFor,
-            totalAgainst,
+            totalFor: partiesForIds.length,
+            totalAgainst: partiesAgainstIds.length,
             sourceUrl: `https://www.eerstekamer.nl${first.verslagUrl}`,
             parliamentId,
             rawData: {
@@ -447,6 +485,23 @@ async function syncFractiegewijs(parliamentId: string) {
         });
         createdVotes++;
       }
+
+      // Create VoteRecords for each party in this voting event
+      for (const v of eventVotes) {
+        const partyId = findPartyId(v.partyName);
+        const mpId = partyId ? repMps.get(partyId) : undefined;
+        if (partyId && mpId) {
+          const voteValue = v.direction === 'voor' ? VoteValue.FOR : VoteValue.AGAINST;
+          try {
+            await prisma.voteRecord.upsert({
+              where: { voteId_mpId: { voteId: vote.id, mpId } },
+              update: { voteValue, partyIdSnapshot: partyId },
+              create: { voteId: vote.id, mpId, voteValue, partyIdSnapshot: partyId },
+            });
+            voteRecordsCreated++;
+          } catch { /* skip duplicates */ }
+        }
+      }
     } catch (err) {
       // Skip unique constraint violations
       if (!(err instanceof Error && err.message.includes('Unique constraint'))) {
@@ -455,10 +510,57 @@ async function syncFractiegewijs(parliamentId: string) {
     }
   }
 
-  console.log(`[EK-SYNC] Created ${createdVotes} new votes from fractiegewijs data`);
+  console.log(`[EK-SYNC] Created ${createdVotes} new votes, ${voteRecordsCreated} VoteRecords from fractiegewijs data`);
 }
 
 // ── Helpers ───────────────────────────────────────────────
+
+/**
+ * Get one representative MP per party for VoteRecord creation.
+ * Creates placeholder MPs for parties without any real members.
+ */
+async function getRepresentativeMps(
+  parliamentId: string,
+  parties: Array<{ id: string; abbreviation: string; name: string }>,
+): Promise<Map<string, string>> {
+  const allMps = await prisma.mp.findMany({
+    where: { parliamentId },
+    select: { id: true, partyId: true },
+  });
+
+  const mpByParty = new Map<string, string>();
+  for (const mp of allMps) {
+    if (!mpByParty.has(mp.partyId)) {
+      mpByParty.set(mp.partyId, mp.id);
+    }
+  }
+
+  // Create placeholder MPs for parties without representatives
+  for (const party of parties) {
+    if (mpByParty.has(party.id)) continue;
+    const placeholderTkId = `EK-PLACEHOLDER-${party.abbreviation}`;
+    const existing = await prisma.mp.findFirst({ where: { tkId: placeholderTkId } });
+    if (existing) {
+      mpByParty.set(party.id, existing.id);
+    } else {
+      const mp = await prisma.mp.create({
+        data: {
+          tkId: placeholderTkId,
+          name: `${party.abbreviation} (EK fractie)`,
+          surname: party.abbreviation,
+          partyId: party.id,
+          startDate: new Date('2023-06-13'),
+          parliamentId,
+          sourceSystem: 'eerstekamer-placeholder',
+        },
+      });
+      mpByParty.set(party.id, mp.id);
+      console.log(`  [EK-SYNC] Created placeholder MP for ${party.abbreviation}`);
+    }
+  }
+
+  return mpByParty;
+}
 
 function buildPartyLookup(parties: Array<{ id: string; abbreviation: string; name: string }>) {
   const byAbbr = new Map(parties.map(p => [p.abbreviation.toLowerCase(), p.id]));
