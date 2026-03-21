@@ -103,6 +103,14 @@ enum ParliamentLevel {
   EUROPEAN
 }
 
+enum PartyStatus {
+  ACTIEF        // Active, normal operation
+  GESPLITST     // Split into successor parties
+  ONTBONDEN     // Dissolved / ceased to exist
+  IN_OPRICHTING // Being formed / not yet official
+  FUSIE         // Merged into another party
+}
+
 model Parliament {
   id               String          @id @default(uuid()) @db.Uuid
   slug             String          @unique // "tweede-kamer", "amsterdam", "rotterdam", etc.
@@ -122,8 +130,12 @@ model Parliament {
   motions    Motion[]
   votes      Vote[]
   programs   Program[]
-  scorecards PrecomputedScorecard[]
-  branches   PartyBranch[]
+  scorecards       PrecomputedScorecard[]
+  snapshots        ScorecardSnapshot[]
+  branches         PartyBranch[]
+  formations       Formation[]
+  pollingSnapshots PollingSnapshot[]
+  memberScorecards PrecomputedMemberScorecard[]
 
   @@map("parliaments")
 }
@@ -159,19 +171,30 @@ model Party {
   endDate         DateTime? @map("end_date")
   parliamentId    String?   @map("parliament_id") @db.Uuid
   externalId      String?   @map("external_id") // NotuBiz/iBabs party ID
-  sourceSystem    String?   @map("source_system") // "tweedekamer" | "notubiz" | "ibabs"
-  createdAt       DateTime  @default(now()) @map("created_at")
-  updatedAt       DateTime  @updatedAt @map("updated_at")
+  sourceSystem    String?      @map("source_system") // "tweedekamer" | "notubiz" | "ibabs"
+  partyStatus     PartyStatus  @default(ACTIEF) @map("party_status")
+  statusChangedAt DateTime?    @map("status_changed_at")
+  statusNote      String?      @map("status_note") // Free-text explanation
+  successorPartyId String?     @map("successor_party_id") @db.Uuid
+  atRisk          Boolean      @default(false) @map("at_risk") // Flagged for review (0 seats, etc.)
+  createdAt       DateTime     @default(now()) @map("created_at")
+  updatedAt       DateTime     @updatedAt @map("updated_at")
 
   parliament       Parliament? @relation(fields: [parliamentId], references: [id])
+  successorParty   Party?      @relation("PartySuccessor", fields: [successorPartyId], references: [id])
+  predecessors     Party[]     @relation("PartySuccessor")
   mps              Mp[]
   programs         Program[]
   motionMatches    MotionProgramMatch[]
   voteRecords      VoteRecord[]
   partyPredictions PartyPrediction[]
   scorecards       PrecomputedScorecard[]
+  snapshots        ScorecardSnapshot[]
   localBranches    PartyBranch[] @relation("LocalPartyBranch")
   nationalBranches PartyBranch[] @relation("NationalPartyBranch")
+  formationParticipations FormationParticipant[]
+  pollingSnapshots        PollingSnapshot[]
+  memberScorecards        PrecomputedMemberScorecard[]
 
   @@map("parties")
 }
@@ -200,6 +223,7 @@ model Mp {
   sponsors      MotionSponsor[]
   voteRecords   VoteRecord[]
   consultations Consultation[]  @relation("ConsultationAuthor")
+  memberScorecards PrecomputedMemberScorecard[]
 
   @@map("mps")
 }
@@ -469,6 +493,9 @@ model PromiseMotionMatch {
   matchMethod        String           @map("match_method") // "manual", "keyword-overlap-v2", "semantic-claude"
   algorithmVersion   String?          @map("algorithm_version")
   predictedDirection String?          @map("predicted_direction") // "VOOR" or "TEGEN" — semantic matcher prediction
+  intentionLabel     String?          @map("intention_label") // PRO, CONTRA, NEUTRAL — second-pass intention classification
+  intentionRationale String?          @map("intention_rationale") @db.Text // Why this intention was assigned
+  reviewStatus       String?          @map("review_status") // PENDING_REVIEW, APPROVED, REJECTED — for manual review queue
   reviewedBy         String?          @map("reviewed_by")
   reviewedAt         DateTime?        @map("reviewed_at")
   createdAt          DateTime         @default(now()) @map("created_at")
@@ -586,6 +613,65 @@ model PrecomputedScorecard {
   @@map("precomputed_scorecards")
 }
 
+// ── Scorecard Snapshots (time-series for trend charts) ──────
+
+model ScorecardSnapshot {
+  id               String      @id @default(uuid()) @db.Uuid
+  partyId          String      @map("party_id") @db.Uuid
+  parliamentId     String?     @map("parliament_id") @db.Uuid
+  electionYear     Int         @map("election_year")
+  programType      ProgramType @default(VERKIEZINGSPROGRAMMA) @map("program_type")
+
+  mcs              Float
+  scoredPromises   Int         @map("scored_promises")
+  consistentCount  Int         @map("consistent_count")
+  inconsistentCount Int        @map("inconsistent_count")
+  mixedCount       Int         @map("mixed_count")
+
+  snapshotMonth    DateTime    @map("snapshot_month") @db.Date // First of month, e.g. 2025-01-01
+  algorithmVersion String      @default("semantic-claude-v1") @map("algorithm_version")
+  createdAt        DateTime    @default(now()) @map("created_at")
+
+  party            Party       @relation(fields: [partyId], references: [id])
+  parliament       Parliament? @relation(fields: [parliamentId], references: [id])
+
+  @@unique([partyId, electionYear, programType, snapshotMonth])
+  @@index([parliamentId, snapshotMonth])
+  @@map("scorecard_snapshots")
+}
+
+// ── Precomputed Member Scorecards (for MP ranking) ──────────
+
+model PrecomputedMemberScorecard {
+  id                String   @id @default(uuid()) @db.Uuid
+  mpId              String   @map("mp_id") @db.Uuid
+  partyId           String   @map("party_id") @db.Uuid
+  parliamentId      String   @map("parliament_id") @db.Uuid
+  electionYear      Int      @map("election_year")
+
+  mcs               Float    // Personal MCS (0-100)
+  scoredPromises    Int      @map("scored_promises")
+  consistentCount   Int      @map("consistent_count")
+  inconsistentCount Int      @map("inconsistent_count")
+  mixedCount        Int      @map("mixed_count")
+  partyMcs          Float    @map("party_mcs")
+  divergenceFromParty Float  @map("divergence_from_party")
+  votesAnalyzed     Int      @map("votes_analyzed")
+
+  topAlignedThemes    String[] @map("top_aligned_themes")
+  topMisalignedThemes String[] @map("top_misaligned_themes")
+
+  computedAt        DateTime @default(now()) @map("computed_at")
+
+  mp         Mp         @relation(fields: [mpId], references: [id])
+  party      Party      @relation(fields: [partyId], references: [id])
+  parliament Parliament @relation(fields: [parliamentId], references: [id])
+
+  @@unique([mpId, parliamentId, electionYear])
+  @@index([parliamentId, electionYear, mcs(sort: Desc)])
+  @@map("precomputed_member_scorecards")
+}
+
 // ── Pipeline Runs ────────────────────────────────────────────
 
 enum PipelineStatus {
@@ -614,4 +700,218 @@ model PipelineRun {
   @@index([startedAt(sort: Desc)])
   @@index([status])
   @@map("pipeline_runs")
+}
+
+// ── Polling Snapshots (Peilingwijzer / I&O Research) ───────
+
+model PollingSnapshot {
+  id             String     @id @default(uuid()) @db.Uuid
+  partyId        String     @map("party_id") @db.Uuid
+  parliamentId   String     @map("parliament_id") @db.Uuid
+  source         String     // "peilingwijzer", "io_research", "ipsos"
+  pollDate       DateTime   @map("poll_date") @db.Date
+  seats          Float?     // Projected seats (e.g. 23.5)
+  percentage     Float?     // Vote share percentage
+  createdAt      DateTime   @default(now()) @map("created_at")
+
+  party          Party      @relation(fields: [partyId], references: [id])
+  parliament     Parliament @relation(fields: [parliamentId], references: [id])
+
+  @@unique([partyId, parliamentId, source, pollDate])
+  @@index([parliamentId, pollDate])
+  @@map("polling_snapshots")
+}
+
+// ── Citizen Feedback ────────────────────────────────────────
+
+model Feedback {
+  id           String   @id @default(uuid()) @db.Uuid
+  page         String   // e.g. "/parties/pvv/scorecard"
+  message      String   @db.Text
+  email        String?  // optional contact
+  createdAt    DateTime @default(now()) @map("created_at")
+
+  @@index([createdAt(sort: Desc)])
+  @@map("feedback")
+}
+
+// ── Pillar Infrastructure Tables ────────────────────────────
+
+model PipelineDocument {
+  id              String    @id @default(uuid()) @db.Uuid
+  country         String    // "NL", "universal", "DE"
+  pillar          Int       // 1-5
+  sourceType      String    @map("source_type") // e.g. "coalition_accord", "eu_directive", "lobby_report"
+  sourceUrl       String    @map("source_url")
+  r2Path          String?   @map("r2_path") // r2://civicstat/{country}/{pillar}/{source_type}/{year}/{id}.ext
+  weaviateId      String?   @map("weaviate_id")
+  publicationDate DateTime? @map("publication_date")
+  language        String    @default("nl") // ISO 639-1
+  processedAt     DateTime? @map("processed_at")
+  parliamentSlug  String?   @map("parliament_slug")
+  createdAt       DateTime  @default(now()) @map("created_at")
+  updatedAt       DateTime  @updatedAt @map("updated_at")
+
+  topicClassifications TopicClassification[]
+
+  @@index([country, pillar])
+  @@index([parliamentSlug])
+  @@map("pipeline_documents")
+}
+
+model PillarScore {
+  id             String   @id @default(uuid()) @db.Uuid
+  partySlug      String   @map("party_slug")
+  parliamentSlug String   @map("parliament_slug")
+  pillar         Int      // 1-5
+  topic          String   // MARPOR category code
+  alignmentPct   Float    @map("alignment_pct") // 0-100
+  evidenceCount  Int      @map("evidence_count")
+  computedAt     DateTime @default(now()) @map("computed_at")
+
+  @@unique([partySlug, parliamentSlug, pillar, topic])
+  @@index([parliamentSlug, pillar])
+  @@map("pillar_scores")
+}
+
+enum OrgType {
+  EU_GROUP
+  THINK_TANK
+  LOBBY
+  INTL_ORG
+}
+
+model InfluenceAffiliation {
+  id               String    @id @default(uuid()) @db.Uuid
+  partySlug        String    @map("party_slug")
+  orgName          String    @map("org_name")
+  orgType          OrgType   @map("org_type")
+  affiliationStart DateTime? @map("affiliation_start")
+  affiliationEnd   DateTime? @map("affiliation_end")
+  notes            String?   @db.Text
+  createdAt        DateTime  @default(now()) @map("created_at")
+
+  @@unique([partySlug, orgName])
+  @@index([orgType])
+  @@map("influence_affiliations")
+}
+
+model TopicClassification {
+  id             String @id @default(uuid()) @db.Uuid
+  documentId     String @map("document_id") @db.Uuid
+  marporCategory String @map("marpor_category") // MARPOR category code
+  confidenceScore Float @map("confidence_score") // 0-1
+
+  document PipelineDocument @relation(fields: [documentId], references: [id], onDelete: Cascade)
+
+  @@index([marporCategory])
+  @@map("topic_classifications")
+}
+
+// ── Formatie (Coalition Formation) Tracking ─────────────────
+
+enum FormatiePhase {
+  VERKENNING    // Exploration phase (verkenner appointed)
+  INFORMATIE    // Information phase (informateur appointed)
+  FORMATIE      // Formation phase (formateur appointed)
+  AFGEROND      // Formation completed — coalition formed
+  MISLUKT       // Formation failed
+}
+
+model Formation {
+  id             String        @id @default(uuid()) @db.Uuid
+  parliamentId   String        @map("parliament_id") @db.Uuid
+  electionDate   DateTime      @map("election_date") @db.Date
+  phase          FormatiePhase @default(VERKENNING)
+  currentLeader  String?       @map("current_leader")  // Name of verkenner/informateur/formateur
+  leaderRole     String?       @map("leader_role")      // "verkenner", "informateur", "formateur"
+  notes          String?       @db.Text
+  startedAt      DateTime      @default(now()) @map("started_at")
+  completedAt    DateTime?     @map("completed_at")
+  createdAt      DateTime      @default(now()) @map("created_at")
+  updatedAt      DateTime      @updatedAt @map("updated_at")
+
+  parliament     Parliament    @relation(fields: [parliamentId], references: [id])
+  rounds         FormationRound[]
+  participants   FormationParticipant[]
+
+  @@unique([parliamentId, electionDate])
+  @@index([parliamentId])
+  @@map("formations")
+}
+
+model FormationRound {
+  id           String        @id @default(uuid()) @db.Uuid
+  formationId  String        @map("formation_id") @db.Uuid
+  roundNumber  Int           @map("round_number")
+  phase        FormatiePhase
+  leader       String        // Name of informateur/formateur for this round
+  leaderRole   String        @map("leader_role")
+  startedAt    DateTime      @map("started_at")
+  endedAt      DateTime?     @map("ended_at")
+  outcome      String?       // Brief outcome description
+  notes        String?       @db.Text
+  createdAt    DateTime      @default(now()) @map("created_at")
+  updatedAt    DateTime      @updatedAt @map("updated_at")
+
+  formation    Formation     @relation(fields: [formationId], references: [id], onDelete: Cascade)
+
+  @@unique([formationId, roundNumber])
+  @@map("formation_rounds")
+}
+
+model FormationParticipant {
+  id           String    @id @default(uuid()) @db.Uuid
+  formationId  String    @map("formation_id") @db.Uuid
+  partyId      String    @map("party_id") @db.Uuid
+  status       String    @default("deelnemend") // "deelnemend", "afgehaakt", "uitgenodigd", "geweigerd"
+  joinedAt     DateTime  @default(now()) @map("joined_at")
+  leftAt       DateTime? @map("left_at")
+  notes        String?   @db.Text
+  createdAt    DateTime  @default(now()) @map("created_at")
+  updatedAt    DateTime  @updatedAt @map("updated_at")
+
+  formation    Formation @relation(fields: [formationId], references: [id], onDelete: Cascade)
+  party        Party     @relation(fields: [partyId], references: [id])
+
+  @@unique([formationId, partyId])
+  @@map("formation_participants")
+}
+
+enum UpdateCategory {
+  NIEUWE_DATA
+  NIEUWE_ANALYSE
+  VERBETERING
+  BUGFIX
+}
+
+model PlatformUpdate {
+  id        String          @id @default(uuid()) @db.Uuid
+  title     String          @db.VarChar(255)
+  body      String          @db.Text
+  category  UpdateCategory?
+  linkUrl   String?         @map("link_url") @db.VarChar(512)
+  linkLabel String?         @map("link_label") @db.VarChar(255)
+  publishedAt DateTime      @map("published_at")
+  createdAt   DateTime      @default(now()) @map("created_at")
+  updatedAt   DateTime      @updatedAt @map("updated_at")
+
+  @@index([publishedAt(sort: Desc)])
+  @@map("platform_updates")
+}
+
+model ApiKey {
+  id          String    @id @default(uuid()) @db.Uuid
+  key         String    @unique @db.VarChar(64)
+  name        String    @db.VarChar(255)
+  email       String    @db.VarChar(255)
+  rateLimit   Int       @default(1000) @map("rate_limit")
+  active      Boolean   @default(true)
+  lastUsedAt  DateTime? @map("last_used_at")
+  createdAt   DateTime  @default(now()) @map("created_at")
+  expiresAt   DateTime? @map("expires_at")
+
+  @@index([key])
+  @@index([email])
+  @@map("api_keys")
 }
