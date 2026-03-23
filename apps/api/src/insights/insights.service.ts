@@ -104,6 +104,36 @@ interface ElectionAnalysisEntry {
   topFinding: string | null;
 }
 
+interface ThemaAuditEntry {
+  theme: string;
+  motionCount: number;
+  promiseCount: number;
+  matchedPromises: number;
+  coverageRatio: number;
+  gap: string;
+}
+
+interface DefensieTrackerPromise {
+  promiseId: string;
+  text: string;
+  summary: string;
+  theme: string;
+  matchCount: number;
+  alignedVotes: number;
+  opposedVotes: number;
+  status: "consistent" | "inconsistent" | "mixed" | "insufficient_data";
+}
+
+interface DefensieTrackerEntry {
+  coalitionName: string;
+  programTitle: string;
+  totalDefensePromises: number;
+  scoredPromises: number;
+  overallMcs: number;
+  promises: DefensieTrackerPromise[];
+  recentMotions: { id: string; title: string; date: string; result: string | null }[];
+}
+
 interface BelofteVanDeWeekEntry {
   weekNumber: number;
   year: number;
@@ -123,6 +153,19 @@ interface BelofteVanDeWeekEntry {
   toelichting: string;
   parliamentSlug: string;
   parliamentName: string;
+  evidence: BelofteEvidence[];
+  keywordHits: string[];
+  salienceScore: number;
+}
+
+interface BelofteEvidence {
+  motionId: string;
+  motionTitle: string;
+  motionDate: string;
+  voteResult: string;
+  matchType: string;
+  confidence: number;
+  partyVote: string;
 }
 
 @Injectable()
@@ -892,7 +935,7 @@ export class InsightsService {
 
   // ─── 11. Belofte van de Week ────────────────────────────────
 
-  async getBelofteVanDeWeek(): Promise<BelofteVanDeWeekEntry | null> {
+  async getBelofteVanDeWeek(keywords?: string[]): Promise<BelofteVanDeWeekEntry | null> {
     // Look back up to 90 days to find the most newsworthy promise-vote finding
     const lookbackDays = 90;
     const since = new Date(Date.now() - lookbackDays * 24 * 60 * 60 * 1000);
@@ -903,6 +946,9 @@ export class InsightsService {
     const weekNumber = Math.ceil(
       ((now.getTime() - startOfYear.getTime()) / 86400000 + startOfYear.getDay() + 1) / 7,
     );
+
+    // Normalize keywords for case-insensitive matching
+    const normalizedKeywords = (keywords ?? []).map((k) => k.toLowerCase().trim()).filter(Boolean);
 
     // Find recent votes that have promise-motion matches AND party-level data
     const recentVotes = await prisma.vote.findMany({
@@ -1003,6 +1049,8 @@ export class InsightsService {
       vote: (typeof recentVotes)[0];
       match: NonNullable<(typeof recentVotes)[0]["motion"]>["promiseMatches"][0];
       status: "nagekomen" | "geschonden" | "gemengd";
+      partyVote: string;
+      keywordHits: string[];
     }
 
     const candidates: Candidate[] = [];
@@ -1052,23 +1100,74 @@ export class InsightsService {
         const ageDays = ageMs / (24 * 60 * 60 * 1000);
         score *= 1 + Math.max(0, 1 - ageDays / lookbackDays);
 
-        candidates.push({ score, vote, match, status });
+        // News keyword boosting: match keywords against promise text, summary, motion title, theme
+        const keywordHits: string[] = [];
+        if (normalizedKeywords.length > 0) {
+          const searchableText = [
+            match.promise.text,
+            match.promise.summary,
+            vote.motion.title,
+            match.promise.theme,
+          ].join(" ").toLowerCase();
+
+          for (const kw of normalizedKeywords) {
+            if (searchableText.includes(kw)) {
+              keywordHits.push(kw);
+            }
+          }
+          // Boost 2x per keyword hit (compounding: 1 hit = 2x, 2 hits = 4x, etc.)
+          if (keywordHits.length > 0) {
+            score *= Math.pow(2, keywordHits.length);
+          }
+        }
+
+        candidates.push({ score, vote, match, status, partyVote, keywordHits });
       }
     }
 
     if (candidates.length === 0) {
-      // Fallback: no recent findings, return null (serializes as empty 200)
       return null;
     }
 
     // Pick the best candidate
     candidates.sort((a, b) => b.score - a.score);
-    const best = candidates[0];
+
+    // Weekly rotation: use week number as offset to avoid showing the same promise every week
+    // Only rotate among top candidates with scores within 50% of the best
+    const topScore = candidates[0].score;
+    const viablePool = candidates.filter((c) => c.score >= topScore * 0.5);
+    const rotationIndex = (weekNumber + now.getFullYear()) % viablePool.length;
+    const best = viablePool[rotationIndex];
+
     const party = best.match.promise.program.party;
     const parliament = best.vote.motion!.parliament;
 
+    // Collect evidence: all matching motions for this promise
+    const evidence: BelofteEvidence[] = [];
+    for (const c of candidates) {
+      if (c.match.promise.id === best.match.promise.id && c.match.promise.program.party.id === party.id) {
+        evidence.push({
+          motionId: c.vote.motion!.id,
+          motionTitle: c.vote.motion!.title,
+          motionDate: c.vote.motion!.dateIntroduced
+            ? new Date(c.vote.motion!.dateIntroduced).toISOString().split("T")[0]
+            : c.vote.date?.toISOString().split("T")[0] ?? "",
+          voteResult: c.vote.result ?? "",
+          matchType: c.match.matchType,
+          confidence: c.match.confidence,
+          partyVote: c.partyVote,
+        });
+      }
+    }
+    // Deduplicate evidence by motionId
+    const seenMotionIds = new Set<string>();
+    const uniqueEvidence = evidence.filter((e) => {
+      if (seenMotionIds.has(e.motionId)) return false;
+      seenMotionIds.add(e.motionId);
+      return true;
+    });
+
     // Generate neutral Dutch explanation
-    const statusNl = best.status === "nagekomen" ? "nagekomen" : best.status === "geschonden" ? "geschonden" : "gemengd";
     const actionNl = best.status === "nagekomen"
       ? `stemde in lijn met deze belofte`
       : `stemde tegen deze belofte`;
@@ -1094,10 +1193,212 @@ export class InsightsService {
       voteResult: best.vote.result ?? "",
       matchType: best.match.matchType,
       confidence: best.match.confidence,
-      status: statusNl,
+      status: best.status,
       toelichting,
       parliamentSlug: parliament?.slug ?? "tweede-kamer",
       parliamentName: parliament?.name ?? "Tweede Kamer",
+      evidence: uniqueEvidence,
+      keywordHits: best.keywordHits,
+      salienceScore: Math.round(best.score * 100) / 100,
+    };
+  }
+
+  // ─── Thema Audit ─────────────────────────────────────────────
+  // Identifies themes with high motion volume but low promise coverage
+
+  async getThemaAudit(): Promise<ThemaAuditEntry[]> {
+    const tkParliament = await prisma.parliament.findUnique({ where: { slug: "tweede-kamer" } });
+    if (!tkParliament) return [];
+
+    // Theme keywords for motion classification
+    const themeKeywords: Record<string, string[]> = {
+      DEFENSIE: ["defensie", "navo", "nato", "krijgsmacht", "militair", "artikel 100", "leger"],
+      BUITENLAND: ["buitenlandse zaken", "midden-oosten", "iran", "europa", "eu ", "ambassad", "diplomati", "verdrag"],
+      MIGRATIE: ["migratie", "asiel", "vreemdeling", "ivb", "immigratie", "opvang"],
+      KLIMAAT: ["klimaat", "energie", "duurzaam", "co2", "emissie", "windenergie", "kernenergie"],
+      ZORG: ["zorg", "gezondheidszorg", "ggz", "ziekenhuis", "medicijn", "eigen risico"],
+      ONDERWIJS: ["onderwijs", "school", "universiteit", "student", "leraar", "hoger onderwijs"],
+      WONEN: ["wonen", "woningbouw", "huur", "koopwoning", "volkshuisvesting"],
+      VEILIGHEID: ["politie", "justitie", "criminaliteit", "veiligheid", "terrorisme", "strafrecht"],
+      ECONOMIE: ["economie", "belasting", "mkb", "koopkracht", "inflatie", "begroting"],
+      SOCIAAL: ["sociaal", "bijstand", "uitkering", "werkgelegenheid", "arbeid", "pensioen"],
+    };
+
+    const results: ThemaAuditEntry[] = [];
+
+    for (const [theme, keywords] of Object.entries(themeKeywords)) {
+      // Count motions matching theme keywords in title
+      const orClauses = keywords.map((kw) => ({ title: { contains: kw, mode: "insensitive" as const } }));
+      const motionCount = await prisma.motion.count({
+        where: { parliamentId: tkParliament.id, OR: orClauses },
+      });
+
+      // Count promises for this theme
+      const promiseCount = await prisma.promise.count({
+        where: { theme: theme as any, program: { parliamentId: tkParliament.id } },
+      });
+
+      // Count promises with matches
+      const matchedPromises = await prisma.promise.count({
+        where: {
+          theme: theme as any,
+          program: { parliamentId: tkParliament.id },
+          motionMatches: { some: {} },
+        },
+      });
+
+      const coverageRatio = motionCount > 0 ? Math.round((promiseCount / motionCount) * 100) / 100 : 0;
+      const gap = motionCount > promiseCount * 2 ? "groot" : motionCount > promiseCount ? "matig" : "klein";
+
+      results.push({ theme, motionCount, promiseCount, matchedPromises, coverageRatio, gap });
+    }
+
+    return results.sort((a, b) => a.coverageRatio - b.coverageRatio);
+  }
+
+  // ─── Defensie Tracker ────────────────────────────────────────
+  // Tracks Kabinet-Jetten regeerakkoord defense promises with voting evidence
+
+  async getDefensieTracker(): Promise<DefensieTrackerEntry | null> {
+    const activeCoalition = COALITIONS.find((c) => !c.endDate);
+    if (!activeCoalition) return null;
+
+    // Find regeerakkoord program for a coalition party
+    const regeerPrograms = await prisma.program.findMany({
+      where: { programType: "REGEERAKKOORD" },
+      select: { id: true, title: true, party: { select: { abbreviation: true } } },
+      orderBy: { electionYear: "desc" },
+    });
+
+    // Prefer the active coalition's regeerakkoord
+    const coalitionRegeer = regeerPrograms.find((p) =>
+      activeCoalition.parties.includes(p.party.abbreviation),
+    ) ?? regeerPrograms[0];
+
+    if (!coalitionRegeer) return null;
+
+    // Get all defense/buitenland promises from this regeerakkoord
+    const promises = await prisma.promise.findMany({
+      where: {
+        programId: coalitionRegeer.id,
+        theme: { in: ["DEFENSIE", "BUITENLAND"] },
+      },
+      include: {
+        motionMatches: {
+          where: { confidence: { gte: 0.3 } },
+          include: {
+            motion: {
+              select: {
+                id: true,
+                title: true,
+                dateIntroduced: true,
+                votes: {
+                  select: {
+                    id: true,
+                    result: true,
+                    records: {
+                      select: { voteValue: true, partyIdSnapshot: true },
+                    },
+                  },
+                  take: 1,
+                },
+              },
+            },
+          },
+        },
+      },
+    });
+
+    // Get coalition party IDs
+    const tkParliament = await prisma.parliament.findUnique({ where: { slug: "tweede-kamer" } });
+    const coalitionParties = tkParliament
+      ? await prisma.party.findMany({
+          where: { abbreviation: { in: activeCoalition.parties }, parliamentId: tkParliament.id },
+          select: { id: true, abbreviation: true },
+        })
+      : [];
+    const coalitionPartyIds = new Set(coalitionParties.map((p) => p.id));
+
+    let totalAligned = 0;
+    let totalOpposed = 0;
+    let scoredCount = 0;
+
+    const trackedPromises: DefensieTrackerPromise[] = promises.map((promise) => {
+      let aligned = 0;
+      let opposed = 0;
+
+      for (const match of promise.motionMatches) {
+        const vote = match.motion.votes[0];
+        if (!vote?.records?.length) continue;
+
+        // Count coalition party votes
+        for (const record of vote.records) {
+          if (!coalitionPartyIds.has(record.partyIdSnapshot)) continue;
+          const expected = promise.expectedVoteDirection?.toUpperCase() === "FOR" || promise.expectedVoteDirection?.toUpperCase() === "VOOR" ? "FOR" : "AGAINST";
+          const isContradicts = match.matchType === "CONTRADICTS";
+          const isAligned = isContradicts
+            ? record.voteValue === "AGAINST"
+            : record.voteValue === expected;
+          if (isAligned) aligned++;
+          else if (record.voteValue === "FOR" || record.voteValue === "AGAINST") opposed++;
+        }
+      }
+
+      const total = aligned + opposed;
+      let status: DefensieTrackerPromise["status"] = "insufficient_data";
+      if (total >= 3) {
+        const ratio = aligned / total;
+        status = ratio >= 0.7 ? "consistent" : ratio <= 0.3 ? "inconsistent" : "mixed";
+        scoredCount++;
+        totalAligned += aligned;
+        totalOpposed += opposed;
+      }
+
+      return {
+        promiseId: promise.id,
+        text: promise.text,
+        summary: promise.summary,
+        theme: promise.theme,
+        matchCount: promise.motionMatches.length,
+        alignedVotes: aligned,
+        opposedVotes: opposed,
+        status,
+      };
+    });
+
+    const overallMcs = totalAligned + totalOpposed > 0
+      ? Math.round((totalAligned / (totalAligned + totalOpposed)) * 100)
+      : 0;
+
+    // Recent defense/buitenland motions
+    const recentMotions = await prisma.motion.findMany({
+      where: {
+        parliamentId: tkParliament?.id,
+        OR: [
+          { title: { contains: "defensie", mode: "insensitive" } },
+          { title: { contains: "Midden-Oosten", mode: "insensitive" } },
+          { title: { contains: "NAVO", mode: "insensitive" } },
+          { title: { contains: "buitenlandse zaken", mode: "insensitive" } },
+        ],
+      },
+      select: { id: true, title: true, dateIntroduced: true, result: true },
+      orderBy: { dateIntroduced: "desc" },
+      take: 10,
+    });
+
+    return {
+      coalitionName: activeCoalition.name,
+      programTitle: coalitionRegeer.title,
+      totalDefensePromises: promises.length,
+      scoredPromises: scoredCount,
+      overallMcs,
+      promises: trackedPromises.sort((a, b) => b.matchCount - a.matchCount),
+      recentMotions: recentMotions.map((m) => ({
+        id: m.id,
+        title: m.title,
+        date: m.dateIntroduced?.toISOString().split("T")[0] ?? "",
+        result: m.result,
+      })),
     };
   }
 }
