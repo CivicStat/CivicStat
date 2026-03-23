@@ -11,6 +11,7 @@ import { PartiesService } from "./parties.service";
 import { PartiesScorecardService } from "./parties-scorecard.service";
 import { CoalitionDynamicsService } from "../coalitions/coalition-dynamics.service";
 import { MembersService } from "../members/members.service";
+import { ParliamentService } from "../parliament/parliament.service";
 
 @ApiTags("parties")
 @Controller("parties")
@@ -20,12 +21,15 @@ export class PartiesController {
     private readonly scorecardService: PartiesScorecardService,
     private readonly coalitionDynamicsService: CoalitionDynamicsService,
     private readonly membersService: MembersService,
+    private readonly parliamentService: ParliamentService,
   ) {}
 
   @ApiOperation({ summary: "List all parties" })
   @Get()
   async list() {
-    return this.partiesService.list();
+    // Default to Tweede Kamer to prevent cross-parliament data leaking
+    const parliamentId = await this.parliamentService.resolveParliamentId("tweede-kamer");
+    return this.partiesService.list({ parliamentId });
   }
 
   // ─── Scorecard endpoints ──────────────────────────────────
@@ -98,6 +102,26 @@ export class PartiesController {
     }
   }
 
+  /** GET /parties/:id/scorecard/by-theme?year=2025 */
+  @ApiOperation({ summary: "Per-theme MCS breakdown for a party", description: "Returns MCS scores broken down by PromiseTheme, showing which policy areas a party is most/least consistent on." })
+  @ApiParam({ name: "id", description: "Party abbreviation (e.g. VVD, D66, PVV)" })
+  @ApiQuery({ name: "year", required: false })
+  @Get(":id/scorecard/by-theme")
+  async scorecardByTheme(
+    @Param("id") id: string,
+    @Query("year") year?: string,
+  ) {
+    try {
+      return await this.scorecardService.getThematicScorecard(id, {
+        electionYear: year ? parseInt(year) : undefined,
+      });
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Thematic scorecard failed for ${id}:`, err);
+      throw new InternalServerErrorException("Thematic scorecard computation failed");
+    }
+  }
+
   /** GET /parties/:id/koersvastheid?years=2023,2025 */
   @ApiOperation({ summary: "Cross-year consistency (koersvastheid) for a party", description: "Measures how consistently a party votes in line with its own promises across different election cycles." })
   @ApiParam({ name: "id", description: "Party abbreviation" })
@@ -116,6 +140,26 @@ export class PartiesController {
       if (err instanceof NotFoundException) throw err;
       console.error(`Koersvastheid computation failed for ${id}:`, err);
       throw new InternalServerErrorException("Koersvastheid computation failed");
+    }
+  }
+
+  /** GET /parties/:id/o-mcs?year=2025 — Opposition-corrected MCS */
+  @ApiOperation({ summary: "Opposition-corrected MCS (O-MCS) for fair coalition/opposition comparison", description: "Excludes coalition-whipped votes (where all coalition parties voted identically) to produce a fairer comparison of voting consistency between coalition and opposition parties." })
+  @ApiParam({ name: "id", description: "Party abbreviation or ID" })
+  @ApiQuery({ name: "year", required: false })
+  @Get(":id/o-mcs")
+  async oppositionCorrectedMCS(
+    @Param("id") id: string,
+    @Query("year") year?: string,
+  ) {
+    try {
+      return await this.scorecardService.getOppositionCorrectedMCS(id, {
+        electionYear: year ? parseInt(year) : undefined,
+      });
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`O-MCS computation failed for ${id}:`, err);
+      throw new InternalServerErrorException("O-MCS computation failed");
     }
   }
 

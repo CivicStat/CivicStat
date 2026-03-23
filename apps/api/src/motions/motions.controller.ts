@@ -2,6 +2,7 @@ import { Controller, Get, Param, Query } from "@nestjs/common";
 import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { MotionsService } from "./motions.service";
 import { PredictionsService } from "../predictions/predictions.service";
+import { ParliamentService } from "../parliament/parliament.service";
 
 @ApiTags("motions")
 @Controller("motions")
@@ -9,6 +10,7 @@ export class MotionsController {
   constructor(
     private readonly motionsService: MotionsService,
     private readonly predictionsService: PredictionsService,
+    private readonly parliamentService: ParliamentService,
   ) {}
 
   @ApiOperation({ summary: "List parliamentary motions (Tweede Kamer)" })
@@ -36,6 +38,9 @@ export class MotionsController {
     const parsedLimit = Math.min(Number(limit ?? 20), 100);
     const parsedOffset = Math.max(Number(offset ?? 0), 0);
 
+    // Default to Tweede Kamer to prevent cross-parliament data leaking
+    const parliamentId = await this.parliamentService.resolveParliamentId("tweede-kamer");
+
     return this.motionsService.list({
       query: q,
       party,
@@ -46,6 +51,7 @@ export class MotionsController {
       hasPromiseMatches: hasPromiseMatches === "true" ? true : hasPromiseMatches === "false" ? false : undefined,
       limit: Number.isNaN(parsedLimit) ? 20 : parsedLimit,
       offset: Number.isNaN(parsedOffset) ? 0 : parsedOffset,
+      parliamentId,
     });
   }
 

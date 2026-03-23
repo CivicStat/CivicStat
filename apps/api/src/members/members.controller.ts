@@ -2,6 +2,7 @@ import { Controller, Get, Param, Query } from "@nestjs/common";
 import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { MembersService } from "./members.service";
 import { MemberScorecardService } from "./member-scorecard.service";
+import { ParliamentService } from "../parliament/parliament.service";
 
 @ApiTags("members")
 @Controller("members")
@@ -9,6 +10,7 @@ export class MembersController {
   constructor(
     private readonly membersService: MembersService,
     private readonly scorecardService: MemberScorecardService,
+    private readonly parliamentService: ParliamentService,
   ) {}
 
   @ApiOperation({ summary: "List members of parliament (Kamerleden)" })
@@ -21,10 +23,13 @@ export class MembersController {
     @Query("party") party?: string,
     @Query("active") active?: string
   ) {
+    // Default to Tweede Kamer to prevent cross-parliament data leaking
+    const parliamentId = await this.parliamentService.resolveParliamentId("tweede-kamer");
     return this.membersService.list({
       q,
       party,
       active: active !== "false", // Default true
+      parliamentId,
     });
   }
 
@@ -48,6 +53,23 @@ export class MembersController {
     });
   }
 
+  @ApiOperation({ summary: "Rebel MP leaderboard — ranked by party deviation rate" })
+  @ApiQuery({ name: "minVotes", required: false, description: "Min votes threshold (default: 20)" })
+  @ApiQuery({ name: "limit", required: false, description: "Max results (default: 50)" })
+  @Get("rebels")
+  async rebels(
+    @Query("minVotes") minVotes?: string,
+    @Query("limit") limit?: string,
+  ) {
+    // Default to Tweede Kamer to prevent cross-parliament data leaking
+    const parliamentId = await this.parliamentService.resolveParliamentId("tweede-kamer");
+    return this.membersService.getRebels({
+      parliamentId,
+      minVotes: minVotes ? Number(minVotes) : undefined,
+      limit: limit ? Number(limit) : undefined,
+    });
+  }
+
   @ApiOperation({ summary: "Get MP detail" })
   @ApiParam({ name: "id", description: "MP ID" })
   @Get(":id")
@@ -66,6 +88,22 @@ export class MembersController {
     @Query("offset") offset?: string,
   ) {
     return this.membersService.getVotingRecord(id, {
+      limit: limit ? Number(limit) : undefined,
+      offset: offset ? Number(offset) : undefined,
+    });
+  }
+
+  @ApiOperation({ summary: "Get all votes where MP deviated from party line" })
+  @ApiParam({ name: "id", description: "MP ID" })
+  @ApiQuery({ name: "limit", required: false })
+  @ApiQuery({ name: "offset", required: false })
+  @Get(":id/deviations")
+  async deviations(
+    @Param("id") id: string,
+    @Query("limit") limit?: string,
+    @Query("offset") offset?: string,
+  ) {
+    return this.membersService.getMemberDeviations(id, {
       limit: limit ? Number(limit) : undefined,
       offset: offset ? Number(offset) : undefined,
     });

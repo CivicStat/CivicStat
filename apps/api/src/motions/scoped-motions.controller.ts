@@ -1,4 +1,4 @@
-import { Controller, Get, Param, Query } from "@nestjs/common";
+import { Controller, Get, NotFoundException, Param, Query } from "@nestjs/common";
 import { ApiOperation, ApiParam, ApiQuery, ApiTags } from "@nestjs/swagger";
 import { MotionsService } from "./motions.service";
 import { ParliamentService } from "../parliament/parliament.service";
@@ -65,7 +65,11 @@ export class ScopedMotionsController {
   @ApiParam({ name: "id", description: "Motion ID" })
   @Get(":id")
   async get(@Param("slug") slug: string, @Param("id") id: string) {
-    await this.parliamentService.findBySlug(slug);
-    return this.motionsService.get(id);
+    const parliament = await this.parliamentService.findBySlug(slug);
+    const motion = await this.motionsService.get(id);
+    if (motion.parliamentId && motion.parliamentId !== parliament.id) {
+      throw new NotFoundException("Motion not found");
+    }
+    return motion;
   }
 }
