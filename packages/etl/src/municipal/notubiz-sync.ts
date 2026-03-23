@@ -16,6 +16,24 @@ const prisma = new PrismaClient();
 
 const SLEEP_MS = 200; // Be polite to the API
 
+// ── Party name normalization ─────────────────────────────────
+// NotuBiz sometimes uses different names for the same party across meetings.
+// Map variants → canonical abbreviation to prevent duplicate party records.
+const PARTY_NAME_CANONICAL: Record<string, string> = {
+  "Forum voor Democratie": "Forum voor Democratie",
+  "FvD": "Forum voor Democratie",
+  "fvd": "Forum voor Democratie",
+  "GL-PvdA": "GroenLinks-PvdA",
+  "GL/PvdA": "GroenLinks-PvdA",
+  "PvdD": "Partij voor de Dieren",
+  "CU-SGP": "ChristenUnie-SGP",
+  "ChristenUnie/SGP": "ChristenUnie-SGP",
+};
+
+function normalizePartyName(raw: string): string {
+  return PARTY_NAME_CANONICAL[raw] ?? raw;
+}
+
 // ── CLI args ───────────────────────────────────────────────
 
 function parseArgs() {
@@ -83,13 +101,16 @@ async function syncNotubizImpl(parliamentSlug: string, dateFrom: string, dateTo:
   const from = new Date(dateFrom);
   const to = new Date(dateTo + "T23:59:59Z");
 
+  const isProvincial = parliament.level === "PROVINCIAL";
+  const meetingLabel = isProvincial ? "Provinciale Staten" : "Raad";
+
   console.log(`\n🏛️  Syncing ${parliament.shortName} from NotuBiz (orgId=${config.orgId})`);
   console.log(`📅  Date range: ${dateFrom} → ${dateTo}\n`);
 
-  // Step 1: Find all Raad meetings
-  console.log("Step 1: Fetching Raad meetings...");
-  const raadMeetings = await client.getRaadMeetings(from, to);
-  console.log(`  Found ${raadMeetings.length} Raad meetings`);
+  // Step 1: Find all plenary meetings
+  console.log(`Step 1: Fetching ${meetingLabel} meetings...`);
+  const raadMeetings = await client.getPlenaryMeetings(from, to, isProvincial ? "PROVINCIAL" : "MUNICIPAL");
+  console.log(`  Found ${raadMeetings.length} ${meetingLabel} meetings`);
 
   let totalMoties = 0;
   let totalNew = 0;
@@ -134,12 +155,12 @@ async function syncNotubizImpl(parliamentSlug: string, dateFrom: string, dateTo:
 
         totalMoties++;
 
-        // Track parties and people
+        // Track parties and people (normalize to prevent duplicates)
         for (const p of motie.parties) {
-          partyNames.add(p.name);
+          partyNames.add(normalizePartyName(p.name));
         }
         for (const s of motie.submitters) {
-          const partyName = motie.parties[0]?.name || "Onbekend";
+          const partyName = normalizePartyName(motie.parties[0]?.name || "Onbekend");
           personNames.set(s.personId, { name: s.name, partyName });
         }
 
