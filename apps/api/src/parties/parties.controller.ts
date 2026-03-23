@@ -277,6 +277,39 @@ export class PartiesController {
     }
   }
 
+  // ─── Partijautopsie ─────────────────────────────────────
+
+  /** GET /parties/:id/autopsy?year=2023 — full party post-mortem for parties in severe decline */
+  @ApiOperation({ summary: "Partijautopsie — full post-mortem for a party in decline", description: "Aggregates MCS scorecard, top broken promises, theme breakdown, MP departures, and coalition history into a single autopsy view. Reusable template for any party in severe decline or dissolution." })
+  @ApiParam({ name: "id", description: "Party abbreviation (e.g. NSC, BBB)" })
+  @ApiQuery({ name: "year", required: false, description: "Election year (default 2023)" })
+  @Get(":id/autopsy")
+  async autopsy(
+    @Param("id") id: string,
+    @Query("year") year?: string,
+  ) {
+    try {
+      const electionYear = year ? parseInt(year) : 2023;
+
+      // Fetch full scorecard (reuse existing MCS engine)
+      let scorecard: any = null;
+      try {
+        scorecard = await this.scorecardService.getScorecard(id, { electionYear });
+      } catch {
+        // No scorecard available — autopsy will proceed without belofte-balans
+      }
+
+      return await this.partiesService.getAutopsy(id, {
+        electionYear,
+        scorecard,
+      });
+    } catch (err) {
+      if (err instanceof NotFoundException) throw err;
+      console.error(`Autopsy computation failed for ${id}:`, err);
+      throw new InternalServerErrorException("Autopsy computation failed");
+    }
+  }
+
   // ─── Rebel / deviation detection ─────────────────────────
 
   /** GET /parties/:id/rebels?minVotes=20 */
