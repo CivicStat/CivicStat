@@ -47,7 +47,7 @@ export class StatsService {
         },
       }),
       prisma.party.count({
-        where: params?.parliamentId ? pFilter : { seats: { gt: 0 } },
+        where: { ...pFilter, seats: { gt: 0 } },
       }),
       prisma.mp.count({ where: pFilter }),
       prisma.program.count({ where: pFilter }),
